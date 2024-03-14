@@ -47,9 +47,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -62,9 +60,7 @@ let pop5 = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/1.png",
             "large": "https://images.pokemontcg.io/pop5/1_hires.png"
@@ -117,9 +113,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -132,9 +126,7 @@ let pop5 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/2.png",
             "large": "https://images.pokemontcg.io/pop5/2_hires.png"
@@ -184,9 +176,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -199,9 +189,7 @@ let pop5 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/3.png",
             "large": "https://images.pokemontcg.io/pop5/3_hires.png"
@@ -223,9 +211,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -235,9 +221,7 @@ let pop5 = [
         "number": "4",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/4.png",
             "large": "https://images.pokemontcg.io/pop5/4_hires.png"
@@ -294,9 +278,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -309,9 +291,7 @@ let pop5 = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/5.png",
             "large": "https://images.pokemontcg.io/pop5/5_hires.png"
@@ -334,9 +314,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -346,10 +324,7 @@ let pop5 = [
         "number": "6",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/6.png",
             "large": "https://images.pokemontcg.io/pop5/6_hires.png"
@@ -368,9 +343,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -380,11 +353,7 @@ let pop5 = [
         "number": "7",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/7.png",
             "large": "https://images.pokemontcg.io/pop5/7_hires.png"
@@ -406,9 +375,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -418,9 +385,7 @@ let pop5 = [
         "number": "8",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/8.png",
             "large": "https://images.pokemontcg.io/pop5/8_hires.png"
@@ -442,9 +407,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -454,9 +417,7 @@ let pop5 = [
         "number": "9",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/9.png",
             "large": "https://images.pokemontcg.io/pop5/9_hires.png"
@@ -510,9 +471,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -525,9 +484,7 @@ let pop5 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/10.png",
             "large": "https://images.pokemontcg.io/pop5/10_hires.png"
@@ -571,9 +528,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -586,9 +541,7 @@ let pop5 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/11.png",
             "large": "https://images.pokemontcg.io/pop5/11_hires.png"
@@ -643,9 +596,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -658,9 +609,7 @@ let pop5 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/12.png",
             "large": "https://images.pokemontcg.io/pop5/12_hires.png"
@@ -714,9 +663,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -729,9 +676,7 @@ let pop5 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/13.png",
             "large": "https://images.pokemontcg.io/pop5/13_hires.png"
@@ -787,9 +732,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -802,9 +745,7 @@ let pop5 = [
         "nationalPokedexNumbers": [
             279
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/14.png",
             "large": "https://images.pokemontcg.io/pop5/14_hires.png"
@@ -856,9 +797,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -871,9 +810,7 @@ let pop5 = [
         "nationalPokedexNumbers": [
             335
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/15.png",
             "large": "https://images.pokemontcg.io/pop5/15_hires.png"
@@ -927,9 +864,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -942,9 +877,7 @@ let pop5 = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/16.png",
             "large": "https://images.pokemontcg.io/pop5/16_hires.png"
@@ -1003,9 +936,7 @@ let pop5 = [
             "series": "POP",
             "printedTotal": 17,
             "total": 17,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2007/03/01",
             "images": {
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
@@ -1018,9 +949,7 @@ let pop5 = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pop5/17.png",
             "large": "https://images.pokemontcg.io/pop5/17_hires.png"

@@ -54,10 +54,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -72,10 +69,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             387
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/1.png",
             "large": "https://images.pokemontcg.io/bw8/1_hires.png"
@@ -128,10 +122,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -146,10 +137,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             388
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/2.png",
             "large": "https://images.pokemontcg.io/bw8/2_hires.png"
@@ -212,10 +200,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -230,10 +215,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             389
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/3.png",
             "large": "https://images.pokemontcg.io/bw8/3_hires.png"
@@ -277,10 +259,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -295,10 +274,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             415
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/4.png",
             "large": "https://images.pokemontcg.io/bw8/4_hires.png"
@@ -350,10 +326,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -368,10 +341,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             416
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/5.png",
             "large": "https://images.pokemontcg.io/bw8/5_hires.png"
@@ -421,10 +391,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -439,10 +406,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             420
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/6.png",
             "large": "https://images.pokemontcg.io/bw8/6_hires.png"
@@ -498,10 +462,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -516,10 +477,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             421
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/7.png",
             "large": "https://images.pokemontcg.io/bw8/7_hires.png"
@@ -563,10 +521,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -581,10 +536,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             540
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/8.png",
             "large": "https://images.pokemontcg.io/bw8/8_hires.png"
@@ -639,10 +591,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -657,10 +606,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             541
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/9.png",
             "large": "https://images.pokemontcg.io/bw8/9_hires.png"
@@ -714,10 +660,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -732,10 +675,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             542
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/10.png",
             "large": "https://images.pokemontcg.io/bw8/10_hires.png"
@@ -792,10 +732,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -810,10 +747,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             556
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/11.png",
             "large": "https://images.pokemontcg.io/bw8/11_hires.png"
@@ -863,10 +797,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -881,10 +812,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             590
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/12.png",
             "large": "https://images.pokemontcg.io/bw8/12_hires.png"
@@ -943,10 +871,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -961,10 +886,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             591
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/13.png",
             "large": "https://images.pokemontcg.io/bw8/13_hires.png"
@@ -1029,10 +951,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1046,10 +965,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/14.png",
             "large": "https://images.pokemontcg.io/bw8/14_hires.png"
@@ -1093,10 +1009,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1111,10 +1024,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             390
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/15.png",
             "large": "https://images.pokemontcg.io/bw8/15_hires.png"
@@ -1169,10 +1079,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1187,10 +1094,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             391
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/16.png",
             "large": "https://images.pokemontcg.io/bw8/16_hires.png"
@@ -1242,10 +1146,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1260,10 +1161,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             392
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/17.png",
             "large": "https://images.pokemontcg.io/bw8/17_hires.png"
@@ -1319,10 +1217,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1336,10 +1231,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/18.png",
             "large": "https://images.pokemontcg.io/bw8/18_hires.png"
@@ -1395,10 +1287,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1413,10 +1302,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             513
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/19.png",
             "large": "https://images.pokemontcg.io/bw8/19_hires.png"
@@ -1469,10 +1355,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1487,10 +1370,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             514
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/20.png",
             "large": "https://images.pokemontcg.io/bw8/20_hires.png"
@@ -1534,10 +1414,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1552,10 +1429,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             607
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/21.png",
             "large": "https://images.pokemontcg.io/bw8/21_hires.png"
@@ -1608,10 +1482,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1626,10 +1497,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             608
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/22.png",
             "large": "https://images.pokemontcg.io/bw8/22_hires.png"
@@ -1681,10 +1549,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1699,10 +1564,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             631
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/23.png",
             "large": "https://images.pokemontcg.io/bw8/23_hires.png"
@@ -1746,10 +1608,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1764,10 +1623,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/24.png",
             "large": "https://images.pokemontcg.io/bw8/24_hires.png"
@@ -1833,10 +1689,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1850,10 +1703,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/25.png",
             "large": "https://images.pokemontcg.io/bw8/25_hires.png"
@@ -1898,10 +1748,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1916,10 +1763,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             220
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/26.png",
             "large": "https://images.pokemontcg.io/bw8/26_hires.png"
@@ -1977,10 +1821,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -1995,10 +1836,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/27.png",
             "large": "https://images.pokemontcg.io/bw8/27_hires.png"
@@ -2054,10 +1892,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2072,10 +1907,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             473
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/28.png",
             "large": "https://images.pokemontcg.io/bw8/28_hires.png"
@@ -2120,10 +1952,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2138,10 +1967,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             270
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/29.png",
             "large": "https://images.pokemontcg.io/bw8/29_hires.png"
@@ -2198,10 +2024,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2216,10 +2039,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             271
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/30.png",
             "large": "https://images.pokemontcg.io/bw8/30_hires.png"
@@ -2270,10 +2090,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2288,10 +2105,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             272
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/31.png",
             "large": "https://images.pokemontcg.io/bw8/31_hires.png"
@@ -2336,10 +2150,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2354,10 +2165,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             318
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/32.png",
             "large": "https://images.pokemontcg.io/bw8/32_hires.png"
@@ -2407,10 +2215,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2425,10 +2230,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             319
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/33.png",
             "large": "https://images.pokemontcg.io/bw8/33_hires.png"
@@ -2476,10 +2278,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2494,10 +2293,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             490
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/34.png",
             "large": "https://images.pokemontcg.io/bw8/34_hires.png"
@@ -2541,10 +2337,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2559,10 +2352,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             582
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/35.png",
             "large": "https://images.pokemontcg.io/bw8/35_hires.png"
@@ -2608,10 +2398,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2626,10 +2413,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             583
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/36.png",
             "large": "https://images.pokemontcg.io/bw8/36_hires.png"
@@ -2682,10 +2466,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2700,10 +2481,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             584
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/37.png",
             "large": "https://images.pokemontcg.io/bw8/37_hires.png"
@@ -2748,10 +2526,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2766,10 +2541,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             592
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/38.png",
             "large": "https://images.pokemontcg.io/bw8/38_hires.png"
@@ -2820,10 +2592,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2838,10 +2607,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             593
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/39.png",
             "large": "https://images.pokemontcg.io/bw8/39_hires.png"
@@ -2896,10 +2662,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2914,10 +2677,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             613
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/40.png",
             "large": "https://images.pokemontcg.io/bw8/40_hires.png"
@@ -2972,10 +2732,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -2990,10 +2747,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             614
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/41.png",
             "large": "https://images.pokemontcg.io/bw8/41_hires.png"
@@ -3047,10 +2801,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -3065,10 +2816,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/42.png",
             "large": "https://images.pokemontcg.io/bw8/42_hires.png"
@@ -3112,10 +2860,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -3130,10 +2875,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/43.png",
             "large": "https://images.pokemontcg.io/bw8/43_hires.png"
@@ -3188,10 +2930,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -3206,10 +2945,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/44.png",
             "large": "https://images.pokemontcg.io/bw8/44_hires.png"
@@ -3255,10 +2991,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -3273,10 +3006,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/45.png",
             "large": "https://images.pokemontcg.io/bw8/45_hires.png"
@@ -3328,10 +3058,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -3346,10 +3073,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/46.png",
             "large": "https://images.pokemontcg.io/bw8/46_hires.png"
@@ -3402,10 +3126,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -3420,10 +3141,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/47.png",
             "large": "https://images.pokemontcg.io/bw8/47_hires.png"
@@ -3488,10 +3206,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -3505,10 +3220,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/48.png",
             "large": "https://images.pokemontcg.io/bw8/48_hires.png"
@@ -3560,10 +3272,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -3578,10 +3287,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             479
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/49.png",
             "large": "https://images.pokemontcg.io/bw8/49_hires.png"
@@ -3625,10 +3331,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -3643,10 +3346,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             595
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/50.png",
             "large": "https://images.pokemontcg.io/bw8/50_hires.png"
@@ -3697,10 +3397,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -3715,10 +3412,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             596
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/51.png",
             "large": "https://images.pokemontcg.io/bw8/51_hires.png"
@@ -3768,10 +3462,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -3786,10 +3477,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/52.png",
             "large": "https://images.pokemontcg.io/bw8/52_hires.png"
@@ -3847,10 +3535,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -3865,10 +3550,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/53.png",
             "large": "https://images.pokemontcg.io/bw8/53_hires.png"
@@ -3920,10 +3602,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -3938,10 +3617,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/54.png",
             "large": "https://images.pokemontcg.io/bw8/54_hires.png"
@@ -3998,10 +3674,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4016,10 +3689,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/55.png",
             "large": "https://images.pokemontcg.io/bw8/55_hires.png"
@@ -4073,10 +3743,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4091,10 +3758,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/56.png",
             "large": "https://images.pokemontcg.io/bw8/56_hires.png"
@@ -4139,10 +3803,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4157,10 +3818,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/57.png",
             "large": "https://images.pokemontcg.io/bw8/57_hires.png"
@@ -4211,10 +3869,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4229,10 +3884,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/58.png",
             "large": "https://images.pokemontcg.io/bw8/58_hires.png"
@@ -4276,10 +3928,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4294,10 +3943,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/59.png",
             "large": "https://images.pokemontcg.io/bw8/59_hires.png"
@@ -4343,10 +3989,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4361,10 +4004,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/60.png",
             "large": "https://images.pokemontcg.io/bw8/60_hires.png"
@@ -4418,10 +4058,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4436,10 +4073,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             475
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/61.png",
             "large": "https://images.pokemontcg.io/bw8/61_hires.png"
@@ -4495,10 +4129,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4513,10 +4144,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/62.png",
             "large": "https://images.pokemontcg.io/bw8/62_hires.png"
@@ -4570,10 +4198,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4588,10 +4213,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             568
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/63.png",
             "large": "https://images.pokemontcg.io/bw8/63_hires.png"
@@ -4646,10 +4268,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4664,10 +4283,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             568
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/64.png",
             "large": "https://images.pokemontcg.io/bw8/64_hires.png"
@@ -4712,10 +4328,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4730,10 +4343,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             568
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/65.png",
             "large": "https://images.pokemontcg.io/bw8/65_hires.png"
@@ -4787,10 +4397,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4805,10 +4412,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             569
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/66.png",
             "large": "https://images.pokemontcg.io/bw8/66_hires.png"
@@ -4864,10 +4468,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4882,10 +4483,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             569
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/67.png",
             "large": "https://images.pokemontcg.io/bw8/67_hires.png"
@@ -4930,10 +4528,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -4948,10 +4543,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             605
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/68.png",
             "large": "https://images.pokemontcg.io/bw8/68_hires.png"
@@ -5005,10 +4597,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -5023,10 +4612,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             605
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/69.png",
             "large": "https://images.pokemontcg.io/bw8/69_hires.png"
@@ -5080,10 +4666,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -5098,10 +4681,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             606
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/70.png",
             "large": "https://images.pokemontcg.io/bw8/70_hires.png"
@@ -5162,10 +4742,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -5180,10 +4757,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             231
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/71.png",
             "large": "https://images.pokemontcg.io/bw8/71_hires.png"
@@ -5243,10 +4817,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -5261,10 +4832,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             232
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/72.png",
             "large": "https://images.pokemontcg.io/bw8/72_hires.png"
@@ -5313,10 +4881,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -5331,10 +4896,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             337
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/73.png",
             "large": "https://images.pokemontcg.io/bw8/73_hires.png"
@@ -5387,10 +4949,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -5405,10 +4964,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             338
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/74.png",
             "large": "https://images.pokemontcg.io/bw8/74_hires.png"
@@ -5462,10 +5018,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -5480,10 +5033,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/75.png",
             "large": "https://images.pokemontcg.io/bw8/75_hires.png"
@@ -5539,10 +5089,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -5557,10 +5104,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/76.png",
             "large": "https://images.pokemontcg.io/bw8/76_hires.png"
@@ -5614,10 +5158,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -5632,10 +5173,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/77.png",
             "large": "https://images.pokemontcg.io/bw8/77_hires.png"
@@ -5686,10 +5224,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -5704,10 +5239,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/78.png",
             "large": "https://images.pokemontcg.io/bw8/78_hires.png"
@@ -5763,10 +5295,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -5781,10 +5310,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             532
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/79.png",
             "large": "https://images.pokemontcg.io/bw8/79_hires.png"
@@ -5843,10 +5369,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -5861,10 +5384,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             533
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/80.png",
             "large": "https://images.pokemontcg.io/bw8/80_hires.png"
@@ -5920,10 +5440,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -5938,10 +5455,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             534
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/81.png",
             "large": "https://images.pokemontcg.io/bw8/81_hires.png"
@@ -6001,10 +5515,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -6019,10 +5530,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             509
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/82.png",
             "large": "https://images.pokemontcg.io/bw8/82_hires.png"
@@ -6082,10 +5590,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -6100,10 +5605,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             509
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/83.png",
             "large": "https://images.pokemontcg.io/bw8/83_hires.png"
@@ -6162,10 +5664,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -6180,10 +5679,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             510
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/84.png",
             "large": "https://images.pokemontcg.io/bw8/84_hires.png"
@@ -6243,10 +5739,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -6261,10 +5754,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             559
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/85.png",
             "large": "https://images.pokemontcg.io/bw8/85_hires.png"
@@ -6325,10 +5815,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -6343,10 +5830,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             560
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/86.png",
             "large": "https://images.pokemontcg.io/bw8/86_hires.png"
@@ -6405,10 +5889,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -6423,10 +5904,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/87.png",
             "large": "https://images.pokemontcg.io/bw8/87_hires.png"
@@ -6486,10 +5964,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -6504,10 +5979,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             599
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/88.png",
             "large": "https://images.pokemontcg.io/bw8/88_hires.png"
@@ -6569,10 +6041,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -6587,10 +6056,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             600
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/89.png",
             "large": "https://images.pokemontcg.io/bw8/89_hires.png"
@@ -6648,10 +6114,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -6666,10 +6129,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             601
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/90.png",
             "large": "https://images.pokemontcg.io/bw8/90_hires.png"
@@ -6729,10 +6189,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -6747,10 +6204,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             632
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/91.png",
             "large": "https://images.pokemontcg.io/bw8/91_hires.png"
@@ -6808,10 +6262,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -6826,10 +6277,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             632
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/92.png",
             "large": "https://images.pokemontcg.io/bw8/92_hires.png"
@@ -6891,10 +6339,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -6908,10 +6353,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             638
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/93.png",
             "large": "https://images.pokemontcg.io/bw8/93_hires.png"
@@ -6966,10 +6408,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -6984,10 +6423,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             621
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/94.png",
             "large": "https://images.pokemontcg.io/bw8/94_hires.png"
@@ -7046,10 +6482,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -7063,10 +6496,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/95.png",
             "large": "https://images.pokemontcg.io/bw8/95_hires.png"
@@ -7125,10 +6555,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -7142,10 +6569,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/96.png",
             "large": "https://images.pokemontcg.io/bw8/96_hires.png"
@@ -7199,10 +6623,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -7217,10 +6638,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/97.png",
             "large": "https://images.pokemontcg.io/bw8/97_hires.png"
@@ -7271,10 +6689,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -7289,10 +6704,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/98.png",
             "large": "https://images.pokemontcg.io/bw8/98_hires.png"
@@ -7343,10 +6755,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -7361,10 +6770,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/99.png",
             "large": "https://images.pokemontcg.io/bw8/99_hires.png"
@@ -7423,10 +6829,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -7441,10 +6844,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/100.png",
             "large": "https://images.pokemontcg.io/bw8/100_hires.png"
@@ -7497,10 +6897,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -7515,10 +6912,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/101.png",
             "large": "https://images.pokemontcg.io/bw8/101_hires.png"
@@ -7562,10 +6956,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -7580,10 +6971,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             175
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/102.png",
             "large": "https://images.pokemontcg.io/bw8/102_hires.png"
@@ -7634,10 +7022,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -7652,10 +7037,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             176
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/103.png",
             "large": "https://images.pokemontcg.io/bw8/103_hires.png"
@@ -7710,10 +7092,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -7728,10 +7107,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             468
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/104.png",
             "large": "https://images.pokemontcg.io/bw8/104_hires.png"
@@ -7786,10 +7162,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -7804,10 +7177,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             293
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/105.png",
             "large": "https://images.pokemontcg.io/bw8/105_hires.png"
@@ -7863,10 +7233,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -7881,10 +7248,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             294
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/106.png",
             "large": "https://images.pokemontcg.io/bw8/106_hires.png"
@@ -7940,10 +7304,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -7958,10 +7319,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             295
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/107.png",
             "large": "https://images.pokemontcg.io/bw8/107_hires.png"
@@ -8023,10 +7381,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8040,10 +7395,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/108.png",
             "large": "https://images.pokemontcg.io/bw8/108_hires.png"
@@ -8088,10 +7440,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8106,10 +7455,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/109.png",
             "large": "https://images.pokemontcg.io/bw8/109_hires.png"
@@ -8153,10 +7499,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8171,10 +7514,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             504
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/110.png",
             "large": "https://images.pokemontcg.io/bw8/110_hires.png"
@@ -8228,10 +7568,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8246,10 +7583,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             504
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/111.png",
             "large": "https://images.pokemontcg.io/bw8/111_hires.png"
@@ -8302,10 +7636,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8320,10 +7651,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             505
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/112.png",
             "large": "https://images.pokemontcg.io/bw8/112_hires.png"
@@ -8378,10 +7706,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8396,10 +7721,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             505
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/113.png",
             "large": "https://images.pokemontcg.io/bw8/113_hires.png"
@@ -8453,10 +7775,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8471,10 +7790,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             626
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/114.png",
             "large": "https://images.pokemontcg.io/bw8/114_hires.png"
@@ -8525,10 +7841,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8543,10 +7856,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             627
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/115.png",
             "large": "https://images.pokemontcg.io/bw8/115_hires.png"
@@ -8603,10 +7913,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8621,10 +7928,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             628
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/116.png",
             "large": "https://images.pokemontcg.io/bw8/116_hires.png"
@@ -8647,10 +7951,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8661,10 +7962,7 @@ let bw8 = [
         "number": "117",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/117.png",
             "large": "https://images.pokemontcg.io/bw8/117_hires.png"
@@ -8688,10 +7986,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8702,10 +7997,7 @@ let bw8 = [
         "number": "118",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/118.png",
             "large": "https://images.pokemontcg.io/bw8/118_hires.png"
@@ -8729,10 +8021,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8743,10 +8032,7 @@ let bw8 = [
         "number": "119",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/119.png",
             "large": "https://images.pokemontcg.io/bw8/119_hires.png"
@@ -8769,10 +8055,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8783,11 +8066,7 @@ let bw8 = [
         "number": "120",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/120.png",
             "large": "https://images.pokemontcg.io/bw8/120_hires.png"
@@ -8810,10 +8089,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8824,10 +8100,7 @@ let bw8 = [
         "number": "121",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/121.png",
             "large": "https://images.pokemontcg.io/bw8/121_hires.png"
@@ -8851,10 +8124,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8865,10 +8135,7 @@ let bw8 = [
         "number": "122",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/122.png",
             "large": "https://images.pokemontcg.io/bw8/122_hires.png"
@@ -8892,10 +8159,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8906,10 +8170,7 @@ let bw8 = [
         "number": "123",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/123.png",
             "large": "https://images.pokemontcg.io/bw8/123_hires.png"
@@ -8933,10 +8194,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8947,10 +8205,7 @@ let bw8 = [
         "number": "124",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/124.png",
             "large": "https://images.pokemontcg.io/bw8/124_hires.png"
@@ -8974,10 +8229,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -8988,10 +8240,7 @@ let bw8 = [
         "number": "125",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/125.png",
             "large": "https://images.pokemontcg.io/bw8/125_hires.png"
@@ -9014,10 +8263,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -9028,10 +8274,7 @@ let bw8 = [
         "number": "126",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/126.png",
             "large": "https://images.pokemontcg.io/bw8/126_hires.png"
@@ -9054,10 +8297,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -9068,10 +8308,7 @@ let bw8 = [
         "number": "127",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/127.png",
             "large": "https://images.pokemontcg.io/bw8/127_hires.png"
@@ -9096,10 +8333,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -9110,10 +8344,7 @@ let bw8 = [
         "number": "128",
         "artist": "Ryo Ueda",
         "rarity": "Rare ACE",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/128.png",
             "large": "https://images.pokemontcg.io/bw8/128_hires.png"
@@ -9138,10 +8369,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -9152,10 +8380,7 @@ let bw8 = [
         "number": "129",
         "artist": "5ban Graphics",
         "rarity": "Rare ACE",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/129.png",
             "large": "https://images.pokemontcg.io/bw8/129_hires.png"
@@ -9181,10 +8406,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -9195,10 +8417,7 @@ let bw8 = [
         "number": "130",
         "artist": "5ban Graphics",
         "rarity": "Rare ACE",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/130.png",
             "large": "https://images.pokemontcg.io/bw8/130_hires.png"
@@ -9254,10 +8473,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -9271,10 +8487,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/131.png",
             "large": "https://images.pokemontcg.io/bw8/131_hires.png"
@@ -9340,10 +8553,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -9357,10 +8567,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/132.png",
             "large": "https://images.pokemontcg.io/bw8/132_hires.png"
@@ -9422,10 +8629,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -9439,10 +8643,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             638
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/133.png",
             "large": "https://images.pokemontcg.io/bw8/133_hires.png"
@@ -9504,10 +8705,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -9521,10 +8719,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/134.png",
             "large": "https://images.pokemontcg.io/bw8/134_hires.png"
@@ -9548,10 +8743,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -9562,10 +8754,7 @@ let bw8 = [
         "number": "135",
         "artist": "Kanako Eo",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/135.png",
             "large": "https://images.pokemontcg.io/bw8/135_hires.png"
@@ -9622,10 +8811,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -9640,10 +8826,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/136.png",
             "large": "https://images.pokemontcg.io/bw8/136_hires.png"
@@ -9695,10 +8878,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -9713,10 +8893,7 @@ let bw8 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/137.png",
             "large": "https://images.pokemontcg.io/bw8/137_hires.png"
@@ -9739,10 +8916,7 @@ let bw8 = [
             "series": "Black & White",
             "printedTotal": 135,
             "total": 138,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PLS",
             "releaseDate": "2013/02/06",
             "images": {
@@ -9753,10 +8927,7 @@ let bw8 = [
         "number": "138",
         "artist": "5ban Graphics",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw8/138.png",
             "large": "https://images.pokemontcg.io/bw8/138_hires.png"

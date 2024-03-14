@@ -50,9 +50,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -67,9 +65,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             387
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP01.png",
             "large": "https://images.pokemontcg.io/dpp/DP01_hires.png"
@@ -121,9 +117,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -138,9 +132,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             390
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP02.png",
             "large": "https://images.pokemontcg.io/dpp/DP02_hires.png"
@@ -192,9 +184,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -209,9 +199,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             393
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP03.png",
             "large": "https://images.pokemontcg.io/dpp/DP03_hires.png"
@@ -267,9 +255,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -284,9 +270,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             417
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP04.png",
             "large": "https://images.pokemontcg.io/dpp/DP04_hires.png"
@@ -305,9 +289,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -318,9 +300,7 @@ let dpp = [
         "number": "DP05",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP05.png",
             "large": "https://images.pokemontcg.io/dpp/DP05_hires.png"
@@ -374,9 +354,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -391,9 +369,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             427
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP06.png",
             "large": "https://images.pokemontcg.io/dpp/DP06_hires.png"
@@ -448,9 +424,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -465,9 +439,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             408
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP07.png",
             "large": "https://images.pokemontcg.io/dpp/DP07_hires.png"
@@ -530,9 +502,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -547,9 +517,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             410
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP08.png",
             "large": "https://images.pokemontcg.io/dpp/DP08_hires.png"
@@ -604,9 +572,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -620,9 +586,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             389
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP09.png",
             "large": "https://images.pokemontcg.io/dpp/DP09_hires.png"
@@ -674,9 +638,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -690,9 +652,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             392
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP10.png",
             "large": "https://images.pokemontcg.io/dpp/DP10_hires.png"
@@ -746,9 +706,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -762,9 +720,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP11.png",
             "large": "https://images.pokemontcg.io/dpp/DP11_hires.png"
@@ -818,9 +774,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -834,9 +788,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP12.png",
             "large": "https://images.pokemontcg.io/dpp/DP12_hires.png"
@@ -880,9 +832,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -897,9 +847,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             418
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP13.png",
             "large": "https://images.pokemontcg.io/dpp/DP13_hires.png"
@@ -955,9 +903,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -972,9 +918,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             441
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP14.png",
             "large": "https://images.pokemontcg.io/dpp/DP14_hires.png"
@@ -1024,9 +968,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1041,9 +983,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP15.png",
             "large": "https://images.pokemontcg.io/dpp/DP15_hires.png"
@@ -1101,9 +1041,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1118,9 +1056,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP16.png",
             "large": "https://images.pokemontcg.io/dpp/DP16_hires.png"
@@ -1181,9 +1117,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1197,9 +1131,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP17.png",
             "large": "https://images.pokemontcg.io/dpp/DP17_hires.png"
@@ -1253,9 +1185,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1269,9 +1199,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP18.png",
             "large": "https://images.pokemontcg.io/dpp/DP18_hires.png"
@@ -1331,9 +1259,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1347,9 +1273,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP19.png",
             "large": "https://images.pokemontcg.io/dpp/DP19_hires.png"
@@ -1403,9 +1327,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1420,9 +1342,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             467
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP20.png",
             "large": "https://images.pokemontcg.io/dpp/DP20_hires.png"
@@ -1478,9 +1398,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1495,9 +1413,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP21.png",
             "large": "https://images.pokemontcg.io/dpp/DP21_hires.png"
@@ -1545,9 +1461,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1562,9 +1476,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             439
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP22.png",
             "large": "https://images.pokemontcg.io/dpp/DP22_hires.png"
@@ -1618,9 +1530,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1635,9 +1545,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             431
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP23.png",
             "large": "https://images.pokemontcg.io/dpp/DP23_hires.png"
@@ -1698,9 +1606,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1714,9 +1620,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP24.png",
             "large": "https://images.pokemontcg.io/dpp/DP24_hires.png"
@@ -1735,9 +1639,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1748,9 +1650,7 @@ let dpp = [
         "number": "DP25",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP25.png",
             "large": "https://images.pokemontcg.io/dpp/DP25_hires.png"
@@ -1808,9 +1708,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1825,9 +1723,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP26.png",
             "large": "https://images.pokemontcg.io/dpp/DP26_hires.png"
@@ -1879,9 +1775,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1896,9 +1790,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP27.png",
             "large": "https://images.pokemontcg.io/dpp/DP27_hires.png"
@@ -1952,9 +1844,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -1968,9 +1858,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP28.png",
             "large": "https://images.pokemontcg.io/dpp/DP28_hires.png"
@@ -2030,9 +1918,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2046,9 +1932,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             464
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP29.png",
             "large": "https://images.pokemontcg.io/dpp/DP29_hires.png"
@@ -2103,9 +1987,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2119,9 +2001,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP30.png",
             "large": "https://images.pokemontcg.io/dpp/DP30_hires.png"
@@ -2162,9 +2042,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2178,9 +2056,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP31.png",
             "large": "https://images.pokemontcg.io/dpp/DP31_hires.png"
@@ -2241,9 +2117,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2258,9 +2132,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP32.png",
             "large": "https://images.pokemontcg.io/dpp/DP32_hires.png"
@@ -2317,9 +2189,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2334,9 +2204,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             477
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP33.png",
             "large": "https://images.pokemontcg.io/dpp/DP33_hires.png"
@@ -2394,9 +2262,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2411,9 +2277,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             426
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP34.png",
             "large": "https://images.pokemontcg.io/dpp/DP34_hires.png"
@@ -2470,9 +2334,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2486,9 +2348,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             474
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP35.png",
             "large": "https://images.pokemontcg.io/dpp/DP35_hires.png"
@@ -2551,9 +2411,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2567,9 +2425,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             472
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP36.png",
             "large": "https://images.pokemontcg.io/dpp/DP36_hires.png"
@@ -2630,9 +2486,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2646,9 +2500,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP37.png",
             "large": "https://images.pokemontcg.io/dpp/DP37_hires.png"
@@ -2709,9 +2561,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2725,9 +2575,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP38.png",
             "large": "https://images.pokemontcg.io/dpp/DP38_hires.png"
@@ -2785,9 +2633,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2801,9 +2647,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP39.png",
             "large": "https://images.pokemontcg.io/dpp/DP39_hires.png"
@@ -2858,9 +2702,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2875,9 +2717,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP40.png",
             "large": "https://images.pokemontcg.io/dpp/DP40_hires.png"
@@ -2927,9 +2767,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -2943,9 +2781,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP41.png",
             "large": "https://images.pokemontcg.io/dpp/DP41_hires.png"
@@ -3003,9 +2839,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3019,9 +2853,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             455
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP42.png",
             "large": "https://images.pokemontcg.io/dpp/DP42_hires.png"
@@ -3076,9 +2908,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3092,9 +2922,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             476
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP43.png",
             "large": "https://images.pokemontcg.io/dpp/DP43_hires.png"
@@ -3154,9 +2982,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3171,9 +2997,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP44.png",
             "large": "https://images.pokemontcg.io/dpp/DP44_hires.png"
@@ -3236,9 +3060,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3252,9 +3074,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP45.png",
             "large": "https://images.pokemontcg.io/dpp/DP45_hires.png"
@@ -3308,9 +3128,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3324,9 +3142,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP46.png",
             "large": "https://images.pokemontcg.io/dpp/DP46_hires.png"
@@ -3388,9 +3204,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3404,9 +3218,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP47.png",
             "large": "https://images.pokemontcg.io/dpp/DP47_hires.png"
@@ -3425,9 +3237,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3438,9 +3248,7 @@ let dpp = [
         "number": "DP48",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP48.png",
             "large": "https://images.pokemontcg.io/dpp/DP48_hires.png"
@@ -3498,9 +3306,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3515,9 +3321,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP49.png",
             "large": "https://images.pokemontcg.io/dpp/DP49_hires.png"
@@ -3564,9 +3368,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3581,9 +3383,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP50.png",
             "large": "https://images.pokemontcg.io/dpp/DP50_hires.png"
@@ -3633,9 +3433,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3650,9 +3448,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             488
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP51.png",
             "large": "https://images.pokemontcg.io/dpp/DP51_hires.png"
@@ -3708,9 +3504,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3725,9 +3519,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             491
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP52.png",
             "large": "https://images.pokemontcg.io/dpp/DP52_hires.png"
@@ -3768,9 +3560,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3784,9 +3574,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP53.png",
             "large": "https://images.pokemontcg.io/dpp/DP53_hires.png"
@@ -3805,9 +3593,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3818,9 +3604,7 @@ let dpp = [
         "number": "DP54",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP54.png",
             "large": "https://images.pokemontcg.io/dpp/DP54_hires.png"
@@ -3843,9 +3627,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3856,9 +3638,7 @@ let dpp = [
         "number": "DP55",
         "artist": "Yusuke Ishikawa",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP55.png",
             "large": "https://images.pokemontcg.io/dpp/DP55_hires.png"
@@ -3907,9 +3687,7 @@ let dpp = [
             "series": "Diamond & Pearl",
             "printedTotal": 56,
             "total": 56,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-DPP",
             "releaseDate": "2007/05/01",
             "images": {
@@ -3923,9 +3701,7 @@ let dpp = [
         "nationalPokedexNumbers": [
             493
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dpp/DP56.png",
             "large": "https://images.pokemontcg.io/dpp/DP56_hires.png"

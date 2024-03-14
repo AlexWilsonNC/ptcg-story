@@ -48,9 +48,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -65,9 +63,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/1.png",
             "large": "https://images.pokemontcg.io/hgss1/1_hires.png"
@@ -121,9 +117,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -138,9 +132,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             184
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/2.png",
             "large": "https://images.pokemontcg.io/hgss1/2_hires.png"
@@ -193,9 +185,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -210,9 +200,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/3.png",
             "large": "https://images.pokemontcg.io/hgss1/3_hires.png"
@@ -274,9 +262,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -291,9 +277,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/4.png",
             "large": "https://images.pokemontcg.io/hgss1/4_hires.png"
@@ -345,9 +329,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -362,9 +344,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             237
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/5.png",
             "large": "https://images.pokemontcg.io/hgss1/5_hires.png"
@@ -420,9 +400,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -437,9 +415,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             189
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/6.png",
             "large": "https://images.pokemontcg.io/hgss1/6_hires.png"
@@ -490,9 +466,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -507,9 +481,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/7.png",
             "large": "https://images.pokemontcg.io/hgss1/7_hires.png"
@@ -566,9 +538,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -583,9 +553,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             164
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/8.png",
             "large": "https://images.pokemontcg.io/hgss1/8_hires.png"
@@ -647,9 +615,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -664,9 +630,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             195
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/9.png",
             "large": "https://images.pokemontcg.io/hgss1/9_hires.png"
@@ -723,9 +687,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -740,9 +702,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/10.png",
             "large": "https://images.pokemontcg.io/hgss1/10_hires.png"
@@ -791,9 +751,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -808,9 +766,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             213
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/11.png",
             "large": "https://images.pokemontcg.io/hgss1/11_hires.png"
@@ -860,9 +816,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -877,9 +831,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             199
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/12.png",
             "large": "https://images.pokemontcg.io/hgss1/12_hires.png"
@@ -921,9 +873,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -938,9 +888,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             202
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/13.png",
             "large": "https://images.pokemontcg.io/hgss1/13_hires.png"
@@ -999,9 +947,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1016,9 +962,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/14.png",
             "large": "https://images.pokemontcg.io/hgss1/14_hires.png"
@@ -1072,9 +1016,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1089,9 +1031,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             168
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/15.png",
             "large": "https://images.pokemontcg.io/hgss1/15_hires.png"
@@ -1149,9 +1089,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1166,9 +1104,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/16.png",
             "large": "https://images.pokemontcg.io/hgss1/16_hires.png"
@@ -1210,9 +1146,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1227,9 +1161,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             173
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/17.png",
             "large": "https://images.pokemontcg.io/hgss1/17_hires.png"
@@ -1280,9 +1212,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1297,9 +1227,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/18.png",
             "large": "https://images.pokemontcg.io/hgss1/18_hires.png"
@@ -1358,9 +1286,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1375,9 +1301,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             83
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/19.png",
             "large": "https://images.pokemontcg.io/hgss1/19_hires.png"
@@ -1433,9 +1357,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1450,9 +1372,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/20.png",
             "large": "https://images.pokemontcg.io/hgss1/20_hires.png"
@@ -1504,9 +1424,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1521,9 +1439,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             162
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/21.png",
             "large": "https://images.pokemontcg.io/hgss1/21_hires.png"
@@ -1578,9 +1494,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1595,9 +1509,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             210
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/22.png",
             "large": "https://images.pokemontcg.io/hgss1/22_hires.png"
@@ -1648,9 +1560,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1665,9 +1575,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/23.png",
             "large": "https://images.pokemontcg.io/hgss1/23_hires.png"
@@ -1719,9 +1627,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1736,9 +1642,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/24.png",
             "large": "https://images.pokemontcg.io/hgss1/24_hires.png"
@@ -1795,9 +1699,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1812,9 +1714,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             166
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/25.png",
             "large": "https://images.pokemontcg.io/hgss1/25_hires.png"
@@ -1873,9 +1773,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1890,9 +1788,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/26.png",
             "large": "https://images.pokemontcg.io/hgss1/26_hires.png"
@@ -1944,9 +1840,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -1961,9 +1855,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/27.png",
             "large": "https://images.pokemontcg.io/hgss1/27_hires.png"
@@ -2005,9 +1897,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2022,9 +1912,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/28.png",
             "large": "https://images.pokemontcg.io/hgss1/28_hires.png"
@@ -2083,9 +1971,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2100,9 +1986,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/29.png",
             "large": "https://images.pokemontcg.io/hgss1/29_hires.png"
@@ -2144,9 +2028,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2161,9 +2043,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             238
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/30.png",
             "large": "https://images.pokemontcg.io/hgss1/30_hires.png"
@@ -2220,9 +2100,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2237,9 +2115,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             192
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/31.png",
             "large": "https://images.pokemontcg.io/hgss1/31_hires.png"
@@ -2293,9 +2169,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2310,9 +2184,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/32.png",
             "large": "https://images.pokemontcg.io/hgss1/32_hires.png"
@@ -2356,9 +2228,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2373,9 +2243,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             236
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/33.png",
             "large": "https://images.pokemontcg.io/hgss1/33_hires.png"
@@ -2427,9 +2295,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2444,9 +2310,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/34.png",
             "large": "https://images.pokemontcg.io/hgss1/34_hires.png"
@@ -2508,9 +2372,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2525,9 +2387,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             153
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/35.png",
             "large": "https://images.pokemontcg.io/hgss1/35_hires.png"
@@ -2580,9 +2440,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2597,9 +2455,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             242
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/36.png",
             "large": "https://images.pokemontcg.io/hgss1/36_hires.png"
@@ -2653,9 +2509,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2670,9 +2524,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             222
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/37.png",
             "large": "https://images.pokemontcg.io/hgss1/37_hires.png"
@@ -2729,9 +2581,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2746,9 +2596,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             159
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/38.png",
             "large": "https://images.pokemontcg.io/hgss1/38_hires.png"
@@ -2805,9 +2653,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2822,9 +2668,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             225
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/39.png",
             "large": "https://images.pokemontcg.io/hgss1/39_hires.png"
@@ -2886,9 +2730,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2903,9 +2745,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             232
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/40.png",
             "large": "https://images.pokemontcg.io/hgss1/40_hires.png"
@@ -2955,9 +2795,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -2972,9 +2810,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             206
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/41.png",
             "large": "https://images.pokemontcg.io/hgss1/41_hires.png"
@@ -3036,9 +2872,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3053,9 +2887,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/42.png",
             "large": "https://images.pokemontcg.io/hgss1/42_hires.png"
@@ -3108,9 +2940,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3125,9 +2955,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             214
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/43.png",
             "large": "https://images.pokemontcg.io/hgss1/43_hires.png"
@@ -3169,9 +2997,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3186,9 +3012,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             174
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/44.png",
             "large": "https://images.pokemontcg.io/hgss1/44_hires.png"
@@ -3245,9 +3069,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3262,9 +3084,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             226
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/45.png",
             "large": "https://images.pokemontcg.io/hgss1/45_hires.png"
@@ -3317,9 +3137,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3334,9 +3152,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             11
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/46.png",
             "large": "https://images.pokemontcg.io/hgss1/46_hires.png"
@@ -3388,9 +3204,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3405,9 +3219,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             241
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/47.png",
             "large": "https://images.pokemontcg.io/hgss1/47_hires.png"
@@ -3460,9 +3272,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3477,9 +3287,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/48.png",
             "large": "https://images.pokemontcg.io/hgss1/48_hires.png"
@@ -3536,9 +3344,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3553,9 +3359,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             156
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/49.png",
             "large": "https://images.pokemontcg.io/hgss1/49_hires.png"
@@ -3597,9 +3401,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3614,9 +3416,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             211
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/50.png",
             "large": "https://images.pokemontcg.io/hgss1/50_hires.png"
@@ -3666,9 +3466,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3683,9 +3481,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             188
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/51.png",
             "large": "https://images.pokemontcg.io/hgss1/51_hires.png"
@@ -3738,9 +3534,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3755,9 +3549,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/52.png",
             "large": "https://images.pokemontcg.io/hgss1/52_hires.png"
@@ -3798,9 +3590,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3815,9 +3605,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/53.png",
             "large": "https://images.pokemontcg.io/hgss1/53_hires.png"
@@ -3865,9 +3653,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3882,9 +3668,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/54.png",
             "large": "https://images.pokemontcg.io/hgss1/54_hires.png"
@@ -3932,9 +3716,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -3949,9 +3731,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/55.png",
             "large": "https://images.pokemontcg.io/hgss1/55_hires.png"
@@ -4005,9 +3785,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4022,9 +3800,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/56.png",
             "large": "https://images.pokemontcg.io/hgss1/56_hires.png"
@@ -4068,9 +3844,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4085,9 +3859,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/57.png",
             "large": "https://images.pokemontcg.io/hgss1/57_hires.png"
@@ -4143,9 +3915,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4160,9 +3930,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/58.png",
             "large": "https://images.pokemontcg.io/hgss1/58_hires.png"
@@ -4222,9 +3990,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4239,9 +4005,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/59.png",
             "large": "https://images.pokemontcg.io/hgss1/59_hires.png"
@@ -4294,9 +4058,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4311,9 +4073,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/60.png",
             "large": "https://images.pokemontcg.io/hgss1/60_hires.png"
@@ -4367,9 +4127,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4384,9 +4142,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/61.png",
             "large": "https://images.pokemontcg.io/hgss1/61_hires.png"
@@ -4440,9 +4196,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4457,9 +4211,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/62.png",
             "large": "https://images.pokemontcg.io/hgss1/62_hires.png"
@@ -4503,9 +4255,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4520,9 +4270,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/63.png",
             "large": "https://images.pokemontcg.io/hgss1/63_hires.png"
@@ -4573,9 +4321,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4590,9 +4336,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             203
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/64.png",
             "large": "https://images.pokemontcg.io/hgss1/64_hires.png"
@@ -4647,9 +4391,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4664,9 +4406,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/65.png",
             "large": "https://images.pokemontcg.io/hgss1/65_hires.png"
@@ -4726,9 +4466,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4743,9 +4481,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             163
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/66.png",
             "large": "https://images.pokemontcg.io/hgss1/66_hires.png"
@@ -4795,9 +4531,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4812,9 +4546,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             187
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/67.png",
             "large": "https://images.pokemontcg.io/hgss1/67_hires.png"
@@ -4859,9 +4591,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4876,9 +4606,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/68.png",
             "large": "https://images.pokemontcg.io/hgss1/68_hires.png"
@@ -4929,9 +4657,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -4946,9 +4672,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/69.png",
             "large": "https://images.pokemontcg.io/hgss1/69_hires.png"
@@ -5002,9 +4726,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5019,9 +4741,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/70.png",
             "large": "https://images.pokemontcg.io/hgss1/70_hires.png"
@@ -5081,9 +4801,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5098,9 +4816,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             165
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/71.png",
             "large": "https://images.pokemontcg.io/hgss1/71_hires.png"
@@ -5144,9 +4860,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5161,10 +4875,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/72.png",
             "large": "https://images.pokemontcg.io/hgss1/72_hires.png"
@@ -5224,9 +4935,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5241,9 +4950,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/73.png",
             "large": "https://images.pokemontcg.io/hgss1/73_hires.png"
@@ -5298,9 +5005,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5315,9 +5020,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/74.png",
             "large": "https://images.pokemontcg.io/hgss1/74_hires.png"
@@ -5371,9 +5074,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5388,9 +5089,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/75.png",
             "large": "https://images.pokemontcg.io/hgss1/75_hires.png"
@@ -5444,9 +5143,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5461,9 +5158,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/76.png",
             "large": "https://images.pokemontcg.io/hgss1/76_hires.png"
@@ -5513,9 +5208,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5530,9 +5223,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             231
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/77.png",
             "large": "https://images.pokemontcg.io/hgss1/77_hires.png"
@@ -5592,9 +5283,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5609,9 +5298,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/78.png",
             "large": "https://images.pokemontcg.io/hgss1/78_hires.png"
@@ -5670,9 +5357,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5687,9 +5372,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/79.png",
             "large": "https://images.pokemontcg.io/hgss1/79_hires.png"
@@ -5742,9 +5425,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5759,9 +5440,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             161
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/80.png",
             "large": "https://images.pokemontcg.io/hgss1/80_hires.png"
@@ -5806,9 +5485,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5823,9 +5500,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/81.png",
             "large": "https://images.pokemontcg.io/hgss1/81_hires.png"
@@ -5879,9 +5554,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5896,9 +5569,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/82.png",
             "large": "https://images.pokemontcg.io/hgss1/82_hires.png"
@@ -5951,9 +5622,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -5968,9 +5637,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             167
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/83.png",
             "large": "https://images.pokemontcg.io/hgss1/83_hires.png"
@@ -6014,9 +5681,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6031,9 +5696,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/84.png",
             "large": "https://images.pokemontcg.io/hgss1/84_hires.png"
@@ -6093,9 +5756,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6110,9 +5771,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             191
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/85.png",
             "large": "https://images.pokemontcg.io/hgss1/85_hires.png"
@@ -6166,9 +5825,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6183,9 +5840,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/86.png",
             "large": "https://images.pokemontcg.io/hgss1/86_hires.png"
@@ -6239,9 +5894,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6256,9 +5909,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/87.png",
             "large": "https://images.pokemontcg.io/hgss1/87_hires.png"
@@ -6317,9 +5968,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6334,9 +5983,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             194
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/88.png",
             "large": "https://images.pokemontcg.io/hgss1/88_hires.png"
@@ -6359,9 +6006,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6372,9 +6017,7 @@ let hgss1 = [
         "number": "89",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/89.png",
             "large": "https://images.pokemontcg.io/hgss1/89_hires.png"
@@ -6397,9 +6040,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6410,11 +6051,7 @@ let hgss1 = [
         "number": "90",
         "artist": "Kanako Eo",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/90.png",
             "large": "https://images.pokemontcg.io/hgss1/90_hires.png"
@@ -6433,9 +6070,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6446,11 +6081,7 @@ let hgss1 = [
         "number": "91",
         "artist": "Wataru Kawahara",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/91.png",
             "large": "https://images.pokemontcg.io/hgss1/91_hires.png"
@@ -6473,9 +6104,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6486,10 +6115,7 @@ let hgss1 = [
         "number": "92",
         "artist": "Kanako Eo",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/92.png",
             "large": "https://images.pokemontcg.io/hgss1/92_hires.png"
@@ -6511,9 +6137,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6524,11 +6148,7 @@ let hgss1 = [
         "number": "93",
         "artist": "Takashi Yamaguchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/93.png",
             "large": "https://images.pokemontcg.io/hgss1/93_hires.png"
@@ -6550,9 +6170,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6563,10 +6181,7 @@ let hgss1 = [
         "number": "94",
         "artist": "Noriko Hotta",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/94.png",
             "large": "https://images.pokemontcg.io/hgss1/94_hires.png"
@@ -6588,9 +6203,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6601,11 +6214,7 @@ let hgss1 = [
         "number": "95",
         "artist": "Hideaki Hakozaki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/95.png",
             "large": "https://images.pokemontcg.io/hgss1/95_hires.png"
@@ -6627,9 +6236,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6640,11 +6247,7 @@ let hgss1 = [
         "number": "96",
         "artist": "Noriko Hotta",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/96.png",
             "large": "https://images.pokemontcg.io/hgss1/96_hires.png"
@@ -6667,9 +6270,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6680,9 +6281,7 @@ let hgss1 = [
         "number": "97",
         "artist": "Masakazu Fukuda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/97.png",
             "large": "https://images.pokemontcg.io/hgss1/97_hires.png"
@@ -6704,9 +6303,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6717,10 +6314,7 @@ let hgss1 = [
         "number": "98",
         "artist": "Takashi Yamaguchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/98.png",
             "large": "https://images.pokemontcg.io/hgss1/98_hires.png"
@@ -6742,9 +6336,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6755,9 +6347,7 @@ let hgss1 = [
         "number": "99",
         "artist": "Wataru Kawahara",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/99.png",
             "large": "https://images.pokemontcg.io/hgss1/99_hires.png"
@@ -6780,9 +6370,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6793,9 +6381,7 @@ let hgss1 = [
         "number": "100",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/100.png",
             "large": "https://images.pokemontcg.io/hgss1/100_hires.png"
@@ -6818,9 +6404,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6831,9 +6415,7 @@ let hgss1 = [
         "number": "101",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/101.png",
             "large": "https://images.pokemontcg.io/hgss1/101_hires.png"
@@ -6855,9 +6437,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6868,11 +6448,7 @@ let hgss1 = [
         "number": "102",
         "artist": "Hideaki Hakozaki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/102.png",
             "large": "https://images.pokemontcg.io/hgss1/102_hires.png"
@@ -6894,9 +6470,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6907,10 +6481,7 @@ let hgss1 = [
         "number": "103",
         "artist": "Kent Kanetsuna",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/103.png",
             "large": "https://images.pokemontcg.io/hgss1/103_hires.png"
@@ -6932,9 +6503,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -6945,10 +6514,7 @@ let hgss1 = [
         "number": "104",
         "artist": "Kent Kanetsuna",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/104.png",
             "large": "https://images.pokemontcg.io/hgss1/104_hires.png"
@@ -7006,9 +6572,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7022,9 +6586,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/105.png",
             "large": "https://images.pokemontcg.io/hgss1/105_hires.png"
@@ -7076,9 +6638,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7092,9 +6652,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             242
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/106.png",
             "large": "https://images.pokemontcg.io/hgss1/106_hires.png"
@@ -7161,9 +6719,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7177,9 +6733,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             232
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/107.png",
             "large": "https://images.pokemontcg.io/hgss1/107_hires.png"
@@ -7232,9 +6786,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7248,9 +6800,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/108.png",
             "large": "https://images.pokemontcg.io/hgss1/108_hires.png"
@@ -7309,9 +6859,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7325,9 +6873,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/109.png",
             "large": "https://images.pokemontcg.io/hgss1/109_hires.png"
@@ -7379,9 +6925,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7395,9 +6939,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/110.png",
             "large": "https://images.pokemontcg.io/hgss1/110_hires.png"
@@ -7458,9 +7000,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7475,9 +7015,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/111.png",
             "large": "https://images.pokemontcg.io/hgss1/111_hires.png"
@@ -7538,9 +7076,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7555,9 +7091,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/112.png",
             "large": "https://images.pokemontcg.io/hgss1/112_hires.png"
@@ -7617,9 +7151,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7634,9 +7166,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/113.png",
             "large": "https://images.pokemontcg.io/hgss1/113_hires.png"
@@ -7696,9 +7226,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7713,9 +7241,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/114.png",
             "large": "https://images.pokemontcg.io/hgss1/114_hires.png"
@@ -7734,9 +7260,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7746,11 +7270,7 @@ let hgss1 = [
         },
         "number": "115",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/115.png",
             "large": "https://images.pokemontcg.io/hgss1/115_hires.png"
@@ -7769,9 +7289,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7781,11 +7299,7 @@ let hgss1 = [
         },
         "number": "116",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/116.png",
             "large": "https://images.pokemontcg.io/hgss1/116_hires.png"
@@ -7804,9 +7318,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7816,11 +7328,7 @@ let hgss1 = [
         },
         "number": "117",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/117.png",
             "large": "https://images.pokemontcg.io/hgss1/117_hires.png"
@@ -7839,9 +7347,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7851,11 +7357,7 @@ let hgss1 = [
         },
         "number": "118",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/118.png",
             "large": "https://images.pokemontcg.io/hgss1/118_hires.png"
@@ -7874,9 +7376,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7886,11 +7386,7 @@ let hgss1 = [
         },
         "number": "119",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/119.png",
             "large": "https://images.pokemontcg.io/hgss1/119_hires.png"
@@ -7909,9 +7405,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7921,11 +7415,7 @@ let hgss1 = [
         },
         "number": "120",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/120.png",
             "large": "https://images.pokemontcg.io/hgss1/120_hires.png"
@@ -7944,9 +7434,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7956,11 +7444,7 @@ let hgss1 = [
         },
         "number": "121",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/121.png",
             "large": "https://images.pokemontcg.io/hgss1/121_hires.png"
@@ -7979,9 +7463,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -7991,11 +7473,7 @@ let hgss1 = [
         },
         "number": "122",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/122.png",
             "large": "https://images.pokemontcg.io/hgss1/122_hires.png"
@@ -8055,9 +7533,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -8072,9 +7548,7 @@ let hgss1 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/123.png",
             "large": "https://images.pokemontcg.io/hgss1/123_hires.png"
@@ -8096,9 +7570,7 @@ let hgss1 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 123,
             "total": 124,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "HS",
             "releaseDate": "2010/02/10",
             "images": {
@@ -8109,9 +7581,7 @@ let hgss1 = [
         "number": "ONE",
         "artist": "Milky Isobe",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/hgss1/ONE.png",
             "large": "https://images.pokemontcg.io/hgss1/ONE_hires.png"

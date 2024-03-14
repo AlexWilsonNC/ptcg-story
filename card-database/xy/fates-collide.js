@@ -44,10 +44,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -62,10 +59,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             213
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/1.png",
             "large": "https://images.pokemontcg.io/xy10/1_hires.png"
@@ -109,10 +103,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -127,10 +118,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             412
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/2.png",
             "large": "https://images.pokemontcg.io/xy10/2_hires.png"
@@ -183,10 +171,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -201,10 +186,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             413
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/3.png",
             "large": "https://images.pokemontcg.io/xy10/3_hires.png"
@@ -260,10 +242,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -278,10 +257,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             414
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/4.png",
             "large": "https://images.pokemontcg.io/xy10/4_hires.png"
@@ -325,10 +301,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -343,10 +316,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             495
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/5.png",
             "large": "https://images.pokemontcg.io/xy10/5_hires.png"
@@ -398,10 +368,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -416,10 +383,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             496
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/6.png",
             "large": "https://images.pokemontcg.io/xy10/6_hires.png"
@@ -470,10 +434,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -488,10 +449,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             497
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/7.png",
             "large": "https://images.pokemontcg.io/xy10/7_hires.png"
@@ -535,10 +493,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -553,10 +508,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             585
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/8.png",
             "large": "https://images.pokemontcg.io/xy10/8_hires.png"
@@ -615,10 +567,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -633,10 +582,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/9.png",
             "large": "https://images.pokemontcg.io/xy10/9_hires.png"
@@ -690,10 +636,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -708,10 +651,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             653
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/10.png",
             "large": "https://images.pokemontcg.io/xy10/10_hires.png"
@@ -755,10 +695,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -773,10 +710,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             653
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/11.png",
             "large": "https://images.pokemontcg.io/xy10/11_hires.png"
@@ -831,10 +765,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -849,10 +780,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             654
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/12.png",
             "large": "https://images.pokemontcg.io/xy10/12_hires.png"
@@ -905,10 +833,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -923,10 +848,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             655
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/13.png",
             "large": "https://images.pokemontcg.io/xy10/13_hires.png"
@@ -960,10 +882,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -977,10 +896,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             655
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/14.png",
             "large": "https://images.pokemontcg.io/xy10/14_hires.png"
@@ -1024,10 +940,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1042,10 +955,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/15.png",
             "large": "https://images.pokemontcg.io/xy10/15_hires.png"
@@ -1099,10 +1009,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1117,10 +1024,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/16.png",
             "large": "https://images.pokemontcg.io/xy10/16_hires.png"
@@ -1168,10 +1072,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1186,10 +1087,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/17.png",
             "large": "https://images.pokemontcg.io/xy10/17_hires.png"
@@ -1239,10 +1137,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1257,10 +1152,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/18.png",
             "large": "https://images.pokemontcg.io/xy10/18_hires.png"
@@ -1294,10 +1186,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1311,10 +1200,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/19.png",
             "large": "https://images.pokemontcg.io/xy10/19_hires.png"
@@ -1371,10 +1257,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1388,10 +1271,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             471
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/20.png",
             "large": "https://images.pokemontcg.io/xy10/20_hires.png"
@@ -1444,10 +1324,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1462,10 +1339,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/21.png",
             "large": "https://images.pokemontcg.io/xy10/21_hires.png"
@@ -1510,10 +1384,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1528,10 +1399,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             688
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/22.png",
             "large": "https://images.pokemontcg.io/xy10/22_hires.png"
@@ -1582,10 +1450,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1600,10 +1465,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             689
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/23.png",
             "large": "https://images.pokemontcg.io/xy10/23_hires.png"
@@ -1660,10 +1522,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1678,10 +1537,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             479
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/24.png",
             "large": "https://images.pokemontcg.io/xy10/24_hires.png"
@@ -1737,10 +1593,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1754,10 +1607,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/25.png",
             "large": "https://images.pokemontcg.io/xy10/25_hires.png"
@@ -1805,10 +1655,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1822,10 +1669,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/26.png",
             "large": "https://images.pokemontcg.io/xy10/26_hires.png"
@@ -1869,10 +1713,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1887,10 +1728,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/27.png",
             "large": "https://images.pokemontcg.io/xy10/27_hires.png"
@@ -1944,10 +1782,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -1962,10 +1797,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/28.png",
             "large": "https://images.pokemontcg.io/xy10/28_hires.png"
@@ -2012,10 +1844,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2030,10 +1859,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/29.png",
             "large": "https://images.pokemontcg.io/xy10/29_hires.png"
@@ -2077,10 +1903,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2095,10 +1918,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/30.png",
             "large": "https://images.pokemontcg.io/xy10/30_hires.png"
@@ -2150,10 +1970,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2168,10 +1985,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/31.png",
             "large": "https://images.pokemontcg.io/xy10/31_hires.png"
@@ -2216,10 +2030,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2234,10 +2045,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             574
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/32.png",
             "large": "https://images.pokemontcg.io/xy10/32_hires.png"
@@ -2282,10 +2090,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2300,10 +2105,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             577
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/33.png",
             "large": "https://images.pokemontcg.io/xy10/33_hires.png"
@@ -2349,10 +2151,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2367,10 +2166,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             578
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/34.png",
             "large": "https://images.pokemontcg.io/xy10/34_hires.png"
@@ -2413,10 +2209,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2431,10 +2224,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             579
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/35.png",
             "large": "https://images.pokemontcg.io/xy10/35_hires.png"
@@ -2477,10 +2267,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2495,10 +2282,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/36.png",
             "large": "https://images.pokemontcg.io/xy10/36_hires.png"
@@ -2548,10 +2332,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2566,10 +2347,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/37.png",
             "large": "https://images.pokemontcg.io/xy10/37_hires.png"
@@ -2617,10 +2395,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2635,10 +2410,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             140
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/38.png",
             "large": "https://images.pokemontcg.io/xy10/38_hires.png"
@@ -2692,10 +2464,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2710,10 +2479,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/39.png",
             "large": "https://images.pokemontcg.io/xy10/39_hires.png"
@@ -2757,10 +2523,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2775,10 +2538,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/40.png",
             "large": "https://images.pokemontcg.io/xy10/40_hires.png"
@@ -2832,10 +2592,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2850,10 +2607,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/41.png",
             "large": "https://images.pokemontcg.io/xy10/41_hires.png"
@@ -2898,10 +2652,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2916,10 +2667,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/42.png",
             "large": "https://images.pokemontcg.io/xy10/42_hires.png"
@@ -2973,10 +2721,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -2990,10 +2735,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             377
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/43.png",
             "large": "https://images.pokemontcg.io/xy10/43_hires.png"
@@ -3047,10 +2789,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -3064,10 +2803,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             377
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/43a.png",
             "large": "https://images.pokemontcg.io/xy10/43a_hires.png"
@@ -3120,10 +2856,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -3138,10 +2871,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             413
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/44.png",
             "large": "https://images.pokemontcg.io/xy10/44_hires.png"
@@ -3185,10 +2915,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -3203,10 +2930,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/45.png",
             "large": "https://images.pokemontcg.io/xy10/45_hires.png"
@@ -3250,10 +2974,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -3268,10 +2989,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/46.png",
             "large": "https://images.pokemontcg.io/xy10/46_hires.png"
@@ -3324,10 +3042,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -3342,10 +3057,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/47.png",
             "large": "https://images.pokemontcg.io/xy10/47_hires.png"
@@ -3402,10 +3114,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -3420,10 +3129,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             701
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/48.png",
             "large": "https://images.pokemontcg.io/xy10/48_hires.png"
@@ -3473,10 +3179,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -3491,10 +3194,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             703
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/49.png",
             "large": "https://images.pokemontcg.io/xy10/49_hires.png"
@@ -3543,10 +3243,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -3561,10 +3258,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             703
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/50.png",
             "large": "https://images.pokemontcg.io/xy10/50_hires.png"
@@ -3602,10 +3296,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -3619,10 +3310,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             703
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/51.png",
             "large": "https://images.pokemontcg.io/xy10/51_hires.png"
@@ -3674,10 +3362,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -3692,10 +3377,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             718
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/52.png",
             "large": "https://images.pokemontcg.io/xy10/52_hires.png"
@@ -3748,10 +3430,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -3766,10 +3445,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             718
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/53.png",
             "large": "https://images.pokemontcg.io/xy10/53_hires.png"
@@ -3835,10 +3511,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -3852,10 +3525,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             718
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/54.png",
             "large": "https://images.pokemontcg.io/xy10/54_hires.png"
@@ -3921,10 +3591,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -3938,10 +3605,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             718
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/54a.png",
             "large": "https://images.pokemontcg.io/xy10/54a_hires.png"
@@ -4003,10 +3667,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -4020,10 +3681,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/55.png",
             "large": "https://images.pokemontcg.io/xy10/55_hires.png"
@@ -4082,10 +3740,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -4100,10 +3755,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/56.png",
             "large": "https://images.pokemontcg.io/xy10/56_hires.png"
@@ -4164,10 +3816,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -4182,10 +3831,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             629
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/57.png",
             "large": "https://images.pokemontcg.io/xy10/57_hires.png"
@@ -4244,10 +3890,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -4262,10 +3905,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             630
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/58.png",
             "large": "https://images.pokemontcg.io/xy10/58_hires.png"
@@ -4324,10 +3964,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -4342,10 +3979,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             413
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/59.png",
             "large": "https://images.pokemontcg.io/xy10/59_hires.png"
@@ -4405,10 +4039,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -4423,10 +4054,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             436
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/60.png",
             "large": "https://images.pokemontcg.io/xy10/60_hires.png"
@@ -4483,10 +4111,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -4501,10 +4126,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             437
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/61.png",
             "large": "https://images.pokemontcg.io/xy10/61_hires.png"
@@ -4543,10 +4165,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -4560,10 +4179,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             437
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/62.png",
             "large": "https://images.pokemontcg.io/xy10/62_hires.png"
@@ -4621,10 +4237,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -4639,10 +4252,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/63.png",
             "large": "https://images.pokemontcg.io/xy10/63_hires.png"
@@ -4702,10 +4312,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -4719,10 +4326,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/64.png",
             "large": "https://images.pokemontcg.io/xy10/64_hires.png"
@@ -4782,10 +4386,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -4800,10 +4401,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/65.png",
             "large": "https://images.pokemontcg.io/xy10/65_hires.png"
@@ -4863,10 +4461,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -4881,10 +4476,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/66.png",
             "large": "https://images.pokemontcg.io/xy10/66_hires.png"
@@ -4941,10 +4533,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -4959,10 +4548,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/67.png",
             "large": "https://images.pokemontcg.io/xy10/67_hires.png"
@@ -5013,10 +4599,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5031,10 +4614,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/68.png",
             "large": "https://images.pokemontcg.io/xy10/68_hires.png"
@@ -5089,10 +4669,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5106,10 +4683,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/69.png",
             "large": "https://images.pokemontcg.io/xy10/69_hires.png"
@@ -5159,10 +4733,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5177,10 +4748,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             546
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/70.png",
             "large": "https://images.pokemontcg.io/xy10/70_hires.png"
@@ -5227,10 +4795,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5245,10 +4810,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             547
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/71.png",
             "large": "https://images.pokemontcg.io/xy10/71_hires.png"
@@ -5311,10 +4873,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5328,10 +4887,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             719
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/72.png",
             "large": "https://images.pokemontcg.io/xy10/72_hires.png"
@@ -5388,10 +4944,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5405,10 +4958,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/73.png",
             "large": "https://images.pokemontcg.io/xy10/73_hires.png"
@@ -5453,10 +5003,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5471,10 +5018,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/74.png",
             "large": "https://images.pokemontcg.io/xy10/74_hires.png"
@@ -5528,10 +5072,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5546,10 +5087,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/75.png",
             "large": "https://images.pokemontcg.io/xy10/75_hires.png"
@@ -5609,10 +5147,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5627,10 +5162,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             142
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/76.png",
             "large": "https://images.pokemontcg.io/xy10/76_hires.png"
@@ -5685,10 +5217,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5703,10 +5232,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/77.png",
             "large": "https://images.pokemontcg.io/xy10/77_hires.png"
@@ -5762,10 +5288,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5780,10 +5303,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/78.png",
             "large": "https://images.pokemontcg.io/xy10/78_hires.png"
@@ -5824,10 +5344,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5841,10 +5358,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/79.png",
             "large": "https://images.pokemontcg.io/xy10/79_hires.png"
@@ -5898,10 +5412,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5916,10 +5427,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             293
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/80.png",
             "large": "https://images.pokemontcg.io/xy10/80_hires.png"
@@ -5975,10 +5483,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -5993,10 +5498,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             294
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/81.png",
             "large": "https://images.pokemontcg.io/xy10/81_hires.png"
@@ -6051,10 +5553,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6069,10 +5568,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             295
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/82.png",
             "large": "https://images.pokemontcg.io/xy10/82_hires.png"
@@ -6138,10 +5634,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6155,10 +5648,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/83.png",
             "large": "https://images.pokemontcg.io/xy10/83_hires.png"
@@ -6217,10 +5707,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6234,10 +5721,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             531
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/84.png",
             "large": "https://images.pokemontcg.io/xy10/84_hires.png"
@@ -6286,10 +5770,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6303,10 +5784,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             531
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/85.png",
             "large": "https://images.pokemontcg.io/xy10/85_hires.png"
@@ -6350,10 +5828,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6368,10 +5843,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             572
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/86.png",
             "large": "https://images.pokemontcg.io/xy10/86_hires.png"
@@ -6415,10 +5887,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6433,10 +5902,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             572
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/87.png",
             "large": "https://images.pokemontcg.io/xy10/87_hires.png"
@@ -6487,10 +5953,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6505,10 +5968,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             573
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/88.png",
             "large": "https://images.pokemontcg.io/xy10/88_hires.png"
@@ -6560,10 +6020,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6578,10 +6035,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             573
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/89.png",
             "large": "https://images.pokemontcg.io/xy10/89_hires.png"
@@ -6605,10 +6059,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6619,10 +6070,7 @@ let xy10 = [
         "number": "90",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/90.png",
             "large": "https://images.pokemontcg.io/xy10/90_hires.png"
@@ -6646,10 +6094,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6660,10 +6105,7 @@ let xy10 = [
         "number": "91",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/91.png",
             "large": "https://images.pokemontcg.io/xy10/91_hires.png"
@@ -6687,10 +6129,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6701,10 +6140,7 @@ let xy10 = [
         "number": "92",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/92.png",
             "large": "https://images.pokemontcg.io/xy10/92_hires.png"
@@ -6728,10 +6164,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6742,10 +6175,7 @@ let xy10 = [
         "number": "93",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/93.png",
             "large": "https://images.pokemontcg.io/xy10/93_hires.png"
@@ -6769,10 +6199,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6783,10 +6210,7 @@ let xy10 = [
         "number": "94",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/94.png",
             "large": "https://images.pokemontcg.io/xy10/94_hires.png"
@@ -6809,10 +6233,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6823,10 +6244,7 @@ let xy10 = [
         "number": "95",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/95.png",
             "large": "https://images.pokemontcg.io/xy10/95_hires.png"
@@ -6849,10 +6267,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6863,10 +6278,7 @@ let xy10 = [
         "number": "96",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/96.png",
             "large": "https://images.pokemontcg.io/xy10/96_hires.png"
@@ -6890,10 +6302,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6904,10 +6313,7 @@ let xy10 = [
         "number": "97",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/97.png",
             "large": "https://images.pokemontcg.io/xy10/97_hires.png"
@@ -6930,10 +6336,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6944,10 +6347,7 @@ let xy10 = [
         "number": "98",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/98.png",
             "large": "https://images.pokemontcg.io/xy10/98_hires.png"
@@ -6970,10 +6370,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -6984,10 +6381,7 @@ let xy10 = [
         "number": "99",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/99.png",
             "large": "https://images.pokemontcg.io/xy10/99_hires.png"
@@ -7010,10 +6404,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7024,10 +6415,7 @@ let xy10 = [
         "number": "100",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/100.png",
             "large": "https://images.pokemontcg.io/xy10/100_hires.png"
@@ -7050,10 +6438,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7064,10 +6449,7 @@ let xy10 = [
         "number": "101",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/101.png",
             "large": "https://images.pokemontcg.io/xy10/101_hires.png"
@@ -7090,10 +6472,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7104,10 +6483,7 @@ let xy10 = [
         "number": "102",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/102.png",
             "large": "https://images.pokemontcg.io/xy10/102_hires.png"
@@ -7130,10 +6506,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7144,10 +6517,7 @@ let xy10 = [
         "number": "103",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/103.png",
             "large": "https://images.pokemontcg.io/xy10/103_hires.png"
@@ -7170,10 +6540,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7184,10 +6551,7 @@ let xy10 = [
         "number": "104",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/104.png",
             "large": "https://images.pokemontcg.io/xy10/104_hires.png"
@@ -7210,10 +6574,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7224,10 +6585,7 @@ let xy10 = [
         "number": "105",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/105.png",
             "large": "https://images.pokemontcg.io/xy10/105_hires.png"
@@ -7250,10 +6608,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7264,10 +6619,7 @@ let xy10 = [
         "number": "105a",
         "artist": "Megumi Mizutani",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/105a.png",
             "large": "https://images.pokemontcg.io/xy10/105a_hires.png"
@@ -7290,10 +6642,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7304,10 +6653,7 @@ let xy10 = [
         "number": "106",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/106.png",
             "large": "https://images.pokemontcg.io/xy10/106_hires.png"
@@ -7330,10 +6676,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7344,10 +6687,7 @@ let xy10 = [
         "number": "107",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/107.png",
             "large": "https://images.pokemontcg.io/xy10/107_hires.png"
@@ -7384,10 +6724,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7398,10 +6735,7 @@ let xy10 = [
         "number": "108",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/108.png",
             "large": "https://images.pokemontcg.io/xy10/108_hires.png"
@@ -7424,10 +6758,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7438,10 +6769,7 @@ let xy10 = [
         "number": "109",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/109.png",
             "large": "https://images.pokemontcg.io/xy10/109_hires.png"
@@ -7464,10 +6792,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7478,10 +6803,7 @@ let xy10 = [
         "number": "110",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/110.png",
             "large": "https://images.pokemontcg.io/xy10/110_hires.png"
@@ -7504,10 +6826,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7518,10 +6837,7 @@ let xy10 = [
         "number": "111",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/111.png",
             "large": "https://images.pokemontcg.io/xy10/111_hires.png"
@@ -7544,10 +6860,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7558,10 +6871,7 @@ let xy10 = [
         "number": "111a",
         "artist": "Ken Sugimori",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/111a.png",
             "large": "https://images.pokemontcg.io/xy10/111a_hires.png"
@@ -7584,10 +6894,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7598,10 +6905,7 @@ let xy10 = [
         "number": "112",
         "artist": "Hitoshi Ariga",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/112.png",
             "large": "https://images.pokemontcg.io/xy10/112_hires.png"
@@ -7624,10 +6928,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7638,10 +6939,7 @@ let xy10 = [
         "number": "113",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/113.png",
             "large": "https://images.pokemontcg.io/xy10/113_hires.png"
@@ -7663,10 +6961,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7677,10 +6972,7 @@ let xy10 = [
         "number": "114",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/114.png",
             "large": "https://images.pokemontcg.io/xy10/114_hires.png"
@@ -7704,10 +6996,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7718,10 +7007,7 @@ let xy10 = [
         "number": "115",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/115.png",
             "large": "https://images.pokemontcg.io/xy10/115_hires.png"
@@ -7778,10 +7064,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7795,10 +7078,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             471
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/116.png",
             "large": "https://images.pokemontcg.io/xy10/116_hires.png"
@@ -7854,10 +7134,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7871,10 +7148,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/117.png",
             "large": "https://images.pokemontcg.io/xy10/117_hires.png"
@@ -7922,10 +7196,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -7939,10 +7210,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/118.png",
             "large": "https://images.pokemontcg.io/xy10/118_hires.png"
@@ -8004,10 +7272,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -8021,10 +7286,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/119.png",
             "large": "https://images.pokemontcg.io/xy10/119_hires.png"
@@ -8084,10 +7346,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -8101,10 +7360,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/120.png",
             "large": "https://images.pokemontcg.io/xy10/120_hires.png"
@@ -8159,10 +7415,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -8176,10 +7429,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/121.png",
             "large": "https://images.pokemontcg.io/xy10/121_hires.png"
@@ -8236,10 +7486,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -8253,10 +7500,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/122.png",
             "large": "https://images.pokemontcg.io/xy10/122_hires.png"
@@ -8322,10 +7566,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -8339,10 +7580,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/123.png",
             "large": "https://images.pokemontcg.io/xy10/123_hires.png"
@@ -8365,10 +7603,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -8379,10 +7614,7 @@ let xy10 = [
         "number": "124",
         "artist": "Hitoshi Ariga",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/124.png",
             "large": "https://images.pokemontcg.io/xy10/124_hires.png"
@@ -8438,10 +7670,7 @@ let xy10 = [
             "series": "XY",
             "printedTotal": 124,
             "total": 129,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FCO",
             "releaseDate": "2016/05/02",
             "images": {
@@ -8455,10 +7684,7 @@ let xy10 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy10/125.png",
             "large": "https://images.pokemontcg.io/xy10/125_hires.png"

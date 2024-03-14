@@ -40,11 +40,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -60,11 +56,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/1.png",
@@ -165,11 +156,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -185,11 +172,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/2.png",
@@ -280,11 +262,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -300,11 +278,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/3.png",
@@ -393,11 +366,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -413,11 +382,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/4.png",
@@ -517,11 +481,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -537,11 +497,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/5.png",
@@ -641,11 +596,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -661,11 +612,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             193
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/6.png",
@@ -761,11 +707,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -781,11 +723,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             469
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/7.png",
@@ -885,11 +822,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -905,11 +838,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             204
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/8.png",
@@ -1005,11 +933,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -1025,11 +949,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/9.png",
@@ -1111,11 +1030,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -1131,11 +1046,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/10.png",
@@ -1225,11 +1135,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -1245,11 +1151,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/11.png",
@@ -1346,11 +1247,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -1366,11 +1263,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/12.png",
@@ -1459,11 +1351,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -1479,11 +1367,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             290
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/13.png",
@@ -1576,11 +1459,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -1596,11 +1475,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             291
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/14.png",
@@ -1696,11 +1570,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -1716,11 +1586,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/15.png",
@@ -1819,11 +1684,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -1839,11 +1700,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             649
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/16.png",
@@ -1943,11 +1799,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -1963,11 +1815,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             672
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/17.png",
@@ -2067,11 +1914,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -2087,11 +1930,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             673
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/18.png",
@@ -2190,11 +2028,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -2210,11 +2044,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             781
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/19.png",
@@ -2314,11 +2143,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -2333,11 +2158,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             826
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/20.png",
@@ -2428,11 +2248,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -2447,11 +2263,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             826
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/21.png",
@@ -2545,11 +2356,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -2564,11 +2371,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             893
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/22.png",
@@ -2660,11 +2462,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -2680,11 +2478,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/23.png",
@@ -2785,11 +2578,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -2805,11 +2594,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/24.png",
@@ -2906,11 +2690,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -2926,11 +2706,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/25.png",
@@ -3027,11 +2802,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -3047,11 +2818,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/26.png",
@@ -3152,11 +2918,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -3172,11 +2934,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/27.png",
@@ -3279,11 +3036,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -3299,11 +3052,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/28.png",
@@ -3406,11 +3154,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -3425,11 +3169,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             663
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/29.png",
@@ -3518,11 +3257,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -3538,11 +3273,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/30.png",
@@ -3635,11 +3365,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -3655,11 +3381,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             320
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/31.png",
@@ -3759,11 +3480,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -3779,11 +3496,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             321
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/32.png",
@@ -3882,11 +3594,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -3902,11 +3610,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             501
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/33.png",
@@ -4008,11 +3711,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -4028,11 +3727,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             502
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/34.png",
@@ -4129,11 +3823,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -4149,11 +3839,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             503
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/35.png",
@@ -4256,11 +3941,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -4275,11 +3956,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             555
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/36.png",
@@ -4367,11 +4043,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -4386,11 +4058,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             555
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/37.png",
@@ -4474,11 +4141,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -4494,11 +4157,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             833
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/38.png",
@@ -4602,11 +4260,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -4622,11 +4276,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             834
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/39.png",
@@ -4719,11 +4368,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -4739,11 +4384,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             845
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/40.png",
@@ -4842,11 +4482,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -4862,11 +4498,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             846
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/41.png",
@@ -4963,11 +4594,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -4983,11 +4610,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             847
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/42.png",
@@ -5091,11 +4713,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -5110,11 +4728,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/43.png",
@@ -5203,11 +4816,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -5222,11 +4831,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/44.png",
@@ -5309,11 +4913,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -5329,11 +4929,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/45.png",
@@ -5429,11 +5024,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -5449,11 +5040,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/46.png",
@@ -5549,11 +5135,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -5569,11 +5151,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/47.png",
@@ -5676,11 +5253,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -5696,11 +5269,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/48.png",
@@ -5804,11 +5372,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -5823,11 +5387,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/49.png",
@@ -5909,11 +5468,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -5929,11 +5484,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/50.png",
@@ -6025,11 +5575,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -6045,11 +5591,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/51.png",
@@ -6141,11 +5682,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -6161,11 +5698,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/52.png",
@@ -6254,11 +5786,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -6274,11 +5802,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             522
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/53.png",
@@ -6375,11 +5898,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -6395,11 +5914,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             523
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/54.png",
@@ -6488,11 +6002,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -6508,11 +6018,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             595
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/55.png",
@@ -6609,11 +6114,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -6629,11 +6130,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             596
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/56.png",
@@ -6729,11 +6225,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -6749,11 +6241,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             602
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/57.png",
@@ -6855,11 +6342,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -6875,11 +6358,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             603
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/58.png",
@@ -6979,11 +6457,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -6999,11 +6473,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             604
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/59.png",
@@ -7103,11 +6572,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -7123,11 +6588,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/60.png",
@@ -7210,11 +6670,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -7230,11 +6686,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             807
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/61.png",
@@ -7330,11 +6781,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -7350,11 +6797,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             871
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/62.png",
@@ -7453,11 +6895,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -7473,11 +6911,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/63.png",
@@ -7573,11 +7006,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -7593,11 +7022,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/64.png",
@@ -7699,11 +7123,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -7719,11 +7139,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             203
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/65.png",
@@ -7812,11 +7227,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -7832,11 +7243,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             292
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/66.png",
@@ -7931,11 +7337,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -7951,11 +7353,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             353
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/67.png",
@@ -8056,11 +7453,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -8076,11 +7469,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             354
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/68.png",
@@ -8175,11 +7563,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -8195,11 +7579,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/69.png",
@@ -8307,11 +7686,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -8327,11 +7702,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             356
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/70.png",
@@ -8434,11 +7804,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -8454,11 +7820,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             477
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/71.png",
@@ -8560,11 +7921,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -8580,11 +7937,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             358
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/72.png",
@@ -8679,11 +8031,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -8699,11 +8047,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             527
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/73.png",
@@ -8804,11 +8147,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -8824,11 +8163,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             528
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/74.png",
@@ -8917,11 +8251,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -8937,11 +8267,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             546
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/75.png",
@@ -9033,11 +8358,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -9053,11 +8374,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             547
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/76.png",
@@ -9143,11 +8459,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -9163,11 +8475,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             702
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/77.png",
@@ -9265,11 +8572,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -9285,11 +8588,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             716
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/78.png",
@@ -9384,11 +8682,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -9404,11 +8698,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             719
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/79.png",
@@ -9506,11 +8795,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -9526,11 +8811,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             868
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/80.png",
@@ -9626,11 +8906,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -9646,11 +8922,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             869
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/81.png",
@@ -9748,11 +9019,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -9768,11 +9035,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             888
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/82.png",
@@ -9864,11 +9126,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -9884,11 +9142,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             194
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/83.png",
@@ -9988,11 +9241,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -10008,11 +9257,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             195
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/84.png",
@@ -10108,11 +9352,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -10128,11 +9368,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             213
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/85.png",
@@ -10232,11 +9467,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -10252,11 +9483,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             231
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/86.png",
@@ -10357,11 +9583,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -10377,11 +9599,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             232
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/87.png",
@@ -10478,11 +9695,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -10498,11 +9711,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             237
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/88.png",
@@ -10602,11 +9810,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -10622,11 +9826,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             377
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/89.png",
@@ -10715,11 +9914,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -10735,11 +9930,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/90.png",
@@ -10839,11 +10029,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -10859,11 +10045,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             529
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/91.png",
@@ -10964,11 +10145,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -10984,11 +10161,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             639
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/92.png",
@@ -11088,11 +10260,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -11108,11 +10276,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             718
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/93.png",
@@ -11211,11 +10374,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -11231,11 +10390,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             744
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/94.png",
@@ -11333,11 +10487,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -11353,11 +10503,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             745
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/95.png",
@@ -11458,11 +10603,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -11478,11 +10619,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             749
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/96.png",
@@ -11583,11 +10719,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -11603,11 +10735,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             750
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/97.png",
@@ -11714,11 +10841,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -11733,11 +10856,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             839
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/98.png",
@@ -11835,11 +10953,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -11854,11 +10968,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             839
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/99.png",
@@ -11951,11 +11060,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -11971,11 +11076,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             852
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/100.png",
@@ -12073,11 +11173,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -12093,11 +11189,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             853
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/101.png",
@@ -12195,11 +11286,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -12215,11 +11302,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             889
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/102.png",
@@ -12311,11 +11393,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -12331,11 +11409,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/103.png",
@@ -12433,11 +11506,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -12453,11 +11522,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/104.png",
@@ -12553,11 +11617,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -12573,11 +11633,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/105.png",
@@ -12683,11 +11738,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -12702,11 +11753,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             452
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/106.png",
@@ -12792,11 +11838,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -12812,11 +11854,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             551
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/107.png",
@@ -12918,11 +11955,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -12938,11 +11971,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             552
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/108.png",
@@ -13044,11 +12072,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -13064,11 +12088,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             553
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/109.png",
@@ -13170,11 +12189,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -13190,11 +12205,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             568
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/110.png",
@@ -13295,11 +12305,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -13315,11 +12321,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             569
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/111.png",
@@ -13424,11 +12425,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -13444,11 +12441,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/112.png",
@@ -13553,11 +12545,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -13573,11 +12561,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             863
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/113.png",
@@ -13686,11 +12669,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -13706,11 +12685,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             205
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/114.png",
@@ -13823,11 +12797,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -13842,11 +12812,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/115.png",
@@ -13945,11 +12910,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -13965,11 +12926,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/116.png",
@@ -14079,11 +13035,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -14099,11 +13051,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/117.png",
@@ -14207,11 +13154,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -14227,11 +13170,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/118.png",
@@ -14332,11 +13270,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -14352,11 +13286,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/119.png",
@@ -14454,11 +13383,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -14474,11 +13399,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/120.png",
@@ -14582,11 +13502,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -14602,11 +13518,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/121.png",
@@ -14713,11 +13624,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -14733,11 +13640,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             530
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/122.png",
@@ -14834,11 +13736,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -14854,11 +13752,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             597
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/123.png",
@@ -14953,11 +13846,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -14973,11 +13862,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             598
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/124.png",
@@ -15080,11 +13964,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -15100,11 +13980,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             618
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/125.png",
@@ -15214,11 +14089,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -15233,11 +14104,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/126.png",
@@ -15330,11 +14196,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -15349,11 +14211,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/127.png",
@@ -15448,11 +14305,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -15468,11 +14321,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             801
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/128.png",
@@ -15577,11 +14425,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -15597,11 +14441,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             884
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/129.png",
@@ -15707,11 +14546,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -15727,11 +14562,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/130.png",
@@ -15829,11 +14659,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -15849,11 +14675,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/131.png",
@@ -15959,11 +14780,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -15979,11 +14796,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/132.png",
@@ -16079,11 +14891,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -16099,11 +14907,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             276
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/133.png",
@@ -16202,11 +15005,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -16222,11 +15021,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             277
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/134.png",
@@ -16316,11 +15110,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -16336,11 +15126,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             293
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/135.png",
@@ -16443,11 +15228,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -16463,11 +15244,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             294
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/136.png",
@@ -16568,11 +15344,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -16588,11 +15360,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             295
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/137.png",
@@ -16687,11 +15454,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -16707,11 +15470,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/138.png",
@@ -16805,11 +15563,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -16825,11 +15579,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             441
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/139.png",
@@ -16936,11 +15685,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -16955,11 +15700,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             468
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/140.png",
@@ -17045,11 +15785,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -17064,11 +15800,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             468
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/141.png",
@@ -17164,11 +15895,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -17184,11 +15911,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             641
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/142.png",
@@ -17283,11 +16005,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -17303,11 +16021,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             731
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/143.png",
@@ -17412,11 +16125,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -17432,11 +16141,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             732
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/144.png",
@@ -17542,11 +16246,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -17562,11 +16262,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             733
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/145.png",
@@ -17631,11 +16326,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -17647,11 +16338,7 @@ let swsh4 = [
         "number": "146",
         "artist": "take",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/146.png",
@@ -17716,11 +16403,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -17732,11 +16415,7 @@ let swsh4 = [
         "number": "147",
         "artist": "take",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/147.png",
@@ -17802,11 +16481,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -17818,11 +16493,7 @@ let swsh4 = [
         "number": "148",
         "artist": "kirisAki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/148.png",
@@ -17887,11 +16558,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -17903,11 +16570,7 @@ let swsh4 = [
         "number": "149",
         "artist": "Hitoshi Ariga",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/149.png",
@@ -17972,11 +16635,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -17988,11 +16647,7 @@ let swsh4 = [
         "number": "150",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/150.png",
@@ -18057,11 +16712,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -18073,11 +16724,7 @@ let swsh4 = [
         "number": "151",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/151.png",
@@ -18143,11 +16790,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -18159,11 +16802,7 @@ let swsh4 = [
         "number": "152",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/152.png",
@@ -18228,11 +16867,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -18244,11 +16879,7 @@ let swsh4 = [
         "number": "153",
         "artist": "Emi Ando",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/153.png",
@@ -18313,11 +16944,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -18329,11 +16956,7 @@ let swsh4 = [
         "number": "154",
         "artist": "Ken Sugimori",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/154.png",
@@ -18399,11 +17022,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -18415,11 +17034,7 @@ let swsh4 = [
         "number": "155",
         "artist": "sadaji",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/155.png",
@@ -18484,11 +17099,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -18500,11 +17111,7 @@ let swsh4 = [
         "number": "156",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/156.png",
@@ -18569,11 +17176,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -18585,11 +17188,7 @@ let swsh4 = [
         "number": "157",
         "artist": "take",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/157.png",
@@ -18654,11 +17253,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -18670,11 +17265,7 @@ let swsh4 = [
         "number": "158",
         "artist": "take",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/158.png",
@@ -18740,11 +17331,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -18756,11 +17343,7 @@ let swsh4 = [
         "number": "159",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/159.png",
@@ -18826,11 +17409,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -18842,11 +17421,7 @@ let swsh4 = [
         "number": "160",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/160.png",
@@ -18911,11 +17486,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -18927,11 +17498,7 @@ let swsh4 = [
         "number": "161",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/161.png",
@@ -18996,11 +17563,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -19011,11 +17574,7 @@ let swsh4 = [
         },
         "number": "162",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/162.png",
@@ -19080,11 +17639,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -19095,11 +17650,7 @@ let swsh4 = [
         },
         "number": "163",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/163.png",
@@ -19164,11 +17715,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -19179,11 +17726,7 @@ let swsh4 = [
         },
         "number": "164",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/164.png",
@@ -19248,11 +17791,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -19263,11 +17802,7 @@ let swsh4 = [
         },
         "number": "165",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/165.png",
@@ -19367,11 +17902,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -19386,11 +17917,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             826
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/166.png",
@@ -19484,11 +18010,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -19503,11 +18025,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             893
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/167.png",
@@ -19603,11 +18120,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -19622,11 +18135,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             663
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/168.png",
@@ -19722,11 +18230,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -19741,11 +18245,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             555
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/169.png",
@@ -19842,11 +18341,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -19861,11 +18356,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/170.png",
@@ -19962,11 +18452,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -19981,11 +18467,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/171.png",
@@ -20084,11 +18565,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -20103,11 +18580,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/172.png",
@@ -20207,11 +18679,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -20226,11 +18694,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             839
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/173.png",
@@ -20323,11 +18786,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -20342,11 +18801,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             865
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/174.png",
@@ -20445,11 +18899,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -20464,11 +18914,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             452
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/175.png",
@@ -20574,11 +19019,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -20593,11 +19034,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/176.png",
@@ -20700,11 +19136,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -20719,11 +19151,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/177.png",
@@ -20823,11 +19250,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -20842,11 +19265,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             468
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/178.png",
@@ -20904,11 +19322,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -20920,11 +19334,7 @@ let swsh4 = [
         "number": "179",
         "artist": "Sanosuke Sakuma",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/179.png",
@@ -20982,11 +19392,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -20998,11 +19404,7 @@ let swsh4 = [
         "number": "180",
         "artist": "Hideki Ishikawa",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/180.png",
@@ -21061,11 +19463,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -21077,11 +19475,7 @@ let swsh4 = [
         "number": "181",
         "artist": "kirisAki",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/181.png",
@@ -21139,11 +19533,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -21155,11 +19545,7 @@ let swsh4 = [
         "number": "182",
         "artist": "Hideki Ishikawa",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/182.png",
@@ -21217,11 +19603,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -21233,11 +19615,7 @@ let swsh4 = [
         "number": "183",
         "artist": "Ryuta Fuse",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/183.png",
@@ -21295,11 +19673,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -21311,11 +19685,7 @@ let swsh4 = [
         "number": "184",
         "artist": "Naoki Saito",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/184.png",
@@ -21373,11 +19743,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -21389,11 +19755,7 @@ let swsh4 = [
         "number": "185",
         "artist": "Sanosuke Sakuma",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/185.png",
@@ -21484,11 +19846,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -21503,11 +19861,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             826
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/186.png",
@@ -21595,11 +19948,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -21614,11 +19963,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             555
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/187.png",
@@ -21707,11 +20051,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -21726,11 +20066,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/188.png",
@@ -21828,11 +20163,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -21847,11 +20178,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             839
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/189.png",
@@ -21944,11 +20270,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -21963,11 +20285,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/190.png",
@@ -22053,11 +20370,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -22072,11 +20385,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             468
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/191.png",
@@ -22134,11 +20442,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -22150,11 +20454,7 @@ let swsh4 = [
         "number": "192",
         "artist": "Sanosuke Sakuma",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/192.png",
@@ -22212,11 +20512,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -22228,11 +20524,7 @@ let swsh4 = [
         "number": "193",
         "artist": "Hideki Ishikawa",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/193.png",
@@ -22291,11 +20583,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -22307,11 +20595,7 @@ let swsh4 = [
         "number": "194",
         "artist": "kirisAki",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/194.png",
@@ -22369,11 +20653,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -22385,11 +20665,7 @@ let swsh4 = [
         "number": "195",
         "artist": "Hideki Ishikawa",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/195.png",
@@ -22447,11 +20723,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -22463,11 +20735,7 @@ let swsh4 = [
         "number": "196",
         "artist": "Ryuta Fuse",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/196.png",
@@ -22525,11 +20793,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -22541,11 +20805,7 @@ let swsh4 = [
         "number": "197",
         "artist": "Naoki Saito",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/197.png",
@@ -22634,11 +20894,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -22654,11 +20910,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             862
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/198.png",
@@ -22747,11 +20998,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -22767,11 +21014,6 @@ let swsh4 = [
         "nationalPokedexNumbers": [
             765
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/199.png",
@@ -22830,11 +21072,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -22846,11 +21084,7 @@ let swsh4 = [
         "number": "200",
         "artist": "inose yukie",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/200.png",
@@ -22909,11 +21143,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -22925,11 +21155,7 @@ let swsh4 = [
         "number": "201",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/201.png",
@@ -22988,11 +21214,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -23004,11 +21226,7 @@ let swsh4 = [
         "number": "202",
         "artist": "sadaji",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/202.png",
@@ -23067,11 +21285,7 @@ let swsh4 = [
             "series": "Sword & Shield",
             "printedTotal": 185,
             "total": 203,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "VIV",
             "releaseDate": "2020/11/13",
             "updatedAt": "2020/11/13 16:20:00",
@@ -23083,11 +21297,7 @@ let swsh4 = [
         "number": "203",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh4/203.png",

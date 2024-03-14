@@ -40,11 +40,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -59,11 +55,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             283
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/1.png",
@@ -119,11 +110,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -138,11 +125,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             284
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/2.png",
@@ -201,11 +183,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -219,11 +197,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             478
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/3.png",
@@ -282,11 +255,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -301,11 +270,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             511
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/4.png",
@@ -360,11 +324,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -379,11 +339,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             512
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/5.png",
@@ -432,11 +387,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -451,11 +402,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             557
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/6.png",
@@ -515,11 +461,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -534,11 +476,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             558
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/7.png",
@@ -586,11 +523,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -605,11 +538,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             761
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/8.png",
@@ -669,11 +597,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -688,11 +612,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             762
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/9.png",
@@ -740,11 +659,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -759,11 +674,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             824
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/10.png",
@@ -823,11 +733,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -842,11 +748,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             825
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/11.png",
@@ -902,11 +803,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -921,11 +818,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             826
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/12.png",
@@ -966,11 +858,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -982,11 +870,7 @@ let sv4 = [
         "artist": "Pani Kobayashi",
         "rarity": "Common",
         "flavorText": "It has its third set of legs folded up. When it's in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/13.png",
@@ -1032,11 +916,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -1048,11 +928,7 @@ let sv4 = [
         "artist": "Kouki Saitou",
         "rarity": "Common",
         "flavorText": "It has its third set of legs folded up. When it's in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/14.png",
@@ -1107,11 +983,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -1123,11 +995,7 @@ let sv4 = [
         "artist": "Tomokazu Komiya",
         "rarity": "Common",
         "flavorText": "Though it looks like Tentacool, Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/15.png",
@@ -1184,11 +1052,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -1200,11 +1064,7 @@ let sv4 = [
         "artist": "Souichirou Gunjima",
         "rarity": "Common",
         "flavorText": "Though it looks like Tentacool, Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/16.png",
@@ -1260,11 +1120,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -1276,11 +1132,7 @@ let sv4 = [
         "artist": "Toshinao Aoki",
         "rarity": "Uncommon",
         "flavorText": "It coils its 10 tentacles around prey and sucks out their nutrients, causing the prey pain. The folds along the rim of its head are a popular delicacy.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/17.png",
@@ -1339,11 +1191,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -1355,11 +1203,7 @@ let sv4 = [
         "artist": "Kouki Saitou",
         "rarity": "Rare",
         "flavorText": "It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/18.png",
@@ -1403,11 +1247,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -1422,11 +1262,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             240
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/19.png",
@@ -1485,11 +1320,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -1504,11 +1335,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             513
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/20.png",
@@ -1564,11 +1390,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -1583,11 +1405,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             514
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/21.png",
@@ -1645,11 +1462,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -1664,11 +1477,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             721
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/22.png",
@@ -1724,11 +1532,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -1740,11 +1544,7 @@ let sv4 = [
         "artist": "Gemi",
         "rarity": "Common",
         "flavorText": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/23.png",
@@ -1793,11 +1593,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -1809,11 +1605,7 @@ let sv4 = [
         "artist": "Pani Kobayashi",
         "rarity": "Uncommon",
         "flavorText": "The combination of Crocalor's fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon's head.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/24.png",
@@ -1868,11 +1660,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -1884,11 +1672,7 @@ let sv4 = [
         "artist": "kantaro",
         "rarity": "Common",
         "flavorText": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/25.png",
@@ -1945,11 +1729,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -1961,11 +1741,7 @@ let sv4 = [
         "artist": "Mizue",
         "rarity": "Common",
         "flavorText": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/26.png",
@@ -2024,11 +1800,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -2039,11 +1811,7 @@ let sv4 = [
         "number": "27",
         "artist": "takuyoa",
         "rarity": "Double Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/27.png",
@@ -2098,11 +1866,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -2114,11 +1878,7 @@ let sv4 = [
         "artist": "Kouki Saitou",
         "rarity": "Rare",
         "flavorText": "No records exist of this species being caught. Data is lacking, but the Pokémon's traits match up with an object described in an old book.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/28.png",
@@ -2173,11 +1933,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -2189,11 +1945,7 @@ let sv4 = [
         "artist": "Oswaldo KATO",
         "rarity": "Rare",
         "flavorText": "It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/29.png",
@@ -2241,11 +1993,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -2260,11 +2008,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/30.png",
@@ -2314,11 +2057,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -2333,11 +2072,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/31.png",
@@ -2393,11 +2127,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -2412,11 +2142,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/32.png",
@@ -2464,11 +2189,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -2483,11 +2204,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             223
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/33.png",
@@ -2542,11 +2258,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -2561,11 +2273,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             224
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/34.png",
@@ -2613,11 +2320,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -2632,11 +2335,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             349
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/35.png",
@@ -2691,11 +2389,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -2710,11 +2404,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             350
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/36.png",
@@ -2763,11 +2452,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -2782,11 +2467,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             361
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/37.png",
@@ -2843,11 +2523,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -2861,11 +2537,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/38.png",
@@ -2909,11 +2580,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -2928,11 +2595,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             458
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/39.png",
@@ -2990,11 +2652,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -3009,11 +2667,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/40.png",
@@ -3072,11 +2725,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -3091,11 +2740,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             515
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/41.png",
@@ -3150,11 +2794,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -3169,11 +2809,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             516
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/42.png",
@@ -3222,11 +2857,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -3241,11 +2872,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             582
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/43.png",
@@ -3296,11 +2922,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -3315,11 +2937,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             583
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/44.png",
@@ -3374,11 +2991,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -3393,11 +3006,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             584
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/45.png",
@@ -3459,11 +3067,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -3477,11 +3081,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             763
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/46.png",
@@ -3540,11 +3139,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -3559,11 +3154,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             767
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/47.png",
@@ -3623,11 +3213,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -3642,11 +3228,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             767
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/48.png",
@@ -3704,11 +3285,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -3723,11 +3300,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             768
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/49.png",
@@ -3791,11 +3363,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -3809,11 +3377,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             768
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/50.png",
@@ -3858,11 +3421,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -3874,11 +3433,7 @@ let sv4 = [
         "artist": "Shibuzoh.",
         "rarity": "Common",
         "flavorText": "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/51.png",
@@ -3924,11 +3479,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -3940,11 +3491,7 @@ let sv4 = [
         "artist": "Tomokazu Komiya",
         "rarity": "Common",
         "flavorText": "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/52.png",
@@ -3999,11 +3546,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4015,11 +3558,7 @@ let sv4 = [
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
         "flavorText": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/53.png",
@@ -4074,11 +3613,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4090,11 +3625,7 @@ let sv4 = [
         "artist": "Oswaldo KATO",
         "rarity": "Uncommon",
         "flavorText": "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/54.png",
@@ -4155,11 +3686,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4171,11 +3698,7 @@ let sv4 = [
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
         "flavorText": "This Pokémon is a glutton, but it's bad at getting food. It teams up with a Tatsugiri to catch prey.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/55.png",
@@ -4229,11 +3752,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4245,11 +3764,7 @@ let sv4 = [
         "artist": "Oswaldo KATO",
         "rarity": "Uncommon",
         "flavorText": "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/56.png",
@@ -4305,11 +3820,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4321,11 +3832,7 @@ let sv4 = [
         "artist": "Anesaki Dynamic",
         "rarity": "Rare",
         "flavorText": "The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/57.png",
@@ -4386,11 +3893,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4404,11 +3907,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/58.png",
@@ -4452,11 +3950,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4471,11 +3965,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             239
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/59.png",
@@ -4521,11 +4010,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4540,11 +4025,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             311
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/60.png",
@@ -4596,11 +4076,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4615,11 +4091,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             312
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/61.png",
@@ -4678,11 +4149,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4697,11 +4164,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             522
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/62.png",
@@ -4758,11 +4220,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4777,11 +4235,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             523
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/63.png",
@@ -4829,11 +4282,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4848,11 +4297,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             595
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/64.png",
@@ -4898,11 +4342,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4917,11 +4357,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             596
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/65.png",
@@ -4978,11 +4413,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -4997,11 +4428,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/66.png",
@@ -5056,11 +4482,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -5075,11 +4497,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             741
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/67.png",
@@ -5140,11 +4557,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -5155,11 +4568,7 @@ let sv4 = [
         "number": "68",
         "artist": "hncl",
         "rarity": "Double Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/68.png",
@@ -5209,11 +4618,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -5228,11 +4633,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             848
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/69.png",
@@ -5298,11 +4698,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -5313,11 +4709,7 @@ let sv4 = [
         "number": "70",
         "artist": "PLANETA Mochizuki",
         "rarity": "Double Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/70.png",
@@ -5371,11 +4763,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -5390,11 +4778,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             177
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/71.png",
@@ -5455,11 +4838,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -5474,11 +4853,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             178
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/72.png",
@@ -5540,11 +4914,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -5559,11 +4929,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/73.png",
@@ -5625,11 +4990,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -5644,11 +5005,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/74.png",
@@ -5704,11 +5060,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -5723,11 +5075,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             562
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/75.png",
@@ -5792,11 +5139,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -5810,11 +5153,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             563
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/76.png",
@@ -5879,11 +5217,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -5898,11 +5232,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             710
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/77.png",
@@ -5964,11 +5293,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -5983,11 +5308,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             711
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/78.png",
@@ -6038,11 +5358,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -6054,11 +5370,7 @@ let sv4 = [
         "artist": "Mizue",
         "rarity": "Common",
         "flavorText": "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/79.png",
@@ -6110,11 +5422,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -6126,11 +5434,7 @@ let sv4 = [
         "artist": "kodama",
         "rarity": "Common",
         "flavorText": "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/80.png",
@@ -6190,11 +5494,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -6206,11 +5506,7 @@ let sv4 = [
         "artist": "Teeziro",
         "rarity": "Rare",
         "flavorText": "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/81.png",
@@ -6264,11 +5560,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -6280,11 +5572,7 @@ let sv4 = [
         "artist": "Teeziro",
         "rarity": "Common",
         "flavorText": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it's satisfied with the result.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/82.png",
@@ -6330,11 +5618,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -6346,11 +5630,7 @@ let sv4 = [
         "artist": "Oswaldo KATO",
         "rarity": "Common",
         "flavorText": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it's satisfied with the result.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/83.png",
@@ -6397,11 +5677,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -6413,11 +5689,7 @@ let sv4 = [
         "artist": "Souichirou Gunjima",
         "rarity": "Common",
         "flavorText": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other's hammers by smashing them together.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/84.png",
@@ -6473,11 +5745,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -6489,11 +5757,7 @@ let sv4 = [
         "artist": "KEIICHIRO ITO",
         "rarity": "Uncommon",
         "flavorText": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/85.png",
@@ -6554,11 +5818,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -6570,11 +5830,7 @@ let sv4 = [
         "artist": "Ryota Murayama",
         "rarity": "Uncommon",
         "flavorText": "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/86.png",
@@ -6635,11 +5891,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -6651,11 +5903,7 @@ let sv4 = [
         "artist": "Mizue",
         "rarity": "Common",
         "flavorText": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/87.png",
@@ -6707,11 +5955,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -6723,11 +5967,7 @@ let sv4 = [
         "artist": "Kouki Saitou",
         "rarity": "Common",
         "flavorText": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/88.png",
@@ -6786,11 +6026,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -6801,11 +6037,7 @@ let sv4 = [
         "number": "89",
         "artist": "aky CG Works",
         "rarity": "Double Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/89.png",
@@ -6867,11 +6099,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -6886,11 +6114,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/90.png",
@@ -6938,11 +6161,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -6957,11 +6176,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             207
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/91.png",
@@ -7019,11 +6233,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -7038,11 +6248,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             472
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/92.png",
@@ -7100,11 +6305,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -7119,11 +6320,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/93.png",
@@ -7171,11 +6367,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -7190,11 +6382,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             443
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/94.png",
@@ -7243,11 +6430,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -7262,11 +6445,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             444
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/95.png",
@@ -7324,11 +6502,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -7343,11 +6517,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             619
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/96.png",
@@ -7403,11 +6572,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -7422,11 +6587,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             620
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/97.png",
@@ -7489,11 +6649,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -7507,11 +6663,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             720
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/98.png",
@@ -7564,11 +6715,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -7583,11 +6730,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             774
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/99.png",
@@ -7651,11 +6793,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -7669,11 +6807,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             849
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/100.png",
@@ -7729,11 +6862,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -7745,11 +6874,7 @@ let sv4 = [
         "artist": "Mizue",
         "rarity": "Common",
         "flavorText": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/101.png",
@@ -7796,11 +6921,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -7812,11 +6933,7 @@ let sv4 = [
         "artist": "Pani Kobayashi",
         "rarity": "Common",
         "flavorText": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/102.png",
@@ -7865,11 +6982,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -7881,11 +6994,7 @@ let sv4 = [
         "artist": "KEIICHIRO ITO",
         "rarity": "Common",
         "flavorText": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey's body.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/103.png",
@@ -7943,11 +7052,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -7959,11 +7064,7 @@ let sv4 = [
         "artist": "Souichirou Gunjima",
         "rarity": "Rare",
         "flavorText": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/104.png",
@@ -8021,11 +7122,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -8037,11 +7134,7 @@ let sv4 = [
         "artist": "Yuya Oka",
         "rarity": "Uncommon",
         "flavorText": "Klawf hangs upside-down from cliffs, waiting for prey. But Klawf can't remain in this position for long because its blood rushes to its head.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/105.png",
@@ -8102,11 +7195,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -8118,11 +7207,7 @@ let sv4 = [
         "artist": "Anesaki Dynamic",
         "rarity": "Common",
         "flavorText": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/106.png",
@@ -8179,11 +7264,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -8195,11 +7276,7 @@ let sv4 = [
         "artist": "Anesaki Dynamic",
         "rarity": "Uncommon",
         "flavorText": "This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/107.png",
@@ -8258,11 +7335,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -8273,11 +7346,7 @@ let sv4 = [
         "number": "108",
         "artist": "PLANETA Mochizuki",
         "rarity": "Double Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/108.png",
@@ -8336,11 +7405,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -8352,11 +7417,7 @@ let sv4 = [
         "artist": "AKIRA EGAWA",
         "rarity": "Rare",
         "flavorText": "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/109.png",
@@ -8420,11 +7481,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -8439,11 +7496,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/110.png",
@@ -8499,11 +7551,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -8518,11 +7566,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/111.png",
@@ -8582,11 +7625,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -8601,11 +7640,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/112.png",
@@ -8660,11 +7694,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -8679,11 +7709,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             359
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/113.png",
@@ -8741,11 +7766,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -8760,11 +7781,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             509
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/114.png",
@@ -8820,11 +7836,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -8839,11 +7851,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             510
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/115.png",
@@ -8903,11 +7910,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -8922,11 +7925,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             568
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/116.png",
@@ -8985,11 +7983,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -9004,11 +7998,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             569
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/117.png",
@@ -9072,11 +8061,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -9091,11 +8076,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/118.png",
@@ -9143,11 +8123,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -9162,11 +8138,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             827
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/119.png",
@@ -9220,11 +8191,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -9239,11 +8206,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             828
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/120.png",
@@ -9296,11 +8258,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -9315,11 +8273,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             877
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/121.png",
@@ -9375,11 +8328,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -9391,11 +8340,7 @@ let sv4 = [
         "artist": "Souichirou Gunjima",
         "rarity": "Rare",
         "flavorText": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/122.png",
@@ -9451,11 +8396,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -9467,11 +8408,7 @@ let sv4 = [
         "artist": "Anesaki Dynamic",
         "rarity": "Rare",
         "flavorText": "It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/123.png",
@@ -9534,11 +8471,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -9549,11 +8482,7 @@ let sv4 = [
         "number": "124",
         "artist": "takuyoa",
         "rarity": "Double Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/124.png",
@@ -9621,11 +8550,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -9640,11 +8565,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/125.png",
@@ -9702,11 +8622,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -9721,11 +8637,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/126.png",
@@ -9781,11 +8692,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -9800,11 +8707,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             597
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/127.png",
@@ -9866,11 +8768,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -9885,11 +8783,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             598
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/128.png",
@@ -9952,11 +8845,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -9971,11 +8860,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             632
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/129.png",
@@ -10029,11 +8913,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -10048,11 +8928,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             679
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/130.png",
@@ -10106,11 +8981,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -10125,11 +8996,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             679
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/131.png",
@@ -10195,11 +9061,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -10214,11 +9076,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             680
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/132.png",
@@ -10284,11 +9141,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -10303,11 +9156,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             680
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/133.png",
@@ -10369,11 +9217,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -10388,11 +9232,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/134.png",
@@ -10460,11 +9299,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -10478,11 +9313,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/135.png",
@@ -10545,11 +9375,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -10564,11 +9390,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             888
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/136.png",
@@ -10635,11 +9456,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -10650,11 +9467,7 @@ let sv4 = [
         "number": "137",
         "artist": "5ban Graphics",
         "rarity": "Double Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/137.png",
@@ -10718,11 +9531,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -10734,11 +9543,7 @@ let sv4 = [
         "artist": "Pani Kobayashi",
         "rarity": "Uncommon",
         "flavorText": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/138.png",
@@ -10802,11 +9607,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -10817,11 +9618,7 @@ let sv4 = [
         "number": "139",
         "artist": "takuyoa",
         "rarity": "Double Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/139.png",
@@ -10873,11 +9670,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -10891,11 +9684,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/140.png",
@@ -10944,11 +9732,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -10960,11 +9744,7 @@ let sv4 = [
         "artist": "Shibuzoh.",
         "rarity": "Uncommon",
         "flavorText": "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/141.png",
@@ -11012,11 +9792,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -11031,11 +9807,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/142.png",
@@ -11084,11 +9855,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -11103,11 +9870,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             233
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/143.png",
@@ -11161,11 +9923,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -11180,11 +9938,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             474
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/144.png",
@@ -11242,11 +9995,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -11261,11 +10010,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             190
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/145.png",
@@ -11322,11 +10066,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -11341,11 +10081,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             424
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/146.png",
@@ -11392,11 +10127,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -11411,11 +10142,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             241
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/147.png",
@@ -11464,11 +10190,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -11483,11 +10205,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             293
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/148.png",
@@ -11547,11 +10264,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -11566,11 +10279,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             294
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/149.png",
@@ -11629,11 +10337,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -11648,11 +10352,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             295
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/150.png",
@@ -11706,11 +10405,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -11725,11 +10420,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             327
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/151.png",
@@ -11793,11 +10483,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -11812,11 +10498,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/152.png",
@@ -11857,11 +10538,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -11873,11 +10550,7 @@ let sv4 = [
         "artist": "Shibuzoh.",
         "rarity": "Common",
         "flavorText": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/153.png",
@@ -11923,11 +10596,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -11939,11 +10608,7 @@ let sv4 = [
         "artist": "Akira Komayama",
         "rarity": "Common",
         "flavorText": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/154.png",
@@ -11997,11 +10662,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12012,11 +10673,7 @@ let sv4 = [
         "number": "155",
         "artist": "5ban Graphics",
         "rarity": "Double Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/155.png",
@@ -12082,11 +10739,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12097,11 +10750,7 @@ let sv4 = [
         "number": "156",
         "artist": "PLANETA Mochizuki",
         "rarity": "Double Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/156.png",
@@ -12157,11 +10806,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12173,11 +10818,7 @@ let sv4 = [
         "artist": "kawayoo",
         "rarity": "Uncommon",
         "flavorText": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/157.png",
@@ -12244,11 +10885,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12260,11 +10897,7 @@ let sv4 = [
         "artist": "Souichirou Gunjima",
         "rarity": "Rare",
         "flavorText": "It's possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/158.png",
@@ -12285,11 +10918,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12300,11 +10929,7 @@ let sv4 = [
         "number": "159",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/159.png",
@@ -12325,11 +10950,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12340,11 +10961,7 @@ let sv4 = [
         "number": "160",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/160.png",
@@ -12365,11 +10982,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12380,11 +10993,7 @@ let sv4 = [
         "number": "161",
         "artist": "AYUMI ODASHIMA",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/161.png",
@@ -12405,11 +11014,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12420,11 +11025,7 @@ let sv4 = [
         "number": "162",
         "artist": "Ayaka Yoshida",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/162.png",
@@ -12445,11 +11046,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12460,11 +11057,7 @@ let sv4 = [
         "number": "163",
         "artist": "AYUMI ODASHIMA",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/163.png",
@@ -12485,11 +11078,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12500,11 +11089,7 @@ let sv4 = [
         "number": "164",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/164.png",
@@ -12525,11 +11110,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12540,11 +11121,7 @@ let sv4 = [
         "number": "165",
         "artist": "Akira Komayama",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/165.png",
@@ -12565,11 +11142,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12580,11 +11153,7 @@ let sv4 = [
         "number": "166",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/166.png",
@@ -12605,11 +11174,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12620,11 +11185,7 @@ let sv4 = [
         "number": "167",
         "artist": "kirisAki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/167.png",
@@ -12645,11 +11206,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12660,11 +11217,7 @@ let sv4 = [
         "number": "168",
         "artist": "Hideki Ishikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/168.png",
@@ -12685,11 +11238,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12700,11 +11249,7 @@ let sv4 = [
         "number": "169",
         "artist": "Cona Nitanda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/169.png",
@@ -12725,11 +11270,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12740,11 +11281,7 @@ let sv4 = [
         "number": "170",
         "artist": "Megumi Mizutani",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/170.png",
@@ -12765,11 +11302,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12780,11 +11313,7 @@ let sv4 = [
         "number": "171",
         "artist": "hncl",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/171.png",
@@ -12805,11 +11334,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12820,11 +11345,7 @@ let sv4 = [
         "number": "172",
         "artist": "GIDORA",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/172.png",
@@ -12845,11 +11366,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12860,11 +11377,7 @@ let sv4 = [
         "number": "173",
         "artist": "Ryuta Fuse",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/173.png",
@@ -12885,11 +11398,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12900,11 +11409,7 @@ let sv4 = [
         "number": "174",
         "artist": "yuu",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/174.png",
@@ -12926,11 +11431,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12941,11 +11442,7 @@ let sv4 = [
         "number": "175",
         "artist": "AYUMI ODASHIMA",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/175.png",
@@ -12979,11 +11476,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -12994,11 +11487,7 @@ let sv4 = [
         "number": "176",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/176.png",
@@ -13030,11 +11519,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13045,11 +11530,7 @@ let sv4 = [
         "number": "177",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/177.png",
@@ -13081,11 +11562,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13096,11 +11573,7 @@ let sv4 = [
         "number": "178",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/178.png",
@@ -13132,11 +11605,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13147,11 +11616,7 @@ let sv4 = [
         "number": "179",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/179.png",
@@ -13172,11 +11637,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13187,11 +11648,7 @@ let sv4 = [
         "number": "180",
         "artist": "inose yukie",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/180.png",
@@ -13212,11 +11669,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13227,11 +11680,7 @@ let sv4 = [
         "number": "181",
         "artist": "Naoki Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/181.png",
@@ -13251,11 +11700,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13265,11 +11710,7 @@ let sv4 = [
         },
         "number": "182",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/182.png",
@@ -13329,11 +11770,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13348,11 +11785,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             558
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/183.png",
@@ -13412,11 +11844,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13431,11 +11859,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             825
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/184.png",
@@ -13491,11 +11914,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13507,11 +11926,7 @@ let sv4 = [
         "artist": "KEIICHIRO ITO",
         "rarity": "Illustration Rare",
         "flavorText": "It coils its 10 tentacles around prey and sucks out their nutrients, causing the prey pain. The folds along the rim of its head are a popular delicacy.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/185.png",
@@ -13555,11 +11970,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13574,11 +11985,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             240
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/186.png",
@@ -13633,11 +12039,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13649,11 +12051,7 @@ let sv4 = [
         "artist": "Takeshi Nakamura",
         "rarity": "Illustration Rare",
         "flavorText": "No records exist of this species being caught. Data is lacking, but the Pokémon's traits match up with an object described in an old book.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/187.png",
@@ -13702,11 +12100,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13721,11 +12115,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             361
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/188.png",
@@ -13769,11 +12158,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13788,11 +12173,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             458
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/189.png",
@@ -13843,11 +12223,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13862,11 +12238,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             583
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/190.png",
@@ -13926,11 +12297,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -13945,11 +12312,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             767
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/191.png",
@@ -14004,11 +12366,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -14020,11 +12378,7 @@ let sv4 = [
         "artist": "Shibuzoh.",
         "rarity": "Illustration Rare",
         "flavorText": "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/192.png",
@@ -14070,11 +12424,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -14089,11 +12439,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             311
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/193.png",
@@ -14145,11 +12490,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -14164,11 +12505,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             312
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/194.png",
@@ -14227,11 +12563,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -14246,11 +12578,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             522
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/195.png",
@@ -14298,11 +12625,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -14317,11 +12640,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             595
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/196.png",
@@ -14381,11 +12699,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -14397,11 +12711,7 @@ let sv4 = [
         "artist": "AKIRA EGAWA",
         "rarity": "Illustration Rare",
         "flavorText": "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/197.png",
@@ -14453,11 +12763,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -14469,11 +12775,7 @@ let sv4 = [
         "artist": "Akira Komayama",
         "rarity": "Illustration Rare",
         "flavorText": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/198.png",
@@ -14531,11 +12833,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -14550,11 +12848,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/199.png",
@@ -14610,11 +12903,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -14629,11 +12918,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             620
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/200.png",
@@ -14686,11 +12970,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -14705,11 +12985,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             774
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/201.png",
@@ -14767,11 +13042,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -14783,11 +13054,7 @@ let sv4 = [
         "artist": "kodama",
         "rarity": "Illustration Rare",
         "flavorText": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/202.png",
@@ -14844,11 +13111,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -14860,11 +13123,7 @@ let sv4 = [
         "artist": "Takeshi Nakamura",
         "rarity": "Illustration Rare",
         "flavorText": "This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/203.png",
@@ -14923,11 +13182,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -14942,11 +13197,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             569
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/204.png",
@@ -15010,11 +13260,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -15029,11 +13275,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/205.png",
@@ -15086,11 +13327,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -15105,11 +13342,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             877
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/206.png",
@@ -15165,11 +13397,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -15181,11 +13409,7 @@ let sv4 = [
         "artist": "Tomokazu Komiya",
         "rarity": "Illustration Rare",
         "flavorText": "It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/207.png",
@@ -15253,11 +13477,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -15272,11 +13492,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/208.png",
@@ -15338,11 +13553,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -15357,11 +13568,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             598
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/209.png",
@@ -15423,11 +13629,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -15442,11 +13644,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/210.png",
@@ -15504,11 +13701,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -15523,11 +13716,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             190
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/211.png",
@@ -15587,11 +13775,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -15606,11 +13790,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             294
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/212.png",
@@ -15674,11 +13853,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -15693,11 +13868,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/213.png",
@@ -15751,11 +13921,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -15770,11 +13936,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             474
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/214.png",
@@ -15830,11 +13991,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -15846,11 +14003,7 @@ let sv4 = [
         "artist": "Mina Nakai",
         "rarity": "Illustration Rare",
         "flavorText": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/215.png",
@@ -15917,11 +14070,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -15933,11 +14082,7 @@ let sv4 = [
         "artist": "GIDORA",
         "rarity": "Illustration Rare",
         "flavorText": "It's possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon.",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/216.png",
@@ -15996,11 +14141,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -16014,11 +14155,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             478
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/217.png",
@@ -16077,11 +14213,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -16092,11 +14224,7 @@ let sv4 = [
         "number": "218",
         "artist": "takuyoa",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/218.png",
@@ -16153,11 +14281,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -16171,11 +14295,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/219.png",
@@ -16237,11 +14356,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -16255,11 +14370,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             763
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/220.png",
@@ -16323,11 +14433,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -16341,11 +14447,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             768
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/221.png",
@@ -16406,11 +14507,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -16421,11 +14518,7 @@ let sv4 = [
         "number": "222",
         "artist": "PLANETA Igarashi",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/222.png",
@@ -16491,11 +14584,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -16506,11 +14595,7 @@ let sv4 = [
         "number": "223",
         "artist": "PLANETA Mochizuki",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/223.png",
@@ -16575,11 +14660,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -16593,11 +14674,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             563
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/224.png",
@@ -16656,11 +14732,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -16671,11 +14743,7 @@ let sv4 = [
         "number": "225",
         "artist": "aky CG Works",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/225.png",
@@ -16738,11 +14806,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -16756,11 +14820,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             720
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/226.png",
@@ -16824,11 +14883,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -16842,11 +14897,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             849
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/227.png",
@@ -16905,11 +14955,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -16920,11 +14966,7 @@ let sv4 = [
         "number": "228",
         "artist": "PLANETA Mochizuki",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/228.png",
@@ -16987,11 +15029,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17002,11 +15040,7 @@ let sv4 = [
         "number": "229",
         "artist": "takuyoa",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/229.png",
@@ -17074,11 +15108,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17092,11 +15122,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/230.png",
@@ -17160,11 +15185,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17175,11 +15196,7 @@ let sv4 = [
         "number": "231",
         "artist": "takuyoa",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/231.png",
@@ -17231,11 +15248,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17249,11 +15262,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/232.png",
@@ -17307,11 +15315,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17322,11 +15326,7 @@ let sv4 = [
         "number": "233",
         "artist": "5ban Graphics",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/233.png",
@@ -17392,11 +15392,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17407,11 +15403,7 @@ let sv4 = [
         "number": "234",
         "artist": "PLANETA Mochizuki",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/234.png",
@@ -17432,11 +15424,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17447,11 +15435,7 @@ let sv4 = [
         "number": "235",
         "artist": "Akira Komayama",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/235.png",
@@ -17472,11 +15456,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17487,11 +15467,7 @@ let sv4 = [
         "number": "236",
         "artist": "kirisAki",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/236.png",
@@ -17512,11 +15488,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17527,11 +15499,7 @@ let sv4 = [
         "number": "237",
         "artist": "Hideki Ishikawa",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/237.png",
@@ -17552,11 +15520,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17567,11 +15531,7 @@ let sv4 = [
         "number": "238",
         "artist": "Cona Nitanda",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/238.png",
@@ -17592,11 +15552,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17607,11 +15563,7 @@ let sv4 = [
         "number": "239",
         "artist": "Megumi Mizutani",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/239.png",
@@ -17632,11 +15584,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17647,11 +15595,7 @@ let sv4 = [
         "number": "240",
         "artist": "hncl",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/240.png",
@@ -17672,11 +15616,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17687,11 +15627,7 @@ let sv4 = [
         "number": "241",
         "artist": "GIDORA",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/241.png",
@@ -17712,11 +15648,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17727,11 +15659,7 @@ let sv4 = [
         "number": "242",
         "artist": "Ryuta Fuse",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/242.png",
@@ -17752,11 +15680,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17767,11 +15691,7 @@ let sv4 = [
         "number": "243",
         "artist": "En Morikura",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/243.png",
@@ -17792,11 +15712,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17807,11 +15723,7 @@ let sv4 = [
         "number": "244",
         "artist": "Naoki Saito",
         "rarity": "Ultra Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/244.png",
@@ -17868,11 +15780,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17886,11 +15794,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/245.png",
@@ -17954,11 +15857,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -17972,11 +15871,6 @@ let sv4 = [
         "nationalPokedexNumbers": [
             768
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/246.png",
@@ -18037,11 +15931,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -18052,11 +15942,7 @@ let sv4 = [
         "number": "247",
         "artist": "Jerky",
         "rarity": "Special Illustration Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/247.png",
@@ -18122,11 +16008,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -18137,11 +16019,7 @@ let sv4 = [
         "number": "248",
         "artist": "Toshinao Aoki",
         "rarity": "Special Illustration Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/248.png",
@@ -18200,11 +16078,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -18215,11 +16089,7 @@ let sv4 = [
         "number": "249",
         "artist": "kantaro",
         "rarity": "Special Illustration Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/249.png",
@@ -18278,11 +16148,7 @@ let sv4 = [
             "series": "Scarlet & Violet",
             "printedTotal": 182,
             "total": 266,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2023/11/03",
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
@@ -18293,11 +16159,7 @@ let sv4 = [
         "number": "250",
         "artist": "Toshinao Aoki",
         "rarity": "Special Illustration Rare",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4/250.png",
@@ -18375,11 +16237,7 @@ let sv4 = [
             "number": "251",
             "artist": "Ryota Murayama",
             "rarity": "Special Illustration Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/251.png",
@@ -18458,11 +16316,7 @@ let sv4 = [
             "number": "252",
             "artist": "Akira Komayama",
             "rarity": "Special Illustration Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/252.png",
@@ -18532,11 +16386,7 @@ let sv4 = [
             "nationalPokedexNumbers": [
                 334
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/253.png",
@@ -18572,11 +16422,7 @@ let sv4 = [
             "number": "254",
             "artist": "rika",
             "rarity": "Special Illustration Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/254.png",
@@ -18612,11 +16458,7 @@ let sv4 = [
             "number": "255",
             "artist": "En Morikura",
             "rarity": "Special Illustration Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/255.png",
@@ -18652,11 +16494,7 @@ let sv4 = [
             "number": "256",
             "artist": "Ryota Murayama",
             "rarity": "Special Illustration Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/256.png",
@@ -18692,11 +16530,7 @@ let sv4 = [
             "number": "257",
             "artist": "Atsushi Furusawa",
             "rarity": "Special Illustration Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/257.png",
@@ -18732,11 +16566,7 @@ let sv4 = [
             "number": "258",
             "artist": "kantaro",
             "rarity": "Special Illustration Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/258.png",
@@ -18772,11 +16602,7 @@ let sv4 = [
             "number": "259",
             "artist": "AKIRA EGAWA",
             "rarity": "Special Illustration Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/259.png",
@@ -18851,11 +16677,7 @@ let sv4 = [
             "nationalPokedexNumbers": [
                 445
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/260.png",
@@ -18929,11 +16751,7 @@ let sv4 = [
             "number": "261",
             "artist": "aky CG Works",
             "rarity": "Hyper Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/261.png",
@@ -19011,11 +16829,7 @@ let sv4 = [
             "number": "262",
             "artist": "takuyoa",
             "rarity": "Hyper Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/262.png",
@@ -19051,11 +16865,7 @@ let sv4 = [
             "number": "263",
             "artist": "Oswaldo KATO",
             "rarity": "Hyper Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/263.png",
@@ -19091,11 +16901,7 @@ let sv4 = [
             "number": "264",
             "artist": "Toyste Beach",
             "rarity": "Hyper Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/264.png",
@@ -19131,11 +16937,7 @@ let sv4 = [
             "number": "265",
             "artist": "Toyste Beach",
             "rarity": "Hyper Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/265.png",
@@ -19169,11 +16971,7 @@ let sv4 = [
             },
             "number": "266",
             "rarity": "Hyper Rare",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "G",
             "images": {
                 "small": "https://images.pokemontcg.io/sv4/266.png",

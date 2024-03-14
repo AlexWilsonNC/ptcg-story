@@ -49,9 +49,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -65,9 +63,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/1.png",
             "large": "https://images.pokemontcg.io/gym2/1_hires.png"
@@ -125,9 +121,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -141,9 +135,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/2.png",
             "large": "https://images.pokemontcg.io/gym2/2_hires.png"
@@ -193,9 +185,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -209,9 +199,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/3.png",
             "large": "https://images.pokemontcg.io/gym2/3_hires.png"
@@ -265,9 +253,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -281,9 +267,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/4.png",
             "large": "https://images.pokemontcg.io/gym2/4_hires.png"
@@ -343,9 +327,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -359,9 +341,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/5.png",
             "large": "https://images.pokemontcg.io/gym2/5_hires.png"
@@ -413,9 +393,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -429,9 +407,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/6.png",
             "large": "https://images.pokemontcg.io/gym2/6_hires.png"
@@ -485,9 +461,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -501,9 +475,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/7.png",
             "large": "https://images.pokemontcg.io/gym2/7_hires.png"
@@ -559,9 +531,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -575,9 +545,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/8.png",
             "large": "https://images.pokemontcg.io/gym2/8_hires.png"
@@ -636,9 +604,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -652,9 +618,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/9.png",
             "large": "https://images.pokemontcg.io/gym2/9_hires.png"
@@ -710,9 +674,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -726,9 +688,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/10.png",
             "large": "https://images.pokemontcg.io/gym2/10_hires.png"
@@ -783,9 +743,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -799,9 +757,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/11.png",
             "large": "https://images.pokemontcg.io/gym2/11_hires.png"
@@ -854,9 +810,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -870,9 +824,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/12.png",
             "large": "https://images.pokemontcg.io/gym2/12_hires.png"
@@ -930,9 +882,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -946,9 +896,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/13.png",
             "large": "https://images.pokemontcg.io/gym2/13_hires.png"
@@ -1011,9 +959,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1027,9 +973,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/14.png",
             "large": "https://images.pokemontcg.io/gym2/14_hires.png"
@@ -1082,9 +1026,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1098,9 +1040,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/15.png",
             "large": "https://images.pokemontcg.io/gym2/15_hires.png"
@@ -1152,9 +1092,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1168,9 +1106,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/16.png",
             "large": "https://images.pokemontcg.io/gym2/16_hires.png"
@@ -1189,9 +1125,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1202,9 +1136,7 @@ let gym2 = [
         "number": "17",
         "artist": "Ken Sugimori",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/17.png",
             "large": "https://images.pokemontcg.io/gym2/17_hires.png"
@@ -1223,9 +1155,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1236,9 +1166,7 @@ let gym2 = [
         "number": "18",
         "artist": "Ken Sugimori",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/18.png",
             "large": "https://images.pokemontcg.io/gym2/18_hires.png"
@@ -1257,9 +1185,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1270,9 +1196,7 @@ let gym2 = [
         "number": "19",
         "artist": "Ken Sugimori",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/19.png",
             "large": "https://images.pokemontcg.io/gym2/19_hires.png"
@@ -1291,9 +1215,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1304,9 +1226,7 @@ let gym2 = [
         "number": "20",
         "artist": "Ken Sugimori",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/20.png",
             "large": "https://images.pokemontcg.io/gym2/20_hires.png"
@@ -1356,9 +1276,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1372,9 +1290,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/21.png",
             "large": "https://images.pokemontcg.io/gym2/21_hires.png"
@@ -1433,9 +1349,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1449,9 +1363,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/22.png",
             "large": "https://images.pokemontcg.io/gym2/22_hires.png"
@@ -1507,9 +1419,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1523,9 +1433,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/23.png",
             "large": "https://images.pokemontcg.io/gym2/23_hires.png"
@@ -1578,9 +1486,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1594,9 +1500,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/24.png",
             "large": "https://images.pokemontcg.io/gym2/24_hires.png"
@@ -1648,9 +1552,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1664,9 +1566,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/25.png",
             "large": "https://images.pokemontcg.io/gym2/25_hires.png"
@@ -1717,9 +1617,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1733,9 +1631,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/26.png",
             "large": "https://images.pokemontcg.io/gym2/26_hires.png"
@@ -1799,9 +1695,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1815,9 +1709,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/27.png",
             "large": "https://images.pokemontcg.io/gym2/27_hires.png"
@@ -1871,9 +1763,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1887,9 +1777,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/28.png",
             "large": "https://images.pokemontcg.io/gym2/28_hires.png"
@@ -1943,9 +1831,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -1959,9 +1845,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/29.png",
             "large": "https://images.pokemontcg.io/gym2/29_hires.png"
@@ -2015,9 +1899,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2031,9 +1913,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/30.png",
             "large": "https://images.pokemontcg.io/gym2/30_hires.png"
@@ -2090,9 +1970,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2106,9 +1984,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/31.png",
             "large": "https://images.pokemontcg.io/gym2/31_hires.png"
@@ -2157,9 +2033,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2173,9 +2047,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/32.png",
             "large": "https://images.pokemontcg.io/gym2/32_hires.png"
@@ -2227,9 +2099,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2243,9 +2113,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/33.png",
             "large": "https://images.pokemontcg.io/gym2/33_hires.png"
@@ -2302,9 +2170,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2318,9 +2184,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/34.png",
             "large": "https://images.pokemontcg.io/gym2/34_hires.png"
@@ -2371,9 +2235,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2387,9 +2249,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/35.png",
             "large": "https://images.pokemontcg.io/gym2/35_hires.png"
@@ -2448,9 +2308,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2464,9 +2322,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/36.png",
             "large": "https://images.pokemontcg.io/gym2/36_hires.png"
@@ -2520,9 +2376,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2536,9 +2390,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/37.png",
             "large": "https://images.pokemontcg.io/gym2/37_hires.png"
@@ -2589,9 +2441,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2605,9 +2455,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             69
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/38.png",
             "large": "https://images.pokemontcg.io/gym2/38_hires.png"
@@ -2661,9 +2509,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2677,9 +2523,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/39.png",
             "large": "https://images.pokemontcg.io/gym2/39_hires.png"
@@ -2739,9 +2583,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2755,9 +2597,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/40.png",
             "large": "https://images.pokemontcg.io/gym2/40_hires.png"
@@ -2811,9 +2651,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2827,9 +2665,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/41.png",
             "large": "https://images.pokemontcg.io/gym2/41_hires.png"
@@ -2885,9 +2721,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2901,9 +2735,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/42.png",
             "large": "https://images.pokemontcg.io/gym2/42_hires.png"
@@ -2963,9 +2795,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -2979,9 +2809,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/43.png",
             "large": "https://images.pokemontcg.io/gym2/43_hires.png"
@@ -3038,9 +2866,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3054,9 +2880,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/44.png",
             "large": "https://images.pokemontcg.io/gym2/44_hires.png"
@@ -3103,9 +2927,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3119,9 +2941,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             33
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/45.png",
             "large": "https://images.pokemontcg.io/gym2/45_hires.png"
@@ -3183,9 +3003,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3199,9 +3017,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/46.png",
             "large": "https://images.pokemontcg.io/gym2/46_hires.png"
@@ -3253,9 +3069,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3269,9 +3083,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/47.png",
             "large": "https://images.pokemontcg.io/gym2/47_hires.png"
@@ -3325,9 +3137,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3341,9 +3151,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/48.png",
             "large": "https://images.pokemontcg.io/gym2/48_hires.png"
@@ -3403,9 +3211,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3419,9 +3225,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/49.png",
             "large": "https://images.pokemontcg.io/gym2/49_hires.png"
@@ -3475,9 +3279,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3491,9 +3293,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/50.png",
             "large": "https://images.pokemontcg.io/gym2/50_hires.png"
@@ -3560,9 +3360,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3576,9 +3374,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/51.png",
             "large": "https://images.pokemontcg.io/gym2/51_hires.png"
@@ -3629,9 +3425,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3645,9 +3439,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/52.png",
             "large": "https://images.pokemontcg.io/gym2/52_hires.png"
@@ -3705,9 +3497,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3721,9 +3511,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/53.png",
             "large": "https://images.pokemontcg.io/gym2/53_hires.png"
@@ -3778,9 +3566,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3794,9 +3580,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/54.png",
             "large": "https://images.pokemontcg.io/gym2/54_hires.png"
@@ -3852,9 +3636,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3868,9 +3650,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/55.png",
             "large": "https://images.pokemontcg.io/gym2/55_hires.png"
@@ -3922,9 +3702,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -3938,9 +3716,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/56.png",
             "large": "https://images.pokemontcg.io/gym2/56_hires.png"
@@ -3991,9 +3767,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4007,9 +3781,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/57.png",
             "large": "https://images.pokemontcg.io/gym2/57_hires.png"
@@ -4065,9 +3837,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4081,9 +3851,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             64
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/58.png",
             "large": "https://images.pokemontcg.io/gym2/58_hires.png"
@@ -4125,9 +3893,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4141,9 +3907,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/59.png",
             "large": "https://images.pokemontcg.io/gym2/59_hires.png"
@@ -4187,9 +3951,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4203,9 +3965,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/60.png",
             "large": "https://images.pokemontcg.io/gym2/60_hires.png"
@@ -4264,9 +4024,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4280,9 +4038,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/61.png",
             "large": "https://images.pokemontcg.io/gym2/61_hires.png"
@@ -4337,9 +4093,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4353,9 +4107,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/62.png",
             "large": "https://images.pokemontcg.io/gym2/62_hires.png"
@@ -4407,9 +4159,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4423,9 +4173,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/63.png",
             "large": "https://images.pokemontcg.io/gym2/63_hires.png"
@@ -4470,9 +4218,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4486,9 +4232,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/64.png",
             "large": "https://images.pokemontcg.io/gym2/64_hires.png"
@@ -4549,9 +4293,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4565,9 +4307,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/65.png",
             "large": "https://images.pokemontcg.io/gym2/65_hires.png"
@@ -4620,9 +4360,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4636,9 +4374,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/66.png",
             "large": "https://images.pokemontcg.io/gym2/66_hires.png"
@@ -4698,9 +4434,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4714,9 +4448,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/67.png",
             "large": "https://images.pokemontcg.io/gym2/67_hires.png"
@@ -4760,9 +4492,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4776,9 +4506,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/68.png",
             "large": "https://images.pokemontcg.io/gym2/68_hires.png"
@@ -4838,9 +4566,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4854,9 +4580,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/69.png",
             "large": "https://images.pokemontcg.io/gym2/69_hires.png"
@@ -4900,9 +4624,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4916,9 +4638,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/70.png",
             "large": "https://images.pokemontcg.io/gym2/70_hires.png"
@@ -4972,9 +4692,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -4988,9 +4706,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/71.png",
             "large": "https://images.pokemontcg.io/gym2/71_hires.png"
@@ -5044,9 +4760,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5060,9 +4774,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/72.png",
             "large": "https://images.pokemontcg.io/gym2/72_hires.png"
@@ -5116,9 +4828,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5132,9 +4842,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/73.png",
             "large": "https://images.pokemontcg.io/gym2/73_hires.png"
@@ -5195,9 +4903,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5211,9 +4917,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/74.png",
             "large": "https://images.pokemontcg.io/gym2/74_hires.png"
@@ -5267,9 +4971,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5283,9 +4985,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/75.png",
             "large": "https://images.pokemontcg.io/gym2/75_hires.png"
@@ -5338,9 +5038,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5354,9 +5052,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             32
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/76.png",
             "large": "https://images.pokemontcg.io/gym2/76_hires.png"
@@ -5400,9 +5096,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5416,9 +5110,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             23
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/77.png",
             "large": "https://images.pokemontcg.io/gym2/77_hires.png"
@@ -5472,9 +5164,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5488,9 +5178,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/78.png",
             "large": "https://images.pokemontcg.io/gym2/78_hires.png"
@@ -5534,9 +5222,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5550,9 +5236,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/79.png",
             "large": "https://images.pokemontcg.io/gym2/79_hires.png"
@@ -5613,9 +5297,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5629,9 +5311,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/80.png",
             "large": "https://images.pokemontcg.io/gym2/80_hires.png"
@@ -5685,9 +5365,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5701,9 +5379,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             114
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/81.png",
             "large": "https://images.pokemontcg.io/gym2/81_hires.png"
@@ -5757,9 +5433,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5773,9 +5447,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/82.png",
             "large": "https://images.pokemontcg.io/gym2/82_hires.png"
@@ -5825,9 +5497,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5841,9 +5511,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/83.png",
             "large": "https://images.pokemontcg.io/gym2/83_hires.png"
@@ -5887,9 +5555,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5903,9 +5569,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/84.png",
             "large": "https://images.pokemontcg.io/gym2/84_hires.png"
@@ -5964,9 +5628,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -5980,9 +5642,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/85.png",
             "large": "https://images.pokemontcg.io/gym2/85_hires.png"
@@ -6027,9 +5687,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6043,9 +5701,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/86.png",
             "large": "https://images.pokemontcg.io/gym2/86_hires.png"
@@ -6089,9 +5745,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6105,9 +5759,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/87.png",
             "large": "https://images.pokemontcg.io/gym2/87_hires.png"
@@ -6160,9 +5812,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6176,9 +5826,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/88.png",
             "large": "https://images.pokemontcg.io/gym2/88_hires.png"
@@ -6232,9 +5880,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6248,9 +5894,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             60
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/89.png",
             "large": "https://images.pokemontcg.io/gym2/89_hires.png"
@@ -6294,9 +5938,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6310,9 +5952,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/90.png",
             "large": "https://images.pokemontcg.io/gym2/90_hires.png"
@@ -6366,9 +6006,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6382,9 +6020,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/91.png",
             "large": "https://images.pokemontcg.io/gym2/91_hires.png"
@@ -6428,9 +6064,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6444,9 +6078,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/92.png",
             "large": "https://images.pokemontcg.io/gym2/92_hires.png"
@@ -6499,9 +6131,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6515,9 +6145,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/93.png",
             "large": "https://images.pokemontcg.io/gym2/93_hires.png"
@@ -6570,9 +6198,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6586,9 +6212,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/94.png",
             "large": "https://images.pokemontcg.io/gym2/94_hires.png"
@@ -6642,9 +6266,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6658,9 +6280,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/95.png",
             "large": "https://images.pokemontcg.io/gym2/95_hires.png"
@@ -6713,9 +6333,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6729,9 +6347,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/96.png",
             "large": "https://images.pokemontcg.io/gym2/96_hires.png"
@@ -6783,9 +6399,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6799,9 +6413,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/97.png",
             "large": "https://images.pokemontcg.io/gym2/97_hires.png"
@@ -6861,9 +6473,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6877,9 +6487,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/98.png",
             "large": "https://images.pokemontcg.io/gym2/98_hires.png"
@@ -6932,9 +6540,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6948,9 +6554,7 @@ let gym2 = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/99.png",
             "large": "https://images.pokemontcg.io/gym2/99_hires.png"
@@ -6969,9 +6573,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -6982,9 +6584,7 @@ let gym2 = [
         "number": "100",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/100.png",
             "large": "https://images.pokemontcg.io/gym2/100_hires.png"
@@ -7003,9 +6603,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7016,9 +6614,7 @@ let gym2 = [
         "number": "101",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/101.png",
             "large": "https://images.pokemontcg.io/gym2/101_hires.png"
@@ -7041,9 +6637,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7054,9 +6648,7 @@ let gym2 = [
         "number": "102",
         "artist": "Keiji Kinebuchi",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/102.png",
             "large": "https://images.pokemontcg.io/gym2/102_hires.png"
@@ -7075,9 +6667,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7088,9 +6678,7 @@ let gym2 = [
         "number": "103",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/103.png",
             "large": "https://images.pokemontcg.io/gym2/103_hires.png"
@@ -7109,9 +6697,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7122,9 +6708,7 @@ let gym2 = [
         "number": "104",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/104.png",
             "large": "https://images.pokemontcg.io/gym2/104_hires.png"
@@ -7143,9 +6727,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7156,9 +6738,7 @@ let gym2 = [
         "number": "105",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/105.png",
             "large": "https://images.pokemontcg.io/gym2/105_hires.png"
@@ -7177,9 +6757,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7190,9 +6768,7 @@ let gym2 = [
         "number": "106",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/106.png",
             "large": "https://images.pokemontcg.io/gym2/106_hires.png"
@@ -7211,9 +6787,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7224,9 +6798,7 @@ let gym2 = [
         "number": "107",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/107.png",
             "large": "https://images.pokemontcg.io/gym2/107_hires.png"
@@ -7245,9 +6817,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7258,9 +6828,7 @@ let gym2 = [
         "number": "108",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/108.png",
             "large": "https://images.pokemontcg.io/gym2/108_hires.png"
@@ -7283,9 +6851,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7296,9 +6862,7 @@ let gym2 = [
         "number": "109",
         "artist": "Keiji Kinebuchi",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/109.png",
             "large": "https://images.pokemontcg.io/gym2/109_hires.png"
@@ -7317,9 +6881,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7330,9 +6892,7 @@ let gym2 = [
         "number": "110",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/110.png",
             "large": "https://images.pokemontcg.io/gym2/110_hires.png"
@@ -7351,9 +6911,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7364,9 +6922,7 @@ let gym2 = [
         "number": "111",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/111.png",
             "large": "https://images.pokemontcg.io/gym2/111_hires.png"
@@ -7385,9 +6941,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7398,9 +6952,7 @@ let gym2 = [
         "number": "112",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/112.png",
             "large": "https://images.pokemontcg.io/gym2/112_hires.png"
@@ -7423,9 +6975,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7436,9 +6986,7 @@ let gym2 = [
         "number": "113",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/113.png",
             "large": "https://images.pokemontcg.io/gym2/113_hires.png"
@@ -7461,9 +7009,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7474,9 +7020,7 @@ let gym2 = [
         "number": "114",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/114.png",
             "large": "https://images.pokemontcg.io/gym2/114_hires.png"
@@ -7495,9 +7039,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7508,9 +7050,7 @@ let gym2 = [
         "number": "115",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/115.png",
             "large": "https://images.pokemontcg.io/gym2/115_hires.png"
@@ -7529,9 +7069,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7542,9 +7080,7 @@ let gym2 = [
         "number": "116",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/116.png",
             "large": "https://images.pokemontcg.io/gym2/116_hires.png"
@@ -7563,9 +7099,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7576,9 +7110,7 @@ let gym2 = [
         "number": "117",
         "artist": "Hikaru Koike",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/117.png",
             "large": "https://images.pokemontcg.io/gym2/117_hires.png"
@@ -7597,9 +7129,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7610,9 +7140,7 @@ let gym2 = [
         "number": "118",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/118.png",
             "large": "https://images.pokemontcg.io/gym2/118_hires.png"
@@ -7635,9 +7163,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7648,9 +7174,7 @@ let gym2 = [
         "number": "119",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/119.png",
             "large": "https://images.pokemontcg.io/gym2/119_hires.png"
@@ -7669,9 +7193,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7682,9 +7204,7 @@ let gym2 = [
         "number": "120",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/120.png",
             "large": "https://images.pokemontcg.io/gym2/120_hires.png"
@@ -7703,9 +7223,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7716,9 +7234,7 @@ let gym2 = [
         "number": "121",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/121.png",
             "large": "https://images.pokemontcg.io/gym2/121_hires.png"
@@ -7741,9 +7257,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7754,9 +7268,7 @@ let gym2 = [
         "number": "122",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/122.png",
             "large": "https://images.pokemontcg.io/gym2/122_hires.png"
@@ -7779,9 +7291,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7792,9 +7302,7 @@ let gym2 = [
         "number": "123",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/123.png",
             "large": "https://images.pokemontcg.io/gym2/123_hires.png"
@@ -7813,9 +7321,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7826,9 +7332,7 @@ let gym2 = [
         "number": "124",
         "artist": "Ken Sugimori",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/124.png",
             "large": "https://images.pokemontcg.io/gym2/124_hires.png"
@@ -7847,9 +7351,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7860,9 +7362,7 @@ let gym2 = [
         "number": "125",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/125.png",
             "large": "https://images.pokemontcg.io/gym2/125_hires.png"
@@ -7881,9 +7381,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7894,9 +7392,7 @@ let gym2 = [
         "number": "126",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/126.png",
             "large": "https://images.pokemontcg.io/gym2/126_hires.png"
@@ -7915,9 +7411,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7927,11 +7421,7 @@ let gym2 = [
         },
         "number": "127",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/127.png",
             "large": "https://images.pokemontcg.io/gym2/127_hires.png"
@@ -7950,9 +7440,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7962,11 +7450,7 @@ let gym2 = [
         },
         "number": "128",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/128.png",
             "large": "https://images.pokemontcg.io/gym2/128_hires.png"
@@ -7985,9 +7469,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -7997,11 +7479,7 @@ let gym2 = [
         },
         "number": "129",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/129.png",
             "large": "https://images.pokemontcg.io/gym2/129_hires.png"
@@ -8020,9 +7498,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -8032,11 +7508,7 @@ let gym2 = [
         },
         "number": "130",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/130.png",
             "large": "https://images.pokemontcg.io/gym2/130_hires.png"
@@ -8055,9 +7527,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -8067,11 +7537,7 @@ let gym2 = [
         },
         "number": "131",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/131.png",
             "large": "https://images.pokemontcg.io/gym2/131_hires.png"
@@ -8090,9 +7556,7 @@ let gym2 = [
             "series": "Gym",
             "printedTotal": 132,
             "total": 132,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "G2",
             "releaseDate": "2000/10/16",
             "images": {
@@ -8102,11 +7566,7 @@ let gym2 = [
         },
         "number": "132",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/gym2/132.png",
             "large": "https://images.pokemontcg.io/gym2/132_hires.png"

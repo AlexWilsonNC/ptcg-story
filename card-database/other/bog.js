@@ -47,9 +47,7 @@ let bp = [
             "series": "Other",
             "printedTotal": 9,
             "total": 9,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "BP",
             "releaseDate": "2002/12/01",
             "images": {
@@ -64,9 +62,7 @@ let bp = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bp/1.png",
             "large": "https://images.pokemontcg.io/bp/1_hires.png"
@@ -118,9 +114,7 @@ let bp = [
             "series": "Other",
             "printedTotal": 9,
             "total": 9,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "BP",
             "releaseDate": "2002/12/01",
             "images": {
@@ -135,9 +129,7 @@ let bp = [
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bp/2.png",
             "large": "https://images.pokemontcg.io/bp/2_hires.png"
@@ -156,9 +148,7 @@ let bp = [
             "series": "Other",
             "printedTotal": 9,
             "total": 9,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "BP",
             "releaseDate": "2002/12/01",
             "images": {
@@ -169,9 +159,7 @@ let bp = [
         "number": "3",
         "artist": "Ken Sugimori",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bp/3.png",
             "large": "https://images.pokemontcg.io/bp/3_hires.png"
@@ -229,9 +217,7 @@ let bp = [
             "series": "Other",
             "printedTotal": 9,
             "total": 9,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "BP",
             "releaseDate": "2002/12/01",
             "images": {
@@ -245,9 +231,7 @@ let bp = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bp/4.png",
             "large": "https://images.pokemontcg.io/bp/4_hires.png"
@@ -304,9 +288,7 @@ let bp = [
             "series": "Other",
             "printedTotal": 9,
             "total": 9,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "BP",
             "releaseDate": "2002/12/01",
             "images": {
@@ -320,9 +302,7 @@ let bp = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bp/5.png",
             "large": "https://images.pokemontcg.io/bp/5_hires.png"
@@ -375,9 +355,7 @@ let bp = [
             "series": "Other",
             "printedTotal": 9,
             "total": 9,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "BP",
             "releaseDate": "2002/12/01",
             "images": {
@@ -391,9 +369,7 @@ let bp = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bp/6.png",
             "large": "https://images.pokemontcg.io/bp/6_hires.png"
@@ -437,9 +413,7 @@ let bp = [
             "series": "Other",
             "printedTotal": 9,
             "total": 9,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "BP",
             "releaseDate": "2002/12/01",
             "images": {
@@ -453,9 +427,7 @@ let bp = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bp/7.png",
             "large": "https://images.pokemontcg.io/bp/7_hires.png"
@@ -518,9 +490,7 @@ let bp = [
             "series": "Other",
             "printedTotal": 9,
             "total": 9,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "BP",
             "releaseDate": "2002/12/01",
             "images": {
@@ -534,9 +504,7 @@ let bp = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bp/8.png",
             "large": "https://images.pokemontcg.io/bp/8_hires.png"
@@ -588,9 +556,7 @@ let bp = [
             "series": "Other",
             "printedTotal": 9,
             "total": 9,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "BP",
             "releaseDate": "2002/12/01",
             "images": {
@@ -604,9 +570,7 @@ let bp = [
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bp/9.png",
             "large": "https://images.pokemontcg.io/bp/9_hires.png"

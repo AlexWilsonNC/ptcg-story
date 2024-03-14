@@ -44,10 +44,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -62,10 +59,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/1.png",
             "large": "https://images.pokemontcg.io/xy2/1_hires.png"
@@ -118,10 +112,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -136,10 +127,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             11
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/2.png",
             "large": "https://images.pokemontcg.io/xy2/2_hires.png"
@@ -198,10 +186,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -216,10 +201,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/3.png",
             "large": "https://images.pokemontcg.io/xy2/3_hires.png"
@@ -264,10 +246,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -282,10 +261,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             204
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/4.png",
             "large": "https://images.pokemontcg.io/xy2/4_hires.png"
@@ -329,10 +305,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -347,10 +320,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/5.png",
             "large": "https://images.pokemontcg.io/xy2/5_hires.png"
@@ -406,10 +376,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -424,10 +391,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/6.png",
             "large": "https://images.pokemontcg.io/xy2/6_hires.png"
@@ -478,10 +442,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -496,10 +457,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/7.png",
             "large": "https://images.pokemontcg.io/xy2/7_hires.png"
@@ -553,10 +511,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -571,10 +526,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             315
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/8.png",
             "large": "https://images.pokemontcg.io/xy2/8_hires.png"
@@ -627,10 +579,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -645,10 +594,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             407
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/9.png",
             "large": "https://images.pokemontcg.io/xy2/9_hires.png"
@@ -699,10 +645,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -717,10 +660,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             556
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/10.png",
             "large": "https://images.pokemontcg.io/xy2/10_hires.png"
@@ -780,10 +720,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -797,10 +734,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/11.png",
             "large": "https://images.pokemontcg.io/xy2/11_hires.png"
@@ -862,10 +796,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -879,10 +810,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/12.png",
             "large": "https://images.pokemontcg.io/xy2/12_hires.png"
@@ -933,10 +861,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -950,10 +875,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/13.png",
             "large": "https://images.pokemontcg.io/xy2/13_hires.png"
@@ -1007,10 +929,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1025,10 +944,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/14.png",
             "large": "https://images.pokemontcg.io/xy2/14_hires.png"
@@ -1079,10 +995,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1097,10 +1010,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/15.png",
             "large": "https://images.pokemontcg.io/xy2/15_hires.png"
@@ -1152,10 +1062,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1170,10 +1077,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/16.png",
             "large": "https://images.pokemontcg.io/xy2/16_hires.png"
@@ -1224,10 +1128,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1242,10 +1143,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             662
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/17.png",
             "large": "https://images.pokemontcg.io/xy2/17_hires.png"
@@ -1291,10 +1189,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1309,10 +1204,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             667
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/18.png",
             "large": "https://images.pokemontcg.io/xy2/18_hires.png"
@@ -1357,10 +1249,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1374,10 +1263,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             667
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/19.png",
             "large": "https://images.pokemontcg.io/xy2/19_hires.png"
@@ -1428,10 +1314,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1446,10 +1329,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             668
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/20.png",
             "large": "https://images.pokemontcg.io/xy2/20_hires.png"
@@ -1498,10 +1378,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1516,10 +1393,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             211
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/21.png",
             "large": "https://images.pokemontcg.io/xy2/21_hires.png"
@@ -1563,10 +1437,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1581,10 +1452,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             349
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/22.png",
             "large": "https://images.pokemontcg.io/xy2/22_hires.png"
@@ -1635,10 +1503,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1701,10 +1566,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1719,10 +1581,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             363
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/24.png",
             "large": "https://images.pokemontcg.io/xy2/24_hires.png"
@@ -1779,10 +1638,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1797,10 +1653,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             364
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/25.png",
             "large": "https://images.pokemontcg.io/xy2/25_hires.png"
@@ -1856,10 +1709,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1874,10 +1724,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             365
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/26.png",
             "large": "https://images.pokemontcg.io/xy2/26_hires.png"
@@ -1928,10 +1775,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -1946,10 +1790,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             370
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/27.png",
             "large": "https://images.pokemontcg.io/xy2/27_hires.png"
@@ -2003,10 +1844,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -2021,10 +1859,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             418
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/28.png",
             "large": "https://images.pokemontcg.io/xy2/28_hires.png"
@@ -2076,10 +1911,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -2094,10 +1926,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             419
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/29.png",
             "large": "https://images.pokemontcg.io/xy2/29_hires.png"
@@ -2152,10 +1981,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -2170,10 +1996,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             712
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/30.png",
             "large": "https://images.pokemontcg.io/xy2/30_hires.png"
@@ -2229,10 +2052,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -2247,10 +2067,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             713
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/31.png",
             "large": "https://images.pokemontcg.io/xy2/31_hires.png"
@@ -2310,10 +2127,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -2328,10 +2142,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/32.png",
             "large": "https://images.pokemontcg.io/xy2/32_hires.png"
@@ -2393,10 +2204,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -2411,10 +2219,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             404
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/33.png",
             "large": "https://images.pokemontcg.io/xy2/33_hires.png"
@@ -2474,10 +2279,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -2492,10 +2294,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             405
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/34.png",
             "large": "https://images.pokemontcg.io/xy2/34_hires.png"
@@ -2558,10 +2357,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -2575,10 +2371,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/35.png",
             "large": "https://images.pokemontcg.io/xy2/35_hires.png"
@@ -2638,10 +2431,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -2656,10 +2446,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             694
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/36.png",
             "large": "https://images.pokemontcg.io/xy2/36_hires.png"
@@ -2718,10 +2505,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -2736,10 +2520,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             695
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/37.png",
             "large": "https://images.pokemontcg.io/xy2/37_hires.png"
@@ -2798,10 +2579,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -2816,10 +2594,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/38.png",
             "large": "https://images.pokemontcg.io/xy2/38_hires.png"
@@ -2881,10 +2656,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -2899,10 +2671,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             356
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/39.png",
             "large": "https://images.pokemontcg.io/xy2/39_hires.png"
@@ -2959,10 +2728,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -2977,10 +2743,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             477
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/40.png",
             "large": "https://images.pokemontcg.io/xy2/40_hires.png"
@@ -3037,10 +2800,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -3054,10 +2814,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/41.png",
             "large": "https://images.pokemontcg.io/xy2/41_hires.png"
@@ -3111,10 +2868,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -3129,10 +2883,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             677
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/42.png",
             "large": "https://images.pokemontcg.io/xy2/42_hires.png"
@@ -3185,10 +2936,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -3203,10 +2951,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             678
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/43.png",
             "large": "https://images.pokemontcg.io/xy2/43_hires.png"
@@ -3250,10 +2995,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -3268,10 +3010,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             690
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/44.png",
             "large": "https://images.pokemontcg.io/xy2/44_hires.png"
@@ -3325,10 +3064,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -3343,10 +3079,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/45.png",
             "large": "https://images.pokemontcg.io/xy2/45_hires.png"
@@ -3405,10 +3138,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -3423,10 +3153,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/46.png",
             "large": "https://images.pokemontcg.io/xy2/46_hires.png"
@@ -3482,10 +3209,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -3500,10 +3224,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/47.png",
             "large": "https://images.pokemontcg.io/xy2/47_hires.png"
@@ -3548,10 +3269,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -3566,10 +3284,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             688
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/48.png",
             "large": "https://images.pokemontcg.io/xy2/48_hires.png"
@@ -3623,10 +3338,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -3641,10 +3353,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             689
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/49.png",
             "large": "https://images.pokemontcg.io/xy2/49_hires.png"
@@ -3704,10 +3413,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -3722,10 +3428,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/50.png",
             "large": "https://images.pokemontcg.io/xy2/50_hires.png"
@@ -3785,10 +3488,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -3803,10 +3503,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/51.png",
             "large": "https://images.pokemontcg.io/xy2/51_hires.png"
@@ -3865,10 +3562,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -3883,10 +3577,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             461
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/52.png",
             "large": "https://images.pokemontcg.io/xy2/52_hires.png"
@@ -3946,10 +3637,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -3964,10 +3652,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             434
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/53.png",
             "large": "https://images.pokemontcg.io/xy2/53_hires.png"
@@ -4028,10 +3713,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -4046,10 +3728,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             434
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/54.png",
             "large": "https://images.pokemontcg.io/xy2/54_hires.png"
@@ -4109,10 +3788,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -4127,10 +3803,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             435
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/55.png",
             "large": "https://images.pokemontcg.io/xy2/55_hires.png"
@@ -4181,10 +3854,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -4199,10 +3869,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             551
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/56.png",
             "large": "https://images.pokemontcg.io/xy2/56_hires.png"
@@ -4264,10 +3931,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -4282,10 +3946,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             552
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/57.png",
             "large": "https://images.pokemontcg.io/xy2/57_hires.png"
@@ -4336,10 +3997,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -4354,10 +4012,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             559
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/58.png",
             "large": "https://images.pokemontcg.io/xy2/58_hires.png"
@@ -4417,10 +4072,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -4435,10 +4087,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             560
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/59.png",
             "large": "https://images.pokemontcg.io/xy2/59_hires.png"
@@ -4494,10 +4143,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -4512,10 +4158,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             205
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/60.png",
             "large": "https://images.pokemontcg.io/xy2/60_hires.png"
@@ -4572,10 +4215,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -4590,10 +4230,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             632
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/61.png",
             "large": "https://images.pokemontcg.io/xy2/61_hires.png"
@@ -4643,10 +4280,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -4661,10 +4295,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             669
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/62.png",
             "large": "https://images.pokemontcg.io/xy2/62_hires.png"
@@ -4714,10 +4345,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -4732,10 +4360,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             669
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/63.png",
             "large": "https://images.pokemontcg.io/xy2/63_hires.png"
@@ -4793,10 +4418,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -4811,10 +4433,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             670
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/64.png",
             "large": "https://images.pokemontcg.io/xy2/64_hires.png"
@@ -4875,10 +4494,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -4893,10 +4509,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             670
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/65.png",
             "large": "https://images.pokemontcg.io/xy2/65_hires.png"
@@ -4953,10 +4566,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -4971,10 +4581,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             671
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/66.png",
             "large": "https://images.pokemontcg.io/xy2/66_hires.png"
@@ -5034,10 +4641,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -5052,10 +4656,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             682
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/67.png",
             "large": "https://images.pokemontcg.io/xy2/67_hires.png"
@@ -5113,10 +4714,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -5131,10 +4729,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             703
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/68.png",
             "large": "https://images.pokemontcg.io/xy2/68_hires.png"
@@ -5185,10 +4780,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -5202,10 +4794,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/69.png",
             "large": "https://images.pokemontcg.io/xy2/69_hires.png"
@@ -5259,10 +4848,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -5277,10 +4863,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             621
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/70.png",
             "large": "https://images.pokemontcg.io/xy2/70_hires.png"
@@ -5331,10 +4914,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -5349,10 +4929,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             691
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/71.png",
             "large": "https://images.pokemontcg.io/xy2/71_hires.png"
@@ -5406,10 +4983,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -5424,10 +4998,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             704
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/72.png",
             "large": "https://images.pokemontcg.io/xy2/72_hires.png"
@@ -5483,10 +5054,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -5501,10 +5069,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             705
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/73.png",
             "large": "https://images.pokemontcg.io/xy2/73_hires.png"
@@ -5555,10 +5120,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -5573,10 +5135,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             706
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/74.png",
             "large": "https://images.pokemontcg.io/xy2/74_hires.png"
@@ -5626,10 +5185,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -5644,10 +5200,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/75.png",
             "large": "https://images.pokemontcg.io/xy2/75_hires.png"
@@ -5708,10 +5261,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -5726,10 +5276,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/76.png",
             "large": "https://images.pokemontcg.io/xy2/76_hires.png"
@@ -5789,10 +5336,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -5807,10 +5351,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/77.png",
             "large": "https://images.pokemontcg.io/xy2/77_hires.png"
@@ -5869,10 +5410,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -5886,10 +5424,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/78.png",
             "large": "https://images.pokemontcg.io/xy2/78_hires.png"
@@ -5938,10 +5473,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -5955,10 +5487,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/79.png",
             "large": "https://images.pokemontcg.io/xy2/79_hires.png"
@@ -6009,10 +5538,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6027,10 +5553,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/80.png",
             "large": "https://images.pokemontcg.io/xy2/80_hires.png"
@@ -6084,10 +5607,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6102,10 +5622,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             161
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/81.png",
             "large": "https://images.pokemontcg.io/xy2/81_hires.png"
@@ -6157,10 +5674,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6175,10 +5689,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             162
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/82.png",
             "large": "https://images.pokemontcg.io/xy2/82_hires.png"
@@ -6230,10 +5741,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6248,10 +5756,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             241
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/83.png",
             "large": "https://images.pokemontcg.io/xy2/83_hires.png"
@@ -6296,10 +5801,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6314,10 +5816,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             427
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/84.png",
             "large": "https://images.pokemontcg.io/xy2/84_hires.png"
@@ -6368,10 +5867,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6386,10 +5882,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             428
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/85.png",
             "large": "https://images.pokemontcg.io/xy2/85_hires.png"
@@ -6439,10 +5932,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6457,10 +5947,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             661
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/86.png",
             "large": "https://images.pokemontcg.io/xy2/86_hires.png"
@@ -6513,10 +6000,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6531,10 +6015,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             676
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/87.png",
             "large": "https://images.pokemontcg.io/xy2/87_hires.png"
@@ -6557,10 +6038,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6571,10 +6049,7 @@ let xy2 = [
         "number": "88",
         "artist": "Masakazu Fukuda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/88.png",
             "large": "https://images.pokemontcg.io/xy2/88_hires.png"
@@ -6597,10 +6072,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6611,10 +6083,7 @@ let xy2 = [
         "number": "88a",
         "artist": "Masakazu Fukuda",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/88a.png",
             "large": "https://images.pokemontcg.io/xy2/88a_hires.png"
@@ -6637,10 +6106,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6651,10 +6117,7 @@ let xy2 = [
         "number": "89",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/89.png",
             "large": "https://images.pokemontcg.io/xy2/89_hires.png"
@@ -6677,10 +6140,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6691,10 +6151,7 @@ let xy2 = [
         "number": "90",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/90.png",
             "large": "https://images.pokemontcg.io/xy2/90_hires.png"
@@ -6717,10 +6174,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6731,10 +6185,7 @@ let xy2 = [
         "number": "91",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/91.png",
             "large": "https://images.pokemontcg.io/xy2/91_hires.png"
@@ -6757,10 +6208,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6771,11 +6219,7 @@ let xy2 = [
         "number": "92",
         "artist": "PLANETA",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/92.png",
             "large": "https://images.pokemontcg.io/xy2/92_hires.png"
@@ -6798,10 +6242,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6812,11 +6253,7 @@ let xy2 = [
         "number": "93",
         "artist": "Maiko Fujiwara",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/93.png",
             "large": "https://images.pokemontcg.io/xy2/93_hires.png"
@@ -6839,10 +6276,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6853,10 +6287,7 @@ let xy2 = [
         "number": "94",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/94.png",
             "large": "https://images.pokemontcg.io/xy2/94_hires.png"
@@ -6880,10 +6311,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6894,10 +6322,7 @@ let xy2 = [
         "number": "95",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/95.png",
             "large": "https://images.pokemontcg.io/xy2/95_hires.png"
@@ -6920,10 +6345,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6934,10 +6356,7 @@ let xy2 = [
         "number": "96",
         "artist": "PLANETA",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/96.png",
             "large": "https://images.pokemontcg.io/xy2/96_hires.png"
@@ -6960,10 +6379,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -6974,10 +6390,7 @@ let xy2 = [
         "number": "97",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/97.png",
             "large": "https://images.pokemontcg.io/xy2/97_hires.png"
@@ -7000,10 +6413,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -7014,10 +6424,7 @@ let xy2 = [
         "number": "98",
         "artist": "PLANETA",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/98.png",
             "large": "https://images.pokemontcg.io/xy2/98_hires.png"
@@ -7040,10 +6447,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -7054,10 +6458,7 @@ let xy2 = [
         "number": "99",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/99.png",
             "large": "https://images.pokemontcg.io/xy2/99_hires.png"
@@ -7117,10 +6518,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -7134,10 +6532,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/100.png",
             "large": "https://images.pokemontcg.io/xy2/100_hires.png"
@@ -7200,10 +6595,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -7217,10 +6609,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/101.png",
             "large": "https://images.pokemontcg.io/xy2/101_hires.png"
@@ -7277,10 +6666,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -7294,10 +6680,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/102.png",
             "large": "https://images.pokemontcg.io/xy2/102_hires.png"
@@ -7356,10 +6739,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -7373,10 +6753,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/103.png",
             "large": "https://images.pokemontcg.io/xy2/103_hires.png"
@@ -7399,10 +6776,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -7413,10 +6787,7 @@ let xy2 = [
         "number": "104",
         "artist": "Ken Sugimori",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/104.png",
             "large": "https://images.pokemontcg.io/xy2/104_hires.png"
@@ -7439,10 +6810,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -7453,10 +6821,7 @@ let xy2 = [
         "number": "105",
         "artist": "Megumi Mizutani",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/105.png",
             "large": "https://images.pokemontcg.io/xy2/105_hires.png"
@@ -7479,10 +6844,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -7493,10 +6855,7 @@ let xy2 = [
         "number": "106",
         "artist": "Emi Ando",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/106.png",
             "large": "https://images.pokemontcg.io/xy2/106_hires.png"
@@ -7547,10 +6906,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -7564,10 +6920,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/107.png",
             "large": "https://images.pokemontcg.io/xy2/107_hires.png"
@@ -7618,10 +6971,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -7635,10 +6985,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/108.png",
             "large": "https://images.pokemontcg.io/xy2/108_hires.png"
@@ -7687,10 +7034,7 @@ let xy2 = [
             "series": "XY",
             "printedTotal": 106,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FLF",
             "releaseDate": "2014/05/07",
             "images": {
@@ -7704,10 +7048,7 @@ let xy2 = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy2/109.png",
             "large": "https://images.pokemontcg.io/xy2/109_hires.png"

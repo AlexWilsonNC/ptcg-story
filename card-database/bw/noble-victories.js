@@ -38,10 +38,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -56,10 +53,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             540
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/1.png",
             "large": "https://images.pokemontcg.io/bw3/1_hires.png"
@@ -114,10 +108,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -132,10 +123,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             541
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/2.png",
             "large": "https://images.pokemontcg.io/bw3/2_hires.png"
@@ -186,10 +174,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -204,10 +189,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             542
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/3.png",
             "large": "https://images.pokemontcg.io/bw3/3_hires.png"
@@ -267,10 +249,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -285,10 +264,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             548
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/4.png",
             "large": "https://images.pokemontcg.io/bw3/4_hires.png"
@@ -346,10 +322,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -364,10 +337,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             549
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/5.png",
             "large": "https://images.pokemontcg.io/bw3/5_hires.png"
@@ -421,10 +391,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -439,10 +406,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             557
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/6.png",
             "large": "https://images.pokemontcg.io/bw3/6_hires.png"
@@ -496,10 +460,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -514,10 +475,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             558
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/7.png",
             "large": "https://images.pokemontcg.io/bw3/7_hires.png"
@@ -571,10 +529,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -589,10 +544,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             588
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/8.png",
             "large": "https://images.pokemontcg.io/bw3/8_hires.png"
@@ -642,10 +594,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -660,10 +609,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             590
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/9.png",
             "large": "https://images.pokemontcg.io/bw3/9_hires.png"
@@ -721,10 +667,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -739,10 +682,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             591
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/10.png",
             "large": "https://images.pokemontcg.io/bw3/10_hires.png"
@@ -795,10 +735,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -813,10 +750,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             616
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/11.png",
             "large": "https://images.pokemontcg.io/bw3/11_hires.png"
@@ -866,10 +800,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -884,10 +815,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             617
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/12.png",
             "large": "https://images.pokemontcg.io/bw3/12_hires.png"
@@ -944,10 +872,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -962,10 +887,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/13.png",
             "large": "https://images.pokemontcg.io/bw3/13_hires.png"
@@ -1014,10 +936,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1032,10 +951,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/14.png",
             "large": "https://images.pokemontcg.io/bw3/14_hires.png"
@@ -1077,10 +993,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1095,10 +1008,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/15.png",
             "large": "https://images.pokemontcg.io/bw3/15_hires.png"
@@ -1153,10 +1063,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1171,10 +1078,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             513
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/16.png",
             "large": "https://images.pokemontcg.io/bw3/16_hires.png"
@@ -1227,10 +1131,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1245,10 +1146,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             514
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/17.png",
             "large": "https://images.pokemontcg.io/bw3/17_hires.png"
@@ -1299,10 +1197,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1317,10 +1212,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             631
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/18.png",
             "large": "https://images.pokemontcg.io/bw3/18_hires.png"
@@ -1364,10 +1256,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1382,10 +1271,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             636
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/19.png",
             "large": "https://images.pokemontcg.io/bw3/19_hires.png"
@@ -1430,10 +1316,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1448,10 +1331,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             636
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/20.png",
             "large": "https://images.pokemontcg.io/bw3/20_hires.png"
@@ -1504,10 +1384,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1522,10 +1399,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             637
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/21.png",
             "large": "https://images.pokemontcg.io/bw3/21_hires.png"
@@ -1579,10 +1453,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1597,10 +1468,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             535
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/22.png",
             "large": "https://images.pokemontcg.io/bw3/22_hires.png"
@@ -1656,10 +1524,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1674,10 +1539,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             536
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/23.png",
             "large": "https://images.pokemontcg.io/bw3/23_hires.png"
@@ -1731,10 +1593,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1749,10 +1608,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             537
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/24.png",
             "large": "https://images.pokemontcg.io/bw3/24_hires.png"
@@ -1812,10 +1668,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1830,10 +1683,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             564
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/25.png",
             "large": "https://images.pokemontcg.io/bw3/25_hires.png"
@@ -1885,10 +1735,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1903,10 +1750,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             565
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/26.png",
             "large": "https://images.pokemontcg.io/bw3/26_hires.png"
@@ -1950,10 +1794,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -1968,10 +1809,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             582
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/27.png",
             "large": "https://images.pokemontcg.io/bw3/27_hires.png"
@@ -2027,10 +1865,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2045,10 +1880,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             583
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/28.png",
             "large": "https://images.pokemontcg.io/bw3/28_hires.png"
@@ -2101,10 +1933,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2119,10 +1948,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             584
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/29.png",
             "large": "https://images.pokemontcg.io/bw3/29_hires.png"
@@ -2167,10 +1993,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2185,10 +2008,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             592
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/30.png",
             "large": "https://images.pokemontcg.io/bw3/30_hires.png"
@@ -2238,10 +2058,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2256,10 +2073,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             593
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/31.png",
             "large": "https://images.pokemontcg.io/bw3/31_hires.png"
@@ -2310,10 +2124,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2328,10 +2139,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             615
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/32.png",
             "large": "https://images.pokemontcg.io/bw3/32_hires.png"
@@ -2382,10 +2190,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2400,10 +2205,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             615
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/33.png",
             "large": "https://images.pokemontcg.io/bw3/33_hires.png"
@@ -2456,10 +2258,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2474,10 +2273,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/34.png",
             "large": "https://images.pokemontcg.io/bw3/34_hires.png"
@@ -2521,10 +2317,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2539,10 +2332,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             522
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/35.png",
             "large": "https://images.pokemontcg.io/bw3/35_hires.png"
@@ -2595,10 +2385,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2613,10 +2400,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             523
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/36.png",
             "large": "https://images.pokemontcg.io/bw3/36_hires.png"
@@ -2657,10 +2441,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2675,10 +2456,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             587
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/37.png",
             "large": "https://images.pokemontcg.io/bw3/37_hires.png"
@@ -2722,10 +2500,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2740,10 +2515,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             602
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/38.png",
             "large": "https://images.pokemontcg.io/bw3/38_hires.png"
@@ -2786,10 +2558,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2804,10 +2573,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             602
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/39.png",
             "large": "https://images.pokemontcg.io/bw3/39_hires.png"
@@ -2861,10 +2627,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2879,10 +2642,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             603
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/40.png",
             "large": "https://images.pokemontcg.io/bw3/40_hires.png"
@@ -2936,10 +2696,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -2954,10 +2711,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             604
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/41.png",
             "large": "https://images.pokemontcg.io/bw3/41_hires.png"
@@ -3010,10 +2764,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3028,10 +2779,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             618
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/42.png",
             "large": "https://images.pokemontcg.io/bw3/42_hires.png"
@@ -3072,10 +2820,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3090,10 +2835,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/43.png",
             "large": "https://images.pokemontcg.io/bw3/43_hires.png"
@@ -3137,10 +2879,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3155,10 +2894,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             562
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/44.png",
             "large": "https://images.pokemontcg.io/bw3/44_hires.png"
@@ -3202,10 +2938,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3220,10 +2953,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             562
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/45.png",
             "large": "https://images.pokemontcg.io/bw3/45_hires.png"
@@ -3277,10 +3007,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3295,10 +3022,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             563
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/46.png",
             "large": "https://images.pokemontcg.io/bw3/46_hires.png"
@@ -3348,10 +3072,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3366,10 +3087,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             563
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/47.png",
             "large": "https://images.pokemontcg.io/bw3/47_hires.png"
@@ -3423,10 +3141,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3441,10 +3156,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             568
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/48.png",
             "large": "https://images.pokemontcg.io/bw3/48_hires.png"
@@ -3498,10 +3210,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3516,10 +3225,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             569
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/49.png",
             "large": "https://images.pokemontcg.io/bw3/49_hires.png"
@@ -3563,10 +3269,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3581,10 +3284,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             577
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/50.png",
             "large": "https://images.pokemontcg.io/bw3/50_hires.png"
@@ -3629,10 +3329,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3647,10 +3344,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             578
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/51.png",
             "large": "https://images.pokemontcg.io/bw3/51_hires.png"
@@ -3701,10 +3395,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3719,10 +3410,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             579
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/52.png",
             "large": "https://images.pokemontcg.io/bw3/52_hires.png"
@@ -3775,10 +3463,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3793,10 +3478,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             579
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/53.png",
             "large": "https://images.pokemontcg.io/bw3/53_hires.png"
@@ -3849,10 +3531,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3867,10 +3546,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             605
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/54.png",
             "large": "https://images.pokemontcg.io/bw3/54_hires.png"
@@ -3924,10 +3600,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -3942,10 +3615,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             605
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/55.png",
             "large": "https://images.pokemontcg.io/bw3/55_hires.png"
@@ -3997,10 +3667,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4015,10 +3682,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             606
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/56.png",
             "large": "https://images.pokemontcg.io/bw3/56_hires.png"
@@ -4063,10 +3727,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4081,10 +3742,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             607
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/57.png",
             "large": "https://images.pokemontcg.io/bw3/57_hires.png"
@@ -4128,10 +3786,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4146,10 +3801,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             607
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/58.png",
             "large": "https://images.pokemontcg.io/bw3/58_hires.png"
@@ -4204,10 +3856,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4222,10 +3871,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             608
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/59.png",
             "large": "https://images.pokemontcg.io/bw3/59_hires.png"
@@ -4276,10 +3922,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4294,10 +3937,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             609
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/60.png",
             "large": "https://images.pokemontcg.io/bw3/60_hires.png"
@@ -4351,10 +3991,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4369,10 +4006,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             526
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/61.png",
             "large": "https://images.pokemontcg.io/bw3/61_hires.png"
@@ -4416,10 +4050,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4434,10 +4065,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             532
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/62.png",
             "large": "https://images.pokemontcg.io/bw3/62_hires.png"
@@ -4494,10 +4122,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4512,10 +4137,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             533
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/63.png",
             "large": "https://images.pokemontcg.io/bw3/63_hires.png"
@@ -4567,10 +4189,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4585,10 +4204,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             534
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/64.png",
             "large": "https://images.pokemontcg.io/bw3/64_hires.png"
@@ -4641,10 +4257,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4659,10 +4272,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             534
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/65.png",
             "large": "https://images.pokemontcg.io/bw3/65_hires.png"
@@ -4720,10 +4330,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4738,10 +4345,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             566
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/66.png",
             "large": "https://images.pokemontcg.io/bw3/66_hires.png"
@@ -4792,10 +4396,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4872,10 +4473,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4890,10 +4488,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             618
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/68.png",
             "large": "https://images.pokemontcg.io/bw3/68_hires.png"
@@ -4947,10 +4542,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -4965,10 +4557,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             619
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/69.png",
             "large": "https://images.pokemontcg.io/bw3/69_hires.png"
@@ -5020,10 +4609,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -5038,10 +4624,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             620
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/70.png",
             "large": "https://images.pokemontcg.io/bw3/70_hires.png"
@@ -5092,10 +4675,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -5110,10 +4690,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             622
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/71.png",
             "large": "https://images.pokemontcg.io/bw3/71_hires.png"
@@ -5175,10 +4752,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -5193,10 +4767,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             623
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/72.png",
             "large": "https://images.pokemontcg.io/bw3/72_hires.png"
@@ -5249,10 +4820,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -5267,10 +4835,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             639
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/73.png",
             "large": "https://images.pokemontcg.io/bw3/73_hires.png"
@@ -5328,10 +4893,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -5346,10 +4908,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             645
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/74.png",
             "large": "https://images.pokemontcg.io/bw3/74_hires.png"
@@ -5399,10 +4958,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -5417,10 +4973,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             624
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/75.png",
             "large": "https://images.pokemontcg.io/bw3/75_hires.png"
@@ -5478,10 +5031,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -5496,10 +5046,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             625
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/76.png",
             "large": "https://images.pokemontcg.io/bw3/76_hires.png"
@@ -5559,10 +5106,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -5577,10 +5121,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             633
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/77.png",
             "large": "https://images.pokemontcg.io/bw3/77_hires.png"
@@ -5642,10 +5183,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -5660,10 +5198,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             634
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/78.png",
             "large": "https://images.pokemontcg.io/bw3/78_hires.png"
@@ -5721,10 +5256,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -5739,10 +5271,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             635
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/79.png",
             "large": "https://images.pokemontcg.io/bw3/79_hires.png"
@@ -5802,10 +5331,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -5820,10 +5346,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             589
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/80.png",
             "large": "https://images.pokemontcg.io/bw3/80_hires.png"
@@ -5883,10 +5406,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -5901,10 +5421,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             624
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/81.png",
             "large": "https://images.pokemontcg.io/bw3/81_hires.png"
@@ -5963,10 +5480,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -5981,10 +5495,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             625
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/82.png",
             "large": "https://images.pokemontcg.io/bw3/82_hires.png"
@@ -6041,10 +5552,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6059,10 +5567,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             632
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/83.png",
             "large": "https://images.pokemontcg.io/bw3/83_hires.png"
@@ -6121,10 +5626,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6139,10 +5641,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             638
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/84.png",
             "large": "https://images.pokemontcg.io/bw3/84_hires.png"
@@ -6184,10 +5683,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6202,10 +5698,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             531
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/85.png",
             "large": "https://images.pokemontcg.io/bw3/85_hires.png"
@@ -6243,10 +5736,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6261,10 +5751,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             610
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/86.png",
             "large": "https://images.pokemontcg.io/bw3/86_hires.png"
@@ -6313,10 +5800,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6331,10 +5815,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             611
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/87.png",
             "large": "https://images.pokemontcg.io/bw3/87_hires.png"
@@ -6382,10 +5863,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6400,10 +5878,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             612
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/88.png",
             "large": "https://images.pokemontcg.io/bw3/88_hires.png"
@@ -6447,10 +5922,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6465,10 +5937,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             621
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/89.png",
             "large": "https://images.pokemontcg.io/bw3/89_hires.png"
@@ -6491,10 +5960,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6505,10 +5971,7 @@ let bw3 = [
         "number": "90",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/90.png",
             "large": "https://images.pokemontcg.io/bw3/90_hires.png"
@@ -6532,10 +5995,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6546,10 +6006,7 @@ let bw3 = [
         "number": "91",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/91.png",
             "large": "https://images.pokemontcg.io/bw3/91_hires.png"
@@ -6572,10 +6029,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6586,10 +6040,7 @@ let bw3 = [
         "number": "92",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/92.png",
             "large": "https://images.pokemontcg.io/bw3/92_hires.png"
@@ -6612,10 +6063,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6626,10 +6074,7 @@ let bw3 = [
         "number": "93",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/93.png",
             "large": "https://images.pokemontcg.io/bw3/93_hires.png"
@@ -6653,10 +6098,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6667,11 +6109,7 @@ let bw3 = [
         "number": "94",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/94.png",
             "large": "https://images.pokemontcg.io/bw3/94_hires.png"
@@ -6694,10 +6132,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6708,10 +6143,7 @@ let bw3 = [
         "number": "95",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/95.png",
             "large": "https://images.pokemontcg.io/bw3/95_hires.png"
@@ -6734,10 +6166,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6748,10 +6177,7 @@ let bw3 = [
         "number": "96",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/96.png",
             "large": "https://images.pokemontcg.io/bw3/96_hires.png"
@@ -6808,10 +6234,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6826,10 +6249,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             640
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/97.png",
             "large": "https://images.pokemontcg.io/bw3/97_hires.png"
@@ -6878,10 +6298,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6896,10 +6313,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/98.png",
             "large": "https://images.pokemontcg.io/bw3/98_hires.png"
@@ -6952,10 +6366,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -6970,10 +6381,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             639
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/99.png",
             "large": "https://images.pokemontcg.io/bw3/99_hires.png"
@@ -7032,10 +6440,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -7050,10 +6455,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             638
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/100.png",
             "large": "https://images.pokemontcg.io/bw3/100_hires.png"
@@ -7076,10 +6478,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -7090,10 +6489,7 @@ let bw3 = [
         "number": "101",
         "artist": "Ken Sugimori",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/101.png",
             "large": "https://images.pokemontcg.io/bw3/101_hires.png"
@@ -7147,10 +6543,7 @@ let bw3 = [
             "series": "Black & White",
             "printedTotal": 101,
             "total": 102,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NVI",
             "releaseDate": "2011/11/16",
             "images": {
@@ -7165,10 +6558,7 @@ let bw3 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw3/102.png",
             "large": "https://images.pokemontcg.io/bw3/102_hires.png"

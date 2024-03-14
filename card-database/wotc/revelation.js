@@ -47,9 +47,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -64,9 +62,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/1.png",
             "large": "https://images.pokemontcg.io/neo3/1_hires.png"
@@ -124,9 +120,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -141,9 +135,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             242
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/2.png",
             "large": "https://images.pokemontcg.io/neo3/2_hires.png"
@@ -191,9 +183,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -208,9 +198,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/3.png",
             "large": "https://images.pokemontcg.io/neo3/3_hires.png"
@@ -268,9 +256,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -285,9 +271,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/4.png",
             "large": "https://images.pokemontcg.io/neo3/4_hires.png"
@@ -335,9 +319,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -352,9 +334,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             225
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/5.png",
             "large": "https://images.pokemontcg.io/neo3/5_hires.png"
@@ -404,9 +384,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -421,9 +399,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/6.png",
             "large": "https://images.pokemontcg.io/neo3/6_hires.png"
@@ -494,9 +470,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -511,9 +485,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/7.png",
             "large": "https://images.pokemontcg.io/neo3/7_hires.png"
@@ -566,9 +538,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -583,9 +553,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/8.png",
             "large": "https://images.pokemontcg.io/neo3/8_hires.png"
@@ -641,9 +609,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -658,9 +624,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             189
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/9.png",
             "large": "https://images.pokemontcg.io/neo3/9_hires.png"
@@ -720,9 +684,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -737,9 +699,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/10.png",
             "large": "https://images.pokemontcg.io/neo3/10_hires.png"
@@ -794,9 +754,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -811,9 +769,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/11.png",
             "large": "https://images.pokemontcg.io/neo3/11_hires.png"
@@ -873,9 +829,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -890,9 +844,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             233
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/12.png",
             "large": "https://images.pokemontcg.io/neo3/12_hires.png"
@@ -942,9 +894,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -959,9 +909,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/13.png",
             "large": "https://images.pokemontcg.io/neo3/13_hires.png"
@@ -1011,9 +959,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1028,9 +974,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/14.png",
             "large": "https://images.pokemontcg.io/neo3/14_hires.png"
@@ -1087,9 +1031,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1104,9 +1046,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             142
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/15.png",
             "large": "https://images.pokemontcg.io/neo3/15_hires.png"
@@ -1148,9 +1088,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1165,9 +1103,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/16.png",
             "large": "https://images.pokemontcg.io/neo3/16_hires.png"
@@ -1216,9 +1152,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1233,9 +1167,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/17.png",
             "large": "https://images.pokemontcg.io/neo3/17_hires.png"
@@ -1285,9 +1217,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1302,9 +1232,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/18.png",
             "large": "https://images.pokemontcg.io/neo3/18_hires.png"
@@ -1352,9 +1280,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1369,9 +1295,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/19.png",
             "large": "https://images.pokemontcg.io/neo3/19_hires.png"
@@ -1421,9 +1345,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1438,9 +1360,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/20.png",
             "large": "https://images.pokemontcg.io/neo3/20_hires.png"
@@ -1494,9 +1414,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1511,9 +1429,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/21.png",
             "large": "https://images.pokemontcg.io/neo3/21_hires.png"
@@ -1562,9 +1478,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1579,9 +1493,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             243
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/22.png",
             "large": "https://images.pokemontcg.io/neo3/22_hires.png"
@@ -1639,9 +1551,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1656,9 +1566,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/23.png",
             "large": "https://images.pokemontcg.io/neo3/23_hires.png"
@@ -1711,9 +1619,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1728,9 +1634,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/24.png",
             "large": "https://images.pokemontcg.io/neo3/24_hires.png"
@@ -1783,9 +1687,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1800,9 +1702,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/25.png",
             "large": "https://images.pokemontcg.io/neo3/25_hires.png"
@@ -1851,9 +1751,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1868,9 +1766,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             185
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/26.png",
             "large": "https://images.pokemontcg.io/neo3/26_hires.png"
@@ -1919,9 +1815,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -1936,9 +1830,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/27.png",
             "large": "https://images.pokemontcg.io/neo3/27_hires.png"
@@ -1994,9 +1886,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2011,9 +1901,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/28.png",
             "large": "https://images.pokemontcg.io/neo3/28_hires.png"
@@ -2073,9 +1961,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2090,9 +1976,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/29.png",
             "large": "https://images.pokemontcg.io/neo3/29_hires.png"
@@ -2149,9 +2033,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2166,9 +2048,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/30.png",
             "large": "https://images.pokemontcg.io/neo3/30_hires.png"
@@ -2220,9 +2100,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2237,9 +2115,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/31.png",
             "large": "https://images.pokemontcg.io/neo3/31_hires.png"
@@ -2290,9 +2166,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2307,9 +2181,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/32.png",
             "large": "https://images.pokemontcg.io/neo3/32_hires.png"
@@ -2360,9 +2232,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2377,9 +2247,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/33.png",
             "large": "https://images.pokemontcg.io/neo3/33_hires.png"
@@ -2432,9 +2300,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2449,9 +2315,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             224
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/34.png",
             "large": "https://images.pokemontcg.io/neo3/34_hires.png"
@@ -2501,9 +2365,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2518,9 +2380,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/35.png",
             "large": "https://images.pokemontcg.io/neo3/35_hires.png"
@@ -2584,9 +2444,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2601,9 +2459,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/36.png",
             "large": "https://images.pokemontcg.io/neo3/36_hires.png"
@@ -2655,9 +2511,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2672,9 +2526,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             119
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/37.png",
             "large": "https://images.pokemontcg.io/neo3/37_hires.png"
@@ -2732,9 +2584,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2749,9 +2599,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             234
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/38.png",
             "large": "https://images.pokemontcg.io/neo3/38_hires.png"
@@ -2802,9 +2650,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2819,9 +2665,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/39.png",
             "large": "https://images.pokemontcg.io/neo3/39_hires.png"
@@ -2872,9 +2716,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2889,9 +2731,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/40.png",
             "large": "https://images.pokemontcg.io/neo3/40_hires.png"
@@ -2950,9 +2790,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -2967,9 +2805,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             190
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/41.png",
             "large": "https://images.pokemontcg.io/neo3/41_hires.png"
@@ -3022,9 +2858,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3039,9 +2873,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/42.png",
             "large": "https://images.pokemontcg.io/neo3/42_hires.png"
@@ -3102,9 +2934,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3119,9 +2949,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             83
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/43.png",
             "large": "https://images.pokemontcg.io/neo3/43_hires.png"
@@ -3165,9 +2993,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3182,9 +3008,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/44.png",
             "large": "https://images.pokemontcg.io/neo3/44_hires.png"
@@ -3227,9 +3051,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3244,9 +3066,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             118
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/45.png",
             "large": "https://images.pokemontcg.io/neo3/45_hires.png"
@@ -3299,9 +3119,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3316,9 +3134,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             198
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/46.png",
             "large": "https://images.pokemontcg.io/neo3/46_hires.png"
@@ -3372,9 +3188,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3389,9 +3203,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/47.png",
             "large": "https://images.pokemontcg.io/neo3/47_hires.png"
@@ -3452,9 +3264,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3469,9 +3279,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             195
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/48.png",
             "large": "https://images.pokemontcg.io/neo3/48_hires.png"
@@ -3522,9 +3330,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3539,9 +3345,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             211
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/49.png",
             "large": "https://images.pokemontcg.io/neo3/49_hires.png"
@@ -3584,9 +3388,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3601,9 +3403,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             223
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/50.png",
             "large": "https://images.pokemontcg.io/neo3/50_hires.png"
@@ -3652,9 +3452,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3669,9 +3467,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             213
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/51.png",
             "large": "https://images.pokemontcg.io/neo3/51_hires.png"
@@ -3730,9 +3526,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3747,9 +3541,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             188
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/52.png",
             "large": "https://images.pokemontcg.io/neo3/52_hires.png"
@@ -3803,9 +3595,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3820,9 +3610,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/53.png",
             "large": "https://images.pokemontcg.io/neo3/53_hires.png"
@@ -3863,9 +3651,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3880,9 +3666,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             238
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/54.png",
             "large": "https://images.pokemontcg.io/neo3/54_hires.png"
@@ -3942,9 +3726,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -3959,9 +3741,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/55.png",
             "large": "https://images.pokemontcg.io/neo3/55_hires.png"
@@ -4014,9 +3794,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4031,9 +3809,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/56.png",
             "large": "https://images.pokemontcg.io/neo3/56_hires.png"
@@ -4093,9 +3869,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4110,9 +3884,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             220
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/57.png",
             "large": "https://images.pokemontcg.io/neo3/57_hires.png"
@@ -4163,9 +3935,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4180,9 +3950,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/58.png",
             "large": "https://images.pokemontcg.io/neo3/58_hires.png"
@@ -4240,9 +4008,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4257,9 +4023,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/59.png",
             "large": "https://images.pokemontcg.io/neo3/59_hires.png"
@@ -4282,9 +4046,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4295,9 +4057,7 @@ let neo3 = [
         "number": "60",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/60.png",
             "large": "https://images.pokemontcg.io/neo3/60_hires.png"
@@ -4320,9 +4080,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4333,9 +4091,7 @@ let neo3 = [
         "number": "61",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/61.png",
             "large": "https://images.pokemontcg.io/neo3/61_hires.png"
@@ -4354,9 +4110,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4367,9 +4121,7 @@ let neo3 = [
         "number": "62",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/62.png",
             "large": "https://images.pokemontcg.io/neo3/62_hires.png"
@@ -4392,9 +4144,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4405,9 +4155,7 @@ let neo3 = [
         "number": "63",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/63.png",
             "large": "https://images.pokemontcg.io/neo3/63_hires.png"
@@ -4426,9 +4174,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4439,9 +4185,7 @@ let neo3 = [
         "number": "64",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/64.png",
             "large": "https://images.pokemontcg.io/neo3/64_hires.png"
@@ -4505,9 +4249,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4522,9 +4264,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/65.png",
             "large": "https://images.pokemontcg.io/neo3/65_hires.png"
@@ -4580,9 +4320,7 @@ let neo3 = [
             "series": "Neo",
             "printedTotal": 64,
             "total": 66,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "N3",
             "releaseDate": "2001/09/21",
             "images": {
@@ -4597,9 +4335,7 @@ let neo3 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/neo3/66.png",
             "large": "https://images.pokemontcg.io/neo3/66_hires.png"

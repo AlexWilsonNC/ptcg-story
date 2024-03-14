@@ -45,11 +45,7 @@ let fut20 = [
             "series": "Other",
             "printedTotal": 5,
             "total": 5,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FUT20",
             "releaseDate": "2020/09/11",
             "images": {
@@ -63,11 +59,6 @@ let fut20 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/fut20/1.png",
@@ -119,11 +110,7 @@ let fut20 = [
             "series": "Other",
             "printedTotal": 5,
             "total": 5,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FUT20",
             "releaseDate": "2020/09/11",
             "images": {
@@ -137,11 +124,6 @@ let fut20 = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/fut20/2.png",
@@ -194,11 +176,7 @@ let fut20 = [
             "series": "Other",
             "printedTotal": 5,
             "total": 5,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FUT20",
             "releaseDate": "2020/09/11",
             "images": {
@@ -212,11 +190,6 @@ let fut20 = [
         "nationalPokedexNumbers": [
             810
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/fut20/3.png",
@@ -268,11 +241,7 @@ let fut20 = [
             "series": "Other",
             "printedTotal": 5,
             "total": 5,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FUT20",
             "releaseDate": "2020/09/11",
             "images": {
@@ -286,11 +255,6 @@ let fut20 = [
         "nationalPokedexNumbers": [
             813
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/fut20/4.png",
@@ -342,11 +306,7 @@ let fut20 = [
             "series": "Other",
             "printedTotal": 5,
             "total": 5,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "FUT20",
             "releaseDate": "2020/09/11",
             "images": {
@@ -360,11 +320,6 @@ let fut20 = [
         "nationalPokedexNumbers": [
             816
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/fut20/5.png",

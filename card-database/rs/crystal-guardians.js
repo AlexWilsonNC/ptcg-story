@@ -49,9 +49,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -65,9 +63,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             354
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/1.png",
             "large": "https://images.pokemontcg.io/ex14/1_hires.png"
@@ -132,9 +128,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -148,9 +142,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/2.png",
             "large": "https://images.pokemontcg.io/ex14/2_hires.png"
@@ -211,9 +203,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -227,9 +217,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/3.png",
             "large": "https://images.pokemontcg.io/ex14/3_hires.png"
@@ -285,9 +273,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -301,9 +287,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/4.png",
             "large": "https://images.pokemontcg.io/ex14/4_hires.png"
@@ -364,9 +348,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -380,9 +362,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/5.png",
             "large": "https://images.pokemontcg.io/ex14/5_hires.png"
@@ -443,9 +423,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -459,9 +437,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             272
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/6.png",
             "large": "https://images.pokemontcg.io/ex14/6_hires.png"
@@ -511,9 +487,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -527,9 +501,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             370
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/7.png",
             "large": "https://images.pokemontcg.io/ex14/7_hires.png"
@@ -589,9 +561,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -605,9 +575,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/8.png",
             "large": "https://images.pokemontcg.io/ex14/8_hires.png"
@@ -664,9 +632,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -680,9 +646,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/9.png",
             "large": "https://images.pokemontcg.io/ex14/9_hires.png"
@@ -730,9 +694,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -746,9 +708,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/10.png",
             "large": "https://images.pokemontcg.io/ex14/10_hires.png"
@@ -802,9 +762,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -818,9 +776,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             317
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/11.png",
             "large": "https://images.pokemontcg.io/ex14/11_hires.png"
@@ -878,9 +834,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -894,9 +848,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/12.png",
             "large": "https://images.pokemontcg.io/ex14/12_hires.png"
@@ -955,9 +907,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -971,9 +921,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/13.png",
             "large": "https://images.pokemontcg.io/ex14/13_hires.png"
@@ -1024,9 +972,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1040,9 +986,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/14.png",
             "large": "https://images.pokemontcg.io/ex14/14_hires.png"
@@ -1102,9 +1046,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1118,9 +1060,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             332
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/15.png",
             "large": "https://images.pokemontcg.io/ex14/15_hires.png"
@@ -1175,9 +1115,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1191,9 +1129,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/16.png",
             "large": "https://images.pokemontcg.io/ex14/16_hires.png"
@@ -1263,9 +1199,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1279,9 +1213,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             356
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/17.png",
             "large": "https://images.pokemontcg.io/ex14/17_hires.png"
@@ -1337,9 +1269,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1353,9 +1283,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/18.png",
             "large": "https://images.pokemontcg.io/ex14/18_hires.png"
@@ -1418,9 +1346,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1434,9 +1360,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             253
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/19.png",
             "large": "https://images.pokemontcg.io/ex14/19_hires.png"
@@ -1487,9 +1411,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1503,9 +1425,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/20.png",
             "large": "https://images.pokemontcg.io/ex14/20_hires.png"
@@ -1545,9 +1465,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1561,9 +1479,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             174
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/21.png",
             "large": "https://images.pokemontcg.io/ex14/21_hires.png"
@@ -1621,9 +1537,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1637,9 +1551,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             99
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/22.png",
             "large": "https://images.pokemontcg.io/ex14/22_hires.png"
@@ -1696,9 +1608,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1712,9 +1622,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             294
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/23.png",
             "large": "https://images.pokemontcg.io/ex14/23_hires.png"
@@ -1770,9 +1678,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1786,9 +1692,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             259
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/24.png",
             "large": "https://images.pokemontcg.io/ex14/24_hires.png"
@@ -1849,9 +1753,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1865,9 +1767,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             308
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/25.png",
             "large": "https://images.pokemontcg.io/ex14/25_hires.png"
@@ -1934,9 +1834,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -1950,9 +1848,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             279
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/26.png",
             "large": "https://images.pokemontcg.io/ex14/26_hires.png"
@@ -2003,9 +1899,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2019,9 +1913,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             260
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/27.png",
             "large": "https://images.pokemontcg.io/ex14/27_hires.png"
@@ -2082,9 +1974,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2098,9 +1988,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/28.png",
             "large": "https://images.pokemontcg.io/ex14/28_hires.png"
@@ -2157,9 +2045,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2173,9 +2059,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/29.png",
             "large": "https://images.pokemontcg.io/ex14/29_hires.png"
@@ -2232,9 +2116,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2248,9 +2130,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/30.png",
             "large": "https://images.pokemontcg.io/ex14/30_hires.png"
@@ -2307,9 +2187,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2323,9 +2201,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/31.png",
             "large": "https://images.pokemontcg.io/ex14/31_hires.png"
@@ -2387,9 +2263,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2403,9 +2277,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             253
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/32.png",
             "large": "https://images.pokemontcg.io/ex14/32_hires.png"
@@ -2460,9 +2332,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2476,9 +2346,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             316
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/33.png",
             "large": "https://images.pokemontcg.io/ex14/33_hires.png"
@@ -2535,9 +2403,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2551,9 +2417,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/34.png",
             "large": "https://images.pokemontcg.io/ex14/34_hires.png"
@@ -2610,9 +2474,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2626,9 +2488,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/35.png",
             "large": "https://images.pokemontcg.io/ex14/35_hires.png"
@@ -2690,9 +2550,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2706,9 +2564,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             305
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/36.png",
             "large": "https://images.pokemontcg.io/ex14/36_hires.png"
@@ -2765,9 +2621,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2781,9 +2635,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             271
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/37.png",
             "large": "https://images.pokemontcg.io/ex14/37_hires.png"
@@ -2840,9 +2692,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2856,9 +2706,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             259
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/38.png",
             "large": "https://images.pokemontcg.io/ex14/38_hires.png"
@@ -2920,9 +2768,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -2936,9 +2782,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/39.png",
             "large": "https://images.pokemontcg.io/ex14/39_hires.png"
@@ -2998,9 +2842,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3014,9 +2856,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             353
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/40.png",
             "large": "https://images.pokemontcg.io/ex14/40_hires.png"
@@ -3070,9 +2910,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3086,9 +2924,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/41.png",
             "large": "https://images.pokemontcg.io/ex14/41_hires.png"
@@ -3145,9 +2981,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3161,9 +2995,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/42.png",
             "large": "https://images.pokemontcg.io/ex14/42_hires.png"
@@ -3219,9 +3051,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3235,9 +3065,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/43.png",
             "large": "https://images.pokemontcg.io/ex14/43_hires.png"
@@ -3287,9 +3115,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3303,9 +3129,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             304
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/44.png",
             "large": "https://images.pokemontcg.io/ex14/44_hires.png"
@@ -3358,9 +3182,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3374,9 +3196,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/45.png",
             "large": "https://images.pokemontcg.io/ex14/45_hires.png"
@@ -3430,9 +3250,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3446,9 +3264,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/46.png",
             "large": "https://images.pokemontcg.io/ex14/46_hires.png"
@@ -3502,9 +3318,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3518,9 +3332,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             331
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/47.png",
             "large": "https://images.pokemontcg.io/ex14/47_hires.png"
@@ -3574,9 +3386,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3590,9 +3400,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/48.png",
             "large": "https://images.pokemontcg.io/ex14/48_hires.png"
@@ -3646,9 +3454,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3662,9 +3468,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/49.png",
             "large": "https://images.pokemontcg.io/ex14/49_hires.png"
@@ -3718,9 +3522,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3734,9 +3536,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/50.png",
             "large": "https://images.pokemontcg.io/ex14/50_hires.png"
@@ -3795,9 +3595,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3811,9 +3609,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             355
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/51.png",
             "large": "https://images.pokemontcg.io/ex14/51_hires.png"
@@ -3872,9 +3668,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3888,9 +3682,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/52.png",
             "large": "https://images.pokemontcg.io/ex14/52_hires.png"
@@ -3934,9 +3726,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -3950,9 +3740,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/53.png",
             "large": "https://images.pokemontcg.io/ex14/53_hires.png"
@@ -3996,9 +3784,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4012,9 +3798,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             98
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/54.png",
             "large": "https://images.pokemontcg.io/ex14/54_hires.png"
@@ -4066,9 +3850,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4082,9 +3864,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             270
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/55.png",
             "large": "https://images.pokemontcg.io/ex14/55_hires.png"
@@ -4138,9 +3918,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4154,9 +3932,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             307
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/56.png",
             "large": "https://images.pokemontcg.io/ex14/56_hires.png"
@@ -4207,9 +3983,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4223,9 +3997,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             258
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/57.png",
             "large": "https://images.pokemontcg.io/ex14/57_hires.png"
@@ -4279,9 +4051,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4295,9 +4065,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             258
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/58.png",
             "large": "https://images.pokemontcg.io/ex14/58_hires.png"
@@ -4342,9 +4110,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4358,9 +4124,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/59.png",
             "large": "https://images.pokemontcg.io/ex14/59_hires.png"
@@ -4404,9 +4168,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4420,9 +4182,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/60.png",
             "large": "https://images.pokemontcg.io/ex14/60_hires.png"
@@ -4472,9 +4232,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4488,9 +4246,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             21
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/61.png",
             "large": "https://images.pokemontcg.io/ex14/61_hires.png"
@@ -4544,9 +4300,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4560,9 +4314,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/62.png",
             "large": "https://images.pokemontcg.io/ex14/62_hires.png"
@@ -4617,9 +4369,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4633,9 +4383,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/63.png",
             "large": "https://images.pokemontcg.io/ex14/63_hires.png"
@@ -4686,9 +4434,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4702,9 +4448,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/64.png",
             "large": "https://images.pokemontcg.io/ex14/64_hires.png"
@@ -4748,9 +4492,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4764,9 +4506,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/65.png",
             "large": "https://images.pokemontcg.io/ex14/65_hires.png"
@@ -4810,9 +4550,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4826,9 +4564,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/66.png",
             "large": "https://images.pokemontcg.io/ex14/66_hires.png"
@@ -4888,9 +4624,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4904,9 +4638,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/67.png",
             "large": "https://images.pokemontcg.io/ex14/67_hires.png"
@@ -4965,9 +4697,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -4981,9 +4711,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/68.png",
             "large": "https://images.pokemontcg.io/ex14/68_hires.png"
@@ -5038,9 +4766,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5054,9 +4780,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             293
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/69.png",
             "large": "https://images.pokemontcg.io/ex14/69_hires.png"
@@ -5106,9 +4830,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5122,9 +4844,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             278
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/70.png",
             "large": "https://images.pokemontcg.io/ex14/70_hires.png"
@@ -5147,9 +4867,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5160,10 +4878,7 @@ let ex14 = [
         "number": "71",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/71.png",
             "large": "https://images.pokemontcg.io/ex14/71_hires.png"
@@ -5186,9 +4901,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5199,9 +4912,7 @@ let ex14 = [
         "number": "72",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/72.png",
             "large": "https://images.pokemontcg.io/ex14/72_hires.png"
@@ -5224,9 +4935,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5237,9 +4946,7 @@ let ex14 = [
         "number": "73",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/73.png",
             "large": "https://images.pokemontcg.io/ex14/73_hires.png"
@@ -5262,9 +4969,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5275,9 +4980,7 @@ let ex14 = [
         "number": "74",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/74.png",
             "large": "https://images.pokemontcg.io/ex14/74_hires.png"
@@ -5300,9 +5003,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5313,9 +5014,7 @@ let ex14 = [
         "number": "75",
         "artist": "Shizurow",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/75.png",
             "large": "https://images.pokemontcg.io/ex14/75_hires.png"
@@ -5338,9 +5037,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5351,9 +5048,7 @@ let ex14 = [
         "number": "76",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/76.png",
             "large": "https://images.pokemontcg.io/ex14/76_hires.png"
@@ -5375,9 +5070,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5388,9 +5081,7 @@ let ex14 = [
         "number": "77",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/77.png",
             "large": "https://images.pokemontcg.io/ex14/77_hires.png"
@@ -5412,9 +5103,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5425,9 +5114,7 @@ let ex14 = [
         "number": "78",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/78.png",
             "large": "https://images.pokemontcg.io/ex14/78_hires.png"
@@ -5450,9 +5137,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5463,9 +5148,7 @@ let ex14 = [
         "number": "79",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/79.png",
             "large": "https://images.pokemontcg.io/ex14/79_hires.png"
@@ -5488,9 +5171,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5501,9 +5182,7 @@ let ex14 = [
         "number": "80",
         "artist": "Shizurow",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/80.png",
             "large": "https://images.pokemontcg.io/ex14/80_hires.png"
@@ -5526,9 +5205,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5539,9 +5216,7 @@ let ex14 = [
         "number": "81",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/81.png",
             "large": "https://images.pokemontcg.io/ex14/81_hires.png"
@@ -5563,9 +5238,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5576,11 +5249,7 @@ let ex14 = [
         "number": "82",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/82.png",
             "large": "https://images.pokemontcg.io/ex14/82_hires.png"
@@ -5602,9 +5271,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5615,9 +5282,7 @@ let ex14 = [
         "number": "83",
         "artist": "Katsura Tabata",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/83.png",
             "large": "https://images.pokemontcg.io/ex14/83_hires.png"
@@ -5639,9 +5304,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5652,9 +5315,7 @@ let ex14 = [
         "number": "84",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/84.png",
             "large": "https://images.pokemontcg.io/ex14/84_hires.png"
@@ -5676,9 +5337,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5689,9 +5348,7 @@ let ex14 = [
         "number": "85",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/85.png",
             "large": "https://images.pokemontcg.io/ex14/85_hires.png"
@@ -5713,9 +5370,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5726,11 +5381,7 @@ let ex14 = [
         "number": "86",
         "artist": "Kai Ishikawa",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/86.png",
             "large": "https://images.pokemontcg.io/ex14/86_hires.png"
@@ -5752,9 +5403,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5765,11 +5414,7 @@ let ex14 = [
         "number": "87",
         "artist": "Shin-ichi Yoshikawa",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/87.png",
             "large": "https://images.pokemontcg.io/ex14/87_hires.png"
@@ -5791,9 +5436,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5804,9 +5447,7 @@ let ex14 = [
         "number": "88",
         "artist": "Takumi Akabane",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/88.png",
             "large": "https://images.pokemontcg.io/ex14/88_hires.png"
@@ -5879,9 +5520,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5895,9 +5534,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             306
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/89.png",
             "large": "https://images.pokemontcg.io/ex14/89_hires.png"
@@ -5956,9 +5593,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -5972,9 +5607,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             257
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/90.png",
             "large": "https://images.pokemontcg.io/ex14/90_hires.png"
@@ -6037,9 +5670,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6053,9 +5684,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/91.png",
             "large": "https://images.pokemontcg.io/ex14/91_hires.png"
@@ -6120,9 +5749,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6136,9 +5763,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             295
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/92.png",
             "large": "https://images.pokemontcg.io/ex14/92_hires.png"
@@ -6192,9 +5817,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6208,9 +5831,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/93.png",
             "large": "https://images.pokemontcg.io/ex14/93_hires.png"
@@ -6268,9 +5889,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6284,9 +5903,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/94.png",
             "large": "https://images.pokemontcg.io/ex14/94_hires.png"
@@ -6340,9 +5957,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6356,9 +5971,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/95.png",
             "large": "https://images.pokemontcg.io/ex14/95_hires.png"
@@ -6418,9 +6031,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6434,9 +6045,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             254
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/96.png",
             "large": "https://images.pokemontcg.io/ex14/96_hires.png"
@@ -6506,9 +6115,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6522,9 +6129,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/97.png",
             "large": "https://images.pokemontcg.io/ex14/97_hires.png"
@@ -6579,9 +6184,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6595,9 +6198,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             260
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/98.png",
             "large": "https://images.pokemontcg.io/ex14/98_hires.png"
@@ -6653,9 +6254,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6669,9 +6268,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/99.png",
             "large": "https://images.pokemontcg.io/ex14/99_hires.png"
@@ -6723,9 +6320,7 @@ let ex14 = [
             "series": "EX",
             "printedTotal": 100,
             "total": 100,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CG",
             "releaseDate": "2006/08/01",
             "images": {
@@ -6739,9 +6334,7 @@ let ex14 = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ex14/100.png",
             "large": "https://images.pokemontcg.io/ex14/100_hires.png"

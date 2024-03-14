@@ -40,11 +40,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -60,11 +56,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             69
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/1.png",
@@ -164,11 +155,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -184,11 +171,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             70
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/2.png",
@@ -288,11 +270,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -308,11 +286,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             71
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/3.png",
@@ -412,11 +385,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -432,11 +401,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             331
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/4.png",
@@ -534,11 +498,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -554,11 +514,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             332
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/5.png",
@@ -657,11 +612,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -676,11 +627,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             402
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/6.png",
@@ -762,11 +708,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -782,11 +724,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             420
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/7.png",
@@ -883,11 +820,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -903,11 +836,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             421
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/8.png",
@@ -1007,11 +935,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -1027,11 +951,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             455
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/9.png",
@@ -1127,11 +1046,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -1147,11 +1062,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             632
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/10.png",
@@ -1240,11 +1150,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -1260,11 +1166,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             664
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/11.png",
@@ -1367,11 +1268,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -1387,11 +1284,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             665
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/12.png",
@@ -1489,11 +1381,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -1509,11 +1397,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             666
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/13.png",
@@ -1602,11 +1485,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -1622,11 +1501,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             753
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/14.png",
@@ -1724,11 +1598,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -1744,11 +1614,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             754
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/15.png",
@@ -1846,11 +1711,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -1866,11 +1727,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             787
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/16.png",
@@ -1959,11 +1815,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -1979,11 +1831,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             824
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/17.png",
@@ -2084,11 +1931,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -2103,11 +1946,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             841
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/18.png",
@@ -2194,11 +2032,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -2213,11 +2047,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             841
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/19.png",
@@ -2308,11 +2137,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -2328,11 +2153,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/20.png",
@@ -2432,11 +2252,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -2451,11 +2267,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/21.png",
@@ -2549,11 +2360,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -2568,11 +2375,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/22.png",
@@ -2668,11 +2470,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -2688,11 +2486,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             498
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/23.png",
@@ -2797,11 +2590,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -2817,11 +2606,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             499
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/24.png",
@@ -2922,11 +2706,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -2942,11 +2722,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             500
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/25.png",
@@ -3044,11 +2819,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -3064,11 +2835,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             631
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/26.png",
@@ -3157,11 +2923,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -3177,11 +2939,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             757
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/27.png",
@@ -3278,11 +3035,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -3298,11 +3051,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             758
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/28.png",
@@ -3392,11 +3140,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -3412,11 +3156,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             850
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/29.png",
@@ -3514,11 +3253,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -3534,11 +3269,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             851
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/30.png",
@@ -3627,11 +3357,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -3647,11 +3373,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/31.png",
@@ -3741,11 +3462,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -3761,11 +3478,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/32.png",
@@ -3859,11 +3571,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -3879,11 +3587,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/33.png",
@@ -3982,11 +3685,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -4002,11 +3701,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/34.png",
@@ -4106,11 +3800,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -4126,11 +3816,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             866
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/35.png",
@@ -4230,11 +3915,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -4250,11 +3931,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             223
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/36.png",
@@ -4351,11 +4027,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -4371,11 +4043,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             224
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/37.png",
@@ -4467,11 +4134,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -4487,11 +4150,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/38.png",
@@ -4594,11 +4252,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -4614,11 +4268,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             342
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/39.png",
@@ -4719,11 +4368,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -4738,11 +4383,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/40.png",
@@ -4834,11 +4474,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -4854,11 +4490,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             592
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/41.png",
@@ -4948,11 +4579,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -4968,11 +4595,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             593
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/42.png",
@@ -5069,11 +4691,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -5089,11 +4707,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             779
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/43.png",
@@ -5183,11 +4796,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -5203,11 +4812,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/44.png",
@@ -5310,11 +4914,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -5330,11 +4930,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             466
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/45.png",
@@ -5424,11 +5019,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -5444,11 +5035,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/46.png",
@@ -5549,11 +5135,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -5569,11 +5151,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             404
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/47.png",
@@ -5671,11 +5248,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -5691,11 +5264,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             405
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/48.png",
@@ -5791,11 +5359,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -5811,11 +5375,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             417
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/49.png",
@@ -5916,11 +5475,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -5935,11 +5490,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             785
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/50.png",
@@ -6024,11 +5574,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -6043,11 +5589,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             785
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/51.png",
@@ -6137,11 +5678,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -6157,11 +5694,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             835
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/52.png",
@@ -6259,11 +5791,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -6279,11 +5807,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             836
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/53.png",
@@ -6380,11 +5903,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -6400,11 +5919,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/54.png",
@@ -6509,11 +6023,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -6529,11 +6039,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/55.png",
@@ -6640,11 +6145,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -6660,11 +6161,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/56.png",
@@ -6760,11 +6256,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -6780,11 +6272,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             343
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/57.png",
@@ -6889,11 +6376,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -6909,11 +6392,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/58.png",
@@ -7014,11 +6492,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -7034,11 +6508,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             358
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/59.png",
@@ -7134,11 +6603,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -7154,11 +6619,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             677
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/60.png",
@@ -7259,11 +6719,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -7279,11 +6735,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             678
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/61.png",
@@ -7387,11 +6838,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -7406,11 +6853,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/62.png",
@@ -7512,11 +6954,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -7531,11 +6969,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/63.png",
@@ -7635,11 +7068,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -7655,11 +7084,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             825
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/64.png",
@@ -7763,11 +7187,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -7783,11 +7203,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             826
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/65.png",
@@ -7878,11 +7293,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -7898,11 +7309,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/66.png",
@@ -8001,11 +7407,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -8021,11 +7423,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/67.png",
@@ -8132,11 +7529,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -8152,11 +7545,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/68.png",
@@ -8255,11 +7643,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -8275,11 +7659,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/69.png",
@@ -8375,11 +7754,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -8395,11 +7770,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/70.png",
@@ -8489,11 +7859,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -8509,11 +7875,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             207
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/71.png",
@@ -8612,11 +7973,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -8632,11 +7989,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             472
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/72.png",
@@ -8727,11 +8079,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -8747,11 +8095,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             532
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/73.png",
@@ -8855,11 +8198,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -8875,11 +8214,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             533
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/74.png",
@@ -8982,11 +8316,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -9002,11 +8332,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             534
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/75.png",
@@ -9097,11 +8422,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -9117,11 +8438,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             619
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/76.png",
@@ -9219,11 +8535,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -9239,11 +8551,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             620
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/77.png",
@@ -9333,11 +8640,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -9353,11 +8656,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             837
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/78.png",
@@ -9463,11 +8761,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -9483,11 +8777,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             838
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/79.png",
@@ -9589,11 +8878,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -9609,11 +8894,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             839
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/80.png",
@@ -9714,11 +8994,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -9734,11 +9010,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             843
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/81.png",
@@ -9838,11 +9109,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -9858,11 +9125,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             844
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/82.png",
@@ -9951,11 +9213,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -9971,11 +9229,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             870
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/83.png",
@@ -10076,11 +9329,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -10096,11 +9345,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             874
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/84.png",
@@ -10203,11 +9447,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -10222,11 +9462,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             892
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/85.png",
@@ -10326,11 +9561,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -10345,11 +9576,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             892
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/86.png",
@@ -10445,11 +9671,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -10464,11 +9686,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             892
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/87.png",
@@ -10564,11 +9781,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -10583,11 +9796,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             892
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/88.png",
@@ -10679,11 +9887,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -10699,11 +9903,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/89.png",
@@ -10801,11 +10000,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -10821,11 +10016,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/90.png",
@@ -10916,11 +10106,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -10936,11 +10122,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/91.png",
@@ -11040,11 +10221,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -11060,11 +10237,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/92.png",
@@ -11169,11 +10341,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -11189,11 +10357,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             198
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/93.png",
@@ -11296,11 +10459,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -11316,11 +10475,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             430
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/94.png",
@@ -11410,11 +10564,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -11430,11 +10580,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/95.png",
@@ -11531,11 +10676,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -11551,11 +10692,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/96.png",
@@ -11662,11 +10798,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -11681,11 +10813,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/97.png",
@@ -11773,11 +10900,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -11793,11 +10916,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             877
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/98.png",
@@ -11908,11 +11026,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -11928,11 +11042,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             208
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/99.png",
@@ -12036,11 +11145,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -12056,11 +11161,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/100.png",
@@ -12156,11 +11256,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -12176,11 +11272,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             436
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/101.png",
@@ -12284,11 +11375,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -12304,11 +11391,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             437
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/102.png",
@@ -12412,11 +11494,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -12432,11 +11510,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             624
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/103.png",
@@ -12540,11 +11613,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -12560,11 +11629,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             625
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/104.png",
@@ -12660,11 +11724,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -12680,11 +11740,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             679
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/105.png",
@@ -12782,11 +11837,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -12802,11 +11853,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             680
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/106.png",
@@ -12910,11 +11956,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -12930,11 +11972,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/107.png",
@@ -13037,11 +12074,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -13057,11 +12090,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/108.png",
@@ -13168,11 +12196,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -13187,11 +12211,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             823
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/109.png",
@@ -13285,11 +12304,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -13304,11 +12319,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             823
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/110.png",
@@ -13396,11 +12406,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -13416,11 +12422,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             21
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/111.png",
@@ -13509,11 +12510,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -13529,11 +12526,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/112.png",
@@ -13639,11 +12631,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -13659,11 +12647,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             108
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/113.png",
@@ -13767,11 +12750,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -13787,11 +12766,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             463
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/114.png",
@@ -13891,11 +12865,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -13911,11 +12881,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             431
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/115.png",
@@ -14016,11 +12981,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -14036,11 +12997,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             432
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/116.png",
@@ -14146,11 +13102,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -14165,11 +13117,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             508
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/117.png",
@@ -14258,11 +13205,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -14278,11 +13221,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             626
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/118.png",
@@ -14379,11 +13317,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -14399,11 +13333,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             780
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/119.png",
@@ -14500,11 +13429,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -14520,11 +13445,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             876
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/120.png",
@@ -14590,11 +13510,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -14606,11 +13522,7 @@ let swsh5 = [
         "number": "121",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/121.png",
@@ -14675,11 +13587,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -14691,11 +13599,7 @@ let swsh5 = [
         "number": "122",
         "artist": "sadaji",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/122.png",
@@ -14760,11 +13664,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -14776,11 +13676,7 @@ let swsh5 = [
         "number": "123",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/123.png",
@@ -14845,11 +13741,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -14861,11 +13753,7 @@ let swsh5 = [
         "number": "124",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/124.png",
@@ -14930,11 +13818,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -14946,11 +13830,7 @@ let swsh5 = [
         "number": "125",
         "artist": "sadaji",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/125.png",
@@ -15016,11 +13896,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -15032,11 +13908,7 @@ let swsh5 = [
         "number": "126",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/126.png",
@@ -15102,11 +13974,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -15118,11 +13986,7 @@ let swsh5 = [
         "number": "127",
         "artist": "sadaji",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/127.png",
@@ -15188,11 +14052,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -15204,11 +14064,7 @@ let swsh5 = [
         "number": "128",
         "artist": "kirisAki",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/128.png",
@@ -15273,11 +14129,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -15289,11 +14141,7 @@ let swsh5 = [
         "number": "129",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/129.png",
@@ -15358,11 +14206,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -15374,11 +14218,7 @@ let swsh5 = [
         "number": "130",
         "artist": "GAME FREAK inc.",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/130.png",
@@ -15458,11 +14298,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -15474,11 +14310,7 @@ let swsh5 = [
         "number": "131",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/131.png",
@@ -15545,11 +14377,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -15561,11 +14389,7 @@ let swsh5 = [
         "number": "132",
         "artist": "Naoki Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/132.png",
@@ -15643,11 +14467,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -15659,11 +14479,7 @@ let swsh5 = [
         "number": "133",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/133.png",
@@ -15730,11 +14546,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -15746,11 +14558,7 @@ let swsh5 = [
         "number": "134",
         "artist": "Mitsuhiro Arita",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/134.png",
@@ -15815,11 +14623,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -15831,11 +14635,7 @@ let swsh5 = [
         "number": "135",
         "artist": "Hideki Ishikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/135.png",
@@ -15901,11 +14701,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -15917,11 +14713,7 @@ let swsh5 = [
         "number": "136",
         "artist": "inose yukie",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/136.png",
@@ -15987,11 +14779,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -16003,11 +14791,7 @@ let swsh5 = [
         "number": "137",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/137.png",
@@ -16073,11 +14857,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -16089,11 +14869,7 @@ let swsh5 = [
         "number": "138",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/138.png",
@@ -16159,11 +14935,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -16175,11 +14947,7 @@ let swsh5 = [
         "number": "139",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/139.png",
@@ -16245,11 +15013,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -16260,11 +15024,7 @@ let swsh5 = [
         },
         "number": "140",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/140.png",
@@ -16330,11 +15090,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -16345,11 +15101,7 @@ let swsh5 = [
         },
         "number": "141",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/141.png",
@@ -16448,11 +15200,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -16467,11 +15215,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             402
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/142.png",
@@ -16565,11 +15308,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -16584,11 +15323,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             841
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/143.png",
@@ -16681,11 +15415,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -16700,11 +15430,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/144.png",
@@ -16798,11 +15523,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -16817,11 +15538,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/145.png",
@@ -16915,11 +15631,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -16934,11 +15646,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/146.png",
@@ -17032,11 +15739,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -17051,11 +15754,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             785
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/147.png",
@@ -17152,11 +15850,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -17171,11 +15865,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/148.png",
@@ -17277,11 +15966,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -17296,11 +15981,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             800
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/149.png",
@@ -17396,11 +16076,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -17415,11 +16091,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             892
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/150.png",
@@ -17515,11 +16186,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -17534,11 +16201,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             892
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/151.png",
@@ -17634,11 +16296,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -17653,11 +16311,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             892
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/152.png",
@@ -17753,11 +16406,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -17772,11 +16421,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             892
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/153.png",
@@ -17876,11 +16520,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -17895,11 +16535,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/154.png",
@@ -17999,11 +16634,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -18018,11 +16649,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/155.png",
@@ -18122,11 +16748,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -18141,11 +16763,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             823
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/156.png",
@@ -18244,11 +16861,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -18263,11 +16876,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             508
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/157.png",
@@ -18326,11 +16934,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -18342,11 +16946,7 @@ let swsh5 = [
         "number": "158",
         "artist": "Ryuta Fuse",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/158.png",
@@ -18404,11 +17004,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -18420,11 +17016,7 @@ let swsh5 = [
         "number": "159",
         "artist": "Yuu Nishida",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/159.png",
@@ -18483,11 +17075,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -18499,11 +17087,7 @@ let swsh5 = [
         "number": "160",
         "artist": "Taira Akitsu",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/160.png",
@@ -18561,11 +17145,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -18577,11 +17157,7 @@ let swsh5 = [
         "number": "161",
         "artist": "Kagemaru Himeno",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/161.png",
@@ -18641,11 +17217,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -18657,11 +17229,7 @@ let swsh5 = [
         "number": "162",
         "artist": "Naoki Saito",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/162.png",
@@ -18721,11 +17289,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -18737,11 +17301,7 @@ let swsh5 = [
         "number": "163",
         "artist": "Mitsuhiro Arita",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/163.png",
@@ -18841,11 +17401,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -18860,11 +17416,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             892
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/168.png",
@@ -18960,11 +17511,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -18979,11 +17526,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             892
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/170.png",
@@ -19070,11 +17612,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -19089,11 +17627,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             841
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/164.png",
@@ -19187,11 +17720,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -19206,11 +17735,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             494
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/165.png",
@@ -19295,11 +17819,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -19314,11 +17834,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             785
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/166.png",
@@ -19418,11 +17933,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -19437,11 +17948,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             892
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/167.png",
@@ -19537,11 +18043,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -19556,11 +18058,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             892
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/169.png",
@@ -19654,11 +18151,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -19673,11 +18166,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             823
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/171.png",
@@ -19736,11 +18224,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -19752,11 +18236,7 @@ let swsh5 = [
         "number": "172",
         "artist": "Ryuta Fuse",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/172.png",
@@ -19814,11 +18294,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -19830,11 +18306,7 @@ let swsh5 = [
         "number": "173",
         "artist": "Yuu Nishida",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/173.png",
@@ -19893,11 +18365,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -19909,11 +18377,7 @@ let swsh5 = [
         "number": "174",
         "artist": "Taira Akitsu",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/174.png",
@@ -19971,11 +18435,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -19987,11 +18447,7 @@ let swsh5 = [
         "number": "175",
         "artist": "Kagemaru Himeno",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/175.png",
@@ -20051,11 +18507,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -20067,11 +18519,7 @@ let swsh5 = [
         "number": "176",
         "artist": "Naoki Saito",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/176.png",
@@ -20131,11 +18579,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -20147,11 +18591,7 @@ let swsh5 = [
         "number": "177",
         "artist": "Mitsuhiro Arita",
         "rarity": "Rare Rainbow",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/177.png",
@@ -20242,11 +18682,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -20262,11 +18698,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             224
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/178.png",
@@ -20356,11 +18787,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -20376,11 +18803,6 @@ let swsh5 = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/179.png",
@@ -20439,11 +18861,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -20455,11 +18873,7 @@ let swsh5 = [
         "number": "180",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/180.png",
@@ -20517,11 +18931,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -20533,11 +18943,7 @@ let swsh5 = [
         "number": "181",
         "artist": "Ryo Ueda",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/181.png",
@@ -20596,11 +19002,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -20611,11 +19013,7 @@ let swsh5 = [
         },
         "number": "182",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/182.png",
@@ -20674,11 +19072,7 @@ let swsh5 = [
             "series": "Sword & Shield",
             "printedTotal": 163,
             "total": 183,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "BST",
             "releaseDate": "2021/03/19",
             "updatedAt": "2021/03/19 15:12:00",
@@ -20689,11 +19083,7 @@ let swsh5 = [
         },
         "number": "183",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/swsh5/183.png",

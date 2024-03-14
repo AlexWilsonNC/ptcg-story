@@ -38,9 +38,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -52,9 +50,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/1.png",
             "large": "https://images.pokemontcg.io/ru1/1_hires.png"
@@ -104,9 +100,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -118,9 +112,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             421
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/2.png",
             "large": "https://images.pokemontcg.io/ru1/2_hires.png"
@@ -164,9 +156,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -178,9 +168,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/3.png",
             "large": "https://images.pokemontcg.io/ru1/3_hires.png"
@@ -224,9 +212,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -238,9 +224,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/4.png",
             "large": "https://images.pokemontcg.io/ru1/4_hires.png"
@@ -284,9 +268,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -298,9 +280,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/5.png",
             "large": "https://images.pokemontcg.io/ru1/5_hires.png"
@@ -351,9 +331,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -365,9 +343,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/6.png",
             "large": "https://images.pokemontcg.io/ru1/6_hires.png"
@@ -419,9 +395,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -433,9 +407,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/7.png",
             "large": "https://images.pokemontcg.io/ru1/7_hires.png"
@@ -485,9 +457,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -499,9 +469,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/8.png",
             "large": "https://images.pokemontcg.io/ru1/8_hires.png"
@@ -544,9 +512,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -558,9 +524,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/9.png",
             "large": "https://images.pokemontcg.io/ru1/9_hires.png"
@@ -612,9 +576,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -626,9 +588,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/10.png",
             "large": "https://images.pokemontcg.io/ru1/10_hires.png"
@@ -679,9 +639,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -693,9 +651,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/11.png",
             "large": "https://images.pokemontcg.io/ru1/11_hires.png"
@@ -751,9 +707,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -765,9 +719,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/12.png",
             "large": "https://images.pokemontcg.io/ru1/12_hires.png"
@@ -817,9 +769,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -831,9 +781,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             435
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/13.png",
             "large": "https://images.pokemontcg.io/ru1/13_hires.png"
@@ -883,9 +831,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -897,9 +843,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             411
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/14.png",
             "large": "https://images.pokemontcg.io/ru1/14_hires.png"
@@ -944,9 +888,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -958,9 +900,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/15.png",
             "large": "https://images.pokemontcg.io/ru1/15_hires.png"
@@ -1005,9 +945,7 @@ let ru1 = [
             "series": "Other",
             "printedTotal": 16,
             "total": 16,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2009/12/02",
             "images": {
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
@@ -1019,9 +957,7 @@ let ru1 = [
         "nationalPokedexNumbers": [
             400
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ru1/16.png",
             "large": "https://images.pokemontcg.io/ru1/16_hires.png"

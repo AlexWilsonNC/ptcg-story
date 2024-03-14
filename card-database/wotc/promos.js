@@ -47,9 +47,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -64,9 +62,7 @@ let basep = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/1.png",
             "large": "https://images.pokemontcg.io/basep/1_hires.png"
@@ -120,9 +116,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -137,9 +131,7 @@ let basep = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/2.png",
             "large": "https://images.pokemontcg.io/basep/2_hires.png"
@@ -191,9 +183,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -208,9 +198,7 @@ let basep = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/3.png",
             "large": "https://images.pokemontcg.io/basep/3_hires.png"
@@ -265,9 +253,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -282,9 +268,7 @@ let basep = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/4.png",
             "large": "https://images.pokemontcg.io/basep/4_hires.png"
@@ -335,9 +319,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -352,9 +334,7 @@ let basep = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/5.png",
             "large": "https://images.pokemontcg.io/basep/5_hires.png"
@@ -407,9 +387,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -424,9 +402,7 @@ let basep = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/6.png",
             "large": "https://images.pokemontcg.io/basep/6_hires.png"
@@ -487,9 +463,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -504,9 +478,7 @@ let basep = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/7.png",
             "large": "https://images.pokemontcg.io/basep/7_hires.png"
@@ -557,9 +529,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -574,9 +544,7 @@ let basep = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/8.png",
             "large": "https://images.pokemontcg.io/basep/8_hires.png"
@@ -627,9 +595,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -644,9 +610,7 @@ let basep = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/9.png",
             "large": "https://images.pokemontcg.io/basep/9_hires.png"
@@ -697,9 +661,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -714,9 +676,7 @@ let basep = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/10.png",
             "large": "https://images.pokemontcg.io/basep/10_hires.png"
@@ -779,9 +739,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -796,9 +754,7 @@ let basep = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/11.png",
             "large": "https://images.pokemontcg.io/basep/11_hires.png"
@@ -850,9 +806,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -867,9 +821,7 @@ let basep = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/12.png",
             "large": "https://images.pokemontcg.io/basep/12_hires.png"
@@ -921,9 +873,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -938,9 +888,7 @@ let basep = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/13.png",
             "large": "https://images.pokemontcg.io/basep/13_hires.png"
@@ -992,9 +940,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1009,9 +955,7 @@ let basep = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/14.png",
             "large": "https://images.pokemontcg.io/basep/14_hires.png"
@@ -1074,9 +1018,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1091,9 +1033,7 @@ let basep = [
         "nationalPokedexNumbers": [
             137
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/15.png",
             "large": "https://images.pokemontcg.io/basep/15_hires.png"
@@ -1115,9 +1055,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1128,9 +1066,7 @@ let basep = [
         "number": "16",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/16.png",
             "large": "https://images.pokemontcg.io/basep/16_hires.png"
@@ -1187,9 +1123,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1204,9 +1138,7 @@ let basep = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/17.png",
             "large": "https://images.pokemontcg.io/basep/17_hires.png"
@@ -1256,9 +1188,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1273,9 +1203,7 @@ let basep = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/18.png",
             "large": "https://images.pokemontcg.io/basep/18_hires.png"
@@ -1328,9 +1256,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1344,9 +1270,7 @@ let basep = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/19.png",
             "large": "https://images.pokemontcg.io/basep/19_hires.png"
@@ -1399,9 +1323,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1416,9 +1338,7 @@ let basep = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/20.png",
             "large": "https://images.pokemontcg.io/basep/20_hires.png"
@@ -1461,9 +1381,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1478,9 +1396,7 @@ let basep = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/21.png",
             "large": "https://images.pokemontcg.io/basep/21_hires.png"
@@ -1523,9 +1439,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1540,9 +1454,7 @@ let basep = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/22.png",
             "large": "https://images.pokemontcg.io/basep/22_hires.png"
@@ -1585,9 +1497,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1602,9 +1512,7 @@ let basep = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/23.png",
             "large": "https://images.pokemontcg.io/basep/23_hires.png"
@@ -1649,9 +1557,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1666,9 +1572,7 @@ let basep = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/24.png",
             "large": "https://images.pokemontcg.io/basep/24_hires.png"
@@ -1723,9 +1627,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1740,9 +1642,7 @@ let basep = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/25.png",
             "large": "https://images.pokemontcg.io/basep/25_hires.png"
@@ -1796,9 +1696,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1813,9 +1711,7 @@ let basep = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/26.png",
             "large": "https://images.pokemontcg.io/basep/26_hires.png"
@@ -1868,9 +1764,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1885,9 +1779,7 @@ let basep = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/27.png",
             "large": "https://images.pokemontcg.io/basep/27_hires.png"
@@ -1932,9 +1824,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -1949,10 +1839,7 @@ let basep = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/28.png",
             "large": "https://images.pokemontcg.io/basep/28_hires.png"
@@ -1997,9 +1884,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2014,9 +1899,7 @@ let basep = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/29.png",
             "large": "https://images.pokemontcg.io/basep/29_hires.png"
@@ -2070,9 +1953,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2087,9 +1968,7 @@ let basep = [
         "nationalPokedexNumbers": [
             175
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/30.png",
             "large": "https://images.pokemontcg.io/basep/30_hires.png"
@@ -2130,9 +2009,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2147,9 +2024,7 @@ let basep = [
         "nationalPokedexNumbers": [
             173
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/31.png",
             "large": "https://images.pokemontcg.io/basep/31_hires.png"
@@ -2196,9 +2071,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2213,9 +2086,7 @@ let basep = [
         "nationalPokedexNumbers": [
             235
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/32.png",
             "large": "https://images.pokemontcg.io/basep/32_hires.png"
@@ -2274,9 +2145,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2291,9 +2160,7 @@ let basep = [
         "nationalPokedexNumbers": [
             212
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/33.png",
             "large": "https://images.pokemontcg.io/basep/33_hires.png"
@@ -2343,9 +2210,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2360,9 +2225,7 @@ let basep = [
         "nationalPokedexNumbers": [
             244
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/34.png",
             "large": "https://images.pokemontcg.io/basep/34_hires.png"
@@ -2403,9 +2266,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2420,9 +2281,7 @@ let basep = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/35.png",
             "large": "https://images.pokemontcg.io/basep/35_hires.png"
@@ -2463,9 +2322,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2480,9 +2337,7 @@ let basep = [
         "nationalPokedexNumbers": [
             174
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/36.png",
             "large": "https://images.pokemontcg.io/basep/36_hires.png"
@@ -2535,9 +2390,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2552,9 +2405,7 @@ let basep = [
         "nationalPokedexNumbers": [
             237
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/37.png",
             "large": "https://images.pokemontcg.io/basep/37_hires.png"
@@ -2605,9 +2456,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2622,9 +2471,7 @@ let basep = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/38.png",
             "large": "https://images.pokemontcg.io/basep/38_hires.png"
@@ -2678,9 +2525,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2695,9 +2540,7 @@ let basep = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/39.png",
             "large": "https://images.pokemontcg.io/basep/39_hires.png"
@@ -2716,9 +2559,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2729,9 +2570,7 @@ let basep = [
         "number": "40",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/40.png",
             "large": "https://images.pokemontcg.io/basep/40_hires.png"
@@ -2754,9 +2593,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2767,9 +2604,7 @@ let basep = [
         "number": "41",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/41.png",
             "large": "https://images.pokemontcg.io/basep/41_hires.png"
@@ -2792,9 +2627,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2805,9 +2638,7 @@ let basep = [
         "number": "42",
         "artist": "Keiji Kinebuchi",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/42.png",
             "large": "https://images.pokemontcg.io/basep/42_hires.png"
@@ -2862,9 +2693,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2879,9 +2708,7 @@ let basep = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/43.png",
             "large": "https://images.pokemontcg.io/basep/43_hires.png"
@@ -2936,9 +2763,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -2953,9 +2778,7 @@ let basep = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/44.png",
             "large": "https://images.pokemontcg.io/basep/44_hires.png"
@@ -3006,9 +2829,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3023,9 +2844,7 @@ let basep = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/45.png",
             "large": "https://images.pokemontcg.io/basep/45_hires.png"
@@ -3079,9 +2898,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3096,9 +2913,7 @@ let basep = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/46.png",
             "large": "https://images.pokemontcg.io/basep/46_hires.png"
@@ -3146,9 +2961,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3163,9 +2976,7 @@ let basep = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/47.png",
             "large": "https://images.pokemontcg.io/basep/47_hires.png"
@@ -3216,9 +3027,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3233,9 +3042,7 @@ let basep = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/48.png",
             "large": "https://images.pokemontcg.io/basep/48_hires.png"
@@ -3292,9 +3099,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3309,9 +3114,7 @@ let basep = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/49.png",
             "large": "https://images.pokemontcg.io/basep/49_hires.png"
@@ -3353,9 +3156,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3369,9 +3170,7 @@ let basep = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/50.png",
             "large": "https://images.pokemontcg.io/basep/50_hires.png"
@@ -3424,9 +3223,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3440,9 +3237,7 @@ let basep = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/51.png",
             "large": "https://images.pokemontcg.io/basep/51_hires.png"
@@ -3492,9 +3287,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3508,9 +3301,7 @@ let basep = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/52.png",
             "large": "https://images.pokemontcg.io/basep/52_hires.png"
@@ -3560,9 +3351,7 @@ let basep = [
             "series": "Base",
             "printedTotal": 53,
             "total": 53,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR",
             "releaseDate": "1999/07/01",
             "images": {
@@ -3576,9 +3365,7 @@ let basep = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/basep/53.png",
             "large": "https://images.pokemontcg.io/basep/53_hires.png"

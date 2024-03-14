@@ -46,10 +46,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -64,10 +61,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/1.png",
             "large": "https://images.pokemontcg.io/bw4/1_hires.png"
@@ -117,10 +111,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -135,10 +126,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             273
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/2.png",
             "large": "https://images.pokemontcg.io/bw4/2_hires.png"
@@ -192,10 +180,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -210,10 +195,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             401
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/3.png",
             "large": "https://images.pokemontcg.io/bw4/3_hires.png"
@@ -265,10 +247,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -283,10 +262,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             402
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/4.png",
             "large": "https://images.pokemontcg.io/bw4/4_hires.png"
@@ -347,10 +323,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -364,10 +337,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/5.png",
             "large": "https://images.pokemontcg.io/bw4/5_hires.png"
@@ -418,10 +388,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -436,10 +403,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             511
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/6.png",
             "large": "https://images.pokemontcg.io/bw4/6_hires.png"
@@ -497,10 +461,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -515,10 +476,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             512
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/7.png",
             "large": "https://images.pokemontcg.io/bw4/7_hires.png"
@@ -578,10 +536,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -596,10 +551,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             590
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/8.png",
             "large": "https://images.pokemontcg.io/bw4/8_hires.png"
@@ -655,10 +607,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -673,10 +622,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             591
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/9.png",
             "large": "https://images.pokemontcg.io/bw4/9_hires.png"
@@ -730,10 +676,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -748,10 +691,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/10.png",
             "large": "https://images.pokemontcg.io/bw4/10_hires.png"
@@ -796,10 +736,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -814,10 +751,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/11.png",
             "large": "https://images.pokemontcg.io/bw4/11_hires.png"
@@ -868,10 +802,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -886,10 +817,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/12.png",
             "large": "https://images.pokemontcg.io/bw4/12_hires.png"
@@ -943,10 +871,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -961,10 +886,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/13.png",
             "large": "https://images.pokemontcg.io/bw4/13_hires.png"
@@ -1025,10 +947,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1043,10 +962,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/14.png",
             "large": "https://images.pokemontcg.io/bw4/14_hires.png"
@@ -1091,10 +1007,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1109,10 +1022,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             513
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/15.png",
             "large": "https://images.pokemontcg.io/bw4/15_hires.png"
@@ -1164,10 +1074,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1182,10 +1089,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             514
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/16.png",
             "large": "https://images.pokemontcg.io/bw4/16_hires.png"
@@ -1230,10 +1134,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1248,10 +1149,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             554
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/17.png",
             "large": "https://images.pokemontcg.io/bw4/17_hires.png"
@@ -1295,10 +1193,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1313,10 +1208,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             607
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/18.png",
             "large": "https://images.pokemontcg.io/bw4/18_hires.png"
@@ -1362,10 +1254,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1380,10 +1269,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             608
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/19.png",
             "large": "https://images.pokemontcg.io/bw4/19_hires.png"
@@ -1435,10 +1321,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1453,10 +1336,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             609
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/20.png",
             "large": "https://images.pokemontcg.io/bw4/20_hires.png"
@@ -1509,10 +1389,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1527,10 +1404,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/21.png",
             "large": "https://images.pokemontcg.io/bw4/21_hires.png"
@@ -1589,10 +1463,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1606,10 +1477,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/22.png",
             "large": "https://images.pokemontcg.io/bw4/22_hires.png"
@@ -1662,10 +1530,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1680,10 +1545,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/23.png",
             "large": "https://images.pokemontcg.io/bw4/23_hires.png"
@@ -1733,10 +1595,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1751,10 +1610,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/24.png",
             "large": "https://images.pokemontcg.io/bw4/24_hires.png"
@@ -1805,10 +1661,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1823,10 +1676,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/25.png",
             "large": "https://images.pokemontcg.io/bw4/25_hires.png"
@@ -1879,10 +1729,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1897,10 +1744,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/26.png",
             "large": "https://images.pokemontcg.io/bw4/26_hires.png"
@@ -1961,10 +1805,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -1979,10 +1820,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/27.png",
             "large": "https://images.pokemontcg.io/bw4/27_hires.png"
@@ -2027,10 +1865,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2045,10 +1880,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             515
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/28.png",
             "large": "https://images.pokemontcg.io/bw4/28_hires.png"
@@ -2100,10 +1932,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2118,10 +1947,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             516
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/29.png",
             "large": "https://images.pokemontcg.io/bw4/29_hires.png"
@@ -2171,10 +1997,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2189,10 +2012,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             550
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/30.png",
             "large": "https://images.pokemontcg.io/bw4/30_hires.png"
@@ -2246,10 +2066,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2264,10 +2081,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             582
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/31.png",
             "large": "https://images.pokemontcg.io/bw4/31_hires.png"
@@ -2323,10 +2137,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2341,10 +2152,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             583
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/32.png",
             "large": "https://images.pokemontcg.io/bw4/32_hires.png"
@@ -2395,10 +2203,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2413,10 +2218,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             584
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/33.png",
             "large": "https://images.pokemontcg.io/bw4/33_hires.png"
@@ -2470,10 +2272,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2488,10 +2287,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             592
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/34.png",
             "large": "https://images.pokemontcg.io/bw4/34_hires.png"
@@ -2544,10 +2340,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2562,10 +2355,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             593
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/35.png",
             "large": "https://images.pokemontcg.io/bw4/35_hires.png"
@@ -2619,10 +2409,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2637,10 +2424,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             613
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/36.png",
             "large": "https://images.pokemontcg.io/bw4/36_hires.png"
@@ -2694,10 +2478,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2712,10 +2493,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             614
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/37.png",
             "large": "https://images.pokemontcg.io/bw4/37_hires.png"
@@ -2774,10 +2552,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2791,10 +2566,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/38.png",
             "large": "https://images.pokemontcg.io/bw4/38_hires.png"
@@ -2848,10 +2620,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2866,10 +2635,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/39.png",
             "large": "https://images.pokemontcg.io/bw4/39_hires.png"
@@ -2922,10 +2688,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -2940,10 +2703,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/40.png",
             "large": "https://images.pokemontcg.io/bw4/40_hires.png"
@@ -3004,10 +2764,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3022,10 +2779,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/41.png",
             "large": "https://images.pokemontcg.io/bw4/41_hires.png"
@@ -3079,10 +2833,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3097,10 +2848,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/42.png",
             "large": "https://images.pokemontcg.io/bw4/42_hires.png"
@@ -3144,10 +2892,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3162,10 +2907,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/43.png",
             "large": "https://images.pokemontcg.io/bw4/43_hires.png"
@@ -3221,10 +2963,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3239,10 +2978,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             404
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/44.png",
             "large": "https://images.pokemontcg.io/bw4/44_hires.png"
@@ -3296,10 +3032,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3314,10 +3047,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             404
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/45.png",
             "large": "https://images.pokemontcg.io/bw4/45_hires.png"
@@ -3370,10 +3100,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3388,10 +3115,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             405
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/46.png",
             "large": "https://images.pokemontcg.io/bw4/46_hires.png"
@@ -3436,10 +3160,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3454,10 +3175,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             522
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/47.png",
             "large": "https://images.pokemontcg.io/bw4/47_hires.png"
@@ -3510,10 +3228,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3528,10 +3243,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             523
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/48.png",
             "large": "https://images.pokemontcg.io/bw4/48_hires.png"
@@ -3573,10 +3285,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3591,10 +3300,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             587
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/49.png",
             "large": "https://images.pokemontcg.io/bw4/49_hires.png"
@@ -3647,10 +3353,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3665,10 +3368,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/50.png",
             "large": "https://images.pokemontcg.io/bw4/50_hires.png"
@@ -3727,10 +3427,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3744,10 +3441,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/51.png",
             "large": "https://images.pokemontcg.io/bw4/51_hires.png"
@@ -3792,10 +3486,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3810,10 +3501,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/52.png",
             "large": "https://images.pokemontcg.io/bw4/52_hires.png"
@@ -3868,10 +3556,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3886,10 +3571,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/53.png",
             "large": "https://images.pokemontcg.io/bw4/53_hires.png"
@@ -3949,10 +3631,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -3966,10 +3645,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/54.png",
             "large": "https://images.pokemontcg.io/bw4/54_hires.png"
@@ -4023,10 +3699,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4041,10 +3714,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/55.png",
             "large": "https://images.pokemontcg.io/bw4/55_hires.png"
@@ -4102,10 +3772,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4120,10 +3787,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/56.png",
             "large": "https://images.pokemontcg.io/bw4/56_hires.png"
@@ -4175,10 +3839,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4193,10 +3854,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/57.png",
             "large": "https://images.pokemontcg.io/bw4/57_hires.png"
@@ -4241,10 +3899,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4259,10 +3914,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             517
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/58.png",
             "large": "https://images.pokemontcg.io/bw4/58_hires.png"
@@ -4312,10 +3964,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4330,10 +3979,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             518
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/59.png",
             "large": "https://images.pokemontcg.io/bw4/59_hires.png"
@@ -4385,10 +4031,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4403,10 +4046,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             555
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/60.png",
             "large": "https://images.pokemontcg.io/bw4/60_hires.png"
@@ -4450,10 +4090,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4468,10 +4105,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             605
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/61.png",
             "large": "https://images.pokemontcg.io/bw4/61_hires.png"
@@ -4524,10 +4158,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4542,10 +4173,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             606
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/62.png",
             "large": "https://images.pokemontcg.io/bw4/62_hires.png"
@@ -4599,10 +4227,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4617,10 +4242,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/63.png",
             "large": "https://images.pokemontcg.io/bw4/63_hires.png"
@@ -4670,10 +4292,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4688,10 +4307,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/64.png",
             "large": "https://images.pokemontcg.io/bw4/64_hires.png"
@@ -4752,10 +4368,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4770,10 +4383,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             449
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/65.png",
             "large": "https://images.pokemontcg.io/bw4/65_hires.png"
@@ -4835,10 +4445,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4853,10 +4460,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             450
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/66.png",
             "large": "https://images.pokemontcg.io/bw4/66_hires.png"
@@ -4900,10 +4504,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4918,10 +4519,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             619
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/67.png",
             "large": "https://images.pokemontcg.io/bw4/67_hires.png"
@@ -4973,10 +4571,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -4991,10 +4586,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             620
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/68.png",
             "large": "https://images.pokemontcg.io/bw4/68_hires.png"
@@ -5054,10 +4646,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5072,10 +4661,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/69.png",
             "large": "https://images.pokemontcg.io/bw4/69_hires.png"
@@ -5134,10 +4720,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5152,10 +4735,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             461
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/70.png",
             "large": "https://images.pokemontcg.io/bw4/70_hires.png"
@@ -5207,10 +4787,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5225,10 +4802,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             274
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/71.png",
             "large": "https://images.pokemontcg.io/bw4/71_hires.png"
@@ -5285,10 +4859,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5303,10 +4874,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             275
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/72.png",
             "large": "https://images.pokemontcg.io/bw4/72_hires.png"
@@ -5366,10 +4934,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5384,10 +4949,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             559
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/73.png",
             "large": "https://images.pokemontcg.io/bw4/73_hires.png"
@@ -5446,10 +5008,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5464,10 +5023,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             560
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/74.png",
             "large": "https://images.pokemontcg.io/bw4/74_hires.png"
@@ -5529,10 +5085,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5547,10 +5100,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             436
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/75.png",
             "large": "https://images.pokemontcg.io/bw4/75_hires.png"
@@ -5607,10 +5157,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5625,10 +5172,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             437
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/76.png",
             "large": "https://images.pokemontcg.io/bw4/76_hires.png"
@@ -5679,10 +5223,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5697,10 +5238,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             597
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/77.png",
             "large": "https://images.pokemontcg.io/bw4/77_hires.png"
@@ -5754,10 +5292,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5772,10 +5307,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/78.png",
             "large": "https://images.pokemontcg.io/bw4/78_hires.png"
@@ -5829,10 +5361,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5847,10 +5376,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/79.png",
             "large": "https://images.pokemontcg.io/bw4/79_hires.png"
@@ -5904,10 +5430,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5922,10 +5445,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/80.png",
             "large": "https://images.pokemontcg.io/bw4/80_hires.png"
@@ -5977,10 +5497,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -5995,10 +5512,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/81.png",
             "large": "https://images.pokemontcg.io/bw4/81_hires.png"
@@ -6057,10 +5571,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6074,10 +5585,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/82.png",
             "large": "https://images.pokemontcg.io/bw4/82_hires.png"
@@ -6137,10 +5645,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6155,10 +5660,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             519
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/83.png",
             "large": "https://images.pokemontcg.io/bw4/83_hires.png"
@@ -6212,10 +5714,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6230,10 +5729,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             572
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/84.png",
             "large": "https://images.pokemontcg.io/bw4/84_hires.png"
@@ -6284,10 +5780,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6302,10 +5795,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             573
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/85.png",
             "large": "https://images.pokemontcg.io/bw4/85_hires.png"
@@ -6328,10 +5818,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6342,10 +5829,7 @@ let bw4 = [
         "number": "86",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/86.png",
             "large": "https://images.pokemontcg.io/bw4/86_hires.png"
@@ -6369,10 +5853,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6383,11 +5864,7 @@ let bw4 = [
         "number": "87",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/87.png",
             "large": "https://images.pokemontcg.io/bw4/87_hires.png"
@@ -6410,10 +5887,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6424,10 +5898,7 @@ let bw4 = [
         "number": "88",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/88.png",
             "large": "https://images.pokemontcg.io/bw4/88_hires.png"
@@ -6450,10 +5921,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6464,11 +5932,7 @@ let bw4 = [
         "number": "89",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/89.png",
             "large": "https://images.pokemontcg.io/bw4/89_hires.png"
@@ -6491,10 +5955,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6505,10 +5966,7 @@ let bw4 = [
         "number": "90",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/90.png",
             "large": "https://images.pokemontcg.io/bw4/90_hires.png"
@@ -6531,10 +5989,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6545,10 +6000,7 @@ let bw4 = [
         "number": "91",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/91.png",
             "large": "https://images.pokemontcg.io/bw4/91_hires.png"
@@ -6570,10 +6022,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6584,10 +6033,7 @@ let bw4 = [
         "number": "92",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/92.png",
             "large": "https://images.pokemontcg.io/bw4/92_hires.png"
@@ -6610,10 +6056,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6624,10 +6067,7 @@ let bw4 = [
         "number": "93",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/93.png",
             "large": "https://images.pokemontcg.io/bw4/93_hires.png"
@@ -6688,10 +6128,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6705,10 +6142,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/94.png",
             "large": "https://images.pokemontcg.io/bw4/94_hires.png"
@@ -6767,10 +6201,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6784,10 +6215,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/95.png",
             "large": "https://images.pokemontcg.io/bw4/95_hires.png"
@@ -6846,10 +6274,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6863,10 +6288,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/96.png",
             "large": "https://images.pokemontcg.io/bw4/96_hires.png"
@@ -6925,10 +6347,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -6942,10 +6361,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/97.png",
             "large": "https://images.pokemontcg.io/bw4/97_hires.png"
@@ -7005,10 +6421,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -7022,10 +6435,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/98.png",
             "large": "https://images.pokemontcg.io/bw4/98_hires.png"
@@ -7084,10 +6494,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -7101,10 +6508,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/99.png",
             "large": "https://images.pokemontcg.io/bw4/99_hires.png"
@@ -7156,10 +6560,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -7174,10 +6575,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             500
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/100.png",
             "large": "https://images.pokemontcg.io/bw4/100_hires.png"
@@ -7228,10 +6626,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -7246,10 +6641,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             609
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/101.png",
             "large": "https://images.pokemontcg.io/bw4/101_hires.png"
@@ -7307,10 +6699,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -7325,10 +6714,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/102.png",
             "large": "https://images.pokemontcg.io/bw4/102_hires.png"
@@ -7386,10 +6772,7 @@ let bw4 = [
             "series": "Black & White",
             "printedTotal": 99,
             "total": 103,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "NXD",
             "releaseDate": "2012/02/08",
             "images": {
@@ -7404,10 +6787,7 @@ let bw4 = [
         "nationalPokedexNumbers": [
             635
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/bw4/103.png",
             "large": "https://images.pokemontcg.io/bw4/103_hires.png"

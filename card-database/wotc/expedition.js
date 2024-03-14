@@ -44,9 +44,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -60,9 +58,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/1.png",
             "large": "https://images.pokemontcg.io/ecard1/1_hires.png"
@@ -114,9 +110,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -130,9 +124,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/2.png",
             "large": "https://images.pokemontcg.io/ecard1/2_hires.png"
@@ -184,9 +176,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -200,9 +190,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/3.png",
             "large": "https://images.pokemontcg.io/ecard1/3_hires.png"
@@ -253,9 +241,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -269,9 +255,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/4.png",
             "large": "https://images.pokemontcg.io/ecard1/4_hires.png"
@@ -321,9 +305,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -337,9 +319,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/5.png",
             "large": "https://images.pokemontcg.io/ecard1/5_hires.png"
@@ -391,9 +371,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -407,9 +385,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/6.png",
             "large": "https://images.pokemontcg.io/ecard1/6_hires.png"
@@ -459,9 +435,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -475,9 +449,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/7.png",
             "large": "https://images.pokemontcg.io/ecard1/7_hires.png"
@@ -531,9 +503,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -547,9 +517,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             91
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/8.png",
             "large": "https://images.pokemontcg.io/ecard1/8_hires.png"
@@ -594,9 +562,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -610,9 +576,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/9.png",
             "large": "https://images.pokemontcg.io/ecard1/9_hires.png"
@@ -671,9 +635,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -687,9 +649,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/10.png",
             "large": "https://images.pokemontcg.io/ecard1/10_hires.png"
@@ -748,9 +708,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -764,9 +722,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/11.png",
             "large": "https://images.pokemontcg.io/ecard1/11_hires.png"
@@ -818,9 +774,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -834,9 +788,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/12.png",
             "large": "https://images.pokemontcg.io/ecard1/12_hires.png"
@@ -893,9 +845,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -909,9 +859,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/13.png",
             "large": "https://images.pokemontcg.io/ecard1/13_hires.png"
@@ -963,9 +911,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -979,9 +925,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/14.png",
             "large": "https://images.pokemontcg.io/ecard1/14_hires.png"
@@ -1034,9 +978,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1050,9 +992,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             99
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/15.png",
             "large": "https://images.pokemontcg.io/ecard1/15_hires.png"
@@ -1104,9 +1044,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1120,9 +1058,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/16.png",
             "large": "https://images.pokemontcg.io/ecard1/16_hires.png"
@@ -1163,9 +1099,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1179,9 +1113,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             240
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/17.png",
             "large": "https://images.pokemontcg.io/ecard1/17_hires.png"
@@ -1239,9 +1171,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1255,9 +1185,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/18.png",
             "large": "https://images.pokemontcg.io/ecard1/18_hires.png"
@@ -1299,9 +1227,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1315,9 +1241,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/19.png",
             "large": "https://images.pokemontcg.io/ecard1/19_hires.png"
@@ -1369,9 +1293,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1385,9 +1307,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/20.png",
             "large": "https://images.pokemontcg.io/ecard1/20_hires.png"
@@ -1441,9 +1361,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1457,9 +1375,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/21.png",
             "large": "https://images.pokemontcg.io/ecard1/21_hires.png"
@@ -1501,9 +1417,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1517,9 +1431,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/22.png",
             "large": "https://images.pokemontcg.io/ecard1/22_hires.png"
@@ -1575,9 +1487,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1591,9 +1501,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/23.png",
             "large": "https://images.pokemontcg.io/ecard1/23_hires.png"
@@ -1645,9 +1553,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1661,9 +1567,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             62
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/24.png",
             "large": "https://images.pokemontcg.io/ecard1/24_hires.png"
@@ -1716,9 +1620,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1732,9 +1634,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/25.png",
             "large": "https://images.pokemontcg.io/ecard1/25_hires.png"
@@ -1787,9 +1687,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1803,9 +1701,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/26.png",
             "large": "https://images.pokemontcg.io/ecard1/26_hires.png"
@@ -1864,9 +1760,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1880,9 +1774,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/27.png",
             "large": "https://images.pokemontcg.io/ecard1/27_hires.png"
@@ -1934,9 +1826,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -1950,9 +1840,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/28.png",
             "large": "https://images.pokemontcg.io/ecard1/28_hires.png"
@@ -2010,9 +1898,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2026,9 +1912,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/29.png",
             "large": "https://images.pokemontcg.io/ecard1/29_hires.png"
@@ -2080,9 +1964,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2096,9 +1978,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/30.png",
             "large": "https://images.pokemontcg.io/ecard1/30_hires.png"
@@ -2148,9 +2028,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2164,9 +2042,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/31.png",
             "large": "https://images.pokemontcg.io/ecard1/31_hires.png"
@@ -2220,9 +2096,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2236,9 +2110,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/32.png",
             "large": "https://images.pokemontcg.io/ecard1/32_hires.png"
@@ -2289,9 +2161,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2305,9 +2175,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/33.png",
             "large": "https://images.pokemontcg.io/ecard1/33_hires.png"
@@ -2359,9 +2227,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2375,9 +2241,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/34.png",
             "large": "https://images.pokemontcg.io/ecard1/34_hires.png"
@@ -2429,9 +2293,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2445,9 +2307,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/35.png",
             "large": "https://images.pokemontcg.io/ecard1/35_hires.png"
@@ -2500,9 +2360,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2516,9 +2374,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/36.png",
             "large": "https://images.pokemontcg.io/ecard1/36_hires.png"
@@ -2569,9 +2425,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2585,9 +2439,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/37.png",
             "large": "https://images.pokemontcg.io/ecard1/37_hires.png"
@@ -2637,9 +2489,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2653,9 +2503,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/38.png",
             "large": "https://images.pokemontcg.io/ecard1/38_hires.png"
@@ -2708,9 +2556,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2724,9 +2570,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/39.png",
             "large": "https://images.pokemontcg.io/ecard1/39_hires.png"
@@ -2778,9 +2622,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2794,9 +2636,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/40.png",
             "large": "https://images.pokemontcg.io/ecard1/40_hires.png"
@@ -2846,9 +2686,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2862,9 +2700,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             36
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/41.png",
             "large": "https://images.pokemontcg.io/ecard1/41_hires.png"
@@ -2918,9 +2754,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2934,9 +2768,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             91
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/42.png",
             "large": "https://images.pokemontcg.io/ecard1/42_hires.png"
@@ -2981,9 +2813,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -2997,9 +2827,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/43.png",
             "large": "https://images.pokemontcg.io/ecard1/43_hires.png"
@@ -3058,9 +2886,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3074,9 +2900,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/44.png",
             "large": "https://images.pokemontcg.io/ecard1/44_hires.png"
@@ -3135,9 +2959,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3151,9 +2973,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/45.png",
             "large": "https://images.pokemontcg.io/ecard1/45_hires.png"
@@ -3206,9 +3026,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3222,9 +3040,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/46.png",
             "large": "https://images.pokemontcg.io/ecard1/46_hires.png"
@@ -3276,9 +3092,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3292,9 +3106,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             160
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/47.png",
             "large": "https://images.pokemontcg.io/ecard1/47_hires.png"
@@ -3351,9 +3163,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3367,9 +3177,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/48.png",
             "large": "https://images.pokemontcg.io/ecard1/48_hires.png"
@@ -3421,9 +3229,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3437,9 +3243,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/49.png",
             "large": "https://images.pokemontcg.io/ecard1/49_hires.png"
@@ -3492,9 +3296,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3508,9 +3310,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             99
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/50.png",
             "large": "https://images.pokemontcg.io/ecard1/50_hires.png"
@@ -3562,9 +3362,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3578,9 +3376,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/51.png",
             "large": "https://images.pokemontcg.io/ecard1/51_hires.png"
@@ -3622,9 +3418,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3638,9 +3432,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             240
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/52.png",
             "large": "https://images.pokemontcg.io/ecard1/52_hires.png"
@@ -3699,9 +3491,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3715,9 +3505,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/53.png",
             "large": "https://images.pokemontcg.io/ecard1/53_hires.png"
@@ -3775,9 +3563,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3791,9 +3577,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             154
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/54.png",
             "large": "https://images.pokemontcg.io/ecard1/54_hires.png"
@@ -3835,9 +3619,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3851,9 +3633,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/55.png",
             "large": "https://images.pokemontcg.io/ecard1/55_hires.png"
@@ -3905,9 +3685,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3921,9 +3699,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/56.png",
             "large": "https://images.pokemontcg.io/ecard1/56_hires.png"
@@ -3977,9 +3753,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -3993,9 +3767,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/57.png",
             "large": "https://images.pokemontcg.io/ecard1/57_hires.png"
@@ -4036,9 +3808,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4052,9 +3822,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             172
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/58.png",
             "large": "https://images.pokemontcg.io/ecard1/58_hires.png"
@@ -4110,9 +3878,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4126,9 +3892,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/59.png",
             "large": "https://images.pokemontcg.io/ecard1/59_hires.png"
@@ -4180,9 +3944,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4196,9 +3958,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             62
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/60.png",
             "large": "https://images.pokemontcg.io/ecard1/60_hires.png"
@@ -4251,9 +4011,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4267,9 +4025,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/61.png",
             "large": "https://images.pokemontcg.io/ecard1/61_hires.png"
@@ -4322,9 +4078,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4338,9 +4092,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/62.png",
             "large": "https://images.pokemontcg.io/ecard1/62_hires.png"
@@ -4399,9 +4151,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4415,9 +4165,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/63.png",
             "large": "https://images.pokemontcg.io/ecard1/63_hires.png"
@@ -4470,9 +4218,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4486,9 +4232,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/64.png",
             "large": "https://images.pokemontcg.io/ecard1/64_hires.png"
@@ -4540,9 +4284,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4556,9 +4298,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/65.png",
             "large": "https://images.pokemontcg.io/ecard1/65_hires.png"
@@ -4616,9 +4356,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4632,9 +4370,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             248
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/66.png",
             "large": "https://images.pokemontcg.io/ecard1/66_hires.png"
@@ -4687,9 +4423,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4703,9 +4437,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/67.png",
             "large": "https://images.pokemontcg.io/ecard1/67_hires.png"
@@ -4757,9 +4489,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4773,9 +4503,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/68.png",
             "large": "https://images.pokemontcg.io/ecard1/68_hires.png"
@@ -4825,9 +4553,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4841,9 +4567,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/69.png",
             "large": "https://images.pokemontcg.io/ecard1/69_hires.png"
@@ -4897,9 +4621,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4913,9 +4635,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             110
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/70.png",
             "large": "https://images.pokemontcg.io/ecard1/70_hires.png"
@@ -4976,9 +4696,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -4992,9 +4710,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             153
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/71.png",
             "large": "https://images.pokemontcg.io/ecard1/71_hires.png"
@@ -5050,9 +4766,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5066,9 +4780,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/72.png",
             "large": "https://images.pokemontcg.io/ecard1/72_hires.png"
@@ -5125,9 +4837,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5141,9 +4851,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/73.png",
             "large": "https://images.pokemontcg.io/ecard1/73_hires.png"
@@ -5200,9 +4908,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5216,9 +4922,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             159
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/74.png",
             "large": "https://images.pokemontcg.io/ecard1/74_hires.png"
@@ -5258,9 +4962,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5274,9 +4976,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/75.png",
             "large": "https://images.pokemontcg.io/ecard1/75_hires.png"
@@ -5330,9 +5030,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5346,9 +5044,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/76.png",
             "large": "https://images.pokemontcg.io/ecard1/76_hires.png"
@@ -5405,9 +5101,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5421,9 +5115,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/77.png",
             "large": "https://images.pokemontcg.io/ecard1/77_hires.png"
@@ -5481,9 +5173,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5497,9 +5187,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/78.png",
             "large": "https://images.pokemontcg.io/ecard1/78_hires.png"
@@ -5556,9 +5244,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5572,9 +5258,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/79.png",
             "large": "https://images.pokemontcg.io/ecard1/79_hires.png"
@@ -5636,9 +5320,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5652,9 +5334,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/80.png",
             "large": "https://images.pokemontcg.io/ecard1/80_hires.png"
@@ -5706,9 +5386,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5722,9 +5400,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/81.png",
             "large": "https://images.pokemontcg.io/ecard1/81_hires.png"
@@ -5781,9 +5457,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5797,9 +5471,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/82.png",
             "large": "https://images.pokemontcg.io/ecard1/82_hires.png"
@@ -5852,9 +5524,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5868,9 +5538,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/83.png",
             "large": "https://images.pokemontcg.io/ecard1/83_hires.png"
@@ -5925,9 +5593,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -5941,9 +5607,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             64
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/84.png",
             "large": "https://images.pokemontcg.io/ecard1/84_hires.png"
@@ -6000,9 +5664,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6016,9 +5678,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/85.png",
             "large": "https://images.pokemontcg.io/ecard1/85_hires.png"
@@ -6074,9 +5734,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6090,9 +5748,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             126
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/86.png",
             "large": "https://images.pokemontcg.io/ecard1/86_hires.png"
@@ -6144,9 +5800,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6160,9 +5814,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             11
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/87.png",
             "large": "https://images.pokemontcg.io/ecard1/87_hires.png"
@@ -6213,9 +5865,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6229,9 +5879,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/88.png",
             "large": "https://images.pokemontcg.io/ecard1/88_hires.png"
@@ -6289,9 +5937,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6305,9 +5951,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             61
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/89.png",
             "large": "https://images.pokemontcg.io/ecard1/89_hires.png"
@@ -6352,9 +5996,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6368,9 +6010,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             247
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/90.png",
             "large": "https://images.pokemontcg.io/ecard1/90_hires.png"
@@ -6427,9 +6067,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6443,9 +6081,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             156
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/91.png",
             "large": "https://images.pokemontcg.io/ecard1/91_hires.png"
@@ -6500,9 +6136,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6516,9 +6150,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/92.png",
             "large": "https://images.pokemontcg.io/ecard1/92_hires.png"
@@ -6571,9 +6203,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6587,9 +6217,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/93.png",
             "large": "https://images.pokemontcg.io/ecard1/93_hires.png"
@@ -6643,9 +6271,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6659,9 +6285,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/94.png",
             "large": "https://images.pokemontcg.io/ecard1/94_hires.png"
@@ -6715,9 +6339,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6731,9 +6353,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/95.png",
             "large": "https://images.pokemontcg.io/ecard1/95_hires.png"
@@ -6787,9 +6407,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6803,9 +6421,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/96.png",
             "large": "https://images.pokemontcg.io/ecard1/96_hires.png"
@@ -6859,9 +6475,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6875,9 +6489,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/97.png",
             "large": "https://images.pokemontcg.io/ecard1/97_hires.png"
@@ -6931,9 +6543,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -6947,9 +6557,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/98.png",
             "large": "https://images.pokemontcg.io/ecard1/98_hires.png"
@@ -7009,9 +6617,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7025,9 +6631,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/99.png",
             "large": "https://images.pokemontcg.io/ecard1/99_hires.png"
@@ -7087,9 +6691,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7103,9 +6705,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             152
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/100.png",
             "large": "https://images.pokemontcg.io/ecard1/100_hires.png"
@@ -7158,9 +6758,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7174,9 +6772,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             35
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/101.png",
             "large": "https://images.pokemontcg.io/ecard1/101_hires.png"
@@ -7232,9 +6828,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7248,9 +6842,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             222
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/102.png",
             "large": "https://images.pokemontcg.io/ecard1/102_hires.png"
@@ -7310,9 +6902,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7326,9 +6916,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/103.png",
             "large": "https://images.pokemontcg.io/ecard1/103_hires.png"
@@ -7382,9 +6970,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7398,9 +6984,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/104.png",
             "large": "https://images.pokemontcg.io/ecard1/104_hires.png"
@@ -7454,9 +7038,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7470,9 +7052,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             155
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/105.png",
             "large": "https://images.pokemontcg.io/ecard1/105_hires.png"
@@ -7522,9 +7102,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7538,9 +7116,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/106.png",
             "large": "https://images.pokemontcg.io/ecard1/106_hires.png"
@@ -7579,9 +7155,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7595,9 +7169,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/107.png",
             "large": "https://images.pokemontcg.io/ecard1/107_hires.png"
@@ -7641,9 +7213,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7657,9 +7227,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             23
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/108.png",
             "large": "https://images.pokemontcg.io/ecard1/108_hires.png"
@@ -7709,9 +7277,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7725,9 +7291,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/109.png",
             "large": "https://images.pokemontcg.io/ecard1/109_hires.png"
@@ -7771,9 +7335,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7787,9 +7349,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/110.png",
             "large": "https://images.pokemontcg.io/ecard1/110_hires.png"
@@ -7833,9 +7393,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7849,9 +7407,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             118
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/111.png",
             "large": "https://images.pokemontcg.io/ecard1/111_hires.png"
@@ -7901,9 +7457,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7917,9 +7471,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             187
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/112.png",
             "large": "https://images.pokemontcg.io/ecard1/112_hires.png"
@@ -7969,9 +7521,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -7985,9 +7535,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/113.png",
             "large": "https://images.pokemontcg.io/ecard1/113_hires.png"
@@ -8040,9 +7588,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8056,9 +7602,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             109
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/114.png",
             "large": "https://images.pokemontcg.io/ecard1/114_hires.png"
@@ -8103,9 +7647,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8119,9 +7661,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             98
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/115.png",
             "large": "https://images.pokemontcg.io/ecard1/115_hires.png"
@@ -8175,9 +7715,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8191,9 +7729,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             246
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/116.png",
             "large": "https://images.pokemontcg.io/ecard1/116_hires.png"
@@ -8247,9 +7783,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8263,9 +7797,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/117.png",
             "large": "https://images.pokemontcg.io/ecard1/117_hires.png"
@@ -8309,9 +7841,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8325,9 +7855,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/118.png",
             "large": "https://images.pokemontcg.io/ecard1/118_hires.png"
@@ -8371,9 +7899,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8387,9 +7913,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/119.png",
             "large": "https://images.pokemontcg.io/ecard1/119_hires.png"
@@ -8443,9 +7967,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8459,9 +7981,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             183
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/120.png",
             "large": "https://images.pokemontcg.io/ecard1/120_hires.png"
@@ -8515,9 +8035,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8531,9 +8049,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/121.png",
             "large": "https://images.pokemontcg.io/ecard1/121_hires.png"
@@ -8587,9 +8103,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8603,9 +8117,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/122.png",
             "large": "https://images.pokemontcg.io/ecard1/122_hires.png"
@@ -8665,9 +8177,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8681,9 +8191,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/123.png",
             "large": "https://images.pokemontcg.io/ecard1/123_hires.png"
@@ -8737,9 +8245,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8753,9 +8259,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/124.png",
             "large": "https://images.pokemontcg.io/ecard1/124_hires.png"
@@ -8809,9 +8313,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8825,9 +8327,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             60
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/125.png",
             "large": "https://images.pokemontcg.io/ecard1/125_hires.png"
@@ -8881,9 +8381,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8897,9 +8395,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/126.png",
             "large": "https://images.pokemontcg.io/ecard1/126_hires.png"
@@ -8941,9 +8437,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -8957,9 +8451,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             211
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/127.png",
             "large": "https://images.pokemontcg.io/ecard1/127_hires.png"
@@ -9003,9 +8495,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9019,9 +8509,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/128.png",
             "large": "https://images.pokemontcg.io/ecard1/128_hires.png"
@@ -9075,9 +8563,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9091,9 +8577,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             90
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/129.png",
             "large": "https://images.pokemontcg.io/ecard1/129_hires.png"
@@ -9143,9 +8627,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9159,9 +8641,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             21
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/130.png",
             "large": "https://images.pokemontcg.io/ecard1/130_hires.png"
@@ -9215,9 +8695,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9231,9 +8709,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/131.png",
             "large": "https://images.pokemontcg.io/ecard1/131_hires.png"
@@ -9287,9 +8763,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9303,9 +8777,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/132.png",
             "large": "https://images.pokemontcg.io/ecard1/132_hires.png"
@@ -9357,9 +8829,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9373,9 +8843,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/133.png",
             "large": "https://images.pokemontcg.io/ecard1/133_hires.png"
@@ -9429,9 +8897,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9445,9 +8911,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/134.png",
             "large": "https://images.pokemontcg.io/ecard1/134_hires.png"
@@ -9501,9 +8965,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9517,9 +8979,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/135.png",
             "large": "https://images.pokemontcg.io/ecard1/135_hires.png"
@@ -9573,9 +9033,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9589,9 +9047,7 @@ let ecard1 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/136.png",
             "large": "https://images.pokemontcg.io/ecard1/136_hires.png"
@@ -9614,9 +9070,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9627,10 +9081,7 @@ let ecard1 = [
         "number": "137",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/137.png",
             "large": "https://images.pokemontcg.io/ecard1/137_hires.png"
@@ -9653,9 +9104,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9666,11 +9115,7 @@ let ecard1 = [
         "number": "138",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/138.png",
             "large": "https://images.pokemontcg.io/ecard1/138_hires.png"
@@ -9689,9 +9134,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9702,9 +9145,7 @@ let ecard1 = [
         "number": "139",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/139.png",
             "large": "https://images.pokemontcg.io/ecard1/139_hires.png"
@@ -9723,9 +9164,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9736,9 +9175,7 @@ let ecard1 = [
         "number": "140",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/140.png",
             "large": "https://images.pokemontcg.io/ecard1/140_hires.png"
@@ -9757,9 +9194,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9770,9 +9205,7 @@ let ecard1 = [
         "number": "141",
         "artist": "Hideyuki Nakajima",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/141.png",
             "large": "https://images.pokemontcg.io/ecard1/141_hires.png"
@@ -9795,9 +9228,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9808,9 +9239,7 @@ let ecard1 = [
         "number": "142",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/142.png",
             "large": "https://images.pokemontcg.io/ecard1/142_hires.png"
@@ -9829,9 +9258,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9842,9 +9269,7 @@ let ecard1 = [
         "number": "143",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/143.png",
             "large": "https://images.pokemontcg.io/ecard1/143_hires.png"
@@ -9877,9 +9302,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9890,9 +9313,7 @@ let ecard1 = [
         "number": "144",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/144.png",
             "large": "https://images.pokemontcg.io/ecard1/144_hires.png"
@@ -9915,9 +9336,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9928,9 +9347,7 @@ let ecard1 = [
         "number": "145",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/145.png",
             "large": "https://images.pokemontcg.io/ecard1/145_hires.png"
@@ -9949,9 +9366,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9962,9 +9377,7 @@ let ecard1 = [
         "number": "146",
         "artist": "\"Big Mama\" Tagawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/146.png",
             "large": "https://images.pokemontcg.io/ecard1/146_hires.png"
@@ -9983,9 +9396,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -9996,9 +9407,7 @@ let ecard1 = [
         "number": "147",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/147.png",
             "large": "https://images.pokemontcg.io/ecard1/147_hires.png"
@@ -10021,9 +9430,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10034,9 +9441,7 @@ let ecard1 = [
         "number": "148",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/148.png",
             "large": "https://images.pokemontcg.io/ecard1/148_hires.png"
@@ -10059,9 +9464,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10072,9 +9475,7 @@ let ecard1 = [
         "number": "149",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/149.png",
             "large": "https://images.pokemontcg.io/ecard1/149_hires.png"
@@ -10097,9 +9498,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10110,9 +9509,7 @@ let ecard1 = [
         "number": "150",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/150.png",
             "large": "https://images.pokemontcg.io/ecard1/150_hires.png"
@@ -10131,9 +9528,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10144,10 +9539,7 @@ let ecard1 = [
         "number": "151",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/151.png",
             "large": "https://images.pokemontcg.io/ecard1/151_hires.png"
@@ -10166,9 +9558,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10179,9 +9569,7 @@ let ecard1 = [
         "number": "152",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/152.png",
             "large": "https://images.pokemontcg.io/ecard1/152_hires.png"
@@ -10200,9 +9588,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10213,11 +9599,7 @@ let ecard1 = [
         "number": "153",
         "artist": "Kai Ishikawa",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/153.png",
             "large": "https://images.pokemontcg.io/ecard1/153_hires.png"
@@ -10236,9 +9618,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10249,11 +9629,7 @@ let ecard1 = [
         "number": "154",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/154.png",
             "large": "https://images.pokemontcg.io/ecard1/154_hires.png"
@@ -10272,9 +9648,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10285,9 +9659,7 @@ let ecard1 = [
         "number": "155",
         "artist": "Tomokazu Komiya",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/155.png",
             "large": "https://images.pokemontcg.io/ecard1/155_hires.png"
@@ -10306,9 +9678,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10319,11 +9689,7 @@ let ecard1 = [
         "number": "156",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/156.png",
             "large": "https://images.pokemontcg.io/ecard1/156_hires.png"
@@ -10342,9 +9708,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10355,11 +9719,7 @@ let ecard1 = [
         "number": "157",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/157.png",
             "large": "https://images.pokemontcg.io/ecard1/157_hires.png"
@@ -10381,9 +9741,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10394,9 +9752,7 @@ let ecard1 = [
         "number": "158",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/158.png",
             "large": "https://images.pokemontcg.io/ecard1/158_hires.png"
@@ -10418,9 +9774,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10431,9 +9785,7 @@ let ecard1 = [
         "number": "159",
         "artist": "Milky Isobe",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/159.png",
             "large": "https://images.pokemontcg.io/ecard1/159_hires.png"
@@ -10452,9 +9804,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10463,11 +9813,7 @@ let ecard1 = [
             }
         },
         "number": "160",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/160.png",
             "large": "https://images.pokemontcg.io/ecard1/160_hires.png"
@@ -10486,9 +9832,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10497,11 +9841,7 @@ let ecard1 = [
             }
         },
         "number": "161",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/161.png",
             "large": "https://images.pokemontcg.io/ecard1/161_hires.png"
@@ -10520,9 +9860,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10531,11 +9869,7 @@ let ecard1 = [
             }
         },
         "number": "162",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/162.png",
             "large": "https://images.pokemontcg.io/ecard1/162_hires.png"
@@ -10554,9 +9888,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10565,11 +9897,7 @@ let ecard1 = [
             }
         },
         "number": "163",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/163.png",
             "large": "https://images.pokemontcg.io/ecard1/163_hires.png"
@@ -10588,9 +9916,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10599,11 +9925,7 @@ let ecard1 = [
             }
         },
         "number": "164",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/164.png",
             "large": "https://images.pokemontcg.io/ecard1/164_hires.png"
@@ -10622,9 +9944,7 @@ let ecard1 = [
             "series": "E-Card",
             "printedTotal": 165,
             "total": 165,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "EX",
             "releaseDate": "2002/09/15",
             "images": {
@@ -10633,11 +9953,7 @@ let ecard1 = [
             }
         },
         "number": "165",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/ecard1/165.png",
             "large": "https://images.pokemontcg.io/ecard1/165_hires.png"

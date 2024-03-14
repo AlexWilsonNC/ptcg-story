@@ -44,9 +44,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -61,9 +59,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/1.png",
             "large": "https://images.pokemontcg.io/base6/1_hires.png"
@@ -118,9 +114,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -135,9 +129,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/2.png",
             "large": "https://images.pokemontcg.io/base6/2_hires.png"
@@ -195,9 +187,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -212,9 +202,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/3.png",
             "large": "https://images.pokemontcg.io/base6/3_hires.png"
@@ -268,9 +256,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -285,9 +271,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/4.png",
             "large": "https://images.pokemontcg.io/base6/4_hires.png"
@@ -339,9 +323,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -356,9 +338,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/5.png",
             "large": "https://images.pokemontcg.io/base6/5_hires.png"
@@ -415,9 +395,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -432,9 +410,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/6.png",
             "large": "https://images.pokemontcg.io/base6/6_hires.png"
@@ -478,9 +454,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -495,9 +469,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/7.png",
             "large": "https://images.pokemontcg.io/base6/7_hires.png"
@@ -547,9 +519,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -564,9 +534,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             80
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/8.png",
             "large": "https://images.pokemontcg.io/base6/8_hires.png"
@@ -621,9 +589,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -638,9 +604,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             134
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/9.png",
             "large": "https://images.pokemontcg.io/base6/9_hires.png"
@@ -695,9 +659,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -712,9 +674,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             136
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/10.png",
             "large": "https://images.pokemontcg.io/base6/10_hires.png"
@@ -765,9 +725,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -782,9 +740,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             94
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/11.png",
             "large": "https://images.pokemontcg.io/base6/11_hires.png"
@@ -846,9 +802,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -863,9 +817,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/12.png",
             "large": "https://images.pokemontcg.io/base6/12_hires.png"
@@ -918,9 +870,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -935,9 +885,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/13.png",
             "large": "https://images.pokemontcg.io/base6/13_hires.png"
@@ -991,9 +939,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1008,9 +954,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             135
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/14.png",
             "large": "https://images.pokemontcg.io/base6/14_hires.png"
@@ -1062,9 +1006,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1079,9 +1021,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             68
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/15.png",
             "large": "https://images.pokemontcg.io/base6/15_hires.png"
@@ -1132,9 +1072,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1149,9 +1087,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/16.png",
             "large": "https://images.pokemontcg.io/base6/16_hires.png"
@@ -1206,9 +1142,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1223,9 +1157,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/17.png",
             "large": "https://images.pokemontcg.io/base6/17_hires.png"
@@ -1277,9 +1209,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1294,9 +1224,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/18.png",
             "large": "https://images.pokemontcg.io/base6/18_hires.png"
@@ -1352,9 +1280,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1369,9 +1295,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/19.png",
             "large": "https://images.pokemontcg.io/base6/19_hires.png"
@@ -1431,9 +1355,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1448,9 +1370,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/20.png",
             "large": "https://images.pokemontcg.io/base6/20_hires.png"
@@ -1510,9 +1430,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1527,9 +1445,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/21.png",
             "large": "https://images.pokemontcg.io/base6/21_hires.png"
@@ -1583,9 +1499,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1600,9 +1514,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/22.png",
             "large": "https://images.pokemontcg.io/base6/22_hires.png"
@@ -1653,9 +1565,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1670,9 +1580,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/23.png",
             "large": "https://images.pokemontcg.io/base6/23_hires.png"
@@ -1729,9 +1637,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1746,9 +1652,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             76
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/24.png",
             "large": "https://images.pokemontcg.io/base6/24_hires.png"
@@ -1801,9 +1705,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1818,9 +1720,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/25.png",
             "large": "https://images.pokemontcg.io/base6/25_hires.png"
@@ -1872,9 +1772,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1889,9 +1787,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             124
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/26.png",
             "large": "https://images.pokemontcg.io/base6/26_hires.png"
@@ -1946,9 +1842,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -1963,9 +1857,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             141
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/27.png",
             "large": "https://images.pokemontcg.io/base6/27_hires.png"
@@ -2023,9 +1915,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2040,9 +1930,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             82
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/28.png",
             "large": "https://images.pokemontcg.io/base6/28_hires.png"
@@ -2094,9 +1982,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2111,9 +1997,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/29.png",
             "large": "https://images.pokemontcg.io/base6/29_hires.png"
@@ -2166,9 +2050,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2183,9 +2065,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/30.png",
             "large": "https://images.pokemontcg.io/base6/30_hires.png"
@@ -2240,9 +2120,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2257,9 +2135,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             34
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/31.png",
             "large": "https://images.pokemontcg.io/base6/31_hires.png"
@@ -2314,9 +2190,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2331,9 +2205,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             31
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/32.png",
             "large": "https://images.pokemontcg.io/base6/32_hires.png"
@@ -2392,9 +2264,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2409,9 +2279,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             18
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/33.png",
             "large": "https://images.pokemontcg.io/base6/33_hires.png"
@@ -2474,9 +2342,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2491,9 +2357,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             17
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/34.png",
             "large": "https://images.pokemontcg.io/base6/34_hires.png"
@@ -2558,9 +2422,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2575,9 +2437,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/35.png",
             "large": "https://images.pokemontcg.io/base6/35_hires.png"
@@ -2633,9 +2493,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2650,9 +2508,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/36.png",
             "large": "https://images.pokemontcg.io/base6/36_hires.png"
@@ -2710,9 +2566,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2727,9 +2581,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             5
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/37.png",
             "large": "https://images.pokemontcg.io/base6/37_hires.png"
@@ -2783,9 +2635,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2800,9 +2650,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/38.png",
             "large": "https://images.pokemontcg.io/base6/38_hires.png"
@@ -2857,9 +2705,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2874,9 +2720,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/39.png",
             "large": "https://images.pokemontcg.io/base6/39_hires.png"
@@ -2932,9 +2776,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -2949,9 +2791,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             87
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/40.png",
             "large": "https://images.pokemontcg.io/base6/40_hires.png"
@@ -3007,9 +2847,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3024,9 +2862,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/41.png",
             "large": "https://images.pokemontcg.io/base6/41_hires.png"
@@ -3087,9 +2923,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3104,9 +2938,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/42.png",
             "large": "https://images.pokemontcg.io/base6/42_hires.png"
@@ -3159,9 +2991,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3176,9 +3006,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/43.png",
             "large": "https://images.pokemontcg.io/base6/43_hires.png"
@@ -3235,9 +3063,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3252,9 +3078,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             75
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/44.png",
             "large": "https://images.pokemontcg.io/base6/44_hires.png"
@@ -3299,9 +3123,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3316,9 +3138,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/45.png",
             "large": "https://images.pokemontcg.io/base6/45_hires.png"
@@ -3370,9 +3190,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3387,9 +3205,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             93
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/46.png",
             "large": "https://images.pokemontcg.io/base6/46_hires.png"
@@ -3447,9 +3263,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3464,9 +3278,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             2
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/47.png",
             "large": "https://images.pokemontcg.io/base6/47_hires.png"
@@ -3518,9 +3330,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3535,9 +3345,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             140
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/48.png",
             "large": "https://images.pokemontcg.io/base6/48_hires.png"
@@ -3594,9 +3402,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3611,9 +3417,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             64
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/49.png",
             "large": "https://images.pokemontcg.io/base6/49_hires.png"
@@ -3669,9 +3473,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3686,9 +3488,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/50.png",
             "large": "https://images.pokemontcg.io/base6/50_hires.png"
@@ -3747,9 +3547,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3764,9 +3562,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             67
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/51.png",
             "large": "https://images.pokemontcg.io/base6/51_hires.png"
@@ -3819,9 +3615,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3836,9 +3630,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/52.png",
             "large": "https://images.pokemontcg.io/base6/52_hires.png"
@@ -3889,9 +3681,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3906,9 +3696,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/53.png",
             "large": "https://images.pokemontcg.io/base6/53_hires.png"
@@ -3964,9 +3752,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -3981,9 +3767,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             11
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/54.png",
             "large": "https://images.pokemontcg.io/base6/54_hires.png"
@@ -4039,9 +3823,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4056,9 +3838,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             30
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/55.png",
             "large": "https://images.pokemontcg.io/base6/55_hires.png"
@@ -4117,9 +3897,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4134,9 +3912,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             33
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/56.png",
             "large": "https://images.pokemontcg.io/base6/56_hires.png"
@@ -4188,9 +3964,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4205,9 +3979,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             138
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/57.png",
             "large": "https://images.pokemontcg.io/base6/57_hires.png"
@@ -4260,9 +4032,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4277,9 +4047,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             139
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/58.png",
             "large": "https://images.pokemontcg.io/base6/58_hires.png"
@@ -4333,9 +4101,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4350,9 +4116,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             57
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/59.png",
             "large": "https://images.pokemontcg.io/base6/59_hires.png"
@@ -4405,9 +4169,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4422,9 +4184,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             78
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/60.png",
             "large": "https://images.pokemontcg.io/base6/60_hires.png"
@@ -4483,9 +4243,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4500,9 +4258,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/61.png",
             "large": "https://images.pokemontcg.io/base6/61_hires.png"
@@ -4561,9 +4317,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4578,9 +4332,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             28
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/62.png",
             "large": "https://images.pokemontcg.io/base6/62_hires.png"
@@ -4637,9 +4389,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4654,9 +4404,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/63.png",
             "large": "https://images.pokemontcg.io/base6/63_hires.png"
@@ -4713,9 +4461,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4730,9 +4476,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/64.png",
             "large": "https://images.pokemontcg.io/base6/64_hires.png"
@@ -4791,9 +4535,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4808,9 +4550,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/65.png",
             "large": "https://images.pokemontcg.io/base6/65_hires.png"
@@ -4861,9 +4601,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4878,9 +4616,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             73
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/66.png",
             "large": "https://images.pokemontcg.io/base6/66_hires.png"
@@ -4923,9 +4659,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -4940,9 +4674,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             63
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/67.png",
             "large": "https://images.pokemontcg.io/base6/67_hires.png"
@@ -4987,9 +4719,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5004,9 +4734,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/68.png",
             "large": "https://images.pokemontcg.io/base6/68_hires.png"
@@ -5050,9 +4778,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5067,10 +4793,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/69.png",
             "large": "https://images.pokemontcg.io/base6/69_hires.png"
@@ -5124,9 +4847,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5141,9 +4862,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/70.png",
             "large": "https://images.pokemontcg.io/base6/70_hires.png"
@@ -5192,9 +4911,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5209,9 +4926,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/71.png",
             "large": "https://images.pokemontcg.io/base6/71_hires.png"
@@ -5255,9 +4970,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5272,9 +4985,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/72.png",
             "large": "https://images.pokemontcg.io/base6/72_hires.png"
@@ -5326,9 +5037,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5343,9 +5052,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/73.png",
             "large": "https://images.pokemontcg.io/base6/73_hires.png"
@@ -5412,9 +5119,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5429,9 +5134,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/74.png",
             "large": "https://images.pokemontcg.io/base6/74_hires.png"
@@ -5485,9 +5188,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5502,9 +5203,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/75.png",
             "large": "https://images.pokemontcg.io/base6/75_hires.png"
@@ -5557,9 +5256,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5574,9 +5271,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             92
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/76.png",
             "large": "https://images.pokemontcg.io/base6/76_hires.png"
@@ -5621,9 +5316,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5638,9 +5331,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             74
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/77.png",
             "large": "https://images.pokemontcg.io/base6/77_hires.png"
@@ -5693,9 +5384,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5710,9 +5399,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/78.png",
             "large": "https://images.pokemontcg.io/base6/78_hires.png"
@@ -5768,9 +5455,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5785,9 +5470,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             66
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/79.png",
             "large": "https://images.pokemontcg.io/base6/79_hires.png"
@@ -5841,9 +5524,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5858,9 +5539,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             81
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/80.png",
             "large": "https://images.pokemontcg.io/base6/80_hires.png"
@@ -5913,9 +5592,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -5930,9 +5607,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             56
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/81.png",
             "large": "https://images.pokemontcg.io/base6/81_hires.png"
@@ -5986,9 +5661,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6003,9 +5676,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             29
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/82.png",
             "large": "https://images.pokemontcg.io/base6/82_hires.png"
@@ -6049,9 +5720,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6066,9 +5735,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             32
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/83.png",
             "large": "https://images.pokemontcg.io/base6/83_hires.png"
@@ -6122,9 +5789,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6139,9 +5804,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             95
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/84.png",
             "large": "https://images.pokemontcg.io/base6/84_hires.png"
@@ -6192,9 +5855,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6209,9 +5870,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             16
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/85.png",
             "large": "https://images.pokemontcg.io/base6/85_hires.png"
@@ -6256,9 +5915,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6273,9 +5930,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/86.png",
             "large": "https://images.pokemontcg.io/base6/86_hires.png"
@@ -6330,9 +5985,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6347,9 +6000,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             77
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/87.png",
             "large": "https://images.pokemontcg.io/base6/87_hires.png"
@@ -6403,9 +6054,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6420,9 +6069,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/88.png",
             "large": "https://images.pokemontcg.io/base6/88_hires.png"
@@ -6471,9 +6118,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6488,9 +6133,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/89.png",
             "large": "https://images.pokemontcg.io/base6/89_hires.png"
@@ -6551,9 +6194,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6568,9 +6209,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/90.png",
             "large": "https://images.pokemontcg.io/base6/90_hires.png"
@@ -6620,9 +6259,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6637,9 +6274,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             27
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/91.png",
             "large": "https://images.pokemontcg.io/base6/91_hires.png"
@@ -6683,9 +6318,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6700,9 +6333,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             86
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/92.png",
             "large": "https://images.pokemontcg.io/base6/92_hires.png"
@@ -6757,9 +6388,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6774,9 +6403,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             79
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/93.png",
             "large": "https://images.pokemontcg.io/base6/93_hires.png"
@@ -6836,9 +6463,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6853,9 +6478,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             21
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/94.png",
             "large": "https://images.pokemontcg.io/base6/94_hires.png"
@@ -6909,9 +6532,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6926,9 +6547,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/95.png",
             "large": "https://images.pokemontcg.io/base6/95_hires.png"
@@ -6978,9 +6597,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -6995,9 +6612,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             72
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/96.png",
             "large": "https://images.pokemontcg.io/base6/96_hires.png"
@@ -7041,9 +6656,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7058,9 +6671,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/97.png",
             "large": "https://images.pokemontcg.io/base6/97_hires.png"
@@ -7105,9 +6716,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7122,9 +6731,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/98.png",
             "large": "https://images.pokemontcg.io/base6/98_hires.png"
@@ -7168,9 +6775,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7185,10 +6790,7 @@ let base6 = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/99.png",
             "large": "https://images.pokemontcg.io/base6/99_hires.png"
@@ -7210,9 +6812,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7223,9 +6823,7 @@ let base6 = [
         "number": "100",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/100.png",
             "large": "https://images.pokemontcg.io/base6/100_hires.png"
@@ -7247,9 +6845,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7260,9 +6856,7 @@ let base6 = [
         "number": "101",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/101.png",
             "large": "https://images.pokemontcg.io/base6/101_hires.png"
@@ -7281,9 +6875,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7294,9 +6886,7 @@ let base6 = [
         "number": "102",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/102.png",
             "large": "https://images.pokemontcg.io/base6/102_hires.png"
@@ -7315,9 +6905,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7328,9 +6916,7 @@ let base6 = [
         "number": "103",
         "artist": "Ken Sugimori",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/103.png",
             "large": "https://images.pokemontcg.io/base6/103_hires.png"
@@ -7349,9 +6935,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7362,9 +6946,7 @@ let base6 = [
         "number": "104",
         "artist": "Keiji Kinebuchi",
         "rarity": "Rare",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/104.png",
             "large": "https://images.pokemontcg.io/base6/104_hires.png"
@@ -7383,9 +6965,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7396,9 +6976,7 @@ let base6 = [
         "number": "105",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/105.png",
             "large": "https://images.pokemontcg.io/base6/105_hires.png"
@@ -7417,9 +6995,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7430,9 +7006,7 @@ let base6 = [
         "number": "106",
         "artist": "Kagemaru Himeno",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/106.png",
             "large": "https://images.pokemontcg.io/base6/106_hires.png"
@@ -7451,9 +7025,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7464,11 +7036,7 @@ let base6 = [
         "number": "107",
         "artist": "Keiji Kinebuchi",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/107.png",
             "large": "https://images.pokemontcg.io/base6/107_hires.png"
@@ -7487,9 +7055,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7500,9 +7066,7 @@ let base6 = [
         "number": "108",
         "artist": "Ken Sugimori",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/108.png",
             "large": "https://images.pokemontcg.io/base6/108_hires.png"
@@ -7522,9 +7086,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7535,9 +7097,7 @@ let base6 = [
         "number": "109",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/109.png",
             "large": "https://images.pokemontcg.io/base6/109_hires.png"
@@ -7556,9 +7116,7 @@ let base6 = [
             "series": "Other",
             "printedTotal": 110,
             "total": 110,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LC",
             "releaseDate": "2002/05/24",
             "images": {
@@ -7569,11 +7127,7 @@ let base6 = [
         "number": "110",
         "artist": "Keiji Kinebuchi",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/base6/110.png",
             "large": "https://images.pokemontcg.io/base6/110_hires.png"

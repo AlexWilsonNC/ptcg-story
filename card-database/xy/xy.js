@@ -55,10 +55,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -72,10 +69,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/1.png",
             "large": "https://images.pokemontcg.io/xy1/1_hires.png"
@@ -125,10 +119,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -142,10 +133,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/2.png",
             "large": "https://images.pokemontcg.io/xy1/2_hires.png"
@@ -189,10 +177,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -207,10 +192,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             13
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/3.png",
             "large": "https://images.pokemontcg.io/xy1/3_hires.png"
@@ -255,10 +237,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -273,10 +252,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             14
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/4.png",
             "large": "https://images.pokemontcg.io/xy1/4_hires.png"
@@ -328,10 +304,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -346,10 +319,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             15
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/5.png",
             "large": "https://images.pokemontcg.io/xy1/5_hires.png"
@@ -394,10 +364,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -412,10 +379,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             165
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/6.png",
             "large": "https://images.pokemontcg.io/xy1/6_hires.png"
@@ -467,10 +431,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -485,10 +446,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             166
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/7.png",
             "large": "https://images.pokemontcg.io/xy1/7_hires.png"
@@ -539,10 +497,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -557,10 +512,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             313
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/8.png",
             "large": "https://images.pokemontcg.io/xy1/8_hires.png"
@@ -611,10 +563,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -629,10 +578,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             314
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/9.png",
             "large": "https://images.pokemontcg.io/xy1/9_hires.png"
@@ -686,10 +632,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -704,10 +647,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             511
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/10.png",
             "large": "https://images.pokemontcg.io/xy1/10_hires.png"
@@ -760,10 +700,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -778,10 +715,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             512
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/11.png",
             "large": "https://images.pokemontcg.io/xy1/11_hires.png"
@@ -825,10 +759,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -843,10 +774,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             650
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/12.png",
             "large": "https://images.pokemontcg.io/xy1/12_hires.png"
@@ -902,10 +830,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -920,10 +845,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             651
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/13.png",
             "large": "https://images.pokemontcg.io/xy1/13_hires.png"
@@ -975,10 +897,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -993,10 +912,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             652
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/14.png",
             "large": "https://images.pokemontcg.io/xy1/14_hires.png"
@@ -1040,10 +956,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -1058,10 +971,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             664
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/15.png",
             "large": "https://images.pokemontcg.io/xy1/15_hires.png"
@@ -1117,10 +1027,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -1135,10 +1042,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             665
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/16.png",
             "large": "https://images.pokemontcg.io/xy1/16_hires.png"
@@ -1191,10 +1095,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -1209,10 +1110,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             666
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/17.png",
             "large": "https://images.pokemontcg.io/xy1/17_hires.png"
@@ -1267,10 +1165,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -1285,10 +1180,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             672
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/18.png",
             "large": "https://images.pokemontcg.io/xy1/18_hires.png"
@@ -1341,10 +1233,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -1359,10 +1248,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             673
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/19.png",
             "large": "https://images.pokemontcg.io/xy1/19_hires.png"
@@ -1408,10 +1294,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -1426,10 +1309,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             218
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/20.png",
             "large": "https://images.pokemontcg.io/xy1/20_hires.png"
@@ -1483,10 +1363,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -1501,10 +1378,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             219
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/21.png",
             "large": "https://images.pokemontcg.io/xy1/21_hires.png"
@@ -1558,10 +1432,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -1576,10 +1447,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             513
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/22.png",
             "large": "https://images.pokemontcg.io/xy1/22_hires.png"
@@ -1632,10 +1500,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -1650,10 +1515,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             514
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/23.png",
             "large": "https://images.pokemontcg.io/xy1/23_hires.png"
@@ -1697,10 +1559,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -1715,10 +1574,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             653
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/24.png",
             "large": "https://images.pokemontcg.io/xy1/24_hires.png"
@@ -1773,10 +1629,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -1791,10 +1644,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             654
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/25.png",
             "large": "https://images.pokemontcg.io/xy1/25_hires.png"
@@ -1845,10 +1695,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -1863,10 +1710,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             655
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/26.png",
             "large": "https://images.pokemontcg.io/xy1/26_hires.png"
@@ -1927,10 +1771,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -1945,10 +1786,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             662
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/27.png",
             "large": "https://images.pokemontcg.io/xy1/27_hires.png"
@@ -2005,10 +1843,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2023,10 +1858,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             663
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/28.png",
             "large": "https://images.pokemontcg.io/xy1/28_hires.png"
@@ -2086,10 +1918,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2103,10 +1932,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/29.png",
             "large": "https://images.pokemontcg.io/xy1/29_hires.png"
@@ -2155,10 +1981,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2172,10 +1995,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/30.png",
             "large": "https://images.pokemontcg.io/xy1/30_hires.png"
@@ -2220,10 +2040,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2238,10 +2055,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             90
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/31.png",
             "large": "https://images.pokemontcg.io/xy1/31_hires.png"
@@ -2295,10 +2109,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2313,10 +2124,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             91
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/32.png",
             "large": "https://images.pokemontcg.io/xy1/32_hires.png"
@@ -2361,10 +2169,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2379,10 +2184,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/33.png",
             "large": "https://images.pokemontcg.io/xy1/33_hires.png"
@@ -2435,10 +2237,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2453,10 +2252,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/34.png",
             "large": "https://images.pokemontcg.io/xy1/34_hires.png"
@@ -2507,10 +2303,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2525,10 +2318,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/35.png",
             "large": "https://images.pokemontcg.io/xy1/35_hires.png"
@@ -2579,10 +2369,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2597,10 +2384,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             222
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/36.png",
             "large": "https://images.pokemontcg.io/xy1/36_hires.png"
@@ -2654,10 +2438,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2672,10 +2453,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             515
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/37.png",
             "large": "https://images.pokemontcg.io/xy1/37_hires.png"
@@ -2728,10 +2506,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2746,10 +2521,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             516
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/38.png",
             "large": "https://images.pokemontcg.io/xy1/38_hires.png"
@@ -2793,10 +2565,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2811,10 +2580,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             656
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/39.png",
             "large": "https://images.pokemontcg.io/xy1/39_hires.png"
@@ -2860,10 +2626,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2878,10 +2641,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             657
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/40.png",
             "large": "https://images.pokemontcg.io/xy1/40_hires.png"
@@ -2930,10 +2690,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -2948,10 +2705,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             658
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/41.png",
             "large": "https://images.pokemontcg.io/xy1/41_hires.png"
@@ -3011,10 +2765,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3029,10 +2780,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/42.png",
             "large": "https://images.pokemontcg.io/xy1/42_hires.png"
@@ -3091,10 +2839,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3109,10 +2854,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             26
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/43.png",
             "large": "https://images.pokemontcg.io/xy1/43_hires.png"
@@ -3163,10 +2905,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3181,10 +2920,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             100
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/44.png",
             "large": "https://images.pokemontcg.io/xy1/44_hires.png"
@@ -3236,10 +2972,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3254,10 +2987,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             101
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/45.png",
             "large": "https://images.pokemontcg.io/xy1/45_hires.png"
@@ -3318,10 +3048,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3335,10 +3062,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             587
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/46.png",
             "large": "https://images.pokemontcg.io/xy1/46_hires.png"
@@ -3383,10 +3107,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3401,10 +3122,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             23
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/47.png",
             "large": "https://images.pokemontcg.io/xy1/47_hires.png"
@@ -3457,10 +3175,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3475,10 +3190,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             24
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/48.png",
             "large": "https://images.pokemontcg.io/xy1/48_hires.png"
@@ -3522,10 +3234,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3540,10 +3249,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/49.png",
             "large": "https://images.pokemontcg.io/xy1/49_hires.png"
@@ -3597,10 +3303,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3615,10 +3318,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/50.png",
             "large": "https://images.pokemontcg.io/xy1/50_hires.png"
@@ -3663,10 +3363,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3681,10 +3378,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             543
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/51.png",
             "large": "https://images.pokemontcg.io/xy1/51_hires.png"
@@ -3730,10 +3424,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3748,10 +3439,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             544
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/52.png",
             "large": "https://images.pokemontcg.io/xy1/52_hires.png"
@@ -3805,10 +3493,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3823,10 +3508,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             545
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/53.png",
             "large": "https://images.pokemontcg.io/xy1/53_hires.png"
@@ -3887,10 +3569,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3905,10 +3584,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             708
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/54.png",
             "large": "https://images.pokemontcg.io/xy1/54_hires.png"
@@ -3965,10 +3641,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -3983,10 +3656,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             709
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/55.png",
             "large": "https://images.pokemontcg.io/xy1/55_hires.png"
@@ -4036,10 +3706,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -4054,10 +3721,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             710
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/56.png",
             "large": "https://images.pokemontcg.io/xy1/56_hires.png"
@@ -4115,10 +3779,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -4133,10 +3794,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             711
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/57.png",
             "large": "https://images.pokemontcg.io/xy1/57_hires.png"
@@ -4190,10 +3848,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -4208,10 +3863,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/58.png",
             "large": "https://images.pokemontcg.io/xy1/58_hires.png"
@@ -4264,10 +3916,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -4282,10 +3931,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/59.png",
             "large": "https://images.pokemontcg.io/xy1/59_hires.png"
@@ -4340,10 +3986,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -4358,10 +4001,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             111
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/60.png",
             "large": "https://images.pokemontcg.io/xy1/60_hires.png"
@@ -4420,10 +4060,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -4438,10 +4075,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             112
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/61.png",
             "large": "https://images.pokemontcg.io/xy1/61_hires.png"
@@ -4495,10 +4129,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -4513,10 +4144,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             464
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/62.png",
             "large": "https://images.pokemontcg.io/xy1/62_hires.png"
@@ -4567,10 +4195,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -4585,10 +4210,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             337
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/63.png",
             "large": "https://images.pokemontcg.io/xy1/63_hires.png"
@@ -4640,10 +4262,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -4658,10 +4277,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             338
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/64.png",
             "large": "https://images.pokemontcg.io/xy1/64_hires.png"
@@ -4706,10 +4322,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -4724,10 +4337,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             532
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/65.png",
             "large": "https://images.pokemontcg.io/xy1/65_hires.png"
@@ -4784,10 +4394,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -4802,10 +4409,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             533
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/66.png",
             "large": "https://images.pokemontcg.io/xy1/66_hires.png"
@@ -4858,10 +4462,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -4876,10 +4477,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             534
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/67.png",
             "large": "https://images.pokemontcg.io/xy1/67_hires.png"
@@ -4924,10 +4522,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -4942,10 +4537,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             302
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/68.png",
             "large": "https://images.pokemontcg.io/xy1/68_hires.png"
@@ -5007,10 +4599,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -5025,10 +4614,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             551
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/69.png",
             "large": "https://images.pokemontcg.io/xy1/69_hires.png"
@@ -5091,10 +4677,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -5109,10 +4692,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             552
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/70.png",
             "large": "https://images.pokemontcg.io/xy1/70_hires.png"
@@ -5174,10 +4754,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -5192,10 +4769,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             553
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/71.png",
             "large": "https://images.pokemontcg.io/xy1/71_hires.png"
@@ -5255,10 +4829,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -5273,10 +4844,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             570
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/72.png",
             "large": "https://images.pokemontcg.io/xy1/72_hires.png"
@@ -5335,10 +4903,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -5353,10 +4918,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             571
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/73.png",
             "large": "https://images.pokemontcg.io/xy1/73_hires.png"
@@ -5413,10 +4975,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -5431,10 +4990,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             686
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/74.png",
             "large": "https://images.pokemontcg.io/xy1/74_hires.png"
@@ -5494,10 +5050,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -5512,10 +5065,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             686
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/75.png",
             "large": "https://images.pokemontcg.io/xy1/75_hires.png"
@@ -5574,10 +5124,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -5592,10 +5139,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             687
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/76.png",
             "large": "https://images.pokemontcg.io/xy1/76_hires.png"
@@ -5654,10 +5198,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -5672,10 +5213,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             687
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/77.png",
             "large": "https://images.pokemontcg.io/xy1/77_hires.png"
@@ -5733,10 +5271,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -5751,10 +5286,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/78.png",
             "large": "https://images.pokemontcg.io/xy1/78_hires.png"
@@ -5817,10 +5349,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -5834,10 +5363,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/79.png",
             "large": "https://images.pokemontcg.io/xy1/79_hires.png"
@@ -5900,10 +5426,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -5917,10 +5440,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/80.png",
             "large": "https://images.pokemontcg.io/xy1/80_hires.png"
@@ -5980,10 +5500,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -5998,10 +5515,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             624
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/81.png",
             "large": "https://images.pokemontcg.io/xy1/81_hires.png"
@@ -6059,10 +5573,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -6077,10 +5588,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             625
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/82.png",
             "large": "https://images.pokemontcg.io/xy1/82_hires.png"
@@ -6130,10 +5638,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -6148,10 +5653,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             679
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/83.png",
             "large": "https://images.pokemontcg.io/xy1/83_hires.png"
@@ -6203,10 +5705,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -6221,10 +5720,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             680
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/84.png",
             "large": "https://images.pokemontcg.io/xy1/84_hires.png"
@@ -6282,10 +5778,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -6300,10 +5793,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/85.png",
             "large": "https://images.pokemontcg.io/xy1/85_hires.png"
@@ -6361,10 +5851,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -6379,10 +5866,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/86.png",
             "large": "https://images.pokemontcg.io/xy1/86_hires.png"
@@ -6441,10 +5925,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -6459,10 +5940,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/87.png",
             "large": "https://images.pokemontcg.io/xy1/87_hires.png"
@@ -6513,10 +5991,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -6531,10 +6006,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/88.png",
             "large": "https://images.pokemontcg.io/xy1/88_hires.png"
@@ -6593,10 +6065,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -6611,10 +6080,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/89.png",
             "large": "https://images.pokemontcg.io/xy1/89_hires.png"
@@ -6673,10 +6139,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -6691,10 +6154,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             40
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/90.png",
             "large": "https://images.pokemontcg.io/xy1/90_hires.png"
@@ -6753,10 +6213,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -6771,10 +6228,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             122
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/91.png",
             "large": "https://images.pokemontcg.io/xy1/91_hires.png"
@@ -6834,10 +6288,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -6852,10 +6303,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             682
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/92.png",
             "large": "https://images.pokemontcg.io/xy1/92_hires.png"
@@ -6912,10 +6360,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -6930,10 +6375,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             683
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/93.png",
             "large": "https://images.pokemontcg.io/xy1/93_hires.png"
@@ -6993,10 +6435,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7011,10 +6450,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             684
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/94.png",
             "large": "https://images.pokemontcg.io/xy1/94_hires.png"
@@ -7070,10 +6506,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7088,10 +6521,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             685
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/95.png",
             "large": "https://images.pokemontcg.io/xy1/95_hires.png"
@@ -7149,10 +6579,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7167,10 +6594,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             716
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/96.png",
             "large": "https://images.pokemontcg.io/xy1/96_hires.png"
@@ -7235,10 +6659,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7252,10 +6673,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             716
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/97.png",
             "large": "https://images.pokemontcg.io/xy1/97_hires.png"
@@ -7307,10 +6725,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7325,10 +6740,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             84
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/98.png",
             "large": "https://images.pokemontcg.io/xy1/98_hires.png"
@@ -7387,10 +6799,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7405,10 +6814,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             85
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/99.png",
             "large": "https://images.pokemontcg.io/xy1/99_hires.png"
@@ -7460,10 +6866,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7478,10 +6881,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/100.png",
             "large": "https://images.pokemontcg.io/xy1/100_hires.png"
@@ -7531,10 +6931,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7549,10 +6946,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             206
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/101.png",
             "large": "https://images.pokemontcg.io/xy1/101_hires.png"
@@ -7603,10 +6997,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7621,10 +7012,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             276
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/102.png",
             "large": "https://images.pokemontcg.io/xy1/102_hires.png"
@@ -7681,10 +7069,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7699,10 +7084,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             277
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/103.png",
             "large": "https://images.pokemontcg.io/xy1/103_hires.png"
@@ -7755,10 +7137,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7773,10 +7152,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/104.png",
             "large": "https://images.pokemontcg.io/xy1/104_hires.png"
@@ -7828,10 +7204,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7846,10 +7219,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/105.png",
             "large": "https://images.pokemontcg.io/xy1/105_hires.png"
@@ -7894,10 +7264,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7912,10 +7279,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             399
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/106.png",
             "large": "https://images.pokemontcg.io/xy1/106_hires.png"
@@ -7969,10 +7333,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -7987,10 +7348,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             400
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/107.png",
             "large": "https://images.pokemontcg.io/xy1/107_hires.png"
@@ -8044,10 +7402,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8062,10 +7417,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             506
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/108.png",
             "large": "https://images.pokemontcg.io/xy1/108_hires.png"
@@ -8122,10 +7474,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8140,10 +7489,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             507
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/109.png",
             "large": "https://images.pokemontcg.io/xy1/109_hires.png"
@@ -8199,10 +7545,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8217,10 +7560,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             508
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/110.png",
             "large": "https://images.pokemontcg.io/xy1/110_hires.png"
@@ -8265,10 +7605,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8283,10 +7620,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             659
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/111.png",
             "large": "https://images.pokemontcg.io/xy1/111_hires.png"
@@ -8340,10 +7674,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8358,10 +7689,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             660
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/112.png",
             "large": "https://images.pokemontcg.io/xy1/112_hires.png"
@@ -8421,10 +7749,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8439,10 +7764,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             661
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/113.png",
             "large": "https://images.pokemontcg.io/xy1/113_hires.png"
@@ -8492,10 +7814,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8510,10 +7829,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             676
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/114.png",
             "large": "https://images.pokemontcg.io/xy1/114_hires.png"
@@ -8536,10 +7852,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8550,10 +7863,7 @@ let xy1 = [
         "number": "115",
         "artist": "Masakazu Fukuda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/115.png",
             "large": "https://images.pokemontcg.io/xy1/115_hires.png"
@@ -8576,10 +7886,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8590,10 +7897,7 @@ let xy1 = [
         "number": "116",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/116.png",
             "large": "https://images.pokemontcg.io/xy1/116_hires.png"
@@ -8616,10 +7920,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8630,10 +7931,7 @@ let xy1 = [
         "number": "117",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/117.png",
             "large": "https://images.pokemontcg.io/xy1/117_hires.png"
@@ -8656,10 +7954,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8670,11 +7965,7 @@ let xy1 = [
         "number": "118",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/118.png",
             "large": "https://images.pokemontcg.io/xy1/118_hires.png"
@@ -8698,10 +7989,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8712,10 +8000,7 @@ let xy1 = [
         "number": "119",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/119.png",
             "large": "https://images.pokemontcg.io/xy1/119_hires.png"
@@ -8738,10 +8023,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8752,10 +8034,7 @@ let xy1 = [
         "number": "120",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/120.png",
             "large": "https://images.pokemontcg.io/xy1/120_hires.png"
@@ -8779,10 +8058,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8793,10 +8069,7 @@ let xy1 = [
         "number": "121",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/121.png",
             "large": "https://images.pokemontcg.io/xy1/121_hires.png"
@@ -8819,10 +8092,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8833,10 +8103,7 @@ let xy1 = [
         "number": "122",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/122.png",
             "large": "https://images.pokemontcg.io/xy1/122_hires.png"
@@ -8859,10 +8126,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8873,10 +8137,7 @@ let xy1 = [
         "number": "123",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/123.png",
             "large": "https://images.pokemontcg.io/xy1/123_hires.png"
@@ -8899,10 +8160,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8939,10 +8197,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8953,10 +8208,7 @@ let xy1 = [
         "number": "125",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/125.png",
             "large": "https://images.pokemontcg.io/xy1/125_hires.png"
@@ -8979,10 +8231,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -8993,10 +8242,7 @@ let xy1 = [
         "number": "126",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/126.png",
             "large": "https://images.pokemontcg.io/xy1/126_hires.png"
@@ -9019,10 +8265,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9033,10 +8276,7 @@ let xy1 = [
         "number": "127",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/127.png",
             "large": "https://images.pokemontcg.io/xy1/127_hires.png"
@@ -9059,10 +8299,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9073,10 +8310,7 @@ let xy1 = [
         "number": "128",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/128.png",
             "large": "https://images.pokemontcg.io/xy1/128_hires.png"
@@ -9099,10 +8333,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9113,10 +8344,7 @@ let xy1 = [
         "number": "129",
         "artist": "Yusuke Ohmura",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/129.png",
             "large": "https://images.pokemontcg.io/xy1/129_hires.png"
@@ -9138,10 +8366,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9152,10 +8377,7 @@ let xy1 = [
         "number": "130",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/130.png",
             "large": "https://images.pokemontcg.io/xy1/130_hires.png"
@@ -9177,10 +8399,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9191,10 +8410,7 @@ let xy1 = [
         "number": "131",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/131.png",
             "large": "https://images.pokemontcg.io/xy1/131_hires.png"
@@ -9213,10 +8429,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9226,11 +8439,7 @@ let xy1 = [
         },
         "number": "132",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/132.png",
             "large": "https://images.pokemontcg.io/xy1/132_hires.png"
@@ -9249,10 +8458,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9262,11 +8468,7 @@ let xy1 = [
         },
         "number": "133",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/133.png",
             "large": "https://images.pokemontcg.io/xy1/133_hires.png"
@@ -9285,10 +8487,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9298,11 +8497,7 @@ let xy1 = [
         },
         "number": "134",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/134.png",
             "large": "https://images.pokemontcg.io/xy1/134_hires.png"
@@ -9321,10 +8516,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9334,11 +8526,7 @@ let xy1 = [
         },
         "number": "135",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/135.png",
             "large": "https://images.pokemontcg.io/xy1/135_hires.png"
@@ -9357,10 +8545,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9370,11 +8555,7 @@ let xy1 = [
         },
         "number": "136",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/136.png",
             "large": "https://images.pokemontcg.io/xy1/136_hires.png"
@@ -9393,10 +8574,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9406,11 +8584,7 @@ let xy1 = [
         },
         "number": "137",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/137.png",
             "large": "https://images.pokemontcg.io/xy1/137_hires.png"
@@ -9429,10 +8603,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9442,11 +8613,7 @@ let xy1 = [
         },
         "number": "138",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/138.png",
             "large": "https://images.pokemontcg.io/xy1/138_hires.png"
@@ -9465,10 +8632,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9478,11 +8642,7 @@ let xy1 = [
         },
         "number": "139",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/139.png",
             "large": "https://images.pokemontcg.io/xy1/139_hires.png"
@@ -9501,10 +8661,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9514,10 +8671,7 @@ let xy1 = [
         },
         "number": "140",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/140.png",
             "large": "https://images.pokemontcg.io/xy1/140_hires.png"
@@ -9579,10 +8733,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9596,10 +8747,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/141.png",
             "large": "https://images.pokemontcg.io/xy1/141_hires.png"
@@ -9659,10 +8807,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9676,10 +8821,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/142.png",
             "large": "https://images.pokemontcg.io/xy1/142_hires.png"
@@ -9740,10 +8882,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9757,10 +8896,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             587
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/143.png",
             "large": "https://images.pokemontcg.io/xy1/143_hires.png"
@@ -9823,10 +8959,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9840,10 +8973,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/144.png",
             "large": "https://images.pokemontcg.io/xy1/144_hires.png"
@@ -9906,10 +9036,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -9923,10 +9050,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/145.png",
             "large": "https://images.pokemontcg.io/xy1/145_hires.png"
@@ -9991,10 +9115,7 @@ let xy1 = [
             "series": "XY",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "XY",
             "releaseDate": "2014/02/05",
             "images": {
@@ -10008,10 +9129,7 @@ let xy1 = [
         "nationalPokedexNumbers": [
             716
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/xy1/146.png",
             "large": "https://images.pokemontcg.io/xy1/146_hires.png"

@@ -44,9 +44,7 @@ let tk1a = [
             "series": "EX",
             "printedTotal": 10,
             "total": 10,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -59,9 +57,7 @@ let tk1a = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk1a/1.png",
             "large": "https://images.pokemontcg.io/tk1a/1_hires.png"
@@ -120,9 +116,7 @@ let tk1a = [
             "series": "EX",
             "printedTotal": 10,
             "total": 10,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -135,9 +129,7 @@ let tk1a = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk1a/2.png",
             "large": "https://images.pokemontcg.io/tk1a/2_hires.png"
@@ -194,9 +186,7 @@ let tk1a = [
             "series": "EX",
             "printedTotal": 10,
             "total": 10,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -209,9 +199,7 @@ let tk1a = [
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk1a/3.png",
             "large": "https://images.pokemontcg.io/tk1a/3_hires.png"
@@ -266,9 +254,7 @@ let tk1a = [
             "series": "EX",
             "printedTotal": 10,
             "total": 10,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -281,9 +267,7 @@ let tk1a = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk1a/4.png",
             "large": "https://images.pokemontcg.io/tk1a/4_hires.png"
@@ -340,9 +324,7 @@ let tk1a = [
             "series": "EX",
             "printedTotal": 10,
             "total": 10,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -355,9 +337,7 @@ let tk1a = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk1a/5.png",
             "large": "https://images.pokemontcg.io/tk1a/5_hires.png"
@@ -414,9 +394,7 @@ let tk1a = [
             "series": "EX",
             "printedTotal": 10,
             "total": 10,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -429,9 +407,7 @@ let tk1a = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk1a/6.png",
             "large": "https://images.pokemontcg.io/tk1a/6_hires.png"
@@ -479,9 +455,7 @@ let tk1a = [
             "series": "EX",
             "printedTotal": 10,
             "total": 10,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -494,9 +468,7 @@ let tk1a = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk1a/7.png",
             "large": "https://images.pokemontcg.io/tk1a/7_hires.png"
@@ -518,9 +490,7 @@ let tk1a = [
             "series": "EX",
             "printedTotal": 10,
             "total": 10,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -530,11 +500,7 @@ let tk1a = [
         },
         "number": "8",
         "artist": "Keiji Kinebuchi",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk1a/8.png",
             "large": "https://images.pokemontcg.io/tk1a/8_hires.png"
@@ -556,9 +522,7 @@ let tk1a = [
             "series": "EX",
             "printedTotal": 10,
             "total": 10,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -568,11 +532,7 @@ let tk1a = [
         },
         "number": "9",
         "artist": "Kai Ishikawa",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk1a/9.png",
             "large": "https://images.pokemontcg.io/tk1a/9_hires.png"
@@ -591,9 +551,7 @@ let tk1a = [
             "series": "EX",
             "printedTotal": 10,
             "total": 10,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
@@ -602,11 +560,7 @@ let tk1a = [
             }
         },
         "number": "10",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/tk1a/10.png",
             "large": "https://images.pokemontcg.io/tk1a/10_hires.png"
@@ -674,9 +628,7 @@ let tk1a = [
             "nationalPokedexNumbers": [
                 309
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk1b/1.png",
                 "large": "https://images.pokemontcg.io/tk1b/1_hires.png"
@@ -747,9 +699,7 @@ let tk1a = [
             "nationalPokedexNumbers": [
                 381
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk1b/2.png",
                 "large": "https://images.pokemontcg.io/tk1b/2_hires.png"
@@ -819,9 +769,7 @@ let tk1a = [
             "nationalPokedexNumbers": [
                 264
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk1b/3.png",
                 "large": "https://images.pokemontcg.io/tk1b/3_hires.png"
@@ -899,9 +847,7 @@ let tk1a = [
             "nationalPokedexNumbers": [
                 81
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk1b/4.png",
                 "large": "https://images.pokemontcg.io/tk1b/4_hires.png"
@@ -976,9 +922,7 @@ let tk1a = [
             "nationalPokedexNumbers": [
                 82
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk1b/5.png",
                 "large": "https://images.pokemontcg.io/tk1b/5_hires.png"
@@ -1051,9 +995,7 @@ let tk1a = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk1b/6.png",
                 "large": "https://images.pokemontcg.io/tk1b/6_hires.png"
@@ -1115,9 +1057,7 @@ let tk1a = [
             "nationalPokedexNumbers": [
                 263
             ],
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk1b/7.png",
                 "large": "https://images.pokemontcg.io/tk1b/7_hires.png"
@@ -1151,11 +1091,7 @@ let tk1a = [
             },
             "number": "8",
             "artist": "Keiji Kinebuchi",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk1b/8.png",
                 "large": "https://images.pokemontcg.io/tk1b/8_hires.png"
@@ -1189,11 +1125,7 @@ let tk1a = [
             },
             "number": "9",
             "artist": "Kai Ishikawa",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk1b/9.png",
                 "large": "https://images.pokemontcg.io/tk1b/9_hires.png"
@@ -1223,11 +1155,7 @@ let tk1a = [
                 }
             },
             "number": "10",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/tk1b/10.png",
                 "large": "https://images.pokemontcg.io/tk1b/10_hires.png"

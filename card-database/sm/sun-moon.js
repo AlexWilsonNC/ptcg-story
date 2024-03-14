@@ -47,10 +47,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -65,10 +62,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             10
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/1.png",
             "large": "https://images.pokemontcg.io/sm1/1_hires.png"
@@ -124,10 +118,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -142,10 +133,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             11
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/2.png",
             "large": "https://images.pokemontcg.io/sm1/2_hires.png"
@@ -198,10 +186,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -216,10 +201,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             12
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/3.png",
             "large": "https://images.pokemontcg.io/sm1/3_hires.png"
@@ -264,10 +246,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -282,10 +261,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             46
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/4.png",
             "large": "https://images.pokemontcg.io/sm1/4_hires.png"
@@ -339,10 +315,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -357,10 +330,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             47
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/5.png",
             "large": "https://images.pokemontcg.io/sm1/5_hires.png"
@@ -412,10 +382,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -430,10 +397,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             127
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/6.png",
             "large": "https://images.pokemontcg.io/sm1/6_hires.png"
@@ -477,10 +441,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -495,10 +456,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             283
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/7.png",
             "large": "https://images.pokemontcg.io/sm1/7_hires.png"
@@ -539,10 +497,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -557,10 +512,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             284
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/8.png",
             "large": "https://images.pokemontcg.io/sm1/8_hires.png"
@@ -614,10 +566,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -632,10 +581,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             722
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/9.png",
             "large": "https://images.pokemontcg.io/sm1/9_hires.png"
@@ -691,10 +637,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -709,10 +652,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             723
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/10.png",
             "large": "https://images.pokemontcg.io/sm1/10_hires.png"
@@ -765,10 +705,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -783,10 +720,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             724
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/11.png",
             "large": "https://images.pokemontcg.io/sm1/11_hires.png"
@@ -850,10 +784,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -867,10 +798,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             724
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/12.png",
             "large": "https://images.pokemontcg.io/sm1/12_hires.png"
@@ -915,10 +843,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -933,10 +858,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             736
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/13.png",
             "large": "https://images.pokemontcg.io/sm1/13_hires.png"
@@ -990,10 +912,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1008,10 +927,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             753
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/14.png",
             "large": "https://images.pokemontcg.io/sm1/14_hires.png"
@@ -1077,10 +993,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1094,10 +1007,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             754
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/15.png",
             "large": "https://images.pokemontcg.io/sm1/15_hires.png"
@@ -1150,10 +1060,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1168,10 +1075,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             755
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/16.png",
             "large": "https://images.pokemontcg.io/sm1/16_hires.png"
@@ -1221,10 +1125,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1239,10 +1140,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             756
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/17.png",
             "large": "https://images.pokemontcg.io/sm1/17_hires.png"
@@ -1295,10 +1193,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1313,10 +1208,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             761
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/18.png",
             "large": "https://images.pokemontcg.io/sm1/18_hires.png"
@@ -1371,10 +1263,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1389,10 +1278,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             762
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/19.png",
             "large": "https://images.pokemontcg.io/sm1/19_hires.png"
@@ -1443,10 +1329,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1461,10 +1344,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             763
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/20.png",
             "large": "https://images.pokemontcg.io/sm1/20_hires.png"
@@ -1510,10 +1390,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1528,10 +1405,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/21.png",
             "large": "https://images.pokemontcg.io/sm1/21_hires.png"
@@ -1587,10 +1461,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1605,10 +1476,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/22.png",
             "large": "https://images.pokemontcg.io/sm1/22_hires.png"
@@ -1659,10 +1527,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1677,10 +1542,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/23.png",
             "large": "https://images.pokemontcg.io/sm1/23_hires.png"
@@ -1734,10 +1596,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1752,10 +1611,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             725
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/24.png",
             "large": "https://images.pokemontcg.io/sm1/24_hires.png"
@@ -1811,10 +1667,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1829,10 +1682,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             726
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/25.png",
             "large": "https://images.pokemontcg.io/sm1/25_hires.png"
@@ -1886,10 +1736,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1904,10 +1751,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             727
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/26.png",
             "large": "https://images.pokemontcg.io/sm1/26_hires.png"
@@ -1975,10 +1819,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -1992,10 +1833,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             727
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/27.png",
             "large": "https://images.pokemontcg.io/sm1/27_hires.png"
@@ -2039,10 +1877,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2057,10 +1892,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/28.png",
             "large": "https://images.pokemontcg.io/sm1/28_hires.png"
@@ -2110,10 +1942,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2128,10 +1957,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/29.png",
             "large": "https://images.pokemontcg.io/sm1/29_hires.png"
@@ -2186,10 +2012,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2204,10 +2027,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             60
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/30.png",
             "large": "https://images.pokemontcg.io/sm1/30_hires.png"
@@ -2265,10 +2085,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2283,10 +2100,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             61
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/31.png",
             "large": "https://images.pokemontcg.io/sm1/31_hires.png"
@@ -2339,10 +2153,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2357,10 +2168,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             62
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/32.png",
             "large": "https://images.pokemontcg.io/sm1/32_hires.png"
@@ -2404,10 +2212,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2422,10 +2227,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             90
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/33.png",
             "large": "https://images.pokemontcg.io/sm1/33_hires.png"
@@ -2479,10 +2281,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2497,10 +2296,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             91
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/34.png",
             "large": "https://images.pokemontcg.io/sm1/34_hires.png"
@@ -2567,10 +2363,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2584,10 +2377,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/35.png",
             "large": "https://images.pokemontcg.io/sm1/35_hires.png"
@@ -2642,10 +2432,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2660,10 +2447,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             222
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/36.png",
             "large": "https://images.pokemontcg.io/sm1/36_hires.png"
@@ -2713,10 +2497,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2731,10 +2512,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             278
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/37.png",
             "large": "https://images.pokemontcg.io/sm1/37_hires.png"
@@ -2794,10 +2572,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2812,10 +2587,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             279
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/38.png",
             "large": "https://images.pokemontcg.io/sm1/38_hires.png"
@@ -2869,10 +2641,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2887,10 +2656,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             728
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/39.png",
             "large": "https://images.pokemontcg.io/sm1/39_hires.png"
@@ -2947,10 +2713,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -2965,10 +2728,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             729
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/40.png",
             "large": "https://images.pokemontcg.io/sm1/40_hires.png"
@@ -3022,10 +2782,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3040,10 +2797,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             730
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/41.png",
             "large": "https://images.pokemontcg.io/sm1/41_hires.png"
@@ -3112,10 +2866,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3129,10 +2880,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             730
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/42.png",
             "large": "https://images.pokemontcg.io/sm1/42_hires.png"
@@ -3188,10 +2936,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3206,10 +2951,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             740
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/43.png",
             "large": "https://images.pokemontcg.io/sm1/43_hires.png"
@@ -3257,10 +2999,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3275,10 +3014,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             746
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/44.png",
             "large": "https://images.pokemontcg.io/sm1/44_hires.png"
@@ -3322,10 +3058,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3340,10 +3073,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             751
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/45.png",
             "large": "https://images.pokemontcg.io/sm1/45_hires.png"
@@ -3394,10 +3124,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3412,10 +3139,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             752
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/46.png",
             "large": "https://images.pokemontcg.io/sm1/46_hires.png"
@@ -3463,10 +3187,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3481,10 +3202,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             771
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/47.png",
             "large": "https://images.pokemontcg.io/sm1/47_hires.png"
@@ -3536,10 +3254,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3554,10 +3269,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             779
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/48.png",
             "large": "https://images.pokemontcg.io/sm1/48_hires.png"
@@ -3618,10 +3330,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3636,10 +3345,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/49.png",
             "large": "https://images.pokemontcg.io/sm1/49_hires.png"
@@ -3698,10 +3404,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3716,10 +3419,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/50.png",
             "large": "https://images.pokemontcg.io/sm1/50_hires.png"
@@ -3782,10 +3482,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3800,10 +3497,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             737
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/51.png",
             "large": "https://images.pokemontcg.io/sm1/51_hires.png"
@@ -3861,10 +3555,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3879,10 +3570,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             738
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/52.png",
             "large": "https://images.pokemontcg.io/sm1/52_hires.png"
@@ -3938,10 +3626,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -3956,10 +3641,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             777
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/53.png",
             "large": "https://images.pokemontcg.io/sm1/53_hires.png"
@@ -4009,10 +3691,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4027,10 +3706,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             41
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/54.png",
             "large": "https://images.pokemontcg.io/sm1/54_hires.png"
@@ -4090,10 +3766,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4108,10 +3781,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             42
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/55.png",
             "large": "https://images.pokemontcg.io/sm1/55_hires.png"
@@ -4169,10 +3839,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4187,10 +3854,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/56.png",
             "large": "https://images.pokemontcg.io/sm1/56_hires.png"
@@ -4243,10 +3907,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4261,10 +3922,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/57.png",
             "large": "https://images.pokemontcg.io/sm1/57_hires.png"
@@ -4316,10 +3974,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4334,10 +3989,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/58.png",
             "large": "https://images.pokemontcg.io/sm1/58_hires.png"
@@ -4391,10 +4043,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4409,10 +4058,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             96
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/59.png",
             "large": "https://images.pokemontcg.io/sm1/59_hires.png"
@@ -4466,10 +4112,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4484,10 +4127,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             97
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/60.png",
             "large": "https://images.pokemontcg.io/sm1/60_hires.png"
@@ -4555,10 +4195,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4572,10 +4209,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/61.png",
             "large": "https://images.pokemontcg.io/sm1/61_hires.png"
@@ -4619,10 +4253,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4637,10 +4268,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             747
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/62.png",
             "large": "https://images.pokemontcg.io/sm1/62_hires.png"
@@ -4691,10 +4319,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4709,10 +4334,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             748
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/63.png",
             "large": "https://images.pokemontcg.io/sm1/63_hires.png"
@@ -4756,10 +4378,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4774,10 +4393,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             789
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/64.png",
             "large": "https://images.pokemontcg.io/sm1/64_hires.png"
@@ -4823,10 +4439,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4841,10 +4454,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             790
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/65.png",
             "large": "https://images.pokemontcg.io/sm1/65_hires.png"
@@ -4917,10 +4527,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -4934,10 +4541,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             792
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/66.png",
             "large": "https://images.pokemontcg.io/sm1/66_hires.png"
@@ -4991,10 +4595,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5009,10 +4610,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             296
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/67.png",
             "large": "https://images.pokemontcg.io/sm1/67_hires.png"
@@ -5068,10 +4666,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5086,10 +4681,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             297
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/68.png",
             "large": "https://images.pokemontcg.io/sm1/68_hires.png"
@@ -5134,10 +4726,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5152,10 +4741,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             524
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/69.png",
             "large": "https://images.pokemontcg.io/sm1/69_hires.png"
@@ -5212,10 +4798,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5230,10 +4813,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             525
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/70.png",
             "large": "https://images.pokemontcg.io/sm1/70_hires.png"
@@ -5288,10 +4868,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5306,10 +4883,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             526
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/71.png",
             "large": "https://images.pokemontcg.io/sm1/71_hires.png"
@@ -5365,10 +4939,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5383,10 +4954,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             739
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/72.png",
             "large": "https://images.pokemontcg.io/sm1/72_hires.png"
@@ -5437,10 +5005,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5455,10 +5020,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             766
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/73.png",
             "large": "https://images.pokemontcg.io/sm1/73_hires.png"
@@ -5513,10 +5075,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5531,10 +5090,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             769
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/74.png",
             "large": "https://images.pokemontcg.io/sm1/74_hires.png"
@@ -5586,10 +5142,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5604,10 +5157,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             770
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/75.png",
             "large": "https://images.pokemontcg.io/sm1/75_hires.png"
@@ -5654,10 +5204,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5672,10 +5219,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             19
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/76.png",
             "large": "https://images.pokemontcg.io/sm1/76_hires.png"
@@ -5735,10 +5279,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5753,10 +5294,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             20
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/77.png",
             "large": "https://images.pokemontcg.io/sm1/77_hires.png"
@@ -5804,10 +5342,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5822,10 +5357,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/78.png",
             "large": "https://images.pokemontcg.io/sm1/78_hires.png"
@@ -5880,10 +5412,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5898,10 +5427,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/79.png",
             "large": "https://images.pokemontcg.io/sm1/79_hires.png"
@@ -5974,10 +5500,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -5991,10 +5514,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/80.png",
             "large": "https://images.pokemontcg.io/sm1/80_hires.png"
@@ -6054,10 +5574,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6072,10 +5589,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             318
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/81.png",
             "large": "https://images.pokemontcg.io/sm1/81_hires.png"
@@ -6131,10 +5645,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6149,10 +5660,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             319
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/82.png",
             "large": "https://images.pokemontcg.io/sm1/82_hires.png"
@@ -6214,10 +5722,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6232,10 +5737,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             551
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/83.png",
             "large": "https://images.pokemontcg.io/sm1/83_hires.png"
@@ -6298,10 +5800,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6316,10 +5815,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             552
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/84.png",
             "large": "https://images.pokemontcg.io/sm1/84_hires.png"
@@ -6379,10 +5875,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6397,10 +5890,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             553
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/85.png",
             "large": "https://images.pokemontcg.io/sm1/85_hires.png"
@@ -6457,10 +5947,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6475,10 +5962,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/86.png",
             "large": "https://images.pokemontcg.io/sm1/86_hires.png"
@@ -6535,10 +6019,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6553,10 +6034,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/87.png",
             "large": "https://images.pokemontcg.io/sm1/87_hires.png"
@@ -6615,10 +6093,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6633,10 +6108,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             227
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/88.png",
             "large": "https://images.pokemontcg.io/sm1/88_hires.png"
@@ -6706,10 +6178,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6723,10 +6192,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             791
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/89.png",
             "large": "https://images.pokemontcg.io/sm1/89_hires.png"
@@ -6776,10 +6242,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6794,10 +6257,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             209
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/90.png",
             "large": "https://images.pokemontcg.io/sm1/90_hires.png"
@@ -6856,10 +6316,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6874,10 +6331,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             210
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/91.png",
             "large": "https://images.pokemontcg.io/sm1/91_hires.png"
@@ -6927,10 +6381,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -6945,10 +6396,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             742
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/92.png",
             "large": "https://images.pokemontcg.io/sm1/92_hires.png"
@@ -7003,10 +6451,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7021,10 +6466,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             743
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/93.png",
             "large": "https://images.pokemontcg.io/sm1/93_hires.png"
@@ -7077,10 +6519,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7095,10 +6534,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/94.png",
             "large": "https://images.pokemontcg.io/sm1/94_hires.png"
@@ -7154,10 +6590,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7172,10 +6605,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/95.png",
             "large": "https://images.pokemontcg.io/sm1/95_hires.png"
@@ -7231,10 +6661,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7249,10 +6676,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/96.png",
             "large": "https://images.pokemontcg.io/sm1/96_hires.png"
@@ -7302,10 +6726,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7320,10 +6741,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             21
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/97.png",
             "large": "https://images.pokemontcg.io/sm1/97_hires.png"
@@ -7380,10 +6798,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7398,10 +6813,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             22
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/98.png",
             "large": "https://images.pokemontcg.io/sm1/98_hires.png"
@@ -7454,10 +6866,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7472,10 +6881,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/99.png",
             "large": "https://images.pokemontcg.io/sm1/99_hires.png"
@@ -7541,10 +6947,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7558,10 +6961,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/100.png",
             "large": "https://images.pokemontcg.io/sm1/100_hires.png"
@@ -7619,10 +7019,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7637,10 +7034,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/101.png",
             "large": "https://images.pokemontcg.io/sm1/101_hires.png"
@@ -7698,10 +7092,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7716,10 +7107,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/101a.png",
             "large": "https://images.pokemontcg.io/sm1/101a_hires.png"
@@ -7760,10 +7148,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7778,10 +7163,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             327
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/102.png",
             "large": "https://images.pokemontcg.io/sm1/102_hires.png"
@@ -7835,10 +7217,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7853,10 +7232,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             506
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/103.png",
             "large": "https://images.pokemontcg.io/sm1/103_hires.png"
@@ -7910,10 +7286,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -7928,10 +7301,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             507
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/104.png",
             "large": "https://images.pokemontcg.io/sm1/104_hires.png"
@@ -7987,10 +7357,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8005,10 +7372,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             508
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/105.png",
             "large": "https://images.pokemontcg.io/sm1/105_hires.png"
@@ -8058,10 +7422,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8076,10 +7437,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             731
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/106.png",
             "large": "https://images.pokemontcg.io/sm1/106_hires.png"
@@ -8130,10 +7488,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8148,10 +7503,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             732
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/107.png",
             "large": "https://images.pokemontcg.io/sm1/107_hires.png"
@@ -8211,10 +7563,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8229,10 +7578,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             733
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/108.png",
             "large": "https://images.pokemontcg.io/sm1/108_hires.png"
@@ -8286,10 +7632,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8304,10 +7647,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             734
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/109.png",
             "large": "https://images.pokemontcg.io/sm1/109_hires.png"
@@ -8371,10 +7711,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8388,10 +7725,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             735
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/110.png",
             "large": "https://images.pokemontcg.io/sm1/110_hires.png"
@@ -8436,10 +7770,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8454,10 +7785,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             759
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/111.png",
             "large": "https://images.pokemontcg.io/sm1/111_hires.png"
@@ -8511,10 +7839,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8529,10 +7854,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             760
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/112.png",
             "large": "https://images.pokemontcg.io/sm1/112_hires.png"
@@ -8582,10 +7904,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8600,10 +7919,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             765
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/113.png",
             "large": "https://images.pokemontcg.io/sm1/113_hires.png"
@@ -8626,10 +7942,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8640,10 +7953,7 @@ let sm1 = [
         "number": "114",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/114.png",
             "large": "https://images.pokemontcg.io/sm1/114_hires.png"
@@ -8666,10 +7976,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8680,11 +7987,7 @@ let sm1 = [
         "number": "115",
         "artist": "Yoshinobu Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/115.png",
             "large": "https://images.pokemontcg.io/sm1/115_hires.png"
@@ -8707,10 +8010,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8721,11 +8021,7 @@ let sm1 = [
         "number": "116",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/116.png",
             "large": "https://images.pokemontcg.io/sm1/116_hires.png"
@@ -8748,10 +8044,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8762,11 +8055,7 @@ let sm1 = [
         "number": "117",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/117.png",
             "large": "https://images.pokemontcg.io/sm1/117_hires.png"
@@ -8790,10 +8079,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8804,11 +8090,7 @@ let sm1 = [
         "number": "118",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/118.png",
             "large": "https://images.pokemontcg.io/sm1/118_hires.png"
@@ -8831,10 +8113,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8845,11 +8124,7 @@ let sm1 = [
         "number": "119",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/119.png",
             "large": "https://images.pokemontcg.io/sm1/119_hires.png"
@@ -8872,10 +8147,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8886,10 +8158,7 @@ let sm1 = [
         "number": "120",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/120.png",
             "large": "https://images.pokemontcg.io/sm1/120_hires.png"
@@ -8912,10 +8181,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8926,10 +8192,7 @@ let sm1 = [
         "number": "121",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/121.png",
             "large": "https://images.pokemontcg.io/sm1/121_hires.png"
@@ -8952,10 +8215,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -8966,10 +8226,7 @@ let sm1 = [
         "number": "122",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/122.png",
             "large": "https://images.pokemontcg.io/sm1/122_hires.png"
@@ -8992,10 +8249,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9006,10 +8260,7 @@ let sm1 = [
         "number": "123",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/123.png",
             "large": "https://images.pokemontcg.io/sm1/123_hires.png"
@@ -9033,10 +8284,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9047,10 +8295,7 @@ let sm1 = [
         "number": "124",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/124.png",
             "large": "https://images.pokemontcg.io/sm1/124_hires.png"
@@ -9073,10 +8318,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9087,11 +8329,7 @@ let sm1 = [
         "number": "125",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/125.png",
             "large": "https://images.pokemontcg.io/sm1/125_hires.png"
@@ -9114,10 +8352,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9128,11 +8363,7 @@ let sm1 = [
         "number": "126",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/126.png",
             "large": "https://images.pokemontcg.io/sm1/126_hires.png"
@@ -9155,10 +8386,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9169,11 +8397,7 @@ let sm1 = [
         "number": "127",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/127.png",
             "large": "https://images.pokemontcg.io/sm1/127_hires.png"
@@ -9196,10 +8420,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9210,10 +8431,7 @@ let sm1 = [
         "number": "128",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/128.png",
             "large": "https://images.pokemontcg.io/sm1/128_hires.png"
@@ -9236,10 +8454,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9250,11 +8465,7 @@ let sm1 = [
         "number": "129",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/129.png",
             "large": "https://images.pokemontcg.io/sm1/129_hires.png"
@@ -9277,10 +8488,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9291,10 +8499,7 @@ let sm1 = [
         "number": "130",
         "artist": "Yoshinobu Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/130.png",
             "large": "https://images.pokemontcg.io/sm1/130_hires.png"
@@ -9317,10 +8522,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9331,10 +8533,7 @@ let sm1 = [
         "number": "131",
         "artist": "5ban Graphics",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/131.png",
             "large": "https://images.pokemontcg.io/sm1/131_hires.png"
@@ -9357,10 +8556,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9371,11 +8567,7 @@ let sm1 = [
         "number": "132",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/132.png",
             "large": "https://images.pokemontcg.io/sm1/132_hires.png"
@@ -9398,10 +8590,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9412,10 +8601,7 @@ let sm1 = [
         "number": "133",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/133.png",
             "large": "https://images.pokemontcg.io/sm1/133_hires.png"
@@ -9438,10 +8624,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9452,10 +8635,7 @@ let sm1 = [
         "number": "134",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/134.png",
             "large": "https://images.pokemontcg.io/sm1/134_hires.png"
@@ -9478,10 +8658,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9492,10 +8669,7 @@ let sm1 = [
         "number": "135",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/135.png",
             "large": "https://images.pokemontcg.io/sm1/135_hires.png"
@@ -9517,10 +8691,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9530,10 +8701,7 @@ let sm1 = [
         },
         "number": "136",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/136.png",
             "large": "https://images.pokemontcg.io/sm1/136_hires.png"
@@ -9555,10 +8723,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9568,10 +8733,7 @@ let sm1 = [
         },
         "number": "137",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/137.png",
             "large": "https://images.pokemontcg.io/sm1/137_hires.png"
@@ -9637,10 +8799,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9654,10 +8813,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             754
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/138.png",
             "large": "https://images.pokemontcg.io/sm1/138_hires.png"
@@ -9724,10 +8880,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9741,10 +8894,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/139.png",
             "large": "https://images.pokemontcg.io/sm1/139_hires.png"
@@ -9812,10 +8962,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9829,10 +8976,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/140.png",
             "large": "https://images.pokemontcg.io/sm1/140_hires.png"
@@ -9905,10 +9049,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -9922,10 +9063,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             792
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/141.png",
             "large": "https://images.pokemontcg.io/sm1/141_hires.png"
@@ -9998,10 +9136,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10015,10 +9150,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/142.png",
             "large": "https://images.pokemontcg.io/sm1/142_hires.png"
@@ -10088,10 +9220,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10105,10 +9234,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             791
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/143.png",
             "large": "https://images.pokemontcg.io/sm1/143_hires.png"
@@ -10174,10 +9300,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10191,10 +9314,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/144.png",
             "large": "https://images.pokemontcg.io/sm1/144_hires.png"
@@ -10258,10 +9378,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10275,10 +9392,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             735
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/145.png",
             "large": "https://images.pokemontcg.io/sm1/145_hires.png"
@@ -10301,10 +9415,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10315,10 +9426,7 @@ let sm1 = [
         "number": "146",
         "artist": "Sanosuke Sakuma",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/146.png",
             "large": "https://images.pokemontcg.io/sm1/146_hires.png"
@@ -10341,10 +9449,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10355,10 +9460,7 @@ let sm1 = [
         "number": "147",
         "artist": "Megumi Mizutani",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/147.png",
             "large": "https://images.pokemontcg.io/sm1/147_hires.png"
@@ -10381,10 +9483,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10395,10 +9494,7 @@ let sm1 = [
         "number": "148",
         "artist": "Megumi Mizutani",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/148.png",
             "large": "https://images.pokemontcg.io/sm1/148_hires.png"
@@ -10421,10 +9517,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10435,10 +9528,7 @@ let sm1 = [
         "number": "149",
         "artist": "Sanosuke Sakuma",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/149.png",
             "large": "https://images.pokemontcg.io/sm1/149_hires.png"
@@ -10504,10 +9594,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10521,10 +9608,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             754
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/150.png",
             "large": "https://images.pokemontcg.io/sm1/150_hires.png"
@@ -10591,10 +9675,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10608,10 +9689,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/151.png",
             "large": "https://images.pokemontcg.io/sm1/151_hires.png"
@@ -10679,10 +9757,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10696,10 +9771,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             196
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/152.png",
             "large": "https://images.pokemontcg.io/sm1/152_hires.png"
@@ -10772,10 +9844,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10789,10 +9858,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             792
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/153.png",
             "large": "https://images.pokemontcg.io/sm1/153_hires.png"
@@ -10865,10 +9931,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10882,10 +9945,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/154.png",
             "large": "https://images.pokemontcg.io/sm1/154_hires.png"
@@ -10955,10 +10015,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -10972,10 +10029,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             791
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/155.png",
             "large": "https://images.pokemontcg.io/sm1/155_hires.png"
@@ -11041,10 +10095,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11058,10 +10109,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/156.png",
             "large": "https://images.pokemontcg.io/sm1/156_hires.png"
@@ -11125,10 +10173,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11142,10 +10187,7 @@ let sm1 = [
         "nationalPokedexNumbers": [
             735
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/157.png",
             "large": "https://images.pokemontcg.io/sm1/157_hires.png"
@@ -11168,10 +10210,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11182,10 +10221,7 @@ let sm1 = [
         "number": "158",
         "artist": "Toyste Beach",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/158.png",
             "large": "https://images.pokemontcg.io/sm1/158_hires.png"
@@ -11208,10 +10244,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11222,10 +10255,7 @@ let sm1 = [
         "number": "159",
         "artist": "5ban Graphics",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/159.png",
             "large": "https://images.pokemontcg.io/sm1/159_hires.png"
@@ -11248,10 +10278,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11262,11 +10289,7 @@ let sm1 = [
         "number": "160",
         "artist": "Ryo Ueda",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/160.png",
             "large": "https://images.pokemontcg.io/sm1/160_hires.png"
@@ -11289,10 +10312,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11303,10 +10323,7 @@ let sm1 = [
         "number": "161",
         "artist": "Ryo Ueda",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/161.png",
             "large": "https://images.pokemontcg.io/sm1/161_hires.png"
@@ -11325,10 +10342,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11338,11 +10352,7 @@ let sm1 = [
         },
         "number": "162",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/162.png",
             "large": "https://images.pokemontcg.io/sm1/162_hires.png"
@@ -11361,10 +10371,7 @@ let sm1 = [
             "series": "Sun & Moon",
             "printedTotal": 149,
             "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "SUM",
             "releaseDate": "2017/02/03",
             "images": {
@@ -11374,11 +10381,7 @@ let sm1 = [
         },
         "number": "163",
         "rarity": "Rare Secret",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/sm1/163.png",
             "large": "https://images.pokemontcg.io/sm1/163_hires.png"

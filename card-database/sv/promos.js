@@ -37,11 +37,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -57,11 +53,6 @@ let svp = [
         "nationalPokedexNumbers": [
             906
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/1.png",
@@ -109,11 +100,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -129,11 +116,6 @@ let svp = [
         "nationalPokedexNumbers": [
             909
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/2.png",
@@ -184,11 +166,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -204,11 +182,6 @@ let svp = [
         "nationalPokedexNumbers": [
             922
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/6.png",
@@ -266,11 +239,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -286,11 +255,6 @@ let svp = [
         "nationalPokedexNumbers": [
             956
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/10.png",
@@ -344,11 +308,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -364,11 +324,6 @@ let svp = [
         "nationalPokedexNumbers": [
             701
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/7.png",
@@ -425,11 +380,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -445,11 +396,6 @@ let svp = [
         "nationalPokedexNumbers": [
             1008
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/13.png",
@@ -512,11 +458,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -532,11 +474,6 @@ let svp = [
         "nationalPokedexNumbers": [
             966
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/8.png",
@@ -594,11 +531,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -614,11 +547,6 @@ let svp = [
         "nationalPokedexNumbers": [
             918
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/9.png",
@@ -678,11 +606,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -698,11 +622,6 @@ let svp = [
         "nationalPokedexNumbers": [
             59
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/11.png",
@@ -748,11 +667,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -768,11 +683,6 @@ let svp = [
         "nationalPokedexNumbers": [
             912
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/3.png",
@@ -828,11 +738,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -848,11 +754,6 @@ let svp = [
         "nationalPokedexNumbers": [
             914
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/5.png",
@@ -912,11 +813,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -931,11 +828,6 @@ let svp = [
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/4.png",
@@ -995,11 +887,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -1015,11 +903,6 @@ let svp = [
         "nationalPokedexNumbers": [
             1007
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/14.png",
@@ -1081,11 +964,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -1101,11 +980,6 @@ let svp = [
         "nationalPokedexNumbers": [
             977
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/12.png",
@@ -1163,11 +1037,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -1183,11 +1053,6 @@ let svp = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/15.png",
@@ -1250,11 +1115,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -1269,11 +1130,6 @@ let svp = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/17.png",
@@ -1335,11 +1191,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -1354,11 +1206,6 @@ let svp = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/16.png",
@@ -1418,11 +1265,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -1437,11 +1280,6 @@ let svp = [
         "nationalPokedexNumbers": [
             967
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/18.png",
@@ -1503,11 +1341,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -1523,11 +1357,6 @@ let svp = [
         "nationalPokedexNumbers": [
             279
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/22.png",
@@ -1583,11 +1412,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -1603,11 +1428,6 @@ let svp = [
         "nationalPokedexNumbers": [
             998
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/19.png",
@@ -1662,11 +1482,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -1682,11 +1498,6 @@ let svp = [
         "nationalPokedexNumbers": [
             959
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/20.png",
@@ -1749,11 +1560,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -1769,11 +1576,6 @@ let svp = [
         "nationalPokedexNumbers": [
             198
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/21.png",
@@ -1828,11 +1630,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -1848,11 +1646,6 @@ let svp = [
         "nationalPokedexNumbers": [
             928
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/23.png",
@@ -1898,11 +1691,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -1918,11 +1707,6 @@ let svp = [
         "nationalPokedexNumbers": [
             957
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/25.png",
@@ -1972,11 +1756,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -1992,11 +1772,6 @@ let svp = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/27.png",
@@ -2055,11 +1830,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -2074,11 +1845,6 @@ let svp = [
         "nationalPokedexNumbers": [
             1007
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/29.png",
@@ -2139,11 +1905,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -2159,11 +1921,6 @@ let svp = [
         "nationalPokedexNumbers": [
             58
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/24.png",
@@ -2214,11 +1971,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -2234,11 +1987,6 @@ let svp = [
         "nationalPokedexNumbers": [
             965
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/26.png",
@@ -2296,11 +2044,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -2315,11 +2059,6 @@ let svp = [
         "nationalPokedexNumbers": [
             1008
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/28.png",
@@ -2377,11 +2116,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -2396,11 +2131,6 @@ let svp = [
         "nationalPokedexNumbers": [
             1002
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/30.png",
@@ -2463,11 +2193,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -2482,11 +2208,6 @@ let svp = [
         "nationalPokedexNumbers": [
             959
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/31.png",
@@ -2547,11 +2268,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -2566,11 +2283,6 @@ let svp = [
         "nationalPokedexNumbers": [
             979
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/32.png",
@@ -2627,11 +2339,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -2647,11 +2355,6 @@ let svp = [
         "nationalPokedexNumbers": [
             964
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/36.png",
@@ -2693,11 +2396,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -2713,11 +2412,6 @@ let svp = [
         "nationalPokedexNumbers": [
             173
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/37.png",
@@ -2767,11 +2461,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -2787,11 +2477,6 @@ let svp = [
         "nationalPokedexNumbers": [
             468
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/38.png",
@@ -2851,11 +2536,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -2871,11 +2552,6 @@ let svp = [
         "nationalPokedexNumbers": [
             303
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/39.png",
@@ -2921,11 +2597,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -2941,11 +2613,6 @@ let svp = [
         "nationalPokedexNumbers": [
             921
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/40.png",
@@ -3004,11 +2671,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -3024,11 +2687,6 @@ let svp = [
         "nationalPokedexNumbers": [
             194
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/41.png",
@@ -3094,11 +2752,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -3114,11 +2768,6 @@ let svp = [
         "nationalPokedexNumbers": [
             972
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/42.png",
@@ -3184,11 +2833,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -3204,11 +2849,6 @@ let svp = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/43.png",
@@ -3256,11 +2896,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -3276,11 +2912,6 @@ let svp = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/44.png",
@@ -3304,11 +2935,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -3320,11 +2947,7 @@ let svp = [
         "number": "45",
         "artist": "Naoki Saito",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/45.png",
@@ -3383,11 +3006,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -3402,11 +3021,6 @@ let svp = [
         "nationalPokedexNumbers": [
             908
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/33.png",
@@ -3468,11 +3082,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -3487,11 +3097,6 @@ let svp = [
         "nationalPokedexNumbers": [
             911
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/34.png",
@@ -3539,11 +3144,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -3559,11 +3160,6 @@ let svp = [
         "nationalPokedexNumbers": [
             1
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/46.png",
@@ -3609,11 +3205,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -3629,11 +3221,6 @@ let svp = [
         "nationalPokedexNumbers": [
             4
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/47.png",
@@ -3697,11 +3284,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -3717,11 +3300,6 @@ let svp = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/52.png",
@@ -3768,11 +3346,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -3788,11 +3362,6 @@ let svp = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/48.png",
@@ -3852,11 +3421,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -3871,11 +3436,6 @@ let svp = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/53.png",
@@ -3935,11 +3495,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -3954,11 +3510,6 @@ let svp = [
         "nationalPokedexNumbers": [
             658
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/54.png",
@@ -4005,11 +3556,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -4025,11 +3572,6 @@ let svp = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/101.png",
@@ -4090,11 +3632,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -4109,11 +3647,6 @@ let svp = [
         "nationalPokedexNumbers": [
             914
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/35.png",
@@ -4180,11 +3713,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -4199,11 +3728,6 @@ let svp = [
         "nationalPokedexNumbers": [
             65
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/50.png",
@@ -4264,11 +3788,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -4283,11 +3803,6 @@ let svp = [
         "nationalPokedexNumbers": [
             115
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/55.png",
@@ -4352,11 +3867,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -4371,11 +3882,6 @@ let svp = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/49.png",
@@ -4432,11 +3938,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -4452,11 +3954,6 @@ let svp = [
         "nationalPokedexNumbers": [
             143
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/51.png",
@@ -4511,11 +4008,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -4531,11 +4024,6 @@ let svp = [
         "nationalPokedexNumbers": [
             1004
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/57.png",
@@ -4585,11 +4073,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -4605,11 +4089,6 @@ let svp = [
         "nationalPokedexNumbers": [
             204
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/61.png",
@@ -4670,11 +4149,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -4690,11 +4165,6 @@ let svp = [
         "nationalPokedexNumbers": [
             178
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/59.png",
@@ -4748,11 +4218,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -4768,11 +4234,6 @@ let svp = [
         "nationalPokedexNumbers": [
             854
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/62.png",
@@ -4833,11 +4294,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -4852,11 +4309,6 @@ let svp = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/56.png",
@@ -4911,11 +4363,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -4931,11 +4379,6 @@ let svp = [
         "nationalPokedexNumbers": [
             991
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/58.png",
@@ -4997,11 +4440,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -5017,11 +4456,6 @@ let svp = [
         "nationalPokedexNumbers": [
             681
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/60.png",
@@ -5081,11 +4515,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -5101,11 +4531,6 @@ let svp = [
         "nationalPokedexNumbers": [
             975
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/63.png",
@@ -5157,11 +4582,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -5176,11 +4597,6 @@ let svp = [
         "nationalPokedexNumbers": [
             971
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/70.png",
@@ -5242,11 +4658,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -5262,11 +4674,6 @@ let svp = [
         "nationalPokedexNumbers": [
             985
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/65.png",
@@ -5319,11 +4726,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -5338,11 +4741,6 @@ let svp = [
         "nationalPokedexNumbers": [
             778
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/75.png",
@@ -5406,11 +4804,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -5425,11 +4819,6 @@ let svp = [
         "nationalPokedexNumbers": [
             1005
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/67.png",
@@ -5488,11 +4877,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -5508,11 +4893,6 @@ let svp = [
         "nationalPokedexNumbers": [
             997
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/64.png",
@@ -5572,11 +4952,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -5591,11 +4967,6 @@ let svp = [
         "nationalPokedexNumbers": [
             1006
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/68.png",
@@ -5650,11 +5021,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -5670,11 +5037,6 @@ let svp = [
         "nationalPokedexNumbers": [
             991
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/66.png",
@@ -5720,11 +5082,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -5739,11 +5097,6 @@ let svp = [
         "nationalPokedexNumbers": [
             926
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/69.png",
@@ -5788,11 +5141,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -5807,11 +5156,6 @@ let svp = [
         "nationalPokedexNumbers": [
             942
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/svp/71.png",
@@ -5855,11 +5199,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -5875,15 +5215,10 @@ let svp = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/svp/85.png",
-            "large": "https://images.pokemontcg.io/svp/85_hires.png"
+            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_085_std.jpg?w=733&ssl=1",
+            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_085_std.jpg?fit=733%2C1024&ssl=1"
         }
     },
     {
@@ -5934,11 +5269,7 @@ let svp = [
             "series": "Scarlet & Violet",
             "printedTotal": 102,
             "total": 75,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
             "updatedAt": "2023/09/07 23:15:00",
@@ -5954,15 +5285,10 @@ let svp = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/svp/102.png",
-            "large": "https://images.pokemontcg.io/svp/102_hires.png"
+            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_102_std.jpg?w=733&ssl=1",
+            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_102_std.jpg?fit=733%2C1024&ssl=1"
         }
     }
 ]

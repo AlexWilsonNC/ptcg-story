@@ -56,11 +56,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -75,11 +71,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             250
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/1.png",
@@ -172,11 +163,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -191,11 +178,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/2.png",
@@ -290,11 +272,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -309,11 +287,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/3.png",
@@ -402,11 +375,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -421,11 +390,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/4.png",
@@ -517,11 +481,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -536,11 +496,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/5.png",
@@ -639,11 +594,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -658,11 +609,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/6.png",
@@ -752,11 +698,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -771,11 +713,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/7.png",
@@ -863,11 +800,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -882,11 +815,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/8.png",
@@ -974,11 +902,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -993,11 +917,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/9.png",
@@ -1090,11 +1009,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -1109,11 +1024,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/10.png",
@@ -1206,11 +1116,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -1225,11 +1131,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/11.png",
@@ -1321,11 +1222,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -1340,11 +1237,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             716
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/12.png",
@@ -1432,11 +1324,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -1451,11 +1339,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             789
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/13.png",
@@ -1547,11 +1430,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -1566,11 +1445,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             790
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/14.png",
@@ -1669,11 +1543,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -1688,11 +1558,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             792
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/15.png",
@@ -1785,11 +1650,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -1804,11 +1665,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             888
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/16.png",
@@ -1903,11 +1759,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -1922,11 +1774,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/17.png",
@@ -2019,11 +1866,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -2038,11 +1881,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             889
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/18.png",
@@ -2140,11 +1978,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -2159,11 +1993,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             717
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/19.png",
@@ -2260,11 +2089,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -2279,11 +2104,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/20.png",
@@ -2378,11 +2198,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -2397,11 +2213,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             791
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/21.png",
@@ -2500,11 +2311,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -2519,11 +2326,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             249
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/22.png",
@@ -2581,11 +2383,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -2597,11 +2395,7 @@ let cel25 = [
         "number": "23",
         "artist": "KIYOTAKA OSHIYAMA",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/23.png",
@@ -2659,11 +2453,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -2675,11 +2465,7 @@ let cel25 = [
         "number": "24",
         "artist": "Ken Sugimori",
         "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "regulationMark": "D",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/24.png",
@@ -2772,11 +2558,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -2791,11 +2573,6 @@ let cel25 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "regulationMark": "E",
         "images": {
             "small": "https://images.pokemontcg.io/cel25/25.png",
@@ -2887,9 +2664,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -2905,9 +2680,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/2_A.png",
             "large": "https://images.pokemontcg.io/cel25c/2_A_hires.png"
@@ -2984,9 +2757,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -3002,9 +2773,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             6
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/4_A.png",
             "large": "https://images.pokemontcg.io/cel25c/4_A_hires.png"
@@ -3074,9 +2843,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -3092,9 +2859,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             3
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/15_A.png",
             "large": "https://images.pokemontcg.io/cel25c/15_A_hires.png"
@@ -3126,9 +2891,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -3140,9 +2903,7 @@ let cel25 = [
         "number": "15",
         "artist": "Ken Sugimori",
         "rarity": "Classic Collection",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/15_B.png",
             "large": "https://images.pokemontcg.io/cel25c/15_B_hires.png"
@@ -3213,9 +2974,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -3230,9 +2989,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/15_C.png",
             "large": "https://images.pokemontcg.io/cel25c/15_C_hires.png"
@@ -3300,9 +3057,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -3317,9 +3072,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             344
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/15_D.png",
             "large": "https://images.pokemontcg.io/cel25c/15_D_hires.png"
@@ -3351,9 +3104,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -3365,9 +3116,7 @@ let cel25 = [
         "number": "73",
         "artist": "Ken Sugimori",
         "rarity": "Classic Collection",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/73_A.png",
             "large": "https://images.pokemontcg.io/cel25c/73_A_hires.png"
@@ -3442,9 +3191,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -3460,9 +3207,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/8_A.png",
             "large": "https://images.pokemontcg.io/cel25c/8_A_hires.png"
@@ -3521,9 +3266,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -3539,9 +3282,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/24_A.png",
             "large": "https://images.pokemontcg.io/cel25c/24_A_hires.png"
@@ -3595,9 +3336,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -3613,9 +3352,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             173
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/20_A.png",
             "large": "https://images.pokemontcg.io/cel25c/20_A_hires.png"
@@ -3688,9 +3425,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -3706,9 +3441,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/66_A.png",
             "large": "https://images.pokemontcg.io/cel25c/66_A_hires.png"
@@ -3790,9 +3523,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -3807,9 +3538,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/9_A.png",
             "large": "https://images.pokemontcg.io/cel25c/9_A_hires.png"
@@ -3845,9 +3574,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -3859,9 +3586,7 @@ let cel25 = [
         "number": "86",
         "artist": "Ken Sugimori",
         "rarity": "Classic Collection",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/86_A.png",
             "large": "https://images.pokemontcg.io/cel25c/86_A_hires.png"
@@ -3930,9 +3655,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -3947,9 +3670,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/88_A.png",
             "large": "https://images.pokemontcg.io/cel25c/88_A_hires.png"
@@ -4021,9 +3742,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -4038,9 +3757,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/93_A.png",
             "large": "https://images.pokemontcg.io/cel25c/93_A_hires.png"
@@ -4115,9 +3832,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -4132,9 +3847,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             197
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/17_A.png",
             "large": "https://images.pokemontcg.io/cel25c/17_A_hires.png"
@@ -4207,9 +3920,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -4224,9 +3935,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             405
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/109_A.png",
             "large": "https://images.pokemontcg.io/cel25c/109_A_hires.png"
@@ -4294,9 +4003,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -4311,9 +4018,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             445
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/145_A.png",
             "large": "https://images.pokemontcg.io/cel25c/145_A_hires.png"
@@ -4399,9 +4104,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -4416,9 +4119,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             232
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/107_A.png",
             "large": "https://images.pokemontcg.io/cel25c/107_A_hires.png"
@@ -4488,9 +4189,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -4506,10 +4205,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             643
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/113_A.png",
             "large": "https://images.pokemontcg.io/cel25c/113_A_hires.png"
@@ -4579,9 +4275,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -4597,10 +4291,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             644
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/114_A.png",
             "large": "https://images.pokemontcg.io/cel25c/114_A_hires.png"
@@ -4674,9 +4365,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -4691,10 +4380,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/54_A.png",
             "large": "https://images.pokemontcg.io/cel25c/54_A_hires.png"
@@ -4776,9 +4462,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -4793,10 +4477,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             716
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/97_A.png",
             "large": "https://images.pokemontcg.io/cel25c/97_A_hires.png"
@@ -4871,9 +4552,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -4888,10 +4567,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/76_A.png",
             "large": "https://images.pokemontcg.io/cel25c/76_A_hires.png"
@@ -4963,9 +4639,7 @@ let cel25 = [
             "series": "Sword & Shield",
             "printedTotal": 25,
             "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "CEL",
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
@@ -4980,10 +4654,7 @@ let cel25 = [
         "nationalPokedexNumbers": [
             786
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/cel25c/60_A.png",
             "large": "https://images.pokemontcg.io/cel25c/60_A_hires.png"

@@ -42,9 +42,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -59,9 +57,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/1.png",
             "large": "https://images.pokemontcg.io/dp6/1_hires.png"
@@ -123,9 +119,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -140,9 +134,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/2.png",
             "large": "https://images.pokemontcg.io/dp6/2_hires.png"
@@ -194,9 +186,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -211,9 +201,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             478
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/3.png",
             "large": "https://images.pokemontcg.io/dp6/3_hires.png"
@@ -273,9 +261,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -290,9 +276,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/4.png",
             "large": "https://images.pokemontcg.io/dp6/4_hires.png"
@@ -348,9 +332,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -365,9 +347,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             472
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/5.png",
             "large": "https://images.pokemontcg.io/dp6/5_hires.png"
@@ -418,9 +398,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -435,9 +413,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/6.png",
             "large": "https://images.pokemontcg.io/dp6/6_hires.png"
@@ -486,9 +462,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -503,9 +477,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             230
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/7.png",
             "large": "https://images.pokemontcg.io/dp6/7_hires.png"
@@ -571,9 +543,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -588,9 +558,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             405
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/8.png",
             "large": "https://images.pokemontcg.io/dp6/8_hires.png"
@@ -652,9 +620,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -669,9 +635,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             473
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/9.png",
             "large": "https://images.pokemontcg.io/dp6/9_hires.png"
@@ -728,9 +692,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -745,9 +707,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             376
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/10.png",
             "large": "https://images.pokemontcg.io/dp6/10_hires.png"
@@ -799,9 +759,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -816,9 +774,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/11.png",
             "large": "https://images.pokemontcg.io/dp6/11_hires.png"
@@ -868,9 +824,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -885,9 +839,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             186
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/12.png",
             "large": "https://images.pokemontcg.io/dp6/12_hires.png"
@@ -938,9 +890,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -955,9 +905,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             476
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/13.png",
             "large": "https://images.pokemontcg.io/dp6/13_hires.png"
@@ -1014,9 +962,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1031,9 +977,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/14.png",
             "large": "https://images.pokemontcg.io/dp6/14_hires.png"
@@ -1084,9 +1028,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1101,9 +1043,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/15.png",
             "large": "https://images.pokemontcg.io/dp6/15_hires.png"
@@ -1151,9 +1091,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1168,9 +1106,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             442
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/16.png",
             "large": "https://images.pokemontcg.io/dp6/16_hires.png"
@@ -1227,9 +1163,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1244,9 +1178,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             469
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/17.png",
             "large": "https://images.pokemontcg.io/dp6/17_hires.png"
@@ -1297,9 +1229,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1314,9 +1244,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             348
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/18.png",
             "large": "https://images.pokemontcg.io/dp6/18_hires.png"
@@ -1364,9 +1292,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1381,9 +1307,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             482
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/19.png",
             "large": "https://images.pokemontcg.io/dp6/19_hires.png"
@@ -1441,9 +1365,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1458,9 +1380,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             182
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/20.png",
             "large": "https://images.pokemontcg.io/dp6/20_hires.png"
@@ -1513,9 +1433,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1530,9 +1448,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             346
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/21.png",
             "large": "https://images.pokemontcg.io/dp6/21_hires.png"
@@ -1592,9 +1508,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1609,9 +1523,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             342
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/22.png",
             "large": "https://images.pokemontcg.io/dp6/22_hires.png"
@@ -1660,9 +1572,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1677,9 +1587,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/23.png",
             "large": "https://images.pokemontcg.io/dp6/23_hires.png"
@@ -1729,9 +1637,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1746,9 +1652,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/24.png",
             "large": "https://images.pokemontcg.io/dp6/24_hires.png"
@@ -1798,9 +1702,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1815,9 +1717,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/25.png",
             "large": "https://images.pokemontcg.io/dp6/25_hires.png"
@@ -1865,9 +1765,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1882,9 +1780,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             386
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/26.png",
             "large": "https://images.pokemontcg.io/dp6/26_hires.png"
@@ -1921,9 +1817,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -1938,9 +1832,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             132
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/27.png",
             "large": "https://images.pokemontcg.io/dp6/27_hires.png"
@@ -1998,9 +1890,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2015,9 +1905,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             205
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/28.png",
             "large": "https://images.pokemontcg.io/dp6/28_hires.png"
@@ -2073,9 +1961,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2090,9 +1976,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/29.png",
             "large": "https://images.pokemontcg.io/dp6/29_hires.png"
@@ -2142,9 +2026,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2159,9 +2041,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             485
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/30.png",
             "large": "https://images.pokemontcg.io/dp6/30_hires.png"
@@ -2216,9 +2096,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2233,9 +2111,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/31.png",
             "large": "https://images.pokemontcg.io/dp6/31_hires.png"
@@ -2285,9 +2161,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2302,9 +2176,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/32.png",
             "large": "https://images.pokemontcg.io/dp6/32_hires.png"
@@ -2361,9 +2233,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2378,9 +2248,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             428
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/33.png",
             "large": "https://images.pokemontcg.io/dp6/33_hires.png"
@@ -2429,9 +2297,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2446,9 +2312,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             481
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/34.png",
             "large": "https://images.pokemontcg.io/dp6/34_hires.png"
@@ -2501,9 +2365,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2518,9 +2380,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             62
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/35.png",
             "large": "https://images.pokemontcg.io/dp6/35_hires.png"
@@ -2570,9 +2430,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2587,9 +2445,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             378
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/36.png",
             "large": "https://images.pokemontcg.io/dp6/36_hires.png"
@@ -2639,9 +2495,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2656,9 +2510,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             486
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/37.png",
             "large": "https://images.pokemontcg.io/dp6/37_hires.png"
@@ -2708,9 +2560,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2725,9 +2575,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             377
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/38.png",
             "large": "https://images.pokemontcg.io/dp6/38_hires.png"
@@ -2783,9 +2631,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2800,9 +2646,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             379
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/39.png",
             "large": "https://images.pokemontcg.io/dp6/39_hires.png"
@@ -2844,9 +2688,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2861,9 +2703,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             292
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/40.png",
             "large": "https://images.pokemontcg.io/dp6/40_hires.png"
@@ -2912,9 +2752,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2929,9 +2767,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/41.png",
             "large": "https://images.pokemontcg.io/dp6/41_hires.png"
@@ -2979,9 +2815,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -2996,9 +2830,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/42.png",
             "large": "https://images.pokemontcg.io/dp6/42_hires.png"
@@ -3046,9 +2878,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3063,9 +2893,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             480
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/43.png",
             "large": "https://images.pokemontcg.io/dp6/43_hires.png"
@@ -3116,9 +2944,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3133,9 +2959,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             71
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/44.png",
             "large": "https://images.pokemontcg.io/dp6/44_hires.png"
@@ -3186,9 +3010,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3203,9 +3025,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             45
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/45.png",
             "large": "https://images.pokemontcg.io/dp6/45_hires.png"
@@ -3260,9 +3080,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3277,9 +3095,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             347
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/46.png",
             "large": "https://images.pokemontcg.io/dp6/46_hires.png"
@@ -3333,9 +3149,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3350,9 +3164,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             323
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/47.png",
             "large": "https://images.pokemontcg.io/dp6/47_hires.png"
@@ -3401,9 +3213,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3418,9 +3228,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/48.png",
             "large": "https://images.pokemontcg.io/dp6/48_hires.png"
@@ -3469,9 +3277,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3486,9 +3292,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/49.png",
             "large": "https://images.pokemontcg.io/dp6/49_hires.png"
@@ -3537,9 +3341,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3554,9 +3356,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/50.png",
             "large": "https://images.pokemontcg.io/dp6/50_hires.png"
@@ -3605,9 +3405,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3622,9 +3420,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             351
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/51.png",
             "large": "https://images.pokemontcg.io/dp6/51_hires.png"
@@ -3681,9 +3477,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3698,9 +3492,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/52.png",
             "large": "https://images.pokemontcg.io/dp6/52_hires.png"
@@ -3758,9 +3550,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3775,9 +3565,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             426
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/53.png",
             "large": "https://images.pokemontcg.io/dp6/53_hires.png"
@@ -3826,9 +3614,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3843,9 +3629,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             103
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/54.png",
             "large": "https://images.pokemontcg.io/dp6/54_hires.png"
@@ -3903,9 +3687,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3920,9 +3702,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             472
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/55.png",
             "large": "https://images.pokemontcg.io/dp6/55_hires.png"
@@ -3972,9 +3752,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -3989,9 +3767,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             326
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/56.png",
             "large": "https://images.pokemontcg.io/dp6/56_hires.png"
@@ -4050,9 +3826,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4067,9 +3841,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/57.png",
             "large": "https://images.pokemontcg.io/dp6/57_hires.png"
@@ -4122,9 +3894,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4139,9 +3909,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/58.png",
             "large": "https://images.pokemontcg.io/dp6/58_hires.png"
@@ -4194,9 +3962,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4211,9 +3977,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             171
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/59.png",
             "large": "https://images.pokemontcg.io/dp6/59_hires.png"
@@ -4271,9 +4035,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4288,9 +4050,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             166
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/60.png",
             "large": "https://images.pokemontcg.io/dp6/60_hires.png"
@@ -4343,9 +4103,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4360,9 +4118,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/61.png",
             "large": "https://images.pokemontcg.io/dp6/61_hires.png"
@@ -4425,9 +4181,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4442,9 +4196,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             404
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/62.png",
             "large": "https://images.pokemontcg.io/dp6/62_hires.png"
@@ -4502,9 +4254,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4519,9 +4269,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             105
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/63.png",
             "large": "https://images.pokemontcg.io/dp6/63_hires.png"
@@ -4584,9 +4332,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4601,9 +4347,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/64.png",
             "large": "https://images.pokemontcg.io/dp6/64_hires.png"
@@ -4666,9 +4410,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4683,9 +4425,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/65.png",
             "large": "https://images.pokemontcg.io/dp6/65_hires.png"
@@ -4743,9 +4483,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4760,9 +4498,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/66.png",
             "large": "https://images.pokemontcg.io/dp6/66_hires.png"
@@ -4819,9 +4555,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4836,9 +4570,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             291
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/67.png",
             "large": "https://images.pokemontcg.io/dp6/67_hires.png"
@@ -4890,9 +4622,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4907,9 +4637,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             53
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/68.png",
             "large": "https://images.pokemontcg.io/dp6/68_hires.png"
@@ -4973,9 +4701,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -4990,9 +4716,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             221
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/69.png",
             "large": "https://images.pokemontcg.io/dp6/69_hires.png"
@@ -5048,9 +4772,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5065,9 +4787,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             117
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/70.png",
             "large": "https://images.pokemontcg.io/dp6/70_hires.png"
@@ -5117,9 +4837,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5134,9 +4852,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             121
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/71.png",
             "large": "https://images.pokemontcg.io/dp6/71_hires.png"
@@ -5190,9 +4906,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5207,9 +4921,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             317
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/72.png",
             "large": "https://images.pokemontcg.io/dp6/72_hires.png"
@@ -5265,9 +4977,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5282,9 +4992,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             277
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/73.png",
             "large": "https://images.pokemontcg.io/dp6/73_hires.png"
@@ -5337,9 +5045,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5354,9 +5060,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/74.png",
             "large": "https://images.pokemontcg.io/dp6/74_hires.png"
@@ -5407,9 +5111,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5424,9 +5126,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             73
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/75.png",
             "large": "https://images.pokemontcg.io/dp6/75_hires.png"
@@ -5474,9 +5174,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5491,9 +5189,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/76.png",
             "large": "https://images.pokemontcg.io/dp6/76_hires.png"
@@ -5539,9 +5235,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5556,9 +5250,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/77.png",
             "large": "https://images.pokemontcg.io/dp6/77_hires.png"
@@ -5606,9 +5298,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5623,9 +5313,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/78.png",
             "large": "https://images.pokemontcg.io/dp6/78_hires.png"
@@ -5673,9 +5361,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5690,9 +5376,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/79.png",
             "large": "https://images.pokemontcg.io/dp6/79_hires.png"
@@ -5742,9 +5426,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5759,9 +5441,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/80.png",
             "large": "https://images.pokemontcg.io/dp6/80_hires.png"
@@ -5810,9 +5490,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5827,9 +5505,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/81.png",
             "large": "https://images.pokemontcg.io/dp6/81_hires.png"
@@ -5875,9 +5551,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5892,9 +5566,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             201
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/82.png",
             "large": "https://images.pokemontcg.io/dp6/82_hires.png"
@@ -5952,9 +5624,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -5969,9 +5639,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/83.png",
             "large": "https://images.pokemontcg.io/dp6/83_hires.png"
@@ -6031,9 +5699,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6048,9 +5714,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/84.png",
             "large": "https://images.pokemontcg.io/dp6/84_hires.png"
@@ -6103,9 +5767,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6120,9 +5782,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             69
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/85.png",
             "large": "https://images.pokemontcg.io/dp6/85_hires.png"
@@ -6176,9 +5836,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6193,9 +5851,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             427
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/86.png",
             "large": "https://images.pokemontcg.io/dp6/86_hires.png"
@@ -6248,9 +5904,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6265,9 +5919,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/87.png",
             "large": "https://images.pokemontcg.io/dp6/87_hires.png"
@@ -6321,9 +5973,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6338,9 +5988,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             170
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/88.png",
             "large": "https://images.pokemontcg.io/dp6/88_hires.png"
@@ -6394,9 +6042,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6411,9 +6057,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             341
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/89.png",
             "large": "https://images.pokemontcg.io/dp6/89_hires.png"
@@ -6473,9 +6117,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6490,9 +6132,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             104
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/90.png",
             "large": "https://images.pokemontcg.io/dp6/90_hires.png"
@@ -6546,9 +6186,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6563,9 +6201,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/91.png",
             "large": "https://images.pokemontcg.io/dp6/91_hires.png"
@@ -6625,9 +6261,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6642,9 +6276,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             425
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/92.png",
             "large": "https://images.pokemontcg.io/dp6/92_hires.png"
@@ -6697,9 +6329,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6714,9 +6344,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             102
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/93.png",
             "large": "https://images.pokemontcg.io/dp6/93_hires.png"
@@ -6773,9 +6401,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6790,9 +6416,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             207
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/94.png",
             "large": "https://images.pokemontcg.io/dp6/94_hires.png"
@@ -6852,9 +6476,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6869,9 +6491,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             207
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/95.png",
             "large": "https://images.pokemontcg.io/dp6/95_hires.png"
@@ -6927,9 +6547,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -6944,9 +6562,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/96.png",
             "large": "https://images.pokemontcg.io/dp6/96_hires.png"
@@ -7000,9 +6616,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7017,9 +6631,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             44
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/97.png",
             "large": "https://images.pokemontcg.io/dp6/97_hires.png"
@@ -7072,9 +6684,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7089,9 +6699,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             316
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/98.png",
             "large": "https://images.pokemontcg.io/dp6/98_hires.png"
@@ -7142,9 +6750,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7159,9 +6765,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/99.png",
             "large": "https://images.pokemontcg.io/dp6/99_hires.png"
@@ -7214,9 +6818,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7231,9 +6833,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             106
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/100.png",
             "large": "https://images.pokemontcg.io/dp6/100_hires.png"
@@ -7286,9 +6886,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7303,9 +6901,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             237
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/101.png",
             "large": "https://images.pokemontcg.io/dp6/101_hires.png"
@@ -7358,9 +6954,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7375,9 +6969,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             116
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/102.png",
             "large": "https://images.pokemontcg.io/dp6/102_hires.png"
@@ -7436,9 +7028,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7453,9 +7043,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             228
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/103.png",
             "large": "https://images.pokemontcg.io/dp6/103_hires.png"
@@ -7515,9 +7103,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7532,9 +7118,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             165
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/104.png",
             "large": "https://images.pokemontcg.io/dp6/104_hires.png"
@@ -7589,9 +7173,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7606,9 +7188,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             345
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/105.png",
             "large": "https://images.pokemontcg.io/dp6/105_hires.png"
@@ -7662,9 +7242,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7679,9 +7257,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/106.png",
             "large": "https://images.pokemontcg.io/dp6/106_hires.png"
@@ -7738,9 +7314,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7755,9 +7329,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/107.png",
             "large": "https://images.pokemontcg.io/dp6/107_hires.png"
@@ -7810,9 +7382,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7827,9 +7397,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             290
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/108.png",
             "large": "https://images.pokemontcg.io/dp6/108_hires.png"
@@ -7883,9 +7451,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7900,9 +7466,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             299
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/109.png",
             "large": "https://images.pokemontcg.io/dp6/109_hires.png"
@@ -7957,9 +7521,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -7974,9 +7536,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             322
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/110.png",
             "large": "https://images.pokemontcg.io/dp6/110_hires.png"
@@ -8029,9 +7589,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8046,9 +7604,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/111.png",
             "large": "https://images.pokemontcg.io/dp6/111_hires.png"
@@ -8102,9 +7658,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8119,9 +7673,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             43
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/112.png",
             "large": "https://images.pokemontcg.io/dp6/112_hires.png"
@@ -8175,9 +7727,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8192,9 +7742,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             204
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/113.png",
             "large": "https://images.pokemontcg.io/dp6/113_hires.png"
@@ -8247,9 +7795,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8264,9 +7810,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             60
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/114.png",
             "large": "https://images.pokemontcg.io/dp6/114_hires.png"
@@ -8324,9 +7868,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8341,9 +7883,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             61
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/115.png",
             "large": "https://images.pokemontcg.io/dp6/115_hires.png"
@@ -8403,9 +7943,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8420,9 +7958,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/116.png",
             "large": "https://images.pokemontcg.io/dp6/116_hires.png"
@@ -8476,9 +8012,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8493,9 +8027,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/117.png",
             "large": "https://images.pokemontcg.io/dp6/117_hires.png"
@@ -8555,9 +8087,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8572,9 +8102,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             403
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/118.png",
             "large": "https://images.pokemontcg.io/dp6/118_hires.png"
@@ -8627,9 +8155,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8644,9 +8170,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/119.png",
             "large": "https://images.pokemontcg.io/dp6/119_hires.png"
@@ -8706,9 +8230,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8723,9 +8245,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             215
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/120.png",
             "large": "https://images.pokemontcg.io/dp6/120_hires.png"
@@ -8779,9 +8299,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8796,9 +8314,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             325
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/121.png",
             "large": "https://images.pokemontcg.io/dp6/121_hires.png"
@@ -8852,9 +8368,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8869,9 +8383,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             120
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/122.png",
             "large": "https://images.pokemontcg.io/dp6/122_hires.png"
@@ -8931,9 +8443,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -8948,9 +8458,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             220
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/123.png",
             "large": "https://images.pokemontcg.io/dp6/123_hires.png"
@@ -9009,9 +8517,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9026,9 +8532,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             276
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/124.png",
             "large": "https://images.pokemontcg.io/dp6/124_hires.png"
@@ -9081,9 +8585,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9098,9 +8600,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             72
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/125.png",
             "large": "https://images.pokemontcg.io/dp6/125_hires.png"
@@ -9153,9 +8653,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9170,9 +8668,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             236
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/126.png",
             "large": "https://images.pokemontcg.io/dp6/126_hires.png"
@@ -9227,9 +8723,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9244,9 +8738,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             70
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/127.png",
             "large": "https://images.pokemontcg.io/dp6/127_hires.png"
@@ -9306,9 +8798,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9323,9 +8813,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             193
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/128.png",
             "large": "https://images.pokemontcg.io/dp6/128_hires.png"
@@ -9348,9 +8836,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9361,9 +8847,7 @@ let dp6 = [
         "number": "129",
         "artist": "Daisuke Ito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/129.png",
             "large": "https://images.pokemontcg.io/dp6/129_hires.png"
@@ -9386,9 +8870,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9399,9 +8881,7 @@ let dp6 = [
         "number": "130",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/130.png",
             "large": "https://images.pokemontcg.io/dp6/130_hires.png"
@@ -9424,9 +8904,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9437,9 +8915,7 @@ let dp6 = [
         "number": "131",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/131.png",
             "large": "https://images.pokemontcg.io/dp6/131_hires.png"
@@ -9461,9 +8937,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9474,9 +8948,7 @@ let dp6 = [
         "number": "132",
         "artist": "Kent Kanetsuna",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/132.png",
             "large": "https://images.pokemontcg.io/dp6/132_hires.png"
@@ -9498,9 +8970,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9511,9 +8981,7 @@ let dp6 = [
         "number": "133",
         "artist": "Kazuaki Aihara",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/133.png",
             "large": "https://images.pokemontcg.io/dp6/133_hires.png"
@@ -9536,9 +9004,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9549,9 +9015,7 @@ let dp6 = [
         "number": "134",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/134.png",
             "large": "https://images.pokemontcg.io/dp6/134_hires.png"
@@ -9574,9 +9038,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9587,9 +9049,7 @@ let dp6 = [
         "number": "135",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/135.png",
             "large": "https://images.pokemontcg.io/dp6/135_hires.png"
@@ -9620,9 +9080,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9633,9 +9091,7 @@ let dp6 = [
         "number": "136",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/136.png",
             "large": "https://images.pokemontcg.io/dp6/136_hires.png"
@@ -9666,9 +9122,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9679,9 +9133,7 @@ let dp6 = [
         "number": "137",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/137.png",
             "large": "https://images.pokemontcg.io/dp6/137_hires.png"
@@ -9711,9 +9163,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9724,9 +9174,7 @@ let dp6 = [
         "number": "138",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/138.png",
             "large": "https://images.pokemontcg.io/dp6/138_hires.png"
@@ -9756,9 +9204,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9769,9 +9215,7 @@ let dp6 = [
         "number": "139",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/139.png",
             "large": "https://images.pokemontcg.io/dp6/139_hires.png"
@@ -9823,9 +9267,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9839,9 +9281,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             482
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/140.png",
             "large": "https://images.pokemontcg.io/dp6/140_hires.png"
@@ -9899,9 +9339,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9915,9 +9353,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             472
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/141.png",
             "large": "https://images.pokemontcg.io/dp6/141_hires.png"
@@ -9976,9 +9412,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -9992,9 +9426,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             462
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/142.png",
             "large": "https://images.pokemontcg.io/dp6/142_hires.png"
@@ -10047,9 +9479,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -10063,9 +9493,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             481
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/143.png",
             "large": "https://images.pokemontcg.io/dp6/143_hires.png"
@@ -10119,9 +9547,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -10135,9 +9561,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             150
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/144.png",
             "large": "https://images.pokemontcg.io/dp6/144_hires.png"
@@ -10197,9 +9621,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -10213,9 +9635,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             464
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/145.png",
             "large": "https://images.pokemontcg.io/dp6/145_hires.png"
@@ -10268,9 +9688,7 @@ let dp6 = [
             "series": "Diamond & Pearl",
             "printedTotal": 146,
             "total": 146,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "LA",
             "releaseDate": "2008/08/01",
             "images": {
@@ -10284,9 +9702,7 @@ let dp6 = [
         "nationalPokedexNumbers": [
             480
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dp6/146.png",
             "large": "https://images.pokemontcg.io/dp6/146_hires.png"

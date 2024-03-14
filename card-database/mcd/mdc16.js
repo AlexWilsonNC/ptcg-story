@@ -49,10 +49,7 @@ let mcd16 = [
             "series": "Other",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2016/08/19",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
@@ -66,10 +63,7 @@ let mcd16 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/mcd16/1.png",
             "large": "https://images.pokemontcg.io/mcd16/1_hires.png"
@@ -137,10 +131,7 @@ let mcd16 = [
             "series": "Other",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2016/08/19",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
@@ -154,10 +145,7 @@ let mcd16 = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/mcd16/2.png",
             "large": "https://images.pokemontcg.io/mcd16/2_hires.png"
@@ -225,10 +213,7 @@ let mcd16 = [
             "series": "Other",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2016/08/19",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
@@ -242,10 +227,7 @@ let mcd16 = [
         "nationalPokedexNumbers": [
             653
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/mcd16/3.png",
             "large": "https://images.pokemontcg.io/mcd16/3_hires.png"
@@ -313,10 +295,7 @@ let mcd16 = [
             "series": "Other",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2016/08/19",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
@@ -330,10 +309,7 @@ let mcd16 = [
         "nationalPokedexNumbers": [
             129
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/mcd16/4.png",
             "large": "https://images.pokemontcg.io/mcd16/4_hires.png"
@@ -401,10 +377,7 @@ let mcd16 = [
             "series": "Other",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2016/08/19",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
@@ -418,10 +391,7 @@ let mcd16 = [
         "nationalPokedexNumbers": [
             158
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/mcd16/5.png",
             "large": "https://images.pokemontcg.io/mcd16/5_hires.png"
@@ -505,10 +475,7 @@ let mcd16 = [
             "series": "Other",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2016/08/19",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
@@ -522,10 +489,7 @@ let mcd16 = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/mcd16/6.png",
             "large": "https://images.pokemontcg.io/mcd16/6_hires.png"
@@ -601,10 +565,7 @@ let mcd16 = [
             "series": "Other",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2016/08/19",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
@@ -618,10 +579,7 @@ let mcd16 = [
         "nationalPokedexNumbers": [
             559
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/mcd16/7.png",
             "large": "https://images.pokemontcg.io/mcd16/7_hires.png"
@@ -704,10 +662,7 @@ let mcd16 = [
             "series": "Other",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2016/08/19",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
@@ -721,10 +676,7 @@ let mcd16 = [
         "nationalPokedexNumbers": [
             39
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/mcd16/8.png",
             "large": "https://images.pokemontcg.io/mcd16/8_hires.png"
@@ -798,10 +750,7 @@ let mcd16 = [
             "series": "Other",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2016/08/19",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
@@ -815,10 +764,7 @@ let mcd16 = [
         "nationalPokedexNumbers": [
             175
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/mcd16/9.png",
             "large": "https://images.pokemontcg.io/mcd16/9_hires.png"
@@ -900,10 +846,7 @@ let mcd16 = [
             "series": "Other",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2016/08/19",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
@@ -917,10 +860,7 @@ let mcd16 = [
         "nationalPokedexNumbers": [
             702
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/mcd16/10.png",
             "large": "https://images.pokemontcg.io/mcd16/10_hires.png"
@@ -988,10 +928,7 @@ let mcd16 = [
             "series": "Other",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2016/08/19",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
@@ -1005,10 +942,7 @@ let mcd16 = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/mcd16/11.png",
             "large": "https://images.pokemontcg.io/mcd16/11_hires.png"
@@ -1093,10 +1027,7 @@ let mcd16 = [
             "series": "Other",
             "printedTotal": 12,
             "total": 12,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "releaseDate": "2016/08/19",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
@@ -1110,10 +1041,7 @@ let mcd16 = [
         "nationalPokedexNumbers": [
             133
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/mcd16/12.png",
             "large": "https://images.pokemontcg.io/mcd16/12_hires.png"

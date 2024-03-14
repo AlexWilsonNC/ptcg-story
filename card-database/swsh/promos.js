@@ -57,11 +57,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 810
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH001.png",
@@ -125,11 +121,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 813
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH002.png",
@@ -194,11 +186,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 816
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH003.png",
@@ -276,11 +264,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 52
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH004.png",
@@ -350,11 +334,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 52
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH005.png",
@@ -426,11 +406,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 812
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH006.png",
@@ -500,11 +476,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 873
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH007.png",
@@ -581,11 +553,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 863
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH008.png",
@@ -654,11 +622,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 573
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH009.png",
@@ -722,11 +686,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 829
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH010.png",
@@ -800,11 +760,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 831
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH011.png",
@@ -867,11 +823,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 877
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH012.png",
@@ -951,11 +903,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 77
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH013.png",
@@ -1031,11 +979,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 812
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH014.png",
@@ -1108,11 +1052,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 815
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH015.png",
@@ -1187,11 +1127,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 818
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH016.png",
@@ -1266,11 +1202,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 849
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH017.png",
@@ -1349,11 +1281,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 888
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH018.png",
@@ -1432,11 +1360,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 889
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH019.png",
@@ -1512,11 +1436,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH020.png",
@@ -1595,11 +1515,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 855
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH021.png",
@@ -1669,11 +1585,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 841
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH022.png",
@@ -1745,11 +1657,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 405
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH023.png",
@@ -1821,11 +1729,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 839
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH024.png",
@@ -1896,11 +1800,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 569
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH025.png",
@@ -1971,11 +1871,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 226
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH026.png",
@@ -2055,11 +1951,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 164
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH027.png",
@@ -2140,11 +2032,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 884
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH028.png",
@@ -2223,11 +2111,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 384
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH029.png",
@@ -2311,11 +2195,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 879
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH030.png",
@@ -2386,11 +2266,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 877
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH031.png",
@@ -2465,11 +2341,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 143
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH032.png",
@@ -2550,11 +2422,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 888
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH033.png",
@@ -2631,11 +2499,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 889
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH034.png",
@@ -2705,11 +2569,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 724
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH035.png",
@@ -2779,11 +2639,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 881
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH036.png",
@@ -2854,11 +2710,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 635
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH037.png",
@@ -2931,11 +2783,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 115
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH038.png",
@@ -3010,11 +2858,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH039.png",
@@ -3094,11 +2938,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 856
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH040.png",
@@ -3171,11 +3011,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 136
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH041.png",
@@ -3256,11 +3092,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 133
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH042.png",
@@ -3333,11 +3165,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 865
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH043.png",
@@ -3413,11 +3241,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 890
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH044.png",
@@ -3489,11 +3313,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 890
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH045.png",
@@ -3564,11 +3384,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 830
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH046.png",
@@ -3644,11 +3460,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 834
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH047.png",
@@ -3722,11 +3534,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 851
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH048.png",
@@ -3799,11 +3607,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 832
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH049.png",
@@ -3881,11 +3685,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 6
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH050.png",
@@ -3949,11 +3749,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 131
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH051.png",
@@ -4030,11 +3826,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 94
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH052.png",
@@ -4108,11 +3900,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 68
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH053.png",
@@ -4184,11 +3972,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 839
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH054.png",
@@ -4270,11 +4054,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 858
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH055.png",
@@ -4349,11 +4129,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 877
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH056.png",
@@ -4428,11 +4204,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 861
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH057.png",
@@ -4504,11 +4276,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 869
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH058.png",
@@ -4578,11 +4346,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 862
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH059.png",
@@ -4660,11 +4424,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 884
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH060.png",
@@ -4741,11 +4501,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH063.png",
@@ -4821,11 +4577,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 890
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH064.png",
@@ -4910,11 +4662,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 133
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH065.png",
@@ -4984,11 +4732,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 6
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH066.png",
@@ -5061,11 +4805,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 232
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH067.png",
@@ -5136,11 +4876,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 143
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH068.png",
@@ -5220,11 +4956,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 249
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH069.png",
@@ -5288,11 +5020,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 810
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH070.png",
@@ -5366,11 +5094,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 813
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH071.png",
@@ -5441,11 +5165,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 134
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH072.png",
@@ -5518,11 +5238,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 816
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH073.png",
@@ -5596,11 +5312,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH074.png",
@@ -5678,11 +5390,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH061.png",
@@ -5761,11 +5469,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 888
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH076.png",
@@ -5844,11 +5548,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 889
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH077.png",
@@ -5922,11 +5622,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 826
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH078.png",
@@ -5997,11 +5693,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 866
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH079.png",
@@ -6064,11 +5756,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 702
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH080.png",
@@ -6144,11 +5832,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 855
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH081.png",
@@ -6213,11 +5897,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 659
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH082.png",
@@ -6297,11 +5977,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 65
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH083.png",
@@ -6373,11 +6049,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 830
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH084.png",
@@ -6451,11 +6123,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 836
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH085.png",
@@ -6536,11 +6204,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 845
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH086.png",
@@ -6616,11 +6280,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 133
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH087.png",
@@ -6700,11 +6360,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 887
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH096.png",
@@ -6784,11 +6440,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 887
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH097.png",
@@ -6860,11 +6512,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 169
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH098.png",
@@ -6940,11 +6588,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 169
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH099.png",
@@ -7020,11 +6664,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 3
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH100.png",
@@ -7099,11 +6739,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 9
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH101.png",
@@ -7174,11 +6810,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 421
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH088.png",
@@ -7250,11 +6882,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 224
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH089.png",
@@ -7325,11 +6953,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 229
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH090.png",
@@ -7406,11 +7030,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 437
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH091.png",
@@ -7484,11 +7104,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 4
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH092.png",
@@ -7562,11 +7178,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 846
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH093.png",
@@ -7638,11 +7250,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 135
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH094.png",
@@ -7724,11 +7332,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 133
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH095.png",
@@ -7805,11 +7409,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 3
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH102.png",
@@ -7887,11 +7487,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 9
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH103.png",
@@ -7968,11 +7564,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 892
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH106.png",
@@ -8049,11 +7641,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 892
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH107.png",
@@ -8127,11 +7715,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 494
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH104.png",
@@ -8206,11 +7790,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 282
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH105.png",
@@ -8284,11 +7864,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 395
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH108.png",
@@ -8367,11 +7943,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 248
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH109.png",
@@ -8452,11 +8024,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 78
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH111.png",
@@ -8527,11 +8095,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 815
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH112.png",
@@ -8602,11 +8166,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 818
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH113.png",
@@ -8683,11 +8243,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 488
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH114.png",
@@ -8756,11 +8312,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 766
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH115.png",
@@ -8831,11 +8383,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 877
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH116.png",
@@ -8909,11 +8457,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 231
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH117.png",
@@ -8994,11 +8538,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 133
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH118.png",
@@ -9072,11 +8612,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 143
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH119.png",
@@ -9115,11 +8651,7 @@ let swshp = [
             "number": "SWSH178",
             "artist": "Yusuke Kozaki",
             "rarity": "Promo",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH178.png",
@@ -9191,11 +8723,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 169
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH110.png",
@@ -9234,11 +8762,7 @@ let swshp = [
             "number": "SWSH120",
             "artist": "Sanosuke Sakuma",
             "rarity": "Promo",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH120.png",
@@ -9314,11 +8838,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 144
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH123.png",
@@ -9388,11 +8908,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 146
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH125.png",
@@ -9474,11 +8990,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 79
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH126.png",
@@ -9554,11 +9066,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 898
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH130.png",
@@ -9632,11 +9140,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 180
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH122.png",
@@ -9708,11 +9212,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 875
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH128.png",
@@ -9794,11 +9294,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 133
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH127.png",
@@ -9837,11 +9333,7 @@ let swshp = [
             "number": "SWSH121",
             "artist": "Naoki Saito",
             "rarity": "Promo",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH121.png",
@@ -9910,11 +9402,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 145
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH124.png",
@@ -9987,11 +9475,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 197
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH129.png",
@@ -10072,11 +9556,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 898
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH131.png",
@@ -10145,11 +9625,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH062.png",
@@ -10230,11 +9706,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 887
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH132.png",
                 "large": "https://images.pokemontcg.io/swshp/SWSH132_hires.png"
@@ -10299,11 +9771,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 6
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH133.png",
@@ -10379,11 +9847,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 700
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH134.png",
@@ -10463,11 +9927,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 888
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH135.png",
                 "large": "https://images.pokemontcg.io/swshp/SWSH135_hires.png"
@@ -10539,11 +9999,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 778
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH136.png",
                 "large": "https://images.pokemontcg.io/swshp/SWSH136_hires.png"
@@ -10618,11 +10074,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 849
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH137.png",
                 "large": "https://images.pokemontcg.io/swshp/SWSH137_hires.png"
@@ -10697,11 +10149,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 635
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH138.png",
                 "large": "https://images.pokemontcg.io/swshp/SWSH138_hires.png"
@@ -10798,11 +10246,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH139.png",
@@ -10900,11 +10344,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH140.png",
@@ -11002,11 +10442,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH141.png",
@@ -11104,11 +10540,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH142.png",
@@ -11177,11 +10609,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH143.png",
@@ -11255,11 +10683,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 658
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH144.png",
                 "large": "https://images.pokemontcg.io/swshp/SWSH144_hires.png"
@@ -11327,11 +10751,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH145.png",
@@ -11370,11 +10790,7 @@ let swshp = [
             "number": "SWSH146",
             "artist": "5ban Graphics",
             "rarity": "Promo",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH146.png",
@@ -11443,11 +10859,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 384
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH147.png",
@@ -11514,11 +10926,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 715
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH148.png",
@@ -11594,11 +11002,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 136
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH149.png",
@@ -11674,11 +11078,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 134
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH150.png",
@@ -11752,11 +11152,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 135
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH151.png",
@@ -11826,11 +11222,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 149
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH154.png",
@@ -11942,11 +11334,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 658
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH155.png",
@@ -12058,11 +11446,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 658
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH156.png",
@@ -12174,11 +11558,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 658
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH157.png",
@@ -12290,11 +11670,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 658
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH158.png",
@@ -12405,11 +11781,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 150
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH159.png",
@@ -12520,11 +11892,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 150
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH160.png",
@@ -12635,11 +12003,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 150
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH161.png",
@@ -12750,11 +12114,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 150
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH162.png",
@@ -12858,11 +12218,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 888
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH163.png",
@@ -12966,11 +12322,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 888
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH164.png",
@@ -13074,11 +12426,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 888
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH165.png",
@@ -13182,11 +12530,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 888
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH166.png",
@@ -13225,11 +12569,7 @@ let swshp = [
             "number": "SWSH167",
             "artist": "Ryuta Fuse",
             "rarity": "Promo",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH167.png",
@@ -13299,11 +12639,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 741
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH168.png",
@@ -13373,11 +12709,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 771
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH169.png",
@@ -13449,11 +12781,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 386
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH170.png",
@@ -13518,11 +12846,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 380
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH171.png",
@@ -13599,11 +12923,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 498
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH172.png",
@@ -13668,11 +12988,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 522
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH173.png",
@@ -13750,11 +13066,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 196
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH174.png",
@@ -13836,11 +13148,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 133
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH175.png",
@@ -13914,11 +13222,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 720
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH176.png",
@@ -13994,11 +13298,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 136
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH179.png",
@@ -14065,11 +13365,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 136
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH180.png",
@@ -14145,11 +13441,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 134
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH181.png",
@@ -14225,11 +13517,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 134
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH182.png",
@@ -14303,11 +13591,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 135
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH183.png",
@@ -14371,11 +13655,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 135
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH184.png",
@@ -14450,11 +13730,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 470
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH194.png",
@@ -14527,11 +13803,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 470
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH195.png",
@@ -14606,11 +13878,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 471
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH196.png",
@@ -14687,11 +13955,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 471
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH197.png",
@@ -14752,11 +14016,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 146
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH185.png",
@@ -14826,11 +14086,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 448
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH186.png",
@@ -14900,11 +14156,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 510
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH187.png",
@@ -14975,11 +14227,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 400
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH188.png",
@@ -15045,11 +14293,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 841
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH189.png",
@@ -15131,11 +14375,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 133
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH190.png",
@@ -15207,11 +14447,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 470
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH191.png",
@@ -15284,11 +14520,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 471
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH192.png",
@@ -15352,11 +14584,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 862
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH193.png",
@@ -15425,11 +14653,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH198.png",
@@ -15504,11 +14728,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 745
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH199.png",
@@ -15589,11 +14809,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 823
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH200.png",
@@ -15674,11 +14890,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 196
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH201.png",
@@ -15751,11 +14963,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 700
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH202.png",
@@ -15831,11 +15039,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 197
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH203.png",
@@ -15911,11 +15115,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 493
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH204.png",
@@ -15991,11 +15191,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 448
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH213.png",
@@ -16071,11 +15267,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 448
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH214.png",
@@ -16171,11 +15363,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 877
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH215.png",
@@ -16271,11 +15459,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 877
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH216.png",
@@ -16371,11 +15555,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 877
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH217.png",
@@ -16471,11 +15651,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 877
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH218.png",
@@ -16550,11 +15726,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 836
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH219.png",
@@ -16618,11 +15790,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 722
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH220.png",
@@ -16695,11 +15863,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 155
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH221.png",
@@ -16763,11 +15927,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 501
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH222.png",
@@ -16839,11 +15999,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 399
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH177.png",
@@ -16916,11 +16072,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 902
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH205.png",
@@ -16996,11 +16148,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 899
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH206.png",
@@ -17071,11 +16219,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 503
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH207.png",
@@ -17152,11 +16296,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 462
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH208.png",
@@ -17230,11 +16370,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 848
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH209.png",
@@ -17313,11 +16449,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 741
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH210.png",
@@ -17390,10 +16522,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 700
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH211.png",
@@ -17475,11 +16604,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 133
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH212.png",
@@ -17554,11 +16679,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 900
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH248.png",
@@ -17632,11 +16753,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 900
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH249.png",
@@ -17675,11 +16792,7 @@ let swshp = [
             "number": "SWSH152",
             "artist": "Yuu Nishida",
             "rarity": "Promo",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH152.png",
@@ -17761,11 +16874,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 150
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH223.png",
@@ -17847,11 +16956,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 809
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH224.png",
@@ -17926,11 +17031,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 103
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH225.png",
@@ -17969,11 +17070,7 @@ let swshp = [
             "number": "SWSH226",
             "artist": "Naoki Saito",
             "rarity": "Promo",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH226.png",
@@ -18012,11 +17109,7 @@ let swshp = [
             "number": "SWSH227",
             "artist": "Anesaki Dynamic",
             "rarity": "Promo",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH227.png",
@@ -18055,11 +17148,7 @@ let swshp = [
             "number": "SWSH228",
             "artist": "Ryuta Fuse",
             "rarity": "Promo",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH228.png",
@@ -18141,11 +17230,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 150
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH229.png",
@@ -18231,11 +17316,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 133
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH230.png",
@@ -18308,11 +17389,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 1
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH231.png",
@@ -18375,11 +17452,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 4
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH232.png",
@@ -18442,11 +17515,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 7
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH233.png",
@@ -18520,11 +17589,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH234.png",
@@ -18603,11 +17668,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 157
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH237.png",
@@ -18682,11 +17743,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 724
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH238.png",
@@ -18761,11 +17818,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 503
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH239.png",
@@ -18838,11 +17891,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 457
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH250.png",
@@ -18906,11 +17955,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH153.png",
@@ -18980,11 +18025,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 149
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH235.png",
@@ -19054,11 +18095,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 149
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH236.png",
@@ -19128,11 +18165,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 456
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH240.png",
@@ -19206,11 +18239,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 94
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH241.png",
@@ -19278,11 +18307,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 764
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH242.png",
@@ -19351,11 +18376,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 68
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH243.png",
@@ -19429,11 +18450,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 813
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH244.png",
@@ -19496,11 +18513,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 453
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH245.png",
@@ -19572,11 +18585,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 461
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH246.png",
@@ -19648,11 +18657,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 486
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH247.png",
@@ -19726,11 +18731,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 392
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH252.png",
@@ -19810,11 +18811,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 484
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH253.png",
@@ -19894,11 +18891,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 484
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH253.png",
@@ -19975,11 +18968,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 484
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH254.png",
@@ -20066,11 +19055,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 483
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH255.png",
@@ -20159,11 +19144,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 483
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH256.png",
@@ -20242,11 +19223,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 479
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH257.png",
@@ -20327,11 +19304,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 475
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH258.png",
@@ -20405,11 +19378,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 487
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH259.png",
@@ -20492,11 +19461,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 6
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH260.png",
@@ -20581,10 +19546,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 6
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH261.png",
@@ -20667,11 +19629,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 6
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH262.png",
@@ -20751,11 +19709,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 807
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH263.png",
@@ -20836,11 +19790,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 807
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH264.png",
@@ -20918,11 +19868,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 807
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH265.png",
@@ -21009,11 +19955,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 386
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH266.png",
@@ -21098,11 +20040,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 386
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH267.png",
@@ -21188,11 +20126,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 386
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH268.png",
@@ -21260,11 +20194,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 192
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH269.png",
@@ -21338,11 +20268,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 78
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH270.png",
@@ -21421,11 +20347,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 281
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH271.png",
@@ -21506,11 +20428,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 567
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH272.png",
@@ -21585,11 +20503,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 550
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH273.png",
@@ -21669,11 +20583,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 408
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH274.png",
@@ -21748,11 +20658,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 490
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH275.png",
@@ -21829,11 +20735,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 176
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH276.png",
@@ -21909,11 +20811,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 101
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH294.png",
@@ -21990,11 +20888,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 640
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH295.png",
@@ -22033,11 +20927,7 @@ let swshp = [
             "number": "SWSH296",
             "artist": "Naoki Saito",
             "rarity": "Promo",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH296.png",
@@ -22115,11 +21005,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 571
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH297.png",
@@ -22196,11 +21082,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 571
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH298.png",
@@ -22281,11 +21163,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 812
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH277.png",
@@ -22360,11 +21238,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 815
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH278.png",
@@ -22439,11 +21313,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 818
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH279.png",
@@ -22522,11 +21392,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 894
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH280.png",
@@ -22601,11 +21467,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 895
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH281.png",
@@ -22686,11 +21548,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 448
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH291.png",
@@ -22762,11 +21620,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH285.png",
@@ -22849,11 +21703,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 25
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH286.png",
@@ -22932,10 +21782,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 6
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH075.png",
@@ -23016,11 +21863,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 144
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH282.png",
@@ -23060,11 +21903,7 @@ let swshp = [
             "number": "SWSH302",
             "artist": "Yuu Nishida",
             "rarity": "Promo",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH302.png",
@@ -23132,11 +21971,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 658
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH305.png",
@@ -23237,11 +22072,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 877
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH288.png",
@@ -23322,11 +22153,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 493
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH306.png",
@@ -23427,11 +22254,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 877
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH287.png",
@@ -23515,10 +22338,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 888
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH292.png",
@@ -23602,10 +22422,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 889
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "D",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH293.png",
@@ -23683,11 +22500,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 493
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH307.png",
@@ -23727,11 +22540,7 @@ let swshp = [
             "number": "SWSH251",
             "artist": "Mitsuhiro Arita",
             "rarity": "Promo",
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH251.png",
@@ -23801,11 +22610,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 145
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH283.png",
@@ -23880,11 +22685,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 146
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH284.png",
@@ -23985,11 +22786,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 877
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH289.png",
@@ -24090,11 +22887,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 877
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "E",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH290.png",
@@ -24163,11 +22956,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 1
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH303.png",
@@ -24237,11 +23026,7 @@ let swshp = [
             "nationalPokedexNumbers": [
                 59
             ],
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
+             
             "regulationMark": "F",
             "images": {
                 "small": "https://images.pokemontcg.io/swshp/SWSH304.png",

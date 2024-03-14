@@ -60,9 +60,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -76,9 +74,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             181
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/1.png",
             "large": "https://images.pokemontcg.io/pl1/1_hires.png"
@@ -140,9 +136,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -156,9 +150,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             9
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/2.png",
             "large": "https://images.pokemontcg.io/pl1/2_hires.png"
@@ -219,9 +211,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -235,9 +225,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             257
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/3.png",
             "large": "https://images.pokemontcg.io/pl1/3_hires.png"
@@ -297,9 +285,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -313,9 +299,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             301
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/4.png",
             "large": "https://images.pokemontcg.io/pl1/4_hires.png"
@@ -371,9 +355,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -388,9 +370,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/5.png",
             "large": "https://images.pokemontcg.io/pl1/5_hires.png"
@@ -447,9 +427,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -464,9 +442,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/6.png",
             "large": "https://images.pokemontcg.io/pl1/6_hires.png"
@@ -526,9 +502,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -542,9 +516,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/7.png",
             "large": "https://images.pokemontcg.io/pl1/7_hires.png"
@@ -604,9 +576,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -620,9 +590,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             282
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/8.png",
             "large": "https://images.pokemontcg.io/pl1/8_hires.png"
@@ -678,9 +646,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -694,9 +660,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/9.png",
             "large": "https://images.pokemontcg.io/pl1/9_hires.png"
@@ -765,9 +729,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -781,9 +743,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/10.png",
             "large": "https://images.pokemontcg.io/pl1/10_hires.png"
@@ -847,9 +807,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -863,9 +821,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             310
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/11.png",
             "large": "https://images.pokemontcg.io/pl1/11_hires.png"
@@ -919,9 +875,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -935,9 +889,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/12.png",
             "large": "https://images.pokemontcg.io/pl1/12_hires.png"
@@ -996,9 +948,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -1012,9 +962,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             409
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/13.png",
             "large": "https://images.pokemontcg.io/pl1/13_hires.png"
@@ -1071,9 +1019,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -1088,9 +1034,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/14.png",
             "large": "https://images.pokemontcg.io/pl1/14_hires.png"
@@ -1145,9 +1089,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -1162,9 +1104,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/15.png",
             "large": "https://images.pokemontcg.io/pl1/15_hires.png"
@@ -1216,9 +1156,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -1233,9 +1171,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             289
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/16.png",
             "large": "https://images.pokemontcg.io/pl1/16_hires.png"
@@ -1291,9 +1227,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -1307,9 +1241,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             461
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/17.png",
             "large": "https://images.pokemontcg.io/pl1/17_hires.png"
@@ -1377,9 +1309,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -1393,9 +1323,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             334
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/18.png",
             "large": "https://images.pokemontcg.io/pl1/18_hires.png"
@@ -1460,9 +1388,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -1476,9 +1402,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             354
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/19.png",
             "large": "https://images.pokemontcg.io/pl1/19_hires.png"
@@ -1547,9 +1471,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -1563,9 +1485,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             411
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/20.png",
             "large": "https://images.pokemontcg.io/pl1/20_hires.png"
@@ -1621,9 +1541,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -1638,9 +1556,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             267
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/21.png",
             "large": "https://images.pokemontcg.io/pl1/21_hires.png"
@@ -1701,9 +1617,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -1717,9 +1631,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             242
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/22.png",
             "large": "https://images.pokemontcg.io/pl1/22_hires.png"
@@ -1779,9 +1691,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -1796,9 +1706,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/23.png",
             "large": "https://images.pokemontcg.io/pl1/23_hires.png"
@@ -1864,9 +1772,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -1880,9 +1786,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             51
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/24.png",
             "large": "https://images.pokemontcg.io/pl1/24_hires.png"
@@ -1942,9 +1846,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -1958,9 +1860,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             269
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/25.png",
             "large": "https://images.pokemontcg.io/pl1/25_hires.png"
@@ -2014,9 +1914,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2031,9 +1929,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             395
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/26.png",
             "large": "https://images.pokemontcg.io/pl1/26_hires.png"
@@ -2092,9 +1988,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2109,9 +2003,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/27.png",
             "large": "https://images.pokemontcg.io/pl1/27_hires.png"
@@ -2170,9 +2062,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2187,9 +2077,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/28.png",
             "large": "https://images.pokemontcg.io/pl1/28_hires.png"
@@ -2238,9 +2126,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2255,9 +2141,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             55
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/29.png",
             "large": "https://images.pokemontcg.io/pl1/29_hires.png"
@@ -2313,9 +2197,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2329,9 +2211,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             130
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/30.png",
             "large": "https://images.pokemontcg.io/pl1/30_hires.png"
@@ -2382,9 +2262,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2399,9 +2277,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             392
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/31.png",
             "large": "https://images.pokemontcg.io/pl1/31_hires.png"
@@ -2454,9 +2330,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2471,9 +2345,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             402
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/32.png",
             "large": "https://images.pokemontcg.io/pl1/32_hires.png"
@@ -2529,9 +2401,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2546,9 +2416,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             463
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/33.png",
             "large": "https://images.pokemontcg.io/pl1/33_hires.png"
@@ -2609,9 +2477,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2625,9 +2491,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             272
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/34.png",
             "large": "https://images.pokemontcg.io/pl1/34_hires.png"
@@ -2675,9 +2539,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2692,9 +2554,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             370
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/35.png",
             "large": "https://images.pokemontcg.io/pl1/35_hires.png"
@@ -2743,9 +2603,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2760,9 +2618,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             38
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/36.png",
             "large": "https://images.pokemontcg.io/pl1/36_hires.png"
@@ -2815,9 +2671,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2832,9 +2686,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/37.png",
             "large": "https://images.pokemontcg.io/pl1/37_hires.png"
@@ -2890,9 +2742,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2907,9 +2757,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/38.png",
             "large": "https://images.pokemontcg.io/pl1/38_hires.png"
@@ -2965,9 +2813,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -2982,9 +2828,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             389
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/39.png",
             "large": "https://images.pokemontcg.io/pl1/39_hires.png"
@@ -3034,9 +2878,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -3050,9 +2892,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             454
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/40.png",
             "large": "https://images.pokemontcg.io/pl1/40_hires.png"
@@ -3109,9 +2949,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -3125,9 +2963,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             437
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/41.png",
             "large": "https://images.pokemontcg.io/pl1/41_hires.png"
@@ -3180,9 +3016,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -3197,9 +3031,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             332
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/42.png",
             "large": "https://images.pokemontcg.io/pl1/42_hires.png"
@@ -3266,9 +3098,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -3282,9 +3112,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             455
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/43.png",
             "large": "https://images.pokemontcg.io/pl1/43_hires.png"
@@ -3337,9 +3165,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -3354,9 +3180,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             268
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/44.png",
             "large": "https://images.pokemontcg.io/pl1/44_hires.png"
@@ -3413,9 +3237,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -3430,9 +3252,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/45.png",
             "large": "https://images.pokemontcg.io/pl1/45_hires.png"
@@ -3487,9 +3307,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -3504,9 +3322,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             408
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/46.png",
             "large": "https://images.pokemontcg.io/pl1/46_hires.png"
@@ -3561,9 +3377,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -3577,9 +3391,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             169
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/47.png",
             "large": "https://images.pokemontcg.io/pl1/47_hires.png"
@@ -3640,9 +3452,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -3657,9 +3467,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             180
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/48.png",
             "large": "https://images.pokemontcg.io/pl1/48_hires.png"
@@ -3722,9 +3530,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -3739,9 +3545,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             388
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/49.png",
             "large": "https://images.pokemontcg.io/pl1/49_hires.png"
@@ -3801,9 +3605,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -3817,9 +3619,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             229
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/50.png",
             "large": "https://images.pokemontcg.io/pl1/50_hires.png"
@@ -3877,9 +3677,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -3894,9 +3692,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             281
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/51.png",
             "large": "https://images.pokemontcg.io/pl1/51_hires.png"
@@ -3953,9 +3749,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -3970,9 +3764,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             271
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/52.png",
             "large": "https://images.pokemontcg.io/pl1/52_hires.png"
@@ -4023,9 +3815,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -4040,9 +3830,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             448
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/53.png",
             "large": "https://images.pokemontcg.io/pl1/53_hires.png"
@@ -4108,9 +3896,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -4124,9 +3910,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             262
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/54.png",
             "large": "https://images.pokemontcg.io/pl1/54_hires.png"
@@ -4185,9 +3969,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -4202,9 +3984,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             429
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/55.png",
             "large": "https://images.pokemontcg.io/pl1/55_hires.png"
@@ -4258,9 +4038,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -4275,9 +4053,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             391
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/56.png",
             "large": "https://images.pokemontcg.io/pl1/56_hires.png"
@@ -4338,9 +4114,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -4354,9 +4128,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             89
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/57.png",
             "large": "https://images.pokemontcg.io/pl1/57_hires.png"
@@ -4406,9 +4178,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -4423,9 +4193,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             224
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/58.png",
             "large": "https://images.pokemontcg.io/pl1/58_hires.png"
@@ -4481,9 +4249,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -4498,9 +4264,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             394
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/59.png",
             "large": "https://images.pokemontcg.io/pl1/59_hires.png"
@@ -4554,9 +4318,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -4571,9 +4333,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             476
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/60.png",
             "large": "https://images.pokemontcg.io/pl1/60_hires.png"
@@ -4632,9 +4392,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -4648,9 +4406,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             336
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/61.png",
             "large": "https://images.pokemontcg.io/pl1/61_hires.png"
@@ -4711,9 +4467,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -4728,9 +4482,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             410
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/62.png",
             "large": "https://images.pokemontcg.io/pl1/62_hires.png"
@@ -4783,9 +4535,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -4800,9 +4550,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             266
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/63.png",
             "large": "https://images.pokemontcg.io/pl1/63_hires.png"
@@ -4858,9 +4606,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -4875,9 +4621,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             288
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/64.png",
             "large": "https://images.pokemontcg.io/pl1/64_hires.png"
@@ -4932,9 +4676,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -4949,9 +4691,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             8
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/65.png",
             "large": "https://images.pokemontcg.io/pl1/65_hires.png"
@@ -5010,9 +4750,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5026,9 +4764,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             335
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/66.png",
             "large": "https://images.pokemontcg.io/pl1/66_hires.png"
@@ -5087,9 +4823,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5104,9 +4838,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             331
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/67.png",
             "large": "https://images.pokemontcg.io/pl1/67_hires.png"
@@ -5161,9 +4893,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5178,9 +4908,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             455
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/68.png",
             "large": "https://images.pokemontcg.io/pl1/68_hires.png"
@@ -5234,9 +4962,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5251,9 +4977,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             113
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/69.png",
             "large": "https://images.pokemontcg.io/pl1/69_hires.png"
@@ -5307,9 +5031,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5324,9 +5046,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             390
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/70.png",
             "large": "https://images.pokemontcg.io/pl1/70_hires.png"
@@ -5384,9 +5104,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5401,9 +5119,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             415
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/71.png",
             "large": "https://images.pokemontcg.io/pl1/71_hires.png"
@@ -5463,9 +5179,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5480,9 +5194,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             50
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/72.png",
             "large": "https://images.pokemontcg.io/pl1/72_hires.png"
@@ -5530,9 +5242,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5547,9 +5257,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             206
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/73.png",
             "large": "https://images.pokemontcg.io/pl1/73_hires.png"
@@ -5608,9 +5316,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5625,9 +5331,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             309
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/74.png",
             "large": "https://images.pokemontcg.io/pl1/74_hires.png"
@@ -5678,9 +5382,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5695,9 +5397,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             88
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/75.png",
             "large": "https://images.pokemontcg.io/pl1/75_hires.png"
@@ -5746,9 +5446,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5763,9 +5461,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             440
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/76.png",
             "large": "https://images.pokemontcg.io/pl1/76_hires.png"
@@ -5821,9 +5517,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5837,9 +5531,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             430
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/77.png",
             "large": "https://images.pokemontcg.io/pl1/77_hires.png"
@@ -5893,9 +5585,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5910,9 +5600,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             401
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/78.png",
             "large": "https://images.pokemontcg.io/pl1/78_hires.png"
@@ -5964,9 +5652,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -5981,9 +5667,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             131
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/79.png",
             "large": "https://images.pokemontcg.io/pl1/79_hires.png"
@@ -6038,9 +5722,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -6055,9 +5737,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             108
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/80.png",
             "large": "https://images.pokemontcg.io/pl1/80_hires.png"
@@ -6110,9 +5790,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -6127,9 +5805,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             270
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/81.png",
             "large": "https://images.pokemontcg.io/pl1/81_hires.png"
@@ -6186,9 +5862,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -6203,9 +5877,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             179
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/82.png",
             "large": "https://images.pokemontcg.io/pl1/82_hires.png"
@@ -6262,9 +5934,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -6279,9 +5949,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             200
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/83.png",
             "large": "https://images.pokemontcg.io/pl1/83_hires.png"
@@ -6335,9 +6003,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -6352,9 +6018,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             299
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/84.png",
             "large": "https://images.pokemontcg.io/pl1/84_hires.png"
@@ -6408,9 +6072,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -6425,9 +6087,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             393
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/85.png",
             "large": "https://images.pokemontcg.io/pl1/85_hires.png"
@@ -6484,9 +6144,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -6501,9 +6159,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             261
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/86.png",
             "large": "https://images.pokemontcg.io/pl1/86_hires.png"
@@ -6554,9 +6210,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -6571,9 +6225,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             54
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/87.png",
             "large": "https://images.pokemontcg.io/pl1/87_hires.png"
@@ -6627,9 +6279,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -6643,9 +6293,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             432
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/88.png",
             "large": "https://images.pokemontcg.io/pl1/88_hires.png"
@@ -6696,9 +6344,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -6713,9 +6359,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             280
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/89.png",
             "large": "https://images.pokemontcg.io/pl1/89_hires.png"
@@ -6769,9 +6413,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -6786,9 +6428,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             223
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/90.png",
             "large": "https://images.pokemontcg.io/pl1/90_hires.png"
@@ -6840,9 +6480,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -6857,9 +6495,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             447
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/91.png",
             "large": "https://images.pokemontcg.io/pl1/91_hires.png"
@@ -6916,9 +6552,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -6933,9 +6567,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             353
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/92.png",
             "large": "https://images.pokemontcg.io/pl1/92_hires.png"
@@ -6986,9 +6618,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7003,9 +6633,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             300
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/93.png",
             "large": "https://images.pokemontcg.io/pl1/93_hires.png"
@@ -7055,9 +6683,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7071,9 +6697,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             435
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/94.png",
             "large": "https://images.pokemontcg.io/pl1/94_hires.png"
@@ -7127,9 +6751,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7144,9 +6766,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             287
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/95.png",
             "large": "https://images.pokemontcg.io/pl1/95_hires.png"
@@ -7200,9 +6820,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7217,9 +6835,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             7
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/96.png",
             "large": "https://images.pokemontcg.io/pl1/96_hires.png"
@@ -7277,9 +6893,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7294,9 +6908,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/97.png",
             "large": "https://images.pokemontcg.io/pl1/97_hires.png"
@@ -7344,9 +6956,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7361,9 +6971,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             128
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/98.png",
             "large": "https://images.pokemontcg.io/pl1/98_hires.png"
@@ -7414,9 +7022,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7431,9 +7037,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/99.png",
             "large": "https://images.pokemontcg.io/pl1/99_hires.png"
@@ -7485,9 +7089,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7502,9 +7104,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             324
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/100.png",
             "large": "https://images.pokemontcg.io/pl1/100_hires.png"
@@ -7564,9 +7164,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7581,9 +7179,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             387
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/101.png",
             "large": "https://images.pokemontcg.io/pl1/101_hires.png"
@@ -7635,9 +7231,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7652,9 +7246,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/102.png",
             "large": "https://images.pokemontcg.io/pl1/102_hires.png"
@@ -7709,9 +7301,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7726,9 +7316,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             265
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/103.png",
             "large": "https://images.pokemontcg.io/pl1/103_hires.png"
@@ -7751,9 +7339,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7764,9 +7350,7 @@ let pl1 = [
         "number": "104",
         "artist": "Kent Kanetsuna",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/104.png",
             "large": "https://images.pokemontcg.io/pl1/104_hires.png"
@@ -7789,9 +7373,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7802,9 +7384,7 @@ let pl1 = [
         "number": "105",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/105.png",
             "large": "https://images.pokemontcg.io/pl1/105_hires.png"
@@ -7827,9 +7407,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7840,9 +7418,7 @@ let pl1 = [
         "number": "106",
         "artist": "Ryota Saito",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/106.png",
             "large": "https://images.pokemontcg.io/pl1/106_hires.png"
@@ -7864,9 +7440,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7877,9 +7451,7 @@ let pl1 = [
         "number": "107",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/107.png",
             "large": "https://images.pokemontcg.io/pl1/107_hires.png"
@@ -7901,9 +7473,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7914,10 +7484,7 @@ let pl1 = [
         "number": "108",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/108.png",
             "large": "https://images.pokemontcg.io/pl1/108_hires.png"
@@ -7940,9 +7507,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7953,9 +7518,7 @@ let pl1 = [
         "number": "109",
         "artist": "Ken Sugimori",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/109.png",
             "large": "https://images.pokemontcg.io/pl1/109_hires.png"
@@ -7978,9 +7541,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -7991,9 +7552,7 @@ let pl1 = [
         "number": "110",
         "artist": "Shizurow",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/110.png",
             "large": "https://images.pokemontcg.io/pl1/110_hires.png"
@@ -8016,9 +7575,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8029,9 +7586,7 @@ let pl1 = [
         "number": "111",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/111.png",
             "large": "https://images.pokemontcg.io/pl1/111_hires.png"
@@ -8054,9 +7609,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8067,10 +7620,7 @@ let pl1 = [
         "number": "112",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/112.png",
             "large": "https://images.pokemontcg.io/pl1/112_hires.png"
@@ -8092,9 +7642,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8105,11 +7653,7 @@ let pl1 = [
         "number": "113",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/113.png",
             "large": "https://images.pokemontcg.io/pl1/113_hires.png"
@@ -8131,9 +7675,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8144,9 +7686,7 @@ let pl1 = [
         "number": "114",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/114.png",
             "large": "https://images.pokemontcg.io/pl1/114_hires.png"
@@ -8168,9 +7708,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8181,9 +7719,7 @@ let pl1 = [
         "number": "115",
         "artist": "Ryo Ueda",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/115.png",
             "large": "https://images.pokemontcg.io/pl1/115_hires.png"
@@ -8206,9 +7742,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8219,9 +7753,7 @@ let pl1 = [
         "number": "116",
         "artist": "Makoto Imai",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/116.png",
             "large": "https://images.pokemontcg.io/pl1/116_hires.png"
@@ -8243,9 +7775,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8256,9 +7786,7 @@ let pl1 = [
         "number": "117",
         "artist": "Yusuke Ishikawa",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/117.png",
             "large": "https://images.pokemontcg.io/pl1/117_hires.png"
@@ -8280,9 +7808,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8293,9 +7819,7 @@ let pl1 = [
         "number": "118",
         "artist": "Makoto Imai",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/118.png",
             "large": "https://images.pokemontcg.io/pl1/118_hires.png"
@@ -8325,9 +7849,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8338,9 +7860,7 @@ let pl1 = [
         "number": "119",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/119.png",
             "large": "https://images.pokemontcg.io/pl1/119_hires.png"
@@ -8370,9 +7890,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8383,9 +7901,7 @@ let pl1 = [
         "number": "120",
         "artist": "Ryo Ueda",
         "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/120.png",
             "large": "https://images.pokemontcg.io/pl1/120_hires.png"
@@ -8407,9 +7923,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8420,10 +7934,7 @@ let pl1 = [
         "number": "121",
         "artist": "Takumi Akabane",
         "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/121.png",
             "large": "https://images.pokemontcg.io/pl1/121_hires.png"
@@ -8485,9 +7996,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8501,9 +8010,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             483
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/122.png",
             "large": "https://images.pokemontcg.io/pl1/122_hires.png"
@@ -8558,9 +8065,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8574,9 +8079,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             452
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/123.png",
             "large": "https://images.pokemontcg.io/pl1/123_hires.png"
@@ -8637,9 +8140,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8653,9 +8154,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             487
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/124.png",
             "large": "https://images.pokemontcg.io/pl1/124_hires.png"
@@ -8711,9 +8210,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8727,9 +8224,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             484
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/125.png",
             "large": "https://images.pokemontcg.io/pl1/125_hires.png"
@@ -8789,9 +8284,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8805,9 +8298,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/126.png",
             "large": "https://images.pokemontcg.io/pl1/126_hires.png"
@@ -8865,9 +8356,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8881,9 +8370,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             492
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/127.png",
             "large": "https://images.pokemontcg.io/pl1/127_hires.png"
@@ -8937,9 +8424,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -8954,9 +8439,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             125
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/128.png",
             "large": "https://images.pokemontcg.io/pl1/128_hires.png"
@@ -9008,9 +8491,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -9025,9 +8506,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             107
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/129.png",
             "large": "https://images.pokemontcg.io/pl1/129_hires.png"
@@ -9087,9 +8566,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -9104,9 +8581,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             123
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/130.png",
             "large": "https://images.pokemontcg.io/pl1/130_hires.png"
@@ -9167,9 +8642,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -9183,9 +8656,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             270
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/SH4.png",
             "large": "https://images.pokemontcg.io/pl1/SH4_hires.png"
@@ -9251,9 +8722,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -9267,9 +8736,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             333
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/SH5.png",
             "large": "https://images.pokemontcg.io/pl1/SH5_hires.png"
@@ -9330,9 +8797,7 @@ let pl1 = [
             "series": "Platinum",
             "printedTotal": 127,
             "total": 133,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PL",
             "releaseDate": "2009/02/11",
             "images": {
@@ -9346,9 +8811,7 @@ let pl1 = [
         "nationalPokedexNumbers": [
             37
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/pl1/SH6.png",
             "large": "https://images.pokemontcg.io/pl1/SH6_hires.png"

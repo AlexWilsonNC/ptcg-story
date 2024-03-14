@@ -46,9 +46,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -63,9 +61,7 @@ let np = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/1.png",
             "large": "https://images.pokemontcg.io/np/1_hires.png"
@@ -159,9 +155,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -176,9 +170,7 @@ let np = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/2.png",
             "large": "https://images.pokemontcg.io/np/2_hires.png"
@@ -282,9 +274,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -299,9 +289,7 @@ let np = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/3.png",
             "large": "https://images.pokemontcg.io/np/3_hires.png"
@@ -401,9 +389,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -418,9 +404,7 @@ let np = [
         "nationalPokedexNumbers": [
             253
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/4.png",
             "large": "https://images.pokemontcg.io/np/4_hires.png"
@@ -511,9 +495,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -528,9 +510,7 @@ let np = [
         "nationalPokedexNumbers": [
             258
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/5.png",
             "large": "https://images.pokemontcg.io/np/5_hires.png"
@@ -621,9 +601,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -638,9 +616,7 @@ let np = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/6.png",
             "large": "https://images.pokemontcg.io/np/6_hires.png"
@@ -737,9 +713,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -754,9 +728,7 @@ let np = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/7.png",
             "large": "https://images.pokemontcg.io/np/7_hires.png"
@@ -847,9 +819,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -864,9 +834,7 @@ let np = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/8.png",
             "large": "https://images.pokemontcg.io/np/8_hires.png"
@@ -959,9 +927,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -976,9 +942,7 @@ let np = [
         "nationalPokedexNumbers": [
             256
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/9.png",
             "large": "https://images.pokemontcg.io/np/9_hires.png"
@@ -1069,9 +1033,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -1086,9 +1048,7 @@ let np = [
         "nationalPokedexNumbers": [
             258
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/10.png",
             "large": "https://images.pokemontcg.io/np/10_hires.png"
@@ -1181,9 +1141,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -1198,9 +1156,7 @@ let np = [
         "nationalPokedexNumbers": [
             259
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/11.png",
             "large": "https://images.pokemontcg.io/np/11_hires.png"
@@ -1291,9 +1247,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -1308,9 +1262,7 @@ let np = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/12.png",
             "large": "https://images.pokemontcg.io/np/12_hires.png"
@@ -1401,9 +1353,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -1418,9 +1368,7 @@ let np = [
         "nationalPokedexNumbers": [
             52
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/13.png",
             "large": "https://images.pokemontcg.io/np/13_hires.png"
@@ -1509,9 +1457,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -1526,9 +1472,7 @@ let np = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/14.png",
             "large": "https://images.pokemontcg.io/np/14_hires.png"
@@ -1619,9 +1563,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -1636,9 +1578,7 @@ let np = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/15.png",
             "large": "https://images.pokemontcg.io/np/15_hires.png"
@@ -1734,9 +1674,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -1751,9 +1689,7 @@ let np = [
         "nationalPokedexNumbers": [
             252
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/16.png",
             "large": "https://images.pokemontcg.io/np/16_hires.png"
@@ -1835,9 +1771,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -1852,9 +1786,7 @@ let np = [
         "nationalPokedexNumbers": [
             255
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/17.png",
             "large": "https://images.pokemontcg.io/np/17_hires.png"
@@ -1945,9 +1877,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -1962,9 +1892,7 @@ let np = [
         "nationalPokedexNumbers": [
             258
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/18.png",
             "large": "https://images.pokemontcg.io/np/18_hires.png"
@@ -2054,9 +1982,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -2071,9 +1997,7 @@ let np = [
         "nationalPokedexNumbers": [
             293
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/19.png",
             "large": "https://images.pokemontcg.io/np/19_hires.png"
@@ -2162,9 +2086,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -2179,9 +2101,7 @@ let np = [
         "nationalPokedexNumbers": [
             272
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/20.png",
             "large": "https://images.pokemontcg.io/np/20_hires.png"
@@ -2268,9 +2188,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -2285,9 +2203,7 @@ let np = [
         "nationalPokedexNumbers": [
             385
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/21.png",
             "large": "https://images.pokemontcg.io/np/21_hires.png"
@@ -2383,9 +2299,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -2400,9 +2314,7 @@ let np = [
         "nationalPokedexNumbers": [
             374
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/22.png",
             "large": "https://images.pokemontcg.io/np/22_hires.png"
@@ -2501,9 +2413,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -2518,9 +2428,7 @@ let np = [
         "nationalPokedexNumbers": [
             375
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/23.png",
             "large": "https://images.pokemontcg.io/np/23_hires.png"
@@ -2608,9 +2516,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -2625,9 +2531,7 @@ let np = [
         "nationalPokedexNumbers": [
             358
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/24.png",
             "large": "https://images.pokemontcg.io/np/24_hires.png"
@@ -2726,9 +2630,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -2743,9 +2645,7 @@ let np = [
         "nationalPokedexNumbers": [
             330
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/25.png",
             "large": "https://images.pokemontcg.io/np/25_hires.png"
@@ -2798,9 +2698,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -2812,9 +2710,7 @@ let np = [
         "number": "26",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/26.png",
             "large": "https://images.pokemontcg.io/np/26_hires.png"
@@ -2867,9 +2763,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -2881,9 +2775,7 @@ let np = [
         "number": "27",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/27.png",
             "large": "https://images.pokemontcg.io/np/27_hires.png"
@@ -2932,9 +2824,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -2946,9 +2836,7 @@ let np = [
         "number": "28",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/28.png",
             "large": "https://images.pokemontcg.io/np/28_hires.png"
@@ -3019,9 +2907,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -3036,9 +2922,7 @@ let np = [
         "nationalPokedexNumbers": [
             251
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/29.png",
             "large": "https://images.pokemontcg.io/np/29_hires.png"
@@ -3125,9 +3009,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -3142,9 +3024,7 @@ let np = [
         "nationalPokedexNumbers": [
             245
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/30.png",
             "large": "https://images.pokemontcg.io/np/30_hires.png"
@@ -3245,9 +3125,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -3262,9 +3140,7 @@ let np = [
         "nationalPokedexNumbers": [
             146
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/31.png",
             "large": "https://images.pokemontcg.io/np/31_hires.png"
@@ -3365,9 +3241,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -3382,9 +3256,7 @@ let np = [
         "nationalPokedexNumbers": [
             144
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/32.png",
             "large": "https://images.pokemontcg.io/np/32_hires.png"
@@ -3485,9 +3357,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -3502,9 +3372,7 @@ let np = [
         "nationalPokedexNumbers": [
             145
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/33.png",
             "large": "https://images.pokemontcg.io/np/33_hires.png"
@@ -3601,9 +3469,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -3618,9 +3484,7 @@ let np = [
         "nationalPokedexNumbers": [
             157
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/34.png",
             "large": "https://images.pokemontcg.io/np/34_hires.png"
@@ -3711,9 +3575,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -3728,9 +3590,7 @@ let np = [
         "nationalPokedexNumbers": [
             25
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/35.png",
             "large": "https://images.pokemontcg.io/np/35_hires.png"
@@ -3790,9 +3650,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -3804,9 +3662,7 @@ let np = [
         "number": "36",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/36.png",
             "large": "https://images.pokemontcg.io/np/36_hires.png"
@@ -3900,9 +3756,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -3917,9 +3771,7 @@ let np = [
         "nationalPokedexNumbers": [
             382
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/37.png",
             "large": "https://images.pokemontcg.io/np/37_hires.png"
@@ -4021,9 +3873,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -4038,9 +3888,7 @@ let np = [
         "nationalPokedexNumbers": [
             383
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/38.png",
             "large": "https://images.pokemontcg.io/np/38_hires.png"
@@ -4147,9 +3995,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -4164,9 +4010,7 @@ let np = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/39.png",
             "large": "https://images.pokemontcg.io/np/39_hires.png"
@@ -4253,9 +4097,7 @@ let np = [
             "series": "NP",
             "printedTotal": 40,
             "total": 40,
-            "legalities": {
-                "unlimited": "Legal"
-            },
+             
             "ptcgoCode": "PR-NP",
             "releaseDate": "2003/10/01",
             "updatedAt": "2020/05/01 16:06:00",
@@ -4270,9 +4112,7 @@ let np = [
         "nationalPokedexNumbers": [
             151
         ],
-        "legalities": {
-            "unlimited": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/np/40.png",
             "large": "https://images.pokemontcg.io/np/40_hires.png"

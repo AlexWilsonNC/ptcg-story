@@ -38,10 +38,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -56,10 +53,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/1.png",
             "large": "https://images.pokemontcg.io/dv1/1_hires.png"
@@ -112,10 +106,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -130,10 +121,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             147
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/2.png",
             "large": "https://images.pokemontcg.io/dv1/2_hires.png"
@@ -190,10 +178,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -208,10 +193,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/3.png",
             "large": "https://images.pokemontcg.io/dv1/3_hires.png"
@@ -266,10 +248,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -284,10 +263,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             148
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/4.png",
             "large": "https://images.pokemontcg.io/dv1/4_hires.png"
@@ -343,10 +319,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -361,10 +334,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             149
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/5.png",
             "large": "https://images.pokemontcg.io/dv1/5_hires.png"
@@ -418,10 +388,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -436,10 +403,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             371
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/6.png",
             "large": "https://images.pokemontcg.io/dv1/6_hires.png"
@@ -495,10 +459,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -513,10 +474,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             372
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/7.png",
             "large": "https://images.pokemontcg.io/dv1/7_hires.png"
@@ -568,10 +526,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -586,10 +541,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             373
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/8.png",
             "large": "https://images.pokemontcg.io/dv1/8_hires.png"
@@ -640,10 +592,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -658,10 +607,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             380
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/9.png",
             "large": "https://images.pokemontcg.io/dv1/9_hires.png"
@@ -714,10 +660,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -732,10 +675,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             381
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/10.png",
             "large": "https://images.pokemontcg.io/dv1/10_hires.png"
@@ -787,10 +727,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -805,10 +742,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             384
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/11.png",
             "large": "https://images.pokemontcg.io/dv1/11_hires.png"
@@ -861,10 +795,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -879,10 +810,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             610
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/12.png",
             "large": "https://images.pokemontcg.io/dv1/12_hires.png"
@@ -927,10 +855,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -945,10 +870,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             610
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/13.png",
             "large": "https://images.pokemontcg.io/dv1/13_hires.png"
@@ -1002,10 +924,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1020,10 +939,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             611
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/14.png",
             "large": "https://images.pokemontcg.io/dv1/14_hires.png"
@@ -1080,10 +996,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1098,10 +1011,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             611
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/15.png",
             "large": "https://images.pokemontcg.io/dv1/15_hires.png"
@@ -1156,10 +1066,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1174,10 +1081,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             612
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/16.png",
             "large": "https://images.pokemontcg.io/dv1/16_hires.png"
@@ -1230,10 +1134,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1248,10 +1149,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             621
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/17.png",
             "large": "https://images.pokemontcg.io/dv1/17_hires.png"
@@ -1275,10 +1173,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1288,11 +1183,7 @@ let dv1 = [
         },
         "number": "18",
         "artist": "Ryo Ueda",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/18.png",
             "large": "https://images.pokemontcg.io/dv1/18_hires.png"
@@ -1315,10 +1206,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1328,10 +1216,7 @@ let dv1 = [
         },
         "number": "19",
         "artist": "5ban Graphics",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/19.png",
             "large": "https://images.pokemontcg.io/dv1/19_hires.png"
@@ -1354,10 +1239,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1368,10 +1250,7 @@ let dv1 = [
         "number": "20",
         "artist": "5ban Graphics",
         "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/20.png",
             "large": "https://images.pokemontcg.io/dv1/20_hires.png"
@@ -1426,10 +1305,7 @@ let dv1 = [
             "series": "Black & White",
             "printedTotal": 20,
             "total": 21,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
+             
             "ptcgoCode": "DRV",
             "releaseDate": "2012/10/05",
             "images": {
@@ -1443,10 +1319,7 @@ let dv1 = [
         "nationalPokedexNumbers": [
             646
         ],
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
+         
         "images": {
             "small": "https://images.pokemontcg.io/dv1/21.png",
             "large": "https://images.pokemontcg.io/dv1/21_hires.png"
