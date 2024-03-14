@@ -243,7 +243,7 @@ body.darkon {
 }
 .all-cards-displayed {
     width: 95%;
-    padding: 10px 0 0 60px;
+    padding: 10px 0 50px 30px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -256,11 +256,11 @@ body.darkon {
     justify-content: center;
     margin: 5px;
     transition: ease all 0.3s;
-    width: 6vw;
+    width: 5.5vw;
     position: relative;
 }
 .all-cards-displayed img {
-    width: 6vw;
+    width: 5.5vw;
     height: auto;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
 }
@@ -275,10 +275,10 @@ body.darkon {
     align-items: center;
     justify-content: center;
     color:white;
-    padding: 20px;
-    font-size: 25px;
+    padding: 18px;
+    font-size: 22px;
     background-color: rgb(46, 48, 67);
-    margin-top: 100px;
+    margin-top: 85px;
     border: 2px solid black;
     border-radius: 15px;
     content: "+";
