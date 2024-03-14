@@ -445,6 +445,9 @@ body.darkon {
     align-items: center;
     justify-content: space-around;
 }
+.copy-as-dckli {
+    transition: background-color 1s ease;
+}
 .option-btn {
     padding: 5px 10px;
     font-size: 16px;

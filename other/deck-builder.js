@@ -16499,6 +16499,7 @@ function displayList(arr) {
             addCardBtn.style.opacity = 0;
             addCardBtn.style.pointerEvents = 'none';
             let deckImg = img.cloneNode(true);
+            deckImg.classList.add('card-added-in-decklist');
             deckImg.setAttribute('alt', "1" + " " + item.name + " " + item.setAbbrev + " " + item.number);
             deckImg.onclick = () => {
                 zoomedImg.setAttribute('src', item.images.large);
@@ -16562,17 +16563,29 @@ function displayList(arr) {
                 }
             })
 
-            // PRINT DECKLIST need to be outside of this function?
+            // // PRINT DECKLIST
+            let copyButton = document.querySelector('.copy-as-dckli');
             copyButton.addEventListener('click', function () {
-                copyButton.setAttribute('value', "")
-                navigator.clipboard.writeText(copyButton.value)
-            })
-            // stays here on this line
-            copyButton.addEventListener('click', function () {
-                copyButton.setAttribute('value', copyButton.value ? `${copyButton.value}\n${card.count} ${card.name} ${card.set} ${card.number}` : `${card.count} ${card.name} ${card.set} ${card.number}`)
-                navigator.clipboard.writeText(copyButton.value)
-            })
-            
+                const images = document.querySelectorAll('.card-added-in-decklist');
+                const altTexts = [];
+                images.forEach(image => {
+                  altTexts.push(image.alt);
+                });
+                const textToCopy = altTexts.join('\n');
+                navigator.clipboard.writeText(textToCopy);
+
+                const originalColor = getComputedStyle(copyButton).backgroundColor;
+                
+                // Change background color to white
+                copyButton.style.backgroundColor = 'white';
+                
+                // Change back to original color after 1 second
+                setTimeout(() => {
+                    copyButton.style.backgroundColor = originalColor;
+                }, 1000);
+
+              })
+
             // click addBtn again to add card count w/o duplicating?
             // addCardBtn.addEventListener("click", () => {
             //     let newNumber = defaultCountofOne
@@ -16621,15 +16634,6 @@ function displayList(arr) {
     }
 }
 displayList([latestSet]);
-
-// copy decklist
-let exportDecklist = document.querySelector('.copy-as-dckli');
-exportDecklist.addEventListener('click', function () {
-    alert('Copied Decklist to Clipboard');
-
-    exportDecklist.setAttribute('value', exportDecklist.value ? `${exportDecklist.value}\n${newNumber} ${card.name} ${card.set} ${card.number}` : `${newNumber} ${card.name} ${card.set} ${card.number}`);
-    navigator.clipboard.writeText(copyButton.value);
-})
 
 // collapse and open set boxes
 let coll = document.getElementsByClassName("set-white-box");

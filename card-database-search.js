@@ -175,6 +175,7 @@ function performSearch() {
          addCardBtn.style.opacity = 0;
          addCardBtn.style.pointerEvents = 'none';
          let deckImg = img.cloneNode(true);
+         deckImg.classList.add('card-added-in-decklist');
          deckImg.setAttribute('alt', "1" + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
          deckImg.onclick = () => {
              zoomedImg.setAttribute('src', poke.images.large);
@@ -233,6 +234,21 @@ function performSearch() {
                  addCardBtn.style.opacity = 1;
                  addCardBtn.style.pointerEvents = 'all';
              }
+         })
+
+         // // PRINT DECKLIST
+         let copyButton = document.querySelector('.copy-as-dckli');
+         copyButton.addEventListener('click', function () {
+             const images = document.querySelectorAll('.card-added-in-decklist');
+             const altTexts = [];
+
+             images.forEach(image => {
+                 altTexts.push(image.alt);
+             });
+
+             const textToCopy = altTexts.join('\n');
+
+             navigator.clipboard.writeText(textToCopy)
          })
          
          // reset decklist
