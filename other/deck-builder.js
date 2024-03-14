@@ -18581,7 +18581,6 @@ function collapseAdvanced() {
 // click advanced to dropdown
 advancedDropdownBtn.addEventListener('click', () => {
     advancedDropdown.classList.toggle('collapse-advanced');
-    // advancedDropdown.classList.toggle('mighty-scroll');
     document.querySelector('.expand-advanced-arrow').classList.toggle('inverted-arrow');
 })
 
@@ -18590,18 +18589,10 @@ window.addEventListener("load", () => {
     const spinner = document.querySelector(".spinner");
     spinner.classList.add("spinner-hidden");
 })
-// setsOl.addEventListener("load", () => {
-//     const spinner = document.querySelector(".spinner");
-
-//     spinner.classList.add("spinner-hidden");
-
-//     spinner.addEventListener("transitionend", () => {
-//         document.body.removeChild("spinner");
-//     })
-// })
 
 // hidden filters dropdown
 document.getElementById('filter-search').addEventListener("click", () => {
     document.querySelector('.hidden-filter-sec').classList.toggle('hide-filt-sec');
     document.querySelector('.all-cards-container').classList.toggle('all-cards-farther');
+    document.getElementById('filter-search').classList.toggle('blue-selected');
 })

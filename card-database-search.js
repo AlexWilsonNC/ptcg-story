@@ -138,27 +138,29 @@ const pokemonCard = [
 ];
 
 const searchField = document.querySelector('#search');
-// const setsOl = document.querySelector('.all-cards'); 
+const searchButton = document.querySelector('#searchButton');
 
-searchField.addEventListener('input', (e) => {
+function performSearch() {
+    const searchValue = searchField.value.trim().toLowerCase();
 
-   if (e.target.value === '') {
-      setsOl.innerHTML = '';
-      return;
-   }
+    if (searchValue === '') {
+        setsOl.innerHTML = '';
+        return;
+    }
 
-   const searchResults = pokemonCard.filter(poke => poke.name?.toLowerCase().includes(e.target.value.toLowerCase()));
+    const searchResults = pokemonCard.filter(poke => poke.name?.toLowerCase().includes(searchValue));
 
-   setsOl.innerHTML = '';
+    setsOl.innerHTML = '';
 
-   searchResults.forEach((poke) => {
-      let cardArea = document.createElement('div');
+    searchResults.forEach((poke) => {
+        let cardArea = document.createElement('div');
         cardArea.classList.add('searched-card-wrap');
         // card img
         let img = document.createElement('img');
         img.classList.add('database-card-in-list');
         img.setAttribute('src', poke.images.small);
         img.loading = 'lazy';
+
         // plus button on card
         let addCardBtn = document.createElement('div');
         addCardBtn.classList.add('add-card-to-deck');
@@ -166,18 +168,109 @@ searchField.addEventListener('input', (e) => {
         cardArea.appendChild(img);
         cardArea.appendChild(addCardBtn);
 
-        // sort set by number
-        // arrOfAllCards.sort((a, b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
+        addCardBtn.addEventListener("click", () => {
+         let deckCardContainer = document.createElement('div');
+         deckCardContainer.classList.add('deckbuilt-card-container');
+         addCardBtn.style.opacity = 0;
+         addCardBtn.style.pointerEvents = 'none';
+         let deckImg = img.cloneNode(true);
+         deckImg.onclick = () => {
+             zoomedImg.setAttribute('src', item.images.large);
+             zoombox.className = "show";
+         };
+
+         let deckAndPm = document.createElement('div');
+         deckAndPm.classList.add('deck-add-minus');
+
+         let minusCard = document.createElement('span');
+         minusCard.classList.add('pm-card');
+         minusCard.classList.add('minus-card');
+         minusCard.classList.add('material-symbols-outlined');
+         minusCard.innerHTML = "remove";
+         
+         let defaultCountofOne = 1;
+         // let currentDeckCount = document.querySelector('.current-deck-count').innerHTML;
+
+         let cardCount = document.createElement('img');
+         cardCount.classList.add('current-cnt-num');
+         cardCount.setAttribute('src', "../assets/card-count/" + defaultCountofOne + ".png");
+
+         let plusCard = document.createElement('span');
+         plusCard.classList.add('pm-card');
+         plusCard.classList.add('plus-card');
+         plusCard.classList.add('material-symbols-outlined');
+         plusCard.innerHTML = "add";
+
+         // add and minus card count
+         plusCard.addEventListener("click", () => {
+             let newNumber = defaultCountofOne
+             ? defaultCountofOne + 1
+             : defaultCountofOne - 1;
+             defaultCountofOne = newNumber;
+                 console.log(newNumber);
+                 if (defaultCountofOne === 4) {
+                     plusCard.style.opacity = '0';
+                     plusCard.style.pointerEvents = 'none';
+                 }
+             cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+             // currentDeckCount.innerHTML = newNumber;
+         })
+         minusCard.addEventListener("click", () => {
+             let newNumber = defaultCountofOne
+             ? defaultCountofOne - 1
+             : defaultCountofOne + 1;
+             defaultCountofOne = newNumber;
+             plusCard.style.opacity = '1';
+             plusCard.style.pointerEvents = 'all';
+                 console.log(newNumber);
+             cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+             if (defaultCountofOne === 0) {
+                 deckCardContainer.remove();
+                 addCardBtn.style.opacity = 1;
+                 addCardBtn.style.pointerEvents = 'all';
+             }
+         })
+         
+         // reset decklist
+         document.getElementById('deck-reset').addEventListener("click", () => {
+             deckCardContainer.remove();
+             addCardBtn.style.opacity = 1;
+             addCardBtn.style.pointerEvents = 'all';
+         })
+
+         deckAndPm.appendChild(minusCard);
+         deckAndPm.appendChild(cardCount);
+         deckAndPm.appendChild(plusCard);
+         deckCardContainer.appendChild(deckAndPm);
+         deckCardContainer.appendChild(deckImg);
+         deckbox.appendChild(deckCardContainer);
+     })
 
         // zoom card
-        img.onclick = () => {
+         img.onclick = () => {
             zoomedImg.setAttribute('src', poke.images.large);
             zoombox.className = "show";
-        };
-        zoombox.onclick = () => {
+         };
+         zoombox.onclick = () => {
             zoombox.className = "";
-        };
+         };
 
         setsOl.appendChild(cardArea);
-   });
+    });
+}
+
+// for button click
+searchButton.addEventListener('click', performSearch);
+
+// for Enter key press
+searchField.addEventListener('keypress', function(event) {
+    if (event.key === 'Enter') {
+        performSearch();
+    }
+});
+
+searchField.addEventListener('input', function() {
+   if (searchField.value.trim() === '') {
+         setsOl.innerHTML = ''; // Clear search results
+   }
 });
