@@ -159,6 +159,7 @@ function performSearch() {
         let img = document.createElement('img');
         img.classList.add('database-card-in-list');
         img.setAttribute('src', poke.images.small);
+        img.setAttribute('alt', poke.name + " " + poke.setAbbrev + " " + poke.number);
         img.loading = 'lazy';
 
         // plus button on card
@@ -213,6 +214,7 @@ function performSearch() {
                      plusCard.style.pointerEvents = 'none';
                  }
              cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+             deckImg.setAttribute('alt', newNumber + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
              // currentDeckCount.innerHTML = newNumber;
          })
          minusCard.addEventListener("click", () => {
@@ -224,6 +226,7 @@ function performSearch() {
              plusCard.style.pointerEvents = 'all';
                  console.log(newNumber);
              cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+             deckImg.setAttribute('alt', newNumber + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
              if (defaultCountofOne === 0) {
                  deckCardContainer.remove();
                  addCardBtn.style.opacity = 1;
