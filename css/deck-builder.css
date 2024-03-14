@@ -107,7 +107,7 @@ body.darkon {
 }
 .card-search-container {
     width: 40%;height:100%;
-    background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='40' height='59.428' patternTransform='scale(1) rotate(60)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(0, 0%, 100%, 0)'/><path d='M0 70.975V47.881m20-1.692L8.535 52.808v13.239L20 72.667l11.465-6.62V52.808zm0-32.95l11.465-6.62V-6.619L20-13.24 8.535-6.619V6.619L20 13.24m8.535 4.927v13.238L40 38.024l11.465-6.62V18.166L40 11.546zM20 36.333L0 47.88m0 0v23.094m0 0l20 11.548 20-11.548V47.88m0 0L20 36.333m0 0l20 11.549M0 11.547l-11.465 6.619v13.239L0 38.025l11.465-6.62v-13.24L0 11.548v-23.094l20-11.547 20 11.547v23.094M20 36.333V13.24'  stroke-linecap='square' stroke-width='0.5' stroke='hsla(0, 0%, 100%, 0.42)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>"), linear-gradient(to bottom, rgb(183, 189, 199), rgb(98, 101, 108));
+    background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='40' height='59.428' patternTransform='scale(1) rotate(60)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(0, 0%, 100%, 0)'/><path d='M0 70.975V47.881m20-1.692L8.535 52.808v13.239L20 72.667l11.465-6.62V52.808zm0-32.95l11.465-6.62V-6.619L20-13.24 8.535-6.619V6.619L20 13.24m8.535 4.927v13.238L40 38.024l11.465-6.62V18.166L40 11.546zM20 36.333L0 47.88m0 0v23.094m0 0l20 11.548 20-11.548V47.88m0 0L20 36.333m0 0l20 11.549M0 11.547l-11.465 6.619v13.239L0 38.025l11.465-6.62v-13.24L0 11.548v-23.094l20-11.547 20 11.547v23.094M20 36.333V13.24'  stroke-linecap='square' stroke-width='0.5' stroke='hsla(0, 0%, 100%, 0.42)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>"), linear-gradient(to bottom, rgb(183, 189, 199), rgb(156, 158, 163));
     z-index: 0;
     position: relative;
 }
@@ -117,7 +117,7 @@ body.darkon {
 }
 .event-searchbar {
     padding: 0px 0px 0px 20px;
-    height: 9vh;
+    height: 9.1vh;
     border-bottom: 2px solid black;
     display: flex;
     flex-direction: row;
@@ -128,17 +128,85 @@ body.darkon {
 .search-mag {
     margin-right: 10px;
     color: white;
-    margin-top: 30px;
+    margin-top: 35px;
 }
 .event-searchbar input {
     font-size: 18px;
     width: 50%;
-    padding: 2px 2px 2px 5px;
-    margin-top: 30px;
+    padding: 1px 0 2px 5px;
+    margin-top: 35px;
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
-    border: 2px solid rgb(0, 0, 0);
+    border: none;
     letter-spacing: 1px;
+}
+.hidden-filter-sec {
+    height: 10vh;
+    width: 100%;
+    background: linear-gradient(to top, rgb(28, 28, 28), rgb(50, 51, 53));
+    border-right: 2px solid black;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: -1px 2px 5px rgb(0, 0, 0);
+}
+.hide-filt-sec {
+    display: flex;
+}
+.hidden-filter-top,
+.hidden-filter-bottom {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.hidden-filter-bottom {
+    margin-top: 10px;
+}
+.hidden-filt-btns {
+    background-color: white;
+    padding: 5px 15px;
+    width: 17%;
+    text-align: center;
+    border-radius: 5px;
+    transition: ease all 0.2s;
+    font-weight: 400;
+    font-size: 16px;
+    border-radius: 7.5px;
+}
+#filt-btn-pokemon,
+#filt-btn-trainer,
+#filt-btn-energy {
+    border: 1px solid black;
+}
+#filt-btn-standard {
+    border: 1px solid rgb(43, 149, 255);
+}
+#filt-btn-expanded {
+    border: 1px solid rgb(255, 51, 51);
+}
+#filt-btn-legacy {
+    border: 1px solid rgb(0, 131, 0);
+}
+#filt-btn-pokemon:hover,
+#filt-btn-trainer:hover,
+#filt-btn-energy:hover {
+    cursor: pointer;
+    background-color: rgb(216, 216, 216);
+}
+#filt-btn-standard:hover {
+    cursor: pointer;
+    background-color: rgb(206, 234, 255);
+}
+#filt-btn-expanded:hover {
+    cursor: pointer;
+    background-color: rgb(255, 220, 220);
+}
+#filt-btn-legacy:hover {
+    cursor: pointer;
+    background-color: rgb(232, 255, 226);
 }
 .all-cards-container {
     display: flex;
@@ -147,6 +215,9 @@ body.darkon {
     height: 83.5vh;
     overflow-y: scroll;
     border-bottom: 1000px solid rgb(27, 27, 27);
+}
+.all-cards-farther {
+    height: 72vh;
 }
 .all-cards-container::-webkit-scrollbar {
     width: 12px;
@@ -160,7 +231,7 @@ body.darkon {
 }
 .all-cards-container::-webkit-scrollbar-thumb {
     border-radius: 8px;
-    background-color: rgb(164, 168, 173);
+    background-color: rgb(125, 165, 213);
     box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.9);
     ;
 }
@@ -174,11 +245,6 @@ body.darkon {
 }
 .all-cards-displayed {
     width: 90%;
-
-    /* height: 100vh;
-    overflow: hidden;
-    overflow-y: scroll; */
-
     padding: 10px;
     display: flex;
     justify-content: center;
@@ -203,9 +269,9 @@ body.darkon {
 .searched-card-wrap:hover {
     transform: scale(1.1);
 }
-.searched-card-wrap:hover > .add-card-to-deck {
+/* .searched-card-wrap:hover > .add-card-to-deck {
     display: flex;
-}
+} */
 .add-card-to-deck {
     display: flex;
     align-items: center;
@@ -431,7 +497,7 @@ body.darkon {
 #stat-count {
     color: black;
     background-color: white;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
     border: 1px solid black;
     padding: 5px 7px;
     transition: ease all 0.2s;
@@ -444,13 +510,14 @@ body.darkon {
 .support-again {
     color: rgb(232, 232, 232);
     background-color: rgb(22, 22, 22);
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
     border: 1px solid black;
     padding: 5px 7px;
-    border-radius: 5px;
     transition: ease all 0.2s;
     font-weight: 400;
     font-size: 16px;
+    border-radius: 25px;
+    padding: 5px 15px;
 }
 #deck-reset,
 #deck-sort {
@@ -463,13 +530,11 @@ body.darkon {
 #deck-reset span,
 #deck-sort span {
     font-size: 18px;
-    margin-right: 8px;
+    margin-right: 5px;
 }
-#deck-reset,
-#deck-sort,
-.support-again {
-    border-radius: 25px;
-    padding: 5px 15px;
+#deck-reset span {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 #deck-reset:hover,
 #deck-sort:hover,
@@ -487,7 +552,7 @@ body.darkon {
 }
 .expand-advanced {
     width: 100%;
-    height: 825px;
+    height: 90vh;
     background-image: linear-gradient(to bottom left, rgba(214, 216, 226, 0.9), rgba(103, 139, 175, 0.9));
     display: flex;
     flex-direction: column;
@@ -509,7 +574,7 @@ body.darkon {
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
 
-    margin-top: -790px;
+    margin-top: -86vh;
 }
 .expand-advanced::-webkit-scrollbar { /* Chrome */
     display: none;
@@ -621,8 +686,8 @@ body.darkon {
 }
 .set-cube,
 .set-cube-promo {
-    height: 100px;
-    width: 90px;
+    height: 125px;
+    width: 109px;
 }
 .setit {
     width: 70px;
@@ -668,36 +733,34 @@ body.darkon {
     padding: 5px;
     transition: ease all 0.15s;
 }
-#filter-search {
-    background-color: rgb(255, 255, 255);
-    margin-top: 30px;
-    font-size: 16px;
-    margin-left: 15px;
-    padding: 2px 5px;
-    border-radius: 5px;
-    border: 2px solid black;
-}
+#filter-search,
 #search-reset {
-    background-color: rgb(255, 255, 255);
-    margin-top: 30px;
+    background-color: white;
+    margin-top: 35px;
     font-size: 16px;
     margin-left: 15px;
-    padding: 3px 5px;
+    padding: 3px 7px;
     border-radius: 5px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    border: 2px solid black;
+    border: none;
+}
+#filter-search span {
+    font-size: 18px;
+    margin-left: 5px;
 }
 #search-reset span {
     font-size: 18px;
     margin-right: 5px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 #filter-search:hover,
 #search-reset:hover {
     cursor: pointer;
-    background-color: rgb(207, 207, 207);
+    background-color: rgb(216, 216, 216);
 }
 
 /**/

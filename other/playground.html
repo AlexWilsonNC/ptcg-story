@@ -129,8 +129,10 @@
 
             <!-- expand advanced -->
             <div class='expand-advanced'>
+                
                 <div id='advanced-content'>
-                    <h2>Filter by Set:</h2>
+                    
+                    <!-- <h2>Filter by Set:</h2> -->
                     <!-- sv -->
                     <button type="button" class="set-white-box">
                         <div class='country-name'>
@@ -692,17 +694,42 @@
             <div class='event-searchbar'>
                 <span class="material-symbols-outlined search-mag">search</span>
                 <input type='search' name='search' class='search' id='search' placeholder=' Card Search'>
-                <select id="filter-search" onchange="eeeee()">
-                    <option value="" selected disabled hidden>Sort Filter</option>
-                </select>
+                <div id='filter-search'>
+                    <p>Search Filter</p>
+                    <span class="material-symbols-outlined">keyboard_arrow_down</span>
+                </div>
                 <div id='search-reset' onclick="displayList(sv4pt5)">
                     <span class="material-symbols-outlined">refresh</span>
                     <p>Reset</p>
                 </div>
             </div>
-
+            <div class='hidden-filter-sec'>
+                <div class='hidden-filter-top'>
+                    <div class='hidden-filt-btns' id='filt-btn-standard'>
+                        <p>Standard</p>
+                    </div>
+                    <div class='hidden-filt-btns' id='filt-btn-expanded'>
+                        <p>Expanded</p>
+                    </div>
+                    <div class='hidden-filt-btns' id='filt-btn-legacy'>
+                        <p>Legacy</p>
+                    </div>
+                </div>
+                <div class='hidden-filter-bottom'>
+                    <div class='hidden-filt-btns' id='filt-btn-pokemon'>
+                        <p>Pokémon</p>
+                    </div>
+                    <div class='hidden-filt-btns' id='filt-btn-trainer'>
+                        <p>Trainers</p>
+                    </div>
+                    <div class='hidden-filt-btns' id='filt-btn-energy'>
+                        <p>Energy</p>
+                    </div>
+                </div>
+            </div>
             <!-- card search list results -->
             <div class='all-cards-container'>
+            
                 <div class='all-cards-displayed'>
 
                 </div>
@@ -741,7 +768,6 @@
                                 <span class="material-symbols-outlined">code</span>
                                 <p>Export JSON</p>
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -965,6 +991,8 @@
             })
         }
     </script> -->
+
+    <!-- create a background for the canvas and create a border radius for the card count -->
 
 </body>
 

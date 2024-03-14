@@ -18583,3 +18583,8 @@ window.addEventListener("load", () => {
 //         document.body.removeChild("spinner");
 //     })
 // })
+
+document.getElementById('filter-search').addEventListener("click", () => {
+    document.querySelector('.hidden-filter-sec').classList.toggle('hide-filt-sec');
+    document.querySelector('.all-cards-container').classList.toggle('all-cards-farther');
+})
