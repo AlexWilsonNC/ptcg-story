@@ -46,7 +46,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM01",
+        "numberWithAbbrev": "SM01",
+        "number": "01",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
@@ -107,7 +108,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM02",
+        "numberWithAbbrev": "SM02",
+        "number": "02",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
@@ -167,7 +169,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM03",
+        "numberWithAbbrev": "SM03",
+        "number": "03",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.",
@@ -244,7 +247,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM04",
+        "numberWithAbbrev": "SM04",
+        "number": "04",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
@@ -333,7 +337,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM05",
+        "numberWithAbbrev": "SM05",
+        "number": "05",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -402,7 +407,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM06",
+        "numberWithAbbrev": "SM06",
+        "number": "06",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "It's considered to be a good Pokémon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
@@ -469,7 +475,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM07",
+        "numberWithAbbrev": "SM07",
+        "number": "07",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "It can peck at a rate of 16 times a second to drill holes in trees. It uses holes for food storage and for nesting.",
@@ -539,7 +546,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM08",
+        "numberWithAbbrev": "SM08",
+        "number": "08",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
@@ -611,7 +619,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM09",
+        "numberWithAbbrev": "SM09",
+        "number": "09",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "The long hairs on its back act as lightning rods. The bolts of lightning it attracts are stored as energy in its electric sac.",
@@ -677,7 +686,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM10",
+        "numberWithAbbrev": "SM10",
+        "number": "10",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "It emits flickering spores that cause drowsiness. When its prey succumb to sleep, this Pokémon feeds on them by sucking in their energy.",
@@ -745,7 +755,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM11",
+        "numberWithAbbrev": "SM11",
+        "number": "11",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "It stuns its prey with psychokinesis and then grinds them to mush with its strong teeth. Even Shellder's shell is no match for it.",
@@ -812,7 +823,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM12",
+        "numberWithAbbrev": "SM12",
+        "number": "12",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "They form groups of roughly 20 individuals. Their mutual bond is remarkable—they will never let down a comrade.",
@@ -878,7 +890,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM13",
+        "numberWithAbbrev": "SM13",
+        "number": "13",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "Deep in the jungle, high in the lofty canopy, this Pokémon abides. On rare occasions, it shows up at the beach to match wits with Slowking.",
@@ -963,7 +976,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM14",
+        "numberWithAbbrev": "SM14",
+        "number": "14",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -1033,7 +1047,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM15",
+        "numberWithAbbrev": "SM15",
+        "number": "15",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "This is Zygarde's form at times when it uses its overwhelming power to suppress those who endanger the ecosystem.",
@@ -1119,7 +1134,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM16",
+        "numberWithAbbrev": "SM16",
+        "number": "16",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -1207,7 +1223,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM17",
+        "numberWithAbbrev": "SM17",
+        "number": "17",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -1273,7 +1290,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM18",
+        "numberWithAbbrev": "SM18",
+        "number": "18",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "Fleeing a volcanic eruption, it settled on a snowy mountain. As it races through the snowfields, it sends up a spray of snow.",
@@ -1345,7 +1363,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM19",
+        "numberWithAbbrev": "SM19",
+        "number": "19",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "This Oricorio has sipped purple nectar. Its elegant, attractive dance will send the minds and hearts of its enemies to another world.",
@@ -1417,7 +1436,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM20",
+        "numberWithAbbrev": "SM20",
+        "number": "20",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "It spits a mud that provides resistance to both wind and rain, so the walls of old houses were often coated with it.",
@@ -1485,7 +1505,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM21",
+        "numberWithAbbrev": "SM21",
+        "number": "21",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
@@ -1555,7 +1576,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM22",
+        "numberWithAbbrev": "SM22",
+        "number": "22",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
@@ -1625,7 +1647,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM23",
+        "numberWithAbbrev": "SM23",
+        "number": "23",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
@@ -1695,7 +1718,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM24",
+        "numberWithAbbrev": "SM24",
+        "number": "24",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.",
@@ -1762,7 +1786,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM25",
+        "numberWithAbbrev": "SM25",
+        "number": "25",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "It requires a lot of effort to maintain Lurantis's vivid coloring, but some collectors enjoy this work and treat it as their hobby.",
@@ -1829,7 +1854,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM26",
+        "numberWithAbbrev": "SM26",
+        "number": "26",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "Its long, striking legs aren't just for show but to be used to kick with skill. In victory, it shows off by kicking the defeated, laughing boisterously.",
@@ -1898,7 +1924,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM27",
+        "numberWithAbbrev": "SM27",
+        "number": "27",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
@@ -1972,7 +1999,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM28",
+        "numberWithAbbrev": "SM28",
+        "number": "28",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It produces electricity via an electrical organ in its abdomen. It overwhelms bird Pokémon with shocking beams of electrical energy.",
@@ -2033,7 +2061,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM29",
+        "numberWithAbbrev": "SM29",
+        "number": "29",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "Its actual appearance is unknown. A scholar who saw what was under its rag was overwhelmed by terror and died from the shock.",
@@ -2107,7 +2136,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM30",
+        "numberWithAbbrev": "SM30",
+        "number": "30",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "This guardian deity of Melemele is brimming with curiosity. It summons thunderclouds and stores their lightning inside its body.",
@@ -2181,7 +2211,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM30a",
+        "numberWithAbbrev": "SM30a",
+        "number": "30a",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "This guardian deity of Melemele is brimming with curiosity. It summons thunderclouds and stores their lightning inside its body.",
@@ -2255,7 +2286,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM31",
+        "numberWithAbbrev": "SM31",
+        "number": "31",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "This guardian deity of Melemele is brimming with curiosity. It summons thunderclouds and stores their lightning inside its body.",
@@ -2332,7 +2364,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM32",
+        "numberWithAbbrev": "SM32",
+        "number": "32",
         "artist": "PLANETA",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2406,7 +2439,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM33",
+        "numberWithAbbrev": "SM33",
+        "number": "33",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2493,7 +2527,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM34",
+        "numberWithAbbrev": "SM34",
+        "number": "34",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2576,7 +2611,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM35",
+        "numberWithAbbrev": "SM35",
+        "number": "35",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2664,7 +2700,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM36",
+        "numberWithAbbrev": "SM36",
+        "number": "36",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2743,7 +2780,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM37",
+        "numberWithAbbrev": "SM37",
+        "number": "37",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2826,7 +2864,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM38",
+        "numberWithAbbrev": "SM38",
+        "number": "38",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2910,7 +2949,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM39",
+        "numberWithAbbrev": "SM39",
+        "number": "39",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2979,7 +3019,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM40",
+        "numberWithAbbrev": "SM40",
+        "number": "40",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.",
@@ -3045,7 +3086,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM41",
+        "numberWithAbbrev": "SM41",
+        "number": "41",
         "artist": "nagimiso",
         "rarity": "Promo",
         "flavorText": "It is born asleep, and it dies asleep. All its movements are apparently no more than the results of it tossing and turning in its dreams.",
@@ -3105,7 +3147,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM42",
+        "numberWithAbbrev": "SM42",
+        "number": "42",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
@@ -3179,7 +3222,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM43",
+        "numberWithAbbrev": "SM43",
+        "number": "43",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "This Pokémon was not originally found in Alola. Human actions caused a surge in their numbers, and they went feral. They're prideful and crafty.",
@@ -3253,7 +3297,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM44",
+        "numberWithAbbrev": "SM44",
+        "number": "44",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "The spiny fur on its back is normally at rest. When this Pokémon becomes agitated, its fur stands on end and stabs into its attackers.",
@@ -3320,7 +3365,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM45",
+        "numberWithAbbrev": "SM45",
+        "number": "45",
         "artist": "You Iribi",
         "rarity": "Promo",
         "flavorText": "This guardian deity of Akala is guilelessly cruel. The fragrant aroma of flowers is the source of its energy.",
@@ -3386,7 +3432,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM46",
+        "numberWithAbbrev": "SM46",
+        "number": "46",
         "artist": "Eri Yamaki",
         "rarity": "Promo",
         "flavorText": "In battle, it uses its bladed tail to counter any Zangoose. It secretes a deadly venom in its tail.",
@@ -3455,7 +3502,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM47",
+        "numberWithAbbrev": "SM47",
+        "number": "47",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved and grew fur.",
@@ -3526,7 +3574,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM48",
+        "numberWithAbbrev": "SM48",
+        "number": "48",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "This is Zygarde's form at times when it uses its overwhelming power to suppress those who endanger the ecosystem.",
@@ -3596,7 +3645,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM49",
+        "numberWithAbbrev": "SM49",
+        "number": "49",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "This immensely dangerous Pokémon possesses overwhelming physical strength. Its habitat is generally off-limits.",
@@ -3671,7 +3721,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM50",
+        "numberWithAbbrev": "SM50",
+        "number": "50",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -3743,7 +3794,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM51",
+        "numberWithAbbrev": "SM51",
+        "number": "51",
         "artist": "sui",
         "rarity": "Promo",
         "flavorText": "This Pokémon was not originally found in Alola. Human actions caused a surge in their numbers, and they went feral. They're prideful and crafty.",
@@ -3810,7 +3862,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM52",
+        "numberWithAbbrev": "SM52",
+        "number": "52",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "With a flashing slash of its giant sharp claws, it cleaves seawater—or even air—right in two.",
@@ -3882,7 +3935,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM53",
+        "numberWithAbbrev": "SM53",
+        "number": "53",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "Swinging its massive anchor, it can KO Wailord in a single blow. What appears to be green seaweed is actually its body.",
@@ -3949,7 +4003,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM54",
+        "numberWithAbbrev": "SM54",
+        "number": "54",
         "artist": "Anesaki Dynamic",
         "rarity": "Promo",
         "flavorText": "Not only does it perceive auras, but it has also gained the power to control them. It employs them in battle.",
@@ -4018,7 +4073,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM55",
+        "numberWithAbbrev": "SM55",
+        "number": "55",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "It fires arrow quills from its wings with such precision they can pierce a pebble at distances over a hundred yards.",
@@ -4102,7 +4158,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM56",
+        "numberWithAbbrev": "SM56",
+        "number": "56",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -4193,7 +4250,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM57",
+        "numberWithAbbrev": "SM57",
+        "number": "57",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -4273,7 +4331,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM58",
+        "numberWithAbbrev": "SM58",
+        "number": "58",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -4351,7 +4410,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM59",
+        "numberWithAbbrev": "SM59",
+        "number": "59",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -4438,7 +4498,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM60",
+        "numberWithAbbrev": "SM60",
+        "number": "60",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -4506,7 +4567,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM61",
+        "numberWithAbbrev": "SM61",
+        "number": "61",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
@@ -4590,7 +4652,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM62",
+        "numberWithAbbrev": "SM62",
+        "number": "62",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -4672,7 +4735,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM63",
+        "numberWithAbbrev": "SM63",
+        "number": "63",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -4740,7 +4804,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM64",
+        "numberWithAbbrev": "SM64",
+        "number": "64",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "Although its name was Type: Null at first, the boy who evolved it into this form gave it the name by which it is now known.",
@@ -4815,7 +4880,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM65",
+        "numberWithAbbrev": "SM65",
+        "number": "65",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It only evolves to this form in the Alola region. According to researchers, its diet is one of the causes of this change.",
@@ -4897,7 +4963,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM66",
+        "numberWithAbbrev": "SM66",
+        "number": "66",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -4990,7 +5057,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM67",
+        "numberWithAbbrev": "SM67",
+        "number": "67",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -5075,7 +5143,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM68",
+        "numberWithAbbrev": "SM68",
+        "number": "68",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -5158,7 +5227,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM69",
+        "numberWithAbbrev": "SM69",
+        "number": "69",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -5230,7 +5300,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM70",
+        "numberWithAbbrev": "SM70",
+        "number": "70",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
         "flavorText": "A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies.",
@@ -5316,7 +5387,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM71",
+        "numberWithAbbrev": "SM71",
+        "number": "71",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -5388,7 +5460,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM72",
+        "numberWithAbbrev": "SM72",
+        "number": "72",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "It only evolves to this form in the Alola region. According to researchers, its diet is one of the causes of this change.",
@@ -5455,7 +5528,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM73",
+        "numberWithAbbrev": "SM73",
+        "number": "73",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with.",
@@ -5521,7 +5595,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM74",
+        "numberWithAbbrev": "SM74",
+        "number": "74",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.",
@@ -5595,7 +5670,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM75",
+        "numberWithAbbrev": "SM75",
+        "number": "75",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
@@ -5672,7 +5748,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM76",
+        "numberWithAbbrev": "SM76",
+        "number": "76",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
@@ -5738,7 +5815,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM77",
+        "numberWithAbbrev": "SM77",
+        "number": "77",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
@@ -5777,7 +5855,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM78",
+        "numberWithAbbrev": "SM78",
+        "number": "78",
         "artist": "Naoki Saito",
         "rarity": "Promo",
          
@@ -5838,7 +5917,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM79",
+        "numberWithAbbrev": "SM79",
+        "number": "79",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
@@ -5930,7 +6010,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM80",
+        "numberWithAbbrev": "SM80",
+        "number": "80",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -6006,7 +6087,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM81",
+        "numberWithAbbrev": "SM81",
+        "number": "81",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
@@ -6083,7 +6165,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM82",
+        "numberWithAbbrev": "SM82",
+        "number": "82",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
         "flavorText": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
@@ -6159,7 +6242,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM83",
+        "numberWithAbbrev": "SM83",
+        "number": "83",
         "artist": "kodama",
         "rarity": "Promo",
         "flavorText": "It changes so it looks like its foe, tricks it, and then uses that opportunity to flee.",
@@ -6245,7 +6329,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM84",
+        "numberWithAbbrev": "SM84",
+        "number": "84",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -6315,7 +6400,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM85",
+        "numberWithAbbrev": "SM85",
+        "number": "85",
         "artist": "Emi Ando",
         "rarity": "Promo",
         "flavorText": "Able to conceal itself in shadows, it never appears before humans, so its very existence was the stuff of myth.",
@@ -6394,7 +6480,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM86",
+        "numberWithAbbrev": "SM86",
+        "number": "86",
         "artist": "kodama",
         "rarity": "Promo",
         "flavorText": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
@@ -6458,7 +6545,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM87",
+        "numberWithAbbrev": "SM87",
+        "number": "87",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.",
@@ -6527,7 +6615,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM88",
+        "numberWithAbbrev": "SM88",
+        "number": "88",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
@@ -6603,7 +6692,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM89",
+        "numberWithAbbrev": "SM89",
+        "number": "89",
         "artist": "Misa Tsutsui",
         "rarity": "Promo",
         "flavorText": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
@@ -6694,7 +6784,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM90",
+        "numberWithAbbrev": "SM90",
+        "number": "90",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -6775,7 +6866,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM91",
+        "numberWithAbbrev": "SM91",
+        "number": "91",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -6843,7 +6935,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM92",
+        "numberWithAbbrev": "SM92",
+        "number": "92",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy.",
@@ -6916,7 +7009,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM93",
+        "numberWithAbbrev": "SM93",
+        "number": "93",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "Able to conceal itself in shadows, it never appears before humans, so its very existence was the stuff of myth.",
@@ -6982,7 +7076,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM94",
+        "numberWithAbbrev": "SM94",
+        "number": "94",
         "artist": "Shigenori Negishi",
         "rarity": "Promo",
         "flavorText": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
@@ -7048,7 +7143,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM95",
+        "numberWithAbbrev": "SM95",
+        "number": "95",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "They can detect the species of a living being—and its emotions—from over half a mile away. They control auras and hunt their prey in packs.",
@@ -7123,7 +7219,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM96",
+        "numberWithAbbrev": "SM96",
+        "number": "96",
         "artist": "tetsuya koizumi",
         "rarity": "Promo",
         "flavorText": "Boiling blood, like plasma, circulates through its body. It makes its dwelling place in volcanic caves.",
@@ -7193,7 +7290,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM97",
+        "numberWithAbbrev": "SM97",
+        "number": "97",
         "artist": "nagimiso",
         "rarity": "Promo",
         "flavorText": "It adores having Rattata and Raticate for dinner, but as it's diurnal, it never encounters them. This Pokémon boasts incredible patience.",
@@ -7269,7 +7367,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM98",
+        "numberWithAbbrev": "SM98",
+        "number": "98",
         "artist": "Saya Tsuruta",
         "rarity": "Promo",
         "flavorText": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
@@ -7330,7 +7429,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM99",
+        "numberWithAbbrev": "SM99",
+        "number": "99",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "Its actual appearance is unknown. A scholar who saw what was under its rag was overwhelmed by horror and died of the shock.",
@@ -7413,7 +7513,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM100",
+        "numberWithAbbrev": "SM100",
+        "number": "100",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7500,7 +7601,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM101",
+        "numberWithAbbrev": "SM101",
+        "number": "101",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7592,7 +7694,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM102",
+        "numberWithAbbrev": "SM102",
+        "number": "102",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7683,7 +7786,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM103",
+        "numberWithAbbrev": "SM103",
+        "number": "103",
         "artist": "PLANETA",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7774,7 +7878,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM103a",
+        "numberWithAbbrev": "SM103a",
+        "number": "103a",
         "artist": "PLANETA Igarashi",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7859,7 +7964,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM104",
+        "numberWithAbbrev": "SM104",
+        "number": "104",
         "artist": "PLANETA",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7944,7 +8050,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM104a",
+        "numberWithAbbrev": "SM104a",
+        "number": "104a",
         "artist": "PLANETA Igarashi",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -8013,7 +8120,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM105",
+        "numberWithAbbrev": "SM105",
+        "number": "105",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "Bathed in the setting sun of evening, Lycanroc has undergone a special kind of evolution. An intense fighting spirit underlies its calmness.",
@@ -8088,7 +8196,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM106",
+        "numberWithAbbrev": "SM106",
+        "number": "106",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "Lunala no longer has a will of its own. Now under the control of Necrozma, it continuously expels all of its energy.",
@@ -8163,7 +8272,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM107",
+        "numberWithAbbrev": "SM107",
+        "number": "107",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "This is its form with it is devouring the light of Solgaleo. It pounces on its foes and then slashes them with the claws on its four limbs and back.",
@@ -8240,7 +8350,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM108",
+        "numberWithAbbrev": "SM108",
+        "number": "108",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This Pikachu is wearing its Trainer's cap. Since the cap's not the right size, the fit is a bit loose.",
@@ -8317,7 +8428,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM109",
+        "numberWithAbbrev": "SM109",
+        "number": "109",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
@@ -8394,7 +8506,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM110",
+        "numberWithAbbrev": "SM110",
+        "number": "110",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
@@ -8471,7 +8584,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM111",
+        "numberWithAbbrev": "SM111",
+        "number": "111",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
@@ -8548,7 +8662,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM112",
+        "numberWithAbbrev": "SM112",
+        "number": "112",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
@@ -8625,7 +8740,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM113",
+        "numberWithAbbrev": "SM113",
+        "number": "113",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
@@ -8702,7 +8818,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM114",
+        "numberWithAbbrev": "SM114",
+        "number": "114",
         "artist": "2017 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
@@ -8770,7 +8887,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM115",
+        "numberWithAbbrev": "SM115",
+        "number": "115",
         "artist": "You Iribi",
         "rarity": "Promo",
         "flavorText": "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.",
@@ -8845,7 +8963,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM116",
+        "numberWithAbbrev": "SM116",
+        "number": "116",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "It appeared from the Ultra Wormhole. It raided a power plant, so people think it energizes itself with electricity.",
@@ -8912,7 +9031,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM117",
+        "numberWithAbbrev": "SM117",
+        "number": "117",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
@@ -8982,7 +9102,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM118",
+        "numberWithAbbrev": "SM118",
+        "number": "118",
         "artist": "sui",
         "rarity": "Promo",
         "flavorText": "Bathed in the setting sun of evening, Lycanroc has undergone a special kind of evolution. An intense fighting spirit underlies its calmness.",
@@ -9043,7 +9164,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM119",
+        "numberWithAbbrev": "SM119",
+        "number": "119",
         "artist": "OOYAMA",
         "rarity": "Promo",
         "flavorText": "Its six eggs use telepathy to communicate among themselves. It is believed to carry plant genes and the genes of other species.",
@@ -9104,7 +9226,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM120",
+        "numberWithAbbrev": "SM120",
+        "number": "120",
         "artist": "Hideki Ishikawa",
         "rarity": "Promo",
         "flavorText": "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.",
@@ -9196,7 +9319,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM121",
+        "numberWithAbbrev": "SM121",
+        "number": "121",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -9279,7 +9403,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM122",
+        "numberWithAbbrev": "SM122",
+        "number": "122",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -9353,7 +9478,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM123",
+        "numberWithAbbrev": "SM123",
+        "number": "123",
         "artist": "nagimiso",
         "rarity": "Promo",
         "flavorText": "Lunala no longer has a will of its own. Now under the control of Necrozma, it continuously expels all of its energy.",
@@ -9428,7 +9554,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM124",
+        "numberWithAbbrev": "SM124",
+        "number": "124",
         "artist": "nagimiso",
         "rarity": "Promo",
         "flavorText": "This is its form with it is devouring the light of Solgaleo. It pounces on its foes and then slashes them with the claws on its four limbs and back.",
@@ -9513,7 +9640,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM125",
+        "numberWithAbbrev": "SM125",
+        "number": "125",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -9584,7 +9712,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM126",
+        "numberWithAbbrev": "SM126",
+        "number": "126",
         "artist": "PLANETA",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -9658,7 +9787,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM127",
+        "numberWithAbbrev": "SM127",
+        "number": "127",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "This Pokémon's steel spikes are sheathed in ice. Stabs from these spikes cause deep wounds and severe frostbite as well.",
@@ -9734,7 +9864,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM128",
+        "numberWithAbbrev": "SM128",
+        "number": "128",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "Possessing a calm demeanor, this Pokémon was revered as a deity incarnate before it was identified as a regional variant of Ninetales.",
@@ -9803,7 +9934,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM129",
+        "numberWithAbbrev": "SM129",
+        "number": "129",
         "artist": "Anesaki Dynamic",
         "rarity": "Promo",
         "flavorText": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
@@ -9873,7 +10005,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM130",
+        "numberWithAbbrev": "SM130",
+        "number": "130",
         "artist": "Ryota Murayama",
         "rarity": "Promo",
         "flavorText": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
@@ -9941,7 +10074,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM131",
+        "numberWithAbbrev": "SM131",
+        "number": "131",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "One kind of Ultra Beast. Witnesses have seen it burn down a forest by expelling gas from its two arms.",
@@ -10007,7 +10141,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM132",
+        "numberWithAbbrev": "SM132",
+        "number": "132",
         "artist": "0313",
         "rarity": "Promo",
         "flavorText": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
@@ -10096,7 +10231,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM133",
+        "numberWithAbbrev": "SM133",
+        "number": "133",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -10185,7 +10321,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM134",
+        "numberWithAbbrev": "SM134",
+        "number": "134",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -10253,7 +10390,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM135",
+        "numberWithAbbrev": "SM135",
+        "number": "135",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
@@ -10322,7 +10460,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM136",
+        "numberWithAbbrev": "SM136",
+        "number": "136",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
@@ -10407,7 +10546,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM137",
+        "numberWithAbbrev": "SM137",
+        "number": "137",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -10497,7 +10637,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM138",
+        "numberWithAbbrev": "SM138",
+        "number": "138",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -10579,7 +10720,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM139",
+        "numberWithAbbrev": "SM139",
+        "number": "139",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -10646,7 +10788,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM140",
+        "numberWithAbbrev": "SM140",
+        "number": "140",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "It flies around on its wings, which have grown in at last. In its happiness, it gushes hot flames, burning up the fields it passes over.",
@@ -10730,7 +10873,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM141",
+        "numberWithAbbrev": "SM141",
+        "number": "141",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -10798,7 +10942,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM142",
+        "numberWithAbbrev": "SM142",
+        "number": "142",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
@@ -10875,7 +11020,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM143",
+        "numberWithAbbrev": "SM143",
+        "number": "143",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
         "flavorText": "It is said to be the legendary bird Pokémon of fire. Every flap of its wings creates a dazzling flare of flames.",
@@ -10950,7 +11096,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM144",
+        "numberWithAbbrev": "SM144",
+        "number": "144",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
         "flavorText": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
@@ -11025,7 +11172,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM145",
+        "numberWithAbbrev": "SM145",
+        "number": "145",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
         "flavorText": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
@@ -11105,7 +11253,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM146",
+        "numberWithAbbrev": "SM146",
+        "number": "146",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -11186,7 +11335,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM147",
+        "numberWithAbbrev": "SM147",
+        "number": "147",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -11224,7 +11374,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM148",
+        "numberWithAbbrev": "SM148",
+        "number": "148",
         "artist": "Naoki Saito",
         "rarity": "Promo",
          
@@ -11286,7 +11437,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM149",
+        "numberWithAbbrev": "SM149",
+        "number": "149",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.",
@@ -11350,7 +11502,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM150",
+        "numberWithAbbrev": "SM150",
+        "number": "150",
         "artist": "nagimiso",
         "rarity": "Promo",
         "flavorText": "This rough Pokémon stores energy inside its body, then sweeps across the land, shooting off electricity.",
@@ -11422,7 +11575,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM151",
+        "numberWithAbbrev": "SM151",
+        "number": "151",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
@@ -11494,7 +11648,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM152",
+        "numberWithAbbrev": "SM152",
+        "number": "152",
         "artist": "HYOGONOSUKE",
         "rarity": "Promo",
         "flavorText": "As it flutters about, it scatters its strangely glowing scales. Touching them is said to restore good health on the spot.",
@@ -11555,7 +11710,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM153",
+        "numberWithAbbrev": "SM153",
+        "number": "153",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
@@ -11625,7 +11781,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM154",
+        "numberWithAbbrev": "SM154",
+        "number": "154",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "It burns its bodily fluids to create a poisonous gas. When its enemies become disoriented from inhaling the gas, it attacks them.",
@@ -11705,7 +11862,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM155",
+        "numberWithAbbrev": "SM155",
+        "number": "155",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -11789,7 +11947,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM156",
+        "numberWithAbbrev": "SM156",
+        "number": "156",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -11861,7 +12020,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM157",
+        "numberWithAbbrev": "SM157",
+        "number": "157",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "It's in its nature to store electricity. It feel stressed now and then if it's unable to fully discharge the electricity.",
@@ -11927,7 +12087,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM158",
+        "numberWithAbbrev": "SM158",
+        "number": "158",
         "artist": "Anesaki Dynamic",
         "rarity": "Promo",
         "flavorText": "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
@@ -11990,7 +12151,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM159",
+        "numberWithAbbrev": "SM159",
+        "number": "159",
         "artist": "Misa Tsutsui",
         "rarity": "Promo",
         "flavorText": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.",
@@ -12057,7 +12219,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM160",
+        "numberWithAbbrev": "SM160",
+        "number": "160",
         "artist": "Midori Harada",
         "rarity": "Promo",
         "flavorText": "It uses its scaly, rugged body to seal the entrance of its nest and protect its young from predators.",
@@ -12128,7 +12291,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM161",
+        "numberWithAbbrev": "SM161",
+        "number": "161",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "It is said to have the ability to grant any wish for just one week every thousand years.",
@@ -12204,7 +12368,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM162",
+        "numberWithAbbrev": "SM162",
+        "number": "162",
         "artist": "Saya Tsuruta",
         "rarity": "Promo",
         "flavorText": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
@@ -12265,7 +12430,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM163",
+        "numberWithAbbrev": "SM163",
+        "number": "163",
         "artist": "Saya Tsuruta",
         "rarity": "Promo",
         "flavorText": "A lonely Pokémon, it conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pokémon.",
@@ -12331,7 +12497,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM164",
+        "numberWithAbbrev": "SM164",
+        "number": "164",
         "artist": "You Iribi",
         "rarity": "Promo",
         "flavorText": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
@@ -12392,7 +12559,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM165",
+        "numberWithAbbrev": "SM165",
+        "number": "165",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "This is its form when it has absorbed overwhelming light energy. It fires laser beams from all over its body.",
@@ -12470,7 +12638,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM166",
+        "numberWithAbbrev": "SM166",
+        "number": "166",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12558,7 +12727,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM167",
+        "numberWithAbbrev": "SM167",
+        "number": "167",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12642,7 +12812,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM168",
+        "numberWithAbbrev": "SM168",
+        "number": "168",
         "artist": "kawayoo",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12738,7 +12909,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM169",
+        "numberWithAbbrev": "SM169",
+        "number": "169",
         "artist": "Tomokazu Komiya",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12815,7 +12987,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM170",
+        "numberWithAbbrev": "SM170",
+        "number": "170",
         "rarity": "Promo",
         "flavorText": "He loves to show off his vast knowledge. This expressive Pikachu is like a middle-aged man.",
         "nationalPokedexNumbers": [
@@ -12896,7 +13069,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM171",
+        "numberWithAbbrev": "SM171",
+        "number": "171",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12975,7 +13149,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM172",
+        "numberWithAbbrev": "SM172",
+        "number": "172",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -13061,7 +13236,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM173",
+        "numberWithAbbrev": "SM173",
+        "number": "173",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -13149,7 +13325,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM174",
+        "numberWithAbbrev": "SM174",
+        "number": "174",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -13237,7 +13414,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM175",
+        "numberWithAbbrev": "SM175",
+        "number": "175",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -13325,7 +13503,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM176",
+        "numberWithAbbrev": "SM176",
+        "number": "176",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -13400,7 +13579,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM177",
+        "numberWithAbbrev": "SM177",
+        "number": "177",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
@@ -13487,7 +13667,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM178",
+        "numberWithAbbrev": "SM178",
+        "number": "178",
         "artist": "PLANETA Otani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -13553,7 +13734,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM179",
+        "numberWithAbbrev": "SM179",
+        "number": "179",
         "artist": "Hasuno",
         "rarity": "Promo",
         "flavorText": "It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread.",
@@ -13620,7 +13802,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM180",
+        "numberWithAbbrev": "SM180",
+        "number": "180",
         "artist": "Hiroki Asanuma",
         "rarity": "Promo",
         "flavorText": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
@@ -13694,7 +13877,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM181",
+        "numberWithAbbrev": "SM181",
+        "number": "181",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
@@ -13760,7 +13944,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM182",
+        "numberWithAbbrev": "SM182",
+        "number": "182",
         "artist": "tetsuya koizumi",
         "rarity": "Promo",
         "flavorText": "Although the jewel on its forehead appears to be a different color than those of Alolan Persian, it's mostly made of the same material.",
@@ -13827,7 +14012,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM183",
+        "numberWithAbbrev": "SM183",
+        "number": "183",
         "artist": "Aya Kusube",
         "rarity": "Promo",
         "flavorText": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
@@ -13904,7 +14090,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM184",
+        "numberWithAbbrev": "SM184",
+        "number": "184",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "Current studies show it can evolve into an incredible eight different species of Pokémon.",
@@ -13973,7 +14160,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM185",
+        "numberWithAbbrev": "SM185",
+        "number": "185",
         "artist": "Hideki Ishikawa",
         "rarity": "Promo",
         "flavorText": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
@@ -14042,7 +14230,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM186",
+        "numberWithAbbrev": "SM186",
+        "number": "186",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "If it inhales deeply, that's a sign it's about to attack. Prepare to be hit by flames of over 3,000 degrees Fahrenheit!",
@@ -14120,7 +14309,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM187",
+        "numberWithAbbrev": "SM187",
+        "number": "187",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -14202,7 +14392,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM188",
+        "numberWithAbbrev": "SM188",
+        "number": "188",
         "artist": "aky CG Works",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -14280,7 +14471,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM189",
+        "numberWithAbbrev": "SM189",
+        "number": "189",
         "artist": "sadaji",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -14355,7 +14547,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM190",
+        "numberWithAbbrev": "SM190",
+        "number": "190",
         "artist": "Framestore",
         "rarity": "Promo",
         "flavorText": "He was the partner of Tim's father, Harry, who has gone missing. This Pikachu loves the dark coffee at the Hi-Hat Cafe.",
@@ -14426,7 +14619,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM191",
+        "numberWithAbbrev": "SM191",
+        "number": "191",
         "artist": "sui",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -14516,7 +14710,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM192",
+        "numberWithAbbrev": "SM192",
+        "number": "192",
         "artist": "nagimiso",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -14600,7 +14795,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM193",
+        "numberWithAbbrev": "SM193",
+        "number": "193",
         "artist": "Anesaki Dynamic",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -14666,7 +14862,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM194",
+        "numberWithAbbrev": "SM194",
+        "number": "194",
         "artist": "MPC Film",
         "rarity": "Promo",
         "flavorText": "Skilled in deduction, he's a self-proclaimed \"great detective.\" His detective hat is his trademark.",
@@ -14754,7 +14951,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM195",
+        "numberWithAbbrev": "SM195",
+        "number": "195",
         "artist": "Framestore",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -14839,7 +15037,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM196",
+        "numberWithAbbrev": "SM196",
+        "number": "196",
         "artist": "MPC Film",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -14917,7 +15116,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM197",
+        "numberWithAbbrev": "SM197",
+        "number": "197",
         "artist": "MPC Film",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -14987,7 +15187,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM198",
+        "numberWithAbbrev": "SM198",
+        "number": "198",
         "artist": "MPC Film",
         "rarity": "Promo",
         "flavorText": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
@@ -15048,7 +15249,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM199",
+        "numberWithAbbrev": "SM199",
+        "number": "199",
         "artist": "Framestore",
         "rarity": "Promo",
         "flavorText": "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
@@ -15124,7 +15326,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM200",
+        "numberWithAbbrev": "SM200",
+        "number": "200",
         "artist": "Framestore",
         "rarity": "Promo",
         "flavorText": "It grows close to others easily and is also easily spoiled. The disparity between its face and its actions makes many young people wild about it.",
@@ -15210,7 +15413,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM201",
+        "numberWithAbbrev": "SM201",
+        "number": "201",
         "artist": "Ryota Murayama",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -15276,7 +15480,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM202",
+        "numberWithAbbrev": "SM202",
+        "number": "202",
         "artist": "MAHOU",
         "rarity": "Promo",
         "flavorText": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
@@ -15344,7 +15549,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM203",
+        "numberWithAbbrev": "SM203",
+        "number": "203",
         "artist": "Ryuta Fuse",
         "rarity": "Promo",
         "flavorText": "This guardian deity of Poni Island manipulates water. Because it lives deep within a thick fog, it came to be both feared and revered.",
@@ -15413,7 +15619,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM204",
+        "numberWithAbbrev": "SM204",
+        "number": "204",
         "artist": "Hasuno",
         "rarity": "Promo",
         "flavorText": "It looks somehow pained as it rages around in search of light, which serves as its energy. It's apparently from another world.",
@@ -15484,7 +15691,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM205",
+        "numberWithAbbrev": "SM205",
+        "number": "205",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends.",
@@ -15552,7 +15760,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM206",
+        "numberWithAbbrev": "SM206",
+        "number": "206",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
@@ -15619,7 +15828,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM207",
+        "numberWithAbbrev": "SM207",
+        "number": "207",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "It's so popular with the elderly that there's a magazine devoted to this Pokémon. Fans obsess over the particular length and angle of its arms.",
@@ -15693,7 +15903,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM208",
+        "numberWithAbbrev": "SM208",
+        "number": "208",
         "artist": "Misa Tsutsui",
         "rarity": "Promo",
         "flavorText": "It has an organ that generates electricity in its abdomen. It concentrates energy in its strong jaws and fires off powerful jolts of electricity.",
@@ -15760,7 +15971,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM209",
+        "numberWithAbbrev": "SM209",
+        "number": "209",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
@@ -15840,7 +16052,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM210",
+        "numberWithAbbrev": "SM210",
+        "number": "210",
         "artist": "HYOGONOSUKE",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -15918,7 +16131,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM211",
+        "numberWithAbbrev": "SM211",
+        "number": "211",
         "artist": "aky CG Works",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -15994,7 +16208,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM212",
+        "numberWithAbbrev": "SM212",
+        "number": "212",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -16074,7 +16289,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM213",
+        "numberWithAbbrev": "SM213",
+        "number": "213",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -16139,7 +16355,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM214",
+        "numberWithAbbrev": "SM214",
+        "number": "214",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
@@ -16203,7 +16420,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM215",
+        "numberWithAbbrev": "SM215",
+        "number": "215",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
@@ -16283,7 +16501,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM216",
+        "numberWithAbbrev": "SM216",
+        "number": "216",
         "artist": "PLANETA Tsuji",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -16362,7 +16581,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM217",
+        "numberWithAbbrev": "SM217",
+        "number": "217",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -16428,7 +16648,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM218",
+        "numberWithAbbrev": "SM218",
+        "number": "218",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
@@ -16497,7 +16718,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM219",
+        "numberWithAbbrev": "SM219",
+        "number": "219",
         "artist": "Ryuta Fuse",
         "rarity": "Promo",
         "flavorText": "A Pokémon that races across the land. It is said that one is born every time a new volcano appears.",
@@ -16561,7 +16783,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM220",
+        "numberWithAbbrev": "SM220",
+        "number": "220",
         "artist": "Kagemaru Himeno",
         "rarity": "Promo",
         "flavorText": "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.",
@@ -16626,7 +16849,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM221",
+        "numberWithAbbrev": "SM221",
+        "number": "221",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It's apparently one kind of Ultra Beast.",
@@ -16700,7 +16924,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM222",
+        "numberWithAbbrev": "SM222",
+        "number": "222",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
         "flavorText": "Feared for its wrath and the curses it spreads, this Pokémon will also, on a whim, cast spells that help people.",
@@ -16771,7 +16996,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM223",
+        "numberWithAbbrev": "SM223",
+        "number": "223",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends.",
@@ -16839,7 +17065,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM224",
+        "numberWithAbbrev": "SM224",
+        "number": "224",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
@@ -16905,7 +17132,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM225",
+        "numberWithAbbrev": "SM225",
+        "number": "225",
         "artist": "nagimiso",
         "rarity": "Promo",
         "flavorText": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
@@ -16971,7 +17199,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM226",
+        "numberWithAbbrev": "SM226",
+        "number": "226",
         "artist": "2019 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "This Pokémon was created by Mewtwo to prove that copies can be even more powerful than their originals.",
@@ -17048,7 +17277,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM227",
+        "numberWithAbbrev": "SM227",
+        "number": "227",
         "artist": "2019 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
@@ -17107,7 +17337,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM228",
+        "numberWithAbbrev": "SM228",
+        "number": "228",
         "artist": "2019 Pikachu Project",
         "rarity": "Promo",
         "flavorText": "Mewtwo was on a rampage searching for meaning to its existence in this world when Giovanni suppressed and controlled its power.",
@@ -17193,7 +17424,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM229",
+        "numberWithAbbrev": "SM229",
+        "number": "229",
         "artist": "Yuka Morii",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -17270,7 +17502,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM230",
+        "numberWithAbbrev": "SM230",
+        "number": "230",
         "artist": "Kagemaru Himeno",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -17309,7 +17542,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM231",
+        "numberWithAbbrev": "SM231",
+        "number": "231",
         "artist": "Naoki Saito",
         "rarity": "Promo",
          
@@ -17397,7 +17631,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM232",
+        "numberWithAbbrev": "SM232",
+        "number": "232",
         "artist": "aky CG Works",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -17485,7 +17720,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM233",
+        "numberWithAbbrev": "SM233",
+        "number": "233",
         "artist": "Q-rais",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -17560,7 +17796,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM234",
+        "numberWithAbbrev": "SM234",
+        "number": "234",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
@@ -17628,7 +17865,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM235",
+        "numberWithAbbrev": "SM235",
+        "number": "235",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "The question of why only Eevee has such unstable genes has still not been solved.",
@@ -17710,7 +17948,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM236",
+        "numberWithAbbrev": "SM236",
+        "number": "236",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -17778,7 +18017,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM237",
+        "numberWithAbbrev": "SM237",
+        "number": "237",
         "artist": "chibi",
         "rarity": "Promo",
         "flavorText": "Although it doesn't like disputes, it will sharpen the leaf on its tail into a blade and fight if it has to protect its friends.",
@@ -17847,7 +18087,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM238",
+        "numberWithAbbrev": "SM238",
+        "number": "238",
         "artist": "Mizue",
         "rarity": "Promo",
         "flavorText": "It protects itself by freezing its fur into sharp needles. It can drop its body temperature below –75 degrees Fahrenheit.",
@@ -17928,7 +18169,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM239",
+        "numberWithAbbrev": "SM239",
+        "number": "239",
         "artist": "PLANETA Tsuji",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -18002,7 +18244,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM240",
+        "numberWithAbbrev": "SM240",
+        "number": "240",
         "artist": "Hasuno",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -18081,7 +18324,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM241",
+        "numberWithAbbrev": "SM241",
+        "number": "241",
         "artist": "so-taro",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -18170,7 +18414,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM242",
+        "numberWithAbbrev": "SM242",
+        "number": "242",
         "artist": "aky CG Works",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -18241,7 +18486,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM243",
+        "numberWithAbbrev": "SM243",
+        "number": "243",
         "artist": "Ryuta Fuse",
         "rarity": "Promo",
         "flavorText": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.",
@@ -18311,7 +18557,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM244",
+        "numberWithAbbrev": "SM244",
+        "number": "244",
         "artist": "Shibuzoh.",
         "rarity": "Promo",
         "flavorText": "As it did more and more with its tail, its hands became clumsy. It makes its nest high in the treetops.",
@@ -18352,7 +18599,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM246",
+        "numberWithAbbrev": "SM246",
+        "number": "246",
         "artist": "Ryuta Fuse",
         "rarity": "Promo",
          
@@ -18434,7 +18682,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM247",
+        "numberWithAbbrev": "SM247",
+        "number": "247",
         "artist": "aky CG Works",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -18508,7 +18757,8 @@ let smp = [
                 "logo": "https://images.pokemontcg.io/smp/logo.png"
             }
         },
-        "number": "SM245",
+        "numberWithAbbrev": "SM245",
+        "number": "245",
         "artist": "NC Empire",
         "rarity": "Promo",
         "flavorText": "Feared for its wrath and the curses it spreads, this Pokémon will also, on a whim, cast spells that help people.",

@@ -16621,6 +16621,7 @@ exportDecklist.addEventListener('click', function () {
 // collapse and open set boxes
 let coll = document.getElementsByClassName("set-white-box");
 let setCube = document.querySelectorAll(".set-cube");
+let setCubePromo = document.querySelectorAll(".set-cube-promo");
 let i;
 for (i = 0; i < coll.length; i++) {
     coll[i].addEventListener("click", function () {
@@ -16637,6 +16638,15 @@ for (i = 0; i < coll.length; i++) {
             }
         })
         setCube.forEach(function(elem) {
+            elem.addEventListener("click", function () {
+                if (content.style.maxHeight === "2000px") {
+                    content.style.maxHeight = "0px";
+                    document.querySelector('.expand-advanced-arrow').classList.toggle('inverted-arrow');
+                    document.querySelector('.all-cards-container').scrollTop = 0;
+                }
+            })
+        })
+        setCubePromo.forEach(function(elem) {
             elem.addEventListener("click", function () {
                 if (content.style.maxHeight === "2000px") {
                     content.style.maxHeight = "0px";

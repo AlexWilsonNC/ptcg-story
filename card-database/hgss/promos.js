@@ -61,7 +61,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS01",
+        "numberWithAbbrev": "HGSS01",
+        "number": "01",
         "artist": "Takashi Yamaguchi",
         "rarity": "Promo",
         "flavorText": "A legend says that its body glows in seven colors. A rainbow is said to form behind when it flies.",
@@ -70,8 +71,8 @@ let hsp = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS01.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS01_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_001_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_001_R_EN.png"
         }
     },
     {
@@ -136,7 +137,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS02",
+        "numberWithAbbrev": "HGSS02",
+        "number": "02",
         "artist": "Takashi Yamaguchi",
         "rarity": "Promo",
         "flavorText": "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.",
@@ -145,8 +147,8 @@ let hsp = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS02.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS02_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_002_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_002_R_EN.png"
         }
     },
     {
@@ -214,7 +216,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS03",
+        "numberWithAbbrev": "HGSS03",
+        "number": "03",
         "artist": "Kanako Eo",
         "rarity": "Promo",
         "flavorText": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
@@ -223,8 +226,8 @@ let hsp = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS03.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS03_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_003_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_003_R_EN.png"
         }
     },
     {
@@ -279,7 +282,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS04",
+        "numberWithAbbrev": "HGSS04",
+        "number": "04",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
@@ -288,8 +292,8 @@ let hsp = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS04.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS04_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_004_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_004_R_EN.png"
         }
     },
     {
@@ -352,7 +356,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS05",
+        "numberWithAbbrev": "HGSS05",
+        "number": "05",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
@@ -361,8 +366,8 @@ let hsp = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS05.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS05_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_005_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_005_R_EN.png"
         }
     },
     {
@@ -425,7 +430,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS06",
+        "numberWithAbbrev": "HGSS06",
+        "number": "06",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
@@ -434,8 +440,8 @@ let hsp = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS06.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS06_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_006_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_006_R_EN.png"
         }
     },
     {
@@ -494,7 +500,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS07",
+        "numberWithAbbrev": "HGSS07",
+        "number": "07",
         "artist": "Kent Kanetsuna",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -502,8 +509,8 @@ let hsp = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS07.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS07_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_007_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_007_R_EN.png"
         }
     },
     {
@@ -568,7 +575,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS08",
+        "numberWithAbbrev": "HGSS08",
+        "number": "08",
         "artist": "Noriko Hotta",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -576,8 +584,8 @@ let hsp = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS08.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS08_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_008_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_008_R_EN.png"
         }
     },
     {
@@ -635,7 +643,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS09",
+        "numberWithAbbrev": "HGSS09",
+        "number": "09",
         "artist": "Wataru Kawahara",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -643,8 +652,8 @@ let hsp = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/hsp/HGSS09.png",
-            "large": "https://images.pokemontcg.io/hsp/HGSS09_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_009_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/HSP/HSP_009_R_EN.png"
         }
     },
     {
@@ -702,7 +711,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS10",
+        "numberWithAbbrev": "HGSS10",
+        "number": "10",
         "artist": "Wataru Kawahara",
         "rarity": "Promo",
         "flavorText": "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.",
@@ -769,7 +779,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS11",
+        "numberWithAbbrev": "HGSS11",
+        "number": "11",
         "artist": "Wataru Kawahara",
         "rarity": "Promo",
         "flavorText": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
@@ -827,7 +838,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS12",
+        "numberWithAbbrev": "HGSS12",
+        "number": "12",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
@@ -885,7 +897,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS13",
+        "numberWithAbbrev": "HGSS13",
+        "number": "13",
         "artist": "Midori Harada",
         "rarity": "Promo",
         "flavorText": "Its lips are the most sensitive part of its body. It always uses its lips first to examine things.",
@@ -953,7 +966,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS14",
+        "numberWithAbbrev": "HGSS14",
+        "number": "14",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.",
@@ -1018,7 +1032,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS15",
+        "numberWithAbbrev": "HGSS15",
+        "number": "15",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
@@ -1090,7 +1105,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS16",
+        "numberWithAbbrev": "HGSS16",
+        "number": "16",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "It absorbs electricity from telephone poles. It shorts out its body to create crackling noises.",
@@ -1162,7 +1178,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS17",
+        "numberWithAbbrev": "HGSS17",
+        "number": "17",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "Exposure to electricity from Minun and Plusle promotes blood circulation and relaxes muscles.",
@@ -1197,7 +1214,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS18",
+        "numberWithAbbrev": "HGSS18",
+        "number": "18",
         "artist": "Sumiyoshi Kizuki",
         "rarity": "Promo",
          
@@ -1258,7 +1276,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS19",
+        "numberWithAbbrev": "HGSS19",
+        "number": "19",
         "artist": "Noriko Hotta",
         "rarity": "Promo",
         "flavorText": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
@@ -1317,7 +1336,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS20",
+        "numberWithAbbrev": "HGSS20",
+        "number": "20",
         "artist": "Yuri Umemura",
         "rarity": "Promo",
         "flavorText": "Volcanoes erupt when it barks. Unable to contain its sheer power, it races headlong around the land.",
@@ -1376,7 +1396,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS21",
+        "numberWithAbbrev": "HGSS21",
+        "number": "21",
         "artist": "Hideaki Hakozaki",
         "rarity": "Promo",
         "flavorText": "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.",
@@ -1446,7 +1467,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS22",
+        "numberWithAbbrev": "HGSS22",
+        "number": "22",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "It is a manmade Pokémon. Since it doesn't breathe, people are eager to try it in any environment..",
@@ -1516,7 +1538,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS23",
+        "numberWithAbbrev": "HGSS23",
+        "number": "23",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "This upgraded version of Porygon is designed for space exploration. It can't fly, though.",
@@ -1583,7 +1606,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS24",
+        "numberWithAbbrev": "HGSS24",
+        "number": "24",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
@@ -1651,7 +1675,8 @@ let hsp = [
                 "logo": "https://images.pokemontcg.io/hsp/logo.png"
             }
         },
-        "number": "HGSS25",
+        "numberWithAbbrev": "HGSS25",
+        "number": "25",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",

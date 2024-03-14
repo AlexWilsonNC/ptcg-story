@@ -56,7 +56,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY01",
+        "numberWithAbbrev": "XY01",
+        "number": "01",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
@@ -126,7 +127,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY02",
+        "numberWithAbbrev": "XY02",
+        "number": "02",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
@@ -196,7 +198,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY03",
+        "numberWithAbbrev": "XY03",
+        "number": "03",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
@@ -271,7 +274,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY04",
+        "numberWithAbbrev": "XY04",
+        "number": "04",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
@@ -345,7 +349,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY05",
+        "numberWithAbbrev": "XY05",
+        "number": "05",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
@@ -419,7 +424,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY06",
+        "numberWithAbbrev": "XY06",
+        "number": "06",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "When this legendary Pokémon's wings and tail feathers spread wide and glow red, it absorbs the life force of all living creatures.",
@@ -500,7 +506,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY07",
+        "numberWithAbbrev": "XY07",
+        "number": "07",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -578,7 +585,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY08",
+        "numberWithAbbrev": "XY08",
+        "number": "08",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -653,7 +661,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY09",
+        "numberWithAbbrev": "XY09",
+        "number": "09",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -719,7 +728,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY10",
+        "numberWithAbbrev": "XY10",
+        "number": "10",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory.",
@@ -780,7 +790,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY11",
+        "numberWithAbbrev": "XY11",
+        "number": "11",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.",
@@ -856,7 +867,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY12",
+        "numberWithAbbrev": "XY12",
+        "number": "12",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
@@ -923,7 +935,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY13",
+        "numberWithAbbrev": "XY13",
+        "number": "13",
         "artist": "PLANETA",
         "rarity": "Promo",
         "flavorText": "Its four ruggedly developed arms can launch a flurry of 1,000 punches in just two seconds.",
@@ -998,7 +1011,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY14",
+        "numberWithAbbrev": "XY14",
+        "number": "14",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "It can control trees at will. It will trap people who harm the forest, so they can never leave.",
@@ -1074,7 +1088,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY15",
+        "numberWithAbbrev": "XY15",
+        "number": "15",
         "artist": "Kagemaru Himeno",
         "rarity": "Promo",
         "flavorText": "It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work.",
@@ -1144,7 +1159,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY16",
+        "numberWithAbbrev": "XY16",
+        "number": "16",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It can tell how its trainer is feeling by subtle shifts in the grip on its horns. This empathetic sense lets them run as if one being.",
@@ -1221,7 +1237,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY17",
+        "numberWithAbbrev": "XY17",
+        "number": "17",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -1295,7 +1312,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY18",
+        "numberWithAbbrev": "XY18",
+        "number": "18",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -1367,7 +1385,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY19",
+        "numberWithAbbrev": "XY19",
+        "number": "19",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -1438,7 +1457,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY20",
+        "numberWithAbbrev": "XY20",
+        "number": "20",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -1510,7 +1530,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY21",
+        "numberWithAbbrev": "XY21",
+        "number": "21",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
@@ -1585,7 +1606,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY22",
+        "numberWithAbbrev": "XY22",
+        "number": "22",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",
@@ -1654,7 +1676,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY23",
+        "numberWithAbbrev": "XY23",
+        "number": "23",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
@@ -1726,7 +1749,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY24",
+        "numberWithAbbrev": "XY24",
+        "number": "24",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
@@ -1807,7 +1831,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY25",
+        "numberWithAbbrev": "XY25",
+        "number": "25",
         "artist": "PLANETA",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -1877,7 +1902,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY26",
+        "numberWithAbbrev": "XY26",
+        "number": "26",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "The male with the largest mane of fire is the leader of the pride.",
@@ -1916,7 +1942,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY27",
+        "numberWithAbbrev": "XY27",
+        "number": "27",
         "artist": "Naoki Saito",
         "rarity": "Promo",
          
@@ -1990,7 +2017,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY28",
+        "numberWithAbbrev": "XY28",
+        "number": "28",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2065,7 +2093,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY29",
+        "numberWithAbbrev": "XY29",
+        "number": "29",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2140,7 +2169,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY30",
+        "numberWithAbbrev": "XY30",
+        "number": "30",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2216,7 +2246,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY31",
+        "numberWithAbbrev": "XY31",
+        "number": "31",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
@@ -2293,7 +2324,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY32",
+        "numberWithAbbrev": "XY32",
+        "number": "32",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "When this legendary Pokémon's wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.",
@@ -2332,7 +2364,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY33",
+        "numberWithAbbrev": "XY33",
+        "number": "33",
         "artist": "Ken Sugimori",
         "rarity": "Promo",
          
@@ -2411,7 +2444,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY34",
+        "numberWithAbbrev": "XY34",
+        "number": "34",
         "artist": "PLANETA",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2482,7 +2516,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY35",
+        "numberWithAbbrev": "XY35",
+        "number": "35",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2541,7 +2576,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY36",
+        "numberWithAbbrev": "XY36",
+        "number": "36",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
@@ -2601,7 +2637,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY37",
+        "numberWithAbbrev": "XY37",
+        "number": "37",
         "artist": "sui",
         "rarity": "Promo",
         "flavorText": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit.",
@@ -2671,7 +2708,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY38",
+        "numberWithAbbrev": "XY38",
+        "number": "38",
         "artist": "Aya Kusube",
         "rarity": "Promo",
         "flavorText": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
@@ -2744,7 +2782,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY39",
+        "numberWithAbbrev": "XY39",
+        "number": "39",
         "artist": "hatachu",
         "rarity": "Promo",
         "flavorText": "It stores energy by sleeping at underwater depths at which no other life-forms can survive.",
@@ -2808,7 +2847,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY40",
+        "numberWithAbbrev": "XY40",
+        "number": "40",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
@@ -2882,7 +2922,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY41",
+        "numberWithAbbrev": "XY41",
+        "number": "41",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -2955,7 +2996,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY42",
+        "numberWithAbbrev": "XY42",
+        "number": "42",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -3036,7 +3078,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY43",
+        "numberWithAbbrev": "XY43",
+        "number": "43",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -3106,7 +3149,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY44",
+        "numberWithAbbrev": "XY44",
+        "number": "44",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -3183,7 +3227,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY45",
+        "numberWithAbbrev": "XY45",
+        "number": "45",
         "artist": "PLANETA",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -3258,7 +3303,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY46",
+        "numberWithAbbrev": "XY46",
+        "number": "46",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
@@ -3331,7 +3377,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY47",
+        "numberWithAbbrev": "XY47",
+        "number": "47",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.",
@@ -3398,7 +3445,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY48",
+        "numberWithAbbrev": "XY48",
+        "number": "48",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.",
@@ -3471,7 +3519,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY49",
+        "numberWithAbbrev": "XY49",
+        "number": "49",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "The same rocks that form its body have been found in ground layers around the world.",
@@ -3538,7 +3587,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY50",
+        "numberWithAbbrev": "XY50",
+        "number": "50",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "Although it possesses a violent temperament, it won't put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.",
@@ -3608,7 +3658,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY51",
+        "numberWithAbbrev": "XY51",
+        "number": "51",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
@@ -3678,7 +3729,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY52",
+        "numberWithAbbrev": "XY52",
+        "number": "52",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
@@ -3753,7 +3805,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY53",
+        "numberWithAbbrev": "XY53",
+        "number": "53",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -3829,7 +3882,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY54",
+        "numberWithAbbrev": "XY54",
+        "number": "54",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -3906,7 +3960,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY55",
+        "numberWithAbbrev": "XY55",
+        "number": "55",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -3976,7 +4031,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY56",
+        "numberWithAbbrev": "XY56",
+        "number": "56",
         "artist": "Akira Komayama",
         "rarity": "Promo",
         "flavorText": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
@@ -4055,7 +4111,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY57",
+        "numberWithAbbrev": "XY57",
+        "number": "57",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
@@ -4132,7 +4189,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY58",
+        "numberWithAbbrev": "XY58",
+        "number": "58",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It lures its prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
@@ -4206,7 +4264,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY59",
+        "numberWithAbbrev": "XY59",
+        "number": "59",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "It's uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.",
@@ -4281,7 +4340,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY60",
+        "numberWithAbbrev": "XY60",
+        "number": "60",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
@@ -4352,7 +4412,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY61",
+        "numberWithAbbrev": "XY61",
+        "number": "61",
         "artist": "Toyste Beach",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -4432,7 +4493,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY62",
+        "numberWithAbbrev": "XY62",
+        "number": "62",
         "artist": "PLANETA",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -4501,7 +4563,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY63",
+        "numberWithAbbrev": "XY63",
+        "number": "63",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -4567,7 +4630,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY64",
+        "numberWithAbbrev": "XY64",
+        "number": "64",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
@@ -4636,7 +4700,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY65",
+        "numberWithAbbrev": "XY65",
+        "number": "65",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
@@ -4719,7 +4784,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY66",
+        "numberWithAbbrev": "XY66",
+        "number": "66",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -4791,7 +4857,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY67",
+        "numberWithAbbrev": "XY67",
+        "number": "67",
         "artist": "sui",
         "rarity": "Promo",
         "flavorText": "It is said to have the ability to grant any wish for just one week every thousand years.",
@@ -4864,7 +4931,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY67a",
+        "numberWithAbbrev": "XY67a",
+        "number": "67a",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "It is said to have the ability to grant any wish for just one week every thousand years.",
@@ -4936,7 +5004,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY68",
+        "numberWithAbbrev": "XY68",
+        "number": "68",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.",
@@ -5019,7 +5088,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY69",
+        "numberWithAbbrev": "XY69",
+        "number": "69",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -5089,7 +5159,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY70",
+        "numberWithAbbrev": "XY70",
+        "number": "70",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -5158,7 +5229,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY71",
+        "numberWithAbbrev": "XY71",
+        "number": "71",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -5233,7 +5305,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY72",
+        "numberWithAbbrev": "XY72",
+        "number": "72",
         "artist": "Ayaka Yoshida",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -5309,7 +5382,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY73",
+        "numberWithAbbrev": "XY73",
+        "number": "73",
         "artist": "PLANETA",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -5378,7 +5452,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY74",
+        "numberWithAbbrev": "XY74",
+        "number": "74",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
@@ -5447,7 +5522,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY75",
+        "numberWithAbbrev": "XY75",
+        "number": "75",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
@@ -5523,7 +5599,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY76",
+        "numberWithAbbrev": "XY76",
+        "number": "76",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
@@ -5598,7 +5675,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY77",
+        "numberWithAbbrev": "XY77",
+        "number": "77",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
@@ -5666,7 +5744,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY78",
+        "numberWithAbbrev": "XY78",
+        "number": "78",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
@@ -5735,7 +5814,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY79",
+        "numberWithAbbrev": "XY79",
+        "number": "79",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
@@ -5806,7 +5886,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY80",
+        "numberWithAbbrev": "XY80",
+        "number": "80",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
@@ -5877,7 +5958,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY81",
+        "numberWithAbbrev": "XY81",
+        "number": "81",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
@@ -5944,7 +6026,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY82",
+        "numberWithAbbrev": "XY82",
+        "number": "82",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "There is an enduring legend that states this Pokémon towed continents with ropes.",
@@ -6012,7 +6095,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY83",
+        "numberWithAbbrev": "XY83",
+        "number": "83",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It is told in mythology that this Pokémon was born before the universe even existed.",
@@ -6093,7 +6177,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY84",
+        "numberWithAbbrev": "XY84",
+        "number": "84",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -6164,7 +6249,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY85",
+        "numberWithAbbrev": "XY85",
+        "number": "85",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -6229,7 +6315,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY86",
+        "numberWithAbbrev": "XY86",
+        "number": "86",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -6294,7 +6381,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY87",
+        "numberWithAbbrev": "XY87",
+        "number": "87",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -6354,7 +6442,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY88",
+        "numberWithAbbrev": "XY88",
+        "number": "88",
         "artist": "Atsuko Nishida",
         "rarity": "Promo",
         "flavorText": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn't faze it.",
@@ -6431,7 +6520,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY89",
+        "numberWithAbbrev": "XY89",
+        "number": "89",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
@@ -6499,7 +6589,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY90",
+        "numberWithAbbrev": "XY90",
+        "number": "90",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "It gathers things it likes and pushes them through its loop to teleport them to a secret place.",
@@ -6538,7 +6629,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY91",
+        "numberWithAbbrev": "XY91",
+        "number": "91",
         "artist": "Naoki Saito",
         "rarity": "Promo",
          
@@ -6599,7 +6691,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY92",
+        "numberWithAbbrev": "XY92",
+        "number": "92",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
@@ -6667,7 +6760,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY93",
+        "numberWithAbbrev": "XY93",
+        "number": "93",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "It has the power to travel across time, but it is said to appear only in peaceful times.",
@@ -6740,7 +6834,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY94",
+        "numberWithAbbrev": "XY94",
+        "number": "94",
         "artist": "Midori Harada",
         "rarity": "Promo",
         "flavorText": "Using its roots as a nervous system, it controls the trees in the forest. It's kind to the Pokémon that reside in its body.",
@@ -6816,7 +6911,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY95",
+        "numberWithAbbrev": "XY95",
+        "number": "95",
         "artist": "Kanako Eo",
         "rarity": "Promo",
         "flavorText": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
@@ -6892,7 +6988,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY96",
+        "numberWithAbbrev": "XY96",
+        "number": "96",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "When exposed to the moon's aura, the rings on its body glow faintly and it's filled with a mysterious power.",
@@ -6974,7 +7071,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY97",
+        "numberWithAbbrev": "XY97",
+        "number": "97",
         "artist": "Ayaka Yoshida",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7044,7 +7142,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY98",
+        "numberWithAbbrev": "XY98",
+        "number": "98",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7083,7 +7182,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY99",
+        "numberWithAbbrev": "XY99",
+        "number": "99",
         "artist": "5ban Graphics",
         "rarity": "Promo",
          
@@ -7149,7 +7249,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY100",
+        "numberWithAbbrev": "XY100",
+        "number": "100",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
@@ -7219,7 +7320,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY101",
+        "numberWithAbbrev": "XY101",
+        "number": "101",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
@@ -7290,7 +7392,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY102",
+        "numberWithAbbrev": "XY102",
+        "number": "102",
         "artist": "Toyste Beach",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7370,7 +7473,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY103",
+        "numberWithAbbrev": "XY103",
+        "number": "103",
         "artist": "Ayaka Yoshida",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7440,7 +7544,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY104",
+        "numberWithAbbrev": "XY104",
+        "number": "104",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7479,7 +7584,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY105",
+        "numberWithAbbrev": "XY105",
+        "number": "105",
         "artist": "5ban Graphics",
         "rarity": "Promo",
          
@@ -7551,7 +7657,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY106",
+        "numberWithAbbrev": "XY106",
+        "number": "106",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7625,7 +7732,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY107",
+        "numberWithAbbrev": "XY107",
+        "number": "107",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7697,7 +7805,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY108",
+        "numberWithAbbrev": "XY108",
+        "number": "108",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -7768,7 +7877,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY109",
+        "numberWithAbbrev": "XY109",
+        "number": "109",
         "artist": "Hajime Kusajima",
         "rarity": "Promo",
         "flavorText": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
@@ -7836,7 +7946,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY110",
+        "numberWithAbbrev": "XY110",
+        "number": "110",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "flavorText": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
@@ -7902,7 +8013,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY111",
+        "numberWithAbbrev": "XY111",
+        "number": "111",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "It has the power to travel across time, but it is said to appear only in peaceful times.",
@@ -7975,7 +8087,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY112",
+        "numberWithAbbrev": "XY112",
+        "number": "112",
         "artist": "Kagemaru Himeno",
         "rarity": "Promo",
         "flavorText": "It is said to have the ability to grant any wish for just one week every thousand years.",
@@ -8042,7 +8155,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY113",
+        "numberWithAbbrev": "XY113",
+        "number": "113",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
         "flavorText": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
@@ -8117,7 +8231,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY114",
+        "numberWithAbbrev": "XY114",
+        "number": "114",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
@@ -8186,7 +8301,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY115",
+        "numberWithAbbrev": "XY115",
+        "number": "115",
         "artist": "You Iribi",
         "rarity": "Promo",
         "flavorText": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude and the message it delivers.",
@@ -8255,7 +8371,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY116",
+        "numberWithAbbrev": "XY116",
+        "number": "116",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "It is told in mythology that this Pokémon was born before the universe even existed.",
@@ -8322,7 +8439,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY117",
+        "numberWithAbbrev": "XY117",
+        "number": "117",
         "artist": "Atsuko Nishida",
         "rarity": "Promo",
         "flavorText": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
@@ -8388,7 +8506,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY118",
+        "numberWithAbbrev": "XY118",
+        "number": "118",
         "artist": "Shin Nagasawa",
         "rarity": "Promo",
         "flavorText": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are too fast to follow.",
@@ -8463,7 +8582,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY119",
+        "numberWithAbbrev": "XY119",
+        "number": "119",
         "artist": "PLANETA",
         "rarity": "Promo",
         "flavorText": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
@@ -8530,7 +8650,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY120",
+        "numberWithAbbrev": "XY120",
+        "number": "120",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
@@ -8608,7 +8729,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY121",
+        "numberWithAbbrev": "XY121",
+        "number": "121",
         "artist": "Kouki Saitou",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -8683,7 +8805,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY122",
+        "numberWithAbbrev": "XY122",
+        "number": "122",
         "artist": "kawayoo",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -8760,7 +8883,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY123",
+        "numberWithAbbrev": "XY123",
+        "number": "123",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -8840,7 +8964,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY124",
+        "numberWithAbbrev": "XY124",
+        "number": "124",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -8916,7 +9041,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY125",
+        "numberWithAbbrev": "XY125",
+        "number": "125",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -8983,7 +9109,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY126",
+        "numberWithAbbrev": "XY126",
+        "number": "126",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -9057,7 +9184,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY127",
+        "numberWithAbbrev": "XY127",
+        "number": "127",
         "artist": "OOYAMA",
         "rarity": "Promo",
         "flavorText": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
@@ -9126,7 +9254,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY128",
+        "numberWithAbbrev": "XY128",
+        "number": "128",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "It generates a powerful, freezing energy inside itself, but its body becomes frozen when the energy leaked out.",
@@ -9195,7 +9324,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY129",
+        "numberWithAbbrev": "XY129",
+        "number": "129",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It's hypothesized that it's monitoring those those who destroy the ecosystem from deep in the cave where it lives.",
@@ -9270,7 +9400,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY130",
+        "numberWithAbbrev": "XY130",
+        "number": "130",
         "artist": "Satoshi Shirai",
         "rarity": "Promo",
         "flavorText": "If it ramages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
@@ -9330,7 +9461,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY131",
+        "numberWithAbbrev": "XY131",
+        "number": "131",
         "artist": "sui",
         "rarity": "Promo",
         "flavorText": "This Pokémon lives in caves with volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.",
@@ -9396,7 +9528,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY132",
+        "numberWithAbbrev": "XY132",
+        "number": "132",
         "artist": "Shigenori Negishi",
         "rarity": "Promo",
         "flavorText": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
@@ -9469,7 +9602,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY133",
+        "numberWithAbbrev": "XY133",
+        "number": "133",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -9523,7 +9657,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY134",
+        "numberWithAbbrev": "XY134",
+        "number": "134",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -9578,7 +9713,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY135",
+        "numberWithAbbrev": "XY135",
+        "number": "135",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -9633,7 +9769,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY136",
+        "numberWithAbbrev": "XY136",
+        "number": "136",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -9699,7 +9836,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY137",
+        "numberWithAbbrev": "XY137",
+        "number": "137",
         "artist": "match",
         "rarity": "Promo",
         "flavorText": "The patterns on this Pokémon's wings depend on the climate and topography of its habitat. It scatters colorful scales.",
@@ -9759,7 +9897,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY138",
+        "numberWithAbbrev": "XY138",
+        "number": "138",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.",
@@ -9836,7 +9975,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY139",
+        "numberWithAbbrev": "XY139",
+        "number": "139",
         "artist": "Midori Harada",
         "rarity": "Promo",
         "flavorText": "When the flowers of a well-tended flower bed bloom, it appears and celebrates with an elegant dance.",
@@ -9905,7 +10045,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY140",
+        "numberWithAbbrev": "XY140",
+        "number": "140",
         "artist": "Naoki Saito",
         "rarity": "Promo",
         "flavorText": "By reading the auras of all things, it can tell how others are feeling from over half a mile away.",
@@ -9975,7 +10116,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY141",
+        "numberWithAbbrev": "XY141",
+        "number": "141",
         "artist": "Masakazu Fukuda",
         "rarity": "Promo",
         "flavorText": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
@@ -10043,7 +10185,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY142",
+        "numberWithAbbrev": "XY142",
+        "number": "142",
         "artist": "chibi",
         "rarity": "Promo",
         "flavorText": "It is thought that Uxie, Mesprit, and Azelf all came from the same egg.",
@@ -10103,7 +10246,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY143",
+        "numberWithAbbrev": "XY143",
+        "number": "143",
         "artist": "Saya Tsuruta",
         "rarity": "Promo",
         "flavorText": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
@@ -10175,7 +10319,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY144",
+        "numberWithAbbrev": "XY144",
+        "number": "144",
         "artist": "Midori Harada",
         "rarity": "Promo",
         "flavorText": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
@@ -10243,7 +10388,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY145",
+        "numberWithAbbrev": "XY145",
+        "number": "145",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
@@ -10310,7 +10456,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY146",
+        "numberWithAbbrev": "XY146",
+        "number": "146",
         "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
         "flavorText": "By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.",
@@ -10378,7 +10525,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY147",
+        "numberWithAbbrev": "XY147",
+        "number": "147",
         "artist": "Yoshinobu Saito",
         "rarity": "Promo",
         "flavorText": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.",
@@ -10448,7 +10596,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY148",
+        "numberWithAbbrev": "XY148",
+        "number": "148",
         "artist": "Kanako Eo",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -10528,7 +10677,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY149",
+        "numberWithAbbrev": "XY149",
+        "number": "149",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -10606,7 +10756,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY150",
+        "numberWithAbbrev": "XY150",
+        "number": "150",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -10684,7 +10835,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY150a",
+        "numberWithAbbrev": "XY150a",
+        "number": "150a",
         "artist": "Hasuno",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -10765,7 +10917,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY151",
+        "numberWithAbbrev": "XY151",
+        "number": "151",
         "artist": "Eske Yoshinob",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -10833,7 +10986,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY152",
+        "numberWithAbbrev": "XY152",
+        "number": "152",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.",
@@ -10908,7 +11062,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY153",
+        "numberWithAbbrev": "XY153",
+        "number": "153",
         "artist": "You Iribi",
         "rarity": "Promo",
         "flavorText": "It will reveal itself before a pure-hearted Trainer by shining its bright, rainbow-colored wings.",
@@ -10966,7 +11121,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY154",
+        "numberWithAbbrev": "XY154",
+        "number": "154",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -11020,7 +11176,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY155",
+        "numberWithAbbrev": "XY155",
+        "number": "155",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -11095,7 +11252,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY156",
+        "numberWithAbbrev": "XY156",
+        "number": "156",
         "artist": "Hajime Kusajima",
         "rarity": "Promo",
         "flavorText": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
@@ -11169,7 +11327,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY157",
+        "numberWithAbbrev": "XY157",
+        "number": "157",
         "artist": "hatachu",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -11231,7 +11390,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY158",
+        "numberWithAbbrev": "XY158",
+        "number": "158",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -11270,7 +11430,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY159",
+        "numberWithAbbrev": "XY159",
+        "number": "159",
         "artist": "5ban Graphics",
         "rarity": "Promo",
          
@@ -11337,7 +11498,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY160",
+        "numberWithAbbrev": "XY160",
+        "number": "160",
         "artist": "kawayoo",
         "rarity": "Promo",
         "flavorText": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
@@ -11408,7 +11570,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY161",
+        "numberWithAbbrev": "XY161",
+        "number": "161",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
@@ -11476,7 +11639,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY162",
+        "numberWithAbbrev": "XY162",
+        "number": "162",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "It appears and vanishes with a ninja's grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
@@ -11541,7 +11705,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY163",
+        "numberWithAbbrev": "XY163",
+        "number": "163",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",
@@ -11612,7 +11777,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY164",
+        "numberWithAbbrev": "XY164",
+        "number": "164",
         "artist": "TOKIYA",
         "rarity": "Promo",
         "flavorText": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
@@ -11684,7 +11850,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY165",
+        "numberWithAbbrev": "XY165",
+        "number": "165",
         "artist": "Megumi Mizutani",
         "rarity": "Promo",
         "flavorText": "Magearna, with its metallic body, is an artificial Pokémon created 500 years ago by humans.",
@@ -11756,7 +11923,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY166",
+        "numberWithAbbrev": "XY166",
+        "number": "166",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -11831,7 +11999,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY167",
+        "numberWithAbbrev": "XY167",
+        "number": "167",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -11895,7 +12064,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY168",
+        "numberWithAbbrev": "XY168",
+        "number": "168",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -11934,7 +12104,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY169",
+        "numberWithAbbrev": "XY169",
+        "number": "169",
         "artist": "5ban Graphics",
         "rarity": "Promo",
          
@@ -12008,7 +12179,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY170",
+        "numberWithAbbrev": "XY170",
+        "number": "170",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12073,7 +12245,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY171",
+        "numberWithAbbrev": "XY171",
+        "number": "171",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12112,7 +12285,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY172",
+        "numberWithAbbrev": "XY172",
+        "number": "172",
         "artist": "5ban Graphics",
         "rarity": "Promo",
          
@@ -12179,7 +12353,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY173",
+        "numberWithAbbrev": "XY173",
+        "number": "173",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12260,7 +12435,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY174",
+        "numberWithAbbrev": "XY174",
+        "number": "174",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12335,7 +12511,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY175",
+        "numberWithAbbrev": "XY175",
+        "number": "175",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12373,7 +12550,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY176",
+        "numberWithAbbrev": "XY176",
+        "number": "176",
         "artist": "Naoki Saito",
         "rarity": "Promo",
          
@@ -12408,7 +12586,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY177",
+        "numberWithAbbrev": "XY177",
+        "number": "177",
         "artist": "You Iribi",
         "rarity": "Promo",
          
@@ -12443,7 +12622,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY177a",
+        "numberWithAbbrev": "XY177a",
+        "number": "177a",
         "artist": "Hitoshi Ariga",
         "rarity": "Promo",
          
@@ -12511,7 +12691,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY178",
+        "numberWithAbbrev": "XY178",
+        "number": "178",
         "artist": "Hasuno",
         "rarity": "Promo",
         "flavorText": "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom bringer.",
@@ -12578,7 +12759,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY179",
+        "numberWithAbbrev": "XY179",
+        "number": "179",
         "artist": "Ken Sugimori",
         "rarity": "Promo",
         "flavorText": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
@@ -12633,7 +12815,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY180",
+        "numberWithAbbrev": "XY180",
+        "number": "180",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12688,7 +12871,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY181",
+        "numberWithAbbrev": "XY181",
+        "number": "181",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12741,7 +12925,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY182",
+        "numberWithAbbrev": "XY182",
+        "number": "182",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12817,7 +13002,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY183",
+        "numberWithAbbrev": "XY183",
+        "number": "183",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -12889,7 +13075,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY184",
+        "numberWithAbbrev": "XY184",
+        "number": "184",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "flavorText": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
@@ -12960,7 +13147,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY185",
+        "numberWithAbbrev": "XY185",
+        "number": "185",
         "artist": "Hasuno",
         "rarity": "Promo",
         "flavorText": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
@@ -13032,7 +13220,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY186",
+        "numberWithAbbrev": "XY186",
+        "number": "186",
         "artist": "Sanosuke Sakuma",
         "rarity": "Promo",
         "flavorText": "Magearna, with its metallic body, is an artificial Pokémon created 500 years ago by humans.",
@@ -13098,7 +13287,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY187",
+        "numberWithAbbrev": "XY187",
+        "number": "187",
         "artist": "Tomokazu Komiya",
         "rarity": "Promo",
         "flavorText": "It has the power to travel across time, but it is said to appear only in peaceful times.",
@@ -13167,7 +13357,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY188",
+        "numberWithAbbrev": "XY188",
+        "number": "188",
         "artist": "Ken Sugimori",
         "rarity": "Promo",
         "flavorText": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
@@ -13234,7 +13425,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY189",
+        "numberWithAbbrev": "XY189",
+        "number": "189",
         "artist": "Ken Sugimori",
         "rarity": "Promo",
         "flavorText": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
@@ -13301,7 +13493,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY190",
+        "numberWithAbbrev": "XY190",
+        "number": "190",
         "artist": "Ken Sugimori",
         "rarity": "Promo",
         "flavorText": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
@@ -13367,7 +13560,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY191",
+        "numberWithAbbrev": "XY191",
+        "number": "191",
         "artist": "Hajime Kusajima",
         "rarity": "Promo",
         "flavorText": "When it is resolute, it body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
@@ -13435,7 +13629,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY192",
+        "numberWithAbbrev": "XY192",
+        "number": "192",
         "artist": "Saya Tsuruta",
         "rarity": "Promo",
         "flavorText": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
@@ -13502,7 +13697,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY193",
+        "numberWithAbbrev": "XY193",
+        "number": "193",
         "artist": "Hasuno",
         "rarity": "Promo",
         "flavorText": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
@@ -13577,7 +13773,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY194",
+        "numberWithAbbrev": "XY194",
+        "number": "194",
         "artist": "Ken Sugimori",
         "rarity": "Promo",
         "flavorText": "It can lull people to sleep and make them dream. It is active during the nights of the new moon.",
@@ -13650,7 +13847,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY195",
+        "numberWithAbbrev": "XY195",
+        "number": "195",
         "artist": "Ken Sugimori",
         "rarity": "Promo",
         "flavorText": "It is said to have the ability to grant any wish for just one week every thousand years.",
@@ -13725,7 +13923,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY196",
+        "numberWithAbbrev": "XY196",
+        "number": "196",
         "artist": "Ken Sugimori",
         "rarity": "Promo",
         "flavorText": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
@@ -13794,7 +13993,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY197",
+        "numberWithAbbrev": "XY197",
+        "number": "197",
         "artist": "kirisAki",
         "rarity": "Promo",
         "flavorText": "It is told in mythology that this Pokémon was born before the universe even existed.",
@@ -13860,7 +14060,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY198",
+        "numberWithAbbrev": "XY198",
+        "number": "198",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -13925,7 +14126,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY198a",
+        "numberWithAbbrev": "XY198a",
+        "number": "198a",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -13964,7 +14166,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY199",
+        "numberWithAbbrev": "XY199",
+        "number": "199",
         "artist": "5ban Graphics",
         "rarity": "Promo",
          
@@ -14024,7 +14227,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY200",
+        "numberWithAbbrev": "XY200",
+        "number": "200",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -14087,7 +14291,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY200a",
+        "numberWithAbbrev": "XY200a",
+        "number": "200a",
         "artist": "5ban Graphics",
         "rarity": "Promo",
         "nationalPokedexNumbers": [
@@ -14126,7 +14331,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY201",
+        "numberWithAbbrev": "XY201",
+        "number": "201",
         "artist": "5ban Graphics",
         "rarity": "Promo",
          
@@ -14199,7 +14405,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY202",
+        "numberWithAbbrev": "XY202",
+        "number": "202",
         "artist": "Ken Sugimori",
         "rarity": "Promo",
         "flavorText": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
@@ -14238,7 +14445,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY203",
+        "numberWithAbbrev": "XY203",
+        "number": "203",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
          
@@ -14273,7 +14481,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY204",
+        "numberWithAbbrev": "XY204",
+        "number": "204",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
          
@@ -14308,7 +14517,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY205",
+        "numberWithAbbrev": "XY205",
+        "number": "205",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
          
@@ -14343,7 +14553,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY206",
+        "numberWithAbbrev": "XY206",
+        "number": "206",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
          
@@ -14378,7 +14589,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY207",
+        "numberWithAbbrev": "XY207",
+        "number": "207",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
          
@@ -14413,7 +14625,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY208",
+        "numberWithAbbrev": "XY208",
+        "number": "208",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
          
@@ -14448,7 +14661,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY209",
+        "numberWithAbbrev": "XY209",
+        "number": "209",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
          
@@ -14483,7 +14697,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY210",
+        "numberWithAbbrev": "XY210",
+        "number": "210",
         "artist": "Ryo Ueda",
         "rarity": "Promo",
          
@@ -14519,7 +14734,8 @@ let xyp = [
                 "logo": "https://images.pokemontcg.io/xyp/logo.png"
             }
         },
-        "number": "XY211",
+        "numberWithAbbrev": "XY211",
+        "number": "211",
         "artist": "5ban Graphics",
         "rarity": "Promo",
          

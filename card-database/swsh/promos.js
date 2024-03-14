@@ -51,7 +51,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH001",
+            "number": "001",
+            "numberWithAbbrev": "SWSH001",
             "artist": "kirisAki",
             "rarity": "Promo",
             "flavorText": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
@@ -116,7 +117,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH002",
+            "number": "002",
+            "numberWithAbbrev": "SWSH002",
             "artist": "Hitoshi Ariga",
             "rarity": "Promo",
             "flavorText": "A warm-up of running around gets fire energy coursing through this Pokémon's body. Once that happens, it's ready to fight at full power.",
@@ -182,7 +184,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH003",
+            "number": "003",
+            "numberWithAbbrev": "SWSH003",
             "artist": "Mizue",
             "rarity": "Promo",
             "flavorText": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won't be able to resist weeping.",
@@ -262,7 +265,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH004",
+            "number": "004",
+            "numberWithAbbrev": "SWSH004",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -333,7 +337,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH005",
+            "number": "005",
+            "numberWithAbbrev": "SWSH005",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -405,7 +410,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH006",
+            "number": "006",
+            "numberWithAbbrev": "SWSH006",
             "artist": "Kouki Saitou",
             "rarity": "Promo",
             "flavorText": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
@@ -476,7 +482,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH007",
+            "number": "007",
+            "numberWithAbbrev": "SWSH007",
             "artist": "kirisAki",
             "rarity": "Promo",
             "flavorText": "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away.",
@@ -554,7 +561,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH008",
+            "number": "008",
+            "numberWithAbbrev": "SWSH008",
             "artist": "Akira Komayama",
             "rarity": "Promo",
             "flavorText": "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",
@@ -624,7 +632,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH009",
+            "number": "009",
+            "numberWithAbbrev": "SWSH009",
             "artist": "Shibuzoh.",
             "rarity": "Promo",
             "flavorText": "Its body secrets oil that this Pokémon spreads over its nest as a coating to protect it from dust. Cinccino won't tolerate even a speck of the stuff.",
@@ -689,7 +698,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH010",
+            "number": "010",
+            "numberWithAbbrev": "SWSH010",
             "artist": "Naoki Saito",
             "rarity": "Promo",
             "flavorText": "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",
@@ -764,7 +774,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH011",
+            "number": "011",
+            "numberWithAbbrev": "SWSH011",
             "artist": "Hitoshi Ariga",
             "rarity": "Promo",
             "flavorText": "Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.",
@@ -828,7 +839,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH012",
+            "number": "012",
+            "numberWithAbbrev": "SWSH012",
             "artist": "Kagemaru Himeno",
             "rarity": "Promo",
             "flavorText": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.",
@@ -909,7 +921,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH013",
+            "number": "013",
+            "numberWithAbbrev": "SWSH013",
             "artist": "kirisAki",
             "rarity": "Promo",
             "flavorText": "Its small horn hides a healing power. With a few rubs from this Pokémon's horn, any slight wound you have will be healed.",
@@ -987,7 +1000,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH014",
+            "number": "014",
+            "numberWithAbbrev": "SWSH014",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -1061,7 +1075,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH015",
+            "number": "015",
+            "numberWithAbbrev": "SWSH015",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -1137,7 +1152,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH016",
+            "number": "016",
+            "numberWithAbbrev": "SWSH016",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -1213,7 +1229,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH017",
+            "number": "017",
+            "numberWithAbbrev": "SWSH017",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -1293,7 +1310,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH018",
+            "number": "018",
+            "numberWithAbbrev": "SWSH018",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -1373,7 +1391,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH019",
+            "number": "019",
+            "numberWithAbbrev": "SWSH019",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -1449,7 +1468,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH020",
+            "number": "020",
+            "numberWithAbbrev": "SWSH020",
             "artist": "Hideki Ishikawa",
             "rarity": "Promo",
             "flavorText": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
@@ -1530,7 +1550,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH021",
+            "number": "021",
+            "numberWithAbbrev": "SWSH021",
             "artist": "PLANETA Igarashi",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -1600,7 +1621,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH022",
+            "number": "022",
+            "numberWithAbbrev": "SWSH022",
             "artist": "Hitoshi Ariga",
             "rarity": "Promo",
             "flavorText": "It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns.",
@@ -1673,7 +1695,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH023",
+            "number": "023",
+            "numberWithAbbrev": "SWSH023",
             "artist": "Megumi Higuchi",
             "rarity": "Promo",
             "flavorText": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
@@ -1746,7 +1769,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH024",
+            "number": "024",
+            "numberWithAbbrev": "SWSH024",
             "artist": "Kouki Saitou",
             "rarity": "Promo",
             "flavorText": "It's usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.",
@@ -1818,7 +1842,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH025",
+            "number": "025",
+            "numberWithAbbrev": "SWSH025",
             "artist": "tetsuya koizumi",
             "rarity": "Promo",
             "flavorText": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
@@ -1890,7 +1915,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH026",
+            "number": "026",
+            "numberWithAbbrev": "SWSH026",
             "artist": "0313",
             "rarity": "Promo",
             "flavorText": "If it builds up enough speed swimming, it can jump out above the waves and glide for over 300 feet.",
@@ -1971,7 +1997,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH027",
+            "number": "027",
+            "numberWithAbbrev": "SWSH027",
             "artist": "Misa Tsutsui",
             "rarity": "Promo",
             "flavorText": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
@@ -2053,7 +2080,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH028",
+            "number": "028",
+            "numberWithAbbrev": "SWSH028",
             "artist": "Ryuta Fuse",
             "rarity": "Promo",
             "flavorText": "Its body resembles polished metal, and it's both lightweight and strong. The only drawback is that it rusts easily.",
@@ -2133,7 +2161,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH029",
+            "number": "029",
+            "numberWithAbbrev": "SWSH029",
             "artist": "so-taro",
             "rarity": "Promo",
             "flavorText": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
@@ -2219,7 +2248,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH030",
+            "number": "030",
+            "numberWithAbbrev": "SWSH030",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -2290,7 +2320,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH031",
+            "number": "031",
+            "numberWithAbbrev": "SWSH031",
             "artist": "Hitoshi Ariga",
             "rarity": "Promo",
             "flavorText": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.",
@@ -2366,7 +2397,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH032",
+            "number": "032",
+            "numberWithAbbrev": "SWSH032",
             "artist": "Tika Matsuno",
             "rarity": "Promo",
             "flavorText": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
@@ -2448,7 +2480,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH033",
+            "number": "033",
+            "numberWithAbbrev": "SWSH033",
             "artist": "Kouki Saitou",
             "rarity": "Promo",
             "flavorText": "Now armed with a weapon it used in ancient times, this Pokémon needs only a single strike to fell even Gigantamax Pokémon.",
@@ -2526,7 +2559,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH034",
+            "number": "034",
+            "numberWithAbbrev": "SWSH034",
             "artist": "Kouki Saitou",
             "rarity": "Promo",
             "flavorText": "Its ability to deflect any attack led to it being known as the Fighting Master's Shield. It was feared and respected by all.",
@@ -2597,7 +2631,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH035",
+            "number": "035",
+            "numberWithAbbrev": "SWSH035",
             "artist": "Souichirou Gunjima",
             "rarity": "Promo",
             "flavorText": "As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye's shots never miss.",
@@ -2668,7 +2703,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH036",
+            "number": "036",
+            "numberWithAbbrev": "SWSH036",
             "artist": "Hasuno",
             "rarity": "Promo",
             "flavorText": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
@@ -2740,7 +2776,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH037",
+            "number": "037",
+            "numberWithAbbrev": "SWSH037",
             "artist": "Taira Akitsu",
             "rarity": "Promo",
             "flavorText": "There are a slew of stories about villages that were destroyed by Hydreigon. It bites anything that moves.",
@@ -2814,7 +2851,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH038",
+            "number": "038",
+            "numberWithAbbrev": "SWSH038",
             "artist": "HYOGONOSUKE",
             "rarity": "Promo",
             "flavorText": "You shouldn't get close to the child when it's playing outside its mother's pouch. Its mother is always nearby watching over it.",
@@ -2890,7 +2928,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH039",
+            "number": "039",
+            "numberWithAbbrev": "SWSH039",
             "artist": "Hitoshi Ariga",
             "rarity": "Promo",
             "flavorText": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
@@ -2971,7 +3010,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH040",
+            "number": "040",
+            "numberWithAbbrev": "SWSH040",
             "artist": "Misa Tsutsui",
             "rarity": "Promo",
             "flavorText": "Via the protrusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you.",
@@ -3045,7 +3085,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH041",
+            "number": "041",
+            "numberWithAbbrev": "SWSH041",
             "artist": "You Iribi",
             "rarity": "Promo",
             "flavorText": "Once it has stored up enough heat, this Pokémon's body temperature can reach up to 1,700 degrees Fahrenheit.",
@@ -3127,7 +3168,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH042",
+            "number": "042",
+            "numberWithAbbrev": "SWSH042",
             "artist": "You Iribi",
             "rarity": "Promo",
             "flavorText": "It has the ability to alter the composition of its body to suit its surrounding environment.",
@@ -3202,7 +3244,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH043",
+            "number": "043",
+            "numberWithAbbrev": "SWSH043",
             "artist": "PLANETA Tsuji",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -3279,7 +3322,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH044",
+            "number": "044",
+            "numberWithAbbrev": "SWSH044",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -3352,7 +3396,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH045",
+            "number": "045",
+            "numberWithAbbrev": "SWSH045",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -3423,7 +3468,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH046",
+            "number": "046",
+            "numberWithAbbrev": "SWSH046",
             "artist": "Mina Nakai",
             "rarity": "Promo",
             "flavorText": "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty.",
@@ -3500,7 +3546,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH047",
+            "number": "047",
+            "numberWithAbbrev": "SWSH047",
             "artist": "Anesaki Dynamic",
             "rarity": "Promo",
             "flavorText": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
@@ -3575,7 +3622,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH048",
+            "number": "048",
+            "numberWithAbbrev": "SWSH048",
             "artist": "nagimiso",
             "rarity": "Promo",
             "flavorText": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
@@ -3650,7 +3698,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH049",
+            "number": "049",
+            "numberWithAbbrev": "SWSH049",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -3729,7 +3778,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH050",
+            "number": "050",
+            "numberWithAbbrev": "SWSH050",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -3793,7 +3843,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH051",
+            "number": "051",
+            "numberWithAbbrev": "SWSH051",
             "artist": "Megumi Higuchi",
             "rarity": "Promo",
             "flavorText": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
@@ -3871,7 +3922,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH052",
+            "number": "052",
+            "numberWithAbbrev": "SWSH052",
             "artist": "Shibuzoh.",
             "rarity": "Promo",
             "flavorText": "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar's doing.",
@@ -3946,7 +3998,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH053",
+            "number": "053",
+            "numberWithAbbrev": "SWSH053",
             "artist": "SATOSHI NAKAI",
             "rarity": "Promo",
             "flavorText": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
@@ -4019,7 +4072,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH054",
+            "number": "054",
+            "numberWithAbbrev": "SWSH054",
             "artist": "Shigenori Negishi",
             "rarity": "Promo",
             "flavorText": "It's usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.",
@@ -4103,7 +4157,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH055",
+            "number": "055",
+            "numberWithAbbrev": "SWSH055",
             "artist": "PLANETA Igarashi",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -4179,7 +4234,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH056",
+            "number": "056",
+            "numberWithAbbrev": "SWSH056",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -4255,7 +4311,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH057",
+            "number": "057",
+            "numberWithAbbrev": "SWSH057",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -4327,7 +4384,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH058",
+            "number": "058",
+            "numberWithAbbrev": "SWSH058",
             "artist": "sui",
             "rarity": "Promo",
             "flavorText": "When it trusts a Trainer, it will treat them to berries it's decorated with cream.",
@@ -4398,7 +4456,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH059",
+            "number": "059",
+            "numberWithAbbrev": "SWSH059",
             "artist": "Hasuno",
             "rarity": "Promo",
             "flavorText": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
@@ -4477,7 +4536,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH060",
+            "number": "060",
+            "numberWithAbbrev": "SWSH060",
             "artist": "Kazuma Koda",
             "rarity": "Promo",
             "flavorText": "Its body resembles polished metal, and it's both lightweight and strong. The only drawback is that it rusts easily.",
@@ -4556,7 +4616,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH063",
+            "number": "063",
+            "numberWithAbbrev": "SWSH063",
             "artist": "Ryota Murayama",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -4633,7 +4694,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH064",
+            "number": "064",
+            "numberWithAbbrev": "SWSH064",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -4719,7 +4781,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH065",
+            "number": "065",
+            "numberWithAbbrev": "SWSH065",
             "artist": "Kagemaru Himeno",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -4789,7 +4852,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH066",
+            "number": "066",
+            "numberWithAbbrev": "SWSH066",
             "artist": "NC Empire",
             "rarity": "Promo",
             "flavorText": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
@@ -4863,7 +4927,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH067",
+            "number": "067",
+            "numberWithAbbrev": "SWSH067",
             "artist": "Eri Yamaki",
             "rarity": "Promo",
             "flavorText": "The longer and bigger its tusks, the higher its rank in its herd. The tusks take long to grow.",
@@ -4935,7 +5000,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH068",
+            "number": "068",
+            "numberWithAbbrev": "SWSH068",
             "artist": "Narumi Sato",
             "rarity": "Promo",
             "flavorText": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
@@ -5016,7 +5082,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH069",
+            "number": "069",
+            "numberWithAbbrev": "SWSH069",
             "artist": "kodama",
             "rarity": "Promo",
             "flavorText": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
@@ -5081,7 +5148,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH070",
+            "number": "070",
+            "numberWithAbbrev": "SWSH070",
             "artist": "Akira Komayama",
             "rarity": "Promo",
             "flavorText": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
@@ -5156,7 +5224,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH071",
+            "number": "071",
+            "numberWithAbbrev": "SWSH071",
             "artist": "Akira Komayama",
             "rarity": "Promo",
             "flavorText": "A warm-up of running around gets fire energy coursing through this Pokémon's body. Once that happens, it's ready to fight at full power.",
@@ -5228,7 +5297,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH072",
+            "number": "072",
+            "numberWithAbbrev": "SWSH072",
             "artist": "so-taro",
             "rarity": "Promo",
             "flavorText": "When Vaporeon's fins begin to vibrate, it is a sign that rain will come within a few hours.",
@@ -5302,7 +5372,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH073",
+            "number": "073",
+            "numberWithAbbrev": "SWSH073",
             "artist": "Akira Komayama",
             "rarity": "Promo",
             "flavorText": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attacks won't be able to resist weeping.",
@@ -5377,7 +5448,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH074",
+            "number": "074",
+            "numberWithAbbrev": "SWSH074",
             "artist": "The Pokémon Company Art Team",
             "rarity": "Promo",
             "flavorText": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
@@ -5457,7 +5529,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH061",
+            "number": "061",
+            "numberWithAbbrev": "SWSH061",
             "artist": "PLANETA Tsuji",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -5537,7 +5610,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH076",
+            "number": "076",
+            "numberWithAbbrev": "SWSH076",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -5617,7 +5691,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH077",
+            "number": "077",
+            "numberWithAbbrev": "SWSH077",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -5692,7 +5767,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH078",
+            "number": "078",
+            "numberWithAbbrev": "SWSH078",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -5763,7 +5839,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH079",
+            "number": "079",
+            "numberWithAbbrev": "SWSH079",
             "artist": "KEIICHIRO ITO",
             "rarity": "Promo",
             "flavorText": "It's highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
@@ -5827,7 +5904,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH080",
+            "number": "080",
+            "numberWithAbbrev": "SWSH080",
             "artist": "Yuu Nishida",
             "rarity": "Promo",
             "flavorText": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity.",
@@ -5904,7 +5982,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH081",
+            "number": "081",
+            "numberWithAbbrev": "SWSH081",
             "artist": "Misa Tsutsui",
             "rarity": "Promo",
             "flavorText": "This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.",
@@ -5970,7 +6049,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH082",
+            "number": "082",
+            "numberWithAbbrev": "SWSH082",
             "artist": "sowsow",
             "rarity": "Promo",
             "flavorText": "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",
@@ -6052,7 +6132,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH083",
+            "number": "083",
+            "numberWithAbbrev": "SWSH083",
             "artist": "Ayaka Yoshida",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -6125,7 +6206,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH084",
+            "number": "084",
+            "numberWithAbbrev": "SWSH084",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -6200,7 +6282,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH085",
+            "number": "085",
+            "numberWithAbbrev": "SWSH085",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -6282,7 +6365,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH086",
+            "number": "086",
+            "numberWithAbbrev": "SWSH086",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -6359,7 +6443,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH087",
+            "number": "087",
+            "numberWithAbbrev": "SWSH087",
             "artist": "PLANETA Mochizuki",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -6440,7 +6525,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH096",
+            "number": "096",
+            "numberWithAbbrev": "SWSH096",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -6521,7 +6607,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH097",
+            "number": "097",
+            "numberWithAbbrev": "SWSH097",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -6594,7 +6681,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH098",
+            "number": "098",
+            "numberWithAbbrev": "SWSH098",
             "artist": "PLANETA Mochizuki",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -6671,7 +6759,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH099",
+            "number": "099",
+            "numberWithAbbrev": "SWSH099",
             "artist": "PLANETA Tsuji",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -6748,7 +6837,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH100",
+            "number": "100",
+            "numberWithAbbrev": "SWSH100",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -6824,7 +6914,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH101",
+            "number": "101",
+            "numberWithAbbrev": "SWSH101",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -6895,7 +6986,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH088",
+            "number": "088",
+            "numberWithAbbrev": "SWSH088",
             "artist": "Tika Matsuno",
             "rarity": "Promo",
             "flavorText": "The faint scent that emanates from its full blossom entices bug Pokémon to it.",
@@ -6968,7 +7060,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH089",
+            "number": "089",
+            "numberWithAbbrev": "SWSH089",
             "artist": "KIYOTAKA OSHIYAMA",
             "rarity": "Promo",
             "flavorText": "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
@@ -7040,7 +7133,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH090",
+            "number": "090",
+            "numberWithAbbrev": "SWSH090",
             "artist": "Uta",
             "rarity": "Promo",
             "flavorText": "Identifiable by its eerie howls, people a long time ago thought it was the grim reaper and feared it.",
@@ -7118,7 +7212,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH091",
+            "number": "091",
+            "numberWithAbbrev": "SWSH091",
             "artist": "Atsushi Furusawa",
             "rarity": "Promo",
             "flavorText": "Many scientists suspect that this Pokémon originated outside the Galar region, based on the patterns on its body.",
@@ -7193,7 +7288,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH092",
+            "number": "092",
+            "numberWithAbbrev": "SWSH092",
             "artist": "Uta",
             "rarity": "Promo",
             "flavorText": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
@@ -7268,7 +7364,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH093",
+            "number": "093",
+            "numberWithAbbrev": "SWSH093",
             "artist": "tetsuya koizumi",
             "rarity": "Promo",
             "flavorText": "If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It's very proud of that jaw.",
@@ -7341,7 +7438,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH094",
+            "number": "094",
+            "numberWithAbbrev": "SWSH094",
             "artist": "Yuu Nishida",
             "rarity": "Promo",
             "flavorText": "If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes.",
@@ -7424,7 +7522,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH095",
+            "number": "095",
+            "numberWithAbbrev": "SWSH095",
             "artist": "Naoki Saito",
             "rarity": "Promo",
             "flavorText": "It has the ability to alter the composition of its body to suit its surrounding environment.",
@@ -7503,7 +7602,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH102",
+            "number": "102",
+            "numberWithAbbrev": "SWSH102",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -7582,7 +7682,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH103",
+            "number": "103",
+            "numberWithAbbrev": "SWSH103",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -7660,7 +7761,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH106",
+            "number": "106",
+            "numberWithAbbrev": "SWSH106",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -7738,7 +7840,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH107",
+            "number": "107",
+            "numberWithAbbrev": "SWSH107",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -7813,7 +7916,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH104",
+            "number": "104",
+            "numberWithAbbrev": "SWSH104",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -7889,7 +7993,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH105",
+            "number": "105",
+            "numberWithAbbrev": "SWSH105",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -7964,7 +8069,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH108",
+            "number": "108",
+            "numberWithAbbrev": "SWSH108",
             "artist": "PLANETA Mochizuki",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -8044,7 +8150,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH109",
+            "number": "109",
+            "numberWithAbbrev": "SWSH109",
             "artist": "PLANETA Tsuji",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -8126,7 +8233,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH111",
+            "number": "111",
+            "numberWithAbbrev": "SWSH111",
             "artist": "Saki Hayashiro",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -8197,7 +8305,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH112",
+            "number": "112",
+            "numberWithAbbrev": "SWSH112",
             "artist": "Anesaki Dynamic",
             "rarity": "Promo",
             "flavorText": "It's skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
@@ -8269,7 +8378,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH113",
+            "number": "113",
+            "numberWithAbbrev": "SWSH113",
             "artist": "AKIRA EGAWA",
             "rarity": "Promo",
             "flavorText": "Its nictitating membranes let it pick out foes' weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
@@ -8347,7 +8457,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH114",
+            "number": "114",
+            "numberWithAbbrev": "SWSH114",
             "artist": "Kagemaru Himeno",
             "rarity": "Promo",
             "flavorText": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
@@ -8417,7 +8528,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH115",
+            "number": "115",
+            "numberWithAbbrev": "SWSH115",
             "artist": "Teeziro",
             "rarity": "Promo",
             "flavorText": "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives.",
@@ -8489,7 +8601,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH116",
+            "number": "116",
+            "numberWithAbbrev": "SWSH116",
             "artist": "Atsushi Furusawa",
             "rarity": "Promo",
             "flavorText": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.",
@@ -8564,7 +8677,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH117",
+            "number": "117",
+            "numberWithAbbrev": "SWSH117",
             "artist": "Kagemaru Himeno",
             "rarity": "Promo",
             "flavorText": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
@@ -8646,7 +8760,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH118",
+            "number": "118",
+            "numberWithAbbrev": "SWSH118",
             "artist": "Yuu Nishida",
             "rarity": "Promo",
             "flavorText": "It has the ability to alter the composition of its body to suit its surrounding environment.",
@@ -8721,7 +8836,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH119",
+            "number": "119",
+            "numberWithAbbrev": "SWSH119",
             "artist": "Yuya Oka",
             "rarity": "Promo",
             "flavorText": "This Pokémon's stomach is so strong, even eating moldy or rotten food will not affect it.",
@@ -8765,7 +8881,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH178",
+            "number": "178",
+            "numberWithAbbrev": "SWSH178",
             "artist": "Yusuke Kozaki",
             "rarity": "Promo",
              
@@ -8835,7 +8952,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH110",
+            "number": "110",
+            "numberWithAbbrev": "SWSH110",
             "artist": "PLANETA Mochizuki",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -8878,7 +8996,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH120",
+            "number": "120",
+            "numberWithAbbrev": "SWSH120",
             "artist": "Sanosuke Sakuma",
             "rarity": "Promo",
              
@@ -8951,7 +9070,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH123",
+            "number": "123",
+            "numberWithAbbrev": "SWSH123",
             "artist": "Shin Nagasawa",
             "rarity": "Promo",
             "flavorText": "Known as Articuno, this Pokémon fires beams that can immobilize opponents as if they had been frozen solid.",
@@ -9022,7 +9142,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH125",
+            "number": "125",
+            "numberWithAbbrev": "SWSH125",
             "artist": "KEIICHIRO ITO",
             "rarity": "Promo",
             "flavorText": "The sinister aura that blazes like molten fire around this Pokémon is what inspired the name Moltres.",
@@ -9105,7 +9226,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH126",
+            "number": "126",
+            "numberWithAbbrev": "SWSH126",
             "artist": "sowsow",
             "rarity": "Promo",
             "flavorText": "Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor.",
@@ -9183,7 +9305,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH130",
+            "number": "130",
+            "numberWithAbbrev": "SWSH130",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -9257,7 +9380,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH122",
+            "number": "122",
+            "numberWithAbbrev": "SWSH122",
             "artist": "Pani Kobayashi",
             "rarity": "Promo",
             "flavorText": "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches.",
@@ -9330,7 +9454,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH128",
+            "number": "128",
+            "numberWithAbbrev": "SWSH128",
             "artist": "kirisAki",
             "rarity": "Promo",
             "flavorText": "This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
@@ -9413,7 +9538,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH127",
+            "number": "127",
+            "numberWithAbbrev": "SWSH127",
             "artist": "Souichirou Gunjima",
             "rarity": "Promo",
             "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
@@ -9457,7 +9583,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH121",
+            "number": "121",
+            "numberWithAbbrev": "SWSH121",
             "artist": "Naoki Saito",
             "rarity": "Promo",
              
@@ -9523,7 +9650,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH124",
+            "number": "124",
+            "numberWithAbbrev": "SWSH124",
             "artist": "Oswaldo KATO",
             "rarity": "Promo",
             "flavorText": "One kick from its powerful legs will pulverize a dump truck. Supposedly, this Pokémon runs through the mountains at over 180 mph.",
@@ -9597,7 +9725,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH129",
+            "number": "129",
+            "numberWithAbbrev": "SWSH129",
             "artist": "Souichirou Gunjima",
             "rarity": "Promo",
             "flavorText": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
@@ -9680,7 +9809,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH131",
+            "number": "131",
+            "numberWithAbbrev": "SWSH131",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -9750,7 +9880,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH062",
+            "number": "062",
+            "numberWithAbbrev": "SWSH062",
             "artist": "PLANETA Mochizuki",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -9832,7 +9963,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH132",
+            "number": "132",
+            "numberWithAbbrev": "SWSH132",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -9898,7 +10030,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH133",
+            "number": "133",
+            "numberWithAbbrev": "SWSH133",
             "artist": "Hideki Ishikawa",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -9975,7 +10108,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH134",
+            "number": "134",
+            "numberWithAbbrev": "SWSH134",
             "artist": "Ryuta Fuse",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -10056,7 +10190,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH135",
+            "number": "135",
+            "numberWithAbbrev": "SWSH135",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -10129,7 +10264,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH136",
+            "number": "136",
+            "numberWithAbbrev": "SWSH136",
             "artist": "Hasuno",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -10204,7 +10340,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH137",
+            "number": "137",
+            "numberWithAbbrev": "SWSH137",
             "artist": "Naoyo Kimura",
             "rarity": "Promo",
             "flavorText": "When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.",
@@ -10281,7 +10418,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH138",
+            "number": "138",
+            "numberWithAbbrev": "SWSH138",
             "artist": "kawayoo",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -10380,7 +10518,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH139",
+            "number": "139",
+            "numberWithAbbrev": "SWSH139",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
                 25
@@ -10479,7 +10618,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH140",
+            "number": "140",
+            "numberWithAbbrev": "SWSH140",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
                 25
@@ -10578,7 +10718,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH141",
+            "number": "141",
+            "numberWithAbbrev": "SWSH141",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
                 25
@@ -10677,7 +10818,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH142",
+            "number": "142",
+            "numberWithAbbrev": "SWSH142",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
                 25
@@ -10746,7 +10888,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH143",
+            "number": "143",
+            "numberWithAbbrev": "SWSH143",
             "artist": "HYOGONOSUKE",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -10821,7 +10964,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH144",
+            "number": "144",
+            "numberWithAbbrev": "SWSH144",
             "artist": "Masakazu Fukuda",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -10890,7 +11034,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH145",
+            "number": "145",
+            "numberWithAbbrev": "SWSH145",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -10933,7 +11078,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH146",
+            "number": "146",
+            "numberWithAbbrev": "SWSH146",
             "artist": "5ban Graphics",
             "rarity": "Promo",
              
@@ -11000,7 +11146,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH147",
+            "number": "147",
+            "numberWithAbbrev": "SWSH147",
             "artist": "PLANETA Mochizuki",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -11068,7 +11215,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH148",
+            "number": "148",
+            "numberWithAbbrev": "SWSH148",
             "artist": "PLANETA Yamashita",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -11145,7 +11293,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH149",
+            "number": "149",
+            "numberWithAbbrev": "SWSH149",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -11222,7 +11371,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH150",
+            "number": "150",
+            "numberWithAbbrev": "SWSH150",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -11297,7 +11447,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH151",
+            "number": "151",
+            "numberWithAbbrev": "SWSH151",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -11368,7 +11519,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH154",
+            "number": "154",
+            "numberWithAbbrev": "SWSH154",
             "artist": "Saki Hayashiro",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -11481,7 +11633,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH155",
+            "number": "155",
+            "numberWithAbbrev": "SWSH155",
             "artist": "Shin Nagasawa",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -11594,7 +11747,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH156",
+            "number": "156",
+            "numberWithAbbrev": "SWSH156",
             "artist": "Shin Nagasawa",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -11707,7 +11861,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH157",
+            "number": "157",
+            "numberWithAbbrev": "SWSH157",
             "artist": "Shin Nagasawa",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -11820,7 +11975,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH158",
+            "number": "158",
+            "numberWithAbbrev": "SWSH158",
             "artist": "Shin Nagasawa",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -11932,7 +12088,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH159",
+            "number": "159",
+            "numberWithAbbrev": "SWSH159",
             "artist": "AKIRA EGAWA",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -12044,7 +12201,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH160",
+            "number": "160",
+            "numberWithAbbrev": "SWSH160",
             "artist": "AKIRA EGAWA",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -12156,7 +12314,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH161",
+            "number": "161",
+            "numberWithAbbrev": "SWSH161",
             "artist": "AKIRA EGAWA",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -12268,7 +12427,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH162",
+            "number": "162",
+            "numberWithAbbrev": "SWSH162",
             "artist": "AKIRA EGAWA",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -12373,7 +12533,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH163",
+            "number": "163",
+            "numberWithAbbrev": "SWSH163",
             "artist": "PLANETA Tsuji",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -12478,7 +12639,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH164",
+            "number": "164",
+            "numberWithAbbrev": "SWSH164",
             "artist": "PLANETA Tsuji",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -12583,7 +12745,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH165",
+            "number": "165",
+            "numberWithAbbrev": "SWSH165",
             "artist": "PLANETA Tsuji",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -12688,7 +12851,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH166",
+            "number": "166",
+            "numberWithAbbrev": "SWSH166",
             "artist": "PLANETA Tsuji",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -12731,7 +12895,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH167",
+            "number": "167",
+            "numberWithAbbrev": "SWSH167",
             "artist": "Ryuta Fuse",
             "rarity": "Promo",
              
@@ -12798,7 +12963,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH168",
+            "number": "168",
+            "numberWithAbbrev": "SWSH168",
             "artist": "otumami",
             "rarity": "Promo",
             "flavorText": "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.",
@@ -12869,7 +13035,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH169",
+            "number": "169",
+            "numberWithAbbrev": "SWSH169",
             "artist": "Narumi Sato",
             "rarity": "Promo",
             "flavorText": "It's covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
@@ -12942,7 +13109,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH170",
+            "number": "170",
+            "numberWithAbbrev": "SWSH170",
             "artist": "Souichirou Gunjima",
             "rarity": "Promo",
             "flavorText": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
@@ -13008,7 +13176,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH171",
+            "number": "171",
+            "numberWithAbbrev": "SWSH171",
             "artist": "takuyoa",
             "rarity": "Promo",
             "flavorText": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
@@ -13086,7 +13255,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH172",
+            "number": "172",
+            "numberWithAbbrev": "SWSH172",
             "artist": "Eri Yamaki",
             "rarity": "Promo",
             "flavorText": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
@@ -13152,7 +13322,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH173",
+            "number": "173",
+            "numberWithAbbrev": "SWSH173",
             "artist": "Oswaldo KATO",
             "rarity": "Promo",
             "flavorText": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
@@ -13231,7 +13402,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH174",
+            "number": "174",
+            "numberWithAbbrev": "SWSH174",
             "artist": "Tika Matsuno",
             "rarity": "Promo",
             "flavorText": "It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.",
@@ -13314,7 +13486,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH175",
+            "number": "175",
+            "numberWithAbbrev": "SWSH175",
             "artist": "Tika Matsuno",
             "rarity": "Promo",
             "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
@@ -13390,7 +13563,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH176",
+            "number": "176",
+            "numberWithAbbrev": "SWSH176",
             "artist": "takuyoa",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -13467,7 +13641,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH179",
+            "number": "179",
+            "numberWithAbbrev": "SWSH179",
             "artist": "Souichirou Gunjima",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -13535,7 +13710,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH180",
+            "number": "180",
+            "numberWithAbbrev": "SWSH180",
             "artist": "OKACHEKE",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -13612,7 +13788,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH181",
+            "number": "181",
+            "numberWithAbbrev": "SWSH181",
             "artist": "Tika Matsuno",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -13689,7 +13866,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH182",
+            "number": "182",
+            "numberWithAbbrev": "SWSH182",
             "artist": "Atsushi Furusawa",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -13764,7 +13942,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH183",
+            "number": "183",
+            "numberWithAbbrev": "SWSH183",
             "artist": "nagimiso",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -13829,7 +14008,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH184",
+            "number": "184",
+            "numberWithAbbrev": "SWSH184",
             "artist": "Hasuno",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -13905,7 +14085,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH194",
+            "number": "194",
+            "numberWithAbbrev": "SWSH194",
             "artist": "PLANETA Yamashita",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -13979,7 +14160,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH195",
+            "number": "195",
+            "numberWithAbbrev": "SWSH195",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -14055,7 +14237,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH196",
+            "number": "196",
+            "numberWithAbbrev": "SWSH196",
             "artist": "PLANETA Yamashita",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -14133,7 +14316,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH197",
+            "number": "197",
+            "numberWithAbbrev": "SWSH197",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -14194,7 +14378,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH185",
+            "number": "185",
+            "numberWithAbbrev": "SWSH185",
             "artist": "Shinji Kanda",
             "rarity": "Promo",
             "flavorText": "It's one of the legendary bird Pokémon. When Moltres flaps its flaming wings, they glimmer with a dazzling red glow.",
@@ -14265,7 +14450,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH186",
+            "number": "186",
+            "numberWithAbbrev": "SWSH186",
             "artist": "NC Empire",
             "rarity": "Promo",
             "flavorText": "It controls waves known as auras, which are powerful enough to pulverize huge rocks. It uses these waves to take down its prey.",
@@ -14336,7 +14522,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH187",
+            "number": "187",
+            "numberWithAbbrev": "SWSH187",
             "artist": "saino misaki",
             "rarity": "Promo",
             "flavorText": "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
@@ -14408,7 +14595,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH188",
+            "number": "188",
+            "numberWithAbbrev": "SWSH188",
             "artist": "Misa Tsutsui",
             "rarity": "Promo",
             "flavorText": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
@@ -14475,7 +14663,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH189",
+            "number": "189",
+            "numberWithAbbrev": "SWSH189",
             "artist": "nagimiso",
             "rarity": "Promo",
             "flavorText": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.",
@@ -14558,7 +14747,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH190",
+            "number": "190",
+            "numberWithAbbrev": "SWSH190",
             "artist": "OKACHEKE",
             "rarity": "Promo",
             "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
@@ -14631,7 +14821,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH191",
+            "number": "191",
+            "numberWithAbbrev": "SWSH191",
             "artist": "OKACHEKE",
             "rarity": "Promo",
             "flavorText": "This Pokémon's tail is blade sharp, with a fantastic cutting edge that can slice right though large trees.",
@@ -14705,7 +14896,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH192",
+            "number": "192",
+            "numberWithAbbrev": "SWSH192",
             "artist": "OKACHEKE",
             "rarity": "Promo",
             "flavorText": "The coldness emanating from Glaceon causes powdery snow to form, making it quite a popular Pokémon at ski resorts.",
@@ -14770,7 +14962,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH193",
+            "number": "193",
+            "numberWithAbbrev": "SWSH193",
             "artist": "Megumi Higuchi",
             "rarity": "Promo",
             "flavorText": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
@@ -14841,7 +15034,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH198",
+            "number": "198",
+            "numberWithAbbrev": "SWSH198",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -14917,7 +15111,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH199",
+            "number": "199",
+            "numberWithAbbrev": "SWSH199",
             "artist": "PLANETA Mochizuki",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -14999,7 +15194,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH200",
+            "number": "200",
+            "numberWithAbbrev": "SWSH200",
             "artist": "PLANETA Mochizuki",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -15081,7 +15277,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH201",
+            "number": "201",
+            "numberWithAbbrev": "SWSH201",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -15155,7 +15352,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH202",
+            "number": "202",
+            "numberWithAbbrev": "SWSH202",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -15232,7 +15430,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH203",
+            "number": "203",
+            "numberWithAbbrev": "SWSH203",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -15309,7 +15508,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH204",
+            "number": "204",
+            "numberWithAbbrev": "SWSH204",
             "artist": "Atsushi Furusawa",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -15386,7 +15586,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH213",
+            "number": "213",
+            "numberWithAbbrev": "SWSH213",
             "artist": "takuyoa",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -15463,7 +15664,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH214",
+            "number": "214",
+            "numberWithAbbrev": "SWSH214",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -15560,7 +15762,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH215",
+            "number": "215",
+            "numberWithAbbrev": "SWSH215",
             "artist": "Mitsuhiro Arita",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -15657,7 +15860,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH216",
+            "number": "216",
+            "numberWithAbbrev": "SWSH216",
             "artist": "Mitsuhiro Arita",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -15754,7 +15958,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH217",
+            "number": "217",
+            "numberWithAbbrev": "SWSH217",
             "artist": "Mitsuhiro Arita",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -15851,7 +16056,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH218",
+            "number": "218",
+            "numberWithAbbrev": "SWSH218",
             "artist": "Mitsuhiro Arita",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -15927,7 +16133,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH219",
+            "number": "219",
+            "numberWithAbbrev": "SWSH219",
             "artist": "Ayaka Yoshida",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -15991,7 +16198,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH220",
+            "number": "220",
+            "numberWithAbbrev": "SWSH220",
             "artist": "sowsow",
             "rarity": "Promo",
             "flavorText": "Flies noiselessly on delicate wings. It has mastered the art of deftly launching dagger-sharp feathers from those same wings.",
@@ -16065,7 +16273,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH221",
+            "number": "221",
+            "numberWithAbbrev": "SWSH221",
             "artist": "Teeziro",
             "rarity": "Promo",
             "flavorText": "Hails from the Johto region. Though usually curled into a ball due to its timid disposition, it harbors tremendous firepower.",
@@ -16130,7 +16339,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH222",
+            "number": "222",
+            "numberWithAbbrev": "SWSH222",
             "artist": "kurumitsu",
             "rarity": "Promo",
             "flavorText": "This Pokémon from the Unova region uses the shell on its belly as a weapon to cut down its foes. Thus, I've conferred upon this shell the name “scalchop.”",
@@ -16203,7 +16413,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH177",
+            "number": "177",
+            "numberWithAbbrev": "SWSH177",
             "artist": "The Pokémon Company Art Team",
             "rarity": "Promo",
             "flavorText": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
@@ -16277,7 +16488,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH205",
+            "number": "205",
+            "numberWithAbbrev": "SWSH205",
             "artist": "Pani Kobayashi",
             "rarity": "Promo",
             "flavorText": "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.",
@@ -16354,7 +16566,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH206",
+            "number": "206",
+            "numberWithAbbrev": "SWSH206",
             "artist": "Eri Yamaki",
             "rarity": "Promo",
             "flavorText": "The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing.",
@@ -16426,7 +16639,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH207",
+            "number": "207",
+            "numberWithAbbrev": "SWSH207",
             "artist": "Oswaldo KATO",
             "rarity": "Promo",
             "flavorText": "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.",
@@ -16504,7 +16718,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH208",
+            "number": "208",
+            "numberWithAbbrev": "SWSH208",
             "artist": "zig",
             "rarity": "Promo",
             "flavorText": "Some say that Magnezone receives signals from space via the antenna on its head and that it's being controlled by some mysterious being.",
@@ -16579,7 +16794,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH209",
+            "number": "209",
+            "numberWithAbbrev": "SWSH209",
             "artist": "Souichirou Gunjima",
             "rarity": "Promo",
             "flavorText": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.",
@@ -16659,7 +16875,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH210",
+            "number": "210",
+            "numberWithAbbrev": "SWSH210",
             "artist": "Ryuta Fuse",
             "rarity": "Promo",
             "flavorText": "This Oricorio has sipped purple nectar. Some dancers use its graceful, elegant dancing as inspiration.",
@@ -16733,7 +16950,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH211",
+            "number": "211",
+            "numberWithAbbrev": "SWSH211",
             "artist": "Mizue",
             "rarity": "Promo",
             "flavorText": "There's a Galarian fairy tale that describes a beautiful Sylveon vanquishing a dreadful dragon Pokémon.",
@@ -16816,7 +17034,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH212",
+            "number": "212",
+            "numberWithAbbrev": "SWSH212",
             "artist": "Mizue",
             "rarity": "Promo",
             "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
@@ -16893,7 +17112,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH248",
+            "number": "248",
+            "numberWithAbbrev": "SWSH248",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -16968,7 +17188,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH249",
+            "number": "249",
+            "numberWithAbbrev": "SWSH249",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -17011,7 +17232,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH152",
+            "number": "152",
+            "numberWithAbbrev": "SWSH152",
             "artist": "Yuu Nishida",
             "rarity": "Promo",
              
@@ -17091,7 +17313,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH223",
+            "number": "223",
+            "numberWithAbbrev": "SWSH223",
             "artist": "PLANETA Mochizuki",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -17174,7 +17397,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH224",
+            "number": "224",
+            "numberWithAbbrev": "SWSH224",
             "artist": "sadaji",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -17250,7 +17474,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH225",
+            "number": "225",
+            "numberWithAbbrev": "SWSH225",
             "artist": "MUGENUP",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -17293,7 +17518,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH226",
+            "number": "226",
+            "numberWithAbbrev": "SWSH226",
             "artist": "Naoki Saito",
             "rarity": "Promo",
              
@@ -17333,7 +17559,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH227",
+            "number": "227",
+            "numberWithAbbrev": "SWSH227",
             "artist": "Anesaki Dynamic",
             "rarity": "Promo",
              
@@ -17373,7 +17600,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH228",
+            "number": "228",
+            "numberWithAbbrev": "SWSH228",
             "artist": "Ryuta Fuse",
             "rarity": "Promo",
              
@@ -17453,7 +17681,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH229",
+            "number": "229",
+            "numberWithAbbrev": "SWSH229",
             "artist": "PLANETA Mochizuki",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -17539,7 +17768,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH230",
+            "number": "230",
+            "numberWithAbbrev": "SWSH230",
             "artist": "Souichirou Gunjima",
             "rarity": "Promo",
             "flavorText": "It has the ability to alter the composition of its body to suit its surrounding environment.",
@@ -17614,7 +17844,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH231",
+            "number": "231",
+            "numberWithAbbrev": "SWSH231",
             "artist": "Shibuzoh",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -17678,7 +17909,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH232",
+            "number": "232",
+            "numberWithAbbrev": "SWSH232",
             "artist": "Saya Tsuruta",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -17742,7 +17974,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH233",
+            "number": "233",
+            "numberWithAbbrev": "SWSH233",
             "artist": "kurumitsu",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -17817,7 +18050,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH234",
+            "number": "234",
+            "numberWithAbbrev": "SWSH234",
             "artist": "Ryota Murayama",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -17897,7 +18131,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH237",
+            "number": "237",
+            "numberWithAbbrev": "SWSH237",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -17973,7 +18208,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH238",
+            "number": "238",
+            "numberWithAbbrev": "SWSH238",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18049,7 +18285,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH239",
+            "number": "239",
+            "numberWithAbbrev": "SWSH239",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18123,7 +18360,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH250",
+            "number": "250",
+            "numberWithAbbrev": "SWSH250",
             "artist": "PLANETA Tsuji",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18188,7 +18426,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH153",
+            "number": "153",
+            "numberWithAbbrev": "SWSH153",
             "artist": "sowsow",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18259,7 +18498,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH235",
+            "number": "235",
+            "numberWithAbbrev": "SWSH235",
             "artist": "kawayoo",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18330,7 +18570,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH236",
+            "number": "236",
+            "numberWithAbbrev": "SWSH236",
             "artist": "PLANETA Mochizuki",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18401,7 +18642,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH240",
+            "number": "240",
+            "numberWithAbbrev": "SWSH240",
             "artist": "OKACHEKE",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18476,7 +18718,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH241",
+            "number": "241",
+            "numberWithAbbrev": "SWSH241",
             "artist": "Uta",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18545,7 +18788,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH242",
+            "number": "242",
+            "numberWithAbbrev": "SWSH242",
             "artist": "Teeziro",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18615,7 +18859,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH243",
+            "number": "243",
+            "numberWithAbbrev": "SWSH243",
             "artist": "GOSSAN",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18690,7 +18935,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH244",
+            "number": "244",
+            "numberWithAbbrev": "SWSH244",
             "artist": "Taira Akitsu",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18754,7 +19000,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH245",
+            "number": "245",
+            "numberWithAbbrev": "SWSH245",
             "artist": "Yuya Oka",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18827,7 +19074,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH246",
+            "number": "246",
+            "numberWithAbbrev": "SWSH246",
             "artist": "Shin Nagasawa",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18900,7 +19148,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH247",
+            "number": "247",
+            "numberWithAbbrev": "SWSH247",
             "artist": "GOSSAN",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -18975,7 +19224,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH252",
+            "number": "252",
+            "numberWithAbbrev": "SWSH252",
             "artist": "Ayaka Yoshida",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -19056,7 +19306,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH253",
+            "number": "253",
+            "numberWithAbbrev": "SWSH253",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -19137,7 +19388,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH253",
+            "number": "253",
+            "numberWithAbbrev": "SWSH253",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -19215,7 +19467,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH254",
+            "number": "254",
+            "numberWithAbbrev": "SWSH254",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -19303,7 +19556,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH255",
+            "number": "255",
+            "numberWithAbbrev": "SWSH255",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -19393,7 +19647,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH256",
+            "number": "256",
+            "numberWithAbbrev": "SWSH256",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -19473,7 +19728,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH257",
+            "number": "257",
+            "numberWithAbbrev": "SWSH257",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -19555,7 +19811,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH258",
+            "number": "258",
+            "numberWithAbbrev": "SWSH258",
             "artist": "Ryota Murayama",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -19630,7 +19887,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH259",
+            "number": "259",
+            "numberWithAbbrev": "SWSH259",
             "artist": "PLANETA Mochizuki",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -19714,7 +19972,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH260",
+            "number": "260",
+            "numberWithAbbrev": "SWSH260",
             "artist": "Oswaldo KATO",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -19800,7 +20059,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH261",
+            "number": "261",
+            "numberWithAbbrev": "SWSH261",
             "artist": "Shiburingaru",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -19884,7 +20144,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH262",
+            "number": "262",
+            "numberWithAbbrev": "SWSH262",
             "artist": "KIYOTAKA OSHIYAMA",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -19965,7 +20226,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH263",
+            "number": "263",
+            "numberWithAbbrev": "SWSH263",
             "artist": "N-DESIGN Inc.",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -20047,7 +20309,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH264",
+            "number": "264",
+            "numberWithAbbrev": "SWSH264",
             "artist": "N-DESIGN Inc.",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -20126,7 +20389,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH265",
+            "number": "265",
+            "numberWithAbbrev": "SWSH265",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -20214,7 +20478,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH266",
+            "number": "266",
+            "numberWithAbbrev": "SWSH266",
             "artist": "N-DESIGN Inc.",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -20300,7 +20565,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH267",
+            "number": "267",
+            "numberWithAbbrev": "SWSH267",
             "artist": "N-DESIGN Inc.",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -20387,7 +20653,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH268",
+            "number": "268",
+            "numberWithAbbrev": "SWSH268",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -20455,7 +20722,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH269",
+            "number": "269",
+            "numberWithAbbrev": "SWSH269",
             "artist": "Shigenori Negishi",
             "rarity": "Promo",
             "flavorText": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
@@ -20530,7 +20798,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH270",
+            "number": "270",
+            "numberWithAbbrev": "SWSH270",
             "artist": "aoki",
             "rarity": "Promo",
             "flavorText": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
@@ -20610,7 +20879,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH271",
+            "number": "271",
+            "numberWithAbbrev": "SWSH271",
             "artist": "Taira Akitsu",
             "rarity": "Promo",
             "flavorText": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
@@ -20692,7 +20962,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH272",
+            "number": "272",
+            "numberWithAbbrev": "SWSH272",
             "artist": "Nisota Niso",
             "rarity": "Promo",
             "flavorText": "It needs a running start to take off. If Archeops wants to fly, it first needs to run nearly 25 mph, building speed over a course of about 2.5 miles.",
@@ -20768,7 +21039,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH273",
+            "number": "273",
+            "numberWithAbbrev": "SWSH273",
             "artist": "Shin Nagasawa",
             "rarity": "Promo",
             "flavorText": "Though it differs from other Basculin in several respects, including demeanor - this one is gentle - I have categorized it as a regional form given the vast array of shared qualities.",
@@ -20849,7 +21121,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH274",
+            "number": "274",
+            "numberWithAbbrev": "SWSH274",
             "artist": "GIDORA",
             "rarity": "Promo",
             "flavorText": "Its hard skull is its distinguishing feature. It snapped trees by headbutting them, and then it fed on their ripe berries.",
@@ -20925,7 +21198,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH275",
+            "number": "275",
+            "numberWithAbbrev": "SWSH275",
             "artist": "NC Empire",
             "rarity": "Promo",
             "flavorText": "It starts life with a wondrous power that permits it to bond with any kind of Pokémon.",
@@ -21003,7 +21277,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH276",
+            "number": "276",
+            "numberWithAbbrev": "SWSH276",
             "artist": "Narumi Sato",
             "rarity": "Promo",
             "flavorText": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
@@ -21081,7 +21356,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH294",
+            "number": "294",
+            "numberWithAbbrev": "SWSH294",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -21159,7 +21435,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH295",
+            "number": "295",
+            "numberWithAbbrev": "SWSH295",
             "artist": "Saki Hayashiro",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -21202,7 +21479,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH296",
+            "number": "296",
+            "numberWithAbbrev": "SWSH296",
             "artist": "Naoki Saito",
             "rarity": "Promo",
              
@@ -21278,7 +21556,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH297",
+            "number": "297",
+            "numberWithAbbrev": "SWSH297",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -21356,7 +21635,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH298",
+            "number": "298",
+            "numberWithAbbrev": "SWSH298",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -21437,7 +21717,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH277",
+            "number": "277",
+            "numberWithAbbrev": "SWSH277",
             "artist": "DOM",
             "rarity": "Promo",
             "flavorText": "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.",
@@ -21513,7 +21794,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH278",
+            "number": "278",
+            "numberWithAbbrev": "SWSH278",
             "artist": "Yuya Oka",
             "rarity": "Promo",
             "flavorText": "It's skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
@@ -21589,7 +21871,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH279",
+            "number": "279",
+            "numberWithAbbrev": "SWSH279",
             "artist": "GOSSAN",
             "rarity": "Promo",
             "flavorText": "Its nictitating membranes let it pick out foes' weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
@@ -21670,7 +21953,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH280",
+            "number": "280",
+            "numberWithAbbrev": "SWSH280",
             "artist": "Eske Yoshinob",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -21746,7 +22030,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH281",
+            "number": "281",
+            "numberWithAbbrev": "SWSH281",
             "artist": "PLANETA Hiiragi",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -21828,7 +22113,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH291",
+            "number": "291",
+            "numberWithAbbrev": "SWSH291",
             "artist": "hncl",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -21902,7 +22188,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH285",
+            "number": "285",
+            "numberWithAbbrev": "SWSH285",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
                 25
@@ -21986,7 +22273,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH286",
+            "number": "286",
+            "numberWithAbbrev": "SWSH286",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
                 25
@@ -22064,7 +22352,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH075",
+            "number": "075",
+            "numberWithAbbrev": "SWSH075",
             "artist": "The Pokémon Company Art Team",
             "rarity": "Promo",
             "flavorText": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
@@ -22146,7 +22435,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH282",
+            "number": "282",
+            "numberWithAbbrev": "SWSH282",
             "artist": "Shiburingaru",
             "rarity": "Promo",
             "flavorText": "Known as Articuno, this Pokémon fires beams that can immobilize opponents as if they had been frozen solid.",
@@ -22191,7 +22481,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH302",
+            "number": "302",
+            "numberWithAbbrev": "SWSH302",
             "artist": "Yuu Nishida",
             "rarity": "Promo",
              
@@ -22256,7 +22547,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH305",
+            "number": "305",
+            "numberWithAbbrev": "SWSH305",
             "artist": "Taiga Kasai",
             "rarity": "Promo",
             "flavorText": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
@@ -22359,7 +22651,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH288",
+            "number": "288",
+            "numberWithAbbrev": "SWSH288",
             "artist": "Yuu Nishida",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -22441,7 +22734,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH306",
+            "number": "306",
+            "numberWithAbbrev": "SWSH306",
             "artist": "5ban Graphics",
             "rarity": "Rare Holo V",
             "nationalPokedexNumbers": [
@@ -22543,7 +22837,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH287",
+            "number": "287",
+            "numberWithAbbrev": "SWSH287",
             "artist": "Yuu Nishida",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -22628,7 +22923,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH292",
+            "number": "292",
+            "numberWithAbbrev": "SWSH292",
             "artist": "5ban Graphics",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -22713,7 +23009,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH293",
+            "number": "293",
+            "numberWithAbbrev": "SWSH293",
             "artist": "aky CG Works",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -22792,7 +23089,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH307",
+            "number": "307",
+            "numberWithAbbrev": "SWSH307",
             "artist": "5ban Graphics",
             "rarity": "Rare Holo VSTAR",
             "nationalPokedexNumbers": [
@@ -22836,7 +23134,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH251",
+            "number": "251",
+            "numberWithAbbrev": "SWSH251",
             "artist": "Mitsuhiro Arita",
             "rarity": "Promo",
              
@@ -22903,7 +23202,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH283",
+            "number": "283",
+            "numberWithAbbrev": "SWSH283",
             "artist": "Rianti Hidayat",
             "rarity": "Promo",
             "flavorText": "One kick from its powerful legs will pulverize a dump truck. Supposedly, this Pokémon runs through the mountains at over 180 mph.",
@@ -22979,7 +23279,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH284",
+            "number": "284",
+            "numberWithAbbrev": "SWSH284",
             "artist": "Shinji Kanda",
             "rarity": "Promo",
             "flavorText": "The sinister aura that blazes like molten fire around this Pokémon is what inspired the name Moltres.",
@@ -23082,7 +23383,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH289",
+            "number": "289",
+            "numberWithAbbrev": "SWSH289",
             "artist": "Yuu Nishida",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -23184,7 +23486,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH290",
+            "number": "290",
+            "numberWithAbbrev": "SWSH290",
             "artist": "Yuu Nishida",
             "rarity": "Promo",
             "nationalPokedexNumbers": [
@@ -23253,7 +23556,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH303",
+            "number": "303",
+            "numberWithAbbrev": "SWSH303",
             "artist": "Julie Hang",
             "rarity": "Promo",
             "flavorText": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
@@ -23324,7 +23628,8 @@ let swshp = [
                     "logo": "https://images.pokemontcg.io/swshp/logo.png"
                 }
             },
-            "number": "SWSH304",
+            "number": "304",
+            "numberWithAbbrev": "SWSH304",
             "artist": "REND",
             "rarity": "Promo",
             "flavorText": "The sight of it running over 6,200 miles in a single day and night has captivated many people.",
