@@ -16561,6 +16561,17 @@ function displayList(arr) {
                     addCardBtn.style.pointerEvents = 'all';
                 }
             })
+
+            // PRINT DECKLIST need to be outside of this function?
+            copyButton.addEventListener('click', function () {
+                copyButton.setAttribute('value', "")
+                navigator.clipboard.writeText(copyButton.value)
+            })
+            // stays here on this line
+            copyButton.addEventListener('click', function () {
+                copyButton.setAttribute('value', copyButton.value ? `${copyButton.value}\n${card.count} ${card.name} ${card.set} ${card.number}` : `${card.count} ${card.name} ${card.set} ${card.number}`)
+                navigator.clipboard.writeText(copyButton.value)
+            })
             
             // click addBtn again to add card count w/o duplicating?
             // addCardBtn.addEventListener("click", () => {
