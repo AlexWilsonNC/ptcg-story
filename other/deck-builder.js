@@ -18463,7 +18463,7 @@ function displayList(arr) {
                 defaultCountofOne = newNumber;
                     console.log(newNumber);
                     if (defaultCountofOne === 4) {
-                        plusCard.style.opacity = '0';
+                        plusCard.style.opacity = '0.4';
                         plusCard.style.pointerEvents = 'none';
                     }
                 cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
