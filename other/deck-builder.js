@@ -16499,10 +16499,12 @@ function displayList(arr) {
             addCardBtn.style.opacity = 0;
             addCardBtn.style.pointerEvents = 'none';
             let deckImg = img.cloneNode(true);
+            deckImg.setAttribute('alt', "1" + " " + item.name + " " + item.setAbbrev + " " + item.number);
             deckImg.onclick = () => {
                 zoomedImg.setAttribute('src', item.images.large);
                 zoombox.className = "show";
             };
+        
 
             let deckAndPm = document.createElement('div');
             deckAndPm.classList.add('deck-add-minus');

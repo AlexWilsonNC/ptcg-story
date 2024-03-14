@@ -175,6 +175,7 @@ function performSearch() {
          addCardBtn.style.opacity = 0;
          addCardBtn.style.pointerEvents = 'none';
          let deckImg = img.cloneNode(true);
+         deckImg.setAttribute('alt', "1" + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
          deckImg.onclick = () => {
              zoomedImg.setAttribute('src', poke.images.large);
              zoombox.className = "show";
