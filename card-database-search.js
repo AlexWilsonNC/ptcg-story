@@ -181,7 +181,18 @@ function performSearch() {
             zoomedImg.setAttribute('src', poke.images.large);
             zoombox.className = "show";
          };
-
+         let currentValue = parseInt(currCounter.innerHTML);
+         currentValue++;
+         currCounter.innerHTML = currentValue;
+         if (currCounter.innerHTML === "60") {
+             currCounter.style.color = 'green';
+             statCount.style.color = 'green';
+             statCount.style.border = '1px solid green';
+         } else {
+             currCounter.style.color = 'black'
+             statCount.style.color = 'black';
+             statCount.style.border = '1px solid black';
+         }
          let deckAndPm = document.createElement('div');
          deckAndPm.classList.add('deck-add-minus');
 
@@ -210,8 +221,18 @@ function performSearch() {
                ? defaultCountofOne + 1
                : defaultCountofOne - 1;
             defaultCountofOne = newNumber;
-            console.log(newNumber);
-            if (defaultCountofOne === 4) {
+            let currentValue = parseInt(currCounter.innerHTML);
+            currentValue++;
+            currCounter.innerHTML = currentValue;
+            if (currCounter.innerHTML === "60") {
+                currCounter.style.color = 'green';
+                statCount.style.color = 'green';
+                statCount.style.border = '1px solid green';
+            } else {
+                currCounter.style.color = 'black'
+                statCount.style.color = 'black';
+                statCount.style.border = '1px solid black';
+            }            if (defaultCountofOne === 4) {
                plusCard.style.opacity = '0.4';
                plusCard.style.pointerEvents = 'none';
             }
@@ -224,9 +245,20 @@ function performSearch() {
                ? defaultCountofOne - 1
                : defaultCountofOne + 1;
             defaultCountofOne = newNumber;
+            let currentValue = parseInt(currCounter.innerHTML);
+                currentValue--;
+                currCounter.innerHTML = currentValue;
+                if (currCounter.innerHTML === "60") {
+                    currCounter.style.color = 'green';
+                    statCount.style.color = 'green';
+                    statCount.style.border = '1px solid green';
+                } else {
+                    currCounter.style.color = 'black'
+                    statCount.style.color = 'black';
+                    statCount.style.border = '1px solid black';
+                }
             plusCard.style.opacity = '1';
             plusCard.style.pointerEvents = 'all';
-            console.log(newNumber);
             cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
             deckImg.setAttribute('alt', newNumber + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
             if (defaultCountofOne === 0) {
@@ -323,6 +355,10 @@ function performSearch() {
             deckCardContainer.remove();
             addCardBtn.style.opacity = 1;
             addCardBtn.style.pointerEvents = 'all';
+            currCounter.innerHTML = "0";
+            currCounter.style.color = 'black'
+            statCount.style.color = 'black';
+            statCount.style.border = '1px solid black';
          })
 
          deckAndPm.appendChild(minusCard);

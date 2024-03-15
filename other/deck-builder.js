@@ -16467,6 +16467,8 @@ let advancedDropdownBtn = document.querySelector(".advanced-p-btn");
 let advancedDropdown = document.querySelector(".expand-advanced");
 
 let deckbox = document.querySelector(".deck-box");
+let statCount = document.querySelector(".stat-count");
+let currCounter = document.querySelector(".current-deck-count");
 
 function displayList(arr) {
     const arrOfAllCards = [];
@@ -16505,8 +16507,18 @@ function displayList(arr) {
                 zoomedImg.setAttribute('src', item.images.large);
                 zoombox.className = "show";
             };
-
-
+            let currentValue = parseInt(currCounter.innerHTML);
+            currentValue++;
+            currCounter.innerHTML = currentValue;
+            if (currCounter.innerHTML === "60") {
+                currCounter.style.color = 'green';
+                statCount.style.color = 'green';
+                statCount.style.border = '1px solid green';
+            } else {
+                currCounter.style.color = 'black'
+                statCount.style.color = 'black';
+                statCount.style.border = '1px solid black';
+            }
             let deckAndPm = document.createElement('div');
             deckAndPm.classList.add('deck-add-minus');
 
@@ -16535,7 +16547,18 @@ function displayList(arr) {
                     ? defaultCountofOne + 1
                     : defaultCountofOne - 1;
                 defaultCountofOne = newNumber;
-                console.log(newNumber);
+                let currentValue = parseInt(currCounter.innerHTML);
+                currentValue++;
+                currCounter.innerHTML = currentValue;
+                if (currCounter.innerHTML === "60") {
+                    currCounter.style.color = 'green';
+                    statCount.style.color = 'green';
+                    statCount.style.border = '1px solid green';
+                } else {
+                    currCounter.style.color = 'black'
+                    statCount.style.color = 'black';
+                    statCount.style.border = '1px solid black';
+                }
                 if (defaultCountofOne === 4) {
                     plusCard.style.opacity = '0.4';
                     plusCard.style.pointerEvents = 'none';
@@ -16550,9 +16573,20 @@ function displayList(arr) {
                     ? defaultCountofOne - 1
                     : defaultCountofOne + 1;
                 defaultCountofOne = newNumber;
+                let currentValue = parseInt(currCounter.innerHTML);
+                currentValue--;
+                currCounter.innerHTML = currentValue;
+                if (currCounter.innerHTML === "60") {
+                    currCounter.style.color = 'green';
+                    statCount.style.color = 'green';
+                    statCount.style.border = '1px solid green';
+                } else {
+                    currCounter.style.color = 'black'
+                    statCount.style.color = 'black';
+                    statCount.style.border = '1px solid black';
+                }
                 plusCard.style.opacity = '1';
                 plusCard.style.pointerEvents = 'all';
-                console.log(newNumber);
                 cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
                 deckImg.setAttribute('alt', newNumber + " " + item.name + " " + item.setAbbrev + " " + item.number);
 
@@ -16588,8 +16622,8 @@ function displayList(arr) {
                     if (altPieces.length === 5) { // Check if there are five pieces
                         altPieces[1] += ' ' + altPieces[2]; // Combine the second and third pieces if 5
                         altPieces.splice(2, 1); // Remove the third piece if 5
-                    } if (altPieces.length === 6) { // Check if there are six pieces
-                        altPieces[1] += ' ' + altPieces[2] + ' ' + altPieces[3]; // Combine the second, third, fourth pieces
+                    } if (altPieces.length === 6) {
+                        altPieces[1] += ' ' + altPieces[2] + ' ' + altPieces[3];
                         altPieces.splice(2, 2); // Remove the third and fourth pieces
                     } if (altPieces.length === 7) {
                         altPieces[1] += ' ' + altPieces.slice(2, 5).join(' ');
@@ -16600,7 +16634,7 @@ function displayList(arr) {
                     } if (altPieces.length === 9) {
                         altPieces[1] += ' ' + altPieces.slice(2, 7).join(' ');
                         altPieces.splice(2, 5);
-                    } 
+                    }
                     // for card name like "Team Galactic's Invention G-107 Technical Machine G"
                     if (altPieces.length === 10) {
                         altPieces[1] += ' ' + altPieces.slice(2, 8).join(' ');
@@ -16608,7 +16642,7 @@ function displayList(arr) {
                     } if (altPieces.length === 11) { // just in case
                         altPieces[1] += ' ' + altPieces.slice(2, 9).join(' ');
                         altPieces.splice(2, 7);
-                     }
+                    }
                     const mappedPieces = altPieces.map((piece, index) => {
                         let key;
                         switch (index) {
@@ -16663,6 +16697,10 @@ function displayList(arr) {
                 deckCardContainer.remove();
                 addCardBtn.style.opacity = 1;
                 addCardBtn.style.pointerEvents = 'all';
+                currCounter.innerHTML = "0";
+                currCounter.style.color = 'black'
+                statCount.style.color = 'black';
+                statCount.style.border = '1px solid black';
             })
 
             // must make decklist an array to sort?
