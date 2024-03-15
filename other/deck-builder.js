@@ -16574,15 +16574,15 @@ function displayList(arr) {
                 const textToCopy = altTexts.join('\n');
                 navigator.clipboard.writeText(textToCopy);
 
-                const originalColor = getComputedStyle(copyButton).backgroundColor;
+                const originalColor = copyButton.style.backgroundColor;
                 
                 // Change background color to white
-                copyButton.style.backgroundColor = 'white';
+                copyButton.style.backgroundColor = '#969696';
                 
                 // Change back to original color after 1 second
                 setTimeout(() => {
                     copyButton.style.backgroundColor = originalColor;
-                }, 1000);
+                }, 100);
 
               })
 

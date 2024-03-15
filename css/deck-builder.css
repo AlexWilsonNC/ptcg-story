@@ -447,6 +447,8 @@ body.darkon {
 }
 .copy-as-dckli {
     transition: background-color 1s ease;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 }
 .option-btn {
     padding: 5px 10px;
