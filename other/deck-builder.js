@@ -43,7 +43,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -120,7 +120,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -191,7 +191,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -251,7 +251,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -325,7 +325,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -398,7 +398,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -470,7 +470,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -543,7 +543,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -617,7 +617,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -691,7 +691,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -767,7 +767,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -841,7 +841,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -902,7 +902,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -964,7 +964,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1035,7 +1035,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1105,7 +1105,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1176,7 +1176,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1249,7 +1249,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1319,7 +1319,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1392,7 +1392,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1466,7 +1466,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1540,7 +1540,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1620,7 +1620,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1700,7 +1700,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1769,7 +1769,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1845,7 +1845,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1915,7 +1915,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -1998,7 +1998,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2079,7 +2079,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2156,7 +2156,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2218,7 +2218,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2230,7 +2230,7 @@ let latestSet = [
         "artist": "HYOGONOSUKE",
         "rarity": "Common",
         "flavorText": "In an attempt to confuse its enemy, it mimics the enemy's movements. Then it wastes no time in making itself scarce!",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/31.png",
@@ -2285,7 +2285,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2352,7 +2352,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2415,7 +2415,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2472,7 +2472,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2542,7 +2542,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2610,7 +2610,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2671,7 +2671,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2741,7 +2741,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2821,7 +2821,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2888,7 +2888,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -2955,7 +2955,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3025,7 +3025,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3100,7 +3100,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3163,7 +3163,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3224,7 +3224,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3296,7 +3296,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3372,7 +3372,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3447,7 +3447,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3521,7 +3521,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3585,7 +3585,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3658,7 +3658,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3736,7 +3736,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3747,7 +3747,7 @@ let latestSet = [
         "number": "53",
         "artist": "kawayoo",
         "rarity": "Double Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/53.png",
@@ -3809,7 +3809,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3881,7 +3881,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -3946,7 +3946,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4015,7 +4015,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4088,7 +4088,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4164,7 +4164,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4237,7 +4237,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4310,7 +4310,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4370,7 +4370,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4442,7 +4442,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4518,7 +4518,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4596,7 +4596,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4671,7 +4671,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4682,7 +4682,7 @@ let latestSet = [
         "number": "66",
         "artist": "toriyufu",
         "rarity": "Double Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/66.png",
@@ -4747,7 +4747,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4805,7 +4805,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4871,7 +4871,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4926,7 +4926,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -4988,7 +4988,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5062,7 +5062,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5133,7 +5133,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5204,7 +5204,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5281,7 +5281,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5319,7 +5319,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5330,7 +5330,7 @@ let latestSet = [
         "number": "76",
         "artist": "Oswaldo KATO",
         "rarity": "Uncommon",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/76.png",
@@ -5356,7 +5356,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5367,7 +5367,7 @@ let latestSet = [
         "number": "77",
         "artist": "kantaro",
         "rarity": "Uncommon",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/77.png",
@@ -5392,7 +5392,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5403,7 +5403,7 @@ let latestSet = [
         "number": "78",
         "artist": "GOSSAN",
         "rarity": "Uncommon",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/78.png",
@@ -5428,7 +5428,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5439,7 +5439,7 @@ let latestSet = [
         "number": "79",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/79.png",
@@ -5464,7 +5464,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5475,7 +5475,7 @@ let latestSet = [
         "number": "80",
         "artist": "Sanosuke Sakuma",
         "rarity": "Uncommon",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/80.png",
@@ -5500,7 +5500,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5511,7 +5511,7 @@ let latestSet = [
         "number": "81",
         "artist": "AYUMI ODASHIMA",
         "rarity": "Uncommon",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/81.png",
@@ -5536,7 +5536,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5547,7 +5547,7 @@ let latestSet = [
         "number": "82",
         "artist": "Sanosuke Sakuma",
         "rarity": "Common",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/82.png",
@@ -5572,7 +5572,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5583,7 +5583,7 @@ let latestSet = [
         "number": "83",
         "artist": "AYUMI ODASHIMA",
         "rarity": "Uncommon",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/83.png",
@@ -5608,7 +5608,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5619,7 +5619,7 @@ let latestSet = [
         "number": "84",
         "artist": "Toyste Beach",
         "rarity": "Uncommon",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/84.png",
@@ -5644,7 +5644,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5655,7 +5655,7 @@ let latestSet = [
         "number": "85",
         "artist": "Cona Nitanda",
         "rarity": "Common",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/85.png",
@@ -5680,7 +5680,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5691,7 +5691,7 @@ let latestSet = [
         "number": "86",
         "artist": "Naoki Saito",
         "rarity": "Common",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/86.png",
@@ -5716,7 +5716,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5727,7 +5727,7 @@ let latestSet = [
         "number": "87",
         "artist": "kirisAki",
         "rarity": "Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/87.png",
@@ -5752,7 +5752,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5763,7 +5763,7 @@ let latestSet = [
         "number": "88",
         "artist": "kirisAki",
         "rarity": "Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/88.png",
@@ -5788,7 +5788,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5799,7 +5799,7 @@ let latestSet = [
         "number": "89",
         "artist": "Studio Bora Inc.",
         "rarity": "Common",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/89.png",
@@ -5837,7 +5837,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5848,7 +5848,7 @@ let latestSet = [
         "number": "90",
         "artist": "Studio Bora Inc.",
         "rarity": "Uncommon",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/90.png",
@@ -5874,7 +5874,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -5885,7 +5885,7 @@ let latestSet = [
         "number": "91",
         "artist": "Ayaka Yoshida",
         "rarity": "Uncommon",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/91.png",
@@ -5935,7 +5935,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6008,7 +6008,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6079,7 +6079,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6152,7 +6152,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6215,7 +6215,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6286,7 +6286,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6354,7 +6354,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6419,7 +6419,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6485,7 +6485,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6557,7 +6557,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6627,7 +6627,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6698,7 +6698,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6769,7 +6769,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6829,7 +6829,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6900,7 +6900,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -6971,7 +6971,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7032,7 +7032,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7105,7 +7105,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7178,7 +7178,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7251,7 +7251,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7321,7 +7321,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7389,7 +7389,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7451,7 +7451,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7522,7 +7522,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7597,7 +7597,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7668,7 +7668,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7732,7 +7732,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7801,7 +7801,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7874,7 +7874,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -7934,7 +7934,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8007,7 +8007,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8077,7 +8077,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8149,7 +8149,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8222,7 +8222,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8298,7 +8298,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8367,7 +8367,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8438,7 +8438,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8512,7 +8512,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8583,7 +8583,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8656,7 +8656,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8726,7 +8726,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8789,7 +8789,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8860,7 +8860,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8923,7 +8923,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -8998,7 +8998,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9068,7 +9068,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9136,7 +9136,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9205,7 +9205,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9268,7 +9268,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9340,7 +9340,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9410,7 +9410,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9482,7 +9482,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9548,7 +9548,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9624,7 +9624,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9698,7 +9698,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9769,7 +9769,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9838,7 +9838,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9908,7 +9908,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -9967,7 +9967,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10036,7 +10036,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10112,7 +10112,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10182,7 +10182,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10265,7 +10265,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10345,7 +10345,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10424,7 +10424,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10486,7 +10486,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10498,7 +10498,7 @@ let latestSet = [
         "artist": "Saya Tsuruta",
         "rarity": "SHINY_RARE",
         "flavorText": "In an attempt to confuse its enemy, it mimics the enemy's movements. Then it wastes no time in making itself scarce!",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/157.png",
@@ -10557,7 +10557,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10624,7 +10624,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10692,7 +10692,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10762,7 +10762,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10842,7 +10842,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10919,7 +10919,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -10986,7 +10986,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11057,7 +11057,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11131,7 +11131,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11201,7 +11201,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11271,7 +11271,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11334,7 +11334,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11395,7 +11395,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11467,7 +11467,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11540,7 +11540,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11613,7 +11613,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11686,7 +11686,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11755,7 +11755,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11827,7 +11827,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11891,7 +11891,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -11962,7 +11962,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12022,7 +12022,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12095,7 +12095,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12173,7 +12173,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12236,7 +12236,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12305,7 +12305,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12374,7 +12374,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12447,7 +12447,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12518,7 +12518,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12590,7 +12590,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12662,7 +12662,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12731,7 +12731,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12801,7 +12801,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12879,7 +12879,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -12955,7 +12955,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13033,7 +13033,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13091,7 +13091,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13147,7 +13147,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13226,7 +13226,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13292,7 +13292,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13365,7 +13365,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13434,7 +13434,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13508,7 +13508,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13575,7 +13575,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13647,7 +13647,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13717,7 +13717,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13794,7 +13794,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13865,7 +13865,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -13939,7 +13939,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14001,7 +14001,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14075,7 +14075,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14146,7 +14146,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14217,7 +14217,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14291,7 +14291,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14368,7 +14368,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14441,7 +14441,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14514,7 +14514,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14595,7 +14595,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14669,7 +14669,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14749,7 +14749,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14823,7 +14823,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14898,7 +14898,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -14963,7 +14963,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15037,7 +15037,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15112,7 +15112,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15188,7 +15188,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15260,7 +15260,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15332,7 +15332,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15402,7 +15402,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15441,7 +15441,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15452,7 +15452,7 @@ let latestSet = [
         "number": "227",
         "artist": "GOSSAN",
         "rarity": "Ultra Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/227.png",
@@ -15477,7 +15477,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15488,7 +15488,7 @@ let latestSet = [
         "number": "228",
         "artist": "Hideki Ishikawa",
         "rarity": "Ultra Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/228.png",
@@ -15513,7 +15513,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15524,7 +15524,7 @@ let latestSet = [
         "number": "229",
         "artist": "Sanosuke Sakuma",
         "rarity": "Ultra Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/229.png",
@@ -15549,7 +15549,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15560,7 +15560,7 @@ let latestSet = [
         "number": "230",
         "artist": "Cona Nitanda",
         "rarity": "Ultra Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/230.png",
@@ -15585,7 +15585,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15596,7 +15596,7 @@ let latestSet = [
         "number": "231",
         "artist": "Naoki Saito",
         "rarity": "Ultra Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/231.png",
@@ -15657,7 +15657,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15737,7 +15737,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15812,7 +15812,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15850,7 +15850,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15861,7 +15861,7 @@ let latestSet = [
         "number": "235",
         "artist": "aspara",
         "rarity": "Special Illustration Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/235.png",
@@ -15886,7 +15886,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15897,7 +15897,7 @@ let latestSet = [
         "number": "236",
         "artist": "Taiga Kayama",
         "rarity": "Special Illustration Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/236.png",
@@ -15922,7 +15922,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15933,7 +15933,7 @@ let latestSet = [
         "number": "237",
         "artist": "hanabushi",
         "rarity": "Special Illustration Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/237.png",
@@ -15958,7 +15958,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -15969,7 +15969,7 @@ let latestSet = [
         "number": "238",
         "artist": "aspara",
         "rarity": "Special Illustration Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/238.png",
@@ -15994,7 +15994,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -16005,7 +16005,7 @@ let latestSet = [
         "number": "239",
         "artist": "aspara",
         "rarity": "Special Illustration Rare",
-         
+
         "regulationMark": "G",
         "images": {
             "small": "https://images.pokemontcg.io/sv4pt5/239.png",
@@ -16072,7 +16072,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -16145,7 +16145,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -16217,7 +16217,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -16289,7 +16289,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -16364,7 +16364,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -16437,7 +16437,7 @@ let latestSet = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
+
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {
@@ -16505,7 +16505,7 @@ function displayList(arr) {
                 zoomedImg.setAttribute('src', item.images.large);
                 zoombox.className = "show";
             };
-        
+
 
             let deckAndPm = document.createElement('div');
             deckAndPm.classList.add('deck-add-minus');
@@ -16515,7 +16515,7 @@ function displayList(arr) {
             minusCard.classList.add('minus-card');
             minusCard.classList.add('material-symbols-outlined');
             minusCard.innerHTML = "remove";
-            
+
             let defaultCountofOne = 1;
             // let currentDeckCount = document.querySelector('.current-deck-count').innerHTML;
 
@@ -16532,14 +16532,14 @@ function displayList(arr) {
             // add and minus card count
             plusCard.addEventListener("click", () => {
                 let newNumber = defaultCountofOne
-                ? defaultCountofOne + 1
-                : defaultCountofOne - 1;
+                    ? defaultCountofOne + 1
+                    : defaultCountofOne - 1;
                 defaultCountofOne = newNumber;
-                    console.log(newNumber);
-                    if (defaultCountofOne === 4) {
-                        plusCard.style.opacity = '0.4';
-                        plusCard.style.pointerEvents = 'none';
-                    }
+                console.log(newNumber);
+                if (defaultCountofOne === 4) {
+                    plusCard.style.opacity = '0.4';
+                    plusCard.style.pointerEvents = 'none';
+                }
                 cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
                 deckImg.setAttribute('alt', newNumber + " " + item.name + " " + item.setAbbrev + " " + item.number);
 
@@ -16547,12 +16547,12 @@ function displayList(arr) {
             })
             minusCard.addEventListener("click", () => {
                 let newNumber = defaultCountofOne
-                ? defaultCountofOne - 1
-                : defaultCountofOne + 1;
+                    ? defaultCountofOne - 1
+                    : defaultCountofOne + 1;
                 defaultCountofOne = newNumber;
                 plusCard.style.opacity = '1';
                 plusCard.style.pointerEvents = 'all';
-                    console.log(newNumber);
+                console.log(newNumber);
                 cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
                 deckImg.setAttribute('alt', newNumber + " " + item.name + " " + item.setAbbrev + " " + item.number);
 
@@ -16569,22 +16569,81 @@ function displayList(arr) {
                 const images = document.querySelectorAll('.card-added-in-decklist');
                 const altTexts = [];
                 images.forEach(image => {
-                  altTexts.push(image.alt);
+                    altTexts.push(image.alt);
                 });
                 const textToCopy = altTexts.join('\n');
                 navigator.clipboard.writeText(textToCopy);
 
-                const originalColor = copyButton.style.backgroundColor;
-                
-                // Change background color to white
-                copyButton.style.backgroundColor = '#969696';
-                
-                // Change back to original color after 1 second
+                document.querySelector('.copied-check').style.display = 'flex';
                 setTimeout(() => {
-                    copyButton.style.backgroundColor = originalColor;
-                }, 100);
+                    document.querySelector('.copied-check').style.display = "none";
+                }, 2500);
+            })
+            let exportJson = document.querySelector('.export-json');
+            exportJson.addEventListener('click', function () {
+                const images = document.querySelectorAll('.card-added-in-decklist');
+                const altTexts = [];
+                images.forEach((image, index) => {
+                    const altPieces = image.alt.split(' ');
+                    if (altPieces.length === 5) { // Check if there are five pieces
+                        altPieces[1] += ' ' + altPieces[2]; // Combine the second and third pieces if 5
+                        altPieces.splice(2, 1); // Remove the third piece if 5
+                    } if (altPieces.length === 6) { // Check if there are six pieces
+                        altPieces[1] += ' ' + altPieces[2] + ' ' + altPieces[3]; // Combine the second, third, fourth pieces
+                        altPieces.splice(2, 2); // Remove the third and fourth pieces
+                    } if (altPieces.length === 7) {
+                        altPieces[1] += ' ' + altPieces.slice(2, 5).join(' ');
+                        altPieces.splice(2, 3);
+                    } if (altPieces.length === 8) {
+                        altPieces[1] += ' ' + altPieces.slice(2, 6).join(' ');
+                        altPieces.splice(2, 4);
+                    } if (altPieces.length === 9) {
+                        altPieces[1] += ' ' + altPieces.slice(2, 7).join(' ');
+                        altPieces.splice(2, 5);
+                    } 
+                    // for card name like "Team Galactic's Invention G-107 Technical Machine G"
+                    if (altPieces.length === 10) {
+                        altPieces[1] += ' ' + altPieces.slice(2, 8).join(' ');
+                        altPieces.splice(2, 6);
+                    } if (altPieces.length === 11) { // just in case
+                        altPieces[1] += ' ' + altPieces.slice(2, 9).join(' ');
+                        altPieces.splice(2, 7);
+                     }
+                    const mappedPieces = altPieces.map((piece, index) => {
+                        let key;
+                        switch (index) {
+                            case 0:
+                                key = 'count:';
+                                break;
+                            case 1:
+                                key = '"name":';
+                                break;
+                            case 2:
+                                key = '"set":';
+                                break;
+                            case 3:
+                                key = '"number":';
+                                break;
+                            default:
+                                key = '';
+                        }
+                        if (index === 0 && !isNaN(piece)) {
+                            return key + ' ' + piece;
+                        } else {
+                            return key + ' "' + piece + '"';
+                        }
+                    });
+                    const wrappedAlt = '{' + mappedPieces.join(', ') + '},';
+                    altTexts.push(wrappedAlt);
+                });
+                const textToCopy = altTexts.join('\n');
+                navigator.clipboard.writeText(textToCopy);
 
-              })
+                document.querySelector('.copied-json-check').style.display = 'flex';
+                setTimeout(() => {
+                    document.querySelector('.copied-json-check').style.display = "none";
+                }, 2500);
+            })
 
             // click addBtn again to add card count w/o duplicating?
             // addCardBtn.addEventListener("click", () => {
@@ -16654,7 +16713,7 @@ for (i = 0; i < coll.length; i++) {
                 content.style.maxHeight = "0px";
             }
         })
-        setCube.forEach(function(elem) {
+        setCube.forEach(function (elem) {
             elem.addEventListener("click", function () {
                 if (content.style.maxHeight === "2000px") {
                     content.style.maxHeight = "0px";
@@ -16663,7 +16722,7 @@ for (i = 0; i < coll.length; i++) {
                 }
             })
         })
-        setCubePromo.forEach(function(elem) {
+        setCubePromo.forEach(function (elem) {
             elem.addEventListener("click", function () {
                 if (content.style.maxHeight === "2000px") {
                     content.style.maxHeight = "0px";

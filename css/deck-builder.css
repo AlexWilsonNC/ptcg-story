@@ -445,11 +445,6 @@ body.darkon {
     align-items: center;
     justify-content: space-around;
 }
-.copy-as-dckli {
-    transition: background-color 1s ease;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-}
 .option-btn {
     padding: 5px 10px;
     font-size: 16px;
@@ -788,6 +783,31 @@ body.darkon {
 .blue-selected {
     background-color: rgb(68, 92, 195) !important;
     color:white;
+}
+.copied-check,
+.copied-json-check {
+    position: absolute;
+    bottom: 25px;
+    right: 25px;
+    color:white;
+    width:85px;height:85px;
+    border-radius: 50%;
+    z-index: 50;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    border: 4px solid white;
+}
+.copied-check {
+    background-color: rgb(19, 145, 19);
+}
+.copied-json-check {
+    background-color: rgb(23, 133, 197);
+}
+.copied-check span,
+.copied-json-check span {
+    font-size: 42px;
+    font-weight: 600;
 }
 
 /**/

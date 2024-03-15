@@ -27,7 +27,7 @@
     align-items: center;
 }
 .regional-info-bg-logo-kl {
-    opacity: 0.5;
+    opacity: 0.75;
     position: absolute;
     height: 120px;width:auto;
     left: 50%;
@@ -52,7 +52,7 @@
     display: none !important;
 }
 .regional-info-bg-logo-reg {
-    opacity: 0.5;
+    opacity: 0.75;
     position: absolute;
     height: 130px;width:auto;
     left: 50%;
@@ -60,7 +60,7 @@
     z-index: -1;
 }
 .regional-info-bg-logo-sts {
-    opacity: 0.5;
+    opacity: 0.75;
     position: absolute;
     height: 60px;width:auto;
     left: 50%;

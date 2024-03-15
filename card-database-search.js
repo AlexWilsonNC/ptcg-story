@@ -141,35 +141,35 @@ const searchField = document.querySelector('#search');
 const searchButton = document.querySelector('#searchButton');
 
 function performSearch() {
-    const searchValue = searchField.value.trim().toLowerCase();
+   const searchValue = searchField.value.trim().toLowerCase();
 
-    if (searchValue === '') {
-        setsOl.innerHTML = '';
-        return;
-    }
+   if (searchValue === '') {
+      setsOl.innerHTML = '';
+      return;
+   }
 
-    const searchResults = pokemonCard.filter(poke => poke.name?.toLowerCase().includes(searchValue));
+   const searchResults = pokemonCard.filter(poke => poke.name?.toLowerCase().includes(searchValue));
 
-    setsOl.innerHTML = '';
+   setsOl.innerHTML = '';
 
-    searchResults.forEach((poke) => {
-        let cardArea = document.createElement('div');
-        cardArea.classList.add('searched-card-wrap');
-        // card img
-        let img = document.createElement('img');
-        img.classList.add('database-card-in-list');
-        img.setAttribute('src', poke.images.small);
-        img.setAttribute('alt', poke.name + " " + poke.setAbbrev + " " + poke.number);
-        img.loading = 'lazy';
+   searchResults.forEach((poke) => {
+      let cardArea = document.createElement('div');
+      cardArea.classList.add('searched-card-wrap');
+      // card img
+      let img = document.createElement('img');
+      img.classList.add('database-card-in-list');
+      img.setAttribute('src', poke.images.small);
+      img.setAttribute('alt', poke.name + " " + poke.setAbbrev + " " + poke.number);
+      img.loading = 'lazy';
 
-        // plus button on card
-        let addCardBtn = document.createElement('div');
-        addCardBtn.classList.add('add-card-to-deck');
+      // plus button on card
+      let addCardBtn = document.createElement('div');
+      addCardBtn.classList.add('add-card-to-deck');
 
-        cardArea.appendChild(img);
-        cardArea.appendChild(addCardBtn);
+      cardArea.appendChild(img);
+      cardArea.appendChild(addCardBtn);
 
-        addCardBtn.addEventListener("click", () => {
+      addCardBtn.addEventListener("click", () => {
          let deckCardContainer = document.createElement('div');
          deckCardContainer.classList.add('deckbuilt-card-container');
          addCardBtn.style.opacity = 0;
@@ -178,8 +178,8 @@ function performSearch() {
          deckImg.classList.add('card-added-in-decklist');
          deckImg.setAttribute('alt', "1" + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
          deckImg.onclick = () => {
-             zoomedImg.setAttribute('src', poke.images.large);
-             zoombox.className = "show";
+            zoomedImg.setAttribute('src', poke.images.large);
+            zoombox.className = "show";
          };
 
          let deckAndPm = document.createElement('div');
@@ -190,7 +190,7 @@ function performSearch() {
          minusCard.classList.add('minus-card');
          minusCard.classList.add('material-symbols-outlined');
          minusCard.innerHTML = "remove";
-         
+
          let defaultCountofOne = 1;
          // let currentDeckCount = document.querySelector('.current-deck-count').innerHTML;
 
@@ -206,56 +206,123 @@ function performSearch() {
 
          // add and minus card count
          plusCard.addEventListener("click", () => {
-             let newNumber = defaultCountofOne
-             ? defaultCountofOne + 1
-             : defaultCountofOne - 1;
-             defaultCountofOne = newNumber;
-                 console.log(newNumber);
-                 if (defaultCountofOne === 4) {
-                     plusCard.style.opacity = '0.4';
-                     plusCard.style.pointerEvents = 'none';
-                 }
-             cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
-             deckImg.setAttribute('alt', newNumber + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
-             // currentDeckCount.innerHTML = newNumber;
+            let newNumber = defaultCountofOne
+               ? defaultCountofOne + 1
+               : defaultCountofOne - 1;
+            defaultCountofOne = newNumber;
+            console.log(newNumber);
+            if (defaultCountofOne === 4) {
+               plusCard.style.opacity = '0.4';
+               plusCard.style.pointerEvents = 'none';
+            }
+            cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+            deckImg.setAttribute('alt', newNumber + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
+            // currentDeckCount.innerHTML = newNumber;
          })
          minusCard.addEventListener("click", () => {
-             let newNumber = defaultCountofOne
-             ? defaultCountofOne - 1
-             : defaultCountofOne + 1;
-             defaultCountofOne = newNumber;
-             plusCard.style.opacity = '1';
-             plusCard.style.pointerEvents = 'all';
-                 console.log(newNumber);
-             cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
-             deckImg.setAttribute('alt', newNumber + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
-             if (defaultCountofOne === 0) {
-                 deckCardContainer.remove();
-                 addCardBtn.style.opacity = 1;
-                 addCardBtn.style.pointerEvents = 'all';
-             }
+            let newNumber = defaultCountofOne
+               ? defaultCountofOne - 1
+               : defaultCountofOne + 1;
+            defaultCountofOne = newNumber;
+            plusCard.style.opacity = '1';
+            plusCard.style.pointerEvents = 'all';
+            console.log(newNumber);
+            cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+            deckImg.setAttribute('alt', newNumber + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
+            if (defaultCountofOne === 0) {
+               deckCardContainer.remove();
+               addCardBtn.style.opacity = 1;
+               addCardBtn.style.pointerEvents = 'all';
+            }
          })
 
          // // PRINT DECKLIST
          let copyButton = document.querySelector('.copy-as-dckli');
          copyButton.addEventListener('click', function () {
-             const images = document.querySelectorAll('.card-added-in-decklist');
-             const altTexts = [];
+            const images = document.querySelectorAll('.card-added-in-decklist');
+            const altTexts = [];
+            images.forEach(image => {
+               altTexts.push(image.alt);
+            });
+            const textToCopy = altTexts.join('\n');
+            navigator.clipboard.writeText(textToCopy)
 
-             images.forEach(image => {
-                 altTexts.push(image.alt);
-             });
-
-             const textToCopy = altTexts.join('\n');
-
-             navigator.clipboard.writeText(textToCopy)
+            document.querySelector('.copied-check').style.display = 'flex';
+            setTimeout(() => {
+               document.querySelector('.copied-check').style.display = "none";
+            }, 2500);
          })
-         
+         let exportJson = document.querySelector('.export-json');
+         exportJson.addEventListener('click', function () {
+            const images = document.querySelectorAll('.card-added-in-decklist');
+            const altTexts = [];
+            images.forEach((image, index) => {
+               const altPieces = image.alt.split(' ');
+               if (altPieces.length === 5) {
+                  altPieces[1] += ' ' + altPieces[2];
+                  altPieces.splice(2, 1);
+               } if (altPieces.length === 6) {
+                  altPieces[1] += ' ' + altPieces[2] + ' ' + altPieces[3];
+                  altPieces.splice(2, 2);
+               } if (altPieces.length === 7) {
+                  altPieces[1] += ' ' + altPieces.slice(2, 5).join(' ');
+                  altPieces.splice(2, 3);
+               } if (altPieces.length === 8) {
+                  altPieces[1] += ' ' + altPieces.slice(2, 6).join(' ');
+                  altPieces.splice(2, 4);
+               } if (altPieces.length === 9) {
+                  altPieces[1] += ' ' + altPieces.slice(2, 7).join(' ');
+                  altPieces.splice(2, 5);
+               } 
+               // for card name like "Team Galactic's Invention G-107 Technical Machine G"
+               if (altPieces.length === 10) {
+                  altPieces[1] += ' ' + altPieces.slice(2, 8).join(' ');
+                  altPieces.splice(2, 6);
+               } if (altPieces.length === 11) { // just in case
+                  altPieces[1] += ' ' + altPieces.slice(2, 9).join(' ');
+                  altPieces.splice(2, 7);
+               }
+               const mappedPieces = altPieces.map((piece, index) => {
+                  let key;
+                  switch (index) {
+                     case 0:
+                        key = 'count:';
+                        break;
+                     case 1:
+                        key = '"name":';
+                        break;
+                     case 2:
+                        key = '"set":';
+                        break;
+                     case 3:
+                        key = '"number":';
+                        break;
+                     default:
+                        key = '';
+                  }
+                  if (index === 0 && !isNaN(piece)) {
+                     return key + ' ' + piece;
+                  } else {
+                     return key + ' "' + piece + '"';
+                  }
+               });
+               const wrappedAlt = '{' + mappedPieces.join(', ') + '},';
+               altTexts.push(wrappedAlt);
+            });
+            const textToCopy = altTexts.join('\n');
+            navigator.clipboard.writeText(textToCopy);
+
+            document.querySelector('.copied-json-check').style.display = 'flex';
+            setTimeout(() => {
+               document.querySelector('.copied-json-check').style.display = "none";
+            }, 2500);
+         })
+
          // reset decklist
          document.getElementById('deck-reset').addEventListener("click", () => {
-             deckCardContainer.remove();
-             addCardBtn.style.opacity = 1;
-             addCardBtn.style.pointerEvents = 'all';
+            deckCardContainer.remove();
+            addCardBtn.style.opacity = 1;
+            addCardBtn.style.pointerEvents = 'all';
          })
 
          deckAndPm.appendChild(minusCard);
@@ -264,33 +331,33 @@ function performSearch() {
          deckCardContainer.appendChild(deckAndPm);
          deckCardContainer.appendChild(deckImg);
          deckbox.appendChild(deckCardContainer);
-     })
+      })
 
-        // zoom card
-         img.onclick = () => {
-            zoomedImg.setAttribute('src', poke.images.large);
-            zoombox.className = "show";
-         };
-         zoombox.onclick = () => {
-            zoombox.className = "";
-         };
+      // zoom card
+      img.onclick = () => {
+         zoomedImg.setAttribute('src', poke.images.large);
+         zoombox.className = "show";
+      };
+      zoombox.onclick = () => {
+         zoombox.className = "";
+      };
 
-        setsOl.appendChild(cardArea);
-    });
+      setsOl.appendChild(cardArea);
+   });
 }
 
 // for button click
 searchButton.addEventListener('click', performSearch);
 
 // for Enter key press
-searchField.addEventListener('keypress', function(event) {
-    if (event.key === 'Enter') {
-        performSearch();
-    }
+searchField.addEventListener('keypress', function (event) {
+   if (event.key === 'Enter') {
+      performSearch();
+   }
 });
 
-searchField.addEventListener('input', function() {
+searchField.addEventListener('input', function () {
    if (searchField.value.trim() === '') {
-         setsOl.innerHTML = ''; // Clear search results
+      setsOl.innerHTML = ''; // Clear search results
    }
 });
