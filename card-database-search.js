@@ -362,11 +362,11 @@ function performSearch() {
             statCount.style.border = '1px solid black';
          })
 
+         deckCardContainer.appendChild(deckImg);
          deckAndPm.appendChild(minusCard);
          deckAndPm.appendChild(cardCount);
          deckAndPm.appendChild(plusCard);
          deckCardContainer.appendChild(deckAndPm);
-         deckCardContainer.appendChild(deckImg);
          deckbox.appendChild(deckCardContainer);
       })
 

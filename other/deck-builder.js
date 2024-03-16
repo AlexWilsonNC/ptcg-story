@@ -16600,57 +16600,32 @@ function displayList(arr) {
                 }
             })
 
+            // SORT DECKLIST
             deckSort.addEventListener("click", () => {
-                const cardUnsorted = deckbox.getElementsByClassName("card-added-in-decklist");
-                
-                const sortedImages = Array.from(cardUnsorted).sort((a, b) => {
-                    const idA = a.id.split(",");
-                    const idB = b.id.split(",");
-            
+                const cardUnsorted = deckbox.getElementsByClassName("deckbuilt-card-container");
+                const sortedContainers = Array.from(cardUnsorted).sort((a, b) => {
+                    const idA = a.firstChild.id.split(","); // Get ID of the first image in the container
+                    const idB = b.firstChild.id.split(","); // Get ID of the first image in the container
                     // Prioritize Pokemon, Trainer, Energy
                     const priority = ["Pokemon", "Trainer", "Energy"];
-            
                     const categoryIndexA = priority.indexOf(idA[0]);
                     const categoryIndexB = priority.indexOf(idB[0]);
-            
                     // Sort by category priority
                     if (categoryIndexA !== categoryIndexB) {
                         return categoryIndexA - categoryIndexB;
                     }
-            
                     // If both images belong to the same category, compare their additional values (if any)
                     if (idA.length > 1 && idB.length > 1) {
                         return idA[1].localeCompare(idB[1]);
                     }
-            
                     // If only one of the images has additional values, prioritize it
                     return idA.length - idB.length;
                 });
-                
-                // Remove existing images
                 while (deckbox.firstChild) {
                     deckbox.removeChild(deckbox.firstChild);
                 }
-                
-                // Append sorted images
-                sortedImages.forEach(image => {
-                    let deckCardContainer = document.createElement('div');
-                    deckCardContainer.classList.add('deckbuilt-card-container');
-                    let deckImg = image.cloneNode(true); // Clone the image
-                    deckImg.classList.add('card-added-in-decklist');
-                    deckImg.setAttribute('alt', "1" + " " + item.name + " " + item.setAbbrev + " " + item.number);
-
-                    let deckAndPm = document.createElement('div');
-                    deckAndPm.classList.add('deck-add-minus');
-                    let cardCount = document.createElement('img');
-                    cardCount.classList.add('current-cnt-num');
-                    cardCount.setAttribute('src', "../assets/card-count/" + "4" + ".png");
-            
-                    deckAndPm.appendChild(cardCount);
-                    deckCardContainer.appendChild(deckAndPm);
-
-                    deckCardContainer.appendChild(deckImg);
-                    deckbox.appendChild(deckCardContainer);
+                sortedContainers.forEach(deckCardContainer => {
+                    deckbox.appendChild(deckCardContainer.cloneNode(true));
                 });
             });
 
@@ -16766,11 +16741,11 @@ function displayList(arr) {
             //     deckbox.sort((a, b) => b.defaultCountofOne - a.defaultCountofOne);
             // })
 
+            deckCardContainer.appendChild(deckImg);
             deckAndPm.appendChild(minusCard);
             deckAndPm.appendChild(cardCount);
             deckAndPm.appendChild(plusCard);
             deckCardContainer.appendChild(deckAndPm);
-            deckCardContainer.appendChild(deckImg);
             deckbox.appendChild(deckCardContainer);
         })
 
