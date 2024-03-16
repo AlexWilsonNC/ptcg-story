@@ -16795,3 +16795,101 @@ document.getElementById('filter-search').addEventListener("click", () => {
     document.querySelector('.all-cards-container').classList.toggle('all-cards-farther');
     document.getElementById('filter-search').classList.toggle('blue-selected');
 })
+
+// paste decklist
+function createImages() {
+    navigator.clipboard.readText()
+        .then(text => {
+            const altTexts = text.split('\n');
+            deckbox.innerHTML = '';
+            altTexts.forEach(alt => {
+                const altPieces = alt.split(' ');
+                if (altPieces.length === 5) {
+                    altPieces[1] += ' ' + altPieces[2];
+                    altPieces.splice(2, 1);
+                } else if (altPieces.length === 6) {
+                    altPieces[1] += ' ' + altPieces[2] + ' ' + altPieces[3];
+                    altPieces.splice(2, 2);
+                } else if (altPieces.length === 7) {
+                    altPieces[1] += ' ' + altPieces.slice(2, 5).join(' ');
+                    altPieces.splice(2, 3);
+                } else if (altPieces.length === 8) {
+                    altPieces[1] += ' ' + altPieces.slice(2, 6).join(' ');
+                    altPieces.splice(2, 4);
+                } else if (altPieces.length === 9) {
+                    altPieces[1] += ' ' + altPieces.slice(2, 7).join(' ');
+                    altPieces.splice(2, 5);
+                } else if (altPieces.length === 10) {
+                    altPieces[1] += ' ' + altPieces.slice(2, 8).join(' ');
+                    altPieces.splice(2, 6);
+                } else if (altPieces.length === 11) {
+                    altPieces[1] += ' ' + altPieces.slice(2, 9).join(' ');
+                    altPieces.splice(2, 7);
+                }
+                const mappedPieces = altPieces.map((piece, index) => {
+                    let key;
+                    switch (index) {
+                        case 0:
+                            key = 'count:';
+                            break;
+                        case 1:
+                            key = '"name":';
+                            break;
+                        case 2:
+                            key = '"set":';
+                            break;
+                        case 3:
+                            key = '"number":';
+                            break;
+                        default:
+                            key = '';
+                    }
+                    if (index === 0 && !isNaN(piece)) {
+                        return key + ' ' + piece;
+                    } else {
+                        return key + ' "' + piece + '"';
+                    }
+                });
+                const wrappedAlt = '{' + mappedPieces.join(', ') + '},';
+
+                const setMatch = wrappedAlt.match(/"set": "(.*?)"/);
+                const numberMatch = wrappedAlt.match(/"number": "(.*?)"/);
+
+                let setAbbrevFromWrappedAlt, cardNumberFromWrappedAlt;
+                if (setMatch && setMatch[1] && numberMatch && numberMatch[1]) {
+                    setAbbrevFromWrappedAlt = setMatch[1];
+                    cardNumberFromWrappedAlt = numberMatch[1];
+                    console.log('Extracted set abbreviation:', setAbbrevFromWrappedAlt);
+                    console.log('Extracted number value:', cardNumberFromWrappedAlt);
+                }
+
+                const allSets = {
+                    // sv
+                    sv4pt5, sv4, sv3pt5, sv3, sv2, sv1, svp
+                }
+
+                let pastedCardContainer = document.createElement('div');
+                pastedCardContainer.classList.add('deckbuilt-card-container');
+                let pastedCard = document.createElement('img');
+                pastedCard.classList.add('database-card-in-list');
+                pastedCard.classList.add('card-added-in-decklist');
+
+                if (setAbbrevFromWrappedAlt && cardNumberFromWrappedAlt) {
+                    let cardFound = allSets[setConvert[setAbbrevFromWrappedAlt]].find(cardInSet => cardInSet.id === setConvert[setAbbrevFromWrappedAlt] + "-" + cardNumberFromWrappedAlt);
+                    pastedCard.setAttribute('src', cardFound.images.small);
+                }//  else {
+                //     // Set default source if card not found
+                //     pastedCard.setAttribute('src', 'default_image_path');
+                // }
+
+                pastedCard.setAttribute('alt', wrappedAlt.trim());
+
+                pastedCardContainer.appendChild(pastedCard)
+                deckbox.appendChild(pastedCardContainer)
+            });
+        })
+        .catch(err => {
+            console.error('Failed to read clipboard: ', err);
+            alert('Failed to read clipboard');
+        });
+}

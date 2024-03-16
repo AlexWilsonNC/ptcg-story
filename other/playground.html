@@ -766,7 +766,7 @@
                 <div class='all-options-box'>
                     <div class='options-left'>
                         <div class='options-row row-options-1'>
-                            <div class='import-as-deck option-btn'>
+                            <div class='import-as-deck option-btn' onclick="createImages()">
                                 <span class="material-symbols-outlined">content_paste</span>
                                 <p>Import Deck</p>
                             </div>
@@ -774,15 +774,15 @@
                                 <span class="material-symbols-outlined">content_copy</span>
                                 <p>Export Deck</p>
                             </div>
-                            <div class='save-as-img option-btn' onclick="takeshot()">
-                                <span class="material-symbols-outlined">photo_camera</span>
-                                <p>Save as Image</p>
-                            </div>
-                            <div class='share-decklist option-btn'>
+                            <div class='share-decklist option-btn' style="opacity: 0.1;">
                                 <span class="material-symbols-outlined">ios_share</span>
                                 <p>Share Decklist</p>
                             </div>
-                            <div class='print-deck option-btn'>
+                            <div class='save-as-img option-btn' onclick="takeshot()" style="opacity: 0.1;">
+                                <span class="material-symbols-outlined">photo_camera</span>
+                                <p>Save as Image</p>
+                            </div>
+                            <div class='print-deck option-btn' style="opacity: 0.1;">
                                 <span class="material-symbols-outlined">print</span>
                                 <p>Print Decklist</p>
                             </div>
@@ -1008,7 +1008,7 @@
     <script src='../card-database/other/southern-islands.js'></script>
 
     <script src="../card-database-search.js"></script>
-
+    <script src='../decklist-script/convert-set-names.js'></script>
 
     <!-- <script type="text/javascript">
         function takeshot() {
