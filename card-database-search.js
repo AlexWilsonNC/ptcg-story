@@ -318,7 +318,7 @@ function performSearch() {
                   let key;
                   switch (index) {
                      case 0:
-                        key = 'count:';
+                        key = '"count":';
                         break;
                      case 1:
                         key = '"name":';

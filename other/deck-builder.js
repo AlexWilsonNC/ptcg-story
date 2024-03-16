@@ -16647,7 +16647,7 @@ function displayList(arr) {
                         let key;
                         switch (index) {
                             case 0:
-                                key = 'count:';
+                                key = '"count":';
                                 break;
                             case 1:
                                 key = '"name":';
@@ -16830,7 +16830,7 @@ function createImages() {
                     let key;
                     switch (index) {
                         case 0:
-                            key = 'count:';
+                            key = '"count":';
                             break;
                         case 1:
                             key = '"name":';
@@ -16855,13 +16855,15 @@ function createImages() {
                 const setMatch = wrappedAlt.match(/"set": "(.*?)"/);
                 const numberMatch = wrappedAlt.match(/"number": "(.*?)"/);
 
+                // let setAbbrevFromWrappedAlt = setMatch;
+                // let cardNumberFromWrappedAlt = numberMatch;
                 let setAbbrevFromWrappedAlt, cardNumberFromWrappedAlt;
                 if (setMatch && setMatch[1] && numberMatch && numberMatch[1]) {
                     setAbbrevFromWrappedAlt = setMatch[1];
                     cardNumberFromWrappedAlt = numberMatch[1];
-                    console.log('Extracted set abbreviation:', setAbbrevFromWrappedAlt);
-                    console.log('Extracted number value:', cardNumberFromWrappedAlt);
                 }
+                console.log('Extracted set abbreviation:', setAbbrevFromWrappedAlt);
+                console.log('Extracted number value:', cardNumberFromWrappedAlt);
 
                 const allSets = {
                     // sv
