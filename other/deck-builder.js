@@ -16522,6 +16522,54 @@ function displayList(arr) {
                 statCount.style.border = '1px solid black';
             }
 
+            // SORT DECKLIST
+            deckSort.addEventListener("click", () => {
+                const cardUnsorted = deckbox.getElementsByClassName("deckbuilt-card-container");
+
+                const sortedContainers = Array.from(cardUnsorted).sort((a, b) => {
+                    const idA = a.firstChild.id.split(","); // Get ID of the first image in the container
+                    const idB = b.firstChild.id.split(","); // Get ID of the first image in the container
+
+                    // Prioritize Pokemon, Trainer, Energy
+                    const priority = ["Pokemon", "Trainer", "Energy"];
+                    const categoryIndexA = priority.indexOf(idA[0]);
+                    const categoryIndexB = priority.indexOf(idB[0]);
+
+                    // Sort by category priority
+                    if (categoryIndexA !== categoryIndexB) {
+                        return categoryIndexA - categoryIndexB;
+                    }
+
+                    // If both images belong to the same category, compare their additional values (if any)
+                    if (idA.length > 1 && idB.length > 1) {
+                        const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                        const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                        return altB - altA;
+                    }
+
+                    // If only one of the images has additional values, prioritize it
+                    return idA.length - idB.length;
+                });
+
+                // Remove existing containers
+                while (deckbox.firstChild) {
+                    deckbox.removeChild(deckbox.firstChild);
+                }
+
+                // deckbox.addEventListener("click", event => {
+                //     // Check if the clicked element has the class .plus-card
+                //     if (event.target.classList.contains('plus-card')) {
+                //         // If it does, log 'here' to the console
+                //         console.log('here');
+                //     }
+                // });
+
+                // Append sorted containers
+                sortedContainers.forEach(deckCardContainer => {
+                    deckbox.appendChild(deckCardContainer.cloneNode(true));
+                });
+            });
+
             let deckAndPm = document.createElement('div');
             deckAndPm.classList.add('deck-add-minus');
 
@@ -16599,36 +16647,6 @@ function displayList(arr) {
                     addCardBtn.style.pointerEvents = 'all';
                 }
             })
-
-            // SORT DECKLIST
-            deckSort.addEventListener("click", () => {
-                const cardUnsorted = deckbox.getElementsByClassName("deckbuilt-card-container");
-                const sortedContainers = Array.from(cardUnsorted).sort((a, b) => {
-                    const idA = a.firstChild.id.split(","); // Get ID of the first image in the container
-                    const idB = b.firstChild.id.split(","); // Get ID of the first image in the container
-                    // Prioritize Pokemon, Trainer, Energy
-                    const priority = ["Pokemon", "Trainer", "Energy"];
-                    const categoryIndexA = priority.indexOf(idA[0]);
-                    const categoryIndexB = priority.indexOf(idB[0]);
-                    // Sort by category priority
-                    if (categoryIndexA !== categoryIndexB) {
-                        return categoryIndexA - categoryIndexB;
-                    }
-                    // If both images belong to the same category, compare their additional values (if any)
-                    if (idA.length > 1 && idB.length > 1) {
-                        return idA[1].localeCompare(idB[1]);
-                    }
-                    // If only one of the images has additional values, prioritize it
-                    return idA.length - idB.length;
-                });
-                while (deckbox.firstChild) {
-                    deckbox.removeChild(deckbox.firstChild);
-                }
-                sortedContainers.forEach(deckCardContainer => {
-                    deckbox.appendChild(deckCardContainer.cloneNode(true));
-                });
-            });
-
 
             // // PRINT DECKLIST
             let copyButton = document.querySelector('.copy-as-dckli');
@@ -16836,7 +16854,7 @@ function createImages() {
             const altTexts = text.split('\n');
             deckbox.innerHTML = '';
             altTexts.forEach(alt => {
-                const altPieces = alt.split(' ');
+                const altPieces = alt.trim().split(' ');
                 if (altPieces.length === 5) {
                     altPieces[1] += ' ' + altPieces[2];
                     altPieces.splice(2, 1);
@@ -16883,7 +16901,7 @@ function createImages() {
                         return key + ' "' + piece + '"';
                     }
                 });
-                const wrappedAlt = '{' + mappedPieces.join(', ') + '},';
+                const wrappedAlt = '{' + mappedPieces.join(', ') + '}';
 
                 const setMatch = wrappedAlt.match(/"set": "(.*?)"/);
                 const numberMatch = wrappedAlt.match(/"number": "(.*?)"/);
