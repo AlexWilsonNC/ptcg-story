@@ -132,13 +132,16 @@ body.darkon {
 }
 .event-searchbar input {
     font-size: 18px;
-    width: 50%;
-    padding: 1px 0 2px 5px;
+    width: 40%;
+    padding: 1px 10px 2px 5px;
     margin-top: 35px;
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     border: none;
     letter-spacing: 1px;
+}
+.event-searchbar input:focus{
+    outline: none;
 }
 .hidden-filter-sec {
     height: 10vh;
@@ -741,7 +744,7 @@ body.darkon {
 }
 #searchButton {
     background-color: white;
-    margin-top: 35px;
+    margin: 35px 0 0 -5px;
     font-size: 16px;
     padding: 3px 8px;
     border-top-right-radius: 5px;
@@ -750,17 +753,17 @@ body.darkon {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    border-left: 1px solid grey;
+    border-left: 1px solid black;
     border-right: none;
     border-top: none;
     border-bottom: none;
+    z-index: 20;
 }
 #filter-search,
 #search-reset {
     background-color: white;
-    margin-top: 35px;
+    margin: 35px 0 0 10px;
     font-size: 16px;
-    margin-left: 15px;
     padding: 3px 7px;
     border-radius: 5px;
     display: flex;
@@ -781,13 +784,10 @@ body.darkon {
 }
 #searchButton:hover,
 #filter-search:hover,
-#search-reset:hover {
-    cursor: pointer;
-    background-color: rgb(68, 92, 195);
-    color:white;
-}
+#search-reset:hover,
 .blue-selected {
-    background-color: rgb(68, 92, 195) !important;
+    cursor: pointer;
+    background-color: rgb(106, 109, 130) !important;
     color:white;
 }
 .copied-check,

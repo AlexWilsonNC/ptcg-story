@@ -160,6 +160,7 @@ function performSearch() {
       img.classList.add('database-card-in-list');
       img.setAttribute('src', poke.images.small);
       img.setAttribute('alt', poke.name + " " + poke.setAbbrev + " " + poke.number);
+      img.id = poke.supertype + "," + poke.subtypes;
       img.loading = 'lazy';
 
       // plus button on card

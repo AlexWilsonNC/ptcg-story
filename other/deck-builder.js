@@ -16469,6 +16469,7 @@ let advancedDropdown = document.querySelector(".expand-advanced");
 let deckbox = document.querySelector(".deck-box");
 let statCount = document.querySelector(".stat-count");
 let currCounter = document.querySelector(".current-deck-count");
+let deckSort = document.getElementById("deck-sort");
 
 function displayList(arr) {
     const arrOfAllCards = [];
@@ -16484,6 +16485,7 @@ function displayList(arr) {
         img.classList.add('database-card-in-list');
         img.setAttribute('src', item.images.small);
         img.setAttribute('alt', item.name + " " + item.setAbbrev + " " + item.number);
+        img.id = item.supertype + "," + item.subtypes;
         img.loading = 'lazy';
         let addCardBtn = document.createElement('div');
         addCardBtn.classList.add('add-card-to-deck');
@@ -16519,6 +16521,7 @@ function displayList(arr) {
                 statCount.style.color = 'black';
                 statCount.style.border = '1px solid black';
             }
+
             let deckAndPm = document.createElement('div');
             deckAndPm.classList.add('deck-add-minus');
 
@@ -16596,6 +16599,61 @@ function displayList(arr) {
                     addCardBtn.style.pointerEvents = 'all';
                 }
             })
+
+            deckSort.addEventListener("click", () => {
+                const cardUnsorted = deckbox.getElementsByClassName("card-added-in-decklist");
+                
+                const sortedImages = Array.from(cardUnsorted).sort((a, b) => {
+                    const idA = a.id.split(",");
+                    const idB = b.id.split(",");
+            
+                    // Prioritize Pokemon, Trainer, Energy
+                    const priority = ["Pokemon", "Trainer", "Energy"];
+            
+                    const categoryIndexA = priority.indexOf(idA[0]);
+                    const categoryIndexB = priority.indexOf(idB[0]);
+            
+                    // Sort by category priority
+                    if (categoryIndexA !== categoryIndexB) {
+                        return categoryIndexA - categoryIndexB;
+                    }
+            
+                    // If both images belong to the same category, compare their additional values (if any)
+                    if (idA.length > 1 && idB.length > 1) {
+                        return idA[1].localeCompare(idB[1]);
+                    }
+            
+                    // If only one of the images has additional values, prioritize it
+                    return idA.length - idB.length;
+                });
+                
+                // Remove existing images
+                while (deckbox.firstChild) {
+                    deckbox.removeChild(deckbox.firstChild);
+                }
+                
+                // Append sorted images
+                sortedImages.forEach(image => {
+                    let deckCardContainer = document.createElement('div');
+                    deckCardContainer.classList.add('deckbuilt-card-container');
+                    let deckImg = image.cloneNode(true); // Clone the image
+                    deckImg.classList.add('card-added-in-decklist');
+                    deckImg.setAttribute('alt', "1" + " " + item.name + " " + item.setAbbrev + " " + item.number);
+
+                    let deckAndPm = document.createElement('div');
+                    deckAndPm.classList.add('deck-add-minus');
+                    let cardCount = document.createElement('img');
+                    cardCount.classList.add('current-cnt-num');
+                    cardCount.setAttribute('src', "../assets/card-count/" + "4" + ".png");
+            
+                    deckAndPm.appendChild(cardCount);
+                    deckCardContainer.appendChild(deckAndPm);
+
+                    deckCardContainer.appendChild(deckImg);
+                    deckbox.appendChild(deckCardContainer);
+                });
+            });
+
 
             // // PRINT DECKLIST
             let copyButton = document.querySelector('.copy-as-dckli');
@@ -16862,11 +16920,10 @@ function createImages() {
                     setAbbrevFromWrappedAlt = setMatch[1];
                     cardNumberFromWrappedAlt = numberMatch[1];
                 }
-                console.log('Extracted set abbreviation:', setAbbrevFromWrappedAlt);
-                console.log('Extracted number value:', cardNumberFromWrappedAlt);
+                console.log('extracted set:', setAbbrevFromWrappedAlt);
+                console.log('extracted card number:', cardNumberFromWrappedAlt);
 
                 const allSets = {
-                    // sv
                     sv4pt5, sv4, sv3pt5, sv3, sv2, sv1, svp
                 }
 
@@ -16879,12 +16936,13 @@ function createImages() {
                 if (setAbbrevFromWrappedAlt && cardNumberFromWrappedAlt) {
                     let cardFound = allSets[setConvert[setAbbrevFromWrappedAlt]].find(cardInSet => cardInSet.id === setConvert[setAbbrevFromWrappedAlt] + "-" + cardNumberFromWrappedAlt);
                     pastedCard.setAttribute('src', cardFound.images.small);
-                }//  else {
-                //     // Set default source if card not found
-                //     pastedCard.setAttribute('src', 'default_image_path');
+                }
+                // else {
+                //     pastedCard.setAttribute('src', '../assets/card-back.png');
                 // }
 
-                pastedCard.setAttribute('alt', wrappedAlt.trim());
+                pastedCard.setAttribute('alt', wrappedAlt.trim()); // TEST
+                // pastedCard.setAttribute('alt', alt); FINAL
 
                 pastedCardContainer.appendChild(pastedCard)
                 deckbox.appendChild(pastedCardContainer)
