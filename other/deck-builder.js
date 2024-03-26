@@ -1,9 +1,85 @@
 let latestSet = [
     {
-        "id": "sv4pt5-1",
+        "id": "sv5-1",
+        "name": "Scyther",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "90",
+        "types": [
+            "Grass"
+        ],
+        "evolvesTo": [
+            "Scizor"
+        ],
+        "attacks": [
+            {
+                "name": "Cut Up",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "Slashing Strike",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": "During your next turn, this Pokémon can't use Slashing Strike."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "1",
+        "artist": "Dsuke",
+        "rarity": "Common",
+        "flavorText": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+        "nationalPokedexNumbers": [
+            123
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/1.png",
+            "large": "https://images.pokemontcg.io/sv5/1_hires.png"
+        }
+    },
+    {
+        "id": "sv5-2",
         "name": "Pineco",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -16,13 +92,14 @@ let latestSet = [
         ],
         "attacks": [
             {
-                "name": "Rollout",
+                "name": "Ram",
                 "cost": [
-                    "Grass",
-                    "Grass"
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
+                "convertedEnergyCost": 3,
+                "damage": "50",
                 "text": ""
             }
         ],
@@ -38,68 +115,600 @@ let latestSet = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "1",
-        "artist": "Kouki Saitou",
+        "number": "2",
+        "artist": "Midori Harada",
         "rarity": "Common",
-        "flavorText": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
+        "flavorText": "It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air.",
         "nationalPokedexNumbers": [
             204
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/1.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/1_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/2.png",
+            "large": "https://images.pokemontcg.io/sv5/2_hires.png"
         }
     },
     {
-        "id": "sv4pt5-2",
-        "name": "Forretress ex",
+        "id": "sv5-3",
+        "name": "Seedot",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
-            "Stage 1",
-            "Tera",
-            "ex"
+            "Basic"
         ],
-        "hp": "270",
+        "hp": "60",
         "types": [
             "Grass"
         ],
-        "evolvesFrom": "Pineco",
-        "rules": [
-            "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        "evolvesTo": [
+            "Nuzleaf"
+        ],
+        "attacks": [
+            {
+                "name": "Rigidify",
+                "cost": [
+                    "Grass"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+            },
+            {
+                "name": "Hang Down",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "3",
+        "artist": "Asako Ito",
+        "rarity": "Common",
+        "flavorText": "If it remains still, it looks just like a real nut. It delights in surprising foraging Pokémon.",
+        "nationalPokedexNumbers": [
+            273
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/3.png",
+            "large": "https://images.pokemontcg.io/sv5/3_hires.png"
+        }
+    },
+    {
+        "id": "sv5-4",
+        "name": "Nuzleaf",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "90",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Seedot",
+        "evolvesTo": [
+            "Shiftry"
+        ],
+        "attacks": [
+            {
+                "name": "Corkscrew Punch",
+                "cost": [
+                    "Grass"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "Comet Slap",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30×",
+                "text": "Flip 3 coins. This attack does 30 damage for each heads."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "4",
+        "artist": "Lee HyunJung",
+        "rarity": "Common",
+        "flavorText": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
+        "nationalPokedexNumbers": [
+            274
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/4.png",
+            "large": "https://images.pokemontcg.io/sv5/4_hires.png"
+        }
+    },
+    {
+        "id": "sv5-5",
+        "name": "Shiftry",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": "150",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Nuzleaf",
+        "attacks": [
+            {
+                "name": "Expelling Tornado",
+                "cost": [
+                    "Grass"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Choose 3 of your opponent's Benched Pokémon. If you do, shuffle all of your opponent's Benched Pokémon that you didn't choose, and all cards attached to those Pokémon, into their deck."
+            },
+            {
+                "name": "Energy Loop",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "140",
+                "text": "Put an Energy attached to this Pokémon into your hand."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "5",
+        "artist": "Souichirou Gunjima",
+        "rarity": "Uncommon",
+        "flavorText": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
+        "nationalPokedexNumbers": [
+            275
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/5.png",
+            "large": "https://images.pokemontcg.io/sv5/5_hires.png"
+        }
+    },
+    {
+        "id": "sv5-6",
+        "name": "Shroomish",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Grass"
+        ],
+        "evolvesTo": [
+            "Breloom"
+        ],
+        "attacks": [
+            {
+                "name": "Double Headbutt",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10×",
+                "text": "Flip 2 coins. This attack does 10 damage for each heads."
+            },
+            {
+                "name": "Seed Bomb",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "6",
+        "artist": "Yoriyuki Ikegami",
+        "rarity": "Common",
+        "flavorText": "If it senses danger, it scatters spores from the top of its head to protect itself.",
+        "nationalPokedexNumbers": [
+            285
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/6.png",
+            "large": "https://images.pokemontcg.io/sv5/6_hires.png"
+        }
+    },
+    {
+        "id": "sv5-7",
+        "name": "Breloom",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "120",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Shroomish",
+        "attacks": [
+            {
+                "name": "Punch",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "Knuckle Impact",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "120",
+                "text": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "7",
+        "artist": "Taiga Kasai",
+        "rarity": "Common",
+        "flavorText": "The seeds on its tail are made of toxic spores. It knocks out foes with quick, virtually invisible punches.",
+        "nationalPokedexNumbers": [
+            286
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/7.png",
+            "large": "https://images.pokemontcg.io/sv5/7_hires.png"
+        }
+    },
+    {
+        "id": "sv5-8",
+        "name": "Roselia",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Grass"
+        ],
+        "evolvesTo": [
+            "Roserade"
         ],
         "abilities": [
             {
-                "name": "Exploding Energy",
-                "text": "Once during your turn, you may search your deck for up to 5 Basic Grass Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck. If you searched your deck in this way, this Pokémon is Knocked Out.",
+                "name": "Poison Point",
+                "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Poisoned.",
                 "type": "Ability"
             }
         ],
         "attacks": [
             {
-                "name": "Guard Press",
+                "name": "Leaf Step",
                 "cost": [
-                    "Grass",
-                    "Grass"
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "8",
+        "artist": "Tomomi Kaneko",
+        "rarity": "Common",
+        "flavorText": "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the Roselia is.",
+        "nationalPokedexNumbers": [
+            315
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/8.png",
+            "large": "https://images.pokemontcg.io/sv5/8_hires.png"
+        }
+    },
+    {
+        "id": "sv5-9",
+        "name": "Roserade",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "130",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Roselia",
+        "abilities": [
+            {
+                "name": "Poison Point",
+                "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Poisoned.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Bind Down",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
                 ],
                 "convertedEnergyCost": 2,
-                "damage": "120",
-                "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+                "damage": "70",
+                "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "9",
+        "artist": "matazo",
+        "rarity": "Uncommon",
+        "flavorText": "After captivating opponents with its sweet scent, it lashes them with its thorny whips.",
+        "nationalPokedexNumbers": [
+            407
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/9.png",
+            "large": "https://images.pokemontcg.io/sv5/9_hires.png"
+        }
+    },
+    {
+        "id": "sv5-10",
+        "name": "Turtwig",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "80",
+        "types": [
+            "Grass"
+        ],
+        "evolvesTo": [
+            "Grotle"
+        ],
+        "abilities": [
+            {
+                "name": "Solid Shell",
+                "text": "This Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance).",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Leafage",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "30",
+                "text": ""
             }
         ],
         "weaknesses": [
@@ -115,63 +724,72 @@ let latestSet = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "2",
-        "artist": "5ban Graphics",
-        "rarity": "Double Rare",
+        "number": "10",
+        "artist": "OKACHEKE",
+        "rarity": "Common",
+        "flavorText": "Photosynthesis occurs across its body under the sun. The shell on its back is actually hardened soil.",
         "nationalPokedexNumbers": [
-            205
+            387
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/2.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/2_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/10.png",
+            "large": "https://images.pokemontcg.io/sv5/10_hires.png"
         }
     },
     {
-        "id": "sv4pt5-3",
-        "name": "Maractus",
+        "id": "sv5-11",
+        "name": "Grotle",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
-            "Basic"
+            "Stage 1"
         ],
-        "hp": "110",
+        "hp": "120",
         "types": [
             "Grass"
         ],
+        "evolvesFrom": "Turtwig",
+        "evolvesTo": [
+            "Torterra"
+        ],
         "attacks": [
             {
-                "name": "Double Draw",
+                "name": "Cut",
                 "cost": [
-                    "Colorless"
+                    "Grass"
                 ],
                 "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Draw 2 cards."
+                "damage": "20",
+                "text": ""
             },
             {
-                "name": "Pin Missile",
+                "name": "Ramming Shell",
                 "cost": [
-                    "Colorless",
+                    "Grass",
                     "Colorless",
                     "Colorless"
                 ],
                 "convertedEnergyCost": 3,
-                "damage": "30×",
-                "text": "Flip 4 coins. This attack does 30 damage for each heads."
+                "damage": "50",
+                "text": "During your opponent's next turn, this Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance)."
             }
         ],
         "weaknesses": [
@@ -182,51 +800,212 @@ let latestSet = [
         ],
         "retreatCost": [
             "Colorless",
+            "Colorless",
+            "Colorless",
             "Colorless"
         ],
-        "convertedRetreatCost": 2,
+        "convertedRetreatCost": 4,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "3",
-        "artist": "Masako Tomii",
+        "number": "11",
+        "artist": "Uninori",
         "rarity": "Common",
-        "flavorText": "Once each year, this Pokémon scatters its seeds. They're jam-packed with nutrients, making them a precious food source out in the desert.",
+        "flavorText": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.",
         "nationalPokedexNumbers": [
-            556
+            388
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/3.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/3_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/11.png",
+            "large": "https://images.pokemontcg.io/sv5/11_hires.png"
         }
     },
     {
-        "id": "sv4pt5-4",
-        "name": "Toedscool",
+        "id": "sv5-12",
+        "name": "Torterra ex",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "hp": "340",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Grotle",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Forest March",
+                "cost": [
+                    "Grass"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30×",
+                "text": "This attack does 30 damage for each of your Grass Pokémon in play."
+            },
+            {
+                "name": "Jungle Hammer",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "150",
+                "text": "Heal 50 damage from this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "12",
+        "artist": "PLANETA Tsuji",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            389
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/12.png",
+            "large": "https://images.pokemontcg.io/sv5/12_hires.png"
+        }
+    },
+    {
+        "id": "sv5-13",
+        "name": "Shaymin",
+        "supertype": "Pokémon",
         "subtypes": [
             "Basic"
         ],
-        "hp": "50",
+        "hp": "70",
         "types": [
             "Grass"
         ],
         "attacks": [
             {
-                "name": "Furious Kicks",
+                "name": "Pinpoint Dive",
+                "cost": [
+                    "Grass"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "This attack does 60 damage to 1 of your opponent's Benched Pokémon ex or Benched Pokémon V. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+                "name": "Rear Kick",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "13",
+        "artist": "Atsushi Furusawa",
+        "rarity": "Uncommon",
+        "flavorText": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+        "nationalPokedexNumbers": [
+            492
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/13.png",
+            "large": "https://images.pokemontcg.io/sv5/13_hires.png"
+        }
+    },
+    {
+        "id": "sv5-14",
+        "name": "Cottonee",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Grass"
+        ],
+        "evolvesTo": [
+            "Whimsicott"
+        ],
+        "attacks": [
+            {
+                "name": "Triple Spin",
                 "cost": [
                     "Grass"
                 ],
@@ -246,140 +1025,65 @@ let latestSet = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "4",
-        "artist": "Shin Nagasawa",
+        "number": "14",
+        "artist": "Kyoko Umemoto",
         "rarity": "Common",
-        "flavorText": "Though it looks like Tentacool, Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph.",
+        "flavorText": "It shoots cotton from its body to protect itself. If it gets caught up in hurricane-strength winds, it can get sent to the other side of the Earth.",
         "nationalPokedexNumbers": [
-            948
+            546
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/4.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/4_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/14.png",
+            "large": "https://images.pokemontcg.io/sv5/14_hires.png"
         }
     },
     {
-        "id": "sv4pt5-5",
-        "name": "Toedscruel ex",
+        "id": "sv5-15",
+        "name": "Whimsicott",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
-            "Stage 1",
-            "ex"
+            "Stage 1"
         ],
-        "hp": "270",
+        "hp": "100",
         "types": [
             "Grass"
         ],
-        "evolvesFrom": "Toedscool",
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
+        "evolvesFrom": "Cottonee",
         "abilities": [
             {
-                "name": "Protective Mycelium",
-                "text": "Prevent all effects of attacks used by your opponent's Pokémon done to all of your Pokémon that have Energy attached. (Existing effects are not removed. Damage is not an effect.)",
+                "name": "Wafting Heal",
+                "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may heal all damage from your Active Grass Pokémon. If you healed any damage in this way, discard all Energy from that Pokémon.",
                 "type": "Ability"
             }
         ],
         "attacks": [
             {
-                "name": "Colony Rush",
+                "name": "Seed Bomb",
                 "cost": [
-                    "Grass",
                     "Grass"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "80+",
-                "text": "This attack does 40 more damage for each of your Benched Pokémon that has any Grass Energy attached."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "5",
-        "artist": "5ban Graphics",
-        "rarity": "Double Rare",
-        "nationalPokedexNumbers": [
-            949
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/5.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/5_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-6",
-        "name": "Espathra ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1",
-            "Tera",
-            "ex"
-        ],
-        "hp": "260",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Flittle",
-        "rules": [
-            "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Dazzling Gaze",
-                "text": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon cost Colorless more.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Psy Ball",
-                "cost": [
-                    "Psychic"
-                ],
                 "convertedEnergyCost": 1,
-                "damage": "30+",
-                "text": "This attack does 30 more damage for each Energy attached to both Active Pokémon."
+                "damage": "40",
+                "text": ""
             }
         ],
         "weaknesses": [
@@ -393,70 +1097,76 @@ let latestSet = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "6",
-        "artist": "takuyoa",
-        "rarity": "Double Rare",
+        "number": "15",
+        "artist": "Mizue",
+        "rarity": "Rare",
+        "flavorText": "It scatters cotton all over the place as a prank. If it gets wet, it'll become too heavy to move and have no choice but to answer for its mischief.",
         "nationalPokedexNumbers": [
-            956
+            547
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/6.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/6_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/15.png",
+            "large": "https://images.pokemontcg.io/sv5/15_hires.png"
         }
     },
     {
-        "id": "sv4pt5-7",
-        "name": "Charmander",
+        "id": "sv5-16",
+        "name": "Deerling",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
         "hp": "70",
         "types": [
-            "Fire"
+            "Grass"
         ],
         "evolvesTo": [
-            "Charmeleon"
+            "Sawsbuck"
         ],
         "attacks": [
             {
-                "name": "Blazing Destruction",
+                "name": "Flop",
                 "cost": [
-                    "Fire"
+                    "Colorless"
                 ],
                 "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Discard a Stadium in play."
+                "damage": "10",
+                "text": ""
             },
             {
-                "name": "Steady Firebreathing",
+                "name": "Leaf Litter Tackle",
                 "cost": [
-                    "Fire",
-                    "Fire"
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
+                "convertedEnergyCost": 3,
+                "damage": "40",
+                "text": "Discard a Grass Energy from this Pokémon."
             }
         ],
         "weaknesses": [
             {
-                "type": "Water",
+                "type": "Fire",
                 "value": "×2"
             }
         ],
@@ -465,217 +1175,226 @@ let latestSet = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "7",
-        "artist": "GIDORA",
+        "number": "16",
+        "artist": "Rond",
         "rarity": "Common",
-        "flavorText": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+        "flavorText": "Deerling have different scents depending on the season. In this form, Deerling have a softly sweet scent that lingers in the nose.",
         "nationalPokedexNumbers": [
-            4
+            585
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/7.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/7_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/16.png",
+            "large": "https://images.pokemontcg.io/sv5/16_hires.png"
         }
     },
     {
-        "id": "sv4pt5-8",
-        "name": "Charmeleon",
+        "id": "sv5-17",
+        "name": "Sawsbuck",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
-        "hp": "90",
+        "hp": "130",
         "types": [
-            "Fire"
+            "Grass"
         ],
-        "evolvesFrom": "Charmander",
-        "evolvesTo": [
-            "Charizard"
-        ],
+        "evolvesFrom": "Deerling",
         "abilities": [
             {
-                "name": "Flare Veil",
-                "text": "Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+                "name": "Changing Seasons",
+                "text": "Once during your turn, you may search your deck for a Stadium card, reveal it, and put it into your hand. Then, shuffle your deck.",
                 "type": "Ability"
             }
         ],
         "attacks": [
             {
-                "name": "Combustion",
+                "name": "Superpowered Horns",
                 "cost": [
-                    "Fire",
-                    "Fire"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "8",
-        "artist": "Tonji Matsuno",
-        "rarity": "Uncommon",
-        "flavorText": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
-        "nationalPokedexNumbers": [
-            5
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/8.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/8_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-9",
-        "name": "Magmar",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "80",
-        "types": [
-            "Fire"
-        ],
-        "evolvesTo": [
-            "Magmortar"
-        ],
-        "attacks": [
-            {
-                "name": "Collect",
-                "cost": [
-                    "Fire"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Draw a card."
-            },
-            {
-                "name": "Steady Firebreathing",
-                "cost": [
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "40",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "9",
-        "artist": "miki kudo",
-        "rarity": "Common",
-        "flavorText": "These Pokémon's bodies are constantly burning. Magmar are feared as one of the causes behind fires.",
-        "nationalPokedexNumbers": [
-            126
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/9.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/9_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-10",
-        "name": "Magmortar",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "140",
-        "types": [
-            "Fire"
-        ],
-        "evolvesFrom": "Magmar",
-        "attacks": [
-            {
-                "name": "Flare",
-                "cost": [
-                    "Fire"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "40",
-                "text": ""
-            },
-            {
-                "name": "Volcanic Heat",
-                "cost": [
-                    "Fire",
-                    "Fire",
+                    "Grass",
+                    "Colorless",
                     "Colorless"
                 ],
                 "convertedEnergyCost": 3,
-                "damage": "170",
-                "text": "During your next turn, this Pokémon can't attack."
+                "damage": "110",
+                "text": ""
             }
         ],
         "weaknesses": [
             {
-                "type": "Water",
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "17",
+        "artist": "Akira Komayama",
+        "rarity": "Uncommon",
+        "flavorText": "Sawsbuck in their Autumn Form are known for having very short tempers. The males fight each other incessantly.",
+        "nationalPokedexNumbers": [
+            586
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/17.png",
+            "large": "https://images.pokemontcg.io/sv5/17_hires.png"
+        }
+    },
+    {
+        "id": "sv5-18",
+        "name": "Grubbin",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Grass"
+        ],
+        "evolvesTo": [
+            "Charjabug"
+        ],
+        "attacks": [
+            {
+                "name": "Flock",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Search your deck for up to 2 Grubbin and put them onto your Bench. Then, shuffle your deck."
+            },
+            {
+                "name": "Vise Grip",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "18",
+        "artist": "Kagemaru Himeno",
+        "rarity": "Common",
+        "flavorText": "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
+        "nationalPokedexNumbers": [
+            736
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/18.png",
+            "large": "https://images.pokemontcg.io/sv5/18_hires.png"
+        }
+    },
+    {
+        "id": "sv5-19",
+        "name": "Dhelmise",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "130",
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "name": "Spinning Attack",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "Steel Anchor",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "80+",
+                "text": "If you have any Metal Pokémon on your Bench, this attack does 80 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
                 "value": "×2"
             }
         ],
@@ -686,37 +1405,622 @@ let latestSet = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "10",
-        "artist": "Hasuno",
-        "rarity": "Rare",
-        "flavorText": "Living in the crater of a volcano has caused this Pokémon's body to resemble its environment— it has an organ similar to a magma chamber.",
+        "number": "19",
+        "artist": "Saya Tsuruta",
+        "rarity": "Uncommon",
+        "flavorText": "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.",
         "nationalPokedexNumbers": [
-            467
+            781
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/10.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/10_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/19.png",
+            "large": "https://images.pokemontcg.io/sv5/19_hires.png"
         }
     },
     {
-        "id": "sv4pt5-11",
-        "name": "Numel",
+        "id": "sv5-20",
+        "name": "Bramblin",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "50",
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "name": "Spike Sting",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "20",
+        "artist": "Tetsu Kayama",
+        "rarity": "Common",
+        "flavorText": "Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet.",
+        "nationalPokedexNumbers": [
+            946
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/20.png",
+            "large": "https://images.pokemontcg.io/sv5/20_hires.png"
+        }
+    },
+    {
+        "id": "sv5-21",
+        "name": "Brambleghast",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "100",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Bramblin",
+        "abilities": [
+            {
+                "name": "Resilient Soul",
+                "text": "This Pokémon gets +50 HP for each Prize card your opponent has taken.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Powerful Needles",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "80×",
+                "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 80 damage for each heads."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "21",
+        "artist": "otumami",
+        "rarity": "Rare",
+        "flavorText": "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town.",
+        "nationalPokedexNumbers": [
+            947
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/21.png",
+            "large": "https://images.pokemontcg.io/sv5/21_hires.png"
+        }
+    },
+    {
+        "id": "sv5-22",
+        "name": "Scovillain ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "ex"
+        ],
+        "hp": "260",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Capsakid",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Chili Snapper Bind",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Your opponent's Active Pokémon is now Burned. During your opponent's next turn, that Pokémon can't retreat."
+            },
+            {
+                "name": "Two-Headed Crushing",
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "140",
+                "text": "Discard a random card from your opponent's hand. Discard the top card of your opponent's deck."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "22",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            952
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/22.png",
+            "large": "https://images.pokemontcg.io/sv5/22_hires.png"
+        }
+    },
+    {
+        "id": "sv5-23",
+        "name": "Rellor",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "50",
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "name": "Slight Intrusion",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": "This Pokémon also does 10 damage to itself."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "23",
+        "artist": "Saboteri",
+        "rarity": "Common",
+        "flavorText": "It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve.",
+        "nationalPokedexNumbers": [
+            953
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/23.png",
+            "large": "https://images.pokemontcg.io/sv5/23_hires.png"
+        }
+    },
+    {
+        "id": "sv5-24",
+        "name": "Rabsca",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "70",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Rellor",
+        "abilities": [
+            {
+                "name": "Spherical Shield",
+                "text": "Prevent all damage from and effects of attacks from your opponent's Pokémon done to your Benched Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Psychic",
+                "cost": [
+                    "Grass"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10+",
+                "text": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "24",
+        "artist": "mingo",
+        "rarity": "Uncommon",
+        "flavorText": "An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably.",
+        "nationalPokedexNumbers": [
+            954
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/24.png",
+            "large": "https://images.pokemontcg.io/sv5/24_hires.png"
+        }
+    },
+    {
+        "id": "sv5-25",
+        "name": "Iron Leaves ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
+        ],
+        "hp": "220",
+        "types": [
+            "Grass"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Rapid Vernier",
+                "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may switch it with your Active Pokémon. If you do, you may move any amount of Energy from your other Pokémon to this Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Prism Edge",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "180",
+                "text": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "25",
+        "artist": "5ban Graphics",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            1010
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/25.png",
+            "large": "https://images.pokemontcg.io/sv5/25_hires.png"
+        }
+    },
+    {
+        "id": "sv5-26",
+        "name": "Ponyta",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Fire"
+        ],
+        "evolvesTo": [
+            "Rapidash"
+        ],
+        "attacks": [
+            {
+                "name": "Charge Energy",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Search your deck for a Basic Energy card, reveal it, and put it into your hand. Then, shuffle your deck."
+            },
+            {
+                "name": "Flame Tail",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "26",
+        "artist": "takashi shiraishi",
+        "rarity": "Common",
+        "flavorText": "It can't run properly when it's newly born. As it races around with others of its kind, its legs grow stronger.",
+        "nationalPokedexNumbers": [
+            77
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/26.png",
+            "large": "https://images.pokemontcg.io/sv5/26_hires.png"
+        }
+    },
+    {
+        "id": "sv5-27",
+        "name": "Rapidash",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "110",
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Ponyta",
+        "attacks": [
+            {
+                "name": "Combustion",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "Inferno Onrush",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "120",
+                "text": "This Pokémon also does 30 damage to itself."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "27",
+        "artist": "Ryota Murayama",
+        "rarity": "Uncommon",
+        "flavorText": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
+        "nationalPokedexNumbers": [
+            78
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/27.png",
+            "large": "https://images.pokemontcg.io/sv5/27_hires.png"
+        }
+    },
+    {
+        "id": "sv5-28",
+        "name": "Slugma",
+        "supertype": "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -725,8 +2029,672 @@ let latestSet = [
             "Fire"
         ],
         "evolvesTo": [
-            "Camerupt"
+            "Magcargo"
         ],
+        "attacks": [
+            {
+                "name": "Roasting Heat",
+                "cost": [
+                    "Fire"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10+",
+                "text": "If your opponent's Active Pokémon is Burned, this attack does 40 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "28",
+        "artist": "Haru Akasaka",
+        "rarity": "Common",
+        "flavorText": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
+        "nationalPokedexNumbers": [
+            218
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/28.png",
+            "large": "https://images.pokemontcg.io/sv5/28_hires.png"
+        }
+    },
+    {
+        "id": "sv5-29",
+        "name": "Magcargo",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "120",
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Slugma",
+        "abilities": [
+            {
+                "name": "Lava Zone",
+                "text": "Whenever your opponent's Active Pokémon moves to the Bench during their turn, their new Active Pokémon is now Burned.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Heat Blast",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "29",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "Rare",
+        "flavorText": "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+        "nationalPokedexNumbers": [
+            219
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/29.png",
+            "large": "https://images.pokemontcg.io/sv5/29_hires.png"
+        }
+    },
+    {
+        "id": "sv5-30",
+        "name": "Victini",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "80",
+        "types": [
+            "Fire"
+        ],
+        "attacks": [
+            {
+                "name": "Flippity Flap",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Shuffle your hand into your deck. Then, draw 6 cards."
+            },
+            {
+                "name": "Singe Off",
+                "cost": [
+                    "Fire"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": "Discard a Special Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "30",
+        "artist": "Shibuzoh.",
+        "rarity": "Common",
+        "flavorText": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
+        "nationalPokedexNumbers": [
+            494
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/30.png",
+            "large": "https://images.pokemontcg.io/sv5/30_hires.png"
+        }
+    },
+    {
+        "id": "sv5-31",
+        "name": "Heatmor",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "110",
+        "types": [
+            "Fire"
+        ],
+        "attacks": [
+            {
+                "name": "Live Coal",
+                "cost": [
+                    "Fire"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "Licking Flames",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "130",
+                "text": "Flip 3 coins. For each tails, discard an Energy from this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "31",
+        "artist": "Masakazu Fukuda",
+        "rarity": "Common",
+        "flavorText": "There's a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.",
+        "nationalPokedexNumbers": [
+            631
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/31.png",
+            "large": "https://images.pokemontcg.io/sv5/31_hires.png"
+        }
+    },
+    {
+        "id": "sv5-32",
+        "name": "Litten",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Fire"
+        ],
+        "evolvesTo": [
+            "Torracat"
+        ],
+        "attacks": [
+            {
+                "name": "Fake Out",
+                "cost": [
+                    "Fire"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "32",
+        "artist": "REND",
+        "rarity": "Common",
+        "flavorText": "It spends even the smallest amount of downtime grooming its fur with its tongue. Loose fur gathers in its stomach and serves as fuel for fiery moves.",
+        "nationalPokedexNumbers": [
+            725
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/32.png",
+            "large": "https://images.pokemontcg.io/sv5/32_hires.png"
+        }
+    },
+    {
+        "id": "sv5-33",
+        "name": "Torracat",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "100",
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Litten",
+        "evolvesTo": [
+            "Incineroar"
+        ],
+        "attacks": [
+            {
+                "name": "Bite",
+                "cost": [
+                    "Fire"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "Flare Strike",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "80",
+                "text": "During your next turn, this Pokémon can't use Flare Strike."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "33",
+        "artist": "Saya Tsuruta",
+        "rarity": "Common",
+        "flavorText": "In the midst of battle, the fire pouch on Torracat's neck rings like a bell and produces stronger flames than usual.",
+        "nationalPokedexNumbers": [
+            726
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/33.png",
+            "large": "https://images.pokemontcg.io/sv5/33_hires.png"
+        }
+    },
+    {
+        "id": "sv5-34",
+        "name": "Incineroar ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "hp": "320",
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Torracat",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Hustle Play",
+                "text": "Attacks used by this Pokémon cost Colorless less for each of your opponent's Benched Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Blaze Blast",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 5,
+                "damage": "240",
+                "text": "Your opponent's Active Pokémon is now Burned."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "34",
+        "artist": "N-DESIGN Inc.",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            727
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/34.png",
+            "large": "https://images.pokemontcg.io/sv5/34_hires.png"
+        }
+    },
+    {
+        "id": "sv5-35",
+        "name": "Turtonator",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "120",
+        "types": [
+            "Fire"
+        ],
+        "attacks": [
+            {
+                "name": "Spit-Out Shot",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "",
+                "text": "This attack does 40 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+                "name": "Steam Artillery",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "35",
+        "artist": "Shigenori Negishi",
+        "rarity": "Common",
+        "flavorText": "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.",
+        "nationalPokedexNumbers": [
+            776
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/35.png",
+            "large": "https://images.pokemontcg.io/sv5/35_hires.png"
+        }
+    },
+    {
+        "id": "sv5-36",
+        "name": "Sizzlipede",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "80",
+        "types": [
+            "Fire"
+        ],
+        "evolvesTo": [
+            "Centiskorch"
+        ],
+        "attacks": [
+            {
+                "name": "Heat Dive",
+                "cost": [
+                    "Fire"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": "This Pokémon also does 10 damage to itself."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "36",
+        "artist": "Yukiko Baba",
+        "rarity": "Common",
+        "flavorText": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
+        "nationalPokedexNumbers": [
+            850
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/36.png",
+            "large": "https://images.pokemontcg.io/sv5/36_hires.png"
+        }
+    },
+    {
+        "id": "sv5-37",
+        "name": "Centiskorch",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "140",
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Sizzlipede",
         "attacks": [
             {
                 "name": "Singe",
@@ -738,152 +2706,14 @@ let latestSet = [
                 "text": "Your opponent's Active Pokémon is now Burned."
             },
             {
-                "name": "Heat Blast",
-                "cost": [
-                    "Fire",
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "60",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "11",
-        "artist": "Mina Nakai",
-        "rarity": "Common",
-        "flavorText": "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it.",
-        "nationalPokedexNumbers": [
-            322
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/11.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/11_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-12",
-        "name": "Camerupt",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "130",
-        "types": [
-            "Fire"
-        ],
-        "evolvesFrom": "Numel",
-        "attacks": [
-            {
-                "name": "Super Singe",
-                "cost": [
-                    "Fire"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Your opponent's Active Pokémon is now Burned."
-            },
-            {
-                "name": "Cinder Cannon",
-                "cost": [
-                    "Fire",
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "120+",
-                "text": "You may discard a Fighting Energy from this Pokémon. If you do, this attack does 120 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "12",
-        "artist": "satoma",
-        "rarity": "Uncommon",
-        "flavorText": "It lives in the crater of a volcano. It is well known that the humps on its back erupt every 10 years.",
-        "nationalPokedexNumbers": [
-            323
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/12.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/12_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-13",
-        "name": "Heat Rotom",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "90",
-        "types": [
-            "Fire"
-        ],
-        "attacks": [
-            {
-                "name": "Heat Tackle",
+                "name": "Charring Breath",
                 "cost": [
                     "Fire",
                     "Fire"
                 ],
                 "convertedEnergyCost": 2,
-                "damage": "100",
-                "text": "This Pokémon also does 40 damage to itself."
+                "damage": "180",
+                "text": "If your opponent's Active Pokémon isn't Burned, this attack does nothing."
             }
         ],
         "weaknesses": [
@@ -893,129 +2723,80 @@ let latestSet = [
             }
         ],
         "retreatCost": [
+            "Colorless",
+            "Colorless",
             "Colorless"
         ],
-        "convertedRetreatCost": 1,
+        "convertedRetreatCost": 3,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "13",
-        "artist": "Scav",
-        "rarity": "Rare",
-        "flavorText": "If the convection microwave oven is not working properly, then the Rotom inhabiting it will become lethargic.",
+        "number": "37",
+        "artist": "Krgc",
+        "rarity": "Uncommon",
+        "flavorText": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
         "nationalPokedexNumbers": [
-            479
+            851
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/13.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/13_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/37.png",
+            "large": "https://images.pokemontcg.io/sv5/37_hires.png"
         }
     },
     {
-        "id": "sv4pt5-14",
-        "name": "Charcadet",
+        "id": "sv5-38",
+        "name": "Gouging Fire ex",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
-            "Basic"
+            "Basic",
+            "ex",
+            "Ancient"
         ],
-        "hp": "70",
+        "hp": "230",
         "types": [
             "Fire"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
         ],
         "attacks": [
             {
                 "name": "Heat Blast",
                 "cost": [
                     "Fire",
-                    "Fire",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 3,
+                "convertedEnergyCost": 2,
                 "damage": "60",
                 "text": ""
-            }
-        ],
-        "weaknesses": [
+            },
             {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "14",
-        "artist": "nagimiso",
-        "rarity": "Common",
-        "flavorText": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
-        "nationalPokedexNumbers": [
-            935
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/14.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/14_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-15",
-        "name": "Armarouge",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "130",
-        "types": [
-            "Fire"
-        ],
-        "evolvesFrom": "Charcadet",
-        "abilities": [
-            {
-                "name": "Fire Off",
-                "text": "As often as you like during your turn, you may move a Fire Energy from 1 of your Benched Pokémon to your Active Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Flame Cannon",
+                "name": "Blaze Blitz",
                 "cost": [
                     "Fire",
                     "Fire",
                     "Colorless"
                 ],
                 "convertedEnergyCost": 3,
-                "damage": "90",
-                "text": "Your opponent's Active Pokémon is now Burned."
+                "damage": "260",
+                "text": "This Pokémon can't use Blaze Blitz again until it leaves the Active Spot."
             }
         ],
         "weaknesses": [
@@ -1030,37 +2811,393 @@ let latestSet = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "15",
-        "artist": "AKIRA EGAWA",
-        "rarity": "Rare",
-        "flavorText": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
-        "nationalPokedexNumbers": [
-            936
-        ],
-        "regulationMark": "G",
+        "number": "38",
+        "artist": "5ban Graphics",
+        "rarity": "Double Rare",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/15.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/15_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/38.png",
+            "large": "https://images.pokemontcg.io/sv5/38_hires.png"
         }
     },
     {
-        "id": "sv4pt5-16",
-        "name": "Lapras",
+        "id": "sv5-39",
+        "name": "Totodile",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Water"
+        ],
+        "evolvesTo": [
+            "Croconaw"
+        ],
+        "attacks": [
+            {
+                "name": "Big Bite",
+                "cost": [
+                    "Water"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "39",
+        "artist": "MINAMINAMI Take",
+        "rarity": "Common",
+        "flavorText": "It is small but rough and tough. It won't hesitate to take a bite out of anything that moves.",
+        "nationalPokedexNumbers": [
+            158
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/39.png",
+            "large": "https://images.pokemontcg.io/sv5/39_hires.png"
+        }
+    },
+    {
+        "id": "sv5-40",
+        "name": "Croconaw",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "90",
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Totodile",
+        "evolvesTo": [
+            "Feraligatr"
+        ],
+        "attacks": [
+            {
+                "name": "Reverse Thrust",
+                "cost": [
+                    "Water"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "40",
+        "artist": "Jerky",
+        "rarity": "Common",
+        "flavorText": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+        "nationalPokedexNumbers": [
+            159
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/40.png",
+            "large": "https://images.pokemontcg.io/sv5/40_hires.png"
+        }
+    },
+    {
+        "id": "sv5-41",
+        "name": "Feraligatr",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": "180",
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Croconaw",
+        "abilities": [
+            {
+                "name": "Torrential Heart",
+                "text": "Once during your turn, you may put 5 damage counters on this Pokémon. If you do, during this turn, attacks used by this Pokémon do 120 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Giant Wave",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "160",
+                "text": "During your next turn, this Pokémon can't use Giant Wave."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "41",
+        "artist": "GOSSAN",
+        "rarity": "Rare",
+        "flavorText": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+        "nationalPokedexNumbers": [
+            160
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/41.png",
+            "large": "https://images.pokemontcg.io/sv5/41_hires.png"
+        }
+    },
+    {
+        "id": "sv5-42",
+        "name": "Carvanha",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "50",
+        "types": [
+            "Water"
+        ],
+        "evolvesTo": [
+            "Sharpedo"
+        ],
+        "attacks": [
+            {
+                "name": "Wave Splash",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "42",
+        "artist": "Souichirou Gunjima",
+        "rarity": "Common",
+        "flavorText": "It won't attack while it's alone—not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokémon attack as a group.",
+        "nationalPokedexNumbers": [
+            318
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/42.png",
+            "large": "https://images.pokemontcg.io/sv5/42_hires.png"
+        }
+    },
+    {
+        "id": "sv5-43",
+        "name": "Sharpedo",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "120",
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Carvanha",
+        "attacks": [
+            {
+                "name": "Chew Off",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "50",
+                "text": "Flip 3 coins. For each heads, discard a random card from your opponent's hand."
+            },
+            {
+                "name": "Jet Headbutt",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "43",
+        "artist": "Shinji Kanda",
+        "rarity": "Uncommon",
+        "flavorText": "As soon as it catches the scent of prey, Sharpedo will jet seawater from its backside, hurtling toward the target to attack at 75 mph.",
+        "nationalPokedexNumbers": [
+            319
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/43.png",
+            "large": "https://images.pokemontcg.io/sv5/43_hires.png"
+        }
+    },
+    {
+        "id": "sv5-44",
+        "name": "Keldeo",
+        "supertype": "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -1070,28 +3207,29 @@ let latestSet = [
         ],
         "attacks": [
             {
-                "name": "Into the Deep",
+                "name": "Rapid Draw",
                 "cost": [
-                    "Colorless"
+                    "Water"
                 ],
                 "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Put up to 3 Basic Energy cards from your discard pile into your hand."
+                "damage": "20",
+                "text": "Draw 2 cards."
             },
             {
-                "name": "Freeze-Dry",
+                "name": "Aqua Blade",
                 "cost": [
+                    "Water",
                     "Water",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+                "convertedEnergyCost": 3,
+                "damage": "110",
+                "text": ""
             }
         ],
         "weaknesses": [
             {
-                "type": "Metal",
+                "type": "Lightning",
                 "value": "×2"
             }
         ],
@@ -1100,63 +3238,60 @@ let latestSet = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "16",
-        "artist": "Gemi",
-        "rarity": "Common",
-        "flavorText": "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.",
+        "number": "44",
+        "artist": "satoma",
+        "rarity": "Uncommon",
+        "flavorText": "Keldeo has strengthened its resolve for battle, filling its body with power and changing its form.",
         "nationalPokedexNumbers": [
-            131
+            647
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/16.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/16_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/44.png",
+            "large": "https://images.pokemontcg.io/sv5/44_hires.png"
         }
     },
     {
-        "id": "sv4pt5-17",
-        "name": "Frigibax",
+        "id": "sv5-45",
+        "name": "Snom",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
-        "hp": "70",
+        "hp": "50",
         "types": [
             "Water"
         ],
+        "evolvesTo": [
+            "Frosmoth"
+        ],
         "attacks": [
             {
-                "name": "Collect",
+                "name": "Powder Snow",
                 "cost": [
                     "Water"
                 ],
                 "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Draw a card."
-            },
-            {
-                "name": "Beat",
-                "cost": [
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
+                "damage": "10",
+                "text": "Your opponent's Active Pokémon is now Asleep."
             }
         ],
         "weaknesses": [
@@ -1171,37 +3306,412 @@ let latestSet = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "17",
-        "artist": "rika",
+        "number": "45",
+        "artist": "Orca",
         "rarity": "Common",
-        "flavorText": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
+        "flavorText": "It eats snow that has accumulated on the ground. It prefers soft, freshly fallen snow, so it will eat its way up a mountain, aiming for the peak.",
         "nationalPokedexNumbers": [
-            996
+            872
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/17.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/17_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/45.png",
+            "large": "https://images.pokemontcg.io/sv5/45_hires.png"
         }
     },
     {
-        "id": "sv4pt5-18",
+        "id": "sv5-46",
+        "name": "Frosmoth",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "110",
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Snom",
+        "attacks": [
+            {
+                "name": "Freezing Chill",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "100",
+                "text": "During your opponent's next turn, the Defending Pokémon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "46",
+        "artist": "rika",
+        "rarity": "Common",
+        "flavorText": "Frosmoth senses air currents with its antennae. It sends its scales drifting on frigid air, making them fall like snow.",
+        "nationalPokedexNumbers": [
+            873
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/46.png",
+            "large": "https://images.pokemontcg.io/sv5/46_hires.png"
+        }
+    },
+    {
+        "id": "sv5-47",
+        "name": "Wiglett",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "name": "Lucky Find",
+                "cost": [
+                    "Water"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck."
+            },
+            {
+                "name": "Aqua Bomb",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "40",
+                "text": "This Pokémon also does 20 damage to itself."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "47",
+        "artist": "OKUBO",
+        "rarity": "Common",
+        "flavorText": "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
+        "nationalPokedexNumbers": [
+            960
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/47.png",
+            "large": "https://images.pokemontcg.io/sv5/47_hires.png"
+        }
+    },
+    {
+        "id": "sv5-48",
+        "name": "Finizen",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "80",
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "name": "Rain Splash",
+                "cost": [
+                    "Water"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "Sharp Fin",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "48",
+        "artist": "HYOGONOSUKE",
+        "rarity": "Common",
+        "flavorText": "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.",
+        "nationalPokedexNumbers": [
+            963
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/48.png",
+            "large": "https://images.pokemontcg.io/sv5/48_hires.png"
+        }
+    },
+    {
+        "id": "sv5-49",
+        "name": "Palafin",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "150",
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Finizen",
+        "attacks": [
+            {
+                "name": "Vanguard Punch",
+                "cost": [
+                    "Water"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "130",
+                "text": "This Pokémon also does 10 damage to itself for each damage counter on it."
+            },
+            {
+                "name": "Double Hit",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "90×",
+                "text": "Flip 2 coins. This attack does 90 damage for each heads."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "49",
+        "artist": "DOM",
+        "rarity": "Uncommon",
+        "flavorText": "This Pokémon's ancient genes have awakened. It is now so extraordinarily strong that it can easily lift a cruise ship with one fin.",
+        "nationalPokedexNumbers": [
+            964
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/49.png",
+            "large": "https://images.pokemontcg.io/sv5/49_hires.png"
+        }
+    },
+    {
+        "id": "sv5-50",
+        "name": "Walking Wake ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Ancient"
+        ],
+        "hp": "220",
+        "types": [
+            "Water"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Azure Seas",
+                "text": "Damage from attacks used by this Pokémon isn't affected by any effects on your opponent's Active Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Catharsis Roar",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "120+",
+                "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 120 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "50",
+        "artist": "takuyoa",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            1009
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/50.png",
+            "large": "https://images.pokemontcg.io/sv5/50_hires.png"
+        }
+    },
+    {
+        "id": "sv5-51",
         "name": "Pikachu",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -1214,23 +3724,13 @@ let latestSet = [
         ],
         "attacks": [
             {
-                "name": "Growl",
+                "name": "Random Spark",
                 "cost": [
-                    "Colorless"
+                    "Lightning"
                 ],
                 "convertedEnergyCost": 1,
                 "damage": "",
-                "text": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance)."
-            },
-            {
-                "name": "Pika Bolt",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
+                "text": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
             }
         ],
         "weaknesses": [
@@ -1244,2396 +3744,65 @@ let latestSet = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "18",
-        "artist": "OKACHEKE",
+        "number": "51",
+        "artist": "kodama",
         "rarity": "Common",
-        "flavorText": "﻿When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+        "flavorText": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
         "nationalPokedexNumbers": [
             25
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/18.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/18_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/51.png",
+            "large": "https://images.pokemontcg.io/sv5/51_hires.png"
         }
     },
     {
-        "id": "sv4pt5-19",
+        "id": "sv5-52",
         "name": "Raichu",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Pikachu",
-        "abilities": [
-            {
-                "name": "Electrical Grounding",
-                "text": "When 1 of your Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, you may move a Lightning Energy from that Pokémon to this Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Thunder",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "180",
-                "text": "This Pokémon also does 50 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "19",
-        "artist": "Naoyo Kimura",
-        "rarity": "Rare",
-        "flavorText": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
-        "nationalPokedexNumbers": [
-            26
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/19.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/19_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-20",
-        "name": "Chinchou",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesTo": [
-            "Lanturn"
-        ],
-        "attacks": [
-            {
-                "name": "Shine On",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Look at the top card of your deck. You may put that card on the bottom of your deck."
-            },
-            {
-                "name": "Tiny Charge",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "20",
-        "artist": "yuu",
-        "rarity": "Common",
-        "flavorText": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
-        "nationalPokedexNumbers": [
-            170
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/20.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/20_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-21",
-        "name": "Lanturn",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Chinchou",
-        "attacks": [
-            {
-                "name": "Lightning Ball",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
-            },
-            {
-                "name": "Aqua Spark",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "80+",
-                "text": "If this Pokémon has any Water Energy attached, this attack does 120 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "21",
-        "artist": "aspara",
-        "rarity": "Uncommon",
-        "flavorText": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
-        "nationalPokedexNumbers": [
-            171
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/21.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/21_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-22",
-        "name": "Kilowattrel",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Wattrel",
-        "attacks": [
-            {
-                "name": "United Thunder",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "This attack does 10 damage for each Pokémon in your discard pile that has the United Wings attack to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            },
-            {
-                "name": "Speed Wing",
-                "cost": [
-                    "Lightning",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "22",
-        "artist": "AKIRA EGAWA",
-        "rarity": "Uncommon",
-        "flavorText": "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.",
-        "nationalPokedexNumbers": [
-            941
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/22.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/22_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-23",
-        "name": "Exeggcute",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesTo": [
-            "Exeggutor"
-        ],
-        "attacks": [
-            {
-                "name": "Hypnosis",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Your opponent's Active Pokémon is now Asleep."
-            },
-            {
-                "name": "Rolling Tackle",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "23",
-        "artist": "Kariya",
-        "rarity": "Common",
-        "flavorText": "These Pokémon get nervous when they're not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.",
-        "nationalPokedexNumbers": [
-            102
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/23.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/23_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-24",
-        "name": "Exeggutor",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
         "hp": "130",
         "types": [
-            "Psychic"
+            "Lightning"
         ],
-        "evolvesFrom": "Exeggcute",
+        "evolvesFrom": "Pikachu",
         "attacks": [
             {
-                "name": "Hypnoblast",
+                "name": "Collateral Bolts",
                 "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": "Your opponent's Active Pokémon is now Asleep."
-            },
-            {
-                "name": "Psychic Loop",
-                "cost": [
-                    "Psychic",
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "160",
-                "text": "Put 2 Energy attached to this Pokémon into your hand."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "24",
-        "artist": "Yoriyuki Ikegami",
-        "rarity": "Rare",
-        "flavorText": "When they work together, Exeggutor's three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish.",
-        "nationalPokedexNumbers": [
-            103
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/24.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/24_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-25",
-        "name": "Natu",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesTo": [
-            "Xatu"
-        ],
-        "attacks": [
-            {
-                "name": "Triple Strike",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10×",
-                "text": "Flip 3 coins. This attack does 10 damage for each heads."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "25",
-        "artist": "Teeziro",
-        "rarity": "Common",
-        "flavorText": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
-        "nationalPokedexNumbers": [
-            177
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/25.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/25_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-26",
-        "name": "Xatu",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "100",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Natu",
-        "abilities": [
-            {
-                "name": "Clairvoyant Sense",
-                "text": "Once during your turn, you may attach a Basic Psychic Energy card from your hand to 1 of your Benched Pokémon. If you attached Energy to a Pokémon in this way, draw 2 cards.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Super Psy Bolt",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "80",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "26",
-        "artist": "DOM",
-        "rarity": "Rare",
-        "flavorText": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
-        "nationalPokedexNumbers": [
-            178
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/26.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/26_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-27",
-        "name": "Ralts",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesTo": [
-            "Kirlia"
-        ],
-        "attacks": [
-            {
-                "name": "Psyshot",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "27",
-        "artist": "Tika Matsuno",
-        "rarity": "Common",
-        "flavorText": "The horns on its head provide a strong power that enables it to sense people's emotions.",
-        "nationalPokedexNumbers": [
-            280
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/27.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/27_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-28",
-        "name": "Kirlia",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Ralts",
-        "evolvesTo": [
-            "Gardevoir",
-            "Gallade"
-        ],
-        "attacks": [
-            {
-                "name": "Magical Shot",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            },
-            {
-                "name": "Psychic",
-                "cost": [
-                    "Psychic",
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "60+",
-                "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "28",
-        "artist": "kawayoo",
-        "rarity": "Uncommon",
-        "flavorText": "It has a psychic power that enables it to distort the space around it and see into the future.",
-        "nationalPokedexNumbers": [
-            281
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/28.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/28_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-29",
-        "name": "Gardevoir ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2",
-            "ex"
-        ],
-        "hp": "310",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Kirlia",
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Psychic Embrace",
-                "text": "As often as you like during your turn, you may attach a Basic Psychic Energy card from your discard pile to 1 of your Psychic Pokémon. If you attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon. You can't use this Ability on a Pokémon that would be Knocked Out.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Miracle Force",
-                "cost": [
-                    "Psychic",
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "190",
-                "text": "This Pokémon recovers from all Special Conditions."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "29",
-        "artist": "N-DESIGN Inc.",
-        "rarity": "Double Rare",
-        "nationalPokedexNumbers": [
-            282
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/29.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/29_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-30",
-        "name": "Chimecho",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Sleep Inducer",
-                "cost": [
-                    "Colorless",
+                    "Lightning",
                     "Colorless"
                 ],
                 "convertedEnergyCost": 2,
                 "damage": "",
-                "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. The new Active Pokémon is now Asleep."
+                "text": "This attack does 50 damage to each Pokémon that has any damage counters on it (both yours and your opponent's), except for this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
             },
             {
-                "name": "Psyshot",
+                "name": "Electric Ball",
                 "cost": [
-                    "Psychic",
+                    "Lightning",
                     "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "70",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "30",
-        "artist": "sui",
-        "rarity": "Common",
-        "flavorText": "Emitting ultrasonic cries, it floats on winds to travel great distances.",
-        "nationalPokedexNumbers": [
-            358
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/30.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/30_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-31",
-        "name": "Mime Jr.",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "30",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Mimed Games",
-                "cost": [
-                    "Free"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Your opponent chooses an attack from 1 of their Pokémon in play. Use the chosen attack as this attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "31",
-        "artist": "HYOGONOSUKE",
-        "rarity": "Common",
-        "flavorText": "In an attempt to confuse its enemy, it mimics the enemy's movements. Then it wastes no time in making itself scarce!",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/31.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/31_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-32",
-        "name": "Woobat",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesTo": [
-            "Swoobat"
-        ],
-        "attacks": [
-            {
-                "name": "Reckless Charge",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "This Pokémon also does 10 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "32",
-        "artist": "Kagemaru Himeno",
-        "rarity": "Common",
-        "flavorText": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
-        "nationalPokedexNumbers": [
-            527
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/32.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/32_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-33",
-        "name": "Swoobat",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Woobat",
-        "attacks": [
-            {
-                "name": "Attraction Wave",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "Your opponent's Active Pokémon is now Confused. Put 6 damage counters instead of 3 on that Pokémon for this Special Condition."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "33",
-        "artist": "Narumi Sato",
-        "rarity": "Uncommon",
-        "flavorText": "The auspicious shape of this Pokémon's nose apparently led some regions to consider Swoobat a symbol of good luck.",
-        "nationalPokedexNumbers": [
-            528
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/33.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/33_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-34",
-        "name": "Cottonee",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesTo": [
-            "Whimsicott"
-        ],
-        "attacks": [
-            {
-                "name": "Fickle Attack",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "Flip a coin. If tails, this attack does nothing."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "34",
-        "artist": "kurumitsu",
-        "rarity": "Common",
-        "flavorText": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that's highly prized by many luxury brands.",
-        "nationalPokedexNumbers": [
-            546
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/34.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/34_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-35",
-        "name": "Whimsicott",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Cottonee",
-        "attacks": [
-            {
-                "name": "Fairy Wind",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "50",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "35",
-        "artist": "KYUPIYAMA",
-        "rarity": "Uncommon",
-        "flavorText": "As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.",
-        "nationalPokedexNumbers": [
-            547
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/35.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/35_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-36",
-        "name": "Dedenne",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Minor Errand-Running",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
-            },
-            {
-                "name": "Spin Turn",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": "Switch this Pokémon with 1 of your Benched Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "36",
-        "artist": "Tika Matsuno",
-        "rarity": "Common",
-        "flavorText": "It's small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people's homes and charge itself.",
-        "nationalPokedexNumbers": [
-            702
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/36.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/36_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-37",
-        "name": "Mimikyu",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Psychic"
-        ],
-        "abilities": [
-            {
-                "name": "Safeguard",
-                "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon ex and Pokémon V.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Ghost Eye",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "",
-                "text": "Put 7 damage counters on your opponent's Active Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "37",
-        "artist": "Kagemaru Himeno",
-        "rarity": "Rare",
-        "flavorText": "This Pokémon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu.",
-        "nationalPokedexNumbers": [
-            778
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/37.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/37_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-38",
-        "name": "Fidough",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Rear Kick",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "38",
-        "artist": "Mizue",
-        "rarity": "Common",
-        "flavorText": "This Pokémon is smooth and moist to the touch. Yeast in Fidough's breath induces fermentation in the Pokémon's vicinity.",
-        "nationalPokedexNumbers": [
-            926
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/38.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/38_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-39",
-        "name": "Dachsbun",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Fidough",
-        "abilities": [
-            {
-                "name": "Well-Baked Body",
-                "text": "This Pokémon can't be Burned. Prevent all damage done to this Pokémon by attacks from your opponent's Fire Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Headbutt Bounce",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "39",
-        "artist": "You Iribi",
-        "rarity": "Uncommon",
-        "flavorText": "The pleasant aroma that emanates from this Pokémon's body helps wheat grow, so Dachsbun has been treasured by farming villages.",
-        "nationalPokedexNumbers": [
-            927
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/39.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/39_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-40",
-        "name": "Ceruledge",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "140",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Charcadet",
-        "attacks": [
-            {
-                "name": "Life Sucker",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": "Heal 30 damage from this Pokémon."
-            },
-            {
-                "name": "Fighting Sword",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100+",
-                "text": "If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 100 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "40",
-        "artist": "Ryota Murayama",
-        "rarity": "Rare",
-        "flavorText": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
-        "nationalPokedexNumbers": [
-            937
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/40.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/40_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-41",
-        "name": "Flittle",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "30",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Psy Bolt",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "41",
-        "artist": "kawayoo",
-        "rarity": "Common",
-        "flavorText": "Flittle's toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon's belly.",
-        "nationalPokedexNumbers": [
-            955
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/41.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/41_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-42",
-        "name": "Greavard",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Graveyard Gamboling",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10×",
-                "text": "This attack does 10 damage for each Psychic Pokémon in your discard pile."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "42",
-        "artist": "yuu",
-        "rarity": "Common",
-        "flavorText": "This friendly Pokémon doesn't like being alone. Pay it even the slightest bit of attention, and it will follow you forever.",
-        "nationalPokedexNumbers": [
-            971
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/42.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/42_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-43",
-        "name": "Houndstone",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "140",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Greavard",
-        "attacks": [
-            {
-                "name": "Last Respects",
-                "cost": [
-                    "Psychic",
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "80+",
-                "text": "This attack does 10 more damage for each Psychic Pokémon in your discard pile."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "43",
-        "artist": "Kouki Saitou",
-        "rarity": "Rare",
-        "flavorText": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn't like anyone touching the protuberance atop its head.",
-        "nationalPokedexNumbers": [
-            972
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/43.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/43_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-44",
-        "name": "Gimmighoul",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Chest-ouflage",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
-            },
-            {
-                "name": "Ram",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "44",
-        "artist": "OKUBO",
-        "rarity": "Common",
-        "flavorText": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
-        "nationalPokedexNumbers": [
-            999
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/44.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/44_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-45",
-        "name": "Mankey",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesTo": [
-            "Primeape"
-        ],
-        "attacks": [
-            {
-                "name": "Monkey Beatdown",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "This Pokémon also does 10 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Psychic",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "45",
-        "artist": "nagimiso",
-        "rarity": "Common",
-        "flavorText": "It is extremely quick to anger. It could be docile one moment, then thrashing away the next instant.",
-        "nationalPokedexNumbers": [
-            56
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/45.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/45_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-46",
-        "name": "Primeape",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesFrom": "Mankey",
-        "attacks": [
-            {
-                "name": "Raging Punch",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "70",
-                "text": "This Pokémon also does 20 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Psychic",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "46",
-        "artist": "Ryuta Fuse",
-        "rarity": "Uncommon",
-        "flavorText": "Some researchers theorize that Primeape remains angry even when inside a Poké Ball.",
-        "nationalPokedexNumbers": [
-            57
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/46.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/46_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-47",
-        "name": "Annihilape",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "140",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesFrom": "Primeape",
-        "attacks": [
-            {
-                "name": "Rage Fist",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "70×",
-                "text": "This attack does 70 damage for each Prize card your opponent has taken."
-            },
-            {
-                "name": "Dynamite Punch",
-                "cost": [
-                    "Fighting",
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "170",
-                "text": "This Pokémon also does 50 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Psychic",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "47",
-        "artist": "Anesaki Dynamic",
-        "rarity": "Rare",
-        "flavorText": "It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core.",
-        "nationalPokedexNumbers": [
-            979
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/47.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/47_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-48",
-        "name": "Phanpy",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "80",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesTo": [
-            "Donphan"
-        ],
-        "attacks": [
-            {
-                "name": "Strength",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            },
-            {
-                "name": "Rolling Tackle",
-                "cost": [
-                    "Fighting",
-                    "Fighting",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "60",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "48",
-        "artist": "Atsuko Nishida",
-        "rarity": "Common",
-        "flavorText": "This Pokémon lives and nests on a riverbank. After playing in the mud, it won't be able to settle down unless it washes its body.",
-        "nationalPokedexNumbers": [
-            231
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/48.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/48_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-49",
-        "name": "Donphan",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "150",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesFrom": "Phanpy",
-        "attacks": [
-            {
-                "name": "Cragalanche",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": "Discard the top 2 cards of your opponent's deck."
-            },
-            {
-                "name": "Powerful Spin",
-                "cost": [
-                    "Fighting",
-                    "Fighting",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "160",
-                "text": "During your next turn, this Pokémon can't attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "49",
-        "artist": "Shin Nagasawa",
-        "rarity": "Uncommon",
-        "flavorText": "Donphan is covered in tough hide, so even being hit by a car won't faze this Pokémon. However, it is extremely susceptible to rain.",
-        "nationalPokedexNumbers": [
-            232
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/49.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/49_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-50",
-        "name": "Barboach",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesTo": [
-            "Whiscash"
-        ],
-        "attacks": [
-            {
-                "name": "Hide",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
-            },
-            {
-                "name": "Mud-Slap",
-                "cost": [
-                    "Fighting",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "50",
-        "artist": "ryoma uratsuka",
-        "rarity": "Common",
-        "flavorText": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey's location.",
-        "nationalPokedexNumbers": [
-            339
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/50.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/50_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-51",
-        "name": "Clobbopus",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesTo": [
-            "Grapploct"
-        ],
-        "attacks": [
-            {
-                "name": "Feint",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": "This attack's damage isn't affected by Resistance."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Psychic",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "51",
-        "artist": "Kedamahadaitai Yawarakai",
-        "rarity": "Common",
-        "flavorText": "Its tentacles tear off easily, but it isn't alarmed when that happens—it knows they'll grow back. It's about as smart as a three-year-old.",
-        "nationalPokedexNumbers": [
-            852
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/51.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/51_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-52",
-        "name": "Grapploct",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesFrom": "Clobbopus",
-        "attacks": [
-            {
-                "name": "Slow-Acting Syncope",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "At the end of your opponent's next turn, the Defending Pokémon will be Knocked Out."
-            },
-            {
-                "name": "Mach Cross",
-                "cost": [
-                    "Fighting",
-                    "Fighting",
                     "Colorless"
                 ],
                 "convertedEnergyCost": 3,
@@ -3643,1020 +3812,165 @@ let latestSet = [
         ],
         "weaknesses": [
             {
-                "type": "Psychic",
+                "type": "Fighting",
                 "value": "×2"
             }
         ],
         "retreatCost": [
-            "Colorless",
             "Colorless"
         ],
-        "convertedRetreatCost": 2,
+        "convertedRetreatCost": 1,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
         "number": "52",
-        "artist": "Sanosuke Sakuma",
-        "rarity": "Uncommon",
-        "flavorText": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.",
+        "artist": "cochi8i",
+        "rarity": "Common",
+        "flavorText": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
         "nationalPokedexNumbers": [
-            853
+            26
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/52.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/52_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/52.png",
+            "large": "https://images.pokemontcg.io/sv5/52_hires.png"
         }
     },
     {
-        "id": "sv4pt5-53",
-        "name": "Great Tusk ex",
+        "id": "sv5-53",
+        "name": "Electabuzz",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
-            "Basic",
-            "ex",
-            "Ancient"
+            "Basic"
         ],
-        "hp": "250",
+        "hp": "90",
         "types": [
-            "Fighting"
+            "Lightning"
         ],
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Quaking Demolition",
-                "text": "Once at the end of your turn (after your attack), if this Pokémon is in the Active Spot, you must discard the top 5 cards of your deck.",
-                "type": "Ability"
-            }
+        "evolvesTo": [
+            "Electivire"
         ],
         "attacks": [
             {
-                "name": "Great Bash",
+                "name": "Chop",
                 "cost": [
-                    "Fighting",
-                    "Colorless",
+                    "Lightning"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "Electric Punch",
+                "cost": [
+                    "Lightning",
                     "Colorless",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 4,
-                "damage": "260",
-                "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+                "convertedEnergyCost": 3,
+                "damage": "50",
+                "text": ""
             }
         ],
         "weaknesses": [
             {
-                "type": "Psychic",
+                "type": "Fighting",
                 "value": "×2"
             }
         ],
         "retreatCost": [
             "Colorless",
-            "Colorless",
-            "Colorless",
             "Colorless"
         ],
-        "convertedRetreatCost": 4,
+        "convertedRetreatCost": 2,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
         "number": "53",
-        "artist": "kawayoo",
-        "rarity": "Double Rare",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/53.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/53_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-54",
-        "name": "Charizard ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2",
-            "Tera",
-            "ex"
-        ],
-        "hp": "330",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Charmeleon",
-        "rules": [
-            "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Infernal Reign",
-                "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Burning Darkness",
-                "cost": [
-                    "Fire",
-                    "Fire"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "180+",
-                "text": "This attack does 30 more damage for each Prize card your opponent has taken."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "54",
-        "artist": "5ban Graphics",
-        "rarity": "Double Rare",
-        "nationalPokedexNumbers": [
-            6
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/54.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/54_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-55",
-        "name": "Gastly",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesTo": [
-            "Haunter"
-        ],
-        "attacks": [
-            {
-                "name": "Allure",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Draw a card."
-            },
-            {
-                "name": "Will-O-Wisp",
-                "cost": [
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "55",
-        "artist": "Nobuhiro Imagawa",
+        "artist": "Uta",
         "rarity": "Common",
-        "flavorText": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+        "flavorText": "Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity.",
         "nationalPokedexNumbers": [
-            92
+            125
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/55.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/55_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/53.png",
+            "large": "https://images.pokemontcg.io/sv5/53_hires.png"
         }
     },
     {
-        "id": "sv4pt5-56",
-        "name": "Haunter",
+        "id": "sv5-54",
+        "name": "Electivire",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "80",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Gastly",
-        "evolvesTo": [
-            "Gengar"
-        ],
-        "attacks": [
-            {
-                "name": "Dark Slumber",
-                "cost": [
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "40",
-                "text": "Your opponent's Active Pokémon is now Asleep."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "56",
-        "artist": "DOM",
-        "rarity": "Common",
-        "flavorText": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
-        "nationalPokedexNumbers": [
-            93
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/56.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/56_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-57",
-        "name": "Gengar",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "130",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Haunter",
-        "abilities": [
-            {
-                "name": "Night Gate",
-                "text": "Once during your turn, you may switch your Active Pokémon with 1 of your Benched Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Nightmare",
-                "cost": [
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "100",
-                "text": "Your opponent's Active Pokémon is now Asleep."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "57",
-        "artist": "Nelnal",
-        "rarity": "Uncommon",
-        "flavorText": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
-        "nationalPokedexNumbers": [
-            94
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/57.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/57_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-58",
-        "name": "Paldean Wooper",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesTo": [
-            "Quagsire"
-        ],
-        "attacks": [
-            {
-                "name": "Find a Home",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Search your deck for a Stadium card, reveal it, and put it into your hand. Then, shuffle your deck."
-            },
-            {
-                "name": "Ram",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "58",
-        "artist": "Kouki Saitou",
-        "rarity": "Common",
-        "flavorText": "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
-        "nationalPokedexNumbers": [
-            194
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/58.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/58_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-59",
-        "name": "Paldean Clodsire ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1",
-            "ex"
-        ],
-        "hp": "280",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Paldean Wooper",
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Toxic Wetland",
-                "text": "Once during your turn, if a Stadium is in play, you may make your opponent's Active Pokémon Poisoned.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Needle Bone",
-                "cost": [
-                    "Darkness",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "200",
-                "text": "Flip a coin. If tails, during your next turn, this Pokémon can't attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "59",
-        "artist": "PLANETA Mochizuki",
-        "rarity": "Double Rare",
-        "nationalPokedexNumbers": [
-            980
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/59.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/59_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-60",
-        "name": "Scraggy",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesTo": [
-            "Scrafty"
-        ],
-        "attacks": [
-            {
-                "name": "Low Kick",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Headstrike",
-                "cost": [
-                    "Darkness",
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "50",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "60",
-        "artist": "sowsow",
-        "rarity": "Common",
-        "flavorText": "It protects itself with its durable skin. It's thought that this Pokémon will evolve once its skin has completely stretched out.",
-        "nationalPokedexNumbers": [
-            559
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/60.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/60_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-61",
-        "name": "Scrafty",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Scraggy",
-        "attacks": [
-            {
-                "name": "Lambaste",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
-            },
-            {
-                "name": "Headbang",
-                "cost": [
-                    "Darkness",
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "130",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "61",
-        "artist": "Mousho",
-        "rarity": "Uncommon",
-        "flavorText": "While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory.",
-        "nationalPokedexNumbers": [
-            560
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/61.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/61_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-62",
-        "name": "Maschiff",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Darkness"
-        ],
-        "attacks": [
-            {
-                "name": "Ambush",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10+",
-                "text": "Flip a coin. If heads, this attack does 20 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "62",
-        "artist": "DOM",
-        "rarity": "Common",
-        "flavorText": "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff's face.",
-        "nationalPokedexNumbers": [
-            942
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/62.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/62_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-63",
-        "name": "Mabosstiff",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "130",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Maschiff",
-        "abilities": [
-            {
-                "name": "Intimidating Howl",
-                "text": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Wild Tackle",
-                "cost": [
-                    "Darkness",
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "160",
-                "text": "This Pokémon also does 30 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "63",
-        "artist": "KIYOTAKA OSHIYAMA",
-        "rarity": "Rare",
-        "flavorText": "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family.",
-        "nationalPokedexNumbers": [
-            943
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/63.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/63_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-64",
-        "name": "Varoom",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Metal"
-        ],
-        "attacks": [
-            {
-                "name": "Rev",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Put up to 2 Basic Energy cards from your discard pile into your hand."
-            },
-            {
-                "name": "Headbutt",
-                "cost": [
-                    "Metal",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "64",
-        "artist": "Tetsu Kayama",
-        "rarity": "Common",
-        "flavorText": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
-        "nationalPokedexNumbers": [
-            965
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/64.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/64_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-65",
-        "name": "Revavroom",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
         "hp": "140",
         "types": [
-            "Metal"
+            "Lightning"
         ],
-        "evolvesFrom": "Varoom",
-        "abilities": [
-            {
-                "name": "Rumbling Engine",
-                "text": "You must discard an Energy card from your hand in order to use this Ability. Once during your turn, you may draw cards until you have 6 cards in your hand.",
-                "type": "Ability"
-            }
-        ],
+        "evolvesFrom": "Electabuzz",
         "attacks": [
             {
-                "name": "Knock Away",
+                "name": "Short-Circuit Knuckle",
                 "cost": [
-                    "Metal",
                     "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "40+",
+                "text": "If your opponent has any Water Pokémon in play, this attack does 120 more damage."
+            },
+            {
+                "name": "Electroslug",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
                     "Colorless",
                     "Colorless"
                 ],
                 "convertedEnergyCost": 4,
-                "damage": "90+",
-                "text": "Flip a coin. If heads, this attack does 90 more damage."
+                "damage": "140",
+                "text": ""
             }
         ],
         "weaknesses": [
             {
-                "type": "Fire",
+                "type": "Fighting",
                 "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "65",
-        "artist": "Anesaki Dynamic",
-        "rarity": "Rare",
-        "flavorText": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.",
-        "nationalPokedexNumbers": [
-            966
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/65.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/65_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-66",
-        "name": "Iron Treads ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic",
-            "ex",
-            "Future"
-        ],
-        "hp": "220",
-        "types": [
-            "Metal"
-        ],
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Iron-Clad Roll",
-                "cost": [
-                    "Metal",
-                    "Metal",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "150",
-                "text": "After doing damage, you may discard all Future Booster Energy Capsules from this Pokémon. If you do, during your opponent's next turn, this Pokémon takes 150 less damage from attacks (after applying Weakness and Resistance)."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -4666,74 +3980,68 @@ let latestSet = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "66",
-        "artist": "toriyufu",
-        "rarity": "Double Rare",
-
-        "regulationMark": "G",
+        "number": "54",
+        "artist": "Yuya Oka",
+        "rarity": "Uncommon",
+        "flavorText": "The amount of electrical energy this Pokémon produces is proportional to the rate of its pulse. The voltage jumps while Electivire is battling.",
+        "nationalPokedexNumbers": [
+            466
+        ],
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/66.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/66_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/54.png",
+            "large": "https://images.pokemontcg.io/sv5/54_hires.png"
         }
     },
     {
-        "id": "sv4pt5-67",
-        "name": "Gholdengo",
+        "id": "sv5-55",
+        "name": "Charjabug",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
-        "hp": "130",
+        "hp": "100",
         "types": [
-            "Metal"
+            "Lightning"
         ],
-        "evolvesFrom": "Gimmighoul",
+        "evolvesFrom": "Grubbin",
+        "evolvesTo": [
+            "Vikavolt"
+        ],
         "attacks": [
             {
-                "name": "Lavish Hospitality",
+                "name": "Static Shock",
                 "cost": [
-                    "Colorless"
+                    "Lightning",
+                    "Lightning"
                 ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "You may attach any number of Basic Metal Energy cards from your hand to your Pokémon in any way you like."
-            },
-            {
-                "name": "Scintillating Surfing",
-                "cost": [
-                    "Metal",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "80×",
-                "text": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 80 damage for each heads."
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": ""
             }
         ],
         "weaknesses": [
             {
-                "type": "Fire",
+                "type": "Fighting",
                 "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -4742,2491 +4050,139 @@ let latestSet = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "67",
-        "artist": "Mitsuhiro Arita",
-        "rarity": "Rare",
-        "flavorText": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+        "number": "55",
+        "artist": "Misa Tsutsui",
+        "rarity": "Common",
+        "flavorText": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
         "nationalPokedexNumbers": [
-            1000
+            737
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/67.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/67_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/55.png",
+            "large": "https://images.pokemontcg.io/sv5/55_hires.png"
         }
     },
     {
-        "id": "sv4pt5-68",
-        "name": "Noibat",
+        "id": "sv5-56",
+        "name": "Vikavolt",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
-            "Basic"
+            "Stage 2"
         ],
-        "hp": "70",
+        "hp": "160",
         "types": [
-            "Dragon"
+            "Lightning"
         ],
-        "evolvesTo": [
-            "Noivern"
-        ],
+        "evolvesFrom": "Charjabug",
         "attacks": [
             {
-                "name": "Gust",
+                "name": "Mach Bolt",
                 "cost": [
-                    "Psychic",
-                    "Darkness"
+                    "Lightning"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "50",
+                "text": ""
+            },
+            {
+                "name": "Circuit Cannon",
+                "cost": [
+                    "Lightning",
+                    "Lightning"
                 ],
                 "convertedEnergyCost": 2,
-                "damage": "40",
-                "text": ""
+                "damage": "120+",
+                "text": "This attack does 80 more damage for each of your Benched Charjabug."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
             }
         ],
         "retreatCost": [
+            "Colorless",
             "Colorless"
         ],
-        "convertedRetreatCost": 1,
+        "convertedRetreatCost": 2,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "68",
-        "artist": "chibi",
-        "rarity": "Common",
-        "flavorText": "This Pokémon emits ultrasonic waves from its large ears to search for fruit to eat. It mistakes Applin for its food.",
-        "nationalPokedexNumbers": [
-            714
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/68.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/68_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-69",
-        "name": "Noivern ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1",
-            "ex"
-        ],
-        "hp": "260",
-        "types": [
-            "Dragon"
-        ],
-        "evolvesFrom": "Noibat",
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Covert Flight",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "70",
-                "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon."
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
             },
-            {
-                "name": "Dominating Echo",
-                "cost": [
-                    "Psychic",
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "140",
-                "text": "During your opponent's next turn, they can't play any Special Energy or Stadium cards from their hand."
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "69",
-        "artist": "Nisota Niso",
-        "rarity": "Double Rare",
+        "number": "56",
+        "artist": "Hitoshi Ariga",
+        "rarity": "Uncommon",
+        "flavorText": "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",
         "nationalPokedexNumbers": [
-            715
+            738
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/69.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/69_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/56.png",
+            "large": "https://images.pokemontcg.io/sv5/56_hires.png"
         }
     },
     {
-        "id": "sv4pt5-70",
-        "name": "Cyclizar",
+        "id": "sv5-57",
+        "name": "Zeraora",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
         "hp": "120",
         "types": [
-            "Dragon"
+            "Lightning"
         ],
         "attacks": [
             {
-                "name": "Acceleration Drive",
-                "cost": [
-                    "Grass",
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100",
-                "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "70",
-        "artist": "GIDORA",
-        "rarity": "Rare",
-        "flavorText": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
-        "nationalPokedexNumbers": [
-            967
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/70.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/70_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-71",
-        "name": "Lechonk",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Colorless"
-        ],
-        "attacks": [
-            {
-                "name": "Whimsy Tackle",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "70",
-                "text": "Flip a coin. If tails, this attack does nothing."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "71",
-        "artist": "Mina Nakai",
-        "rarity": "Common",
-        "flavorText": "It searches for food all day. It possesses a keen sense of smell but doesn't use it for anything other than foraging.",
-        "nationalPokedexNumbers": [
-            915
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/71.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/71_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-72",
-        "name": "Oinkologne",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "130",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Lechonk",
-        "attacks": [
-            {
-                "name": "Finest Selection",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "",
-                "text": "Flip 3 coins. Put a number of cards up to the number of heads from your discard pile into your hand."
-            },
-            {
-                "name": "Perfume Press",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "70",
-                "text": "Your opponent's Active Pokémon is now Confused."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "72",
-        "artist": "Akira Komayama",
-        "rarity": "Uncommon",
-        "flavorText": "This Pokémon sends a flowerlike scent wafting about. Well-developed muscles in its legs allow it to leap more than 16 feet with no trouble at all.",
-        "nationalPokedexNumbers": [
-            916
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/72.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/72_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-73",
-        "name": "Tandemaus",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "30",
-        "types": [
-            "Colorless"
-        ],
-        "attacks": [
-            {
-                "name": "Collect",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Draw 2 cards."
-            },
-            {
-                "name": "Gentle Slap",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "73",
-        "artist": "Oswaldo KATO",
-        "rarity": "Common",
-        "flavorText": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
-        "nationalPokedexNumbers": [
-            924
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/73.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/73_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-74",
-        "name": "Maushold",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "70",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Tandemaus",
-        "attacks": [
-            {
-                "name": "Slap",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "40",
-                "text": ""
-            },
-            {
-                "name": "Family Attack",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "70×",
-                "text": "This attack does 70 damage for each of your Maushold in play."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "74",
-        "artist": "KIYOTAKA OSHIYAMA",
-        "rarity": "Uncommon",
-        "flavorText": "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.",
-        "nationalPokedexNumbers": [
-            925
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/74.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/74_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-75",
-        "name": "Squawkabilly ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic",
-            "ex"
-        ],
-        "hp": "160",
-        "types": [
-            "Colorless"
-        ],
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Squawk and Seize",
-                "text": "Once during your first turn, you may discard your hand and draw 6 cards. You can't use more than 1 Squawk and Seize Ability during your turn.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Motivate",
+                "name": "Shocking Knuckle",
                 "cost": [
                     "Colorless"
                 ],
                 "convertedEnergyCost": 1,
                 "damage": "20",
-                "text": "Attach up to 2 Basic Energy cards from your discard pile to 1 of your Benched Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "75",
-        "artist": "PLANETA Mochizuki",
-        "rarity": "Double Rare",
-        "nationalPokedexNumbers": [
-            931
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/75.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/75_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-76",
-        "name": "Artazon",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stadium"
-        ],
-        "rules": [
-            "Once during each player's turn, that player may search their deck for a Basic Pokémon that doesn't have a Rule Box and put it onto their Bench. Then, that player shuffles their deck. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
-            "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "76",
-        "artist": "Oswaldo KATO",
-        "rarity": "Uncommon",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/76.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/76_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-77",
-        "name": "Atticus",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "You can use this card only if your opponent's Active Pokémon is Poisoned.",
-            "Shuffle your hand into your deck. Then, draw 7 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "77",
-        "artist": "kantaro",
-        "rarity": "Uncommon",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/77.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/77_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-78",
-        "name": "Clive",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Your opponent reveals their hand, and you draw 2 cards for each Supporter card you find there.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "78",
-        "artist": "GOSSAN",
-        "rarity": "Uncommon",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/78.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/78_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-79",
-        "name": "Electric Generator",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Look at the top 5 cards of your deck and attach up to 2 Basic Lightning Energy cards you find there to your Benched Lightning Pokémon in any way you like. Shuffle the other cards back into your deck.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "79",
-        "artist": "Toyste Beach",
-        "rarity": "Uncommon",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/79.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/79_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-80",
-        "name": "Iono",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "80",
-        "artist": "Sanosuke Sakuma",
-        "rarity": "Uncommon",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/80.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/80_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-81",
-        "name": "Moonlit Hill",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stadium"
-        ],
-        "rules": [
-            "Once during each player's turn, that player may discard a Basic Psychic Energy card from their hand in order to heal 30 damage from each of their Pokémon.",
-            "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "81",
-        "artist": "AYUMI ODASHIMA",
-        "rarity": "Uncommon",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/81.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/81_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-82",
-        "name": "Nemona",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Draw 3 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "82",
-        "artist": "Sanosuke Sakuma",
-        "rarity": "Common",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/82.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/82_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-83",
-        "name": "Nemona's Backpack",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Put up to 2 Nemona cards from your discard pile into your hand.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "83",
-        "artist": "AYUMI ODASHIMA",
-        "rarity": "Uncommon",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/83.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/83_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-84",
-        "name": "Nest Ball",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "84",
-        "artist": "Toyste Beach",
-        "rarity": "Uncommon",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/84.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/84_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-85",
-        "name": "Paldean Student",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Search your deck for a Pokémon that doesn't have a Rule Box, reveal it, and put it into your hand. For each Paldean Student card (not including this card) in your discard pile, you may search for an additional Pokémon in this way. Then, shuffle your deck. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "85",
-        "artist": "Cona Nitanda",
-        "rarity": "Common",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/85.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/85_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-86",
-        "name": "Paldean Student",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Search your deck for a Pokémon that doesn't have a Rule Box, reveal it, and put it into your hand. For each Paldean Student card (not including this card) in your discard pile, you may search for an additional Pokémon in this way. Then, shuffle your deck. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "86",
-        "artist": "Naoki Saito",
-        "rarity": "Common",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/86.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/86_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-87",
-        "name": "Professor's Research",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Discard your hand and draw 7 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "87",
-        "artist": "kirisAki",
-        "rarity": "Rare",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/87.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/87_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-88",
-        "name": "Professor's Research",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Discard your hand and draw 7 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "88",
-        "artist": "kirisAki",
-        "rarity": "Rare",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/88.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/88_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-89",
-        "name": "Rare Candy",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "89",
-        "artist": "Studio Bora Inc.",
-        "rarity": "Common",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/89.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/89_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-90",
-        "name": "Technical Machine: Crisis Punch",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Pokémon Tool"
-        ],
-        "rules": [
-            "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) If this card is attached to 1 of your Pokémon, discard it at the end of your turn.",
-            "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
-        ],
-        "attacks": [
-            {
-                "name": "Crisis Punch",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "280",
-                "text": "You can use this attack only when your opponent has exactly 1 Prize card remaining."
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "90",
-        "artist": "Studio Bora Inc.",
-        "rarity": "Uncommon",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/90.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/90_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-91",
-        "name": "Ultra Ball",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "You can use this card only if you discard 2 other cards from your hand.",
-            "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "91",
-        "artist": "Ayaka Yoshida",
-        "rarity": "Uncommon",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/91.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/91_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-92",
-        "name": "Oddish",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Grass"
-        ],
-        "evolvesTo": [
-            "Gloom"
-        ],
-        "attacks": [
-            {
-                "name": "Razor Leaf",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "92",
-        "artist": "otumami",
-        "rarity": "SHINY_RARE",
-        "flavorText": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
-        "nationalPokedexNumbers": [
-            43
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/92.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/92_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-93",
-        "name": "Gloom",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "70",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Oddish",
-        "evolvesTo": [
-            "Vileplume",
-            "Bellossom"
-        ],
-        "abilities": [
-            {
-                "name": "Semi-Blooming Energy",
-                "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may look at the top 3 cards of your deck and attach any number of Basic Energy cards you find there to your Pokémon in any way you like. Shuffle the other cards back into your deck.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Drool",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "93",
-        "artist": "OKACHEKE",
-        "rarity": "SHINY_RARE",
-        "flavorText": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
-        "nationalPokedexNumbers": [
-            44
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/93.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/93_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-94",
-        "name": "Vileplume",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "140",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Gloom",
-        "abilities": [
-            {
-                "name": "Fully Blooming Energy",
-                "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may look at the top 8 cards of your deck and attach any number of Basic Energy cards you find there to your Pokémon in any way you like. Shuffle the other cards back into your deck.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Solar Beam",
-                "cost": [
-                    "Grass",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "94",
-        "artist": "0313",
-        "rarity": "SHINY_RARE",
-        "flavorText": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
-        "nationalPokedexNumbers": [
-            45
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/94.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/94_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-95",
-        "name": "Scyther",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "80",
-        "types": [
-            "Grass"
-        ],
-        "evolvesTo": [
-            "Scizor"
-        ],
-        "attacks": [
-            {
-                "name": "Agility",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
             },
             {
-                "name": "Cut",
+                "name": "Strong Volt",
                 "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "95",
-        "artist": "Hitoshi Ariga",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
-        "nationalPokedexNumbers": [
-            123
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/95.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/95_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-96",
-        "name": "Hoppip",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Grass"
-        ],
-        "evolvesTo": [
-            "Skiploom"
-        ],
-        "attacks": [
-            {
-                "name": "Splashing Dodge",
-                "cost": [
-                    "Grass"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "96",
-        "artist": "Saya Tsuruta",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon is blown across vast distances by the wind. It is unclear where the Hoppip of Paldea originally came from.",
-        "nationalPokedexNumbers": [
-            187
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/96.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/96_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-97",
-        "name": "Skiploom",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "70",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Hoppip",
-        "evolvesTo": [
-            "Jumpluff"
-        ],
-        "abilities": [
-            {
-                "name": "Drifting Dodge",
-                "text": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Flowery Zephyr",
-                "cost": [
-                    "Grass"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "97",
-        "artist": "Mizue",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Skiploom enthusiasts can apparently tell where a Skiploom was born by the scent drifting from the flower on the Pokémon's head.",
-        "nationalPokedexNumbers": [
-            188
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/97.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/97_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-98",
-        "name": "Jumpluff",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "90",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Skiploom",
-        "abilities": [
-            {
-                "name": "Drifting Dodge",
-                "text": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Fluffy Breeze",
-                "cost": [
-                    "Grass"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "60",
-                "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "98",
-        "artist": "Lee HyunJung",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Jumpluff travels on seasonal winds. Once its cotton spores run out, its journey ends, as does its life.",
-        "nationalPokedexNumbers": [
-            189
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/98.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/98_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-99",
-        "name": "Pineco",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Grass"
-        ],
-        "evolvesTo": [
-            "Forretress"
-        ],
-        "attacks": [
-            {
-                "name": "Rollout",
-                "cost": [
-                    "Grass",
-                    "Grass"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "99",
-        "artist": "Scav",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
-        "nationalPokedexNumbers": [
-            204
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/99.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/99_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-100",
-        "name": "Snover",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "90",
-        "types": [
-            "Grass"
-        ],
-        "evolvesTo": [
-            "Abomasnow"
-        ],
-        "attacks": [
-            {
-                "name": "Corkscrew Punch",
-                "cost": [
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "100",
-        "artist": "Saya Tsuruta",
-        "rarity": "SHINY_RARE",
-        "flavorText": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
-        "nationalPokedexNumbers": [
-            459
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/100.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/100_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-101",
-        "name": "Abomasnow",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "150",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Snover",
-        "abilities": [
-            {
-                "name": "Freezing Disaster",
-                "text": "Pokémon (both yours and your opponent's) can't be healed.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Magnum Punch",
-                "cost": [
-                    "Grass",
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "110",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "101",
-        "artist": "Hitoshi Ariga",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
-        "nationalPokedexNumbers": [
-            460
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/101.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/101_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-102",
-        "name": "Smoliv",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Grass"
-        ],
-        "attacks": [
-            {
-                "name": "Nutrients",
-                "cost": [
-                    "Grass"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Heal 30 damage from 1 of your Pokémon."
-            },
-            {
-                "name": "Spray Fluid",
-                "cost": [
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "102",
-        "artist": "otumami",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.",
-        "nationalPokedexNumbers": [
-            928
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/102.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/102_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-103",
-        "name": "Dolliv",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Smoliv",
-        "attacks": [
-            {
-                "name": "Slap",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": ""
-            },
-            {
-                "name": "Apply Oil",
-                "cost": [
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "40",
-                "text": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, that attack doesn't happen."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "103",
-        "artist": "saino misaki",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
-        "nationalPokedexNumbers": [
-            929
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/103.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/103_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-104",
-        "name": "Arboliva",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "150",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Dolliv",
-        "abilities": [
-            {
-                "name": "Enriching Oil",
-                "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may heal all damage from 1 of your Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Solar Beam",
-                "cost": [
-                    "Grass",
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "150",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "104",
-        "artist": "Hideki Ishikawa",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
-        "nationalPokedexNumbers": [
-            930
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/104.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/104_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-105",
-        "name": "Toedscool",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Grass"
-        ],
-        "attacks": [
-            {
-                "name": "Furious Kicks",
-                "cost": [
-                    "Grass"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10×",
-                "text": "Flip 3 coins. This attack does 10 damage for each heads."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "105",
-        "artist": "Ryuta Fuse",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Though it looks like Tentacool, Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph.",
-        "nationalPokedexNumbers": [
-            948
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/105.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/105_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-106",
-        "name": "Capsakid",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Grass"
-        ],
-        "attacks": [
-            {
-                "name": "Increasing Spice",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Search your deck for a Basic Fire Energy card and attach it to this Pokémon. Then, shuffle your deck."
-            },
-            {
-                "name": "Playful Kick",
-                "cost": [
-                    "Grass",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "50",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "106",
-        "artist": "OKACHEKE",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients.",
-        "nationalPokedexNumbers": [
-            951
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/106.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/106_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-107",
-        "name": "Scovillain",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "110",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Capsakid",
-        "abilities": [
-            {
-                "name": "Double Type",
-                "text": "As long as this Pokémon is in play, it is Grass and Fire type.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Spicy Headbutt",
-                "cost": [
-                    "Grass",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "110",
-                "text": "This attack's damage isn't affected by Resistance."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "107",
-        "artist": "Kouki Saitou",
-        "rarity": "SHINY_RARE",
-        "flavorText": "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
-        "nationalPokedexNumbers": [
-            952
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/107.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/107_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-108",
-        "name": "Rellor",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Grass"
-        ],
-        "attacks": [
-            {
-                "name": "Ball Roll",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30×",
-                "text": "Flip a coin until you get tails. This attack does 30 damage for each heads."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "108",
-        "artist": "Misa Tsutsui",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
-        "nationalPokedexNumbers": [
-            953
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/108.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/108_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-109",
-        "name": "Charmander",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Fire"
-        ],
-        "evolvesTo": [
-            "Charmeleon"
-        ],
-        "attacks": [
-            {
-                "name": "Blazing Destruction",
-                "cost": [
-                    "Fire"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Discard a Stadium in play."
-            },
-            {
-                "name": "Steady Firebreathing",
-                "cost": [
-                    "Fire",
-                    "Fire"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "109",
-        "artist": "sowsow",
-        "rarity": "SHINY_RARE",
-        "flavorText": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
-        "nationalPokedexNumbers": [
-            4
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/109.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/109_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-110",
-        "name": "Charmeleon",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Fire"
-        ],
-        "evolvesFrom": "Charmander",
-        "evolvesTo": [
-            "Charizard"
-        ],
-        "abilities": [
-            {
-                "name": "Flare Veil",
-                "text": "Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Combustion",
-                "cost": [
-                    "Fire",
-                    "Fire"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "110",
-        "artist": "Kouki Saitou",
-        "rarity": "SHINY_RARE",
-        "flavorText": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
-        "nationalPokedexNumbers": [
-            5
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/110.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/110_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-111",
-        "name": "Paldean Tauros",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "130",
-        "types": [
-            "Fire"
-        ],
-        "attacks": [
-            {
-                "name": "Raging Horns",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20+",
-                "text": "This attack does 10 more damage for each damage counter on this Pokémon."
-            },
-            {
-                "name": "Blaze Dash",
-                "cost": [
-                    "Fire",
-                    "Fire",
+                    "Lightning",
+                    "Lightning",
                     "Colorless"
                 ],
                 "convertedEnergyCost": 3,
@@ -7236,7 +4192,536 @@ let latestSet = [
         ],
         "weaknesses": [
             {
-                "type": "Water",
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "57",
+        "artist": "kantaro",
+        "rarity": "Uncommon",
+        "flavorText": "It runs as fast as lightning strikes, shredding its opponents with its high-voltage claws.",
+        "nationalPokedexNumbers": [
+            807
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/57.png",
+            "large": "https://images.pokemontcg.io/sv5/57_hires.png"
+        }
+    },
+    {
+        "id": "sv5-58",
+        "name": "Yamper",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Lightning"
+        ],
+        "evolvesTo": [
+            "Boltund"
+        ],
+        "attacks": [
+            {
+                "name": "Whimsy Tackle",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "58",
+        "artist": "kurumitsu",
+        "rarity": "Common",
+        "flavorText": "This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
+        "nationalPokedexNumbers": [
+            835
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/58.png",
+            "large": "https://images.pokemontcg.io/sv5/58_hires.png"
+        }
+    },
+    {
+        "id": "sv5-59",
+        "name": "Boltund",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "120",
+        "types": [
+            "Lightning"
+        ],
+        "evolvesFrom": "Yamper",
+        "attacks": [
+            {
+                "name": "Electrifying Dash",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "50",
+                "text": "Search your deck for up to 2 Basic Lightning Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "59",
+        "artist": "Oswaldo KATO",
+        "rarity": "Uncommon",
+        "flavorText": "This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
+        "nationalPokedexNumbers": [
+            836
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/59.png",
+            "large": "https://images.pokemontcg.io/sv5/59_hires.png"
+        }
+    },
+    {
+        "id": "sv5-60",
+        "name": "Wugtrio ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "Tera",
+            "ex"
+        ],
+        "hp": "250",
+        "types": [
+            "Lightning"
+        ],
+        "evolvesFrom": "Wiglett",
+        "rules": [
+            "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+            "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's)."
+        ],
+        "attacks": [
+            {
+                "name": "Tricolor Pump",
+                "cost": [
+                    "Water"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Discard up to 3 Energy cards from your hand. This attack does 60 damage to 1 of your opponent's Pokémon for each Energy card you discarded in this way. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+                "name": "Numbing Hold",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "120",
+                "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "60",
+        "artist": "5ban Graphics",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            961
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/60.png",
+            "large": "https://images.pokemontcg.io/sv5/60_hires.png"
+        }
+    },
+    {
+        "id": "sv5-61",
+        "name": "Iron Hands",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Future"
+        ],
+        "hp": "140",
+        "types": [
+            "Lightning"
+        ],
+        "attacks": [
+            {
+                "name": "Volt Wave",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            },
+            {
+                "name": "Superalloy Hands",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "80+",
+                "text": "If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 80 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "61",
+        "artist": "Souichirou Gunjima",
+        "rarity": "Uncommon",
+        "flavorText": "This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal.",
+        "nationalPokedexNumbers": [
+            992
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/61.png",
+            "large": "https://images.pokemontcg.io/sv5/61_hires.png"
+        }
+    },
+    {
+        "id": "sv5-62",
+        "name": "Iron Thorns",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Future"
+        ],
+        "hp": "140",
+        "types": [
+            "Lightning"
+        ],
+        "attacks": [
+            {
+                "name": "Destructo-Press",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70×",
+                "text": "Reveal the top 5 cards of your deck. This attack does 70 damage for each Future card you find there. Then, discard those Future cards and shuffle the other cards back into your deck."
+            },
+            {
+                "name": "Megaton Lariat",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 4,
+                "damage": "140",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "62",
+        "artist": "Takeshi Nakamura",
+        "rarity": "Rare",
+        "flavorText": "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.",
+        "nationalPokedexNumbers": [
+            995
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/62.png",
+            "large": "https://images.pokemontcg.io/sv5/62_hires.png"
+        }
+    },
+    {
+        "id": "sv5-63",
+        "name": "Mr. Mime",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "90",
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "name": "Look-Alike Show",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Your opponent reveals their hand. You may use the effect of a Supporter card you find there as the effect of this attack."
+            },
+            {
+                "name": "Eerie Wave",
+                "cost": [
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": "Your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "63",
+        "artist": "Nelnal",
+        "rarity": "Common",
+        "flavorText": "The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.",
+        "nationalPokedexNumbers": [
+            122
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/63.png",
+            "large": "https://images.pokemontcg.io/sv5/63_hires.png"
+        }
+    },
+    {
+        "id": "sv5-64",
+        "name": "Marill",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesTo": [
+            "Azumarill"
+        ],
+        "attacks": [
+            {
+                "name": "Ball Roll",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10×",
+                "text": "Flip a coin until you get tails. This attack does 10 damage for each heads."
+            },
+            {
+                "name": "Magical Shot",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
                 "value": "×2"
             }
         ],
@@ -7246,67 +4731,1118 @@ let latestSet = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "111",
-        "artist": "Hitoshi Ariga",
-        "rarity": "SHINY_RARE",
-        "flavorText": "People call this kind of Tauros the Blaze Breed due to the hot air it snorts from its nostrils. Its three tails are intertwined.",
+        "number": "64",
+        "artist": "yuu",
+        "rarity": "Common",
+        "flavorText": "The fur on its body naturally repels water. It can stay dry even when it plays in the water.",
         "nationalPokedexNumbers": [
-            128
+            183
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/111.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/111_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/64.png",
+            "large": "https://images.pokemontcg.io/sv5/64_hires.png"
         }
     },
     {
-        "id": "sv4pt5-112",
-        "name": "Entei",
+        "id": "sv5-65",
+        "name": "Azumarill",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
-            "Basic"
+            "Stage 1"
         ],
         "hp": "130",
         "types": [
-            "Fire"
+            "Psychic"
+        ],
+        "evolvesFrom": "Marill",
+        "attacks": [
+            {
+                "name": "Play Rough",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30+",
+                "text": "Flip a coin. If heads, this attack does 30 more damage."
+            },
+            {
+                "name": "Power Tackle",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "140",
+                "text": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "65",
+        "artist": "Makura Tami",
+        "rarity": "Common",
+        "flavorText": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
+        "nationalPokedexNumbers": [
+            184
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/65.png",
+            "large": "https://images.pokemontcg.io/sv5/65_hires.png"
+        }
+    },
+    {
+        "id": "sv5-66",
+        "name": "Girafarig",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "90",
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "name": "Psychic Assault",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "20+",
+                "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "66",
+        "artist": "matazo",
+        "rarity": "Common",
+        "flavorText": "Girafarig's tail has a small head. It instinctively bites at any foe that approaches the Pokémon from behind.",
+        "nationalPokedexNumbers": [
+            203
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/66.png",
+            "large": "https://images.pokemontcg.io/sv5/66_hires.png"
+        }
+    },
+    {
+        "id": "sv5-67",
+        "name": "Latias",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "110",
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "name": "Allure",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Draw 2 cards."
+            },
+            {
+                "name": "Lagoon Flight",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "67",
+        "artist": "Takumi Wada",
+        "rarity": "Uncommon",
+        "flavorText": "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.",
+        "nationalPokedexNumbers": [
+            380
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/67.png",
+            "large": "https://images.pokemontcg.io/sv5/67_hires.png"
+        }
+    },
+    {
+        "id": "sv5-68",
+        "name": "Bronzor",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "80",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesTo": [
+            "Bronzong"
+        ],
+        "attacks": [
+            {
+                "name": "Mirror Attack",
+                "cost": [
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10+",
+                "text": "If your opponent's Active Pokémon is a Psychic Pokémon, this attack does 30 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "68",
+        "artist": "Kedamahadaitai Yawarakai",
+        "rarity": "Common",
+        "flavorText": "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
+        "nationalPokedexNumbers": [
+            436
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/68.png",
+            "large": "https://images.pokemontcg.io/sv5/68_hires.png"
+        }
+    },
+    {
+        "id": "sv5-69",
+        "name": "Bronzong",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "110",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Bronzor",
+        "attacks": [
+            {
+                "name": "Evolution Jammer",
+                "cost": [
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": "During your opponent's next turn, they can't play any Pokémon from their hand to evolve their Pokémon."
+            },
+            {
+                "name": "Super Psy Bolt",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "69",
+        "artist": "Katsunori Sato",
+        "rarity": "Uncommon",
+        "flavorText": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
+        "nationalPokedexNumbers": [
+            437
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/69.png",
+            "large": "https://images.pokemontcg.io/sv5/69_hires.png"
+        }
+    },
+    {
+        "id": "sv5-70",
+        "name": "Solosis",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "40",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesTo": [
+            "Duosion"
+        ],
+        "attacks": [
+            {
+                "name": "Surprise Attack",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "70",
+        "artist": "Cona Nitanda",
+        "rarity": "Common",
+        "flavorText": "It communicates with others telepathically. Its body is encapsulated in liquid, but if it takes a heavy blow, the liquid will leak out.",
+        "nationalPokedexNumbers": [
+            577
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/70.png",
+            "large": "https://images.pokemontcg.io/sv5/70_hires.png"
+        }
+    },
+    {
+        "id": "sv5-71",
+        "name": "Duosion",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "80",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Solosis",
+        "evolvesTo": [
+            "Reuniclus"
+        ],
+        "attacks": [
+            {
+                "name": "Double Trick",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30×",
+                "text": "Flip 2 coins. This attack does 30 damage for each heads."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "71",
+        "artist": "mele",
+        "rarity": "Common",
+        "flavorText": "Its psychic power can supposedly cover a range of more than half a mile—but only if its two brains can agree with each other.",
+        "nationalPokedexNumbers": [
+            578
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/71.png",
+            "large": "https://images.pokemontcg.io/sv5/71_hires.png"
+        }
+    },
+    {
+        "id": "sv5-72",
+        "name": "Reuniclus",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": "120",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Duosion",
+        "attacks": [
+            {
+                "name": "Summoning Gate",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Look at the top 8 cards of your deck. You may put any number of Pokémon you find there onto your Bench. Shuffle the other cards back into your deck."
+            },
+            {
+                "name": "Brain Shake",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "100",
+                "text": "Your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "72",
+        "artist": "Gemi",
+        "rarity": "Uncommon",
+        "flavorText": "While it could use its psychic abilities in battle, this Pokémon prefers to swing its powerful arms around to beat opponents into submission.",
+        "nationalPokedexNumbers": [
+            579
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/72.png",
+            "large": "https://images.pokemontcg.io/sv5/72_hires.png"
+        }
+    },
+    {
+        "id": "sv5-73",
+        "name": "Elgyem",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesTo": [
+            "Beheeyem"
+        ],
+        "attacks": [
+            {
+                "name": "Hide",
+                "cost": [
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "73",
+        "artist": "Tomokazu Komiya",
+        "rarity": "Common",
+        "flavorText": "If this Pokémon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.",
+        "nationalPokedexNumbers": [
+            605
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/73.png",
+            "large": "https://images.pokemontcg.io/sv5/73_hires.png"
+        }
+    },
+    {
+        "id": "sv5-74",
+        "name": "Beheeyem",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "100",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Elgyem",
+        "attacks": [
+            {
+                "name": "Cosmic Beatdown",
+                "cost": [
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20×",
+                "text": "This attack does 20 damage for each of your Pokémon in play."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "74",
+        "artist": "Shinya Komatsu",
+        "rarity": "Uncommon",
+        "flavorText": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",
+        "nationalPokedexNumbers": [
+            606
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/74.png",
+            "large": "https://images.pokemontcg.io/sv5/74_hires.png"
+        }
+    },
+    {
+        "id": "sv5-75",
+        "name": "Cutiefly",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "30",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesTo": [
+            "Ribombee"
+        ],
+        "attacks": [
+            {
+                "name": "Mini Drain",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": "Heal 10 damage from this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "75",
+        "artist": "Sekio",
+        "rarity": "Common",
+        "flavorText": "Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur's pollen.",
+        "nationalPokedexNumbers": [
+            742
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/75.png",
+            "large": "https://images.pokemontcg.io/sv5/75_hires.png"
+        }
+    },
+    {
+        "id": "sv5-76",
+        "name": "Ribombee",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "70",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Cutiefly",
+        "attacks": [
+            {
+                "name": "Plentiful Pollen",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": "During your next turn, if the Defending Pokémon is Knocked Out, take 2 more Prize cards."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "76",
+        "artist": "Tika Matsuno",
+        "rarity": "Uncommon",
+        "flavorText": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",
+        "nationalPokedexNumbers": [
+            743
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/76.png",
+            "large": "https://images.pokemontcg.io/sv5/76_hires.png"
+        }
+    },
+    {
+        "id": "sv5-77",
+        "name": "Scream Tail",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Ancient"
+        ],
+        "hp": "90",
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "name": "Supportive Singing",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Heal 100 damage from 1 of your Benched Ancient Pokémon."
+            },
+            {
+                "name": "Hyper Voice",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "77",
+        "artist": "kawayoo",
+        "rarity": "Uncommon",
+        "flavorText": "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.",
+        "nationalPokedexNumbers": [
+            985
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/77.png",
+            "large": "https://images.pokemontcg.io/sv5/77_hires.png"
+        }
+    },
+    {
+        "id": "sv5-78",
+        "name": "Flutter Mane",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Ancient"
+        ],
+        "hp": "90",
+        "types": [
+            "Psychic"
         ],
         "abilities": [
             {
-                "name": "Pressure",
-                "text": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon do 20 less damage (before applying Weakness and Resistance).",
+                "name": "Midnight Fluttering",
+                "text": "As long as this Pokémon is in the Active Spot, your opponent's Active Pokémon has no Abilities, except for Midnight Fluttering.",
                 "type": "Ability"
             }
         ],
         "attacks": [
             {
-                "name": "Blaze Ball",
+                "name": "Hex Hurl",
                 "cost": [
                     "Colorless",
                     "Colorless",
                     "Colorless"
                 ],
                 "convertedEnergyCost": 3,
-                "damage": "60+",
-                "text": "This attack does 20 more damage for each Fire Energy attached to this Pokémon."
+                "damage": "90",
+                "text": "Put 2 damage counters on your opponent's Benched Pokémon in any way you like."
             }
         ],
         "weaknesses": [
             {
-                "type": "Water",
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "78",
+        "artist": "kodama",
+        "rarity": "Rare",
+        "flavorText": "This Pokémon has characteristics similar to those of Flutter Mane, a creature mentioned in a certain book.",
+        "nationalPokedexNumbers": [
+            987
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/78.png",
+            "large": "https://images.pokemontcg.io/sv5/78_hires.png"
+        }
+    },
+    {
+        "id": "sv5-79",
+        "name": "Iron Valiant",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Future"
+        ],
+        "hp": "130",
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "name": "Gemini Laser",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+                "name": "Zen Blade",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "120",
+                "text": "During your next turn, this Pokémon can't use Zen Blade."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
                 "value": "×2"
             }
         ],
@@ -7316,56 +5852,223 @@ let latestSet = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "112",
-        "artist": "Ryuta Fuse",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It is said that when it roars, a volcano erupts somewhere around the globe.",
+        "number": "79",
+        "artist": "takuyoa",
+        "rarity": "Uncommon",
+        "flavorText": "It's possible that this is the object listed as Iron Valiant in a certain expedition journal.",
         "nationalPokedexNumbers": [
-            244
+            1006
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/112.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/112_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/79.png",
+            "large": "https://images.pokemontcg.io/sv5/79_hires.png"
         }
     },
     {
-        "id": "sv4pt5-113",
-        "name": "Oricorio",
+        "id": "sv5-80",
+        "name": "Iron Valiant",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
-            "Basic"
+            "Basic",
+            "Future"
         ],
-        "hp": "90",
+        "hp": "130",
         "types": [
-            "Fire"
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "name": "Calculation",
+                "cost": [
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Look at the top 4 cards of your deck and put them back in any order."
+            },
+            {
+                "name": "Majestic Sword",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100+",
+                "text": "If you played a Future Supporter card from your hand during this turn, this attack does 100 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "80",
+        "artist": "chibi",
+        "rarity": "Rare",
+        "flavorText": "It's possible that this is the object listed as Iron Valiant in a certain expedition journal.",
+        "nationalPokedexNumbers": [
+            1006
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/80.png",
+            "large": "https://images.pokemontcg.io/sv5/80_hires.png"
+        }
+    },
+    {
+        "id": "sv5-81",
+        "name": "Iron Crown ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
+        ],
+        "hp": "220",
+        "types": [
+            "Psychic"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
         ],
         "abilities": [
             {
-                "name": "Ardent Dancing",
-                "text": "Once during your turn, you may heal 20 damage from your Active Evolution Pokémon.",
+                "name": "Cobalt Command",
+                "text": "Attacks used by your Future Pokémon, except any Iron Crown ex, do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
                 "type": "Ability"
             }
         ],
         "attacks": [
             {
-                "name": "Flap",
+                "name": "Twin Shotels",
                 "cost": [
-                    "Fire",
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "",
+                "text": "This attack does 50 damage to 2 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance, or by any effects on those Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "81",
+        "artist": "5ban Graphics",
+        "rarity": "Double Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/81.png",
+            "large": "https://images.pokemontcg.io/sv5/81_hires.png"
+        }
+    },
+    {
+        "id": "sv5-82",
+        "name": "Meditite",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesTo": [
+            "Medicham"
+        ],
+        "attacks": [
+            {
+                "name": "Slap",
+                "cost": [
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "Kick",
+                "cost": [
+                    "Colorless",
                     "Colorless"
                 ],
                 "convertedEnergyCost": 2,
@@ -7375,7 +6078,7 @@ let latestSet = [
         ],
         "weaknesses": [
             {
-                "type": "Water",
+                "type": "Psychic",
                 "value": "×2"
             }
         ],
@@ -7384,50 +6087,2463 @@ let latestSet = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "113",
-        "artist": "Akira Komayama",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon is incredibly popular, possibly because its passionate dancing is a great match with the temperament of Paldean people.",
+        "number": "82",
+        "artist": "Natsumi Miyanose",
+        "rarity": "Common",
+        "flavorText": "It meditates to heighten its inner energy and to float in the air. It eats one berry a day.",
         "nationalPokedexNumbers": [
-            741
+            307
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/113.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/113_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/82.png",
+            "large": "https://images.pokemontcg.io/sv5/82_hires.png"
         }
     },
     {
-        "id": "sv4pt5-114",
-        "name": "Charcadet",
+        "id": "sv5-83",
+        "name": "Medicham",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "120",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Meditite",
+        "attacks": [
+            {
+                "name": "Low Sweep",
+                "cost": [
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "High Jump Kick",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "83",
+        "artist": "Masako Tomii",
+        "rarity": "Common",
+        "flavorText": "It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion.",
+        "nationalPokedexNumbers": [
+            308
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/83.png",
+            "large": "https://images.pokemontcg.io/sv5/83_hires.png"
+        }
+    },
+    {
+        "id": "sv5-84",
+        "name": "Relicanth",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "100",
+        "types": [
+            "Fighting"
+        ],
+        "abilities": [
+            {
+                "name": "Memory Dive",
+                "text": "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Razor Fin",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "84",
+        "artist": "Mina Nakai",
+        "rarity": "Rare",
+        "flavorText": "Rock-hard scales and oil-filled swim bladders allow this Pokémon to survive the intense water pressure of the deep sea.",
+        "nationalPokedexNumbers": [
+            369
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/84.png",
+            "large": "https://images.pokemontcg.io/sv5/84_hires.png"
+        }
+    },
+    {
+        "id": "sv5-85",
+        "name": "Drilbur",
+        "supertype": "Pokémon",
         "subtypes": [
             "Basic"
         ],
         "hp": "70",
         "types": [
-            "Fire"
+            "Fighting"
+        ],
+        "evolvesTo": [
+            "Excadrill"
+        ],
+        "abilities": [
+            {
+                "name": "Dig Dig Dig",
+                "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for up to 3 Basic Fighting Energy cards and discard them. Then, shuffle your deck.",
+                "type": "Ability"
+            }
         ],
         "attacks": [
             {
-                "name": "Heat Blast",
+                "name": "Sand Spray",
                 "cost": [
-                    "Fire",
-                    "Fire",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "85",
+        "artist": "Kariya",
+        "rarity": "Common",
+        "flavorText": "It brings its claws together and whirls around at high speed before rushing toward its prey.",
+        "nationalPokedexNumbers": [
+            529
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/85.png",
+            "large": "https://images.pokemontcg.io/sv5/85_hires.png"
+        }
+    },
+    {
+        "id": "sv5-86",
+        "name": "Excadrill",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "130",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Drilbur",
+        "attacks": [
+            {
+                "name": "Mud Shot",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "Wild Tackle",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "180",
+                "text": "This Pokémon also does 50 damage to itself."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "86",
+        "artist": "Bun Toujo",
+        "rarity": "Uncommon",
+        "flavorText": "It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.",
+        "nationalPokedexNumbers": [
+            530
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/86.png",
+            "large": "https://images.pokemontcg.io/sv5/86_hires.png"
+        }
+    },
+    {
+        "id": "sv5-87",
+        "name": "Golett",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "90",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesTo": [
+            "Golurk"
+        ],
+        "attacks": [
+            {
+                "name": "Iron Defense",
+                "cost": [
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+            },
+            {
+                "name": "Punch",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "40",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "87",
+        "artist": "miki kudo",
+        "rarity": "Common",
+        "flavorText": "They were sculpted from clay in ancient times. No one knows why, but some of them are driven to continually line up boulders.",
+        "nationalPokedexNumbers": [
+            622
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/87.png",
+            "large": "https://images.pokemontcg.io/sv5/87_hires.png"
+        }
+    },
+    {
+        "id": "sv5-88",
+        "name": "Golurk",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "160",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Golett",
+        "attacks": [
+            {
+                "name": "Iron Defense",
+                "cost": [
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+            },
+            {
+                "name": "Fighting Fist",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 4,
+                "damage": "120+",
+                "text": "If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 120 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "88",
+        "artist": "Oku",
+        "rarity": "Uncommon",
+        "flavorText": "Artillery platforms built into the walls of ancient castles served as perches from which Golurk could fire energy beams.",
+        "nationalPokedexNumbers": [
+            623
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/88.png",
+            "large": "https://images.pokemontcg.io/sv5/88_hires.png"
+        }
+    },
+    {
+        "id": "sv5-89",
+        "name": "Rockruff",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesTo": [
+            "Lycanroc"
+        ],
+        "attacks": [
+            {
+                "name": "Paw Shake Punch",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "89",
+        "artist": "sui",
+        "rarity": "Common",
+        "flavorText": "This Pokémon is very friendly when it's young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
+        "nationalPokedexNumbers": [
+            744
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/89.png",
+            "large": "https://images.pokemontcg.io/sv5/89_hires.png"
+        }
+    },
+    {
+        "id": "sv5-90",
+        "name": "Lycanroc",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "120",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Rockruff",
+        "attacks": [
+            {
+                "name": "Turbo Edge",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "50",
+                "text": "Attach up to 2 Basic Fighting Energy cards from your discard pile to your Benched Pokémon in any way you like."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "90",
+        "artist": "Yoshioka",
+        "rarity": "Uncommon",
+        "flavorText": "Lycanroc attacks its prey with its sharp claws and fangs. It loyally obeys the instructions of a Trainer it trusts.",
+        "nationalPokedexNumbers": [
+            745
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/90.png",
+            "large": "https://images.pokemontcg.io/sv5/90_hires.png"
+        }
+    },
+    {
+        "id": "sv5-91",
+        "name": "Mudbray",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "80",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesTo": [
+            "Mudsdale"
+        ],
+        "attacks": [
+            {
+                "name": "Smash Kick",
+                "cost": [
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "Mud-Slap",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "91",
+        "artist": "Narumi Sato",
+        "rarity": "Common",
+        "flavorText": "This Pokémon covers itself in mud that it has regurgitated. The mud won't dry out even if it's exposed to the sun for a long time.",
+        "nationalPokedexNumbers": [
+            749
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/91.png",
+            "large": "https://images.pokemontcg.io/sv5/91_hires.png"
+        }
+    },
+    {
+        "id": "sv5-92",
+        "name": "Mudsdale",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "150",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Mudbray",
+        "attacks": [
+            {
+                "name": "Mud Stock",
+                "cost": [
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Attach a Basic Fighting Energy card from your discard pile to each of your Benched Pokémon."
+            },
+            {
+                "name": "High Horsepower",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "140",
+                "text": "This Pokémon also does 40 damage to itself."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "92",
+        "artist": "Naoyo Kimura",
+        "rarity": "Uncommon",
+        "flavorText": "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.",
+        "nationalPokedexNumbers": [
+            750
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/92.png",
+            "large": "https://images.pokemontcg.io/sv5/92_hires.png"
+        }
+    },
+    {
+        "id": "sv5-93",
+        "name": "Rolycoly",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "80",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesTo": [
+            "Carkol"
+        ],
+        "attacks": [
+            {
+                "name": "Rolling Tackle",
+                "cost": [
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "Power Gem",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "93",
+        "artist": "Aya Kusube",
+        "rarity": "Common",
+        "flavorText": "On sunny days, Rolycoly will come out onto grassy plains and roll around. Then it will eat the grass that gets tangled in its wheel-like leg.",
+        "nationalPokedexNumbers": [
+            837
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/93.png",
+            "large": "https://images.pokemontcg.io/sv5/93_hires.png"
+        }
+    },
+    {
+        "id": "sv5-94",
+        "name": "Carkol",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "110",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Rolycoly",
+        "evolvesTo": [
+            "Coalossal"
+        ],
+        "attacks": [
+            {
+                "name": "Knock Away",
+                "cost": [
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20+",
+                "text": "Flip a coin. If heads, this attack does 40 more damage."
+            },
+            {
+                "name": "Boulder Crush",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 4,
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "94",
+        "artist": "Anesaki Dynamic",
+        "rarity": "Common",
+        "flavorText": "The temperature inside its body increases when it experiences strong emotions. It rolls around frantically while spewing flames.",
+        "nationalPokedexNumbers": [
+            838
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/94.png",
+            "large": "https://images.pokemontcg.io/sv5/94_hires.png"
+        }
+    },
+    {
+        "id": "sv5-95",
+        "name": "Coalossal",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": "180",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Carkol",
+        "attacks": [
+            {
+                "name": "Gatling Tar",
+                "cost": [
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "40+",
+                "text": "This attack does 80 more damage for each Fire Energy attached to this Pokémon."
+            },
+            {
+                "name": "Cragalanche",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 4,
+                "damage": "150",
+                "text": "Discard the top 2 cards of your opponent's deck."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "95",
+        "artist": "Shiburingaru",
+        "rarity": "Uncommon",
+        "flavorText": "To intimidate its opponents, Coalossal will vigorously shake its body, scattering coal from its smoldering back.",
+        "nationalPokedexNumbers": [
+            839
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/95.png",
+            "large": "https://images.pokemontcg.io/sv5/95_hires.png"
+        }
+    },
+    {
+        "id": "sv5-96",
+        "name": "Great Tusk",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Ancient"
+        ],
+        "hp": "140",
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "name": "Lunge Out",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "Wrathful Charge",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "80+",
+                "text": "If your Benched Pokémon have any damage counters on them, this attack does 80 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "96",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "Uncommon",
+        "flavorText": "Sightings of this Pokémon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book.",
+        "nationalPokedexNumbers": [
+            984
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/96.png",
+            "large": "https://images.pokemontcg.io/sv5/96_hires.png"
+        }
+    },
+    {
+        "id": "sv5-97",
+        "name": "Great Tusk",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Ancient"
+        ],
+        "hp": "140",
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "name": "Land Collapse",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "",
+                "text": "Discard the top card of your opponent's deck. If you played an Ancient Supporter card from your hand during this turn, discard 3 more cards in this way."
+            },
+            {
+                "name": "Giant Tusk",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 4,
+                "damage": "160",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "97",
+        "artist": "GIDORA",
+        "rarity": "Uncommon",
+        "flavorText": "Sightings of this Pokémon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book.",
+        "nationalPokedexNumbers": [
+            984
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/97.png",
+            "large": "https://images.pokemontcg.io/sv5/97_hires.png"
+        }
+    },
+    {
+        "id": "sv5-98",
+        "name": "Sandy Shocks",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Ancient"
+        ],
+        "hp": "120",
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "name": "Magnetic Burst",
+                "cost": [
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20+",
+                "text": "If you have 3 or more Energy in play, this attack does 70 more damage. This attack's damage isn't affected by Weakness."
+            },
+            {
+                "name": "Power Gem",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "98",
+        "artist": "DOM",
+        "rarity": "Uncommon",
+        "flavorText": "No records exist of this Pokémon being caught. Data is lacking, but the Pokémon's traits match up with a creature shown in an expedition journal.",
+        "nationalPokedexNumbers": [
+            989
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/98.png",
+            "large": "https://images.pokemontcg.io/sv5/98_hires.png"
+        }
+    },
+    {
+        "id": "sv5-99",
+        "name": "Iron Boulder ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
+        ],
+        "hp": "240",
+        "types": [
+            "Fighting"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Repulsor Axe",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if it is Knocked Out), put 8 damage counters on the Attacking Pokémon."
+            },
+            {
+                "name": "Power Stomp",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "200",
+                "text": "Discard 2 Energy from this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "99",
+        "artist": "5ban Graphics",
+        "rarity": "Double Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/99.png",
+            "large": "https://images.pokemontcg.io/sv5/99_hires.png"
+        }
+    },
+    {
+        "id": "sv5-100",
+        "name": "Ekans",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesTo": [
+            "Arbok"
+        ],
+        "attacks": [
+            {
+                "name": "Poison Blend",
+                "cost": [
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused and Poisoned."
+            },
+            {
+                "name": "Bite",
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "100",
+        "artist": "Shimaris Yukichi",
+        "rarity": "Common",
+        "flavorText": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+        "nationalPokedexNumbers": [
+            23
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/100.png",
+            "large": "https://images.pokemontcg.io/sv5/100_hires.png"
+        }
+    },
+    {
+        "id": "sv5-101",
+        "name": "Arbok",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "130",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Ekans",
+        "attacks": [
+            {
+                "name": "Panic Poison",
+                "cost": [
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Your opponent's Active Pokémon is now Burned, Confused, and Poisoned."
+            },
+            {
+                "name": "Darkness Fang",
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "101",
+        "artist": "Minato",
+        "rarity": "Common",
+        "flavorText": "The pattern on its belly appears to be a frightening face. Weak foes will flee just at the sight of the pattern.",
+        "nationalPokedexNumbers": [
+            24
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/101.png",
+            "large": "https://images.pokemontcg.io/sv5/101_hires.png"
+        }
+    },
+    {
+        "id": "sv5-102",
+        "name": "Gastly",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesTo": [
+            "Haunter"
+        ],
+        "attacks": [
+            {
+                "name": "Mysterious Beam",
+                "cost": [
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+            },
+            {
+                "name": "Suffocating Gas",
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "102",
+        "artist": "Fujimoto Gold",
+        "rarity": "Common",
+        "flavorText": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+        "nationalPokedexNumbers": [
+            92
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/102.png",
+            "large": "https://images.pokemontcg.io/sv5/102_hires.png"
+        }
+    },
+    {
+        "id": "sv5-103",
+        "name": "Haunter",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "90",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Gastly",
+        "evolvesTo": [
+            "Gengar"
+        ],
+        "attacks": [
+            {
+                "name": "Super Poison Breath",
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "103",
+        "artist": "MAHOU",
+        "rarity": "Common",
+        "flavorText": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+        "nationalPokedexNumbers": [
+            93
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/103.png",
+            "large": "https://images.pokemontcg.io/sv5/103_hires.png"
+        }
+    },
+    {
+        "id": "sv5-104",
+        "name": "Gengar ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "hp": "310",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Haunter",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Gnawing Curse",
+                "text": "Whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Tricky Steps",
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "160",
+                "text": "You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "104",
+        "artist": "Nisota Niso",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            94
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/104.png",
+            "large": "https://images.pokemontcg.io/sv5/104_hires.png"
+        }
+    },
+    {
+        "id": "sv5-105",
+        "name": "Poochyena",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesTo": [
+            "Mightyena"
+        ],
+        "attacks": [
+            {
+                "name": "Gnaw Off",
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30+",
+                "text": "Flip a coin. If heads, this attack does 20 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "105",
+        "artist": "Miki Tanaka",
+        "rarity": "Common",
+        "flavorText": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+        "nationalPokedexNumbers": [
+            261
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/105.png",
+            "large": "https://images.pokemontcg.io/sv5/105_hires.png"
+        }
+    },
+    {
+        "id": "sv5-106",
+        "name": "Mightyena",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "120",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Poochyena",
+        "attacks": [
+            {
+                "name": "Kick Away",
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "50",
+                "text": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+            },
+            {
+                "name": "Sharp Fang",
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "106",
+        "artist": "akagi",
+        "rarity": "Common",
+        "flavorText": "It will always obey the commands of a skilled Trainer. Its behavior arises from its living in packs in ancient times.",
+        "nationalPokedexNumbers": [
+            262
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/106.png",
+            "large": "https://images.pokemontcg.io/sv5/106_hires.png"
+        }
+    },
+    {
+        "id": "sv5-107",
+        "name": "Sableye",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Darkness"
+        ],
+        "attacks": [
+            {
+                "name": "Claw Slash",
+                "cost": [
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "Damage Collection",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "",
+                "text": "You may move any number of damage counters from your opponent's Benched Pokémon to their Active Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "107",
+        "artist": "0313",
+        "rarity": "Uncommon",
+        "flavorText": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
+        "nationalPokedexNumbers": [
+            302
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/107.png",
+            "large": "https://images.pokemontcg.io/sv5/107_hires.png"
+        }
+    },
+    {
+        "id": "sv5-108",
+        "name": "Farigiraf ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "Tera",
+            "ex"
+        ],
+        "hp": "260",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Girafarig",
+        "rules": [
+            "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+            "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's)."
+        ],
+        "abilities": [
+            {
+                "name": "Armor Tail",
+                "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Basic Pokémon ex.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Dirty Beam",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "160",
+                "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "108",
+        "artist": "5ban Graphics",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            981
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/108.png",
+            "large": "https://images.pokemontcg.io/sv5/108_hires.png"
+        }
+    },
+    {
+        "id": "sv5-109",
+        "name": "Roaring Moon",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Ancient"
+        ],
+        "hp": "140",
+        "types": [
+            "Darkness"
+        ],
+        "attacks": [
+            {
+                "name": "Vengeance Fletching",
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70+",
+                "text": "This attack does 10 more damage for each Ancient card in your discard pile."
+            },
+            {
+                "name": "Speed Wing",
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 4,
+                "damage": "120",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "109",
+        "artist": "hncl",
+        "rarity": "Rare",
+        "flavorText": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
+        "nationalPokedexNumbers": [
+            1005
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/109.png",
+            "large": "https://images.pokemontcg.io/sv5/109_hires.png"
+        }
+    },
+    {
+        "id": "sv5-110",
+        "name": "Forretress",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "130",
+        "types": [
+            "Metal"
+        ],
+        "evolvesFrom": "Pineco",
+        "attacks": [
+            {
+                "name": "Spike Cannon",
+                "cost": [
+                    "Metal"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30×",
+                "text": "Flip 3 coins. This attack does 30 damage for each heads."
+            },
+            {
+                "name": "Steel Tackle",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "130",
+                "text": "This Pokémon also does 40 damage to itself."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "110",
+        "artist": "osare",
+        "rarity": "Uncommon",
+        "flavorText": "Its entire body is shielded by a steel-hard shell. What lurks inside this shell is a total mystery.",
+        "nationalPokedexNumbers": [
+            205
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/110.png",
+            "large": "https://images.pokemontcg.io/sv5/110_hires.png"
+        }
+    },
+    {
+        "id": "sv5-111",
+        "name": "Scizor ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "ex"
+        ],
+        "hp": "270",
+        "types": [
+            "Metal"
+        ],
+        "evolvesFrom": "Scyther",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Steel Wing",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70",
+                "text": "During your opponent's next turn, this Pokémon takes 50 less damage from attacks (after applying Weakness and Resistance)."
+            },
+            {
+                "name": "Cross Breaker",
+                "cost": [
+                    "Metal",
+                    "Metal"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "120×",
+                "text": "Discard up to 2 Metal Energy from this Pokémon. This attack does 120 damage for each card you discarded in this way."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "111",
+        "artist": "toriyufu",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            212
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/111.png",
+            "large": "https://images.pokemontcg.io/sv5/111_hires.png"
+        }
+    },
+    {
+        "id": "sv5-112",
+        "name": "Mawile",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "90",
+        "types": [
+            "Metal"
+        ],
+        "attacks": [
+            {
+                "name": "Invite and Strike",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "",
+                "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. This attack does 30 damage to the new Active Pokémon."
+            },
+            {
+                "name": "Sharp Fang",
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "112",
+        "artist": "aspara",
+        "rarity": "Common",
+        "flavorText": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+        "nationalPokedexNumbers": [
+            303
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/112.png",
+            "large": "https://images.pokemontcg.io/sv5/112_hires.png"
+        }
+    },
+    {
+        "id": "sv5-113",
+        "name": "Beldum",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Metal"
+        ],
+        "evolvesTo": [
+            "Metang"
+        ],
+        "attacks": [
+            {
+                "name": "Dig Claws",
+                "cost": [
+                    "Metal"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "Iron Tackle",
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "50",
+                "text": "This Pokémon also does 10 damage to itself."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "113",
+        "artist": "hatachu",
+        "rarity": "Common",
+        "flavorText": "From its rear, Beldum emits a magnetic force that rapidly pulls opponents in. They get skewered on Beldum's sharp claws.",
+        "nationalPokedexNumbers": [
+            374
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/113.png",
+            "large": "https://images.pokemontcg.io/sv5/113_hires.png"
+        }
+    },
+    {
+        "id": "sv5-114",
+        "name": "Metang",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "100",
+        "types": [
+            "Metal"
+        ],
+        "evolvesFrom": "Beldum",
+        "evolvesTo": [
+            "Metagross"
+        ],
+        "abilities": [
+            {
+                "name": "Metal Maker",
+                "text": "Once during your turn, you may look at the top 4 cards of your deck and attach any number of Basic Metal Energy cards you find there to your Pokémon in any way you like. Shuffle the other cards and put them on the bottom of your deck.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Beam",
+                "cost": [
+                    "Metal",
+                    "Colorless",
                     "Colorless"
                 ],
                 "convertedEnergyCost": 3,
@@ -7437,7 +8553,1237 @@ let latestSet = [
         ],
         "weaknesses": [
             {
-                "type": "Water",
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "114",
+        "artist": "Nobuhiro Imagawa",
+        "rarity": "Common",
+        "flavorText": "Two Beldum have become stuck together via their own magnetic forces. With two brains, the resulting Metang has doubled psychic powers.",
+        "nationalPokedexNumbers": [
+            375
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/114.png",
+            "large": "https://images.pokemontcg.io/sv5/114_hires.png"
+        }
+    },
+    {
+        "id": "sv5-115",
+        "name": "Metagross",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": "180",
+        "types": [
+            "Metal"
+        ],
+        "evolvesFrom": "Metang",
+        "attacks": [
+            {
+                "name": "Meteor Mash",
+                "cost": [
+                    "Metal"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "60",
+                "text": "During your next turn, this Pokémon's Meteor Mash attack does 60 more damage (before applying Weakness and Resistance)."
+            },
+            {
+                "name": "Luster Blast",
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 4,
+                "damage": "200",
+                "text": "Discard 2 Energy from this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "115",
+        "artist": "Nurikabe",
+        "rarity": "Uncommon",
+        "flavorText": "Because the magnetic powers of these Pokémon get stronger in freezing temperatures, Metagross living on snowy mountains are full of energy.",
+        "nationalPokedexNumbers": [
+            376
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/115.png",
+            "large": "https://images.pokemontcg.io/sv5/115_hires.png"
+        }
+    },
+    {
+        "id": "sv5-116",
+        "name": "Meltan",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "80",
+        "types": [
+            "Metal"
+        ],
+        "evolvesTo": [
+            "Melmetal"
+        ],
+        "attacks": [
+            {
+                "name": "Headbutt",
+                "cost": [
+                    "Metal",
+                    "Metal"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "116",
+        "artist": "Taiga Kayama",
+        "rarity": "Common",
+        "flavorText": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+        "nationalPokedexNumbers": [
+            808
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/116.png",
+            "large": "https://images.pokemontcg.io/sv5/116_hires.png"
+        }
+    },
+    {
+        "id": "sv5-117",
+        "name": "Melmetal",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "160",
+        "types": [
+            "Metal"
+        ],
+        "evolvesFrom": "Meltan",
+        "attacks": [
+            {
+                "name": "Hammer In",
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "120",
+                "text": ""
+            },
+            {
+                "name": "Iron Bash",
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 5,
+                "damage": "230",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "117",
+        "artist": "Oswaldo KATO",
+        "rarity": "Rare",
+        "flavorText": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
+        "nationalPokedexNumbers": [
+            809
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/117.png",
+            "large": "https://images.pokemontcg.io/sv5/117_hires.png"
+        }
+    },
+    {
+        "id": "sv5-118",
+        "name": "Iron Treads",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Future"
+        ],
+        "hp": "130",
+        "types": [
+            "Metal"
+        ],
+        "abilities": [
+            {
+                "name": "Dual Core",
+                "text": "As long as this Pokémon has a Future Booster Energy Capsule attached, it is Fighting and Metal type.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Wheel Pass",
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "118",
+        "artist": "Tonji Matsuno",
+        "rarity": "Uncommon",
+        "flavorText": "Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal.",
+        "nationalPokedexNumbers": [
+            990
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/118.png",
+            "large": "https://images.pokemontcg.io/sv5/118_hires.png"
+        }
+    },
+    {
+        "id": "sv5-119",
+        "name": "Koraidon",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Ancient"
+        ],
+        "hp": "140",
+        "types": [
+            "Dragon"
+        ],
+        "attacks": [
+            {
+                "name": "Primordial Beatdown",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30×",
+                "text": "This attack does 30 damage for each of your Ancient Pokémon in play."
+            },
+            {
+                "name": "Shred",
+                "cost": [
+                    "Fire",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "130",
+                "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "119",
+        "artist": "Teeziro",
+        "rarity": "Rare",
+        "flavorText": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
+        "nationalPokedexNumbers": [
+            1007
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/119.png",
+            "large": "https://images.pokemontcg.io/sv5/119_hires.png"
+        }
+    },
+    {
+        "id": "sv5-120",
+        "name": "Koraidon ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Ancient"
+        ],
+        "hp": "230",
+        "types": [
+            "Dragon"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Retribution Strike",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "20+",
+                "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+            },
+            {
+                "name": "Kaiser Tackle",
+                "cost": [
+                    "Fire",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "280",
+                "text": "This Pokémon also does 60 damage to itself."
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "120",
+        "artist": "PLANETA Igarashi",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            1007
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/120.png",
+            "large": "https://images.pokemontcg.io/sv5/120_hires.png"
+        }
+    },
+    {
+        "id": "sv5-121",
+        "name": "Miraidon",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Future"
+        ],
+        "hp": "110",
+        "types": [
+            "Dragon"
+        ],
+        "attacks": [
+            {
+                "name": "Peak Acceleration",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "40",
+                "text": "Search your deck for up to 2 Basic Energy cards and attach them to your Future Pokémon in any way you like. Then, shuffle your deck."
+            },
+            {
+                "name": "Sparking Strike",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "160",
+                "text": ""
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "121",
+        "artist": "GOSSAN",
+        "rarity": "Rare",
+        "flavorText": "This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.",
+        "nationalPokedexNumbers": [
+            1008
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/121.png",
+            "large": "https://images.pokemontcg.io/sv5/121_hires.png"
+        }
+    },
+    {
+        "id": "sv5-122",
+        "name": "Miraidon ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
+        ],
+        "hp": "220",
+        "types": [
+            "Dragon"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Repulsion Bolt",
+                "cost": [
+                    "Lightning",
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60+",
+                "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 100 more damage."
+            },
+            {
+                "name": "Cyber Drive",
+                "cost": [
+                    "Lightning",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "220",
+                "text": "During your next turn, this Pokémon can't use Cyber Drive."
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "122",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            1008
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/122.png",
+            "large": "https://images.pokemontcg.io/sv5/122_hires.png"
+        }
+    },
+    {
+        "id": "sv5-123",
+        "name": "Raging Bolt ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Ancient"
+        ],
+        "hp": "240",
+        "types": [
+            "Dragon"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Burst Roar",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Discard your hand and draw 6 cards."
+            },
+            {
+                "name": "Bellowing Thunder",
+                "cost": [
+                    "Lightning",
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70×",
+                "text": "You may discard any amount of Basic Energy from your Pokémon. This attack does 70 damage for each card you discarded in this way."
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "123",
+        "artist": "aky CG Works",
+        "rarity": "Double Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/123.png",
+            "large": "https://images.pokemontcg.io/sv5/123_hires.png"
+        }
+    },
+    {
+        "id": "sv5-124",
+        "name": "Lickitung",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "100",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesTo": [
+            "Lickilicky"
+        ],
+        "attacks": [
+            {
+                "name": "Tongue Pull",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Your opponent reveals their hand. Put up to 2 Basic Pokémon you find there onto your opponent's Bench."
+            },
+            {
+                "name": "Strength",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "124",
+        "artist": "nisimono",
+        "rarity": "Common",
+        "flavorText": "If this Pokémon's sticky saliva gets on you and you don't clean it off, an intense itch will set in. The itch won't go away, either.",
+        "nationalPokedexNumbers": [
+            108
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/124.png",
+            "large": "https://images.pokemontcg.io/sv5/124_hires.png"
+        }
+    },
+    {
+        "id": "sv5-125",
+        "name": "Lickilicky",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "150",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Lickitung",
+        "attacks": [
+            {
+                "name": "Body Slam",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "50",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            },
+            {
+                "name": "Tonguenado",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 4,
+                "damage": "70×",
+                "text": "Flip 4 coins. This attack does 70 damage for each heads."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "125",
+        "artist": "kirisAki",
+        "rarity": "Common",
+        "flavorText": "Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.",
+        "nationalPokedexNumbers": [
+            463
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/125.png",
+            "large": "https://images.pokemontcg.io/sv5/125_hires.png"
+        }
+    },
+    {
+        "id": "sv5-126",
+        "name": "Hoothoot",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesTo": [
+            "Noctowl"
+        ],
+        "attacks": [
+            {
+                "name": "Silent Wing",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "20",
+                "text": "Your opponent reveals their hand."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "126",
+        "artist": "ryoma uratsuka",
+        "rarity": "Common",
+        "flavorText": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+        "nationalPokedexNumbers": [
+            163
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/126.png",
+            "large": "https://images.pokemontcg.io/sv5/126_hires.png"
+        }
+    },
+    {
+        "id": "sv5-127",
+        "name": "Noctowl",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "110",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Hoothoot",
+        "attacks": [
+            {
+                "name": "Talon Hunt",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70",
+                "text": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "127",
+        "artist": "toi8",
+        "rarity": "Common",
+        "flavorText": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+        "nationalPokedexNumbers": [
+            164
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/127.png",
+            "large": "https://images.pokemontcg.io/sv5/127_hires.png"
+        }
+    },
+    {
+        "id": "sv5-128",
+        "name": "Dunsparce",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "name": "Gnaw",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "Dig",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "128",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "Common",
+        "flavorText": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.",
+        "nationalPokedexNumbers": [
+            206
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/128.png",
+            "large": "https://images.pokemontcg.io/sv5/128_hires.png"
+        }
+    },
+    {
+        "id": "sv5-129",
+        "name": "Dudunsparce",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "140",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Dunsparce",
+        "abilities": [
+            {
+                "name": "Run Away Draw",
+                "text": "Once during your turn, you may draw 3 cards. If you drew any cards in this way, shuffle this Pokémon and all attached cards into your deck.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Land Crush",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "90",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "129",
+        "artist": "Teeziro",
+        "rarity": "Rare",
+        "flavorText": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
+        "nationalPokedexNumbers": [
+            982
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/129.png",
+            "large": "https://images.pokemontcg.io/sv5/129_hires.png"
+        }
+    },
+    {
+        "id": "sv5-130",
+        "name": "Skitty",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesTo": [
+            "Delcatty"
+        ],
+        "attacks": [
+            {
+                "name": "Call for Family",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+            },
+            {
+                "name": "Tackle",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
                 "value": "×2"
             }
         ],
@@ -7446,62 +9792,3518 @@ let latestSet = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "114",
-        "artist": "Masakazu Fukuda",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
+        "number": "130",
+        "artist": "Atsuko Nishida",
+        "rarity": "Common",
+        "flavorText": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
         "nationalPokedexNumbers": [
-            935
+            300
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/114.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/114_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/130.png",
+            "large": "https://images.pokemontcg.io/sv5/130_hires.png"
         }
     },
     {
-        "id": "sv4pt5-115",
-        "name": "Armarouge",
+        "id": "sv5-131",
+        "name": "Delcatty",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
-        "hp": "130",
+        "hp": "110",
         "types": [
-            "Fire"
+            "Colorless"
         ],
-        "evolvesFrom": "Charcadet",
+        "evolvesFrom": "Skitty",
+        "attacks": [
+            {
+                "name": "Tail Trickery",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": "Your opponent's Active Pokémon is now Confused."
+            },
+            {
+                "name": "Energy Blender",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "110",
+                "text": "You may move any amount of Energy from your Pokémon to your other Pokémon in any way you like."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "131",
+        "artist": "Keisin",
+        "rarity": "Uncommon",
+        "flavorText": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",
+        "nationalPokedexNumbers": [
+            301
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/131.png",
+            "large": "https://images.pokemontcg.io/sv5/131_hires.png"
+        }
+    },
+    {
+        "id": "sv5-132",
+        "name": "Chatot",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "name": "A Cappella",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+            },
+            {
+                "name": "Gust",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "132",
+        "artist": "GOTO minori",
+        "rarity": "Common",
+        "flavorText": "It mimics the cries of other Pokémon to trick them into thinking it's one of them. This way they won't attack it.",
+        "nationalPokedexNumbers": [
+            441
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/132.png",
+            "large": "https://images.pokemontcg.io/sv5/132_hires.png"
+        }
+    },
+    {
+        "id": "sv5-133",
+        "name": "Pidove",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "50",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesTo": [
+            "Tranquill"
+        ],
         "abilities": [
             {
-                "name": "Fire Off",
-                "text": "As often as you like during your turn, you may move a Fire Energy from 1 of your Benched Pokémon to your Active Pokémon.",
+                "name": "Emergency Evolution",
+                "text": "Once during your turn, if this Pokémon's remaining HP is 30 or less, you may search your deck for an Unfezant or Unfezant ex and put it onto this Pidove to evolve it. Then, shuffle your deck.",
                 "type": "Ability"
             }
         ],
         "attacks": [
             {
-                "name": "Flame Cannon",
+                "name": "Gust",
                 "cost": [
-                    "Fire",
-                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "133",
+        "artist": "Mékayu",
+        "rarity": "Common",
+        "flavorText": "Where people go, these Pokémon follow. If you're scattering food for them, be careful— several hundred of them can gather at once.",
+        "nationalPokedexNumbers": [
+            519
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/133.png",
+            "large": "https://images.pokemontcg.io/sv5/133_hires.png"
+        }
+    },
+    {
+        "id": "sv5-134",
+        "name": "Tranquill",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "80",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Pidove",
+        "evolvesTo": [
+            "Unfezant"
+        ],
+        "attacks": [
+            {
+                "name": "Speed Dive",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "Jet Wing",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70",
+                "text": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "134",
+        "artist": "Pani Kobayashi",
+        "rarity": "Common",
+        "flavorText": "It can fly moderately quickly. No matter how far it travels, it can always find its way back to its master and its nest.",
+        "nationalPokedexNumbers": [
+            520
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/134.png",
+            "large": "https://images.pokemontcg.io/sv5/134_hires.png"
+        }
+    },
+    {
+        "id": "sv5-135",
+        "name": "Unfezant",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": "150",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Tranquill",
+        "attacks": [
+            {
+                "name": "Opposing Winds",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70",
+                "text": "You may put 2 Energy attached to your opponent's Active Pokémon into their hand."
+            },
+            {
+                "name": "Boundless Power",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
                     "Colorless"
                 ],
                 "convertedEnergyCost": 3,
-                "damage": "90",
+                "damage": "180",
+                "text": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "135",
+        "artist": "Anesaki Dynamic",
+        "rarity": "Uncommon",
+        "flavorText": "Unfezant are exceptional fliers. The females are known for their stamina, while the males outclass them in terms of speed.",
+        "nationalPokedexNumbers": [
+            521
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/135.png",
+            "large": "https://images.pokemontcg.io/sv5/135_hires.png"
+        }
+    },
+    {
+        "id": "sv5-136",
+        "name": "Minccino",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesTo": [
+            "Cinccino"
+        ],
+        "attacks": [
+            {
+                "name": "Beat",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "Cleaning Up",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "",
+                "text": "Discard up to 2 Pokémon Tools from your opponent's Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "136",
+        "artist": "Yuka Morii",
+        "rarity": "Common",
+        "flavorText": "The way it brushes away grime with its tail can be helpful when cleaning. But its focus on spotlessness can make cleaning more of a hassle.",
+        "nationalPokedexNumbers": [
+            572
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/136.png",
+            "large": "https://images.pokemontcg.io/sv5/136_hires.png"
+        }
+    },
+    {
+        "id": "sv5-137",
+        "name": "Cinccino",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "110",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Minccino",
+        "attacks": [
+            {
+                "name": "Gentle Slap",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "Special Roll",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70×",
+                "text": "This attack does 70 damage for each Special Energy card attached to this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "137",
+        "artist": "Yuu Nishida",
+        "rarity": "Uncommon",
+        "flavorText": "Its body secretes oil that this Pokémon spreads over its nest as a coating to protect it from dust. Cinccino won't tolerate even a speck of the stuff.",
+        "nationalPokedexNumbers": [
+            573
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/137.png",
+            "large": "https://images.pokemontcg.io/sv5/137_hires.png"
+        }
+    },
+    {
+        "id": "sv5-138",
+        "name": "Drampa",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "120",
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "name": "Gentle Slap",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "Raging Cannon",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100+",
+                "text": "If all of your Benched Pokémon have at least 1 damage counter on them, this attack does 120 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "138",
+        "artist": "Toshinao Aoki",
+        "rarity": "Rare",
+        "flavorText": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
+        "nationalPokedexNumbers": [
+            780
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/138.png",
+            "large": "https://images.pokemontcg.io/sv5/138_hires.png"
+        }
+    },
+    {
+        "id": "sv5-139",
+        "name": "Iron Jugulis",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Future"
+        ],
+        "hp": "130",
+        "types": [
+            "Colorless"
+        ],
+        "abilities": [
+            {
+                "name": "Automated Combat",
+                "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Blasting Wind",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "139",
+        "artist": "KEIICHIRO ITO",
+        "rarity": "Uncommon",
+        "flavorText": "It's possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon.",
+        "nationalPokedexNumbers": [
+            993
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/139.png",
+            "large": "https://images.pokemontcg.io/sv5/139_hires.png"
+        }
+    },
+    {
+        "id": "sv5-140",
+        "name": "Ancient Booster Energy Capsule",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Pokémon Tool",
+            "Ancient"
+        ],
+        "rules": [
+            "The Ancient Pokémon this card is attached to gets +60 HP, recovers from all Special Conditions, and can't be affected by any Special Conditions.",
+            "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "140",
+        "artist": "5ban Graphics",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/140.png",
+            "large": "https://images.pokemontcg.io/sv5/140_hires.png"
+        }
+    },
+    {
+        "id": "sv5-141",
+        "name": "Awakening Drum",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item",
+            "Ancient",
+            "ACE SPEC"
+        ],
+        "rules": [
+            "Draw a card for each of your Ancient Pokémon in play.",
+            "You may play any number of Item cards during your turn.",
+            "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "141",
+        "artist": "Toyste Beach",
+        "rarity": "ACE SPEC Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/141.png",
+            "large": "https://images.pokemontcg.io/sv5/141_hires.png"
+        }
+    },
+    {
+        "id": "sv5-142",
+        "name": "Bianca's Devotion",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Heal all damage from 1 of your Pokémon that has 30 HP or less remaining.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "142",
+        "artist": "En Morikura",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/142.png",
+            "large": "https://images.pokemontcg.io/sv5/142_hires.png"
+        }
+    },
+    {
+        "id": "sv5-143",
+        "name": "Boxed Order",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "rules": [
+            "Search your deck for up to 2 Item cards, reveal them, and put them into your hand. Then, shuffle your deck. Your turn ends.",
+            "You may play any number of Item cards during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "143",
+        "artist": "Studio Bora Inc.",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/143.png",
+            "large": "https://images.pokemontcg.io/sv5/143_hires.png"
+        }
+    },
+    {
+        "id": "sv5-144",
+        "name": "Buddy-Buddy Poffin",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "rules": [
+            "Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto your Bench. Then, shuffle your deck.",
+            "You may play any number of Item cards during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "144",
+        "artist": "AYUMI ODASHIMA",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/144.png",
+            "large": "https://images.pokemontcg.io/sv5/144_hires.png"
+        }
+    },
+    {
+        "id": "sv5-145",
+        "name": "Ciphermaniac's Codebreaking",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter",
+            "Future"
+        ],
+        "rules": [
+            "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "145",
+        "artist": "Taira Akitsu",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/145.png",
+            "large": "https://images.pokemontcg.io/sv5/145_hires.png"
+        }
+    },
+    {
+        "id": "sv5-146",
+        "name": "Eri",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Your opponent reveals their hand, and you discard up to 2 Item cards you find there.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "146",
+        "artist": "GOSSAN",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/146.png",
+            "large": "https://images.pokemontcg.io/sv5/146_hires.png"
+        }
+    },
+    {
+        "id": "sv5-147",
+        "name": "Explorer's Guidance",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter",
+            "Ancient"
+        ],
+        "rules": [
+            "Look at the top 6 cards of your deck and put 2 of them into your hand. Discard the other cards.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "147",
+        "artist": "Hideki Ishikawa",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/147.png",
+            "large": "https://images.pokemontcg.io/sv5/147_hires.png"
+        }
+    },
+    {
+        "id": "sv5-148",
+        "name": "Full Metal Lab",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "rules": [
+            "Metal Pokémon (both yours and your opponent's) take 30 less damage from attacks from the opponent's Pokémon (after applying Weakness and Resistance).",
+            "You may play only 1 Stadium card during your turn. Put it into the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "148",
+        "artist": "AYUMI ODASHIMA",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/148.png",
+            "large": "https://images.pokemontcg.io/sv5/148_hires.png"
+        }
+    },
+    {
+        "id": "sv5-149",
+        "name": "Future Booster Energy Capsule",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Pokémon Tool",
+            "Future"
+        ],
+        "rules": [
+            "The Future Pokémon this card is attached to has no Retreat Cost, and the attacks it uses do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+            "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "149",
+        "artist": "5ban Graphics",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/149.png",
+            "large": "https://images.pokemontcg.io/sv5/149_hires.png"
+        }
+    },
+    {
+        "id": "sv5-150",
+        "name": "Hand Trimmer",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "rules": [
+            "Each player discards cards from their hand until they have 5 cards in their hand. Your opponent discards first. (If a player has 5 or fewer cards in their hand, they do not discard.)",
+            "You may play any number of Item cards during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "150",
+        "artist": "Ayaka Yoshida",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/150.png",
+            "large": "https://images.pokemontcg.io/sv5/150_hires.png"
+        }
+    },
+    {
+        "id": "sv5-151",
+        "name": "Heavy Baton",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Pokémon Tool"
+        ],
+        "rules": [
+            "If the Pokémon this card is attached to has a Retreat Cost of exactly 4, is in the Active Spot, and is Knocked Out by damage from an attack from your opponent's Pokémon, move up to 3 Basic Energy cards from that Pokémon to your Benched Pokémon in any way you like.",
+            "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "151",
+        "artist": "Ayaka Yoshida",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/151.png",
+            "large": "https://images.pokemontcg.io/sv5/151_hires.png"
+        }
+    },
+    {
+        "id": "sv5-152",
+        "name": "Hero's Cape",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Pokémon Tool",
+            "ACE SPEC"
+        ],
+        "rules": [
+            "The Pokémon this card is attached to gets +100 HP.",
+            "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+            "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "152",
+        "artist": "Toyste Beach",
+        "rarity": "ACE SPEC Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/152.png",
+            "large": "https://images.pokemontcg.io/sv5/152_hires.png"
+        }
+    },
+    {
+        "id": "sv5-153",
+        "name": "Master Ball",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item",
+            "ACE SPEC"
+        ],
+        "rules": [
+            "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+            "You may play any number of Item cards during your turn.",
+            "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "153",
+        "artist": "Studio Bora Inc.",
+        "rarity": "ACE SPEC Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/153.png",
+            "large": "https://images.pokemontcg.io/sv5/153_hires.png"
+        }
+    },
+    {
+        "id": "sv5-154",
+        "name": "Maximum Belt",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Pokémon Tool",
+            "ACE SPEC"
+        ],
+        "rules": [
+            "Attacks used by the Pokémon this card is attached to do 50 more damage to your opponent's Active Pokémon ex (before applying Weakness and Resistance).",
+            "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+            "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "154",
+        "artist": "inose yukie",
+        "rarity": "ACE SPEC Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/154.png",
+            "large": "https://images.pokemontcg.io/sv5/154_hires.png"
+        }
+    },
+    {
+        "id": "sv5-155",
+        "name": "Morty's Conviction",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "You can use this card only if you discard another card from your hand.  Draw a card for each of your opponent's Benched Pokémon.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "155",
+        "artist": "GIDORA",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/155.png",
+            "large": "https://images.pokemontcg.io/sv5/155_hires.png"
+        }
+    },
+    {
+        "id": "sv5-156",
+        "name": "Perilous Jungle",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "rules": [
+            "During Pokémon Checkup, put 2 more damage counters on each Poisoned non-Darkness Pokémon (both yours and your opponent's).",
+            "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.",
+            "You may play only 1 Stadium card during your turn. Put it into the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "156",
+        "artist": "AYUMI ODASHIMA",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/156.png",
+            "large": "https://images.pokemontcg.io/sv5/156_hires.png"
+        }
+    },
+    {
+        "id": "sv5-157",
+        "name": "Prime Catcher",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item",
+            "ACE SPEC"
+        ],
+        "rules": [
+            "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, switch your Active Pokémon with 1 of your Benched Pokémon.",
+            "You may play any number of Item cards during your turn.",
+            "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "157",
+        "artist": "Toyste Beach",
+        "rarity": "ACE SPEC Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/157.png",
+            "large": "https://images.pokemontcg.io/sv5/157_hires.png"
+        }
+    },
+    {
+        "id": "sv5-158",
+        "name": "Reboot Pod",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item",
+            "Future",
+            "ACE SPEC"
+        ],
+        "rules": [
+            "Attach a Basic Energy card from your discard pile to each of your Future Pokémon.",
+            "You may play any number of Item cards during your turn.",
+            "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "158",
+        "artist": "inose yukie",
+        "rarity": "ACE SPEC Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/158.png",
+            "large": "https://images.pokemontcg.io/sv5/158_hires.png"
+        }
+    },
+    {
+        "id": "sv5-159",
+        "name": "Rescue Board",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Pokémon Tool"
+        ],
+        "rules": [
+            "The Retreat Cost of the Pokémon this card is attached to is Colorless less. If that Pokémon's remaining HP is 30 or less, it has no Retreat Cost.",
+            "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "159",
+        "artist": "Toyste Beach",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/159.png",
+            "large": "https://images.pokemontcg.io/sv5/159_hires.png"
+        }
+    },
+    {
+        "id": "sv5-160",
+        "name": "Salvatore",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Search your deck for a card that has no Abilities and evolves from 1 of your Pokémon, and put it onto that Pokémon to evolve it. Then, shuffle your deck. You can use this card on a Pokémon you put down when you were setting up to play or on a Pokémon that was put into play this turn.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "160",
+        "artist": "Ryuta Fuse",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/160.png",
+            "large": "https://images.pokemontcg.io/sv5/160_hires.png"
+        }
+    },
+    {
+        "id": "sv5-161",
+        "name": "Mist Energy",
+        "supertype": "Energy",
+        "subtypes": [
+            "Special"
+        ],
+        "rules": [
+            "As long as this card is attached to a Pokémon, it provides Colorless Energy.    Prevent all effects of attacks used by your opponent's Pokémon done to the Pokémon this card is attached to. (Existing effects are not removed. Damage is not an effect.)"
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "161",
+        "rarity": "Uncommon",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/161.png",
+            "large": "https://images.pokemontcg.io/sv5/161_hires.png"
+        }
+    },
+    {
+        "id": "sv5-162",
+        "name": "Neo Upper Energy",
+        "supertype": "Energy",
+        "subtypes": [
+            "Special",
+            "ACE SPEC"
+        ],
+        "rules": [
+            "You can't have more than 1 ACE SPEC card in your deck.",
+            "As long as this card is attached to a Pokémon, it provides Colorless Energy.  If this card is attached to a Stage 2 Pokémon, this card provides every type of Energy but provides only 2 Energy at a time.",
+            "ACE SPEC: You can't have more than 1 ACE SPEC card in your deck."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "162",
+        "rarity": "ACE SPEC Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/162.png",
+            "large": "https://images.pokemontcg.io/sv5/162_hires.png"
+        }
+    },
+    {
+        "id": "sv5-163",
+        "name": "Shiftry",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": "150",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Nuzleaf",
+        "attacks": [
+            {
+                "name": "Expelling Tornado",
+                "cost": [
+                    "Grass"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Choose 3 of your opponent's Benched Pokémon. If you do, shuffle all of your opponent's Benched Pokémon that you didn't choose, and all cards attached to those Pokémon, into their deck."
+            },
+            {
+                "name": "Energy Loop",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "140",
+                "text": "Put an Energy attached to this Pokémon into your hand."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "163",
+        "artist": "SIE NANAHARA",
+        "rarity": "Illustration Rare",
+        "flavorText": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
+        "nationalPokedexNumbers": [
+            275
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/163.png",
+            "large": "https://images.pokemontcg.io/sv5/163_hires.png"
+        }
+    },
+    {
+        "id": "sv5-164",
+        "name": "Grotle",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "120",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Turtwig",
+        "evolvesTo": [
+            "Torterra"
+        ],
+        "attacks": [
+            {
+                "name": "Cut",
+                "cost": [
+                    "Grass"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "Ramming Shell",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "50",
+                "text": "During your opponent's next turn, this Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance)."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "164",
+        "artist": "Oswaldo KATO",
+        "rarity": "Illustration Rare",
+        "flavorText": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.",
+        "nationalPokedexNumbers": [
+            388
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/164.png",
+            "large": "https://images.pokemontcg.io/sv5/164_hires.png"
+        }
+    },
+    {
+        "id": "sv5-165",
+        "name": "Deerling",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Grass"
+        ],
+        "evolvesTo": [
+            "Sawsbuck"
+        ],
+        "attacks": [
+            {
+                "name": "Flop",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "Leaf Litter Tackle",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "40",
+                "text": "Discard a Grass Energy from this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "165",
+        "artist": "Susumu Maeya",
+        "rarity": "Illustration Rare",
+        "flavorText": "Deerling have different scents depending on the season. In this form, Deerling have a softly sweet scent that lingers in the nose.",
+        "nationalPokedexNumbers": [
+            585
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/165.png",
+            "large": "https://images.pokemontcg.io/sv5/165_hires.png"
+        }
+    },
+    {
+        "id": "sv5-166",
+        "name": "Sawsbuck",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "130",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Deerling",
+        "abilities": [
+            {
+                "name": "Changing Seasons",
+                "text": "Once during your turn, you may search your deck for a Stadium card, reveal it, and put it into your hand. Then, shuffle your deck.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Superpowered Horns",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "110",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "166",
+        "artist": "Susumu Maeya",
+        "rarity": "Illustration Rare",
+        "flavorText": "Sawsbuck in their Autumn Form are known for having very short tempers. The males fight each other incessantly.",
+        "nationalPokedexNumbers": [
+            586
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/166.png",
+            "large": "https://images.pokemontcg.io/sv5/166_hires.png"
+        }
+    },
+    {
+        "id": "sv5-167",
+        "name": "Litten",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Fire"
+        ],
+        "evolvesTo": [
+            "Torracat"
+        ],
+        "attacks": [
+            {
+                "name": "Fake Out",
+                "cost": [
+                    "Fire"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "167",
+        "artist": "Makura Tami",
+        "rarity": "Illustration Rare",
+        "flavorText": "It spends even the smallest amount of downtime grooming its fur with its tongue. Loose fur gathers in its stomach and serves as fuel for fiery moves.",
+        "nationalPokedexNumbers": [
+            725
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/167.png",
+            "large": "https://images.pokemontcg.io/sv5/167_hires.png"
+        }
+    },
+    {
+        "id": "sv5-168",
+        "name": "Snom",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "50",
+        "types": [
+            "Water"
+        ],
+        "evolvesTo": [
+            "Frosmoth"
+        ],
+        "attacks": [
+            {
+                "name": "Powder Snow",
+                "cost": [
+                    "Water"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": "Your opponent's Active Pokémon is now Asleep."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "168",
+        "artist": "N-DESIGN Inc.",
+        "rarity": "Illustration Rare",
+        "flavorText": "It eats snow that has accumulated on the ground. It prefers soft, freshly fallen snow, so it will eat its way up a mountain, aiming for the peak.",
+        "nationalPokedexNumbers": [
+            872
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/168.png",
+            "large": "https://images.pokemontcg.io/sv5/168_hires.png"
+        }
+    },
+    {
+        "id": "sv5-169",
+        "name": "Charjabug",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "100",
+        "types": [
+            "Lightning"
+        ],
+        "evolvesFrom": "Grubbin",
+        "evolvesTo": [
+            "Vikavolt"
+        ],
+        "attacks": [
+            {
+                "name": "Static Shock",
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "169",
+        "artist": "Mina Nakai",
+        "rarity": "Illustration Rare",
+        "flavorText": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
+        "nationalPokedexNumbers": [
+            737
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/169.png",
+            "large": "https://images.pokemontcg.io/sv5/169_hires.png"
+        }
+    },
+    {
+        "id": "sv5-170",
+        "name": "Bronzor",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "80",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesTo": [
+            "Bronzong"
+        ],
+        "attacks": [
+            {
+                "name": "Mirror Attack",
+                "cost": [
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10+",
+                "text": "If your opponent's Active Pokémon is a Psychic Pokémon, this attack does 30 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "170",
+        "artist": "sowsow",
+        "rarity": "Illustration Rare",
+        "flavorText": "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
+        "nationalPokedexNumbers": [
+            436
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/170.png",
+            "large": "https://images.pokemontcg.io/sv5/170_hires.png"
+        }
+    },
+    {
+        "id": "sv5-171",
+        "name": "Reuniclus",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": "120",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Duosion",
+        "attacks": [
+            {
+                "name": "Summoning Gate",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Look at the top 8 cards of your deck. You may put any number of Pokémon you find there onto your Bench. Shuffle the other cards back into your deck."
+            },
+            {
+                "name": "Brain Shake",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "100",
+                "text": "Your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "171",
+        "artist": "Atsushi Furusawa",
+        "rarity": "Illustration Rare",
+        "flavorText": "While it could use its psychic abilities in battle, this Pokémon prefers to swing its powerful arms around to beat opponents into submission.",
+        "nationalPokedexNumbers": [
+            579
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/171.png",
+            "large": "https://images.pokemontcg.io/sv5/171_hires.png"
+        }
+    },
+    {
+        "id": "sv5-172",
+        "name": "Cutiefly",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "30",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesTo": [
+            "Ribombee"
+        ],
+        "attacks": [
+            {
+                "name": "Mini Drain",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": "Heal 10 damage from this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "172",
+        "artist": "REND",
+        "rarity": "Illustration Rare",
+        "flavorText": "Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur's pollen.",
+        "nationalPokedexNumbers": [
+            742
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/172.png",
+            "large": "https://images.pokemontcg.io/sv5/172_hires.png"
+        }
+    },
+    {
+        "id": "sv5-173",
+        "name": "Relicanth",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "100",
+        "types": [
+            "Fighting"
+        ],
+        "abilities": [
+            {
+                "name": "Memory Dive",
+                "text": "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Razor Fin",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "173",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "Illustration Rare",
+        "flavorText": "Rock-hard scales and oil-filled swim bladders allow this Pokémon to survive the intense water pressure of the deep sea.",
+        "nationalPokedexNumbers": [
+            369
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/173.png",
+            "large": "https://images.pokemontcg.io/sv5/173_hires.png"
+        }
+    },
+    {
+        "id": "sv5-174",
+        "name": "Excadrill",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "130",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Drilbur",
+        "attacks": [
+            {
+                "name": "Mud Shot",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "Wild Tackle",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "180",
+                "text": "This Pokémon also does 50 damage to itself."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "174",
+        "artist": "Saboteri",
+        "rarity": "Illustration Rare",
+        "flavorText": "It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.",
+        "nationalPokedexNumbers": [
+            530
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/174.png",
+            "large": "https://images.pokemontcg.io/sv5/174_hires.png"
+        }
+    },
+    {
+        "id": "sv5-175",
+        "name": "Mudsdale",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "150",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Mudbray",
+        "attacks": [
+            {
+                "name": "Mud Stock",
+                "cost": [
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Attach a Basic Fighting Energy card from your discard pile to each of your Benched Pokémon."
+            },
+            {
+                "name": "High Horsepower",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "140",
+                "text": "This Pokémon also does 40 damage to itself."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "175",
+        "artist": "MINAMINAMI Take",
+        "rarity": "Illustration Rare",
+        "flavorText": "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.",
+        "nationalPokedexNumbers": [
+            750
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/175.png",
+            "large": "https://images.pokemontcg.io/sv5/175_hires.png"
+        }
+    },
+    {
+        "id": "sv5-176",
+        "name": "Arbok",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "130",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Ekans",
+        "attacks": [
+            {
+                "name": "Panic Poison",
+                "cost": [
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Your opponent's Active Pokémon is now Burned, Confused, and Poisoned."
+            },
+            {
+                "name": "Darkness Fang",
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "176",
+        "artist": "OKUBO",
+        "rarity": "Illustration Rare",
+        "flavorText": "The pattern on its belly appears to be a frightening face. Weak foes will flee just at the sight of the pattern.",
+        "nationalPokedexNumbers": [
+            24
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/176.png",
+            "large": "https://images.pokemontcg.io/sv5/176_hires.png"
+        }
+    },
+    {
+        "id": "sv5-177",
+        "name": "Gastly",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesTo": [
+            "Haunter"
+        ],
+        "attacks": [
+            {
+                "name": "Mysterious Beam",
+                "cost": [
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+            },
+            {
+                "name": "Suffocating Gas",
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "177",
+        "artist": "Mousho",
+        "rarity": "Illustration Rare",
+        "flavorText": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+        "nationalPokedexNumbers": [
+            92
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/177.png",
+            "large": "https://images.pokemontcg.io/sv5/177_hires.png"
+        }
+    },
+    {
+        "id": "sv5-178",
+        "name": "Metagross",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": "180",
+        "types": [
+            "Metal"
+        ],
+        "evolvesFrom": "Metang",
+        "attacks": [
+            {
+                "name": "Meteor Mash",
+                "cost": [
+                    "Metal"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "60",
+                "text": "During your next turn, this Pokémon's Meteor Mash attack does 60 more damage (before applying Weakness and Resistance)."
+            },
+            {
+                "name": "Luster Blast",
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 4,
+                "damage": "200",
+                "text": "Discard 2 Energy from this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "178",
+        "artist": "Katsunori Sato",
+        "rarity": "Illustration Rare",
+        "flavorText": "Because the magnetic powers of these Pokémon get stronger in freezing temperatures, Metagross living on snowy mountains are full of energy.",
+        "nationalPokedexNumbers": [
+            376
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/178.png",
+            "large": "https://images.pokemontcg.io/sv5/178_hires.png"
+        }
+    },
+    {
+        "id": "sv5-179",
+        "name": "Meltan",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "80",
+        "types": [
+            "Metal"
+        ],
+        "evolvesTo": [
+            "Melmetal"
+        ],
+        "attacks": [
+            {
+                "name": "Headbutt",
+                "cost": [
+                    "Metal",
+                    "Metal"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "179",
+        "artist": "Masa",
+        "rarity": "Illustration Rare",
+        "flavorText": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+        "nationalPokedexNumbers": [
+            808
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/179.png",
+            "large": "https://images.pokemontcg.io/sv5/179_hires.png"
+        }
+    },
+    {
+        "id": "sv5-180",
+        "name": "Lickitung",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "100",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesTo": [
+            "Lickilicky"
+        ],
+        "attacks": [
+            {
+                "name": "Tongue Pull",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Your opponent reveals their hand. Put up to 2 Basic Pokémon you find there onto your opponent's Bench."
+            },
+            {
+                "name": "Strength",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "180",
+        "artist": "Orca",
+        "rarity": "Illustration Rare",
+        "flavorText": "If this Pokémon's sticky saliva gets on you and you don't clean it off, an intense itch will set in. The itch won't go away, either.",
+        "nationalPokedexNumbers": [
+            108
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/180.png",
+            "large": "https://images.pokemontcg.io/sv5/180_hires.png"
+        }
+    },
+    {
+        "id": "sv5-181",
+        "name": "Chatot",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "name": "A Cappella",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+            },
+            {
+                "name": "Gust",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "181",
+        "artist": "Scav",
+        "rarity": "Illustration Rare",
+        "flavorText": "It mimics the cries of other Pokémon to trick them into thinking it's one of them. This way they won't attack it.",
+        "nationalPokedexNumbers": [
+            441
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/181.png",
+            "large": "https://images.pokemontcg.io/sv5/181_hires.png"
+        }
+    },
+    {
+        "id": "sv5-182",
+        "name": "Minccino",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesTo": [
+            "Cinccino"
+        ],
+        "attacks": [
+            {
+                "name": "Beat",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "Cleaning Up",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "",
+                "text": "Discard up to 2 Pokémon Tools from your opponent's Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "182",
+        "artist": "Shibuzoh.",
+        "rarity": "Illustration Rare",
+        "flavorText": "The way it brushes away grime with its tail can be helpful when cleaning. But its focus on spotlessness can make cleaning more of a hassle.",
+        "nationalPokedexNumbers": [
+            572
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/182.png",
+            "large": "https://images.pokemontcg.io/sv5/182_hires.png"
+        }
+    },
+    {
+        "id": "sv5-183",
+        "name": "Cinccino",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "110",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Minccino",
+        "attacks": [
+            {
+                "name": "Gentle Slap",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "Special Roll",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70×",
+                "text": "This attack does 70 damage for each Special Energy card attached to this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "183",
+        "artist": "Shibuzoh.",
+        "rarity": "Illustration Rare",
+        "flavorText": "Its body secretes oil that this Pokémon spreads over its nest as a coating to protect it from dust. Cinccino won't tolerate even a speck of the stuff.",
+        "nationalPokedexNumbers": [
+            573
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/183.png",
+            "large": "https://images.pokemontcg.io/sv5/183_hires.png"
+        }
+    },
+    {
+        "id": "sv5-184",
+        "name": "Drampa",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "120",
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "name": "Gentle Slap",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "Raging Cannon",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100+",
+                "text": "If all of your Benched Pokémon have at least 1 damage counter on them, this attack does 120 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "184",
+        "artist": "Mékayu",
+        "rarity": "Illustration Rare",
+        "flavorText": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
+        "nationalPokedexNumbers": [
+            780
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/184.png",
+            "large": "https://images.pokemontcg.io/sv5/184_hires.png"
+        }
+    },
+    {
+        "id": "sv5-185",
+        "name": "Torterra ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "hp": "340",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Grotle",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Forest March",
+                "cost": [
+                    "Grass"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30×",
+                "text": "This attack does 30 damage for each of your Grass Pokémon in play."
+            },
+            {
+                "name": "Jungle Hammer",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "150",
+                "text": "Heal 50 damage from this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "185",
+        "artist": "PLANETA Tsuji",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            389
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/185.png",
+            "large": "https://images.pokemontcg.io/sv5/185_hires.png"
+        }
+    },
+    {
+        "id": "sv5-186",
+        "name": "Iron Leaves ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
+        ],
+        "hp": "220",
+        "types": [
+            "Grass"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Rapid Vernier",
+                "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may switch it with your Active Pokémon. If you do, you may move any amount of Energy from your other Pokémon to this Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Prism Edge",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "180",
+                "text": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "186",
+        "artist": "5ban Graphics",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            1010
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/186.png",
+            "large": "https://images.pokemontcg.io/sv5/186_hires.png"
+        }
+    },
+    {
+        "id": "sv5-187",
+        "name": "Incineroar ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "hp": "320",
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Torracat",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Hustle Play",
+                "text": "Attacks used by this Pokémon cost Colorless less for each of your opponent's Benched Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Blaze Blast",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 5,
+                "damage": "240",
                 "text": "Your opponent's Active Pokémon is now Burned."
             }
         ],
@@ -7517,8591 +13319,46 @@ let latestSet = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "115",
-        "artist": "Atsushi Furusawa",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
-        "nationalPokedexNumbers": [
-            936
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/115.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/115_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-116",
-        "name": "Slowpoke",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Water"
-        ],
-        "evolvesTo": [
-            "Slowbro",
-            "Slowking"
-        ],
-        "attacks": [
-            {
-                "name": "Rest",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "This Pokémon is now Asleep. Heal 30 damage from it."
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
             },
-            {
-                "name": "Headbutt",
-                "cost": [
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "116",
-        "artist": "Taira Akitsu",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
-        "nationalPokedexNumbers": [
-            79
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/116.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/116_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-117",
-        "name": "Slowbro",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "100",
-        "types": [
-            "Water"
-        ],
-        "evolvesFrom": "Slowpoke",
-        "abilities": [
-            {
-                "name": "Strange Behavior",
-                "text": "As often as you like during your turn, you may move 1 damage counter from 1 of your other Pokémon to this Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Bubble Drain",
-                "cost": [
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "60",
-                "text": "Heal 30 damage from this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "117",
-        "artist": "Souichirou Gunjima",
-        "rarity": "SHINY_RARE",
-        "flavorText": "If the tail-biting Shellder is thrown off in a harsh battle, this Pokémon reverts to being an ordinary Slowpoke.",
-        "nationalPokedexNumbers": [
-            80
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/117.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/117_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-118",
-        "name": "Staryu",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Water"
-        ],
-        "evolvesTo": [
-            "Starmie"
-        ],
-        "attacks": [
-            {
-                "name": "Swift",
-                "cost": [
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": "This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "118",
-        "artist": "Nisota Niso",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Fish Pokémon nibble at it, but Staryu isn't bothered. Its body regenerates quickly, even if part of it is completely torn off.",
-        "nationalPokedexNumbers": [
-            120
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/118.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/118_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-119",
-        "name": "Starmie",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Water"
-        ],
-        "evolvesFrom": "Staryu",
-        "abilities": [
-            {
-                "name": "Mysterious Comet",
-                "text": "Once during your turn, you may put 2 damage counters on 1 of your opponent's Pokémon. If you placed any damage counters in this way, discard this Pokémon and all attached cards.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Speed Attack",
-                "cost": [
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "119",
-        "artist": "Shigenori Negishi",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
-        "nationalPokedexNumbers": [
-            121
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/119.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/119_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-120",
-        "name": "Paldean Tauros",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "130",
-        "types": [
-            "Water"
-        ],
-        "attacks": [
-            {
-                "name": "Raging Horns",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20+",
-                "text": "This attack does 10 more damage for each damage counter on this Pokémon."
-            },
-            {
-                "name": "Aqua Dive",
-                "cost": [
-                    "Water",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "",
-                "text": "This attack does 60 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "120",
-        "artist": "GOSSAN",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It swims by jetting water from its horns. The most notable characteristic of the Aqua Breed is its high body fat, which allows it to float easily.",
-        "nationalPokedexNumbers": [
-            128
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/120.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/120_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-121",
-        "name": "Wiglett",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Water"
-        ],
-        "attacks": [
-            {
-                "name": "Twisting Strike",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "121",
-        "artist": "Misa Tsutsui",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
-        "nationalPokedexNumbers": [
-            960
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/121.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/121_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-122",
-        "name": "Wugtrio",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Water"
-        ],
-        "evolvesFrom": "Wiglett",
-        "attacks": [
-            {
-                "name": "Headbutt",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": ""
-            },
-            {
-                "name": "Undersea Tunnel",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "",
-                "text": "Flip 3 coins. For each heads, discard the top 3 cards of your opponent's deck."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "122",
-        "artist": "Kyoko Umemoto",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
-        "nationalPokedexNumbers": [
-            961
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/122.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/122_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-123",
-        "name": "Finizen",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Water"
-        ],
-        "attacks": [
-            {
-                "name": "Valiant Evolution",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Switch this Pokémon with 1 of your Benched Pokémon. If you do, search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
-            },
-            {
-                "name": "Razor Fin",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "123",
-        "artist": "kurumitsu",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.",
-        "nationalPokedexNumbers": [
-            963
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/123.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/123_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-124",
-        "name": "Palafin",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "150",
-        "types": [
-            "Water"
-        ],
-        "evolvesFrom": "Finizen",
-        "attacks": [
-            {
-                "name": "Jet Punch",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            },
-            {
-                "name": "Justice Kick",
-                "cost": [
-                    "Water",
-                    "Water"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "210",
-                "text": "If this Pokémon didn't move from the Bench to the Active Spot this turn, this attack does nothing."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "124",
-        "artist": "Shin Nagasawa",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon's ancient genes have awakened. It is now so extraordinarily strong that it can easily lift a cruise ship with one fin.",
-        "nationalPokedexNumbers": [
-            964
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/124.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/124_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-125",
-        "name": "Veluza",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "130",
-        "types": [
-            "Water"
-        ],
-        "attacks": [
-            {
-                "name": "Ram",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": ""
-            },
-            {
-                "name": "Slim Screw",
-                "cost": [
-                    "Water",
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "120",
-                "text": "If you have no cards in your hand, this attack can be used for Water."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "125",
-        "artist": "Nelnal",
-        "rarity": "SHINY_RARE",
-        "flavorText": "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
-        "nationalPokedexNumbers": [
-            976
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/125.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/125_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-126",
-        "name": "Dondozo",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "160",
-        "types": [
-            "Water"
-        ],
-        "attacks": [
-            {
-                "name": "Release Rage",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50×",
-                "text": "This attack does 50 damage for each Tatsugiri in your discard pile."
-            },
-            {
-                "name": "Heavy Splash",
-                "cost": [
-                    "Water",
-                    "Water",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "120",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 4,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "126",
-        "artist": "Shigenori Negishi",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon is a glutton, but it's bad at getting food. It teams up with a Tatsugiri to catch prey.",
-        "nationalPokedexNumbers": [
-            977
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/126.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/126_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-127",
-        "name": "Tatsugiri",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Water"
-        ],
-        "attacks": [
-            {
-                "name": "Mise en Place",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Search your deck for up to 2 Basic Water Energy cards and attach them to 1 of your Basic Pokémon. Then, shuffle your deck."
-            },
-            {
-                "name": "Curl Up",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "Put this Pokémon and all attached cards into your hand."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "127",
-        "artist": "Kagemaru Himeno",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.",
-        "nationalPokedexNumbers": [
-            978
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/127.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/127_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-128",
-        "name": "Frigibax",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Water"
-        ],
-        "attacks": [
-            {
-                "name": "Collect",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Draw a card."
-            },
-            {
-                "name": "Beat",
-                "cost": [
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "128",
-        "artist": "Taira Akitsu",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
-        "nationalPokedexNumbers": [
-            996
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/128.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/128_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-129",
-        "name": "Arctibax",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Water"
-        ],
-        "evolvesFrom": "Frigibax",
-        "attacks": [
-            {
-                "name": "Sharp Fin",
-                "cost": [
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "40",
-                "text": ""
-            },
-            {
-                "name": "Frost Smash",
-                "cost": [
-                    "Water",
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "80",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "129",
-        "artist": "Kouki Saitou",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
-        "nationalPokedexNumbers": [
-            997
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/129.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/129_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-130",
-        "name": "Baxcalibur",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "160",
-        "types": [
-            "Water"
-        ],
-        "evolvesFrom": "Arctibax",
-        "abilities": [
-            {
-                "name": "Super Cold",
-                "text": "As often as you like during your turn, you may attach a Basic Water Energy card from your hand to 1 of your Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Buster Tail",
-                "cost": [
-                    "Water",
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "130",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "130",
-        "artist": "GOSSAN",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
-        "nationalPokedexNumbers": [
-            998
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/130.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/130_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-131",
-        "name": "Pikachu",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesTo": [
-            "Raichu"
-        ],
-        "attacks": [
-            {
-                "name": "Growl",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance)."
-            },
-            {
-                "name": "Pika Bolt",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "131",
-        "artist": "Yuu Nishida",
-        "rarity": "SHINY_RARE",
-        "flavorText": "﻿When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-        "nationalPokedexNumbers": [
-            25
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/131.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/131_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-132",
-        "name": "Raichu",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Pikachu",
-        "abilities": [
-            {
-                "name": "Electrical Grounding",
-                "text": "When 1 of your Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, you may move a Lightning Energy from that Pokémon to this Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Thunder",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "180",
-                "text": "This Pokémon also does 50 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "132",
-        "artist": "Sanosuke Sakuma",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
-        "nationalPokedexNumbers": [
-            26
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/132.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/132_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-133",
-        "name": "Voltorb",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesTo": [
-            "Electrode"
-        ],
-        "attacks": [
-            {
-                "name": "Tumbling Attack",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10+",
-                "text": "Flip a coin. If heads, this attack does 20 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "133",
-        "artist": "Misa Tsutsui",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
-        "nationalPokedexNumbers": [
-            100
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/133.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/133_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-134",
-        "name": "Electrode",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Voltorb",
-        "attacks": [
-            {
-                "name": "Bang Boom Chain",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20+",
-                "text": "Before doing damage, you may discard any number of Pokémon Tools from your Pokémon. This attack does 40 more damage for each card you discarded in this way."
-            },
-            {
-                "name": "Electro Ball",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "70",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "134",
-        "artist": "Masakazu Fukuda",
-        "rarity": "SHINY_RARE",
-        "flavorText": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
-        "nationalPokedexNumbers": [
-            101
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/134.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/134_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-135",
-        "name": "Shinx",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesTo": [
-            "Luxio"
-        ],
-        "attacks": [
-            {
-                "name": "Wild Kick",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "Flip a coin. If tails, this attack does nothing."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "135",
-        "artist": "Saya Tsuruta",
-        "rarity": "SHINY_RARE",
-        "flavorText": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-        "nationalPokedexNumbers": [
-            403
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/135.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/135_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-136",
-        "name": "Luxio",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Shinx",
-        "evolvesTo": [
-            "Luxray"
-        ],
-        "attacks": [
-            {
-                "name": "Zap Kick",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": ""
-            },
-            {
-                "name": "Head Bolt",
-                "cost": [
-                    "Lightning",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "60",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "136",
-        "artist": "Souichirou Gunjima",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
-        "nationalPokedexNumbers": [
-            404
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/136.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/136_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-137",
-        "name": "Luxray",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "150",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Luxio",
-        "abilities": [
-            {
-                "name": "Swelling Flash",
-                "text": "Once during your turn, if this Pokémon is in your hand and you have more Prize cards remaining than your opponent, you may put this Pokémon onto your Bench.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Wild Charge",
-                "cost": [
-                    "Lightning",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "180",
-                "text": "This Pokémon also does 20 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "137",
-        "artist": "kantaro",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It can see clearly through walls to track down its prey and seek its lost young.",
-        "nationalPokedexNumbers": [
-            405
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/137.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/137_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-138",
-        "name": "Pachirisu",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Lightning"
-        ],
-        "abilities": [
-            {
-                "name": "Electricity Pouches",
-                "text": "This Pokémon can't be Paralyzed.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Everyone Discharge",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "10+",
-                "text": "This attack does 20 more damage for each of your Benched Lightning Pokémon. This attack's damage isn't affected by Weakness."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "138",
-        "artist": "saino misaki",
-        "rarity": "SHINY_RARE",
-        "flavorText": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
-        "nationalPokedexNumbers": [
-            417
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/138.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/138_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-139",
-        "name": "Thundurus",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "110",
-        "types": [
-            "Lightning"
-        ],
-        "abilities": [
-            {
-                "name": "Adverse Weather",
-                "text": "As long as this Pokémon is in the Active Spot, prevent all damage done to your Benched Pokémon by attacks from your opponent's Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Gigantic Bolt",
-                "cost": [
-                    "Lightning",
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "140",
-                "text": "This Pokémon also does 90 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "139",
-        "artist": "Shin Nagasawa",
-        "rarity": "SHINY_RARE",
-        "flavorText": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
-        "nationalPokedexNumbers": [
-            642
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/139.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/139_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-140",
-        "name": "Toxel",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesTo": [
-            "Toxtricity"
-        ],
-        "attacks": [
-            {
-                "name": "Slight Intrusion",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "This Pokémon also does 10 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "140",
-        "artist": "Lee HyunJung",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It has no problem drinking dirty water. An organ inside Toxel's body filters such water into a poisonous liquid that is harmless to Toxel.",
-        "nationalPokedexNumbers": [
-            848
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/140.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/140_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-141",
-        "name": "Toxtricity",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "140",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Toxel",
-        "attacks": [
-            {
-                "name": "Leer",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
-            },
-            {
-                "name": "Loud Mix",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50+",
-                "text": "This attack does 30 more damage for each different type of Pokémon on your Bench."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "141",
-        "artist": "GIDORA",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Many youths admire the way this Pokémon listlessly picks fights and keeps its cool no matter what opponent it faces.",
-        "nationalPokedexNumbers": [
-            849
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/141.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/141_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-142",
-        "name": "Pawmi",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Lightning"
-        ],
-        "attacks": [
-            {
-                "name": "Light Punch",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Zap Kick",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "142",
-        "artist": "kurumitsu",
-        "rarity": "SHINY_RARE",
-        "flavorText": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs.",
-        "nationalPokedexNumbers": [
-            921
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/142.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/142_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-143",
-        "name": "Pawmo",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Pawmi",
-        "attacks": [
-            {
-                "name": "Thunder Shock",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
-            },
-            {
-                "name": "Head Bolt",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "70",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "143",
-        "artist": "Mizue",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously.",
-        "nationalPokedexNumbers": [
-            922
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/143.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/143_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-144",
-        "name": "Pawmot",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "130",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Pawmo",
-        "abilities": [
-            {
-                "name": "Electrogenesis",
-                "text": "Once during your turn, you may search your deck for a Basic Lightning Energy card and attach it to this Pokémon. Then, shuffle your deck.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Electro Paws",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "230",
-                "text": "Discard all Energy from this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "144",
-        "artist": "Atsushi Furusawa",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Pawmot's fluffy fur acts as a battery. It can store the same amount of electricity as an electric car.",
-        "nationalPokedexNumbers": [
-            923
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/144.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/144_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-145",
-        "name": "Wattrel",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Lightning"
-        ],
-        "attacks": [
-            {
-                "name": "Peck",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "United Wings",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20×",
-                "text": "This attack does 20 damage for each Pokémon in your discard pile that has the United Wings attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "145",
-        "artist": "Scav",
-        "rarity": "SHINY_RARE",
-        "flavorText": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
-        "nationalPokedexNumbers": [
-            940
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/145.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/145_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-146",
-        "name": "Kilowattrel",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Wattrel",
-        "attacks": [
-            {
-                "name": "United Thunder",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "This attack does 10 damage for each Pokémon in your discard pile that has the United Wings attack to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            },
-            {
-                "name": "Speed Wing",
-                "cost": [
-                    "Lightning",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "146",
-        "artist": "Nisota Niso",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.",
-        "nationalPokedexNumbers": [
-            941
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/146.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/146_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-147",
-        "name": "Wigglytuff",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "110",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Jigglypuff",
-        "abilities": [
-            {
-                "name": "Balloon Therapy",
-                "text": "Once during your turn, you may attach a Therapeutic Energy card from your hand to 1 of your Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Magical Shot",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "147",
-        "artist": "Kagemaru Himeno",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
-        "nationalPokedexNumbers": [
-            40
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/147.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/147_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-148",
-        "name": "Abra",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesTo": [
-            "Kadabra"
-        ],
-        "attacks": [
-            {
-                "name": "Psyshot",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "148",
-        "artist": "Kouki Saitou",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Abra can teleport in its sleep. Apparently the more deeply Abra sleeps, the farther its teleportations go.",
-        "nationalPokedexNumbers": [
-            63
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/148.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/148_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-149",
-        "name": "Kadabra",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "80",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Abra",
-        "evolvesTo": [
-            "Alakazam"
-        ],
-        "attacks": [
-            {
-                "name": "Teleportation Attack",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "Switch this Pokémon with 1 of your Benched Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "149",
-        "artist": "Souichirou Gunjima",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon's telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.",
-        "nationalPokedexNumbers": [
-            64
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/149.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/149_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-150",
-        "name": "Cleffa",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "30",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesTo": [
-            "Clefairy"
-        ],
-        "attacks": [
-            {
-                "name": "Grasping Draw",
-                "cost": [
-                    "Free"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Draw cards until you have 7 cards in your hand."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "150",
-        "artist": "Mizue",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
-        "nationalPokedexNumbers": [
-            173
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/150.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/150_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-151",
-        "name": "Natu",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesTo": [
-            "Xatu"
-        ],
-        "attacks": [
-            {
-                "name": "Triple Strike",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10×",
-                "text": "Flip 3 coins. This attack does 10 damage for each heads."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "151",
-        "artist": "sowsow",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
-        "nationalPokedexNumbers": [
-            177
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/151.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/151_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-152",
-        "name": "Xatu",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "100",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Natu",
-        "abilities": [
-            {
-                "name": "Clairvoyant Sense",
-                "text": "Once during your turn, you may attach a Basic Psychic Energy card from your hand to 1 of your Benched Pokémon. If you attached Energy to a Pokémon in this way, draw 2 cards.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Super Psy Bolt",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "80",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "152",
-        "artist": "nagimiso",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
-        "nationalPokedexNumbers": [
-            178
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/152.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/152_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-153",
-        "name": "Ralts",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesTo": [
-            "Kirlia"
-        ],
-        "attacks": [
-            {
-                "name": "Psyshot",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "153",
-        "artist": "yuu",
-        "rarity": "SHINY_RARE",
-        "flavorText": "The horns on its head provide a strong power that enables it to sense people's emotions.",
-        "nationalPokedexNumbers": [
-            280
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/153.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/153_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-154",
-        "name": "Kirlia",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Ralts",
-        "evolvesTo": [
-            "Gardevoir",
-            "Gallade"
-        ],
-        "attacks": [
-            {
-                "name": "Magical Shot",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            },
-            {
-                "name": "Psychic",
-                "cost": [
-                    "Psychic",
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "60+",
-                "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "154",
-        "artist": "Ryuta Fuse",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It has a psychic power that enables it to distort the space around it and see into the future.",
-        "nationalPokedexNumbers": [
-            281
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/154.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/154_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-155",
-        "name": "Drifloon",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesTo": [
-            "Drifblim"
-        ],
-        "attacks": [
-            {
-                "name": "Gust",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Balloon Blast",
-                "cost": [
-                    "Psychic",
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30×",
-                "text": "This attack does 30 damage for each damage counter on this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "155",
-        "artist": "Kyoko Umemoto",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
-        "nationalPokedexNumbers": [
-            425
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/155.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/155_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-156",
-        "name": "Drifblim",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "110",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Drifloon",
-        "attacks": [
-            {
-                "name": "Gust",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            },
-            {
-                "name": "Curse Spreading",
-                "cost": [
-                    "Psychic",
-                    "Psychic",
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "",
-                "text": "Put 8 damage counters on your opponent's Pokémon in any way you like."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "156",
-        "artist": "otumami",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It can generate and release gas within its body. That's how it can control the altitude of its drift.",
-        "nationalPokedexNumbers": [
-            426
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/156.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/156_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-157",
-        "name": "Mime Jr.",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "30",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Mimed Games",
-                "cost": [
-                    "Free"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Your opponent chooses an attack from 1 of their Pokémon in play. Use the chosen attack as this attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "157",
-        "artist": "Saya Tsuruta",
-        "rarity": "SHINY_RARE",
-        "flavorText": "In an attempt to confuse its enemy, it mimics the enemy's movements. Then it wastes no time in making itself scarce!",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/157.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/157_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-158",
-        "name": "Spiritomb",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Psychic"
-        ],
-        "abilities": [
-            {
-                "name": "Fettered in Misfortune",
-                "text": "Basic Pokémon V in play (both yours and your opponent's) have no Abilities.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Fade Out",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": "Put this Pokémon and all attached cards into your hand."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "158",
-        "artist": "MAHOU",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
-        "nationalPokedexNumbers": [
-            442
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/158.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/158_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-159",
-        "name": "Klefki",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Psychic"
-        ],
-        "abilities": [
-            {
-                "name": "Mischievous Lock",
-                "text": "As long as this Pokémon is in the Active Spot, Basic Pokémon in play (both yours and your opponent's) have no Abilities, except for Mischievous Lock.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Joust",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "159",
-        "artist": "yuu",
-        "rarity": "SHINY_RARE",
-        "flavorText": "In the past, noble families entrusted their vault keys to a Klefki. They passed the Klefki down through the generations, taking good care of it.",
-        "nationalPokedexNumbers": [
-            707
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/159.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/159_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-160",
-        "name": "Mimikyu",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Psychic"
-        ],
-        "abilities": [
-            {
-                "name": "Safeguard",
-                "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon ex and Pokémon V.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Ghost Eye",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "",
-                "text": "Put 7 damage counters on your opponent's Active Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "160",
-        "artist": "Nelnal",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu.",
-        "nationalPokedexNumbers": [
-            778
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/160.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/160_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-161",
-        "name": "Dachsbun",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Fidough",
-        "abilities": [
-            {
-                "name": "Well-Baked Body",
-                "text": "This Pokémon can't be Burned. Prevent all damage done to this Pokémon by attacks from your opponent's Fire Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Headbutt Bounce",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "161",
-        "artist": "Sanosuke Sakuma",
-        "rarity": "SHINY_RARE",
-        "flavorText": "The pleasant aroma that emanates from this Pokémon's body helps wheat grow, so Dachsbun has been treasured by farming villages.",
-        "nationalPokedexNumbers": [
-            927
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/161.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/161_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-162",
-        "name": "Ceruledge",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "140",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Charcadet",
-        "attacks": [
-            {
-                "name": "Life Sucker",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": "Heal 30 damage from this Pokémon."
-            },
-            {
-                "name": "Fighting Sword",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100+",
-                "text": "If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 100 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "162",
-        "artist": "Kouki Saitou",
-        "rarity": "SHINY_RARE",
-        "flavorText": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
-        "nationalPokedexNumbers": [
-            937
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/162.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/162_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-163",
-        "name": "Rabsca",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "70",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Rellor",
-        "attacks": [
-            {
-                "name": "Revival Blessing",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Put a Pokémon from your discard pile onto your Bench."
-            },
-            {
-                "name": "Psybeam",
-                "cost": [
-                    "Psychic",
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": "Your opponent's Active Pokémon is now Confused."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "163",
-        "artist": "Nelnal",
-        "rarity": "SHINY_RARE",
-        "flavorText": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.",
-        "nationalPokedexNumbers": [
-            954
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/163.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/163_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-164",
-        "name": "Flittle",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "30",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Psy Bolt",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "164",
-        "artist": "Kyoko Umemoto",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Flittle's toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon's belly.",
-        "nationalPokedexNumbers": [
-            955
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/164.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/164_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-165",
-        "name": "Tinkatink",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Scrap Pickup",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Put an Item card from your discard pile into your hand."
-            },
-            {
-                "name": "Fairy Wind",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "165",
-        "artist": "yuu",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
-        "nationalPokedexNumbers": [
-            957
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/165.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/165_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-166",
-        "name": "Tinkatuff",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Tinkatink",
-        "attacks": [
-            {
-                "name": "Play Rough",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30+",
-                "text": "Flip a coin. If heads, this attack does 30 more damage."
-            },
-            {
-                "name": "Pulverizing Press",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "60",
-                "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "166",
-        "artist": "Yuu Nishida",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",
-        "nationalPokedexNumbers": [
-            958
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/166.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/166_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-167",
-        "name": "Tinkaton",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "140",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Tinkatuff",
-        "abilities": [
-            {
-                "name": "Gather Materials",
-                "text": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 3 cards.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Special Hammer",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "90+",
-                "text": "If this Pokémon has any Special Energy attached, this attack does 90 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "167",
-        "artist": "Kagemaru Himeno",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight.",
-        "nationalPokedexNumbers": [
-            959
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/167.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/167_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-168",
-        "name": "Houndstone",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "140",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Greavard",
-        "attacks": [
-            {
-                "name": "Last Respects",
-                "cost": [
-                    "Psychic",
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "80+",
-                "text": "This attack does 10 more damage for each Psychic Pokémon in your discard pile."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "168",
-        "artist": "Shin Nagasawa",
-        "rarity": "SHINY_RARE",
-        "flavorText": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn't like anyone touching the protuberance atop its head.",
-        "nationalPokedexNumbers": [
-            972
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/168.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/168_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-169",
-        "name": "Mankey",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesTo": [
-            "Primeape"
-        ],
-        "attacks": [
-            {
-                "name": "Monkey Beatdown",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "This Pokémon also does 10 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Psychic",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "169",
-        "artist": "nagimiso",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It is extremely quick to anger. It could be docile one moment, then thrashing away the next instant.",
-        "nationalPokedexNumbers": [
-            56
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/169.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/169_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-170",
-        "name": "Primeape",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesFrom": "Mankey",
-        "attacks": [
-            {
-                "name": "Raging Punch",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "70",
-                "text": "This Pokémon also does 20 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Psychic",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "170",
-        "artist": "Scav",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Some researchers theorize that Primeape remains angry even when inside a Poké Ball.",
-        "nationalPokedexNumbers": [
-            57
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/170.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/170_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-171",
-        "name": "Annihilape",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "140",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesFrom": "Primeape",
-        "attacks": [
-            {
-                "name": "Rage Fist",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "70×",
-                "text": "This attack does 70 damage for each Prize card your opponent has taken."
-            },
-            {
-                "name": "Dynamite Punch",
-                "cost": [
-                    "Fighting",
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "170",
-                "text": "This Pokémon also does 50 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Psychic",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "171",
-        "artist": "Hitoshi Ariga",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core.",
-        "nationalPokedexNumbers": [
-            979
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/171.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/171_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-172",
-        "name": "Paldean Tauros",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "130",
-        "types": [
-            "Fighting"
-        ],
-        "attacks": [
-            {
-                "name": "Raging Horns",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20+",
-                "text": "This attack does 10 more damage for each damage counter on this Pokémon."
-            },
-            {
-                "name": "Combat Tackle",
-                "cost": [
-                    "Fighting",
-                    "Fighting",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "130",
-                "text": "This Pokémon also does 30 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Psychic",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "172",
-        "artist": "nagimiso",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This kind of Tauros, known as the Combat Breed, is distinguished by its thick, powerful muscles and its fierce disposition.",
-        "nationalPokedexNumbers": [
-            128
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/172.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/172_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-173",
-        "name": "Riolu",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesTo": [
-            "Lucario"
-        ],
-        "attacks": [
-            {
-                "name": "Punch",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Reckless Charge",
-                "cost": [
-                    "Fighting",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": "This Pokémon also does 20 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Psychic",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "173",
-        "artist": "sowsow",
-        "rarity": "SHINY_RARE",
-        "flavorText": "They communicate with one another using their auras. They are able to run all through the night.",
-        "nationalPokedexNumbers": [
-            447
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/173.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/173_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-174",
-        "name": "Lucario",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "130",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesFrom": "Riolu",
-        "attacks": [
-            {
-                "name": "Avenging Knuckle",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30+",
-                "text": "If any of your Fighting Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 120 more damage."
-            },
-            {
-                "name": "Accelerating Stab",
-                "cost": [
-                    "Fighting",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "120",
-                "text": "During your next turn, this Pokémon can't use Accelerating Stab."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Psychic",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "174",
-        "artist": "Shin Nagasawa",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It's said that no foe can remain invisible to Lucario, since it can detect auras—even those of foes it could not otherwise see.",
-        "nationalPokedexNumbers": [
-            448
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/174.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/174_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-175",
-        "name": "Hawlucha",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Fighting"
-        ],
-        "abilities": [
-            {
-                "name": "Flying Entry",
-                "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may choose 2 of your opponent's Benched Pokémon and put 1 damage counter on each of them.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Wing Attack",
-                "cost": [
-                    "Fighting",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "70",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Psychic",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "175",
-        "artist": "Souichirou Gunjima",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Its elegant finishing moves—performed by nimbly leaping around using its wings—are polished in the forest where it was born and raised.",
-        "nationalPokedexNumbers": [
-            701
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/175.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/175_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-176",
-        "name": "Nacli",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Fighting"
-        ],
-        "attacks": [
-            {
-                "name": "Salt Coating",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Heal 20 damage from 1 of your Pokémon."
-            },
-            {
-                "name": "Tackle",
-                "cost": [
-                    "Fighting",
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "176",
-        "artist": "Yuu Nishida",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
-        "nationalPokedexNumbers": [
-            932
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/176.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/176_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-177",
-        "name": "Naclstack",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "100",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesFrom": "Nacli",
-        "attacks": [
-            {
-                "name": "Salt Cannon",
-                "cost": [
-                    "Fighting",
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "60×",
-                "text": "Flip 3 coins. This attack does 60 damage for each heads."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "177",
-        "artist": "otumami",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey's body.",
-        "nationalPokedexNumbers": [
-            933
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/177.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/177_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-178",
-        "name": "Garganacl",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "180",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesFrom": "Naclstack",
-        "abilities": [
-            {
-                "name": "Blessed Salt",
-                "text": "During Pokémon Checkup, heal 20 damage from each of your Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Knocking Hammer",
-                "cost": [
-                    "Fighting",
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "130",
-                "text": "Discard the top card of your opponent's deck."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "178",
-        "artist": "Kouki Saitou",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
-        "nationalPokedexNumbers": [
-            934
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/178.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/178_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-179",
-        "name": "Glimmet",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "40",
-        "types": [
-            "Fighting"
-        ],
-        "attacks": [
-            {
-                "name": "Ascension",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "179",
-        "artist": "nagimiso",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
-        "nationalPokedexNumbers": [
-            969
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/179.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/179_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-180",
-        "name": "Paldean Wooper",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesTo": [
-            "Quagsire"
-        ],
-        "attacks": [
-            {
-                "name": "Find a Home",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Search your deck for a Stadium card, reveal it, and put it into your hand. Then, shuffle your deck."
-            },
-            {
-                "name": "Ram",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "180",
-        "artist": "Nisota Niso",
-        "rarity": "SHINY_RARE",
-        "flavorText": "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
-        "nationalPokedexNumbers": [
-            194
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/180.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/180_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-181",
-        "name": "Murkrow",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesTo": [
-            "Honchkrow"
-        ],
-        "attacks": [
-            {
-                "name": "Spin Turn",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": "Switch this Pokémon with 1 of your Benched Pokémon."
-            },
-            {
-                "name": "United Wings",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20×",
-                "text": "This attack does 20 damage for each Pokémon in your discard pile that has the United Wings attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "181",
-        "artist": "Hitoshi Ariga",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
-        "nationalPokedexNumbers": [
-            198
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/181.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/181_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-182",
-        "name": "Sneasel",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesTo": [
-            "Weavile"
-        ],
-        "attacks": [
-            {
-                "name": "Dig Claws",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "182",
-        "artist": "Kagemaru Himeno",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This cunning Pokémon hides under the cover of darkness, waiting to attack its prey.",
-        "nationalPokedexNumbers": [
-            215
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/182.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/182_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-183",
-        "name": "Weavile",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "110",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Sneasel",
-        "abilities": [
-            {
-                "name": "Assaulting Hunt",
-                "text": "Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may switch in 1 of your opponent's Benched Basic Pokémon to the Active Spot.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Slashing Claw",
-                "cost": [
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "70",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "183",
-        "artist": "Shin Nagasawa",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
-        "nationalPokedexNumbers": [
-            461
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/183.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/183_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-184",
-        "name": "Sableye",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Darkness"
-        ],
-        "attacks": [
-            {
-                "name": "Night Eyes",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Your opponent's Active Pokémon is now Asleep."
-            },
-            {
-                "name": "Unseen Claw",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20+",
-                "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 70 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "184",
-        "artist": "nagimiso",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
-        "nationalPokedexNumbers": [
-            302
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/184.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/184_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-185",
-        "name": "Pawniard",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesTo": [
-            "Bisharp"
-        ],
-        "attacks": [
-            {
-                "name": "Scratch",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Pierce",
-                "cost": [
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "185",
-        "artist": "Misa Tsutsui",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Pawniard will fearlessly challenge even powerful foes. In a pinch, it will cling to opponents and pierce them with the blades all over its body.",
-        "nationalPokedexNumbers": [
-            624
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/185.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/185_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-186",
-        "name": "Bisharp",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Pawniard",
-        "attacks": [
-            {
-                "name": "Dark Cutter",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "40",
-                "text": ""
-            },
-            {
-                "name": "Double-Edged Slash",
-                "cost": [
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "120",
-                "text": "This Pokémon also does 30 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "186",
-        "artist": "Souichirou Gunjima",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon commands a group of several Pawniard. Groups that are defeated in territorial disputes are absorbed by the winning side.",
-        "nationalPokedexNumbers": [
-            625
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/186.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/186_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-187",
-        "name": "Kingambit",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "170",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Bisharp",
-        "abilities": [
-            {
-                "name": "Leadership",
-                "text": "Your Basic Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Hack At",
-                "cost": [
-                    "Darkness",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "160",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
         "number": "187",
-        "artist": "Shin Nagasawa",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
-        "nationalPokedexNumbers": [
-            983
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/187.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/187_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-188",
-        "name": "Mabosstiff",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "130",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Maschiff",
-        "abilities": [
-            {
-                "name": "Intimidating Howl",
-                "text": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Wild Tackle",
-                "cost": [
-                    "Darkness",
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "160",
-                "text": "This Pokémon also does 30 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "188",
-        "artist": "Hitoshi Ariga",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family.",
-        "nationalPokedexNumbers": [
-            943
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/188.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/188_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-189",
-        "name": "Shroodle",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Darkness"
-        ],
-        "attacks": [
-            {
-                "name": "Berry Search",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Put a Basic Energy card from your discard pile into your hand."
-            },
-            {
-                "name": "Scratch",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "189",
-        "artist": "otumami",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
-        "nationalPokedexNumbers": [
-            944
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/189.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/189_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-190",
-        "name": "Grafaiai",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Shroodle",
-        "attacks": [
-            {
-                "name": "Spit Poison",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Your opponent's Active Pokémon is now Poisoned."
-            },
-            {
-                "name": "Colorful Graffiti",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "40×",
-                "text": "You may discard as many Basic Energy cards as you like from your hand. This attack does 40 damage for each type of Basic Energy you discarded in this way."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "190",
-        "artist": "Scav",
-        "rarity": "SHINY_RARE",
-        "flavorText": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
-        "nationalPokedexNumbers": [
-            945
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/190.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/190_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-191",
-        "name": "Scizor",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "140",
-        "types": [
-            "Metal"
-        ],
-        "evolvesFrom": "Scyther",
-        "attacks": [
-            {
-                "name": "Punishing Scissors",
-                "cost": [
-                    "Metal"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10+",
-                "text": "This attack does 50 more damage for each of your opponent's Pokémon in play that has an Ability."
-            },
-            {
-                "name": "Cut",
-                "cost": [
-                    "Metal",
-                    "Metal"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "70",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "191",
-        "artist": "GOSSAN",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon's pincers, which contain steel, can crush any hard object they get ahold of into bits.",
-        "nationalPokedexNumbers": [
-            212
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/191.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/191_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-192",
-        "name": "Varoom",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Metal"
-        ],
-        "attacks": [
-            {
-                "name": "Rev",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Put up to 2 Basic Energy cards from your discard pile into your hand."
-            },
-            {
-                "name": "Headbutt",
-                "cost": [
-                    "Metal",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "192",
-        "artist": "Masakazu Fukuda",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
-        "nationalPokedexNumbers": [
-            965
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/192.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/192_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-193",
-        "name": "Revavroom",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "140",
-        "types": [
-            "Metal"
-        ],
-        "evolvesFrom": "Varoom",
-        "abilities": [
-            {
-                "name": "Rumbling Engine",
-                "text": "You must discard an Energy card from your hand in order to use this Ability. Once during your turn, you may draw cards until you have 6 cards in your hand.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Knock Away",
-                "cost": [
-                    "Metal",
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "90+",
-                "text": "Flip a coin. If heads, this attack does 90 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "193",
-        "artist": "GOSSAN",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.",
-        "nationalPokedexNumbers": [
-            966
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/193.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/193_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-194",
-        "name": "Noibat",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Dragon"
-        ],
-        "evolvesTo": [
-            "Noivern"
-        ],
-        "attacks": [
-            {
-                "name": "Gust",
-                "cost": [
-                    "Psychic",
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "40",
-                "text": ""
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "194",
-        "artist": "Nelnal",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon emits ultrasonic waves from its large ears to search for fruit to eat. It mistakes Applin for its food.",
-        "nationalPokedexNumbers": [
-            714
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/194.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/194_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-195",
-        "name": "Cyclizar",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "120",
-        "types": [
-            "Dragon"
-        ],
-        "attacks": [
-            {
-                "name": "Acceleration Drive",
-                "cost": [
-                    "Grass",
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100",
-                "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "195",
-        "artist": "Souichirou Gunjima",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
-        "nationalPokedexNumbers": [
-            967
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/195.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/195_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-196",
-        "name": "Pidgey",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesTo": [
-            "Pidgeotto"
-        ],
-        "attacks": [
-            {
-                "name": "Call for Family",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
-            },
-            {
-                "name": "Tackle",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "196",
-        "artist": "sowsow",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
-        "nationalPokedexNumbers": [
-            16
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/196.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/196_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-197",
-        "name": "Pidgeotto",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "80",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Pidgey",
-        "evolvesTo": [
-            "Pidgeot"
-        ],
-        "attacks": [
-            {
-                "name": "Flap",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "197",
-        "artist": "Kouki Saitou",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.",
-        "nationalPokedexNumbers": [
-            17
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/197.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/197_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-198",
-        "name": "Jigglypuff",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesTo": [
-            "Wigglytuff"
-        ],
-        "attacks": [
-            {
-                "name": "Lead",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck."
-            },
-            {
-                "name": "Stompy Stomp",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20×",
-                "text": "Flip 2 coins. This attack does 20 damage for each heads."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "198",
-        "artist": "Misa Tsutsui",
-        "rarity": "SHINY_RARE",
-        "flavorText": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
-        "nationalPokedexNumbers": [
-            39
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/198.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/198_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-199",
-        "name": "Doduo",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesTo": [
-            "Dodrio"
-        ],
-        "attacks": [
-            {
-                "name": "Reckless Charge",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "This Pokémon also does 10 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "199",
-        "artist": "Saya Tsuruta",
-        "rarity": "SHINY_RARE",
-        "flavorText": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
-        "nationalPokedexNumbers": [
-            84
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/199.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/199_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-200",
-        "name": "Dodrio",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "100",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Doduo",
-        "abilities": [
-            {
-                "name": "Zooming Draw",
-                "text": "Once during your turn, you may put 1 damage counter on this Pokémon. If you do, draw a card.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Ballistic Beak",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10+",
-                "text": "This attack does 30 more damage for each damage counter on this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "200",
-        "artist": "nagimiso",
-        "rarity": "SHINY_RARE",
-        "flavorText": "An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger.",
-        "nationalPokedexNumbers": [
-            85
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/200.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/200_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-201",
-        "name": "Ditto",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Colorless"
-        ],
-        "abilities": [
-            {
-                "name": "Transformative Start",
-                "text": "Once during your first turn, if this Pokémon is in the Active Spot, you may search your deck and choose a Basic Pokémon you find there, except any Ditto. If you do, discard this Pokémon and all attached cards, and put the chosen Pokémon in its place. Then, shuffle your deck.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Splup",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "201",
-        "artist": "0313",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Its transformation ability is perfect. However, if made to laugh, it can't maintain its disguise.",
-        "nationalPokedexNumbers": [
-            132
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/201.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/201_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-202",
-        "name": "Snorlax",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "150",
-        "types": [
-            "Colorless"
-        ],
-        "abilities": [
-            {
-                "name": "Voraciousness",
-                "text": "Once during your turn, you may put up to 2 Leftovers cards from your discard pile into your hand.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Thudding Press",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "130",
-                "text": "This Pokémon also does 30 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 4,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "202",
-        "artist": "Shigenori Negishi",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon's stomach is so strong, even eating moldy or rotten food will not affect it.",
-        "nationalPokedexNumbers": [
-            143
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/202.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/202_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-203",
-        "name": "Wingull",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesTo": [
-            "Pelipper"
-        ],
-        "attacks": [
-            {
-                "name": "Gust",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "203",
-        "artist": "kurumitsu",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.",
-        "nationalPokedexNumbers": [
-            278
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/203.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/203_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-204",
-        "name": "Pelipper",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Wingull",
-        "abilities": [
-            {
-                "name": "Hearsay",
-                "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may choose 1: put a Supporter card from your discard pile into your hand; or search your deck for a Supporter card, reveal it, put it into your hand, and then shuffle your deck.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Wing Attack",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "204",
-        "artist": "Masakazu Fukuda",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It is a flying transporter that carries small Pokémon in its beak. It bobs on the waves to rest its wings.",
-        "nationalPokedexNumbers": [
-            279
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/204.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/204_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-205",
-        "name": "Skwovet",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesTo": [
-            "Greedent"
-        ],
-        "abilities": [
-            {
-                "name": "Nest Stash",
-                "text": "Once during your turn, you may shuffle your hand and put it on the bottom of your deck. If you put any cards on the bottom of your deck in this way, draw a card.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Bite",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "205",
-        "artist": "Sanosuke Sakuma",
-        "rarity": "SHINY_RARE",
-        "flavorText": "No matter how much it stuffs its belly with food, it is always anxious about getting hungry again. So, it stashes berries in its cheeks and tail.",
-        "nationalPokedexNumbers": [
-            819
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/205.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/205_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-206",
-        "name": "Greedent",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Skwovet",
-        "attacks": [
-            {
-                "name": "Bite",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
-            },
-            {
-                "name": "Enhanced Fang",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "80+",
-                "text": "If this Pokémon has a Pokémon Tool attached, this attack does 80 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "206",
-        "artist": "Kagemaru Himeno",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon makes off with heaps of fallen berries by wrapping them in its tail, which is roughly twice the length of its body.",
-        "nationalPokedexNumbers": [
-            820
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/206.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/206_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-207",
-        "name": "Lechonk",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Colorless"
-        ],
-        "attacks": [
-            {
-                "name": "Whimsy Tackle",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "70",
-                "text": "Flip a coin. If tails, this attack does nothing."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "207",
-        "artist": "Akira Komayama",
-        "rarity": "SHINY_RARE",
-        "flavorText": "It searches for food all day. It possesses a keen sense of smell but doesn't use it for anything other than foraging.",
-        "nationalPokedexNumbers": [
-            915
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/207.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/207_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-208",
-        "name": "Oinkologne",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "130",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Lechonk",
-        "attacks": [
-            {
-                "name": "Finest Selection",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "",
-                "text": "Flip 3 coins. Put a number of cards up to the number of heads from your discard pile into your hand."
-            },
-            {
-                "name": "Perfume Press",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "70",
-                "text": "Your opponent's Active Pokémon is now Confused."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "208",
-        "artist": "Misa Tsutsui",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon sends a flowerlike scent wafting about. Well-developed muscles in its legs allow it to leap more than 16 feet with no trouble at all.",
-        "nationalPokedexNumbers": [
-            916
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/208.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/208_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-209",
-        "name": "Tandemaus",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "30",
-        "types": [
-            "Colorless"
-        ],
-        "attacks": [
-            {
-                "name": "Collect",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Draw 2 cards."
-            },
-            {
-                "name": "Gentle Slap",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "209",
-        "artist": "Lee HyunJung",
-        "rarity": "SHINY_RARE",
-        "flavorText": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
-        "nationalPokedexNumbers": [
-            924
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/209.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/209_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-210",
-        "name": "Maushold",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "70",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Tandemaus",
-        "attacks": [
-            {
-                "name": "Slap",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "40",
-                "text": ""
-            },
-            {
-                "name": "Family Attack",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "70×",
-                "text": "This attack does 70 damage for each of your Maushold in play."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "210",
-        "artist": "Shigenori Negishi",
-        "rarity": "SHINY_RARE",
-        "flavorText": "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.",
-        "nationalPokedexNumbers": [
-            925
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/210.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/210_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-211",
-        "name": "Flamigo",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "110",
-        "types": [
-            "Colorless"
-        ],
-        "abilities": [
-            {
-                "name": "Insta-Flock",
-                "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for up to 3 Flamigo, reveal them, and put them into your hand. Then, shuffle your deck.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "United Wings",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20×",
-                "text": "This attack does 20 damage for each Pokémon in your discard pile that has the United Wings attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "211",
-        "artist": "Akira Komayama",
-        "rarity": "SHINY_RARE",
-        "flavorText": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
-        "nationalPokedexNumbers": [
-            973
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/211.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/211_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-212",
-        "name": "Forretress ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1",
-            "Tera",
-            "ex"
-        ],
-        "hp": "270",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Pineco",
-        "rules": [
-            "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Exploding Energy",
-                "text": "Once during your turn, you may search your deck for up to 5 Basic Grass Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck. If you searched your deck in this way, this Pokémon is Knocked Out.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Guard Press",
-                "cost": [
-                    "Grass",
-                    "Grass"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "120",
-                "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "212",
-        "artist": "5ban Graphics",
-        "rarity": "SHINY_ULTRA_RARE",
-        "nationalPokedexNumbers": [
-            205
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/212.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/212_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-213",
-        "name": "Toedscruel ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1",
-            "ex"
-        ],
-        "hp": "270",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Toedscool",
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Protective Mycelium",
-                "text": "Prevent all effects of attacks used by your opponent's Pokémon done to all of your Pokémon that have Energy attached. (Existing effects are not removed. Damage is not an effect.)",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Colony Rush",
-                "cost": [
-                    "Grass",
-                    "Grass"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "80+",
-                "text": "This attack does 40 more damage for each of your Benched Pokémon that has any Grass Energy attached."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "213",
-        "artist": "5ban Graphics",
-        "rarity": "SHINY_ULTRA_RARE",
-        "nationalPokedexNumbers": [
-            949
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/213.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/213_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-214",
-        "name": "Espathra ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1",
-            "Tera",
-            "ex"
-        ],
-        "hp": "260",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Flittle",
-        "rules": [
-            "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Dazzling Gaze",
-                "text": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon cost Colorless more.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Psy Ball",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30+",
-                "text": "This attack does 30 more damage for each Energy attached to both Active Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "214",
-        "artist": "takuyoa",
-        "rarity": "SHINY_ULTRA_RARE",
-        "nationalPokedexNumbers": [
-            956
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/214.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/214_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-215",
-        "name": "Alakazam ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2",
-            "ex"
-        ],
-        "hp": "310",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Kadabra",
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Mind Jack",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "90+",
-                "text": "This attack does 30 more damage for each of your opponent's Benched Pokémon."
-            },
-            {
-                "name": "Dimensional Hand",
-                "cost": [
-                    "Psychic",
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "120",
-                "text": "This attack can be used even if this Pokémon is on the Bench."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "215",
-        "artist": "PLANETA Tsuji",
-        "rarity": "SHINY_ULTRA_RARE",
-        "nationalPokedexNumbers": [
-            65
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/215.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/215_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-216",
-        "name": "Mew ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic",
-            "ex"
-        ],
-        "hp": "180",
-        "types": [
-            "Psychic"
-        ],
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Restart",
-                "text": "Once during your turn, you may draw cards until you have 3 cards in your hand.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Genome Hacking",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "",
-                "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "216",
-        "artist": "aky CG Works",
-        "rarity": "SHINY_ULTRA_RARE",
-        "nationalPokedexNumbers": [
-            151
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/216.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/216_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-217",
-        "name": "Gardevoir ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2",
-            "ex"
-        ],
-        "hp": "310",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Kirlia",
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Psychic Embrace",
-                "text": "As often as you like during your turn, you may attach a Basic Psychic Energy card from your discard pile to 1 of your Psychic Pokémon. If you attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon. You can't use this Ability on a Pokémon that would be Knocked Out.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Miracle Force",
-                "cost": [
-                    "Psychic",
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "190",
-                "text": "This Pokémon recovers from all Special Conditions."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "217",
         "artist": "N-DESIGN Inc.",
-        "rarity": "SHINY_ULTRA_RARE",
+        "rarity": "Ultra Rare",
         "nationalPokedexNumbers": [
-            282
+            727
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/217.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/217_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/187.png",
+            "large": "https://images.pokemontcg.io/sv5/187_hires.png"
         }
     },
     {
-        "id": "sv4pt5-218",
-        "name": "Glimmora ex",
+        "id": "sv5-188",
+        "name": "Gouging Fire ex",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1",
-            "ex"
-        ],
-        "hp": "270",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesFrom": "Glimmet",
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Dust Field",
-                "text": "As long as this Pokémon is in the Active Spot, your opponent can't have more than 3 Benched Pokémon. If they have 4 or more Benched Pokémon, they discard Benched Pokémon until they have 3 Pokémon on the Bench. If more than one effect changes the number of Benched Pokémon allowed, use the smaller number.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Poisonous Gem",
-                "cost": [
-                    "Fighting",
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "140",
-                "text": "Your opponent's Active Pokémon is now Poisoned."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "218",
-        "artist": "5ban Graphics",
-        "rarity": "SHINY_ULTRA_RARE",
-        "nationalPokedexNumbers": [
-            970
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/218.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/218_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-219",
-        "name": "Paldean Clodsire ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1",
-            "ex"
-        ],
-        "hp": "280",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Paldean Wooper",
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Toxic Wetland",
-                "text": "Once during your turn, if a Stadium is in play, you may make your opponent's Active Pokémon Poisoned.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Needle Bone",
-                "cost": [
-                    "Darkness",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "200",
-                "text": "Flip a coin. If tails, during your next turn, this Pokémon can't attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "219",
-        "artist": "PLANETA Mochizuki",
-        "rarity": "SHINY_ULTRA_RARE",
-        "nationalPokedexNumbers": [
-            980
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/219.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/219_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-220",
-        "name": "Noivern ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1",
-            "ex"
-        ],
-        "hp": "260",
-        "types": [
-            "Dragon"
-        ],
-        "evolvesFrom": "Noibat",
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Covert Flight",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "70",
-                "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon."
-            },
-            {
-                "name": "Dominating Echo",
-                "cost": [
-                    "Psychic",
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "140",
-                "text": "During your opponent's next turn, they can't play any Special Energy or Stadium cards from their hand."
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "220",
-        "artist": "Eske Yoshinob",
-        "rarity": "SHINY_ULTRA_RARE",
-        "nationalPokedexNumbers": [
-            715
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/220.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/220_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-221",
-        "name": "Pidgeot ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2",
-            "ex"
-        ],
-        "hp": "280",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Pidgeotto",
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Quick Search",
-                "text": "Once during your turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck. You can't use more than 1 Quick Search Ability each turn.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Blustery Wind",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "120",
-                "text": "You may discard a Stadium in play."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "221",
-        "artist": "takuyoa",
-        "rarity": "SHINY_ULTRA_RARE",
-        "nationalPokedexNumbers": [
-            18
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/221.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/221_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-222",
-        "name": "Wigglytuff ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1",
-            "ex"
-        ],
-        "hp": "250",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Jigglypuff",
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Expanding Body",
-                "text": "If this Pokémon has any Special Energy attached, it gets +100 HP.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Friend Tackle",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90+",
-                "text": "If you played a Supporter card from your hand during this turn, this attack does 90 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "222",
-        "artist": "Saki Hayashiro",
-        "rarity": "SHINY_ULTRA_RARE",
-        "nationalPokedexNumbers": [
-            40
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/222.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/222_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-223",
-        "name": "Squawkabilly ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
-            "ex"
-        ],
-        "hp": "160",
-        "types": [
-            "Colorless"
-        ],
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Squawk and Seize",
-                "text": "Once during your first turn, you may discard your hand and draw 6 cards. You can't use more than 1 Squawk and Seize Ability during your turn.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Motivate",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": "Attach up to 2 Basic Energy cards from your discard pile to 1 of your Benched Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "223",
-        "artist": "PLANETA Mochizuki",
-        "rarity": "SHINY_ULTRA_RARE",
-        "nationalPokedexNumbers": [
-            931
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/223.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/223_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-224",
-        "name": "Wugtrio",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Water"
-        ],
-        "evolvesFrom": "Wiglett",
-        "attacks": [
-            {
-                "name": "Headbutt",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": ""
-            },
-            {
-                "name": "Undersea Tunnel",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "",
-                "text": "Flip 3 coins. For each heads, discard the top 3 cards of your opponent's deck."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "224",
-        "artist": "Tetsu Kayama",
-        "rarity": "Illustration Rare",
-        "flavorText": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
-        "nationalPokedexNumbers": [
-            961
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/224.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/224_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-225",
-        "name": "Palafin",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "150",
-        "types": [
-            "Water"
-        ],
-        "evolvesFrom": "Finizen",
-        "attacks": [
-            {
-                "name": "Jet Punch",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            },
-            {
-                "name": "Justice Kick",
-                "cost": [
-                    "Water",
-                    "Water"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "210",
-                "text": "If this Pokémon didn't move from the Bench to the Active Spot this turn, this attack does nothing."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "225",
-        "artist": "akagi",
-        "rarity": "Illustration Rare",
-        "flavorText": "This Pokémon's ancient genes have awakened. It is now so extraordinarily strong that it can easily lift a cruise ship with one fin.",
-        "nationalPokedexNumbers": [
-            964
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/225.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/225_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-226",
-        "name": "Pawmi",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Lightning"
-        ],
-        "attacks": [
-            {
-                "name": "Light Punch",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Zap Kick",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "226",
-        "artist": "REND",
-        "rarity": "Illustration Rare",
-        "flavorText": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs.",
-        "nationalPokedexNumbers": [
-            921
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/226.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/226_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-227",
-        "name": "Clive",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Your opponent reveals their hand, and you draw 2 cards for each Supporter card you find there.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "227",
-        "artist": "GOSSAN",
-        "rarity": "Ultra Rare",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/227.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/227_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-228",
-        "name": "Judge",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Each player shuffles their hand into their deck and draws 4 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "228",
-        "artist": "Hideki Ishikawa",
-        "rarity": "Ultra Rare",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/228.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/228_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-229",
-        "name": "Nemona",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Draw 3 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "229",
-        "artist": "Sanosuke Sakuma",
-        "rarity": "Ultra Rare",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/229.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/229_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-230",
-        "name": "Paldean Student",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Search your deck for a Pokémon that doesn't have a Rule Box, reveal it, and put it into your hand. For each Paldean Student card (not including this card) in your discard pile, you may search for an additional Pokémon in this way. Then, shuffle your deck. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "230",
-        "artist": "Cona Nitanda",
-        "rarity": "Ultra Rare",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/230.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/230_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-231",
-        "name": "Paldean Student",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Search your deck for a Pokémon that doesn't have a Rule Box, reveal it, and put it into your hand. For each Paldean Student card (not including this card) in your discard pile, you may search for an additional Pokémon in this way. Then, shuffle your deck. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "231",
-        "artist": "Naoki Saito",
-        "rarity": "Ultra Rare",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/231.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/231_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-232",
-        "name": "Mew ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic",
-            "ex"
-        ],
-        "hp": "180",
-        "types": [
-            "Psychic"
-        ],
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Restart",
-                "text": "Once during your turn, you may draw cards until you have 3 cards in your hand.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Genome Hacking",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "",
-                "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "232",
-        "artist": "USGMEN",
-        "rarity": "Special Illustration Rare",
-        "nationalPokedexNumbers": [
-            151
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/232.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/232_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-233",
-        "name": "Gardevoir ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2",
-            "ex"
-        ],
-        "hp": "310",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Kirlia",
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Psychic Embrace",
-                "text": "As often as you like during your turn, you may attach a Basic Psychic Energy card from your discard pile to 1 of your Psychic Pokémon. If you attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon. You can't use this Ability on a Pokémon that would be Knocked Out.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Miracle Force",
-                "cost": [
-                    "Psychic",
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "190",
-                "text": "This Pokémon recovers from all Special Conditions."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "233",
-        "artist": "Kuroimori",
-        "rarity": "Special Illustration Rare",
-        "nationalPokedexNumbers": [
-            282
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/233.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/233_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-234",
-        "name": "Charizard ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Stage 2",
-            "Tera",
-            "ex"
-        ],
-        "hp": "330",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Charmeleon",
-        "rules": [
-            "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Infernal Reign",
-                "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Burning Darkness",
-                "cost": [
-                    "Fire",
-                    "Fire"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "180+",
-                "text": "This attack does 30 more damage for each Prize card your opponent has taken."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "234",
-        "artist": "AKIRA EGAWA",
-        "rarity": "Special Illustration Rare",
-        "nationalPokedexNumbers": [
-            6
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/234.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/234_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-235",
-        "name": "Arven",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Search your deck for an Item card and a Pokémon Tool card, reveal them, and put them into your hand. Then, shuffle your deck.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "235",
-        "artist": "aspara",
-        "rarity": "Special Illustration Rare",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/235.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/235_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-236",
-        "name": "Clive",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Your opponent reveals their hand, and you draw 2 cards for each Supporter card you find there.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "236",
-        "artist": "Taiga Kayama",
-        "rarity": "Special Illustration Rare",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/236.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/236_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-237",
-        "name": "Iono",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "237",
-        "artist": "hanabushi",
-        "rarity": "Special Illustration Rare",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/237.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/237_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-238",
-        "name": "Nemona",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Draw 3 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "238",
-        "artist": "aspara",
-        "rarity": "Special Illustration Rare",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/238.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/238_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-239",
-        "name": "Penny",
-        "supertype": "Trainer",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Put 1 of your Basic Pokémon and all attached cards into your hand.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "239",
-        "artist": "aspara",
-        "rarity": "Special Illustration Rare",
-
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/239.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/239_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-240",
-        "name": "Wo-Chien ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic",
-            "ex"
+            "ex",
+            "Ancient"
         ],
         "hp": "230",
-        "types": [
-            "Grass"
-        ],
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Covetous Ivy",
-                "cost": [
-                    "Grass",
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "",
-                "text": "This attack does 60 damage to 1 of your opponent's Benched Pokémon for each Prize card your opponent has taken. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            },
-            {
-                "name": "Forest Blast",
-                "cost": [
-                    "Grass",
-                    "Grass",
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "220",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless",
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 4,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "240",
-        "artist": "5ban Graphics",
-        "rarity": "Hyper Rare",
-        "nationalPokedexNumbers": [
-            1001
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/240.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/240_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-241",
-        "name": "Chi-Yu ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic",
-            "ex"
-        ],
-        "hp": "190",
         "types": [
             "Fire"
         ],
@@ -16110,23 +13367,25 @@ let latestSet = [
         ],
         "attacks": [
             {
-                "name": "Jealously Singe",
-                "cost": [
-                    "Fire"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Discard the top 2 cards of your opponent's deck."
-            },
-            {
-                "name": "Flame Surge",
+                "name": "Heat Blast",
                 "cost": [
                     "Fire",
-                    "Fire"
+                    "Colorless"
                 ],
                 "convertedEnergyCost": 2,
-                "damage": "100",
-                "text": "Choose up to 3 of your Benched Pokémon. For each of those Pokémon, search your deck for a Basic Fire Energy card and attach it to that Pokémon. Then, shuffle your deck."
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "Blaze Blitz",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "260",
+                "text": "This Pokémon can't use Blaze Blitz again until it leaves the Active Spot."
             }
         ],
         "weaknesses": [
@@ -16136,43 +13395,46 @@ let latestSet = [
             }
         ],
         "retreatCost": [
+            "Colorless",
             "Colorless"
         ],
-        "convertedRetreatCost": 1,
+        "convertedRetreatCost": 2,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "241",
-        "artist": "PLANETA Yamashita",
-        "rarity": "Hyper Rare",
-        "nationalPokedexNumbers": [
-            1004
-        ],
-        "regulationMark": "G",
+        "number": "188",
+        "artist": "5ban Graphics",
+        "rarity": "Ultra Rare",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/241.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/241_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/188.png",
+            "large": "https://images.pokemontcg.io/sv5/188_hires.png"
         }
     },
     {
-        "id": "sv4pt5-242",
-        "name": "Chien-Pao ex",
+        "id": "sv5-189",
+        "name": "Walking Wake ex",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
-            "ex"
+            "ex",
+            "Ancient"
         ],
         "hp": "220",
         "types": [
@@ -16183,94 +13445,103 @@ let latestSet = [
         ],
         "abilities": [
             {
-                "name": "Shivery Chill",
-                "text": "Once during your turn, if this Pokémon is in the Active Spot, you may search your deck for up to 2 Basic Water Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+                "name": "Azure Seas",
+                "text": "Damage from attacks used by this Pokémon isn't affected by any effects on your opponent's Active Pokémon.",
                 "type": "Ability"
             }
         ],
         "attacks": [
             {
-                "name": "Hail Blade",
+                "name": "Catharsis Roar",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "120+",
+                "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 120 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "189",
+        "artist": "takuyoa",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            1009
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/189.png",
+            "large": "https://images.pokemontcg.io/sv5/189_hires.png"
+        }
+    },
+    {
+        "id": "sv5-190",
+        "name": "Wugtrio ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "Tera",
+            "ex"
+        ],
+        "hp": "250",
+        "types": [
+            "Lightning"
+        ],
+        "evolvesFrom": "Wiglett",
+        "rules": [
+            "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+            "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's)."
+        ],
+        "attacks": [
+            {
+                "name": "Tricolor Pump",
+                "cost": [
+                    "Water"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Discard up to 3 Energy cards from your hand. This attack does 60 damage to 1 of your opponent's Pokémon for each Energy card you discarded in this way. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+                "name": "Numbing Hold",
                 "cost": [
                     "Water",
                     "Water"
                 ],
                 "convertedEnergyCost": 2,
-                "damage": "60×",
-                "text": "You may discard any amount of Water Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
-            "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
-            }
-        },
-        "number": "242",
-        "artist": "aky CG Works",
-        "rarity": "Hyper Rare",
-        "nationalPokedexNumbers": [
-            1002
-        ],
-        "regulationMark": "G",
-        "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/242.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/242_hires.png"
-        }
-    },
-    {
-        "id": "sv4pt5-243",
-        "name": "Miraidon ex",
-        "supertype": "Pokémon",
-        "setAbbrev": "PAF",
-        "subtypes": [
-            "Basic",
-            "ex"
-        ],
-        "hp": "220",
-        "types": [
-            "Lightning"
-        ],
-        "rules": [
-            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Tandem Unit",
-                "text": "Once during your turn, you may search your deck for up to 2 Basic Lightning Pokémon and put them onto your Bench. Then, shuffle your deck.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Photon Blaster",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "220",
-                "text": "During your next turn, this Pokémon can't attack."
+                "damage": "120",
+                "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
             }
         ],
         "weaknesses": [
@@ -16284,39 +13555,125 @@ let latestSet = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "243",
+        "number": "190",
         "artist": "5ban Graphics",
-        "rarity": "Hyper Rare",
+        "rarity": "Ultra Rare",
         "nationalPokedexNumbers": [
-            1008
+            961
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/243.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/243_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/190.png",
+            "large": "https://images.pokemontcg.io/sv5/190_hires.png"
         }
     },
     {
-        "id": "sv4pt5-244",
-        "name": "Ting-Lu ex",
+        "id": "sv5-191",
+        "name": "Iron Crown ex",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
-            "ex"
+            "ex",
+            "Future"
+        ],
+        "hp": "220",
+        "types": [
+            "Psychic"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Cobalt Command",
+                "text": "Attacks used by your Future Pokémon, except any Iron Crown ex, do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Twin Shotels",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "",
+                "text": "This attack does 50 damage to 2 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance, or by any effects on those Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "191",
+        "artist": "5ban Graphics",
+        "rarity": "Ultra Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/191.png",
+            "large": "https://images.pokemontcg.io/sv5/191_hires.png"
+        }
+    },
+    {
+        "id": "sv5-192",
+        "name": "Iron Boulder ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
         ],
         "hp": "240",
         "types": [
@@ -16325,24 +13682,27 @@ let latestSet = [
         "rules": [
             "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
         ],
-        "abilities": [
-            {
-                "name": "Cursed Land",
-                "text": "As long as this Pokémon is in the Active Spot, your opponent's Pokémon in play that have any damage counters on them have no Abilities, except for Pokémon ex.",
-                "type": "Ability"
-            }
-        ],
         "attacks": [
             {
-                "name": "Land Scoop",
+                "name": "Repulsor Axe",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if it is Knocked Out), put 8 damage counters on the Attacking Pokémon."
+            },
+            {
+                "name": "Power Stomp",
                 "cost": [
                     "Fighting",
                     "Fighting",
-                    "Fighting"
+                    "Colorless"
                 ],
                 "convertedEnergyCost": 3,
-                "damage": "150",
-                "text": "Put 2 damage counters on 1 of your opponent's Benched Pokémon."
+                "damage": "200",
+                "text": "Discard 2 Energy from this Pokémon."
             }
         ],
         "weaknesses": [
@@ -16354,75 +13714,75 @@ let latestSet = [
         "retreatCost": [
             "Colorless",
             "Colorless",
-            "Colorless",
             "Colorless"
         ],
-        "convertedRetreatCost": 4,
+        "convertedRetreatCost": 3,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "244",
+        "number": "192",
         "artist": "5ban Graphics",
-        "rarity": "Hyper Rare",
-        "nationalPokedexNumbers": [
-            1003
-        ],
-        "regulationMark": "G",
+        "rarity": "Ultra Rare",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/244.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/244_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/192.png",
+            "large": "https://images.pokemontcg.io/sv5/192_hires.png"
         }
     },
     {
-        "id": "sv4pt5-245",
-        "name": "Koraidon ex",
+        "id": "sv5-193",
+        "name": "Gengar ex",
         "supertype": "Pokémon",
-        "setAbbrev": "PAF",
         "subtypes": [
-            "Basic",
+            "Stage 2",
             "ex"
         ],
-        "hp": "230",
+        "hp": "310",
         "types": [
-            "Fighting"
+            "Darkness"
         ],
+        "evolvesFrom": "Haunter",
         "rules": [
             "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
         ],
         "abilities": [
             {
-                "name": "Dino Cry",
-                "text": "Once during your turn, you may attach up to 2 Basic Fighting Energy cards from your discard pile to your Basic Fighting Pokémon in any way you like. If you use this Ability, your turn ends.",
+                "name": "Gnawing Curse",
+                "text": "Whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.",
                 "type": "Ability"
             }
         ],
         "attacks": [
             {
-                "name": "Wild Impact",
+                "name": "Tricky Steps",
                 "cost": [
-                    "Fighting",
-                    "Fighting",
-                    "Colorless"
+                    "Darkness",
+                    "Darkness"
                 ],
-                "convertedEnergyCost": 3,
-                "damage": "220",
-                "text": "During your next turn, this Pokémon can't attack."
+                "convertedEnergyCost": 2,
+                "damage": "160",
+                "text": "You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon."
             }
         ],
         "weaknesses": [
             {
-                "type": "Psychic",
+                "type": "Fighting",
                 "value": "×2"
             }
         ],
@@ -16432,29 +13792,1590 @@ let latestSet = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "sv4pt5",
-            "name": "Paldean Fates",
+            "id": "sv5",
+            "name": "Temporal Forces",
             "series": "Scarlet & Violet",
-            "printedTotal": 91,
-            "total": 245,
-
-            "releaseDate": "2024/01/26",
-            "updatedAt": "2024/01/25 15:00:00",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
             }
         },
-        "number": "245",
+        "number": "193",
+        "artist": "Satoshi Shirai",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            94
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/193.png",
+            "large": "https://images.pokemontcg.io/sv5/193_hires.png"
+        }
+    },
+    {
+        "id": "sv5-194",
+        "name": "Farigiraf ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "Tera",
+            "ex"
+        ],
+        "hp": "260",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Girafarig",
+        "rules": [
+            "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+            "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's)."
+        ],
+        "abilities": [
+            {
+                "name": "Armor Tail",
+                "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Basic Pokémon ex.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Dirty Beam",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "160",
+                "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "194",
+        "artist": "5ban Graphics",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            981
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/194.png",
+            "large": "https://images.pokemontcg.io/sv5/194_hires.png"
+        }
+    },
+    {
+        "id": "sv5-195",
+        "name": "Scizor ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "ex"
+        ],
+        "hp": "270",
+        "types": [
+            "Metal"
+        ],
+        "evolvesFrom": "Scyther",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Steel Wing",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70",
+                "text": "During your opponent's next turn, this Pokémon takes 50 less damage from attacks (after applying Weakness and Resistance)."
+            },
+            {
+                "name": "Cross Breaker",
+                "cost": [
+                    "Metal",
+                    "Metal"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "120×",
+                "text": "Discard up to 2 Metal Energy from this Pokémon. This attack does 120 damage for each card you discarded in this way."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "195",
+        "artist": "Eske Yoshinob",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            212
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/195.png",
+            "large": "https://images.pokemontcg.io/sv5/195_hires.png"
+        }
+    },
+    {
+        "id": "sv5-196",
+        "name": "Raging Bolt ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Ancient"
+        ],
+        "hp": "240",
+        "types": [
+            "Dragon"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Burst Roar",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Discard your hand and draw 6 cards."
+            },
+            {
+                "name": "Bellowing Thunder",
+                "cost": [
+                    "Lightning",
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70×",
+                "text": "You may discard any amount of Basic Energy from your Pokémon. This attack does 70 damage for each card you discarded in this way."
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "196",
         "artist": "aky CG Works",
+        "rarity": "Ultra Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/196.png",
+            "large": "https://images.pokemontcg.io/sv5/196_hires.png"
+        }
+    },
+    {
+        "id": "sv5-197",
+        "name": "Bianca's Devotion",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Heal all damage from 1 of your Pokémon that has 30 HP or less remaining.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "197",
+        "artist": "En Morikura",
+        "rarity": "Ultra Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/197.png",
+            "large": "https://images.pokemontcg.io/sv5/197_hires.png"
+        }
+    },
+    {
+        "id": "sv5-198",
+        "name": "Ciphermaniac's Codebreaking",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter",
+            "Future"
+        ],
+        "rules": [
+            "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "198",
+        "artist": "Taira Akitsu",
+        "rarity": "Ultra Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/198.png",
+            "large": "https://images.pokemontcg.io/sv5/198_hires.png"
+        }
+    },
+    {
+        "id": "sv5-199",
+        "name": "Eri",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Your opponent reveals their hand, and you discard up to 2 Item cards you find there.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "199",
+        "artist": "GOSSAN",
+        "rarity": "Ultra Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/199.png",
+            "large": "https://images.pokemontcg.io/sv5/199_hires.png"
+        }
+    },
+    {
+        "id": "sv5-200",
+        "name": "Explorer's Guidance",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter",
+            "Ancient"
+        ],
+        "rules": [
+            "Look at the top 6 cards of your deck and put 2 of them into your hand. Discard the other cards.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "200",
+        "artist": "Hideki Ishikawa",
+        "rarity": "Ultra Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/200.png",
+            "large": "https://images.pokemontcg.io/sv5/200_hires.png"
+        }
+    },
+    {
+        "id": "sv5-201",
+        "name": "Morty's Conviction",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "You can use this card only if you discard another card from your hand.  Draw a card for each of your opponent's Benched Pokémon.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "201",
+        "artist": "GIDORA",
+        "rarity": "Ultra Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/201.png",
+            "large": "https://images.pokemontcg.io/sv5/201_hires.png"
+        }
+    },
+    {
+        "id": "sv5-202",
+        "name": "Salvatore",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Search your deck for a card that has no Abilities and evolves from 1 of your Pokémon, and put it onto that Pokémon to evolve it. Then, shuffle your deck. You can use this card on a Pokémon you put down when you were setting up to play or on a Pokémon that was put into play this turn.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "202",
+        "artist": "Ryuta Fuse",
+        "rarity": "Ultra Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/202.png",
+            "large": "https://images.pokemontcg.io/sv5/202_hires.png"
+        }
+    },
+    {
+        "id": "sv5-203",
+        "name": "Iron Leaves ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
+        ],
+        "hp": "220",
+        "types": [
+            "Grass"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Rapid Vernier",
+                "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may switch it with your Active Pokémon. If you do, you may move any amount of Energy from your other Pokémon to this Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Prism Edge",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "180",
+                "text": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "203",
+        "artist": "nagimiso",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            1010
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/203.png",
+            "large": "https://images.pokemontcg.io/sv5/203_hires.png"
+        }
+    },
+    {
+        "id": "sv5-204",
+        "name": "Gouging Fire ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Ancient"
+        ],
+        "hp": "230",
+        "types": [
+            "Fire"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Heat Blast",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "Blaze Blitz",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "260",
+                "text": "This Pokémon can't use Blaze Blitz again until it leaves the Active Spot."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "204",
+        "artist": "Teeziro",
+        "rarity": "Special Illustration Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/204.png",
+            "large": "https://images.pokemontcg.io/sv5/204_hires.png"
+        }
+    },
+    {
+        "id": "sv5-205",
+        "name": "Walking Wake ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Ancient"
+        ],
+        "hp": "220",
+        "types": [
+            "Water"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Azure Seas",
+                "text": "Damage from attacks used by this Pokémon isn't affected by any effects on your opponent's Active Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Catharsis Roar",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "120+",
+                "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 120 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "205",
+        "artist": "Teeziro",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            1009
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/205.png",
+            "large": "https://images.pokemontcg.io/sv5/205_hires.png"
+        }
+    },
+    {
+        "id": "sv5-206",
+        "name": "Iron Crown ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
+        ],
+        "hp": "220",
+        "types": [
+            "Psychic"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Cobalt Command",
+                "text": "Attacks used by your Future Pokémon, except any Iron Crown ex, do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Twin Shotels",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "",
+                "text": "This attack does 50 damage to 2 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance, or by any effects on those Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "206",
+        "artist": "nagimiso",
+        "rarity": "Special Illustration Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/206.png",
+            "large": "https://images.pokemontcg.io/sv5/206_hires.png"
+        }
+    },
+    {
+        "id": "sv5-207",
+        "name": "Iron Boulder ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
+        ],
+        "hp": "240",
+        "types": [
+            "Fighting"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Repulsor Axe",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if it is Knocked Out), put 8 damage counters on the Attacking Pokémon."
+            },
+            {
+                "name": "Power Stomp",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "200",
+                "text": "Discard 2 Energy from this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "207",
+        "artist": "nagimiso",
+        "rarity": "Special Illustration Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/207.png",
+            "large": "https://images.pokemontcg.io/sv5/207_hires.png"
+        }
+    },
+    {
+        "id": "sv5-208",
+        "name": "Raging Bolt ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Ancient"
+        ],
+        "hp": "240",
+        "types": [
+            "Dragon"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Burst Roar",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Discard your hand and draw 6 cards."
+            },
+            {
+                "name": "Bellowing Thunder",
+                "cost": [
+                    "Lightning",
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70×",
+                "text": "You may discard any amount of Basic Energy from your Pokémon. This attack does 70 damage for each card you discarded in this way."
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "208",
+        "artist": "Teeziro",
+        "rarity": "Special Illustration Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/208.png",
+            "large": "https://images.pokemontcg.io/sv5/208_hires.png"
+        }
+    },
+    {
+        "id": "sv5-209",
+        "name": "Bianca's Devotion",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Heal all damage from 1 of your Pokémon that has 30 HP or less remaining.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "209",
+        "artist": "Cona Nitanda",
+        "rarity": "Special Illustration Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/209.png",
+            "large": "https://images.pokemontcg.io/sv5/209_hires.png"
+        }
+    },
+    {
+        "id": "sv5-210",
+        "name": "Eri",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Your opponent reveals their hand, and you discard up to 2 Item cards you find there.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "210",
+        "artist": "DOM",
+        "rarity": "Special Illustration Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/210.png",
+            "large": "https://images.pokemontcg.io/sv5/210_hires.png"
+        }
+    },
+    {
+        "id": "sv5-211",
+        "name": "Morty's Conviction",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "You can use this card only if you discard another card from your hand.  Draw a card for each of your opponent's Benched Pokémon.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "211",
+        "artist": "Megumi Mizutani",
+        "rarity": "Special Illustration Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/211.png",
+            "large": "https://images.pokemontcg.io/sv5/211_hires.png"
+        }
+    },
+    {
+        "id": "sv5-212",
+        "name": "Salvatore",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Search your deck for a card that has no Abilities and evolves from 1 of your Pokémon, and put it onto that Pokémon to evolve it. Then, shuffle your deck. You can use this card on a Pokémon you put down when you were setting up to play or on a Pokémon that was put into play this turn.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "212",
+        "artist": "Tetsu Kayama",
+        "rarity": "Special Illustration Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/212.png",
+            "large": "https://images.pokemontcg.io/sv5/212_hires.png"
+        }
+    },
+    {
+        "id": "sv5-213",
+        "name": "Iron Leaves ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
+        ],
+        "hp": "220",
+        "types": [
+            "Grass"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Rapid Vernier",
+                "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may switch it with your Active Pokémon. If you do, you may move any amount of Energy from your other Pokémon to this Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Prism Edge",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "180",
+                "text": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "213",
+        "artist": "5ban Graphics",
         "rarity": "Hyper Rare",
         "nationalPokedexNumbers": [
-            1007
+            1010
         ],
-        "regulationMark": "G",
+        "regulationMark": "H",
         "images": {
-            "small": "https://images.pokemontcg.io/sv4pt5/245.png",
-            "large": "https://images.pokemontcg.io/sv4pt5/245_hires.png"
+            "small": "https://images.pokemontcg.io/sv5/213.png",
+            "large": "https://images.pokemontcg.io/sv5/213_hires.png"
+        }
+    },
+    {
+        "id": "sv5-214",
+        "name": "Gouging Fire ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Ancient"
+        ],
+        "hp": "230",
+        "types": [
+            "Fire"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Heat Blast",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": ""
+            },
+            {
+                "name": "Blaze Blitz",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "260",
+                "text": "This Pokémon can't use Blaze Blitz again until it leaves the Active Spot."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "214",
+        "artist": "5ban Graphics",
+        "rarity": "Hyper Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/214.png",
+            "large": "https://images.pokemontcg.io/sv5/214_hires.png"
+        }
+    },
+    {
+        "id": "sv5-215",
+        "name": "Walking Wake ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Ancient"
+        ],
+        "hp": "220",
+        "types": [
+            "Water"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Azure Seas",
+                "text": "Damage from attacks used by this Pokémon isn't affected by any effects on your opponent's Active Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Catharsis Roar",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "120+",
+                "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 120 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "215",
+        "artist": "takuyoa",
+        "rarity": "Hyper Rare",
+        "nationalPokedexNumbers": [
+            1009
+        ],
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/215.png",
+            "large": "https://images.pokemontcg.io/sv5/215_hires.png"
+        }
+    },
+    {
+        "id": "sv5-216",
+        "name": "Iron Crown ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
+        ],
+        "hp": "220",
+        "types": [
+            "Psychic"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Cobalt Command",
+                "text": "Attacks used by your Future Pokémon, except any Iron Crown ex, do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Twin Shotels",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "",
+                "text": "This attack does 50 damage to 2 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance, or by any effects on those Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "216",
+        "artist": "5ban Graphics",
+        "rarity": "Hyper Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/216.png",
+            "large": "https://images.pokemontcg.io/sv5/216_hires.png"
+        }
+    },
+    {
+        "id": "sv5-217",
+        "name": "Iron Boulder ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
+        ],
+        "hp": "240",
+        "types": [
+            "Fighting"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Repulsor Axe",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if it is Knocked Out), put 8 damage counters on the Attacking Pokémon."
+            },
+            {
+                "name": "Power Stomp",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "200",
+                "text": "Discard 2 Energy from this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "217",
+        "artist": "5ban Graphics",
+        "rarity": "Hyper Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/217.png",
+            "large": "https://images.pokemontcg.io/sv5/217_hires.png"
+        }
+    },
+    {
+        "id": "sv5-218",
+        "name": "Raging Bolt ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Ancient"
+        ],
+        "hp": "240",
+        "types": [
+            "Dragon"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Burst Roar",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Discard your hand and draw 6 cards."
+            },
+            {
+                "name": "Bellowing Thunder",
+                "cost": [
+                    "Lightning",
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "70×",
+                "text": "You may discard any amount of Basic Energy from your Pokémon. This attack does 70 damage for each card you discarded in this way."
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv5",
+            "name": "Temporal Forces",
+            "series": "Scarlet & Violet",
+            "printedTotal": 162,
+            "total": 218,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "TEF",
+            "releaseDate": "2024/03/22",
+            "updatedAt": "2024/03/22 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv5/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv5/logo.png"
+            }
+        },
+        "number": "218",
+        "artist": "aky CG Works",
+        "rarity": "Hyper Rare",
+        "regulationMark": "H",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/218.png",
+            "large": "https://images.pokemontcg.io/sv5/218_hires.png"
         }
     }
 ]
