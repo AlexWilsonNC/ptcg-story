@@ -43,7 +43,6 @@ let sv4pt5 = [
             "series": "Scarlet & Violet",
             "printedTotal": 91,
             "total": 245,
-             
             "releaseDate": "2024/01/26",
             "updatedAt": "2024/01/25 15:00:00",
             "images": {

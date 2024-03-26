@@ -3,6 +3,7 @@ let sv5 = [
         "id": "sv5-1",
         "name": "Scyther",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -80,6 +81,7 @@ let sv5 = [
         "id": "sv5-2",
         "name": "Pineco",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -150,6 +152,7 @@ let sv5 = [
         "id": "sv5-3",
         "name": "Seedot",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -227,6 +230,7 @@ let sv5 = [
         "id": "sv5-4",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -305,6 +309,7 @@ let sv5 = [
         "id": "sv5-5",
         "name": "Shiftry",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2"
         ],
@@ -381,6 +386,7 @@ let sv5 = [
         "id": "sv5-6",
         "name": "Shroomish",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -458,6 +464,7 @@ let sv5 = [
         "id": "sv5-7",
         "name": "Breloom",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -533,6 +540,7 @@ let sv5 = [
         "id": "sv5-8",
         "name": "Roselia",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -607,6 +615,7 @@ let sv5 = [
         "id": "sv5-9",
         "name": "Roserade",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -681,6 +690,7 @@ let sv5 = [
         "id": "sv5-10",
         "name": "Turtwig",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -759,6 +769,7 @@ let sv5 = [
         "id": "sv5-11",
         "name": "Grotle",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -841,6 +852,7 @@ let sv5 = [
         "id": "sv5-12",
         "name": "Torterra ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -923,6 +935,7 @@ let sv5 = [
         "id": "sv5-13",
         "name": "Shaymin",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -993,6 +1006,7 @@ let sv5 = [
         "id": "sv5-14",
         "name": "Cottonee",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -1060,6 +1074,7 @@ let sv5 = [
         "id": "sv5-15",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1132,6 +1147,7 @@ let sv5 = [
         "id": "sv5-16",
         "name": "Deerling",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -1210,6 +1226,7 @@ let sv5 = [
         "id": "sv5-17",
         "name": "Sawsbuck",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1285,6 +1302,7 @@ let sv5 = [
         "id": "sv5-18",
         "name": "Grubbin",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -1362,6 +1380,7 @@ let sv5 = [
         "id": "sv5-19",
         "name": "Dhelmise",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -1440,6 +1459,7 @@ let sv5 = [
         "id": "sv5-20",
         "name": "Bramblin",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -1505,6 +1525,7 @@ let sv5 = [
         "id": "sv5-21",
         "name": "Brambleghast",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1581,6 +1602,7 @@ let sv5 = [
         "id": "sv5-22",
         "name": "Scovillain ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -1660,6 +1682,7 @@ let sv5 = [
         "id": "sv5-23",
         "name": "Rellor",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -1724,6 +1747,7 @@ let sv5 = [
         "id": "sv5-24",
         "name": "Rabsca",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1796,6 +1820,7 @@ let sv5 = [
         "id": "sv5-25",
         "name": "Iron Leaves ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -1873,6 +1898,7 @@ let sv5 = [
         "id": "sv5-26",
         "name": "Ponyta",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -1950,6 +1976,7 @@ let sv5 = [
         "id": "sv5-27",
         "name": "Rapidash",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2021,6 +2048,7 @@ let sv5 = [
         "id": "sv5-28",
         "name": "Slugma",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -2089,6 +2117,7 @@ let sv5 = [
         "id": "sv5-29",
         "name": "Magcargo",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2166,6 +2195,7 @@ let sv5 = [
         "id": "sv5-30",
         "name": "Victini",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -2239,6 +2269,7 @@ let sv5 = [
         "id": "sv5-31",
         "name": "Heatmor",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -2314,6 +2345,7 @@ let sv5 = [
         "id": "sv5-32",
         "name": "Litten",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -2382,6 +2414,7 @@ let sv5 = [
         "id": "sv5-33",
         "name": "Torracat",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2462,6 +2495,7 @@ let sv5 = [
         "id": "sv5-34",
         "name": "Incineroar ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -2542,6 +2576,7 @@ let sv5 = [
         "id": "sv5-35",
         "name": "Turtonator",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -2619,6 +2654,7 @@ let sv5 = [
         "id": "sv5-36",
         "name": "Sizzlipede",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -2687,6 +2723,7 @@ let sv5 = [
         "id": "sv5-37",
         "name": "Centiskorch",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2764,6 +2801,7 @@ let sv5 = [
         "id": "sv5-38",
         "name": "Gouging Fire ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -2842,6 +2880,7 @@ let sv5 = [
         "id": "sv5-39",
         "name": "Totodile",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -2909,6 +2948,7 @@ let sv5 = [
         "id": "sv5-40",
         "name": "Croconaw",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2978,6 +3018,7 @@ let sv5 = [
         "id": "sv5-41",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2"
         ],
@@ -3053,6 +3094,7 @@ let sv5 = [
         "id": "sv5-42",
         "name": "Carvanha",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -3121,6 +3163,7 @@ let sv5 = [
         "id": "sv5-43",
         "name": "Sharpedo",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3198,6 +3241,7 @@ let sv5 = [
         "id": "sv5-44",
         "name": "Keldeo",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -3273,6 +3317,7 @@ let sv5 = [
         "id": "sv5-45",
         "name": "Snom",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -3341,6 +3386,7 @@ let sv5 = [
         "id": "sv5-46",
         "name": "Frosmoth",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3408,6 +3454,7 @@ let sv5 = [
         "id": "sv5-47",
         "name": "Wiglett",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -3482,6 +3529,7 @@ let sv5 = [
         "id": "sv5-48",
         "name": "Finizen",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -3558,6 +3606,7 @@ let sv5 = [
         "id": "sv5-49",
         "name": "Palafin",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3635,6 +3684,7 @@ let sv5 = [
         "id": "sv5-50",
         "name": "Walking Wake ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -3712,6 +3762,7 @@ let sv5 = [
         "id": "sv5-51",
         "name": "Pikachu",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -3779,6 +3830,7 @@ let sv5 = [
         "id": "sv5-52",
         "name": "Raichu",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3856,6 +3908,7 @@ let sv5 = [
         "id": "sv5-53",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -3935,6 +3988,7 @@ let sv5 = [
         "id": "sv5-54",
         "name": "Electivire",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4015,6 +4069,7 @@ let sv5 = [
         "id": "sv5-55",
         "name": "Charjabug",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4085,6 +4140,7 @@ let sv5 = [
         "id": "sv5-56",
         "name": "Vikavolt",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2"
         ],
@@ -4161,6 +4217,7 @@ let sv5 = [
         "id": "sv5-57",
         "name": "Zeraora",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -4236,6 +4293,7 @@ let sv5 = [
         "id": "sv5-58",
         "name": "Yamper",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -4303,6 +4361,7 @@ let sv5 = [
         "id": "sv5-59",
         "name": "Boltund",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4368,6 +4427,7 @@ let sv5 = [
         "id": "sv5-60",
         "name": "Wugtrio ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1",
             "Tera",
@@ -4449,6 +4509,7 @@ let sv5 = [
         "id": "sv5-61",
         "name": "Iron Hands",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Future"
@@ -4528,6 +4589,7 @@ let sv5 = [
         "id": "sv5-62",
         "name": "Iron Thorns",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Future"
@@ -4608,6 +4670,7 @@ let sv5 = [
         "id": "sv5-63",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -4687,6 +4750,7 @@ let sv5 = [
         "id": "sv5-64",
         "name": "Marill",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -4766,6 +4830,7 @@ let sv5 = [
         "id": "sv5-65",
         "name": "Azumarill",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4843,6 +4908,7 @@ let sv5 = [
         "id": "sv5-66",
         "name": "Girafarig",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -4914,6 +4980,7 @@ let sv5 = [
         "id": "sv5-67",
         "name": "Latias",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -4994,6 +5061,7 @@ let sv5 = [
         "id": "sv5-68",
         "name": "Bronzor",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -5069,6 +5137,7 @@ let sv5 = [
         "id": "sv5-69",
         "name": "Bronzong",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5153,6 +5222,7 @@ let sv5 = [
         "id": "sv5-70",
         "name": "Solosis",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -5226,6 +5296,7 @@ let sv5 = [
         "id": "sv5-71",
         "name": "Duosion",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5301,6 +5372,7 @@ let sv5 = [
         "id": "sv5-72",
         "name": "Reuniclus",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2"
         ],
@@ -5383,6 +5455,7 @@ let sv5 = [
         "id": "sv5-73",
         "name": "Elgyem",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -5456,6 +5529,7 @@ let sv5 = [
         "id": "sv5-74",
         "name": "Beheeyem",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5527,6 +5601,7 @@ let sv5 = [
         "id": "sv5-75",
         "name": "Cutiefly",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -5594,6 +5669,7 @@ let sv5 = [
         "id": "sv5-76",
         "name": "Ribombee",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5655,6 +5731,7 @@ let sv5 = [
         "id": "sv5-77",
         "name": "Scream Tail",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Ancient"
@@ -5736,6 +5813,7 @@ let sv5 = [
         "id": "sv5-78",
         "name": "Flutter Mane",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Ancient"
@@ -5810,6 +5888,7 @@ let sv5 = [
         "id": "sv5-79",
         "name": "Iron Valiant",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Future"
@@ -5887,6 +5966,7 @@ let sv5 = [
         "id": "sv5-80",
         "name": "Iron Valiant",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Future"
@@ -5964,6 +6044,7 @@ let sv5 = [
         "id": "sv5-81",
         "name": "Iron Crown ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -6045,6 +6126,7 @@ let sv5 = [
         "id": "sv5-82",
         "name": "Meditite",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -6122,6 +6204,7 @@ let sv5 = [
         "id": "sv5-83",
         "name": "Medicham",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6198,6 +6281,7 @@ let sv5 = [
         "id": "sv5-84",
         "name": "Relicanth",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -6270,6 +6354,7 @@ let sv5 = [
         "id": "sv5-85",
         "name": "Drilbur",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -6345,6 +6430,7 @@ let sv5 = [
         "id": "sv5-86",
         "name": "Excadrill",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6422,6 +6508,7 @@ let sv5 = [
         "id": "sv5-87",
         "name": "Golett",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -6502,6 +6589,7 @@ let sv5 = [
         "id": "sv5-88",
         "name": "Golurk",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6582,6 +6670,7 @@ let sv5 = [
         "id": "sv5-89",
         "name": "Rockruff",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -6649,6 +6738,7 @@ let sv5 = [
         "id": "sv5-90",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6714,6 +6804,7 @@ let sv5 = [
         "id": "sv5-91",
         "name": "Mudbray",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -6793,6 +6884,7 @@ let sv5 = [
         "id": "sv5-92",
         "name": "Mudsdale",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6871,6 +6963,7 @@ let sv5 = [
         "id": "sv5-93",
         "name": "Rolycoly",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -6950,6 +7043,7 @@ let sv5 = [
         "id": "sv5-94",
         "name": "Carkol",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7033,6 +7127,7 @@ let sv5 = [
         "id": "sv5-95",
         "name": "Coalossal",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2"
         ],
@@ -7113,6 +7208,7 @@ let sv5 = [
         "id": "sv5-96",
         "name": "Great Tusk",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Ancient"
@@ -7193,6 +7289,7 @@ let sv5 = [
         "id": "sv5-97",
         "name": "Great Tusk",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Ancient"
@@ -7273,6 +7370,7 @@ let sv5 = [
         "id": "sv5-98",
         "name": "Sandy Shocks",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Ancient"
@@ -7349,6 +7447,7 @@ let sv5 = [
         "id": "sv5-99",
         "name": "Iron Boulder ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -7428,6 +7527,7 @@ let sv5 = [
         "id": "sv5-100",
         "name": "Ekans",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -7505,6 +7605,7 @@ let sv5 = [
         "id": "sv5-101",
         "name": "Arbok",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7581,6 +7682,7 @@ let sv5 = [
         "id": "sv5-102",
         "name": "Gastly",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -7658,6 +7760,7 @@ let sv5 = [
         "id": "sv5-103",
         "name": "Haunter",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7727,6 +7830,7 @@ let sv5 = [
         "id": "sv5-104",
         "name": "Gengar ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -7804,6 +7908,7 @@ let sv5 = [
         "id": "sv5-105",
         "name": "Poochyena",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -7872,6 +7977,7 @@ let sv5 = [
         "id": "sv5-106",
         "name": "Mightyena",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7950,6 +8056,7 @@ let sv5 = [
         "id": "sv5-107",
         "name": "Sableye",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -8024,6 +8131,7 @@ let sv5 = [
         "id": "sv5-108",
         "name": "Farigiraf ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1",
             "Tera",
@@ -8105,6 +8213,7 @@ let sv5 = [
         "id": "sv5-109",
         "name": "Roaring Moon",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Ancient"
@@ -8184,6 +8293,7 @@ let sv5 = [
         "id": "sv5-110",
         "name": "Forretress",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8268,6 +8378,7 @@ let sv5 = [
         "id": "sv5-111",
         "name": "Scizor ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -8354,6 +8465,7 @@ let sv5 = [
         "id": "sv5-112",
         "name": "Mawile",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -8436,6 +8548,7 @@ let sv5 = [
         "id": "sv5-113",
         "name": "Beldum",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -8520,6 +8633,7 @@ let sv5 = [
         "id": "sv5-114",
         "name": "Metang",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8604,6 +8718,7 @@ let sv5 = [
         "id": "sv5-115",
         "name": "Metagross",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2"
         ],
@@ -8689,6 +8804,7 @@ let sv5 = [
         "id": "sv5-116",
         "name": "Meltan",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -8765,6 +8881,7 @@ let sv5 = [
         "id": "sv5-117",
         "name": "Melmetal",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8854,6 +8971,7 @@ let sv5 = [
         "id": "sv5-118",
         "name": "Iron Treads",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Future"
@@ -8934,6 +9052,7 @@ let sv5 = [
         "id": "sv5-119",
         "name": "Koraidon",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Ancient"
@@ -9006,6 +9125,7 @@ let sv5 = [
         "id": "sv5-120",
         "name": "Koraidon ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -9081,6 +9201,7 @@ let sv5 = [
         "id": "sv5-121",
         "name": "Miraidon",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Future"
@@ -9152,6 +9273,7 @@ let sv5 = [
         "id": "sv5-122",
         "name": "Miraidon ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -9226,6 +9348,7 @@ let sv5 = [
         "id": "sv5-123",
         "name": "Raging Bolt ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -9297,6 +9420,7 @@ let sv5 = [
         "id": "sv5-124",
         "name": "Lickitung",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -9377,6 +9501,7 @@ let sv5 = [
         "id": "sv5-125",
         "name": "Lickilicky",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9458,6 +9583,7 @@ let sv5 = [
         "id": "sv5-126",
         "name": "Hoothoot",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -9532,6 +9658,7 @@ let sv5 = [
         "id": "sv5-127",
         "name": "Noctowl",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9604,6 +9731,7 @@ let sv5 = [
         "id": "sv5-128",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -9674,6 +9802,7 @@ let sv5 = [
         "id": "sv5-129",
         "name": "Dudunsparce",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9750,6 +9879,7 @@ let sv5 = [
         "id": "sv5-130",
         "name": "Skitty",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -9827,6 +9957,7 @@ let sv5 = [
         "id": "sv5-131",
         "name": "Delcatty",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9903,6 +10034,7 @@ let sv5 = [
         "id": "sv5-132",
         "name": "Chatot",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -9982,6 +10114,7 @@ let sv5 = [
         "id": "sv5-133",
         "name": "Pidove",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -10062,6 +10195,7 @@ let sv5 = [
         "id": "sv5-134",
         "name": "Tranquill",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -10142,6 +10276,7 @@ let sv5 = [
         "id": "sv5-135",
         "name": "Unfezant",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2"
         ],
@@ -10221,6 +10356,7 @@ let sv5 = [
         "id": "sv5-136",
         "name": "Minccino",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -10298,6 +10434,7 @@ let sv5 = [
         "id": "sv5-137",
         "name": "Cinccino",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -10373,6 +10510,7 @@ let sv5 = [
         "id": "sv5-138",
         "name": "Drampa",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -10449,6 +10587,7 @@ let sv5 = [
         "id": "sv5-139",
         "name": "Iron Jugulis",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "Future"
@@ -10530,6 +10669,7 @@ let sv5 = [
         "id": "sv5-140",
         "name": "Ancient Booster Energy Capsule",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Pokémon Tool",
             "Ancient"
@@ -10570,6 +10710,7 @@ let sv5 = [
         "id": "sv5-141",
         "name": "Awakening Drum",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Item",
             "Ancient",
@@ -10612,6 +10753,7 @@ let sv5 = [
         "id": "sv5-142",
         "name": "Bianca's Devotion",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter"
         ],
@@ -10651,6 +10793,7 @@ let sv5 = [
         "id": "sv5-143",
         "name": "Boxed Order",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Item"
         ],
@@ -10690,6 +10833,7 @@ let sv5 = [
         "id": "sv5-144",
         "name": "Buddy-Buddy Poffin",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Item"
         ],
@@ -10729,6 +10873,7 @@ let sv5 = [
         "id": "sv5-145",
         "name": "Ciphermaniac's Codebreaking",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter",
             "Future"
@@ -10769,6 +10914,7 @@ let sv5 = [
         "id": "sv5-146",
         "name": "Eri",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter"
         ],
@@ -10808,6 +10954,7 @@ let sv5 = [
         "id": "sv5-147",
         "name": "Explorer's Guidance",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter",
             "Ancient"
@@ -10848,6 +10995,7 @@ let sv5 = [
         "id": "sv5-148",
         "name": "Full Metal Lab",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stadium"
         ],
@@ -10887,6 +11035,7 @@ let sv5 = [
         "id": "sv5-149",
         "name": "Future Booster Energy Capsule",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Pokémon Tool",
             "Future"
@@ -10927,6 +11076,7 @@ let sv5 = [
         "id": "sv5-150",
         "name": "Hand Trimmer",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Item"
         ],
@@ -10966,6 +11116,7 @@ let sv5 = [
         "id": "sv5-151",
         "name": "Heavy Baton",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11005,6 +11156,7 @@ let sv5 = [
         "id": "sv5-152",
         "name": "Hero's Cape",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC"
@@ -11046,6 +11198,7 @@ let sv5 = [
         "id": "sv5-153",
         "name": "Master Ball",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -11087,6 +11240,7 @@ let sv5 = [
         "id": "sv5-154",
         "name": "Maximum Belt",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC"
@@ -11128,6 +11282,7 @@ let sv5 = [
         "id": "sv5-155",
         "name": "Morty's Conviction",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter"
         ],
@@ -11167,6 +11322,7 @@ let sv5 = [
         "id": "sv5-156",
         "name": "Perilous Jungle",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stadium"
         ],
@@ -11207,6 +11363,7 @@ let sv5 = [
         "id": "sv5-157",
         "name": "Prime Catcher",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -11248,6 +11405,7 @@ let sv5 = [
         "id": "sv5-158",
         "name": "Reboot Pod",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Item",
             "Future",
@@ -11290,6 +11448,7 @@ let sv5 = [
         "id": "sv5-159",
         "name": "Rescue Board",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11329,6 +11488,7 @@ let sv5 = [
         "id": "sv5-160",
         "name": "Salvatore",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter"
         ],
@@ -11368,6 +11528,7 @@ let sv5 = [
         "id": "sv5-161",
         "name": "Mist Energy",
         "supertype": "Energy",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Special"
         ],
@@ -11405,6 +11566,7 @@ let sv5 = [
         "id": "sv5-162",
         "name": "Neo Upper Energy",
         "supertype": "Energy",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Special",
             "ACE SPEC"
@@ -11445,6 +11607,7 @@ let sv5 = [
         "id": "sv5-163",
         "name": "Shiftry",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2"
         ],
@@ -11521,6 +11684,7 @@ let sv5 = [
         "id": "sv5-164",
         "name": "Grotle",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -11603,6 +11767,7 @@ let sv5 = [
         "id": "sv5-165",
         "name": "Deerling",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -11681,6 +11846,7 @@ let sv5 = [
         "id": "sv5-166",
         "name": "Sawsbuck",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -11756,6 +11922,7 @@ let sv5 = [
         "id": "sv5-167",
         "name": "Litten",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -11824,6 +11991,7 @@ let sv5 = [
         "id": "sv5-168",
         "name": "Snom",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -11892,6 +12060,7 @@ let sv5 = [
         "id": "sv5-169",
         "name": "Charjabug",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -11962,6 +12131,7 @@ let sv5 = [
         "id": "sv5-170",
         "name": "Bronzor",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -12037,6 +12207,7 @@ let sv5 = [
         "id": "sv5-171",
         "name": "Reuniclus",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2"
         ],
@@ -12119,6 +12290,7 @@ let sv5 = [
         "id": "sv5-172",
         "name": "Cutiefly",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -12186,6 +12358,7 @@ let sv5 = [
         "id": "sv5-173",
         "name": "Relicanth",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -12258,6 +12431,7 @@ let sv5 = [
         "id": "sv5-174",
         "name": "Excadrill",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12335,6 +12509,7 @@ let sv5 = [
         "id": "sv5-175",
         "name": "Mudsdale",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12413,6 +12588,7 @@ let sv5 = [
         "id": "sv5-176",
         "name": "Arbok",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12489,6 +12665,7 @@ let sv5 = [
         "id": "sv5-177",
         "name": "Gastly",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -12566,6 +12743,7 @@ let sv5 = [
         "id": "sv5-178",
         "name": "Metagross",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2"
         ],
@@ -12651,6 +12829,7 @@ let sv5 = [
         "id": "sv5-179",
         "name": "Meltan",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -12727,6 +12906,7 @@ let sv5 = [
         "id": "sv5-180",
         "name": "Lickitung",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -12807,6 +12987,7 @@ let sv5 = [
         "id": "sv5-181",
         "name": "Chatot",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -12886,6 +13067,7 @@ let sv5 = [
         "id": "sv5-182",
         "name": "Minccino",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -12963,6 +13145,7 @@ let sv5 = [
         "id": "sv5-183",
         "name": "Cinccino",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1"
         ],
@@ -13038,6 +13221,7 @@ let sv5 = [
         "id": "sv5-184",
         "name": "Drampa",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic"
         ],
@@ -13114,6 +13298,7 @@ let sv5 = [
         "id": "sv5-185",
         "name": "Torterra ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -13196,6 +13381,7 @@ let sv5 = [
         "id": "sv5-186",
         "name": "Iron Leaves ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -13273,6 +13459,7 @@ let sv5 = [
         "id": "sv5-187",
         "name": "Incineroar ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -13353,6 +13540,7 @@ let sv5 = [
         "id": "sv5-188",
         "name": "Gouging Fire ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -13431,6 +13619,7 @@ let sv5 = [
         "id": "sv5-189",
         "name": "Walking Wake ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -13508,6 +13697,7 @@ let sv5 = [
         "id": "sv5-190",
         "name": "Wugtrio ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1",
             "Tera",
@@ -13589,6 +13779,7 @@ let sv5 = [
         "id": "sv5-191",
         "name": "Iron Crown ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -13670,6 +13861,7 @@ let sv5 = [
         "id": "sv5-192",
         "name": "Iron Boulder ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -13749,6 +13941,7 @@ let sv5 = [
         "id": "sv5-193",
         "name": "Gengar ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -13826,6 +14019,7 @@ let sv5 = [
         "id": "sv5-194",
         "name": "Farigiraf ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1",
             "Tera",
@@ -13907,6 +14101,7 @@ let sv5 = [
         "id": "sv5-195",
         "name": "Scizor ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -13993,6 +14188,7 @@ let sv5 = [
         "id": "sv5-196",
         "name": "Raging Bolt ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -14064,6 +14260,7 @@ let sv5 = [
         "id": "sv5-197",
         "name": "Bianca's Devotion",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter"
         ],
@@ -14103,6 +14300,7 @@ let sv5 = [
         "id": "sv5-198",
         "name": "Ciphermaniac's Codebreaking",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter",
             "Future"
@@ -14143,6 +14341,7 @@ let sv5 = [
         "id": "sv5-199",
         "name": "Eri",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter"
         ],
@@ -14182,6 +14381,7 @@ let sv5 = [
         "id": "sv5-200",
         "name": "Explorer's Guidance",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter",
             "Ancient"
@@ -14222,6 +14422,7 @@ let sv5 = [
         "id": "sv5-201",
         "name": "Morty's Conviction",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter"
         ],
@@ -14261,6 +14462,7 @@ let sv5 = [
         "id": "sv5-202",
         "name": "Salvatore",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter"
         ],
@@ -14300,6 +14502,7 @@ let sv5 = [
         "id": "sv5-203",
         "name": "Iron Leaves ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -14377,6 +14580,7 @@ let sv5 = [
         "id": "sv5-204",
         "name": "Gouging Fire ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -14455,6 +14659,7 @@ let sv5 = [
         "id": "sv5-205",
         "name": "Walking Wake ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -14532,6 +14737,7 @@ let sv5 = [
         "id": "sv5-206",
         "name": "Iron Crown ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -14613,6 +14819,7 @@ let sv5 = [
         "id": "sv5-207",
         "name": "Iron Boulder ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -14692,6 +14899,7 @@ let sv5 = [
         "id": "sv5-208",
         "name": "Raging Bolt ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -14763,6 +14971,7 @@ let sv5 = [
         "id": "sv5-209",
         "name": "Bianca's Devotion",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter"
         ],
@@ -14802,6 +15011,7 @@ let sv5 = [
         "id": "sv5-210",
         "name": "Eri",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter"
         ],
@@ -14841,6 +15051,7 @@ let sv5 = [
         "id": "sv5-211",
         "name": "Morty's Conviction",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter"
         ],
@@ -14880,6 +15091,7 @@ let sv5 = [
         "id": "sv5-212",
         "name": "Salvatore",
         "supertype": "Trainer",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Supporter"
         ],
@@ -14919,6 +15131,7 @@ let sv5 = [
         "id": "sv5-213",
         "name": "Iron Leaves ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -14996,6 +15209,7 @@ let sv5 = [
         "id": "sv5-214",
         "name": "Gouging Fire ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -15074,6 +15288,7 @@ let sv5 = [
         "id": "sv5-215",
         "name": "Walking Wake ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -15151,6 +15366,7 @@ let sv5 = [
         "id": "sv5-216",
         "name": "Iron Crown ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -15232,6 +15448,7 @@ let sv5 = [
         "id": "sv5-217",
         "name": "Iron Boulder ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
@@ -15311,6 +15528,7 @@ let sv5 = [
         "id": "sv5-218",
         "name": "Raging Bolt ex",
         "supertype": "Pokémon",
+                "setAbbrev": "TEF",
         "subtypes": [
             "Basic",
             "ex",
