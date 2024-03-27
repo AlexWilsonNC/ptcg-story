@@ -15625,6 +15625,12 @@ function displayList(arr) {
         img.setAttribute('src', item.images.small);
         img.setAttribute('alt', item.name + " " + item.setAbbrev + " " + item.number);
         img.id = item.supertype + "," + item.subtypes;
+        // if the card is a pokemon
+        if (item.types) {
+            img.id = item.supertype + "," + item.subtypes + "," + item.types;
+        } if (item.evolvesFrom) {
+            img.id = item.supertype + "," + item.subtypes + "," + item.types + ",Evolves from " + item.evolvesFrom;
+        }
         img.loading = 'lazy';
         let addCardBtn = document.createElement('div');
         addCardBtn.classList.add('add-card-to-deck');
@@ -15689,7 +15695,6 @@ function displayList(arr) {
                     // If only one of the images has additional values, prioritize it
                     return idA.length - idB.length;
                 });
-
                 // Remove existing containers
                 while (deckbox.firstChild) {
                     deckbox.removeChild(deckbox.firstChild);
@@ -15698,27 +15703,43 @@ function displayList(arr) {
                 document.getElementById('deck-reset').addEventListener("click", () => {
                     while (deckbox.firstChild) {
                         deckbox.removeChild(deckbox.firstChild);
-                        // addCardBtn.style.opacity = 1;
-                        // addCardBtn.style.pointerEvents = 'all';
-                        // currCounter.innerHTML = "0";
-                        // currCounter.style.color = 'black'
-                        // statCount.style.color = 'black';
-                        // statCount.style.border = '1px solid black';
                     }
                 });
-
-                // deckbox.addEventListener("click", event => {
-                //     // Check if the clicked element has the class .plus-card
-                //     if (event.target.classList.contains('plus-card')) {
-                //         // If it does, log 'here' to the console
-                //         console.log('here');
-                //     }
-                // });
-
-                // Append sorted containers
                 sortedContainers.forEach(deckCardContainer => {
                     deckbox.appendChild(deckCardContainer.cloneNode(true));
                 });
+                
+                let defaultCountofOne = 1;
+                let cardCount = document.createElement('img');
+                cardCount.classList.add('current-cnt-num');
+                cardCount.setAttribute('src', "../assets/card-count/" + defaultCountofOne + ".png");
+                let plusCard = document.querySelectorAll('.plus-card')
+                plusCard.forEach(function (i) {
+                    i.addEventListener("click", () => {
+                        let newNumber = defaultCountofOne
+                            ? defaultCountofOne + 1
+                            : defaultCountofOne - 1;
+                        defaultCountofOne = newNumber;
+                        let currentValue = parseInt(currCounter.innerHTML);
+                        currentValue++;
+                        currCounter.innerHTML = currentValue;
+                        if (currCounter.innerHTML === "60") {
+                            currCounter.style.color = 'green';
+                            statCount.style.color = 'green';
+                            statCount.style.border = '1px solid green';
+                        } else {
+                            currCounter.style.color = 'black'
+                            statCount.style.color = 'black';
+                            statCount.style.border = '1px solid black';
+                        }
+                        if (defaultCountofOne === 4) {
+                            plusCard.style.opacity = '0.4';
+                            plusCard.style.pointerEvents = 'none';
+                        }
+                        cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+                        deckImg.setAttribute('alt', newNumber + " " + item.name + " " + item.setAbbrev + " " + item.number);
+                    })
+                })
             });
 
             let deckAndPm = document.createElement('div');
@@ -15731,7 +15752,6 @@ function displayList(arr) {
             minusCard.innerHTML = "remove";
 
             let defaultCountofOne = 1;
-            // let currentDeckCount = document.querySelector('.current-deck-count').innerHTML;
 
             let cardCount = document.createElement('img');
             cardCount.classList.add('current-cnt-num');
@@ -15742,11 +15762,6 @@ function displayList(arr) {
             plusCard.classList.add('plus-card');
             plusCard.classList.add('material-symbols-outlined');
             plusCard.innerHTML = "add";
-
-            if (deckImg.id === 'ACE SPEC') {
-                plusCard.style.opacity = '0.4';
-                plusCard.style.pointerEvents = 'none';
-            }
 
             // add and minus card count
             plusCard.addEventListener("click", () => {
@@ -15803,6 +15818,11 @@ function displayList(arr) {
                     addCardBtn.style.pointerEvents = 'all';
                 }
             })
+
+            if (deckImg.id.includes('ACE SPEC', 'Prism Star')) {
+                plusCard.style.opacity = '0.4';
+                plusCard.style.pointerEvents = 'none';
+            }
 
             // // PRINT DECKLIST
             let copyButton = document.querySelector('.copy-as-dckli');

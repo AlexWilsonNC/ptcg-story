@@ -186,13 +186,13 @@ function performSearch() {
          currentValue++;
          currCounter.innerHTML = currentValue;
          if (currCounter.innerHTML === "60") {
-             currCounter.style.color = 'green';
-             statCount.style.color = 'green';
-             statCount.style.border = '1px solid green';
+            currCounter.style.color = 'green';
+            statCount.style.color = 'green';
+            statCount.style.border = '1px solid green';
          } else {
-             currCounter.style.color = 'black'
-             statCount.style.color = 'black';
-             statCount.style.border = '1px solid black';
+            currCounter.style.color = 'black'
+            statCount.style.color = 'black';
+            statCount.style.border = '1px solid black';
          }
          let deckAndPm = document.createElement('div');
          deckAndPm.classList.add('deck-add-minus');
@@ -226,14 +226,14 @@ function performSearch() {
             currentValue++;
             currCounter.innerHTML = currentValue;
             if (currCounter.innerHTML === "60") {
-                currCounter.style.color = 'green';
-                statCount.style.color = 'green';
-                statCount.style.border = '1px solid green';
+               currCounter.style.color = 'green';
+               statCount.style.color = 'green';
+               statCount.style.border = '1px solid green';
             } else {
-                currCounter.style.color = 'black'
-                statCount.style.color = 'black';
-                statCount.style.border = '1px solid black';
-            }            if (defaultCountofOne === 4) {
+               currCounter.style.color = 'black'
+               statCount.style.color = 'black';
+               statCount.style.border = '1px solid black';
+            } if (defaultCountofOne === 4) {
                plusCard.style.opacity = '0.4';
                plusCard.style.pointerEvents = 'none';
             }
@@ -247,17 +247,17 @@ function performSearch() {
                : defaultCountofOne + 1;
             defaultCountofOne = newNumber;
             let currentValue = parseInt(currCounter.innerHTML);
-                currentValue--;
-                currCounter.innerHTML = currentValue;
-                if (currCounter.innerHTML === "60") {
-                    currCounter.style.color = 'green';
-                    statCount.style.color = 'green';
-                    statCount.style.border = '1px solid green';
-                } else {
-                    currCounter.style.color = 'black'
-                    statCount.style.color = 'black';
-                    statCount.style.border = '1px solid black';
-                }
+            currentValue--;
+            currCounter.innerHTML = currentValue;
+            if (currCounter.innerHTML === "60") {
+               currCounter.style.color = 'green';
+               statCount.style.color = 'green';
+               statCount.style.border = '1px solid green';
+            } else {
+               currCounter.style.color = 'black'
+               statCount.style.color = 'black';
+               statCount.style.border = '1px solid black';
+            }
             plusCard.style.opacity = '1';
             plusCard.style.pointerEvents = 'all';
             cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
@@ -268,6 +268,17 @@ function performSearch() {
                addCardBtn.style.pointerEvents = 'all';
             }
          })
+
+         if (deckImg.id.includes('ACE SPEC')) {
+            plusCard.style.opacity = '0.4';
+            plusCard.style.pointerEvents = 'none';
+         } if (deckImg.id.includes('Prism Star')) {
+            plusCard.style.opacity = '0.4';
+            plusCard.style.pointerEvents = 'none';
+         } if (deckImg.id.includes('Radiant')) {
+            plusCard.style.opacity = '0.4';
+            plusCard.style.pointerEvents = 'none';
+         }
 
          // // PRINT DECKLIST
          let copyButton = document.querySelector('.copy-as-dckli');
@@ -306,7 +317,7 @@ function performSearch() {
                } if (altPieces.length === 9) {
                   altPieces[1] += ' ' + altPieces.slice(2, 7).join(' ');
                   altPieces.splice(2, 5);
-               } 
+               }
                // for card name like "Team Galactic's Invention G-107 Technical Machine G"
                if (altPieces.length === 10) {
                   altPieces[1] += ' ' + altPieces.slice(2, 8).join(' ');
