@@ -15704,6 +15704,8 @@ function displayList(arr) {
                     while (deckbox.firstChild) {
                         deckbox.removeChild(deckbox.firstChild);
                     }
+                    deckSort.style.opacity = "1";
+                    deckSort.style.pointerEvents = "all";
                 });
                 sortedContainers.forEach(deckCardContainer => {
                     deckbox.appendChild(deckCardContainer.cloneNode(true));
@@ -15928,6 +15930,8 @@ function displayList(arr) {
                 currCounter.style.color = 'black'
                 statCount.style.color = 'black';
                 statCount.style.border = '1px solid black';
+                deckSort.style.opacity = "1";
+                deckSort.style.pointerEvents = "all";
             })
 
             // must make decklist an array to sort?
@@ -16082,8 +16086,6 @@ function createImages() {
                 const setMatch = wrappedAlt.match(/"set": "(.*?)"/);
                 const numberMatch = wrappedAlt.match(/"number": "(.*?)"/);
 
-                // let setAbbrevFromWrappedAlt = setMatch;
-                // let cardNumberFromWrappedAlt = numberMatch;
                 let setAbbrevFromWrappedAlt, cardNumberFromWrappedAlt;
                 if (setMatch && setMatch[1] && numberMatch && numberMatch[1]) {
                     setAbbrevFromWrappedAlt = setMatch[1];
@@ -16109,12 +16111,23 @@ function createImages() {
                     pastedCard.setAttribute('src', '../assets/card-back.png');
                 }
 
-                pastedCard.setAttribute('alt', wrappedAlt.trim()); // TEST
-                // pastedCard.setAttribute('alt', alt); FINAL
+                // pastedCard.setAttribute('alt', wrappedAlt.trim()); // TEST
+                pastedCard.setAttribute('alt', alt); // FINAL
 
                 pastedCardContainer.appendChild(pastedCard)
                 deckbox.appendChild(pastedCardContainer)
+
+                deckSort.style.opacity = "0.1";
+                deckSort.style.pointerEvents = "none";
             });
+            // zoom card
+            pastedCard.onclick = () => {
+                zoomedImg.setAttribute('src', poke.images.large);
+                zoombox.className = "show";
+            };
+            zoombox.onclick = () => {
+                zoombox.className = "";
+            };
         })
         .catch(err => {
             console.error('Failed to read clipboard: ', err);

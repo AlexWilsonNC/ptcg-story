@@ -371,6 +371,8 @@ function performSearch() {
             currCounter.style.color = 'black'
             statCount.style.color = 'black';
             statCount.style.border = '1px solid black';
+            deckSort.style.opacity = "1";
+            deckSort.style.pointerEvents = "all";
          })
 
          deckCardContainer.appendChild(deckImg);
