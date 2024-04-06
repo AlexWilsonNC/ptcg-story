@@ -23,6 +23,9 @@ const bio = document.querySelector('.author-bio');
 const h4 = document.querySelector('h4');
 const articletable = document.querySelector('.article-table');
 const rightitbox = document.querySelectorAll('.right-it-box');
+const featuredboxnameanddate = document.querySelectorAll('.featured-box-name-and-date');
+const newcolor = document.querySelectorAll('.new-color');
+const featuredlink = document.querySelectorAll('.featured-link');
 
 const tbp3 = document.querySelector('.tbp3');
 const articletitle = document.querySelectorAll('.article-title');
@@ -108,6 +111,21 @@ const enableDarkMode = () => {
         twittertweet.setAttribute('data-theme', 'dark');
       })
     }
+    if (featuredboxnameanddate) {
+      featuredboxnameanddate.forEach((featuredboxnameanddate) => {
+        featuredboxnameanddate.classList.add('darkon');
+      })
+    }
+    if (newcolor) {
+      newcolor.forEach((newcolor) => {
+        newcolor.classList.add('darkon');
+      })
+    }
+    if (featuredlink) {
+      featuredlink.forEach((featuredlink) => {
+        featuredlink.classList.add('darkon');
+      })
+    }
     navrightr.classList.add('darkon');
     // dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
@@ -190,9 +208,24 @@ const enableDarkMode = () => {
         onemorelink.classList.remove('darkon');
       })
     }
+    if (featuredboxnameanddate) {
+      featuredboxnameanddate.forEach((featuredboxnameanddate) => {
+        featuredboxnameanddate.classList.remove('darkon');
+      })
+    }
+    if (newcolor) {
+      newcolor.forEach((newcolor) => {
+        newcolor.classList.remove('darkon');
+      })
+    }
     if (twittertweet) {
       twittertweet.forEach((twittertweet) => {
         twittertweet.setAttribute('data-theme', 'light');
+      })
+    }
+    if (featuredlink) {
+      featuredlink.forEach((featuredlink) => {
+        featuredlink.classList.remove('darkon');
       })
     }
     navrightr.classList.remove('darkon');
