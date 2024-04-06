@@ -132,7 +132,7 @@
 .wrapped-feature-second-row:hover {
     box-shadow: 1.5px 1.5px 4px rgba(0, 0, 0, 0.3);
     transform: scale(1.01);
-    /* background-color: rgb(50, 50, 50); */
+    background-color: rgb(246, 246, 246);
 }
 .wrapped-feature:hover > img,
 .wrapped-feature:hover > .article-thumbnail img,
