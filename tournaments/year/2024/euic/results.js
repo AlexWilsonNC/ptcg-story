@@ -105,17 +105,32 @@ let masters = [
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/iron-hands.png',
         sprite2: '../../../../assets/sprites/iron-crown.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
-            ],
+                {"count": 4, "name": "Iron Hands ex", "set": "PAR", "number": "70"},
+                {"count": 4, "name": "Iron Crown ex", "set": "TEF", "number": "81"},
+                {"count": 2, "name": "Miraidon", "set": "TEF", "number": "121"},
+                {"count": 1, "name": "Mew ex", "set": "MEW", "number": "151"},
+                        ],
             "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                {"count": 4, "name": "Professor's Research", "set": "PAF", "number": "88"},
+                {"count": 4, "name": "Arven", "set": "OBF", "number": "186"},
+                {"count": 3, "name": "Iono", "set": "PAF", "number": "80"},
+                {"count": 1, "name": "Boss’s Orders (Ghetsis)", "set": "PAL", "number": "172"},
+                {"count": 4, "name": "Electric Generator", "set": "PAF", "number": "79"},
+                {"count": 4, "name": "Techno Radar", "set": "PAR", "number": "180"},
+                {"count": 3, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+                {"count": 2, "name": "Nest Ball", "set": "PAF", "number": "84"},
+                {"count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157"},
+                {"count": 4, "name": "Future Booster Energy Capsule", "set": "TEF", "number": "149"},
+                {"count": 2, "name": "Heavy Baton", "set": "TEF", "number": "151"},
+                {"count": 1, "name": "Technical Machine: Crisis Punch", "set": "PAF", "number": "90"},
+                {"count": 1, "name": "Town Store", "set": "OBF", "number": "196"},
             ],
             "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                {"count": 14, "name": "Basic Lightning Energy", "set": "SVE", "number": "4"},
+                {"count": 1, "name": "Basic Psychic Energy", "set": "SVE", "number": "5"},
             ]
         }
     },
