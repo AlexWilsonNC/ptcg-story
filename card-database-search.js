@@ -7,7 +7,7 @@ const pokemonCard = [
    ...sv3,
    ...sv2,
    ...sv1,
-   // ...sve,
+   ...sve,
    ...ru1,
    ...swsh12pt5,
    ...swsh12,

@@ -7,6 +7,7 @@ let sve = [
         "subtypes": [
             "Basic"
         ],
+        "number": "3",
         "images": {
             "small": "https://images.pokemontcg.io/sve/3.png",
             "large": "https://images.pokemontcg.io/sve/3_hires.png"
@@ -20,6 +21,7 @@ let sve = [
         "subtypes": [
             "Basic"
         ],
+        "number": "1",
         "images": {
             "small": "https://images.pokemontcg.io/sve/1.png",
             "large": "https://images.pokemontcg.io/sve/1_hires.png"
@@ -33,6 +35,7 @@ let sve = [
         "subtypes": [
             "Basic"
         ],
+        "number": "7",
         "images": {
             "small": "https://images.pokemontcg.io/sve/7.png",
             "large": "https://images.pokemontcg.io/sve/7_hires.png"
@@ -46,6 +49,7 @@ let sve = [
         "subtypes": [
             "Basic"
         ],
+        "number": "4",
         "images": {
             "small": "https://images.pokemontcg.io/sve/4.png",
             "large": "https://images.pokemontcg.io/sve/4_hires.png"
@@ -59,6 +63,7 @@ let sve = [
         "subtypes": [
             "Basic"
         ],
+        "number": "8",
         "images": {
             "small": "https://images.pokemontcg.io/sve/8.png",
             "large": "https://images.pokemontcg.io/sve/8_hires.png"
@@ -72,6 +77,7 @@ let sve = [
         "subtypes": [
             "Basic"
         ],
+        "number": "2",
         "images": {
             "small": "https://images.pokemontcg.io/sve/2.png",
             "large": "https://images.pokemontcg.io/sve/2_hires.png"
@@ -85,6 +91,7 @@ let sve = [
         "subtypes": [
             "Basic"
         ],
+        "number": "5",
         "images": {
             "small": "https://images.pokemontcg.io/sve/5.png",
             "large": "https://images.pokemontcg.io/sve/5_hires.png"
@@ -98,6 +105,7 @@ let sve = [
         "subtypes": [
             "Basic"
         ],
+        "number": "6",
         "images": {
             "small": "https://images.pokemontcg.io/sve/6.png",
             "large": "https://images.pokemontcg.io/sve/6_hires.png"
