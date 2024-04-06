@@ -806,16 +806,13 @@ let masters = [
                 {"count": 4, "name": "Arceus V", "set": "BRS", "number": "122"},
                 {"count": 2, "name": "Bibarel", "set": "BRS", "number": "121"},
                 {"count": 2, "name": "Bidoof", "set": "CRZ", "number": "111"},
-                {"count": 1, "name": "Mew ex", "set": "MEW", "number": "151"},
                 {"count": 1, "name": "Slaking V", "set": "PGO", "number": "58"},
                 {"count": 1, "name": "Luxray V", "set": "ASR", "number": "50"},
+                {"count": 1, "name": "Mew ex", "set": "MEW", "number": "151"},
                 {"count": 1, "name": "Radiant Gardevoir", "set": "LOR", "number": "69"},
                 {"count": 1, "name": "Flutter Mane", "set": "TEF", "number": "78"},
                 {"count": 1, "name": "Spiritomb", "set": "PAL", "number": "89"},
                 {"count": 1, "name": "Skwovet", "set": "SVI", "number": "151"},
-                {"count": 4, "name": "Basic Lightning Energy", "set": "SVE", "number": "4"},
-                {"count": 2, "name": "Basic Psychic Energy", "set": "SVE", "number": "5"},
-                {"count": 4, "name": "Double Turbo Energy", "set": "BRS", "number": "151"},
                         ],
             "trainer": [
                 {"count": 3, "name": "Eri", "set": "TEF", "number": "146"},
@@ -835,6 +832,9 @@ let masters = [
                 {"count": 1, "name": "Hero's Cape", "set": "TEF", "number": "152"},
             ],
             "energy": [
+                {"count": 4, "name": "Basic Lightning Energy", "set": "SVE", "number": "4"},
+                {"count": 2, "name": "Basic Psychic Energy", "set": "SVE", "number": "5"},
+                {"count": 4, "name": "Double Turbo Energy", "set": "BRS", "number": "151"},
                 {"count": 2, "name": "Jet Energy", "set": "PAL", "number": "190"},
                 {"count": 1, "name": "Mist Energy", "set": "TEF", "number": "161"},
             ]
@@ -1158,7 +1158,7 @@ let seniors = [
         }
     },
     {
-        "firstName": "Justin T",
+        "firstName": "Justin Templer",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
@@ -1178,7 +1178,7 @@ let seniors = [
         }
     },
     {
-        "firstName": "Kamil B",
+        "firstName": "Kamil Bidzinski",
         flag: '../../../../assets/flags/canada.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
@@ -1198,7 +1198,7 @@ let seniors = [
         }
     },
     {
-        "firstName": "Oliver H",
+        "firstName": "Oliver Hanns",
         flag: '../../../../assets/flags/australia.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
@@ -1218,7 +1218,7 @@ let seniors = [
         }
     },
     {
-        "firstName": "Luka L",
+        "firstName": "Luka Levain",
         flag: '../../../../assets/flags/france.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
@@ -1238,7 +1238,7 @@ let seniors = [
         }
     },
     {
-        "firstName": "Tristan T",
+        "firstName": "Tristan Tse",
         flag: '../../../../assets/flags/canada.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
@@ -1258,7 +1258,7 @@ let seniors = [
         }
     },
     {
-        "firstName": "Daniel M",
+        "firstName": "Daniel Magda",
         flag: '../../../../assets/flags/czech-republic.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
@@ -1278,7 +1278,7 @@ let seniors = [
         }
     },
     {
-        "firstName": "Zubin S",
+        "firstName": "Zubin Schweitzer",
         flag: '../../../../assets/flags/uk.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
