@@ -520,7 +520,7 @@ let masters = [
     },
     {
         "firstName": "Simon Tschan",
-        flag: '../../../../assets/flags/chile.png',
+        flag: '../../../../assets/flags/switzerland.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
@@ -957,6 +957,628 @@ let seniors = [
     {
         "firstName": "--",
         flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Justin T",
+        flag: '../../../../assets/flags/usa.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Kamil B",
+        flag: '../../../../assets/flags/canada.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Oliver H",
+        flag: '../../../../assets/flags/australia.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Luka L",
+        flag: '../../../../assets/flags/france.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Tristan T",
+        flag: '../../../../assets/flags/canada.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Daniel M",
+        flag: '../../../../assets/flags/czech-republic.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Zubin S",
+        flag: '../../../../assets/flags/uk.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Martin E",
+        flag: '../../../../assets/flags/usa.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+]
+let juniors = [
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/flags/unknown.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Sebastian L",
+        flag: '../../../../assets/flags/new-zealand.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Pyettra S",
+        flag: '../../../../assets/flags/brazil.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Flavio F",
+        flag: '../../../../assets/flags/italy.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Mattia B",
+        flag: '../../../../assets/flags/switzerland.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Marcelo R",
+        flag: '../../../../assets/flags/brazil.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Henry C",
+        flag: '../../../../assets/flags/usa.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Zelda Z",
+        flag: '../../../../assets/flags/usa.png',
+        "event": "2024 EUIC",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Mateusz S",
+        flag: '../../../../assets/flags/poland.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
