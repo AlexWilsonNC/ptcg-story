@@ -80,11 +80,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Uffe Axelsen",
+        flag: '../../../../assets/flags/denmark.png',
         "event": "2024 EUIC",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/iron-hands.png',
+        sprite2: '../../../../assets/sprites/iron-crown.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -100,11 +100,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Juho Kallama",
+        flag: '../../../../assets/flags/finland.png',
         "event": "2024 EUIC",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/iron-hands.png',
+        sprite2: '../../../../assets/sprites/iron-crown.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -120,11 +120,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Mark Høstrup",
+        flag: '../../../../assets/flags/denmark.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/roaring-moon.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -140,11 +140,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Bert Wolters",
+        flag: '../../../../assets/flags/netherlands.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/pidgeot.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
