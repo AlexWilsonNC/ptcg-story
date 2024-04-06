@@ -185,7 +185,8 @@ let masters = [
             "pokemon": [
                 {"count": 2, "name": "Gardevoir ex", "set": "PAF", "number": "29"},
                 {"count": 4, "name": "Kirlia", "set": "SIT", "number": "68"},
-                {"count": 4, "name": "Ralts", "set": "ASR", "number": "60"},
+                {"count": 3, "name": "Ralts", "set": "ASR", "number": "60"},
+                {"count": 1, "name": "Ralts", "set": "SIT", "number": "67"},
                 {"count": 1, "name": "Drifloon", "set": "SVI", "number": "89"},
                 {"count": 1, "name": "Scream Tail", "set": "PAR", "number": "86"},
                 {"count": 1, "name": "Flutter Mane", "set": "TEF", "number": "78"},
@@ -202,9 +203,9 @@ let masters = [
                 {"count": 1, "name": "Eri", "set": "TEF", "number": "146"},
                 {"count": 1, "name": "Professor Turo's Scenario", "set": "PAR", "number": "171"},
                 {"count": 4, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144"},
-                {"count": 3, "name": "Nest Ball", "set": "PAF", "number": "84"},
                 {"count": 3, "name": "Counter Catcher", "set": "PAR", "number": "160"},
-                {"count": 2, "name": "Ultra Ball", "set": "PAF", "number": "91"},
+                {"count": 3, "name": "Ultra Ball", "set": "PAF", "number": "91"},
+                {"count": 2, "name": "Nest Ball", "set": "PAF", "number": "84"},
                 {"count": 2, "name": "Super Rod", "set": "PAL", "number": "188"},
                 {"count": 1, "name": "Earthen Vessel", "set": "PAR", "number": "163"},
                 {"count": 1, "name": "Hisuian Heavy Ball", "set": "ASR", "number": "146"},
@@ -212,8 +213,8 @@ let masters = [
                 {"count": 1, "name": "Bravery Charm", "set": "PAL", "number": "173"},
                 {"count": 1, "name": "Luxurious Cape", "set": "PAR", "number": "166"},
                 {"count": 1, "name": "Hero's Cape", "set": "TEF", "number": "152"},
-                {"count": 1, "name": "Collapsed Stadium", "set": "BRS", "number": "137"},
-            ],
+                {"count": 1, "name": "Town Store", "set": "OBF", "number": "196"},
+                        ],
             "energy": [
                 {"count": 9, "name": "Basic Psychic Energy", "set": "SVE", "number": "5"},       
             ]
