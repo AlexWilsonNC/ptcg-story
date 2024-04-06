@@ -191,8 +191,8 @@ let masters = [
         "firstName": "Bert Wolters",
         flag: '../../../../assets/flags/netherlands.png',
         "event": "2024 EUIC",
-        sprite1: '../../../../assets/sprites/pidgeot.png',
-        sprite2: '../../../../assets/sprites/snorlax.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/pidgeot.png',
         list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
