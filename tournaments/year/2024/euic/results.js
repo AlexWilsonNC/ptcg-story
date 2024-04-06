@@ -164,7 +164,7 @@ let masters = [
         flag: '../../../../assets/flags/france.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/gardevoir.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -223,8 +223,8 @@ let masters = [
         "firstName": "Pedro Eugenio Torres",
         flag: '../../../../assets/flags/spain.png',
         "event": "2024 EUIC",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/comfey.png',
+        sprite2: '../../../../assets/sprites/roaring-moon.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -263,8 +263,8 @@ let masters = [
         "firstName": "Azul Garcia Griego",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 EUIC",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/giratina-origin.png',
+        sprite2: '../../../../assets/sprites/comfey.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -344,7 +344,7 @@ let masters = [
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/gardevoir.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -363,8 +363,8 @@ let masters = [
         "firstName": "Caleb Gedemer",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 EUIC",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/giratina-origin.png',
+        sprite2: '../../../../assets/sprites/comfey.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -444,7 +444,7 @@ let masters = [
         flag: '../../../../assets/flags/france.png',
         "event": "2024 EUIC",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/gardevoir.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -483,8 +483,8 @@ let masters = [
         "firstName": "Aidan Khus",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 EUIC",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/charizard.png',
+        sprite2: '../../../../assets/sprites/pidgeot.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -523,8 +523,8 @@ let masters = [
         "firstName": "Brent Tonisson",
         flag: '../../../../assets/flags/australia.png',
         "event": "2024 EUIC",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/charizard.png',
+        sprite2: '../../../../assets/sprites/pidgeot.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
