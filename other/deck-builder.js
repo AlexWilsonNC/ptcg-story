@@ -15670,28 +15670,64 @@ function displayList(arr) {
             // SORT DECKLIST
             deckSort.addEventListener("click", () => {
                 const cardUnsorted = deckbox.getElementsByClassName("deckbuilt-card-container");
-
+            
                 const sortedContainers = Array.from(cardUnsorted).sort((a, b) => {
                     const idA = a.firstChild.id.split(","); // Get ID of the first image in the container
                     const idB = b.firstChild.id.split(","); // Get ID of the first image in the container
-
+            
                     // Prioritize Pokemon, Trainer, Energy
                     const priority = ["Pokemon", "Trainer", "Energy"];
                     const categoryIndexA = priority.indexOf(idA[0]);
                     const categoryIndexB = priority.indexOf(idB[0]);
-
+            
                     // Sort by category priority
                     if (categoryIndexA !== categoryIndexB) {
                         return categoryIndexA - categoryIndexB;
                     }
-
-                    // If both images belong to the same category, compare their additional values (if any)
+            
+                    // If both images belong to the same category but it's Trainer, prioritize by type
+                    if (idA[0] === "Trainer") {
+                        const typePriority = {
+                            "Supporter": 0,
+                            "Item": 1,
+                            "Pokémon Tool": 2,
+                            "Stadium": 3
+                        };
+            
+                        const typeIndexA = typePriority[idA[1]];
+                        const typeIndexB = typePriority[idB[1]];
+            
+                        // If both types are the same, sort by additional values (if any)
+                        if (typeIndexA === typeIndexB) {
+                            if (idA.length > 2 && idB.length > 2) {
+                                const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                                const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                                return altB - altA;
+                            }
+                        }
+            
+                        // If only one of the types is Supporter, prioritize it
+                        if (typeIndexA === 0 || typeIndexB === 0) {
+                            if (typeIndexA === 0 && typeIndexB === 0) {
+                                const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                                const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                                return altB - altA;
+                            }
+                            return typeIndexA === 0 ? -1 : 1;
+                        }
+            
+                        // Sort by Trainer type priority
+                        return typeIndexA - typeIndexB;
+                    }
+            
+                    // If both images belong to the same category but have the same type or belong to other categories,
+                    // compare their additional values (if any)
                     if (idA.length > 1 && idB.length > 1) {
                         const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
                         const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
                         return altB - altA;
                     }
-
+            
                     // If only one of the images has additional values, prioritize it
                     return idA.length - idB.length;
                 });
@@ -15704,8 +15740,6 @@ function displayList(arr) {
                     while (deckbox.firstChild) {
                         deckbox.removeChild(deckbox.firstChild);
                     }
-                    deckSort.style.opacity = "1";
-                    deckSort.style.pointerEvents = "all";
                 });
                 sortedContainers.forEach(deckCardContainer => {
                     deckbox.appendChild(deckCardContainer.cloneNode(true));
@@ -15932,8 +15966,6 @@ function displayList(arr) {
                 currCounter.style.color = 'black'
                 statCount.style.color = 'black';
                 statCount.style.border = '1px solid black';
-                deckSort.style.opacity = "1";
-                deckSort.style.pointerEvents = "all";
             })
 
             // must make decklist an array to sort?
@@ -16030,7 +16062,7 @@ document.getElementById('filter-search').addEventListener("click", () => {
 })
 
 // paste decklist
-function createImages() {
+function importDeck() {
     navigator.clipboard.readText()
         .then(text => {
             const altTexts = text.split('\n');
@@ -16108,6 +16140,13 @@ function createImages() {
                     pastedCard.classList.add('card-added-in-decklist');
                     let cardFound = allSets[setConvert[setAbbrevFromWrappedAlt]].find(cardInSet => cardInSet.id === setConvert[setAbbrevFromWrappedAlt] + "-" + cardNumberFromWrappedAlt);
                     pastedCard.setAttribute('src', cardFound.images.small);
+                    pastedCard.id = cardFound.supertype + "," + cardFound.subtypes;
+                    // if the card is a pokemon
+                    if (cardFound.types) {
+                        pastedCard.id = cardFound.supertype + "," + cardFound.subtypes + "," + cardFound.types;
+                    } if (cardFound.evolvesFrom) {
+                        pastedCard.id = cardFound.supertype + "," + cardFound.subtypes + "," + cardFound.types + ",Evolves from " + cardFound.evolvesFrom;
+                    }
                         // zoom card
                             pastedCard.onclick = () => {
                                 zoomedImg.setAttribute('src', cardFound.images.large);
@@ -16117,8 +16156,8 @@ function createImages() {
                                 zoombox.className = "";
                             };
 
-                    pastedCard.setAttribute('alt', alt);
-                    pastedCardContainer.appendChild(pastedCard);        
+                            pastedCard.setAttribute('alt', alt.trim());                    
+                            pastedCardContainer.appendChild(pastedCard);        
 
                     let deckAndPm = document.createElement('div');
                     deckAndPm.classList.add('deck-add-minus');
@@ -16134,8 +16173,8 @@ function createImages() {
 
                     const getmemyalt = pastedCard.getAttribute('alt');
                     const firstNumberMatch = getmemyalt.match(/\d+/);
-                    const poop = firstNumberMatch[0];
-                    cardCount.setAttribute('src', "../assets/card-count/" + poop + ".png");
+                    const cardCountValue = firstNumberMatch[0];
+                    cardCount.setAttribute('src', "../assets/card-count/" + cardCountValue + ".png");
         
                     let plusCard = document.createElement('span');
                     plusCard.classList.add('pm-card');
@@ -16153,15 +16192,76 @@ function createImages() {
                     // pastedCard.setAttribute('src', '../assets/card-back.png');
                 }
 
-                deckSort.style.opacity = "0.1";
-                deckSort.style.pointerEvents = "none";
+                let exportJson = document.querySelector('.export-json');
+                exportJson.addEventListener('click', function () {
+                    const images = document.querySelectorAll('.card-added-in-decklist');
+                    const altTexts = [];
+                    images.forEach((image, index) => {
+                        const altPieces = image.alt.split(' ');
+                        if (altPieces.length === 5) { // Check if there are five pieces
+                            altPieces[1] += ' ' + altPieces[2]; // Combine the second and third pieces if 5
+                            altPieces.splice(2, 1); // Remove the third piece if 5
+                        } if (altPieces.length === 6) {
+                            altPieces[1] += ' ' + altPieces[2] + ' ' + altPieces[3];
+                            altPieces.splice(2, 2); // Remove the third and fourth pieces
+                        } if (altPieces.length === 7) {
+                            altPieces[1] += ' ' + altPieces.slice(2, 5).join(' ');
+                            altPieces.splice(2, 3);
+                        } if (altPieces.length === 8) {
+                            altPieces[1] += ' ' + altPieces.slice(2, 6).join(' ');
+                            altPieces.splice(2, 4);
+                        } if (altPieces.length === 9) {
+                            altPieces[1] += ' ' + altPieces.slice(2, 7).join(' ');
+                            altPieces.splice(2, 5);
+                        }
+                        // for card name like "Team Galactic's Invention G-107 Technical Machine G"
+                        if (altPieces.length === 10) {
+                            altPieces[1] += ' ' + altPieces.slice(2, 8).join(' ');
+                            altPieces.splice(2, 6);
+                        } if (altPieces.length === 11) { // just in case
+                            altPieces[1] += ' ' + altPieces.slice(2, 9).join(' ');
+                            altPieces.splice(2, 7);
+                        }
+                        const mappedPieces = altPieces.map((piece, index) => {
+                            let key;
+                            switch (index) {
+                                case 0:
+                                    key = '"count":';
+                                    break;
+                                case 1:
+                                    key = '"name":';
+                                    break;
+                                case 2:
+                                    key = '"set":';
+                                    break;
+                                case 3:
+                                    key = '"number":';
+                                    break;
+                                default:
+                                    key = '';
+                            }
+                            if (index === 0 && !isNaN(piece)) {
+                                return key + ' ' + piece;
+                            } else {
+                                return key + ' "' + piece + '"';
+                            }
+                        });
+                        const wrappedAlt = '{' + mappedPieces.join(', ') + '},';
+                        altTexts.push(wrappedAlt);
+                    });
+                    const textToCopy = altTexts.join('\n');
+                    navigator.clipboard.writeText(textToCopy);
+    
+                    document.querySelector('.copied-json-check').style.display = 'flex';
+                    setTimeout(() => {
+                        document.querySelector('.copied-json-check').style.display = "none";
+                    }, 2500);
+                })
             });
             document.getElementById('deck-reset').addEventListener("click", () => {
                 while (deckbox.firstChild) {
                     deckbox.removeChild(deckbox.firstChild);
                 }
-                deckSort.style.opacity = "1";
-                deckSort.style.pointerEvents = "all";
             });
         })
         // .catch(err => {
