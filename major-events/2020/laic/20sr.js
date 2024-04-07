@@ -885,7 +885,7 @@ let masters = [
     {
       firstName: 'Vinicius Fernandez',
       flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/florges-red.png',
+      sprite1: '../../../assets/sprites/florges.png',
       sprite2: '../../../assets/sprites/munchlax.png',
       list: '../../../assets/list-icon.png',
       deckid: "florges-munchlax",
