@@ -15783,9 +15783,11 @@ function displayList(arr) {
                     statCount.style.color = 'black';
                     statCount.style.border = '1px solid black';
                 }
-                if (defaultCountofOne === 4) {
-                    plusCard.style.opacity = '0.4';
-                    plusCard.style.pointerEvents = 'none';
+                if (!deckImg.id.includes("Energy,Basic")) {
+                    if (defaultCountofOne === 4) {
+                        plusCard.style.opacity = '0.4';
+                        plusCard.style.pointerEvents = 'none';
+                    }
                 }
                 cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
                 deckImg.setAttribute('alt', newNumber + " " + item.name + " " + item.setAbbrev + " " + item.number);
@@ -16095,42 +16097,46 @@ function createImages() {
                 console.log('extracted card number:', cardNumberFromWrappedAlt);
 
                 const allSets = {
-                    sv5, sv4pt5, sv4, sv3pt5, sv3, sv2, sv1, sve, svp, swsh12pt5, swsh12, swsh11, pgo, swsh10, swsh9, swsh8, cel25, swsh7, swsh6, swsh5, swsh45, swsh4, swsh35, swsh3, swsh2, swsh1, swshp, sm12, sm115, sm11, sm10, det, sm9, sm8, sm7, sm6, sm5, sm4, sm3, sm2, sm1, sm75, sm35, smp, xy12, xy11, xy10, g1, xy9, xy8, xy7, xy6, dc1, xy5, xy4, xy3, xy2, xy1, xyp, bw11, bw10, bw9, bw8, bw7, bw6, bw5, bw4, bw3, bw2, bw1, dv1, bwp, col1, hgss4, hgss3, hgss2, hgss1, hsp, pl4, pl3, pl2, pl1, dp7, dp6, dp5, dp4, dp3, dp2, dp1, dpp, ex16, ex15, ex14, ex13, ex12, ex11, ex10, ex9, ex8, ex7, ex6, ex5, ex4, ex3, ex2, ex1, np, ecard3, ecard2, ecard1, neo4, neo3, neo2, neo1, gym2, gym1, base6, base5, base4, base3, base2, base1, basep, xy0, pop1, pop2, pop3, pop4, pop5, pop6, pop7, pop8, pop9, ru1, si1, tk1a
+                    sv5, sv4pt5, sv4, sv3pt5, sv3, sv2, sv1, sve, importedenergy, svp, swsh12pt5, swsh12, swsh11, pgo, swsh10, swsh9, swsh8, cel25, swsh7, swsh6, swsh5, swsh45, swsh4, swsh35, swsh3, swsh2, swsh1, swshp, sm12, sm115, sm11, sm10, det, sm9, sm8, sm7, sm6, sm5, sm4, sm3, sm2, sm1, sm75, sm35, smp, xy12, xy11, xy10, g1, xy9, xy8, xy7, xy6, dc1, xy5, xy4, xy3, xy2, xy1, xyp, bw11, bw10, bw9, bw8, bw7, bw6, bw5, bw4, bw3, bw2, bw1, dv1, bwp, col1, hgss4, hgss3, hgss2, hgss1, hsp, pl4, pl3, pl2, pl1, dp7, dp6, dp5, dp4, dp3, dp2, dp1, dpp, ex16, ex15, ex14, ex13, ex12, ex11, ex10, ex9, ex8, ex7, ex6, ex5, ex4, ex3, ex2, ex1, np, ecard3, ecard2, ecard1, neo4, neo3, neo2, neo1, gym2, gym1, base6, base5, base4, base3, base2, base1, basep, xy0, pop1, pop2, pop3, pop4, pop5, pop6, pop7, pop8, pop9, ru1, si1, tk1a
                 }
-
-                let pastedCardContainer = document.createElement('div');
-                pastedCardContainer.classList.add('deckbuilt-card-container');
-                let pastedCard = document.createElement('img');
-                pastedCard.classList.add('database-card-in-list');
-                pastedCard.classList.add('card-added-in-decklist');
 
                 if (setAbbrevFromWrappedAlt && cardNumberFromWrappedAlt) {
+                    let pastedCardContainer = document.createElement('div');
+                    pastedCardContainer.classList.add('deckbuilt-card-container');
+                    let pastedCard = document.createElement('img');
+                    pastedCard.classList.add('database-card-in-list');
+                    pastedCard.classList.add('card-added-in-decklist');
                     let cardFound = allSets[setConvert[setAbbrevFromWrappedAlt]].find(cardInSet => cardInSet.id === setConvert[setAbbrevFromWrappedAlt] + "-" + cardNumberFromWrappedAlt);
                     pastedCard.setAttribute('src', cardFound.images.small);
+                        // zoom card
+                            pastedCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            };
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
+                    pastedCard.setAttribute('alt', alt);
+                    pastedCardContainer.appendChild(pastedCard)
+                    deckbox.appendChild(pastedCardContainer)
                 } else {
-                    pastedCard.setAttribute('src', '../assets/card-back.png');
+                    // NOTHING
+                    // pastedCard.setAttribute('src', '../assets/card-back.png');
                 }
-
-                // pastedCard.setAttribute('alt', wrappedAlt.trim()); // TEST
-                pastedCard.setAttribute('alt', alt); // FINAL
-
-                pastedCardContainer.appendChild(pastedCard)
-                deckbox.appendChild(pastedCardContainer)
 
                 deckSort.style.opacity = "0.1";
                 deckSort.style.pointerEvents = "none";
             });
-            // zoom card
-            pastedCard.onclick = () => {
-                zoomedImg.setAttribute('src', poke.images.large);
-                zoombox.className = "show";
-            };
-            zoombox.onclick = () => {
-                zoombox.className = "";
-            };
+            document.getElementById('deck-reset').addEventListener("click", () => {
+                while (deckbox.firstChild) {
+                    deckbox.removeChild(deckbox.firstChild);
+                }
+                deckSort.style.opacity = "1";
+                deckSort.style.pointerEvents = "all";
+            });
         })
-        .catch(err => {
-            console.error('Failed to read clipboard: ', err);
-            alert('Failed to read clipboard');
-        });
+        // .catch(err => {
+        //     console.error('Failed to read clipboard: ', err);
+        //     alert('Failed to read clipboard');
+        // });
 }

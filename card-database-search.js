@@ -8,6 +8,7 @@ const pokemonCard = [
    ...sv2,
    ...sv1,
    ...sve,
+   ...importedenergy,
    ...ru1,
    ...swsh12pt5,
    ...swsh12,
@@ -234,10 +235,12 @@ function performSearch() {
                currCounter.style.color = 'black'
                statCount.style.color = 'black';
                statCount.style.border = '1px solid black';
-            } if (defaultCountofOne === 4) {
-               plusCard.style.opacity = '0.4';
-               plusCard.style.pointerEvents = 'none';
-            }
+            } if (!deckImg.id.includes("Energy,Basic")) {
+               if (defaultCountofOne === 4) {
+                   plusCard.style.opacity = '0.4';
+                   plusCard.style.pointerEvents = 'none';
+               }
+           }
             cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
             deckImg.setAttribute('alt', newNumber + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
             // currentDeckCount.innerHTML = newNumber;
