@@ -24,7 +24,8 @@ function filterEvents() {
         internationals.classList.remove('new-red-bg');
     });
     championsLeague.forEach((championsLeague) => {
-        championsLeague.style.display = 'none';
+        championsLeague.style.display = 'table-row';
+        championsLeague.classList.remove('new-red-bg');
     });
     regionals.forEach((regionals) => {
         regionals.style.display = 'table-row';
@@ -57,6 +58,48 @@ function filterEvents() {
     regionalLeague.forEach((regionalLeague) => {
         regionalLeague.style.display = 'table-row';
         regionalLeague.classList.remove('new-red-bg');
+    });}
+    if (x === "all-tpci") {
+    worlds.forEach((worlds) => {
+        worlds.style.display = 'table-row';
+        worlds.classList.remove('new-red-bg');
+    });
+    internationals.forEach((internationals) => {
+        internationals.style.display = 'table-row';
+        internationals.classList.remove('new-red-bg');
+    });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'none';
+    });
+    regionals.forEach((regionals) => {
+        regionals.style.display = 'table-row';
+        regionals.classList.remove('new-red-bg');
+    });
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'none';
+    });
+    regionalLeague.forEach((regionalLeague) => {
+        regionalLeague.style.display = 'none';
+    });
+    playersCup.forEach((playersCup) => {
+        playersCup.style.display = 'table-row';
+        playersCup.classList.remove('new-red-bg');
+    });
+    nationals.forEach((nationals) => {
+        nationals.style.display = 'table-row';
+        nationals.classList.remove('new-red-bg');
+    });
+    stadiumChallenge.forEach((stadiumChallenge) => {
+        stadiumChallenge.style.display = 'table-row';
+        stadiumChallenge.classList.remove('new-red-bg');
+    });
+    superTrainerShowdown.forEach((superTrainerShowdown) => {
+        superTrainerShowdown.style.display = 'table-row';
+        superTrainerShowdown.classList.remove('new-red-bg');
+    });
+    specialEvent.forEach((specialEvent) => {
+        specialEvent.style.display = 'table-row';
+        specialEvent.classList.remove('new-red-bg');
     });
     } else if (x === "worlds") {
     worlds.forEach((worlds) => {
