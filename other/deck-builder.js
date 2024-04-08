@@ -15696,8 +15696,9 @@ function displayList(arr) {
                         const typePriority = {
                             "Supporter": 0,
                             "Item": 1,
-                            "Pokémon Tool": 2,
-                            "Stadium": 3,
+                            "undefined": 2,
+                            "Pokémon Tool": 3,
+                            "Stadium": 4,
                         };
                         const typeIndexA = typePriority[idA[1]];
                         const typeIndexB = typePriority[idB[1]];
@@ -15774,31 +15775,62 @@ function displayList(arr) {
                     deckbox.appendChild(deckCardContainer.cloneNode(true));
                 });
 
-                // let getmemyalt = cardUnsorted.getAttribute('alt');
-                // let firstNumberMatch = getmemyalt.match(/\d+/);
-                // let sortedNewValue = firstNumberMatch[0];
-                // let hiya = document.querySelector('.current-card-count');
-                // hiya.setAttribute('src', "../assets/card-count/" + "1" + ".png");
+                let plusCards = document.querySelectorAll('.plus-card');
+                let minusCards = document.querySelectorAll('.minus-card');
+                plusCards.forEach(plusCard => {
+                    plusCard.addEventListener('click', () => {
+                        // Your plus card logic here
+                        let image = plusCard.parentNode.previousElementSibling;
+                        let alt = image.getAttribute('alt');
+                        let cardCount = parseInt(alt.match(/\d+/)[0]);
+                        cardCount++;
+                        let newAlt = alt.replace(/\d+/, cardCount);
+                        image.setAttribute('alt', newAlt);
 
-                let plusCard = document.querySelectorAll('.plus-card')
-                plusCard.forEach(function (i) {
-                    i.addEventListener("click", () => {
-                        // console.log('yes i clicked')
-                        let newNumber = defaultCountofOne
-                            ? defaultCountofOne + 1
-                            : defaultCountofOne - 1;
-                        defaultCountofOne = newNumber;
-                        let currentValue = parseInt(currCounter.innerHTML);
-                        currentValue++;
-                        currCounter.innerHTML = currentValue;
-                        if (defaultCountofOne === 4) {
-                            plusCard.style.opacity = '0.4';
-                            plusCard.style.pointerEvents = 'none';
+                        if (!image.id.includes("Energy,Basic")) {
+                            if (cardCount === 4) {
+                                plusCard.style.opacity = '0.4';
+                                plusCard.style.pointerEvents = 'none';
+                            }
                         }
-                        cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
-                        deckImg.setAttribute('alt', newNumber + " " + item.name + " " + item.setAbbrev + " " + item.number);
-                    })
-                })
+                        if (image.id.includes("Energy,Basic")) {
+                            if (cardCount === 30) {
+                                plusCard.style.opacity = '0.4';
+                                plusCard.style.pointerEvents = 'none';
+                            }
+                        }
+
+                        let currentCntNum = plusCard.parentNode.querySelector('.current-cnt-num');
+                        currentCntNum.setAttribute('src', "../assets/card-count/" + cardCount + ".png");
+                    });
+                });
+                minusCards.forEach(minusCard => {
+                    minusCard.addEventListener('click', () => {
+                        let image = minusCard.parentNode.previousElementSibling;
+                        let alt = image.getAttribute('alt');
+                        let cardCount = parseInt(alt.match(/\d+/)[0]);
+                        cardCount--;
+                        if (cardCount < 0) {
+                            cardCount = 0;
+                        }
+                        let newAlt = alt.replace(/\d+/, cardCount);
+                        image.setAttribute('alt', newAlt);
+                        
+                        // Target the plus card within the same parent node as the minus card
+                        let plusCard = minusCard.parentNode.querySelector('.plus-card');
+                        plusCard.style.opacity = '1';
+                        plusCard.style.pointerEvents = 'all';
+
+                        if (cardCount === 0) {
+                            minusCard.parentNode.parentNode.remove();
+                            addCardBtn.style.opacity = 1;
+                            addCardBtn.style.pointerEvents = 'all';
+                        }
+
+                        let currentCntNum = minusCard.parentNode.querySelector('.current-cnt-num');
+                        currentCntNum.setAttribute('src', "../assets/card-count/" + cardCount + ".png");
+                    });
+                });
             });
 
             let deckAndPm = document.createElement('div');

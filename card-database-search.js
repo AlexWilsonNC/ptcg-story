@@ -192,106 +192,106 @@ function performSearch() {
          deckSort.addEventListener("click", () => {
             // Define basic energy types
             const basicEnergyTypes = ["Grass", "Fire", "Water", "Lightning", "Psychic", "Fighting", "Darkness", "Metal", "Fairy"];
-        
+
             const cardUnsorted = deckbox.getElementsByClassName("deckbuilt-card-container");
             const sortedContainers = Array.from(cardUnsorted).sort((a, b) => {
-                // Function to extract the basic energy type from the card alt text
-                function getTypeFromName(cardAlt) {
-                    // Extract the energy type from the card alt text
-                    const altParts = cardAlt.split(" ");
-                    const typeIndex = altParts.findIndex(part => {
-                        return basicEnergyTypes.some(energyType => part.toLowerCase().includes(energyType.toLowerCase()));
-                    });
-        
-                    if (typeIndex !== -1) {
-                        return altParts[typeIndex];
-                    }
-        
-                    // If no energy type is found, return the original type
-                    return altParts[1]; // Assuming type is the second part of the alt text
-                }
-        
-                const idA = a.firstChild.id.split(","); // Get ID of the first image in the container
-                const idB = b.firstChild.id.split(","); // Get ID of the first image in the container
-        
-                // Prioritize Pokemon, Trainer, Energy
-                const priority = ["Pokemon", "Trainer", "Energy"];
-                const categoryIndexA = priority.indexOf(idA[0]);
-                const categoryIndexB = priority.indexOf(idB[0]);
-        
-                // Sort by category priority
-                if (categoryIndexA !== categoryIndexB) {
-                    return categoryIndexA - categoryIndexB;
-                }
-        
-                // If both images belong to the same category but it's Trainer, prioritize by type first, then count
-                if (idA[0] === "Trainer") {
-                    const typePriority = {
-                        "Supporter": 0,
-                        "Item": 1,
-                        "Pokémon Tool": 2,
-                        "Stadium": 3,
-                    };
-                    const typeIndexA = typePriority[idA[1]];
-                    const typeIndexB = typePriority[idB[1]];
-        
-                    // Sort by type priority
-                    if (typeIndexA !== typeIndexB) {
-                        return typeIndexA - typeIndexB;
-                    }
-        
-                    // If types are the same, sort by count
-                    const countA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                    const countB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                    return countB - countA;
-                }
-        
-                // If both images belong to the same category but it's Energy
-                if (idA[0] === "Energy") {
-                    const typeA = getTypeFromName(a.firstChild.getAttribute('alt'));
-                    const typeB = getTypeFromName(b.firstChild.getAttribute('alt'));
-                    const countA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                    const countB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
-        
-                    // Check if either card is special energy
-                    const isSpecialA = !basicEnergyTypes.includes(typeA);
-                    const isSpecialB = !basicEnergyTypes.includes(typeB);
-        
-                    // If both cards are special energy or both are basic energy, sort by energy type
-                    if (isSpecialA === isSpecialB) {
-                        if (isSpecialA) {
-                            // Both cards are special energy, so prioritize them by count, then type
-                            if (countA !== countB) {
-                                return countB - countA;
-                            }
-                            // If counts are equal, sort by energy type
-                            const indexA = basicEnergyTypes.indexOf(typeA);
-                            const indexB = basicEnergyTypes.indexOf(typeB);
-                            return indexA - indexB;
-                        } else {
-                            // Both cards are basic energy, so sort by count first, then energy type
-                            if (countA !== countB) {
-                                return countB - countA;
-                            }
-                            const indexA = basicEnergyTypes.indexOf(typeA);
-                            const indexB = basicEnergyTypes.indexOf(typeB);
-                            return indexA - indexB;
+               // Function to extract the basic energy type from the card alt text
+               function getTypeFromName(cardAlt) {
+                  // Extract the energy type from the card alt text
+                  const altParts = cardAlt.split(" ");
+                  const typeIndex = altParts.findIndex(part => {
+                     return basicEnergyTypes.some(energyType => part.toLowerCase().includes(energyType.toLowerCase()));
+                  });
+
+                  if (typeIndex !== -1) {
+                     return altParts[typeIndex];
+                  }
+
+                  // If no energy type is found, return the original type
+                  return altParts[1]; // Assuming type is the second part of the alt text
+               }
+
+               const idA = a.firstChild.id.split(","); // Get ID of the first image in the container
+               const idB = b.firstChild.id.split(","); // Get ID of the first image in the container
+
+               // Prioritize Pokemon, Trainer, Energy
+               const priority = ["Pokemon", "Trainer", "Energy"];
+               const categoryIndexA = priority.indexOf(idA[0]);
+               const categoryIndexB = priority.indexOf(idB[0]);
+
+               // Sort by category priority
+               if (categoryIndexA !== categoryIndexB) {
+                  return categoryIndexA - categoryIndexB;
+               }
+
+               // If both images belong to the same category but it's Trainer, prioritize by type first, then count
+               if (idA[0] === "Trainer") {
+                  const typePriority = {
+                     "Supporter": 0,
+                     "Item": 1,
+                     "Pokémon Tool": 2,
+                     "Stadium": 3,
+                  };
+                  const typeIndexA = typePriority[idA[1]];
+                  const typeIndexB = typePriority[idB[1]];
+
+                  // Sort by type priority
+                  if (typeIndexA !== typeIndexB) {
+                     return typeIndexA - typeIndexB;
+                  }
+
+                  // If types are the same, sort by count
+                  const countA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                  const countB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                  return countB - countA;
+               }
+
+               // If both images belong to the same category but it's Energy
+               if (idA[0] === "Energy") {
+                  const typeA = getTypeFromName(a.firstChild.getAttribute('alt'));
+                  const typeB = getTypeFromName(b.firstChild.getAttribute('alt'));
+                  const countA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                  const countB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
+
+                  // Check if either card is special energy
+                  const isSpecialA = !basicEnergyTypes.includes(typeA);
+                  const isSpecialB = !basicEnergyTypes.includes(typeB);
+
+                  // If both cards are special energy or both are basic energy, sort by energy type
+                  if (isSpecialA === isSpecialB) {
+                     if (isSpecialA) {
+                        // Both cards are special energy, so prioritize them by count, then type
+                        if (countA !== countB) {
+                           return countB - countA;
                         }
-                    } else {
-                        // One card is special energy and the other is basic energy
-                        // Prioritize basic energy first to ensure special energy is printed after all basic energy
-                        return isSpecialA ? 1 : -1;
-                    }
-                }
-        
-                // Default sorting behavior for other categories or when no additional values are present
-                if (idA.length > 1 && idB.length > 1) {
-                    const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                    const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                    return altB - altA;
-                }
-        
-                return idA.length - idB.length;
+                        // If counts are equal, sort by energy type
+                        const indexA = basicEnergyTypes.indexOf(typeA);
+                        const indexB = basicEnergyTypes.indexOf(typeB);
+                        return indexA - indexB;
+                     } else {
+                        // Both cards are basic energy, so sort by count first, then energy type
+                        if (countA !== countB) {
+                           return countB - countA;
+                        }
+                        const indexA = basicEnergyTypes.indexOf(typeA);
+                        const indexB = basicEnergyTypes.indexOf(typeB);
+                        return indexA - indexB;
+                     }
+                  } else {
+                     // One card is special energy and the other is basic energy
+                     // Prioritize basic energy first to ensure special energy is printed after all basic energy
+                     return isSpecialA ? 1 : -1;
+                  }
+               }
+
+               // Default sorting behavior for other categories or when no additional values are present
+               if (idA.length > 1 && idB.length > 1) {
+                  const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                  const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                  return altB - altA;
+               }
+
+               return idA.length - idB.length;
             });
             // Remove existing containers
             while (deckbox.firstChild) {
@@ -307,28 +307,62 @@ function performSearch() {
                deckbox.appendChild(deckCardContainer.cloneNode(true));
             });
 
-            let defaultCountofOne = 1;
-            let cardCount = document.createElement('img');
-            cardCount.classList.add('current-cnt-num');
-            cardCount.setAttribute('src', "../assets/card-count/" + defaultCountofOne + ".png");
-            let plusCard = document.querySelectorAll('.plus-card')
-            plusCard.forEach(function (i) {
-               i.addEventListener("click", () => {
-                  let newNumber = defaultCountofOne
-                     ? defaultCountofOne + 1
-                     : defaultCountofOne - 1;
-                  defaultCountofOne = newNumber;
-                  let currentValue = parseInt(currCounter.innerHTML);
-                  currentValue++;
-                  currCounter.innerHTML = currentValue;
-                  if (defaultCountofOne === 4) {
-                     plusCard.style.opacity = '0.4';
-                     plusCard.style.pointerEvents = 'none';
+            let plusCards = document.querySelectorAll('.plus-card');
+            let minusCards = document.querySelectorAll('.minus-card');
+            plusCards.forEach(plusCard => {
+               plusCard.addEventListener('click', () => {
+                  // Your plus card logic here
+                  let image = plusCard.parentNode.previousElementSibling;
+                  let alt = image.getAttribute('alt');
+                  let cardCount = parseInt(alt.match(/\d+/)[0]);
+                  cardCount++;
+                  let newAlt = alt.replace(/\d+/, cardCount);
+                  image.setAttribute('alt', newAlt);
+
+                  if (!image.id.includes("Energy,Basic")) {
+                     if (cardCount === 4) {
+                        plusCard.style.opacity = '0.4';
+                        plusCard.style.pointerEvents = 'none';
+                     }
                   }
-                  cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
-                  deckImg.setAttribute('alt', newNumber + " " + item.name + " " + item.setAbbrev + " " + item.number);
-               })
-            })
+                  if (image.id.includes("Energy,Basic")) {
+                     if (cardCount === 30) {
+                        plusCard.style.opacity = '0.4';
+                        plusCard.style.pointerEvents = 'none';
+                     }
+                  }
+
+                  let currentCntNum = plusCard.parentNode.querySelector('.current-cnt-num');
+                  currentCntNum.setAttribute('src', "../assets/card-count/" + cardCount + ".png");
+               });
+            });
+            minusCards.forEach(minusCard => {
+               minusCard.addEventListener('click', () => {
+                  let image = minusCard.parentNode.previousElementSibling;
+                  let alt = image.getAttribute('alt');
+                  let cardCount = parseInt(alt.match(/\d+/)[0]);
+                  cardCount--;
+                  if (cardCount < 0) {
+                     cardCount = 0;
+                  }
+                  let newAlt = alt.replace(/\d+/, cardCount);
+                  image.setAttribute('alt', newAlt);
+
+                  // Target the plus card within the same parent node as the minus card
+                  let plusCard = minusCard.parentNode.querySelector('.plus-card');
+                  plusCard.style.opacity = '1';
+                  plusCard.style.pointerEvents = 'all';
+
+                  if (cardCount === 0) {
+                     minusCard.parentNode.parentNode.remove();
+                     addCardBtn.style.opacity = 1;
+                     addCardBtn.style.pointerEvents = 'all';
+                  }
+
+                  let currentCntNum = minusCard.parentNode.querySelector('.current-cnt-num');
+                  currentCntNum.setAttribute('src', "../assets/card-count/" + cardCount + ".png");
+               });
+            });
          });
 
          let deckAndPm = document.createElement('div');
