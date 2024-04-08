@@ -187,15 +187,6 @@ function performSearch() {
          let currentValue = parseInt(currCounter.innerHTML);
          currentValue++;
          currCounter.innerHTML = currentValue;
-         if (currCounter.innerHTML === "60") {
-            currCounter.style.color = 'green';
-            statCount.style.color = 'green';
-            statCount.style.border = '1px solid green';
-         } else {
-            currCounter.style.color = 'black'
-            statCount.style.color = 'black';
-            statCount.style.border = '1px solid black';
-         }
 
          // SORT DECKLIST
          deckSort.addEventListener("click", () => {
@@ -330,15 +321,6 @@ function performSearch() {
                   let currentValue = parseInt(currCounter.innerHTML);
                   currentValue++;
                   currCounter.innerHTML = currentValue;
-                  if (currCounter.innerHTML === "60") {
-                     currCounter.style.color = 'green';
-                     statCount.style.color = 'green';
-                     statCount.style.border = '1px solid green';
-                  } else {
-                     currCounter.style.color = 'black'
-                     statCount.style.color = 'black';
-                     statCount.style.border = '1px solid black';
-                  }
                   if (defaultCountofOne === 4) {
                      plusCard.style.opacity = '0.4';
                      plusCard.style.pointerEvents = 'none';
@@ -380,15 +362,6 @@ function performSearch() {
             let currentValue = parseInt(currCounter.innerHTML);
             currentValue++;
             currCounter.innerHTML = currentValue;
-            if (currCounter.innerHTML === "60") {
-               currCounter.style.color = 'green';
-               statCount.style.color = 'green';
-               statCount.style.border = '1px solid green';
-            } else {
-               currCounter.style.color = 'black'
-               statCount.style.color = 'black';
-               statCount.style.border = '1px solid black';
-            }
             if (!deckImg.id.includes("Energy,Basic")) {
                if (defaultCountofOne === 4) {
                   plusCard.style.opacity = '0.4';
@@ -413,15 +386,6 @@ function performSearch() {
             let currentValue = parseInt(currCounter.innerHTML);
             currentValue--;
             currCounter.innerHTML = currentValue;
-            if (currCounter.innerHTML === "60") {
-               currCounter.style.color = 'green';
-               statCount.style.color = 'green';
-               statCount.style.border = '1px solid green';
-            } else {
-               currCounter.style.color = 'black'
-               statCount.style.color = 'black';
-               statCount.style.border = '1px solid black';
-            }
             plusCard.style.opacity = '1';
             plusCard.style.pointerEvents = 'all';
             cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");

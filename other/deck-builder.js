@@ -15638,9 +15638,6 @@ function displayList(arr) {
         cardArea.appendChild(img);
         cardArea.appendChild(addCardBtn);
 
-        // sort set by number
-        // arrOfAllCards.sort((a, b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
-
         // duplicate card from search into decklist
         addCardBtn.addEventListener("click", () => {
             let deckCardContainer = document.createElement('div');
@@ -15657,21 +15654,12 @@ function displayList(arr) {
             let currentValue = parseInt(currCounter.innerHTML);
             currentValue++;
             currCounter.innerHTML = currentValue;
-            if (currCounter.innerHTML === "60") {
-                currCounter.style.color = 'green';
-                statCount.style.color = 'green';
-                statCount.style.border = '1px solid green';
-            } else {
-                currCounter.style.color = 'black'
-                statCount.style.color = 'black';
-                statCount.style.border = '1px solid black';
-            }
 
             // SORT DECKLIST
             deckSort.addEventListener("click", () => {
                 // Define basic energy types
                 const basicEnergyTypes = ["Grass", "Fire", "Water", "Lightning", "Psychic", "Fighting", "Darkness", "Metal", "Fairy"];
-            
+
                 const cardUnsorted = deckbox.getElementsByClassName("deckbuilt-card-container");
                 const sortedContainers = Array.from(cardUnsorted).sort((a, b) => {
                     // Function to extract the basic energy type from the card alt text
@@ -15681,28 +15669,28 @@ function displayList(arr) {
                         const typeIndex = altParts.findIndex(part => {
                             return basicEnergyTypes.some(energyType => part.toLowerCase().includes(energyType.toLowerCase()));
                         });
-            
+
                         if (typeIndex !== -1) {
                             return altParts[typeIndex];
                         }
-            
+
                         // If no energy type is found, return the original type
                         return altParts[1]; // Assuming type is the second part of the alt text
                     }
-            
+
                     const idA = a.firstChild.id.split(","); // Get ID of the first image in the container
                     const idB = b.firstChild.id.split(","); // Get ID of the first image in the container
-            
+
                     // Prioritize Pokemon, Trainer, Energy
                     const priority = ["Pokemon", "Trainer", "Energy"];
                     const categoryIndexA = priority.indexOf(idA[0]);
                     const categoryIndexB = priority.indexOf(idB[0]);
-            
+
                     // Sort by category priority
                     if (categoryIndexA !== categoryIndexB) {
                         return categoryIndexA - categoryIndexB;
                     }
-            
+
                     // If both images belong to the same category but it's Trainer, prioritize by type first, then count
                     if (idA[0] === "Trainer") {
                         const typePriority = {
@@ -15713,29 +15701,29 @@ function displayList(arr) {
                         };
                         const typeIndexA = typePriority[idA[1]];
                         const typeIndexB = typePriority[idB[1]];
-            
+
                         // Sort by type priority
                         if (typeIndexA !== typeIndexB) {
                             return typeIndexA - typeIndexB;
                         }
-            
+
                         // If types are the same, sort by count
                         const countA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
                         const countB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
                         return countB - countA;
                     }
-            
+
                     // If both images belong to the same category but it's Energy
                     if (idA[0] === "Energy") {
                         const typeA = getTypeFromName(a.firstChild.getAttribute('alt'));
                         const typeB = getTypeFromName(b.firstChild.getAttribute('alt'));
                         const countA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
                         const countB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
-            
+
                         // Check if either card is special energy
                         const isSpecialA = !basicEnergyTypes.includes(typeA);
                         const isSpecialB = !basicEnergyTypes.includes(typeB);
-            
+
                         // If both cards are special energy or both are basic energy, sort by energy type
                         if (isSpecialA === isSpecialB) {
                             if (isSpecialA) {
@@ -15762,14 +15750,14 @@ function displayList(arr) {
                             return isSpecialA ? 1 : -1;
                         }
                     }
-            
+
                     // Default sorting behavior for other categories or when no additional values are present
                     if (idA.length > 1 && idB.length > 1) {
                         const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
                         const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
                         return altB - altA;
                     }
-            
+
                     return idA.length - idB.length;
                 });
                 // Remove existing containers
@@ -15785,14 +15773,17 @@ function displayList(arr) {
                 sortedContainers.forEach(deckCardContainer => {
                     deckbox.appendChild(deckCardContainer.cloneNode(true));
                 });
-                
-                let defaultCountofOne = 1;
-                let cardCount = document.createElement('img');
-                cardCount.classList.add('current-cnt-num');
-                cardCount.setAttribute('src', "../assets/card-count/" + defaultCountofOne + ".png");
+
+                // let getmemyalt = cardUnsorted.getAttribute('alt');
+                // let firstNumberMatch = getmemyalt.match(/\d+/);
+                // let sortedNewValue = firstNumberMatch[0];
+                // let hiya = document.querySelector('.current-card-count');
+                // hiya.setAttribute('src', "../assets/card-count/" + "1" + ".png");
+
                 let plusCard = document.querySelectorAll('.plus-card')
                 plusCard.forEach(function (i) {
                     i.addEventListener("click", () => {
+                        // console.log('yes i clicked')
                         let newNumber = defaultCountofOne
                             ? defaultCountofOne + 1
                             : defaultCountofOne - 1;
@@ -15800,15 +15791,6 @@ function displayList(arr) {
                         let currentValue = parseInt(currCounter.innerHTML);
                         currentValue++;
                         currCounter.innerHTML = currentValue;
-                        if (currCounter.innerHTML === "60") {
-                            currCounter.style.color = 'green';
-                            statCount.style.color = 'green';
-                            statCount.style.border = '1px solid green';
-                        } else {
-                            currCounter.style.color = 'black'
-                            statCount.style.color = 'black';
-                            statCount.style.border = '1px solid black';
-                        }
                         if (defaultCountofOne === 4) {
                             plusCard.style.opacity = '0.4';
                             plusCard.style.pointerEvents = 'none';
@@ -15849,15 +15831,6 @@ function displayList(arr) {
                 let currentValue = parseInt(currCounter.innerHTML);
                 currentValue++;
                 currCounter.innerHTML = currentValue;
-                if (currCounter.innerHTML === "60") {
-                    currCounter.style.color = 'green';
-                    statCount.style.color = 'green';
-                    statCount.style.border = '1px solid green';
-                } else {
-                    currCounter.style.color = 'black'
-                    statCount.style.color = 'black';
-                    statCount.style.border = '1px solid black';
-                }
                 if (!deckImg.id.includes("Energy,Basic")) {
                     if (defaultCountofOne === 4) {
                         plusCard.style.opacity = '0.4';
@@ -15883,15 +15856,6 @@ function displayList(arr) {
                 let currentValue = parseInt(currCounter.innerHTML);
                 currentValue--;
                 currCounter.innerHTML = currentValue;
-                if (currCounter.innerHTML === "60") {
-                    currCounter.style.color = 'green';
-                    statCount.style.color = 'green';
-                    statCount.style.border = '1px solid green';
-                } else {
-                    currCounter.style.color = 'black'
-                    statCount.style.color = 'black';
-                    statCount.style.border = '1px solid black';
-                }
                 plusCard.style.opacity = '1';
                 plusCard.style.pointerEvents = 'all';
                 cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
@@ -16015,11 +15979,6 @@ function displayList(arr) {
                 statCount.style.border = '1px solid black';
             })
 
-            // must make decklist an array to sort?
-            // document.getElementById('deck-sort').addEventListener("click", () => {
-            //     deckbox.sort((a, b) => b.defaultCountofOne - a.defaultCountofOne);
-            // })
-
             deckCardContainer.appendChild(deckImg);
             deckAndPm.appendChild(minusCard);
             deckAndPm.appendChild(cardCount);
@@ -16114,8 +16073,13 @@ function importDeck() {
         .then(text => {
             const altTexts = text.split('\n');
             deckbox.innerHTML = '';
+            let totalCardCount = 0; // Initialize total card count
             altTexts.forEach(alt => {
                 const altPieces = alt.trim().split(' ');
+                let allCardCount = 1; // Default card count value
+                if (altPieces.length >= 1 && !isNaN(altPieces[0])) {
+                    allCardCount = parseInt(altPieces[0]);
+                }
                 if (altPieces.length === 5) {
                     altPieces[1] += ' ' + altPieces[2];
                     altPieces.splice(2, 1);
@@ -16194,35 +16158,35 @@ function importDeck() {
                     } if (cardFound.evolvesFrom) {
                         pastedCard.id = cardFound.supertype + "," + cardFound.subtypes + "," + cardFound.types + ",Evolves from " + cardFound.evolvesFrom;
                     }
-                        // zoom card
-                            pastedCard.onclick = () => {
-                                zoomedImg.setAttribute('src', cardFound.images.large);
-                                zoombox.className = "show";
-                            };
-                            zoombox.onclick = () => {
-                                zoombox.className = "";
-                            };
+                    // zoom card
+                    pastedCard.onclick = () => {
+                        zoomedImg.setAttribute('src', cardFound.images.large);
+                        zoombox.className = "show";
+                    };
+                    zoombox.onclick = () => {
+                        zoombox.className = "";
+                    };
 
-                            pastedCard.setAttribute('alt', alt.trim());                    
-                            pastedCardContainer.appendChild(pastedCard);        
+                    pastedCard.setAttribute('alt', alt.trim());
+                    pastedCardContainer.appendChild(pastedCard);
 
                     let deckAndPm = document.createElement('div');
                     deckAndPm.classList.add('deck-add-minus');
-        
+
                     let minusCard = document.createElement('span');
                     minusCard.classList.add('pm-card');
                     minusCard.classList.add('minus-card');
                     minusCard.classList.add('material-symbols-outlined');
                     minusCard.innerHTML = "remove";
-        
+
                     let cardCount = document.createElement('img');
                     cardCount.classList.add('current-cnt-num');
 
-                    const getmemyalt = pastedCard.getAttribute('alt');
-                    const firstNumberMatch = getmemyalt.match(/\d+/);
-                    const cardCountValue = firstNumberMatch[0];
+                    let getmemyalt = pastedCard.getAttribute('alt');
+                    let firstNumberMatch = getmemyalt.match(/\d+/);
+                    let cardCountValue = firstNumberMatch[0];
                     cardCount.setAttribute('src', "../assets/card-count/" + cardCountValue + ".png");
-        
+
                     let plusCard = document.createElement('span');
                     plusCard.classList.add('pm-card');
                     plusCard.classList.add('plus-card');
@@ -16232,8 +16196,69 @@ function importDeck() {
                     deckAndPm.appendChild(minusCard);
                     deckAndPm.appendChild(cardCount);
                     deckAndPm.appendChild(plusCard);
-                    pastedCardContainer.appendChild(deckAndPm);        
-                    deckbox.appendChild(pastedCardContainer)
+                    pastedCardContainer.appendChild(deckAndPm);
+                    deckbox.appendChild(pastedCardContainer);
+
+                    let containsSpecialCard = false; // Flag to indicate if special card is found
+                    if (pastedCard.id.includes('ACE SPEC') || pastedCard.id.includes('Prism Star') || pastedCard.id.includes('Radiant')) {
+                        containsSpecialCard = true;
+                    } 
+                    if (containsSpecialCard) {
+                        plusCard.style.opacity = '0.4';
+                        plusCard.style.pointerEvents = 'none';
+                    }
+                    // Hide pluscard w/ COUNTS OF 4
+                    const altRegex = /(\d+)/; // Regular expression to match the count value
+                    // Get the alt attribute of the card image
+                    const altText = pastedCard.getAttribute('alt');
+                    // Extract the count value from the alt text using the regular expression
+                    const match = altText.match(altRegex);
+                    // Check if a match is found and extract the count value
+                    const meepers = match ? parseInt(match[1]) : 1; // Default to 1 if no match is found
+                    // Now you can use cardCountValue to set the opacity and pointerEvents
+                    if (meepers === 4) {
+                        plusCard.style.opacity = '0.4';
+                        plusCard.style.pointerEvents = 'none';
+                    }
+
+                    minusCard.addEventListener('click', () => {
+                        cardCountValue = Math.max(parseInt(cardCount.getAttribute('src').match(/\d+/)[0]) - 1, 0);
+                        cardCount.setAttribute('src', "../assets/card-count/" + cardCountValue + ".png");
+                        plusCard.style.opacity = '1';
+                        plusCard.style.pointerEvents = 'all';
+                        if (cardCountValue === 0) {
+                            pastedCardContainer.remove();
+                         }
+                         updateTotalCount(-1);
+                    });
+                    
+                    plusCard.addEventListener('click', () => {
+                        cardCountValue = parseInt(cardCount.getAttribute('src').match(/\d+/)[0]) + 1;
+                        if (!cardFound.id.includes("Energy,Basic")) {
+                            if (cardCountValue === 4) {
+                               plusCard.style.opacity = '0.4';
+                               plusCard.style.pointerEvents = 'none';
+                            }
+                         }
+                         if (cardFound.id.includes("Energy,Basic")) {
+                            if (cardCountValue === 30) {
+                               plusCard.style.opacity = '0.4';
+                               plusCard.style.pointerEvents = 'none';
+                            }
+                         }
+                        cardCount.setAttribute('src', "../assets/card-count/" + cardCountValue + ".png");
+                        updateTotalCount(1);
+                    });
+
+                    function updateTotalCount(change) {
+                        let totalCountElement = document.querySelector('.current-deck-count');
+                        let currentTotal = parseInt(totalCountElement.innerHTML);
+                        let newTotal = currentTotal + change;
+                        totalCountElement.innerHTML = newTotal;
+                    }
+
+                    totalCardCount += allCardCount;
+
                 } else {
                     // NOTHING
                     // pastedCard.setAttribute('src', '../assets/card-back.png');
@@ -16298,23 +16323,25 @@ function importDeck() {
                     });
                     const textToCopy = altTexts.join('\n');
                     navigator.clipboard.writeText(textToCopy);
-    
+
                     document.querySelector('.copied-json-check').style.display = 'flex';
                     setTimeout(() => {
                         document.querySelector('.copied-json-check').style.display = "none";
                     }, 2500);
                 })
             });
+            document.querySelector('.current-deck-count').innerHTML = totalCardCount;
+
             document.getElementById('deck-reset').addEventListener("click", () => {
                 while (deckbox.firstChild) {
                     deckbox.removeChild(deckbox.firstChild);
                 }
             });
         })
-        // .catch(err => {
-        //     console.error('Failed to read clipboard: ', err);
-        //     alert('Failed to read clipboard');
-        // });
+    // .catch(err => {
+    //     console.error('Failed to read clipboard: ', err);
+    //     alert('Failed to read clipboard');
+    // });
 }
 
 function searchReset() {
