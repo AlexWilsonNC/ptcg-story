@@ -15705,7 +15705,6 @@ function displayList(arr) {
                                 return altB - altA;
                             }
                         }
-            
                         // If only one of the types is Supporter, prioritize it
                         if (typeIndexA === 0 || typeIndexB === 0) {
                             if (typeIndexA === 0 && typeIndexB === 0) {
@@ -15714,6 +15713,30 @@ function displayList(arr) {
                                 return altB - altA;
                             }
                             return typeIndexA === 0 ? -1 : 1;
+                        }
+                        if (typeIndexA === 1 || typeIndexB === 1) {
+                            if (typeIndexA === 1 && typeIndexB === 1) {
+                                const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                                const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                                return altB - altA;
+                            }
+                            return typeIndexA === 1 ? -1 : 1;
+                        }
+                        if (typeIndexA === 2 || typeIndexB === 2) {
+                            if (typeIndexA === 2 && typeIndexB === 2) {
+                                const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                                const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                                return altB - altA;
+                            }
+                            return typeIndexA === 2 ? -1 : 1;
+                        }
+                        if (typeIndexA === 3 || typeIndexB === 3) {
+                            if (typeIndexA === 3 && typeIndexB === 3) {
+                                const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                                const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                                return altB - altA;
+                            }
+                            return typeIndexA === 3 ? -1 : 1;
                         }
             
                         // Sort by Trainer type priority
@@ -15819,6 +15842,12 @@ function displayList(arr) {
                 }
                 if (!deckImg.id.includes("Energy,Basic")) {
                     if (defaultCountofOne === 4) {
+                        plusCard.style.opacity = '0.4';
+                        plusCard.style.pointerEvents = 'none';
+                    }
+                }
+                if (deckImg.id.includes("Energy,Basic")) {
+                    if (defaultCountofOne === 30) {
                         plusCard.style.opacity = '0.4';
                         plusCard.style.pointerEvents = 'none';
                     }
@@ -16268,4 +16297,10 @@ function importDeck() {
         //     console.error('Failed to read clipboard: ', err);
         //     alert('Failed to read clipboard');
         // });
+}
+
+function searchReset() {
+    if (searchField.value.trim() === '') {
+        setsOl.innerHTML = ''; // Clear search results
+    }
 }

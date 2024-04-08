@@ -135,7 +135,7 @@
             <!-- expand advanced -->
             <div class='expand-advanced'>
                 <div id='advanced-content'>
-                    <!-- <h2>Filter by Set:</h2> -->
+                    <h2>Filter by Set:</h2>
                     <!-- sv -->
                     <button type="button" class="set-white-box">
                         <div class='country-name'>
@@ -602,8 +602,8 @@
                     </div>
 
                     <br>
-                    <h2>Filter by Format:</h2>
-                    <button type="button" class="set-white-box">
+                    <h2 style='opacity: 0.5;pointer-events: none;'>Filter by Format:</h2>
+                    <button type="button" class="set-white-box" style='opacity: 0.5;pointer-events: none;'>
                         <div class='country-name'>
                             <p><strong>Expand Formats:</strong></p>
                         </div>
@@ -701,11 +701,11 @@
                 <span class="material-symbols-outlined search-mag">search</span>
                 <input type='search' name='search' class='search' id='search' placeholder=' Card Search'>
                 <button id='searchButton'>Search</button>
-                <div id='filter-search'>
+                <div id='filter-search' style='opacity: 0.1;pointer-events: none;'>
                     <p>Search Filter</p>
                     <span class="material-symbols-outlined">keyboard_arrow_down</span>
                 </div>
-                <div id='search-reset' onclick="displayList([sv4pt5])">
+                <div id='search-reset' onclick="searchReset()">
                     <span class="material-symbols-outlined">refresh</span>
                     <p>Reset</p>
                 </div>

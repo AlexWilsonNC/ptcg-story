@@ -235,12 +235,19 @@ function performSearch() {
                currCounter.style.color = 'black'
                statCount.style.color = 'black';
                statCount.style.border = '1px solid black';
-            } if (!deckImg.id.includes("Energy,Basic")) {
+            } 
+            if (!deckImg.id.includes("Energy,Basic")) {
                if (defaultCountofOne === 4) {
                    plusCard.style.opacity = '0.4';
                    plusCard.style.pointerEvents = 'none';
                }
-           }
+            }
+            if (deckImg.id.includes("Energy,Basic")) {
+               if (defaultCountofOne === 30) {
+                   plusCard.style.opacity = '0.4';
+                   plusCard.style.pointerEvents = 'none';
+               }
+            }
             cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
             deckImg.setAttribute('alt', newNumber + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
             // currentDeckCount.innerHTML = newNumber;
@@ -398,6 +405,9 @@ function performSearch() {
 
       setsOl.appendChild(cardArea);
    });
+   document.getElementById('search-reset').addEventListener('click', () => {
+         setsOl.innerHTML = ''; // Clear search results
+   })
 }
 
 // for button click

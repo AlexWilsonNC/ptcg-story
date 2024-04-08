@@ -757,7 +757,7 @@ body.darkon {
     border-right: none;
     border-top: none;
     border-bottom: none;
-    z-index: 20;
+    /* z-index: 20; */
 }
 #filter-search,
 #search-reset {
