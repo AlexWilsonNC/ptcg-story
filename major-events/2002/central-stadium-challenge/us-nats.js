@@ -156,8 +156,8 @@ let masters = [
   {
     firstName: 'Kyle Sucevich',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/meganium.png',
+    sprite1: '../../../assets/sprites/meganium.png',
+    sprite2: '../../../assets/sprites/heracross.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',

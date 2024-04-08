@@ -18717,8 +18717,8 @@ let sv4 = [
     }
 ]
 
-sv4.forEach(cardObject => {
-    delete cardObject.tcgplayer;
-    delete cardObject.cardmarket;
-})
-console.log('Edited Set Object 2 - Removing Values', sv4)
+// sv4.forEach(cardObject => {
+//     delete cardObject.tcgplayer;
+//     delete cardObject.cardmarket;
+// })
+// console.log('Edited Set Object 2 - Removing Values', sv4)

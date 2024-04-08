@@ -15669,9 +15669,27 @@ function displayList(arr) {
 
             // SORT DECKLIST
             deckSort.addEventListener("click", () => {
-                const cardUnsorted = deckbox.getElementsByClassName("deckbuilt-card-container");
+                // Define basic energy types
+                const basicEnergyTypes = ["Grass", "Fire", "Water", "Lightning", "Psychic", "Fighting", "Darkness", "Metal", "Fairy"];
             
+                const cardUnsorted = deckbox.getElementsByClassName("deckbuilt-card-container");
                 const sortedContainers = Array.from(cardUnsorted).sort((a, b) => {
+                    // Function to extract the basic energy type from the card alt text
+                    function getTypeFromName(cardAlt) {
+                        // Extract the energy type from the card alt text
+                        const altParts = cardAlt.split(" ");
+                        const typeIndex = altParts.findIndex(part => {
+                            return basicEnergyTypes.some(energyType => part.toLowerCase().includes(energyType.toLowerCase()));
+                        });
+            
+                        if (typeIndex !== -1) {
+                            return altParts[typeIndex];
+                        }
+            
+                        // If no energy type is found, return the original type
+                        return altParts[1]; // Assuming type is the second part of the alt text
+                    }
+            
                     const idA = a.firstChild.id.split(","); // Get ID of the first image in the container
                     const idB = b.firstChild.id.split(","); // Get ID of the first image in the container
             
@@ -15685,73 +15703,73 @@ function displayList(arr) {
                         return categoryIndexA - categoryIndexB;
                     }
             
-                    // If both images belong to the same category but it's Trainer, prioritize by type
+                    // If both images belong to the same category but it's Trainer, prioritize by type first, then count
                     if (idA[0] === "Trainer") {
                         const typePriority = {
                             "Supporter": 0,
                             "Item": 1,
                             "Pokémon Tool": 2,
-                            "Stadium": 3
+                            "Stadium": 3,
                         };
-            
                         const typeIndexA = typePriority[idA[1]];
                         const typeIndexB = typePriority[idB[1]];
             
-                        // If both types are the same, sort by additional values (if any)
-                        if (typeIndexA === typeIndexB) {
-                            if (idA.length > 2 && idB.length > 2) {
-                                const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                                const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                                return altB - altA;
-                            }
-                        }
-                        // If only one of the types is Supporter, prioritize it
-                        if (typeIndexA === 0 || typeIndexB === 0) {
-                            if (typeIndexA === 0 && typeIndexB === 0) {
-                                const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                                const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                                return altB - altA;
-                            }
-                            return typeIndexA === 0 ? -1 : 1;
-                        }
-                        if (typeIndexA === 1 || typeIndexB === 1) {
-                            if (typeIndexA === 1 && typeIndexB === 1) {
-                                const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                                const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                                return altB - altA;
-                            }
-                            return typeIndexA === 1 ? -1 : 1;
-                        }
-                        if (typeIndexA === 2 || typeIndexB === 2) {
-                            if (typeIndexA === 2 && typeIndexB === 2) {
-                                const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                                const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                                return altB - altA;
-                            }
-                            return typeIndexA === 2 ? -1 : 1;
-                        }
-                        if (typeIndexA === 3 || typeIndexB === 3) {
-                            if (typeIndexA === 3 && typeIndexB === 3) {
-                                const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                                const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
-                                return altB - altA;
-                            }
-                            return typeIndexA === 3 ? -1 : 1;
+                        // Sort by type priority
+                        if (typeIndexA !== typeIndexB) {
+                            return typeIndexA - typeIndexB;
                         }
             
-                        // Sort by Trainer type priority
-                        return typeIndexA - typeIndexB;
+                        // If types are the same, sort by count
+                        const countA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                        const countB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                        return countB - countA;
                     }
             
-                    // If both images belong to the same category but have the same type or belong to other categories,
-                    // compare their additional values (if any)
+                    // If both images belong to the same category but it's Energy
+                    if (idA[0] === "Energy") {
+                        const typeA = getTypeFromName(a.firstChild.getAttribute('alt'));
+                        const typeB = getTypeFromName(b.firstChild.getAttribute('alt'));
+                        const countA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
+                        const countB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
+            
+                        // Check if either card is special energy
+                        const isSpecialA = !basicEnergyTypes.includes(typeA);
+                        const isSpecialB = !basicEnergyTypes.includes(typeB);
+            
+                        // If both cards are special energy or both are basic energy, sort by energy type
+                        if (isSpecialA === isSpecialB) {
+                            if (isSpecialA) {
+                                // Both cards are special energy, so prioritize them by count, then type
+                                if (countA !== countB) {
+                                    return countB - countA;
+                                }
+                                // If counts are equal, sort by energy type
+                                const indexA = basicEnergyTypes.indexOf(typeA);
+                                const indexB = basicEnergyTypes.indexOf(typeB);
+                                return indexA - indexB;
+                            } else {
+                                // Both cards are basic energy, so sort by count first, then energy type
+                                if (countA !== countB) {
+                                    return countB - countA;
+                                }
+                                const indexA = basicEnergyTypes.indexOf(typeA);
+                                const indexB = basicEnergyTypes.indexOf(typeB);
+                                return indexA - indexB;
+                            }
+                        } else {
+                            // One card is special energy and the other is basic energy
+                            // Prioritize basic energy first to ensure special energy is printed after all basic energy
+                            return isSpecialA ? 1 : -1;
+                        }
+                    }
+            
+                    // Default sorting behavior for other categories or when no additional values are present
                     if (idA.length > 1 && idB.length > 1) {
                         const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
                         const altB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
                         return altB - altA;
                     }
             
-                    // If only one of the images has additional values, prioritize it
                     return idA.length - idB.length;
                 });
                 // Remove existing containers
