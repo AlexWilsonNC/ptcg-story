@@ -134,6 +134,12 @@
     transform: scale(1.01);
     background-color: rgb(246, 246, 246);
 }
+.wrapped-feature.darkon:hover,
+.wrapped-feature-second-row.darkon:hover {
+    box-shadow: 1.5px 1.5px 4px rgba(0, 0, 0, 0.3);
+    transform: scale(1.01);
+    background-color: rgb(60, 60, 60);
+}
 .wrapped-feature:hover > img,
 .wrapped-feature:hover > .article-thumbnail img,
 .wrapped-feature-second-row:hover > img {
