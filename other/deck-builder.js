@@ -15815,7 +15815,7 @@ function displayList(arr) {
                         }
                         let newAlt = alt.replace(/\d+/, cardCount);
                         image.setAttribute('alt', newAlt);
-                        
+
                         // Target the plus card within the same parent node as the minus card
                         let plusCard = minusCard.parentNode.querySelector('.plus-card');
                         plusCard.style.opacity = '1';
@@ -16234,7 +16234,7 @@ function importDeck() {
                     let containsSpecialCard = false; // Flag to indicate if special card is found
                     if (pastedCard.id.includes('ACE SPEC') || pastedCard.id.includes('Prism Star') || pastedCard.id.includes('Radiant')) {
                         containsSpecialCard = true;
-                    } 
+                    }
                     if (containsSpecialCard) {
                         plusCard.style.opacity = '0.4';
                         plusCard.style.pointerEvents = 'none';
@@ -16260,24 +16260,24 @@ function importDeck() {
                         plusCard.style.pointerEvents = 'all';
                         if (cardCountValue === 0) {
                             pastedCardContainer.remove();
-                         }
-                         updateTotalCount(-1);
+                        }
+                        updateTotalCount(-1);
                     });
-                    
+
                     plusCard.addEventListener('click', () => {
                         cardCountValue = parseInt(cardCount.getAttribute('src').match(/\d+/)[0]) + 1;
                         if (!cardFound.id.includes("Energy,Basic")) {
                             if (cardCountValue === 4) {
-                               plusCard.style.opacity = '0.4';
-                               plusCard.style.pointerEvents = 'none';
+                                plusCard.style.opacity = '0.4';
+                                plusCard.style.pointerEvents = 'none';
                             }
-                         }
-                         if (cardFound.id.includes("Energy,Basic")) {
+                        }
+                        if (cardFound.id.includes("Energy,Basic")) {
                             if (cardCountValue === 30) {
-                               plusCard.style.opacity = '0.4';
-                               plusCard.style.pointerEvents = 'none';
+                                plusCard.style.opacity = '0.4';
+                                plusCard.style.pointerEvents = 'none';
                             }
-                         }
+                        }
                         cardCount.setAttribute('src', "../assets/card-count/" + cardCountValue + ".png");
                         updateTotalCount(1);
                     });
@@ -16381,3 +16381,192 @@ function searchReset() {
         setsOl.innerHTML = ''; // Clear search results
     }
 }
+
+// 1550+
+function checkElementCount(className, threshold) {
+    let deckBoxes = document.querySelectorAll('.' + className);
+    deckBoxes.forEach(deckBox => {
+        const handleMutation = function (mutationsList, observer) {
+            for (let mutation of mutationsList) {
+                if (mutation.type === 'childList') {
+                    let deckCards = deckBox.querySelectorAll('.database-card-in-list');
+                    let addnminus = deckBox.querySelectorAll('.deck-add-minus');
+                    let pmCard = deckBox.querySelectorAll('.pm-card');
+                    let elementCount = deckCards.length;
+                    let viewportWidth = window.innerWidth;
+                    if (viewportWidth >= 1550) {
+                        if (elementCount >= threshold) {
+                            deckCards.forEach(deckCard => {
+                                deckCard.style.width = '93px';
+                            });
+                            addnminus.forEach(addnminus => {
+                                addnminus.style.width = '93px';
+                                addnminus.style.marginBottom = '10px';
+                            });
+                            pmCard.forEach(pmCard => {
+                                pmCard.style.fontSize = '16px';
+                                pmCard.style.padding = '3px';
+                            });
+                        } else {
+                            deckCards.forEach(deckCard => {
+                                deckCard.style.width = '6vw';
+                            });
+                            addnminus.forEach(addnminus => {
+                                addnminus.style.width = '6vw';
+                                addnminus.style.marginBottom = '12px';
+                            });
+                            pmCard.forEach(pmCard => {
+                                pmCard.style.fontSize = '20px';
+                                pmCard.style.padding = '4px';
+                            });
+                        }
+                    }
+                }
+            }
+        };
+        const observer = new MutationObserver(handleMutation);
+        observer.observe(deckBox, { childList: true, subtree: true });
+    });
+}
+// <1550
+function checkElementCount2(className, threshold) {
+    let deckBoxes = document.querySelectorAll('.' + className);
+    deckBoxes.forEach(deckBox => {
+        const handleMutation = function (mutationsList, observer) {
+            for (let mutation of mutationsList) {
+                if (mutation.type === 'childList') {
+                    let deckCards = deckBox.querySelectorAll('.database-card-in-list');
+                    let addnminus = deckBox.querySelectorAll('.deck-add-minus');
+                    let pmCard = deckBox.querySelectorAll('.pm-card');
+                    let elementCount = deckCards.length;
+                    let viewportWidth = window.innerWidth;
+                    if (viewportWidth <= 1549) {
+                        if (elementCount >= threshold) {
+                            deckCards.forEach(deckCard => {
+                                deckCard.style.width = '75px';
+                            });
+                            addnminus.forEach(addnminus => {
+                                addnminus.style.width = '75px';
+                                addnminus.style.marginBottom = '8px';
+                            });
+                            pmCard.forEach(pmCard => {
+                                pmCard.style.fontSize = '14px';
+                                pmCard.style.padding = '3px';
+                            });
+                        } else {
+                            deckCards.forEach(deckCard => {
+                                deckCard.style.width = '90px';
+                            });
+                            addnminus.forEach(addnminus => {
+                                addnminus.style.width = '90px';
+                                addnminus.style.marginBottom = '11px';
+                            });
+                            pmCard.forEach(pmCard => {
+                                pmCard.style.fontSize = '18px';
+                                pmCard.style.padding = '3px';
+                            });
+                        }
+                    }
+                }
+            }
+        };
+        const observer = new MutationObserver(handleMutation);
+        observer.observe(deckBox, { childList: true, subtree: true });
+    });
+}
+// <1490
+function checkElementCount3(className, threshold) {
+    let deckBoxes = document.querySelectorAll('.' + className);
+    deckBoxes.forEach(deckBox => {
+        const handleMutation = function (mutationsList, observer) {
+            for (let mutation of mutationsList) {
+                if (mutation.type === 'childList') {
+                    let deckCards = deckBox.querySelectorAll('.database-card-in-list');
+                    let addnminus = deckBox.querySelectorAll('.deck-add-minus');
+                    let pmCard = deckBox.querySelectorAll('.pm-card');
+                    let elementCount = deckCards.length;
+                    let viewportWidth = window.innerWidth;
+                    if (viewportWidth <= 1490) {
+                        if (elementCount >= threshold) {
+                            deckCards.forEach(deckCard => {
+                                deckCard.style.width = '75px';
+                            });
+                            addnminus.forEach(addnminus => {
+                                addnminus.style.width = '75px';
+                                addnminus.style.marginBottom = '8px';
+                            });
+                            pmCard.forEach(pmCard => {
+                                pmCard.style.fontSize = '14px';
+                                pmCard.style.padding = '3px';
+                            });
+                        } else {
+                            deckCards.forEach(deckCard => {
+                                deckCard.style.width = '90px';
+                            });
+                            addnminus.forEach(addnminus => {
+                                addnminus.style.width = '90px';
+                                addnminus.style.marginBottom = '11px';
+                            });
+                            pmCard.forEach(pmCard => {
+                                pmCard.style.fontSize = '18px';
+                                pmCard.style.padding = '3px';
+                            });
+                        }
+                    }
+                }
+            }
+        };
+        const observer = new MutationObserver(handleMutation);
+        observer.observe(deckBox, { childList: true, subtree: true });
+    });
+}
+// <1330
+function checkElementCount4(className, threshold) {
+    let deckBoxes = document.querySelectorAll('.' + className);
+    deckBoxes.forEach(deckBox => {
+        const handleMutation = function (mutationsList, observer) {
+            for (let mutation of mutationsList) {
+                if (mutation.type === 'childList') {
+                    let deckCards = deckBox.querySelectorAll('.database-card-in-list');
+                    let addnminus = deckBox.querySelectorAll('.deck-add-minus');
+                    let pmCard = deckBox.querySelectorAll('.pm-card');
+                    let elementCount = deckCards.length;
+                    let viewportWidth = window.innerWidth;
+                    if (viewportWidth <= 1330) {
+                        if (elementCount >= threshold) {
+                            deckCards.forEach(deckCard => {
+                                deckCard.style.width = '75px';
+                            });
+                            addnminus.forEach(addnminus => {
+                                addnminus.style.width = '75px';
+                                addnminus.style.marginBottom = '8px';
+                            });
+                            pmCard.forEach(pmCard => {
+                                pmCard.style.fontSize = '14px';
+                                pmCard.style.padding = '3px';
+                            });
+                        } else {
+                            deckCards.forEach(deckCard => {
+                                deckCard.style.width = '90px';
+                            });
+                            addnminus.forEach(addnminus => {
+                                addnminus.style.width = '90px';
+                                addnminus.style.marginBottom = '11px';
+                            });
+                            pmCard.forEach(pmCard => {
+                                pmCard.style.fontSize = '18px';
+                                pmCard.style.padding = '3px';
+                            });
+                        }
+                    }
+                }
+            }
+        };
+        const observer = new MutationObserver(handleMutation);
+        observer.observe(deckBox, { childList: true, subtree: true });
+    });
+}
+checkElementCount('deck-box', 37);
+checkElementCount2('deck-box', 46);
+checkElementCount3('deck-box', 41);
+checkElementCount4('deck-box', 36);
