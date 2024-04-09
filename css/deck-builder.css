@@ -382,7 +382,7 @@ body.darkon {
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
 }
 .deckbuilt-card-container:hover > .deck-add-minus > .pm-card {
-    visibility: visible;
+    visibility: visible !important;
 }
 .pm-card:hover {
     cursor: pointer;

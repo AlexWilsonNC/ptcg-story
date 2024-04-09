@@ -15610,19 +15610,6 @@ let statCount = document.querySelector(".stat-count");
 let currCounter = document.querySelector(".current-deck-count");
 let deckSort = document.getElementById("deck-sort");
 
-function isMobileDevice() {
-    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-    console.log("Is mobile device:", isMobile);
-    return isMobile;
-}
-function applyFlexToPmCards() {
-    console.log("Applying flex to .pm-card elements");
-    let pmCards = document.querySelectorAll('.pm-card');
-    pmCards.forEach(card => {
-        card.style.visibility = 'visible !important';
-    });
-}
-
 function displayList(arr) {
     const arrOfAllCards = [];
     arr.forEach(element => {
@@ -16044,9 +16031,6 @@ function displayList(arr) {
         document.querySelector('.all-cards-container').scrollTop = 0;
 
         setsOl.appendChild(cardArea);
-    }
-    if (isMobileDevice()) {
-        applyFlexToPmCards();
     }
 }
 displayList([latestSet]);
@@ -16592,3 +16576,36 @@ checkElementCount4('deck-box', 36);
 //         card.style.visibility = 'visible';
 //     });
 // }
+function applyFlexToPmCards() {
+    console.log("Applying flex to .pm-card elements");
+    let pmCards = document.querySelectorAll('.pm-card');
+    pmCards.forEach(card => {
+        card.style.visibility = 'visible !important';
+    });
+}
+
+function observePmCards() {
+    const observer = new MutationObserver(mutationsList => {
+        for (let mutation of mutationsList) {
+            if (mutation.type === 'childList') {
+                applyFlexToPmCards();
+            }
+        }
+    });
+
+    const targetNode = document.body; // You can change this to observe a specific container if needed
+
+    const observerConfig = { childList: true, subtree: true };
+
+    observer.observe(targetNode, observerConfig);
+}
+
+function isMobileDevice() {
+    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    console.log("Is mobile device:", isMobile);
+    return isMobile;
+}
+
+if (isMobileDevice()) {
+    observePmCards();
+}
