@@ -16579,6 +16579,6 @@ function isMobileDevice() {
 if (isMobileDevice()) {
     let pmCards = document.querySelectorAll('.pm-card');
     pmCards.forEach(card => {
-        card.style.display = 'flex !important';
+        card.style.visibility = 'visible';
     });
 }

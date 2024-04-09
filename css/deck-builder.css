@@ -370,7 +370,7 @@ body.darkon {
         /* if 28 or more */
         padding: 4px;
     
-    display: none !important;
+    visibility: hidden;
     font-size: 20px;
     background-color: rgb(46, 48, 67);
     color: white;
@@ -382,7 +382,7 @@ body.darkon {
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
 }
 .deckbuilt-card-container:hover > .deck-add-minus > .pm-card {
-    display: block !important;
+    visibility: visible;
 }
 .pm-card:hover {
     cursor: pointer;

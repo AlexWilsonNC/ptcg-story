@@ -16,6 +16,7 @@ const allcardscontainer = document.querySelector('.all-cards-container');
 const expandadvanced = document.querySelector('.expand-advanced');
 // const advancedpbtn = document.querySelector('.advanced-p-btn');
 const spinner = document.querySelector('.spinner');
+const dblogo = document.querySelector('.db-logo');
 
 const optionbtn = document.querySelectorAll('.option-btn');
 const setwhitebox = document.querySelectorAll('.set-white-box');
@@ -40,6 +41,7 @@ const enableDarkMode = () => {
     expandadvanced.classList.add('darkon');
     // advancedpbtn.classList.add('darkon');
     spinner.classList.add('darkon');
+    dblogo.classList.add('darkon');
 
     optionbtn.forEach((optionbtn) => {
       optionbtn.classList.add('darkon');
@@ -75,6 +77,7 @@ const enableDarkMode = () => {
     expandadvanced.classList.remove('darkon');
     // advancedpbtn.classList.remove('darkon');
     spinner.classList.remove('darkon');
+    dblogo.classList.remove('darkon');
 
     optionbtn.forEach((optionbtn) => {
       optionbtn.classList.remove('darkon');

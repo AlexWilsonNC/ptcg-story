@@ -16,6 +16,12 @@
 #nav-leftr img {
     content: url('../assets/trophy-icon.png');
 }
+.db-logo {
+  content: url('../assets/logo-blue.png') !important;
+}
+.db-logo.darkon {
+  content: url('../assets/logo-blue-trans.jpg') !important;
+}
 #nav-leftr.darkon img {
     content: url('../assets/dark-logo.png');
 }
