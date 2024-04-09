@@ -16583,7 +16583,6 @@ function applyFlexToPmCards() {
         card.style.visibility = 'visible !important';
     });
 }
-
 function observePmCards() {
     const observer = new MutationObserver(mutationsList => {
         for (let mutation of mutationsList) {
@@ -16599,13 +16598,11 @@ function observePmCards() {
 
     observer.observe(targetNode, observerConfig);
 }
-
 function isMobileDevice() {
     const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
     console.log("Is mobile device:", isMobile);
     return isMobile;
 }
-
 if (isMobileDevice()) {
     observePmCards();
 }
