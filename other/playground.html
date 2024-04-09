@@ -843,15 +843,16 @@
 <script>
     const bottomMenu = document.getElementById('bottomMenu');
     const hiddenMenu = document.getElementById('hiddenMenu');
+    const hiddenMenuContent = document.querySelector('.hidden-menu-content');
     
     bottomMenu.addEventListener('click', toggleMenu);
     
     let startY;
     let endY;
     
-    document.addEventListener('touchstart', handleTouchStart, false);
-    document.addEventListener('touchmove', handleTouchMove, false);
-    document.addEventListener('touchend', handleTouchEnd, false);
+    bottomMenu.addEventListener('touchstart', handleTouchStart, false);
+    bottomMenu.addEventListener('touchmove', handleTouchMove, false);
+    bottomMenu.addEventListener('touchend', handleTouchEnd, false);
     
     function handleTouchStart(event) {
         startY = event.touches[0].clientY;
@@ -880,13 +881,20 @@
         endY = null;
     }
     
-    function toggleMenu() {
+    function toggleMenu(event) {
+        if (event) {
+            event.stopPropagation();
+        }
         hiddenMenu.classList.toggle('active');
     }
     
     function hideMenu() {
         hiddenMenu.classList.remove('active');
     }
+    
+    hiddenMenuContent.addEventListener('touchstart', (event) => {
+        event.stopPropagation();
+    });
 </script>
 
     <script src="../darkmode/darkmode-deckbuilder.js"></script>
