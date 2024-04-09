@@ -15610,6 +15610,16 @@ let statCount = document.querySelector(".stat-count");
 let currCounter = document.querySelector(".current-deck-count");
 let deckSort = document.getElementById("deck-sort");
 
+function isMobileDevice() {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+}
+function applyFlexToPmCards() {
+    let pmCards = document.querySelectorAll('.pm-card');
+    pmCards.forEach(card => {
+        card.style.visibility = 'visible';
+    });
+}
+
 function displayList(arr) {
     const arrOfAllCards = [];
     arr.forEach(element => {
@@ -16032,6 +16042,9 @@ function displayList(arr) {
 
         setsOl.appendChild(cardArea);
     }
+    if (isMobileDevice()) {
+        applyFlexToPmCards();
+    }
 }
 displayList([latestSet]);
 
@@ -16370,10 +16383,6 @@ function importDeck() {
                 }
             });
         })
-    // .catch(err => {
-    //     console.error('Failed to read clipboard: ', err);
-    //     alert('Failed to read clipboard');
-    // });
 }
 
 function searchReset() {
@@ -16574,8 +16583,6 @@ checkElementCount4('deck-box', 36);
 function isMobileDevice() {
     return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 }
-
-// Apply display: flex to .pm-card if the user is on a mobile device
 if (isMobileDevice()) {
     let pmCards = document.querySelectorAll('.pm-card');
     pmCards.forEach(card => {
