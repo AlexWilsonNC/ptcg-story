@@ -925,7 +925,7 @@ body.darkon {
     display: none;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
-    border: 1px solid grey;
+    border: 1px solid black;
 }
 .bottom-menu.darkon {
     background: linear-gradient(to top, rgb(28, 28, 28), rgb(50, 51, 53));
@@ -964,7 +964,7 @@ body.darkon {
     /* top: 80px; for if the nav still needs to be shown */
     top: 0;
     left: 0;
-    /* width: 100%; this gets cut off */
+    width: 96.5%;
     height: 99%;
     /* height: calc(100% - 90px); */
     background-color: black;
