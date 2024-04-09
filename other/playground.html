@@ -843,7 +843,6 @@
 <script>
     const bottomMenu = document.getElementById('bottomMenu');
     const hiddenMenu = document.getElementById('hiddenMenu');
-    const hiddenMenuContent = document.querySelector('.hidden-menu-content');
     
     bottomMenu.addEventListener('click', toggleMenu);
     
@@ -892,8 +891,28 @@
         hiddenMenu.classList.remove('active');
     }
     
-    hiddenMenuContent.addEventListener('touchstart', (event) => {
-        event.stopPropagation();
+    document.body.addEventListener('touchstart', (event) => {
+        startY = event.touches[0].clientY;
+    });
+    
+    document.body.addEventListener('touchmove', (event) => {
+        if (!startY) {
+            return;
+        }
+        endY = event.touches[0].clientY;
+    });
+    
+    document.body.addEventListener('touchend', () => {
+        if (!endY) {
+            return;
+        }
+        const deltaY = endY - startY;
+        if (deltaY > 50) {
+            // Swiped down
+            hideMenu();
+        }
+        startY = null;
+        endY = null;
     });
 </script>
 
