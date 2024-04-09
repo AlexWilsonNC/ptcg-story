@@ -11,10 +11,7 @@ const fghrygdb = document.querySelector('.fghrygdb');
 const cardsearchcontainer = document.querySelector('.card-search-container');
 const alloptionbox = document.querySelector('.all-options-box');
 const allcardscontainer = document.querySelector('.all-cards-container');
-// const deckbox = document.querySelector('.deck-box');
-// const importlistbox = document.querySelector('.import-list-box');
 const expandadvanced = document.querySelector('.expand-advanced');
-// const advancedpbtn = document.querySelector('.advanced-p-btn');
 const spinner = document.querySelector('.spinner');
 const dblogo = document.querySelector('.db-logo');
 
@@ -36,10 +33,7 @@ const enableDarkMode = () => {
     cardsearchcontainer.classList.add('darkon');
     alloptionbox.classList.add('darkon');
     allcardscontainer.classList.add('darkon');
-    // deckbox.classList.add('darkon');
-    // importlistbox.classList.add('darkon');
     expandadvanced.classList.add('darkon');
-    // advancedpbtn.classList.add('darkon');
     spinner.classList.add('darkon');
     dblogo.classList.add('darkon');
 
@@ -72,10 +66,7 @@ const enableDarkMode = () => {
     cardsearchcontainer.classList.remove('darkon');
     alloptionbox.classList.remove('darkon');
     allcardscontainer.classList.remove('darkon');
-    // deckbox.classList.remove('darkon');
-    // importlistbox.classList.remove('darkon');
     expandadvanced.classList.remove('darkon');
-    // advancedpbtn.classList.remove('darkon');
     spinner.classList.remove('darkon');
     dblogo.classList.remove('darkon');
 

@@ -15619,7 +15619,7 @@ function applyFlexToPmCards() {
     console.log("Applying flex to .pm-card elements");
     let pmCards = document.querySelectorAll('.pm-card');
     pmCards.forEach(card => {
-        card.style.visibility = 'visible';
+        card.style.visibility = 'visible !important';
     });
 }
 
