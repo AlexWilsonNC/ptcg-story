@@ -16570,3 +16570,15 @@ checkElementCount('deck-box', 37);
 checkElementCount2('deck-box', 46);
 checkElementCount3('deck-box', 41);
 checkElementCount4('deck-box', 36);
+
+function isMobileDevice() {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+}
+
+// Apply display: flex to .pm-card if the user is on a mobile device
+if (isMobileDevice()) {
+    let pmCards = document.querySelectorAll('.pm-card');
+    pmCards.forEach(card => {
+        card.style.display = 'flex !important';
+    });
+}

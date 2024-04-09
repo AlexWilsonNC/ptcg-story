@@ -875,6 +875,9 @@ body.darkon {
         margin-right: 5px;
         margin-top: 35px;
     }
+    .all-cards-displayed {
+        padding: 10px 0 50px 15px;
+    }
     .deck-stats {
         padding: 10px 18px 0;
     }
@@ -893,5 +896,11 @@ body.darkon {
         padding: 5px 7px 5px 10px;
         font-size: 14px;
         width: 110px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    #filter-search,
+    #search-reset {
+        margin: 35px 0 0 5px;
     }
 }
