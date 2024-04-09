@@ -833,6 +833,51 @@
         </div>
     </div>
 
+    <div class="bottom-menu" id="bottomMenu">Click me!</div>
+
+<div class="hidden-menu" id="hiddenMenu">
+    <div class="hidden-menu-content">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rutrum diam id metus malesuada eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut et convallis dui. In hac habitasse platea dictumst. Ut non odio odio. Aliquam erat volutpat. Pellentesque ac mauris lectus. In vitae ligula risus. Mauris hendrerit, nisi sed fringilla congue, ante mauris malesuada est, sed lacinia leo felis sed lorem. Duis efficitur orci in elit efficitur, in finibus arcu eleifend. Vivamus at vehicula leo. Donec at mollis arcu. Nulla auctor, elit vel scelerisque hendrerit, tellus magna euismod libero, et tempor justo est sit amet nisi.</p>
+    </div>
+</div>
+<script>
+    const bottomMenu = document.getElementById('bottomMenu');
+    const hiddenMenu = document.getElementById('hiddenMenu');
+    
+    bottomMenu.addEventListener('click', toggleMenu);
+    hiddenMenu.addEventListener('click', toggleMenu);
+    
+    let startY;
+    let endY;
+    
+    document.addEventListener('touchstart', handleTouchStart, false);
+    document.addEventListener('touchmove', handleTouchMove, false);
+    
+    function handleTouchStart(event) {
+        startY = event.touches[0].clientY;
+    }
+    
+    function handleTouchMove(event) {
+        if (!startY) {
+            return;
+        }
+        endY = event.touches[0].clientY;
+        const deltaY = endY - startY;
+        if (deltaY > 50) {
+            // Swiped down
+            hideMenu();
+        }
+    }
+    
+    function toggleMenu() {
+        hiddenMenu.classList.toggle('active');
+    }
+    
+    function hideMenu() {
+        hiddenMenu.classList.remove('active');
+    }
+</script>
+
     <script src="../darkmode/darkmode-deckbuilder.js"></script>
     <script src='./deck-builder.js'></script>
     <!-- <script src='./standard-sets.js'></script> -->
