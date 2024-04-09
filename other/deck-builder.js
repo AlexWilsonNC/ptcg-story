@@ -15611,9 +15611,12 @@ let currCounter = document.querySelector(".current-deck-count");
 let deckSort = document.getElementById("deck-sort");
 
 function isMobileDevice() {
-    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    console.log("Is mobile device:", isMobile);
+    return isMobile;
 }
 function applyFlexToPmCards() {
+    console.log("Applying flex to .pm-card elements");
     let pmCards = document.querySelectorAll('.pm-card');
     pmCards.forEach(card => {
         card.style.visibility = 'visible';
@@ -16580,12 +16583,12 @@ checkElementCount2('deck-box', 46);
 checkElementCount3('deck-box', 41);
 checkElementCount4('deck-box', 36);
 
-function isMobileDevice() {
-    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-}
-if (isMobileDevice()) {
-    let pmCards = document.querySelectorAll('.pm-card');
-    pmCards.forEach(card => {
-        card.style.visibility = 'visible';
-    });
-}
+// function isMobileDevice() {
+//     return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+// }
+// if (isMobileDevice()) {
+//     let pmCards = document.querySelectorAll('.pm-card');
+//     pmCards.forEach(card => {
+//         card.style.visibility = 'visible';
+//     });
+// }
