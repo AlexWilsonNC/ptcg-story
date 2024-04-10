@@ -16606,3 +16606,77 @@ function isMobileDevice() {
 if (isMobileDevice()) {
     observePmCards();
 }
+
+const bottomMenu = document.getElementById('bottomMenu');
+    const hiddenMenu = document.getElementById('hiddenMenu');
+    
+    bottomMenu.addEventListener('click', toggleMenu);
+    
+    let startY;
+    let endY;
+    
+    bottomMenu.addEventListener('touchstart', handleTouchStart, false);
+    bottomMenu.addEventListener('touchmove', handleTouchMove, false);
+    bottomMenu.addEventListener('touchend', handleTouchEnd, false);
+    
+    function handleTouchStart(event) {
+        startY = event.touches[0].clientY;
+    }
+    
+    function handleTouchMove(event) {
+        if (!startY) {
+            return;
+        }
+        endY = event.touches[0].clientY;
+    }
+    
+    function handleTouchEnd() {
+        if (!endY) {
+            return;
+        }
+        const deltaY = endY - startY;
+        if (deltaY > 50) {
+            // Swiped down
+            hideMenu();
+        } else if (deltaY < -50) {
+            // Swiped up
+            toggleMenu();
+        }
+        startY = null;
+        endY = null;
+    }
+    
+    function toggleMenu(event) {
+        if (event) {
+            event.stopPropagation();
+        }
+        hiddenMenu.classList.toggle('active');
+    }
+    
+    function hideMenu() {
+        hiddenMenu.classList.remove('active');
+    }
+    
+    document.body.addEventListener('touchstart', (event) => {
+        startY = event.touches[0].clientY;
+    });
+    
+    document.body.addEventListener('touchmove', (event) => {
+        if (!startY) {
+            return;
+        }
+        endY = event.touches[0].clientY;
+    });
+    
+    document.body.addEventListener('touchend', () => {
+        if (!endY) {
+            return;
+        }
+        const deltaY = endY - startY;
+        if (deltaY > 50) {
+            // Swiped down
+            hideMenu();
+        }
+        startY = null;
+        endY = null;
+    });

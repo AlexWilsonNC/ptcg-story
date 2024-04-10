@@ -16,6 +16,7 @@ const spinner = document.querySelector('.spinner');
 const dblogo = document.querySelector('.db-logo');
 const bottommenu = document.querySelector('.bottom-menu');
 const searchmag = document.querySelector('.search-mag');
+const activedeckcontainer = document.querySelector('.active-deck-container');
 
 const optionbtn = document.querySelectorAll('.option-btn');
 const setwhitebox = document.querySelectorAll('.set-white-box');
@@ -40,6 +41,7 @@ const enableDarkMode = () => {
     dblogo.classList.add('darkon');
     bottommenu.classList.add('darkon');
     searchmag.classList.add('darkon');
+    activedeckcontainer.classList.add('darkon');
 
     optionbtn.forEach((optionbtn) => {
       optionbtn.classList.add('darkon');
@@ -75,6 +77,7 @@ const enableDarkMode = () => {
     dblogo.classList.remove('darkon');
     bottommenu.classList.remove('darkon');
     searchmag.classList.remove('darkon');
+    activedeckcontainer.classList.remove('darkon');
 
     optionbtn.forEach((optionbtn) => {
       optionbtn.classList.remove('darkon');
