@@ -49,8 +49,8 @@ let masters = [
         "firstName": "Jordan Palmer",
         flag: '../../../../assets/flags/australia.png',
         "event": "2024 Perth Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/charizard.png',
+        sprite2: '../../../../assets/sprites/pidgeot.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -113,8 +113,8 @@ let masters = [
         "firstName": "Jettano Posani",
         flag: '../../../../assets/flags/australia.png',
         "event": "2024 Perth Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/comfey.png',
+        sprite2: '../../../../assets/sprites/sableye.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -179,8 +179,8 @@ let masters = [
         "firstName": "Tim Franklin",
         flag: '../../../../assets/flags/australia.png',
         "event": "2024 Perth Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/roaring-moon.png',
+        sprite2: '../../../../assets/sprites/dudunsparce.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -199,8 +199,8 @@ let masters = [
         "firstName": "Andi Cheung",
         flag: '../../../../assets/flags/australia.png',
         "event": "2024 Perth Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/lugia.png',
+        sprite2: '../../../../assets/sprites/cinccino.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
