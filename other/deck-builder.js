@@ -16609,6 +16609,7 @@ function checkElementCount5(className, threshold) {
     });
 }
 // NEXT DO 575px ?
+// lessen bottom menu height
 checkElementCount('deck-box', 37);
 checkElementCount2('deck-box', 46);
 checkElementCount3('deck-box', 41);
