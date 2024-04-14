@@ -16562,10 +16562,58 @@ function checkElementCount4(className, threshold) {
         observer.observe(deckBox, { childList: true, subtree: true });
     });
 }
+// <705
+function checkElementCount5(className, threshold) {
+    let deckBoxes = document.querySelectorAll('.' + className);
+    deckBoxes.forEach(deckBox => {
+        const handleMutation = function (mutationsList, observer) {
+            for (let mutation of mutationsList) {
+                if (mutation.type === 'childList') {
+                    let deckCards = deckBox.querySelectorAll('.database-card-in-list');
+                    let addnminus = deckBox.querySelectorAll('.deck-add-minus');
+                    let pmCard = deckBox.querySelectorAll('.pm-card');
+                    let elementCount = deckCards.length;
+                    let viewportWidth = window.innerWidth;
+                    if (viewportWidth <= 705) {
+                        if (elementCount >= threshold) {
+                            deckCards.forEach(deckCard => {
+                                deckCard.style.width = '75px';
+                            });
+                            addnminus.forEach(addnminus => {
+                                addnminus.style.width = '75px';
+                                addnminus.style.marginBottom = '8px';
+                            });
+                            pmCard.forEach(pmCard => {
+                                pmCard.style.fontSize = '14px';
+                                pmCard.style.padding = '3px';
+                            });
+                        } else {
+                            deckCards.forEach(deckCard => {
+                                deckCard.style.width = '89px';
+                            });
+                            addnminus.forEach(addnminus => {
+                                addnminus.style.width = '89px';
+                                addnminus.style.marginBottom = '11px';
+                            });
+                            pmCard.forEach(pmCard => {
+                                pmCard.style.fontSize = '18px';
+                                pmCard.style.padding = '3px';
+                            });
+                        }
+                    }
+                }
+            }
+        };
+        const observer = new MutationObserver(handleMutation);
+        observer.observe(deckBox, { childList: true, subtree: true });
+    });
+}
+// NEXT DO 575px ?
 checkElementCount('deck-box', 37);
 checkElementCount2('deck-box', 46);
 checkElementCount3('deck-box', 41);
 checkElementCount4('deck-box', 36);
+checkElementCount5('deck-box', 36);
 
 function applyFlexToPmCards() {
     console.log("Applying flex to .pm-card elements");

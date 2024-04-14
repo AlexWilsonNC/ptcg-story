@@ -29,7 +29,7 @@
 @media screen and (max-width: 1000px) {
     .fghrygdb p {
         font-size: 10px;
-        margin: -5px 0 0 6px;
+        margin: -5px 0 5px 140px;
     }
 }
 @media screen and (max-width: 800px) {
@@ -333,6 +333,7 @@ body.darkon {
     display: none;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 
     transition: all ease 0.3s;
 }
@@ -340,9 +341,51 @@ body.darkon {
     display: flex;
 }
 #zoomed-bg img {
+    height: 75%;
     width: auto;
-    height: 90%;
     object-fit: cover;
+}
+.zoomed-add-minus {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 30%;
+    margin-top: 25px;
+}
+@media screen and (max-width: 1500px) {
+    .zoomed-add-minus {
+        width: 40%;
+    }
+}
+@media screen and (max-width: 1100px) {
+    .zoomed-add-minus {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 800px) {
+    .zoomed-add-minus {
+        width: 60%;
+    }
+}
+.zoomed-cnt-num {
+    width: 100px !important;
+    height: 100px !important;
+    background-color: black;
+    border-radius: 50%;
+    padding: 2px;
+    pointer-events: none;
+    z-index: 2;
+}
+.zoomed-plus,
+.zoomed-minus {
+    font-size: 36px !important;
+    background-color: rgb(46, 48, 67);
+    margin-bottom: 5px;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    border: 2.5px solid white;
 }
 .deckbuilt-card-container {
     display: flex;
@@ -1026,16 +1069,6 @@ body.darkon {
         font-size: 20px !important;
         color: white;
     }
-
-    /* .pm-card {
-        padding: 4px;
-        visibility: visible;
-        font-size: 20px;
-        border: 2px solid black;
-        font-weight: 600;
-        border-radius: 5px;
-        box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
-    } */
     .deckbuilt-card-container:hover > .deck-add-minus > .pm-card {
         display: none;
     }
@@ -1045,5 +1078,13 @@ body.darkon {
     .bottom-menu {
         display: flex;
     }
+    .deck-add-minus {
+        pointer-events: none;
+    }
 }
-    
+@media screen and (max-width: 1160px) {
+    .print-deck,
+    .export-json {
+        display: none;
+    }
+}
