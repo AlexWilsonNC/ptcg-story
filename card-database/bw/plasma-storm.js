@@ -8188,8 +8188,8 @@ let bw8 = [
         "rarity": "Uncommon",
          
         "images": {
-            "small": "https://images.pokemontcg.io/bw8/120.png",
-            "large": "https://images.pokemontcg.io/bw8/120_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PLS/PLS_120_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PLS/PLS_120_R_EN.png"
         }
     },
     {

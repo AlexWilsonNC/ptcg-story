@@ -191,4 +191,12 @@ let fr = [
             "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705668350724-DFNX87NMFZRIPLFVCOH7/Morty%27s+Conviction.png?format=750w"
         }
     },
+    {
+        "id": "fr-25",
+        "name": "Firefighter Pikachu",
+        "images": {
+            "small": "https://archives.bulbagarden.net/media/upload/thumb/5/51/FirefighterPikachuSMPromo209.jpg/429px-FirefighterPikachuSMPromo209.jpg",
+            "large": "../../../../assets/cards/jp-translations/firefighter-pikachu.jpg"
+        }
+    },
 ]

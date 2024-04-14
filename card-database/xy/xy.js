@@ -2966,8 +2966,8 @@ let xy1 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/xy1/44.png",
-            "large": "https://images.pokemontcg.io/xy1/44_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/XY/XY_044_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/XY/XY_044_R_EN.png"
         }
     },
     {
