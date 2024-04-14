@@ -199,4 +199,12 @@ let fr = [
             "large": "../../../../assets/cards/jp-translations/firefighter-pikachu.jpg"
         }
     },
+    {
+        "id": "fr-26",
+        "name": "Iron Thorns ex",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1708248046318-UB6GPC1GQK9A97NYU0MV/Iron+Thorns+ex.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1708248046318-UB6GPC1GQK9A97NYU0MV/Iron+Thorns+ex.png?format=750w"
+        }
+    },
 ]
