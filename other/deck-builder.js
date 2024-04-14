@@ -16543,10 +16543,10 @@ function checkElementCount4(className, threshold) {
                             });
                         } else {
                             deckCards.forEach(deckCard => {
-                                deckCard.style.width = '90px';
+                                deckCard.style.width = '89px';
                             });
                             addnminus.forEach(addnminus => {
-                                addnminus.style.width = '90px';
+                                addnminus.style.width = '89px';
                                 addnminus.style.marginBottom = '11px';
                             });
                             pmCard.forEach(pmCard => {
@@ -16567,15 +16567,6 @@ checkElementCount2('deck-box', 46);
 checkElementCount3('deck-box', 41);
 checkElementCount4('deck-box', 36);
 
-// function isMobileDevice() {
-//     return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-// }
-// if (isMobileDevice()) {
-//     let pmCards = document.querySelectorAll('.pm-card');
-//     pmCards.forEach(card => {
-//         card.style.visibility = 'visible';
-//     });
-// }
 function applyFlexToPmCards() {
     console.log("Applying flex to .pm-card elements");
     let pmCards = document.querySelectorAll('.pm-card');
@@ -16597,14 +16588,6 @@ function observePmCards() {
     const observerConfig = { childList: true, subtree: true };
 
     observer.observe(targetNode, observerConfig);
-}
-function isMobileDevice() {
-    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-    console.log("Is mobile device:", isMobile);
-    return isMobile;
-}
-if (isMobileDevice()) {
-    observePmCards();
 }
 
 const bottomMenu = document.getElementById('bottomMenu');

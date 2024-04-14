@@ -7,7 +7,8 @@ const menuToggle = document.getElementById('menuToggle');
 const navleftr = document.getElementById('nav-leftr');
 const navrightr = document.getElementById('nav-rightr');
 
-const fghrygdb = document.querySelector('.fghrygdb');
+const fghrygdb = document.querySelectorAll('.fghrygdb');
+const dblogodb = document.querySelector('.db-logo-db');
 const cardsearchcontainer = document.querySelector('.card-search-container');
 const alloptionbox = document.querySelector('.all-options-box');
 const allcardscontainer = document.querySelector('.all-cards-container');
@@ -15,7 +16,6 @@ const expandadvanced = document.querySelector('.expand-advanced');
 const spinner = document.querySelector('.spinner');
 const dblogo = document.querySelector('.db-logo');
 const bottommenu = document.querySelector('.bottom-menu');
-const searchmag = document.querySelector('.search-mag');
 const activedeckcontainer = document.querySelector('.active-deck-container');
 
 const optionbtn = document.querySelectorAll('.option-btn');
@@ -32,7 +32,6 @@ const enableDarkMode = () => {
     navleftr.classList.add('darkon');
     navrightr.classList.add('darkon');
 
-    fghrygdb.classList.add('darkon');
     cardsearchcontainer.classList.add('darkon');
     alloptionbox.classList.add('darkon');
     allcardscontainer.classList.add('darkon');
@@ -40,8 +39,8 @@ const enableDarkMode = () => {
     spinner.classList.add('darkon');
     dblogo.classList.add('darkon');
     bottommenu.classList.add('darkon');
-    searchmag.classList.add('darkon');
     activedeckcontainer.classList.add('darkon');
+    dblogodb.classList.add('darkon');
 
     optionbtn.forEach((optionbtn) => {
       optionbtn.classList.add('darkon');
@@ -54,6 +53,9 @@ const enableDarkMode = () => {
     })
     setcubepromo.forEach((setcubepromo) => {
       setcubepromo.classList.add('darkon');
+    })
+    fghrygdb.forEach((fghrygdb) => {
+      fghrygdb.classList.add('darkon');
     })
 
     localStorage.setItem('darkMode', 'enabled');
@@ -68,7 +70,6 @@ const enableDarkMode = () => {
     navleftr.classList.remove('darkon');
     navrightr.classList.remove('darkon');
 
-    fghrygdb.classList.remove('darkon');
     cardsearchcontainer.classList.remove('darkon');
     alloptionbox.classList.remove('darkon');
     allcardscontainer.classList.remove('darkon');
@@ -76,8 +77,8 @@ const enableDarkMode = () => {
     spinner.classList.remove('darkon');
     dblogo.classList.remove('darkon');
     bottommenu.classList.remove('darkon');
-    searchmag.classList.remove('darkon');
     activedeckcontainer.classList.remove('darkon');
+    dblogodb.classList.remove('darkon');
 
     optionbtn.forEach((optionbtn) => {
       optionbtn.classList.remove('darkon');
@@ -90,6 +91,9 @@ const enableDarkMode = () => {
     })
     setcubepromo.forEach((setcubepromo) => {
       setcubepromo.classList.remove('darkon');
+    })
+    fghrygdb.forEach((fghrygdb) => {
+      fghrygdb.classList.remove('darkon');
     })
 
     localStorage.setItem('darkMode', null);
