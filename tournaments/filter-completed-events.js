@@ -62,18 +62,18 @@ function filterEvents() {
     if (x === "all-tpci") {
     worlds.forEach((worlds) => {
         worlds.style.display = 'table-row';
-        worlds.classList.remove('new-red-bg');
+        worlds.classList.add('new-red-bg');
     });
     internationals.forEach((internationals) => {
         internationals.style.display = 'table-row';
-        internationals.classList.remove('new-red-bg');
+        internationals.classList.add('new-red-bg');
     });
     championsLeague.forEach((championsLeague) => {
         championsLeague.style.display = 'none';
     });
     regionals.forEach((regionals) => {
         regionals.style.display = 'table-row';
-        regionals.classList.remove('new-red-bg');
+        regionals.classList.add('new-red-bg');
     });
     asiaEvent.forEach((asiaEvent) => {
         asiaEvent.style.display = 'none';
@@ -83,23 +83,23 @@ function filterEvents() {
     });
     playersCup.forEach((playersCup) => {
         playersCup.style.display = 'table-row';
-        playersCup.classList.remove('new-red-bg');
+        playersCup.classList.add('new-red-bg');
     });
     nationals.forEach((nationals) => {
         nationals.style.display = 'table-row';
-        nationals.classList.remove('new-red-bg');
+        nationals.classList.add('new-red-bg');
     });
     stadiumChallenge.forEach((stadiumChallenge) => {
         stadiumChallenge.style.display = 'table-row';
-        stadiumChallenge.classList.remove('new-red-bg');
+        stadiumChallenge.classList.add('new-red-bg');
     });
     superTrainerShowdown.forEach((superTrainerShowdown) => {
         superTrainerShowdown.style.display = 'table-row';
-        superTrainerShowdown.classList.remove('new-red-bg');
+        superTrainerShowdown.classList.add('new-red-bg');
     });
     specialEvent.forEach((specialEvent) => {
         specialEvent.style.display = 'table-row';
-        specialEvent.classList.remove('new-red-bg');
+        specialEvent.classList.add('new-red-bg');
     });
     } else if (x === "worlds") {
     worlds.forEach((worlds) => {
