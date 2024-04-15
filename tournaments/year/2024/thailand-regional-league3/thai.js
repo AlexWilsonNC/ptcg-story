@@ -1,330 +1,658 @@
 let masters = [
   {
     "firstName": "Wasin Taechakijviboon",
-    flag: '../../../../assets/sprites/blank.png',
+    flag: '../../../../assets/flags/thailand.png',
     "event": "2024 Thailand Regional League #3",
     sprite1: "../../../../assets/sprites/blank.png",
     sprite2: "../../../../assets/sprites/gouging-fire.png",
     list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        {"count": 3, "name": "Gouging Fire ex", "set": "TEF", "number": "38"},
-        {"count": 1, "name": "Entei V", "set": "BRS", "number": "22"},
-        {"count": 1, "name": "Delphox V", "set": "LOR", "number": "27"},
-        {"count": 1, "name": "Radiant Charizard", "set": "CRZ", "number": "20"},
-        {"count": 1, "name": "Chi-Yu", "set": "PAR", "number": "29"},
-        {"count": 1, "name": "Iron Valiant ex", "set": "PAR", "number": "89"},
-        {"count": 1, "name": "Squawkabilly ex", "set": "PAF", "number": "75"},
-        {"count": 1, "name": "Cyclizar", "set": "SVI", "number": "164"},
-       ], "trainer": [
-        {"count": 4, "name": "Professor Sada's Vitality", "set": "PAR", "number": "170"},
-        {"count": 3, "name": "Professor's Research", "set": "PAF", "number": "88"},
-        {"count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172"},
-        {"count": 2, "name": "Iono", "set": "PAF", "number": "80"},
-        {"count": 1, "name": "Mela", "set": "PAR", "number": "167"},
-        {"count": 1, "name": "Penny", "set": "SVI", "number": "183"},
-        {"count": 4, "name": "Switch Cart", "set": "ASR", "number": "154"},
-        {"count": 4, "name": "Nest Ball", "set": "PAF", "number": "84"},
-        {"count": 3, "name": "Ultra Ball", "set": "PAF", "number": "91"},
-        {"count": 2, "name": "Earthen Vessel", "set": "PAR", "number": "163"},
-        {"count": 1, "name": "Hisuian Heavy Ball", "set": "ASR", "number": "146"},
-        {"count": 1, "name": "Super Rod", "set": "PAL", "number": "188"},
-        {"count": 1, "name": "Pal Pad", "set": "SVI", "number": "182"},
-        {"count": 1, "name": "Counter Catcher", "set": "PAR", "number": "160"},
-        {"count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135"},
-        {"count": 1, "name": "Maximum Belt", "set": "TEF", "number": "154"},
-        {"count": 1, "name": "Bravery Charm", "set": "PAL", "number": "173"},
-        {"count": 1, "name": "Forest Seal Stone", "set": "SIT", "number": "156"},
-        {"count": 4, "name": "Magma Basin", "set": "BRS", "number": "144"},
+        { "count": 3, "name": "Gouging Fire ex", "set": "TEF", "number": "38" },
+        { "count": 1, "name": "Entei V", "set": "BRS", "number": "22" },
+        { "count": 1, "name": "Delphox V", "set": "LOR", "number": "27" },
+        { "count": 1, "name": "Radiant Charizard", "set": "CRZ", "number": "20" },
+        { "count": 1, "name": "Chi-Yu", "set": "PAR", "number": "29" },
+        { "count": 1, "name": "Iron Valiant ex", "set": "PAR", "number": "89" },
+        { "count": 1, "name": "Squawkabilly ex", "set": "PAF", "number": "75" },
+        { "count": 1, "name": "Cyclizar", "set": "SVI", "number": "164" },
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sada's Vitality", "set": "PAR", "number": "170" },
+        { "count": 3, "name": "Professor's Research", "set": "PAF", "number": "88" },
+        { "count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172" },
+        { "count": 2, "name": "Iono", "set": "PAF", "number": "80" },
+        { "count": 1, "name": "Mela", "set": "PAR", "number": "167" },
+        { "count": 1, "name": "Penny", "set": "SVI", "number": "183" },
+        { "count": 4, "name": "Switch Cart", "set": "ASR", "number": "154" },
+        { "count": 4, "name": "Nest Ball", "set": "PAF", "number": "84" },
+        { "count": 3, "name": "Ultra Ball", "set": "PAF", "number": "91" },
+        { "count": 2, "name": "Earthen Vessel", "set": "PAR", "number": "163" },
+        { "count": 1, "name": "Hisuian Heavy Ball", "set": "ASR", "number": "146" },
+        { "count": 1, "name": "Super Rod", "set": "PAL", "number": "188" },
+        { "count": 1, "name": "Pal Pad", "set": "SVI", "number": "182" },
+        { "count": 1, "name": "Counter Catcher", "set": "PAR", "number": "160" },
+        { "count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135" },
+        { "count": 1, "name": "Maximum Belt", "set": "TEF", "number": "154" },
+        { "count": 1, "name": "Bravery Charm", "set": "PAL", "number": "173" },
+        { "count": 1, "name": "Forest Seal Stone", "set": "SIT", "number": "156" },
+        { "count": 4, "name": "Magma Basin", "set": "BRS", "number": "144" },
       ], "energy": [
-        {"count": 9, "name": "Basic Fire Energy", "set": "SVE", "number": "2"},
-        {"count": 3, "name": "Jet Energy", "set": "PAL", "number": "190"},
+        { "count": 9, "name": "Basic Fire Energy", "set": "SVE", "number": "2" },
+        { "count": 3, "name": "Jet Energy", "set": "PAL", "number": "190" },
       ]
     }
   },
   {
     "firstName": "Surawut Rattanavitya",
-    flag: '../../../../assets/sprites/blank.png',
+    flag: '../../../../assets/flags/thailand.png',
     "event": "2024 Thailand Regional League #3",
     sprite1: "../../../../assets/sprites/dialga.png",
     sprite2: "../../../../assets/sprites/metang.png",
     list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        {"count": 4, "name": "Beldum", "set": "TEF", "number": "113"},
-        {"count": 3, "name": "Metang", "set": "TEF", "number": "114"},
-        {"count": 3, "name": "Origin Forme Dialga V", "set": "ASR", "number": "113"},
-        {"count": 3, "name": "Origin Forme Dialga VSTAR", "set": "ASR", "number": "114"},
-        {"count": 2, "name": "Zamazenta", "set": "CRZ", "number": "97"},
+        { "count": 4, "name": "Beldum", "set": "TEF", "number": "113" },
+        { "count": 3, "name": "Metang", "set": "TEF", "number": "114" },
+        { "count": 3, "name": "Origin Forme Dialga V", "set": "ASR", "number": "113" },
+        { "count": 3, "name": "Origin Forme Dialga VSTAR", "set": "ASR", "number": "114" },
+        { "count": 2, "name": "Zamazenta", "set": "CRZ", "number": "97" },
+        { "count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46" },
+        { "count": 1, "name": "Mew ex", "set": "MEW", "number": "151" },
+      ], "trainer": [
+        { "count": 3, "name": "Arven", "set": "OBF", "number": "186" },
+        { "count": 3, "name": "Professor's Research", "set": "PAF", "number": "88" },
+        { "count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172" },
+        { "count": 2, "name": "Iono", "set": "PAF", "number": "80" },
+        { "count": 4, "name": "Super Rod", "set": "PAL", "number": "188" },
+        { "count": 3, "name": "Ultra Ball", "set": "PAF", "number": "91" },
+        { "count": 3, "name": "Nest Ball", "set": "PAF", "number": "84" },
+        { "count": 2, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144" },
+        { "count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157" },
+        { "count": 2, "name": "Technical Machine: Evolution", "set": "PAR", "number": "178" },
+        { "count": 1, "name": "Defiance Band", "set": "SVI", "number": "169" },
+        { "count": 1, "name": "Vitality Band", "set": "SVI", "number": "197" },
+      ], "energy": [
+        { "count": 16, "name": "Basic Metal Energy", "set": "SVE", "number": "8" },]
+    }
+  },
+  {
+    "firstName": "Jetnipat Likitsombat",
+    flag: '../../../../assets/flags/thailand.png',
+    "event": "2024 Thailand Regional League #3",
+    sprite1: "../../../../assets/sprites/comfey.png",
+    sprite2: "../../../../assets/sprites/sableye.png",
+    list: '../../../../assets/list-icon.png',
+    "decklist": {
+      "pokemon": [
+        {"count": 4, "name": "Comfey", "set": "LOR", "number": "79"},
+        {"count": 1, "name": "Sableye", "set": "LOR", "number": "70"},
+        {"count": 1, "name": "Cramorant", "set": "LOR", "number": "50"},
         {"count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46"},
+        {"count": 1, "name": "Roaring Moon ex", "set": "PAR", "number": "124"},
+        {"count": 1, "name": "Iron Hands ex", "set": "PAR", "number": "70"},
+        {"count": 1, "name": "Hoopa ex", "set": "PAR", "number": "98"},
+        {"count": 1, "name": "Manaphy", "set": "BRS", "number": "41"},
+        {"count": 1, "name": "Iron Bundle", "set": "PAR", "number": "56"},
+        {"count": 1, "name": "Spiritomb", "set": "PAL", "number": "89"},
+            ], "trainer": [
+              {"count": 4, "name": "Colress's Experiment", "set": "LOR", "number": "155"},
+              {"count": 2, "name": "Roxanne", "set": "ASR", "number": "150"},
+              {"count": 4, "name": "Mirage Gate", "set": "LOR", "number": "163"},
+              {"count": 4, "name": "Nest Ball", "set": "PAF", "number": "84"},
+              {"count": 4, "name": "Switch Cart", "set": "ASR", "number": "154"},
+              {"count": 3, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144"},
+              {"count": 3, "name": "Super Rod", "set": "PAL", "number": "188"},
+              {"count": 2, "name": "Switch", "set": "SVI", "number": "194"},
+              {"count": 2, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+              {"count": 1, "name": "Hisuian Heavy Ball", "set": "ASR", "number": "146"},
+              {"count": 1, "name": "Pokégear 3.0", "set": "SVI", "number": "186"},
+              {"count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135"},
+              {"count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157"},
+              {"count": 2, "name": "Rescue Board", "set": "TEF", "number": "159"},
+              {"count": 1, "name": "Technical Machine: Crisis Punch", "set": "PAF", "number": "90"},
+              {"count": 2, "name": "Artazon", "set": "PAF", "number": "76"},
+            ], "energy": [
+        {"count": 4, "name": "Darkness", "set": "Energy", "number": "7"},
+        {"count": 2, "name": "Water", "set": "Energy", "number": "3"},
+        {"count": 2, "name": "Lightning", "set": "Energy", "number": "4"},
+        {"count": 2, "name": "Psychic", "set": "Energy", "number": "5"},
+      ]
+    }
+  },
+  {
+    "firstName": "Yotee Jearanikoon",
+    flag: '../../../../assets/flags/thailand.png',
+    "event": "2024 Thailand Regional League #3",
+    sprite1: "../../../../assets/sprites/giratina-origin.png",
+    sprite2: "../../../../assets/sprites/comfey.png",
+    list: '../../../../assets/list-icon.png',
+    "decklist": {
+      "pokemon": [
+        {"count": 4, "name": "Comfey", "set": "LOR", "number": "79"},
+        {"count": 3, "name": "Giratina V", "set": "LOR", "number": "130"},
+        {"count": 3, "name": "Giratina VSTAR", "set": "LOR", "number": "131"},
+        {"count": 1, "name": "Sableye", "set": "LOR", "number": "70"},
+        {"count": 1, "name": "Cramorant", "set": "LOR", "number": "50"},
+        {"count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46"},
+        {"count": 1, "name": "Iron Leaves ex", "set": "TEF", "number": "25"},
+            ], "trainer": [
+              {"count": 4, "name": "Colress's Experiment", "set": "LOR", "number": "155"},
+              {"count": 3, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+              {"count": 2, "name": "Roxanne", "set": "ASR", "number": "150"},
+              {"count": 1, "name": "Iono", "set": "PAF", "number": "80"},
+              {"count": 4, "name": "Mirage Gate", "set": "LOR", "number": "163"},
+              {"count": 4, "name": "Nest Ball", "set": "PAF", "number": "84"},
+              {"count": 3, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144"},
+              {"count": 2, "name": "Switch Cart", "set": "ASR", "number": "154"},
+              {"count": 2, "name": "Switch", "set": "SVI", "number": "194"},
+              {"count": 2, "name": "Super Rod", "set": "PAL", "number": "188"},
+              {"count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135"},
+              {"count": 1, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+              {"count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157"},
+              {"count": 1, "name": "Rescue Board", "set": "TEF", "number": "159"},
+              {"count": 1, "name": "Forest Seal Stone", "set": "SIT", "number": "156"},
+              {"count": 1, "name": "Temple of Sinnoh", "set": "ASR", "number": "155"},
+            ], "energy": [
+        {"count": 4, "name": "Grass", "set": "Energy", "number": "1"},
+        {"count": 3, "name": "Psychic", "set": "Energy", "number": "5"},
+        {"count": 3, "name": "Water", "set": "Energy", "number": "3"},
+        {"count": 3, "name": "Jet Energy", "set": "PAL", "number": "190"},
+      ]
+    }
+  },
+  {
+    "firstName": "Satira Thachaphan",
+    flag: '../../../../assets/flags/thailand.png',
+    "event": "2024 Thailand Regional League #3",
+    sprite1: "../../../../assets/sprites/giratina-origin.png",
+    sprite2: "../../../../assets/sprites/comfey.png",
+    list: '../../../../assets/list-icon.png',
+    "decklist": {
+      "pokemon": [
+        {"count": 4, "name": "Comfey", "set": "LOR", "number": "79"},
+        {"count": 3, "name": "Giratina V", "set": "LOR", "number": "130"},
+        {"count": 3, "name": "Giratina VSTAR", "set": "LOR", "number": "131"},
+        {"count": 1, "name": "Sableye", "set": "LOR", "number": "70"},
+        {"count": 1, "name": "Cramorant", "set": "LOR", "number": "50"},
+        {"count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46"},
+        {"count": 1, "name": "Iron Leaves ex", "set": "TEF", "number": "25"},
+            ], "trainer": [
+              {"count": 4, "name": "Colress's Experiment", "set": "LOR", "number": "155"},
+              {"count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+              {"count": 2, "name": "Roxanne", "set": "ASR", "number": "150"},
+              {"count": 1, "name": "Iono", "set": "PAF", "number": "80"},
+              {"count": 4, "name": "Mirage Gate", "set": "LOR", "number": "163"},
+              {"count": 4, "name": "Nest Ball", "set": "PAF", "number": "84"},
+              {"count": 4, "name": "Switch Cart", "set": "ASR", "number": "154"},
+              {"count": 2, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144"},
+              {"count": 2, "name": "Super Rod", "set": "PAL", "number": "188"},
+              {"count": 2, "name": "Lost Vacuum", "set": "CRZ", "number": "135"},
+              {"count": 1, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+              {"count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157"},
+              {"count": 1, "name": "Rescue Board", "set": "TEF", "number": "159"},
+              {"count": 1, "name": "Forest Seal Stone", "set": "SIT", "number": "156"},
+              {"count": 1, "name": "Artazon", "set": "PAF", "number": "76"},
+            ], "energy": [
+              {"count": 4, "name": "Grass", "set": "Energy", "number": "1"},
+              {"count": 3, "name": "Psychic", "set": "Energy", "number": "5"},
+              {"count": 3, "name": "Water", "set": "Energy", "number": "3"},
+              {"count": 4, "name": "Jet Energy", "set": "PAL", "number": "190"},
+            ]
+    }
+  },
+  {
+    "firstName": "Jirayu Choeikamheang",
+    flag: '../../../../assets/flags/thailand.png',
+    "event": "2024 Thailand Regional League #3",
+    sprite1: "../../../../assets/sprites/arceus.png",
+    sprite2: "../../../../assets/sprites/giratina-origin.png",
+    list: '../../../../assets/list-icon.png',
+    "decklist": {
+      "pokemon": [
+        {"count": 4, "name": "Arceus V", "set": "BRS", "number": "122"},
+        {"count": 3, "name": "Arceus VSTAR", "set": "BRS", "number": "123"},
+        {"count": 2, "name": "Giratina V", "set": "LOR", "number": "130"},
+        {"count": 2, "name": "Giratina VSTAR", "set": "LOR", "number": "131"},
+        {"count": 2, "name": "Bidoof", "set": "CRZ", "number": "111"},
+        {"count": 2, "name": "Bibarel", "set": "BRS", "number": "121"},
+        {"count": 1, "name": "Skwovet", "set": "SVI", "number": "151"},
+        {"count": 1, "name": "Ditto", "set": "MEW", "number": "132"},
+        {"count": 1, "name": "Radiant Gardevoir", "set": "LOR", "number": "69"},
+        {"count": 1, "name": "Iron Leaves ex", "set": "TEF", "number": "25"},
+            ], "trainer": [
+              {"count": 3, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+              {"count": 3, "name": "Iono", "set": "PAF", "number": "80"},
+              {"count": 3, "name": "Judge", "set": "SVI", "number": "176"},
+              {"count": 1, "name": "Arven", "set": "OBF", "number": "186"},
+              {"count": 1, "name": "Cheren's Care", "set": "BRS", "number": "134"},
+              {"count": 4, "name": "Nest Ball", "set": "PAF", "number": "84"},
+              {"count": 4, "name": "Ultra Ball", "set": "PAF", "number": "91"},
+              {"count": 1, "name": "Capturing Aroma", "set": "SIT", "number": "153"},
+              {"count": 1, "name": "Switch", "set": "SVI", "number": "194"},
+              {"count": 1, "name": "Super Rod", "set": "PAL", "number": "188"},
+              {"count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135"},
+              {"count": 1, "name": "Choice Belt", "set": "PAL", "number": "176"},
+              {"count": 1, "name": "Maximum Belt", "set": "TEF", "number": "154"},
+              {"count": 2, "name": "Pokémon League Headquarters", "set": "OBF", "number": "192"},
+            ], "energy": [
+              {"count": 5, "name": "Grass", "set": "Energy", "number": "1"},
+              {"count": 3, "name": "Psychic", "set": "Energy", "number": "5"},
+              {"count": 4, "name": "Double Turbo Energy", "set": "BRS", "number": "151"},
+              {"count": 1, "name": "V Guard Energy", "set": "SIT", "number": "169"},
+              {"count": 1, "name": "Jet Energy", "set": "PAL", "number": "190"},
+            ]
+    }
+  },
+  {
+    "firstName": "Supsit Varepontaweesen",
+    flag: '../../../../assets/flags/thailand.png',
+    "event": "2024 Thailand Regional League #3",
+    sprite1: "../../../../assets/sprites/blank.png",
+    sprite2: "../../../../assets/sprites/great-tusk.png",
+    list: '../../../../assets/list-icon.png',
+    "decklist": {
+      "pokemon": [
+        {"count": 4, "name": "Great Tusk", "set": "TEF", "number": "97"},
+        {"count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46"},
+        {"count": 1, "name": "Mimikyu", "set": "PAF", "number": "37"},
+        {"count": 1, "name": "Mawile", "set": "LOR", "number": "71"},
+        {"count": 1, "name": "Pidgeot V", "set": "LOR", "number": "137"},
+            ], "trainer": [
+              {"count": 4, "name": "Professor Sada's Vitality", "set": "PAR", "number": "170"},
+              {"count": 4, "name": "Explorer's Guidance", "set": "TEF", "number": "147"},
+              {"count": 1, "name": "Eri", "set": "TEF", "number": "146"},
+              {"count": 1, "name": "Erika's Invitation", "set": "MEW", "number": "160"},
+              {"count": 4, "name": "Pokégear 3.0", "set": "SVI", "number": "186"},
+              {"count": 4, "name": "Nest Ball", "set": "PAF", "number": "84"},
+              {"count": 4, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+              {"count": 3, "name": "Earthen Vessel", "set": "PAR", "number": "163"},
+              {"count": 3, "name": "Super Rod", "set": "PAL", "number": "188"},
+              {"count": 2, "name": "Pal Pad", "set": "SVI", "number": "182"},
+              {"count": 1, "name": "Hisuian Heavy Ball", "set": "ASR", "number": "146"},
+              {"count": 1, "name": "Switch Cart", "set": "ASR", "number": "154"},
+              {"count": 3, "name": "Ancient Booster Energy Capsule", "set": "TEF", "number": "140"},
+              {"count": 1, "name": "Hero's Cape", "set": "TEF", "number": "152"},
+              {"count": 1, "name": "Bravery Charm", "set": "PAL", "number": "173"},
+              {"count": 1, "name": "Rescue Board", "set": "TEF", "number": "159"},
+              {"count": 3, "name": "Artazon", "set": "PAF", "number": "76"},
+            ], "energy": [
+              {"count": 4, "name": "Fighting", "set": "Energy", "number": "6"},
+              {"count": 1, "name": "Psychic", "set": "Energy", "number": "5"},
+              {"count": 4, "name": "Double Turbo Energy", "set": "BRS", "number": "151"},
+              {"count": 2, "name": "Jet Energy", "set": "PAL", "number": "190"},
+            ]
+    }
+  },
+  {
+    "firstName": "Jirayut Pomsore",
+    flag: '../../../../assets/flags/thailand.png',
+    "event": "2024 Thailand Regional League #3",
+    sprite1: "../../../../assets/sprites/iron-hands.png",
+    sprite2: "../../../../assets/sprites/iron-crown.png",
+    list: '../../../../assets/list-icon.png',
+    "decklist": {
+      "pokemon": [
+        {"count": 4, "name": "Iron Crown ex", "set": "TEF", "number": "81"},
+        {"count": 3, "name": "Iron Hands ex", "set": "PAR", "number": "70"},
+        {"count": 2, "name": "Miraidon", "set": "TEF", "number": "121"},
+        {"count": 1, "name": "Iron Leaves ex", "set": "TEF", "number": "25"},
+        {"count": 1, "name": "Iron Bundle", "set": "PAR", "number": "56"},
         {"count": 1, "name": "Mew ex", "set": "MEW", "number": "151"},
-    ], "trainer": [
-        {"count": 3, "name": "Arven", "set": "OBF", "number": "186"},
-        {"count": 3, "name": "Professor's Research", "set": "PAF", "number": "88"},
-        {"count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172"},
-        {"count": 2, "name": "Iono", "set": "PAF", "number": "80"},
-        {"count": 4, "name": "Super Rod", "set": "PAL", "number": "188"},
-        {"count": 3, "name": "Ultra Ball", "set": "PAF", "number": "91"},
-        {"count": 3, "name": "Nest Ball", "set": "PAF", "number": "84"},
-        {"count": 2, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144"},
-        {"count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157"},
-        {"count": 2, "name": "Technical Machine: Evolution", "set": "PAR", "number": "178"},
-        {"count": 1, "name": "Defiance Band", "set": "SVI", "number": "169"},
-        {"count": 1, "name": "Vitality Band", "set": "SVI", "number": "197"},      
-      ], "energy": [
-        {"count": 16, "name": "Basic Metal Energy", "set": "SVE", "number": "8"},      ]
+            ], "trainer": [
+              {"count": 4, "name": "Arven", "set": "OBF", "number": "186"},
+              {"count": 3, "name": "Professor's Research", "set": "PAF", "number": "88"},
+              {"count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+              {"count": 2, "name": "Iono", "set": "PAF", "number": "80"},
+              {"count": 1, "name": "Roxanne", "set": "ASR", "number": "150"},
+              {"count": 4, "name": "Electric Generator", "set": "PAF", "number": "79"},
+              {"count": 4, "name": "Techno Radar", "set": "PAR", "number": "180"},
+              {"count": 2, "name": "Nest Ball", "set": "PAF", "number": "84"},
+              {"count": 2, "name": "Pokégear 3.0", "set": "SVI", "number": "186"},
+              {"count": 1, "name": "Super Rod", "set": "PAL", "number": "188"},
+              {"count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135"},
+              {"count": 1, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+              {"count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157"},
+              {"count": 3, "name": "Future Booster Energy Capsule", "set": "TEF", "number": "149"},
+              {"count": 2, "name": "Heavy Baton", "set": "TEF", "number": "151"},
+              {"count": 1, "name": "Bravery Charm", "set": "PAL", "number": "173"},
+              {"count": 1, "name": "Town Store", "set": "OBF", "number": "196"},
+            ], "energy": [
+              {"count": 11, "name": "Lightning", "set": "Energy", "number": "4"},
+              {"count": 2, "name": "Grass", "set": "Energy", "number": "1"},
+            ]
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
+    "firstName": "Nattaphong Malode",
+    flag: '../../../../assets/flags/thailand.png',
     "event": "2024 Thailand Regional League #3",
     sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    sprite2: "../../../../assets/sprites/gardevoir.png",
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
+        {"count": 3, "name": "Ralts", "set": "ASR", "number": "60"},
+        {"count": 1, "name": "Ralts", "set": "SIT", "number": "67"},
+        {"count": 4, "name": "Kirlia", "set": "SIT", "number": "68"},
+        {"count": 2, "name": "Gardevoir ex", "set": "PAF", "number": "29"},
+        {"count": 1, "name": "Gallade", "set": "ASR", "number": "62"},
+        {"count": 2, "name": "Drifloon", "set": "SVI", "number": "89"},
+        {"count": 1, "name": "Scream Tail", "set": "PAR", "number": "86"},
+        {"count": 1, "name": "Flutter Mane", "set": "TEF", "number": "78"},
+        {"count": 1, "name": "Mimikyu", "set": "PAF", "number": "37"},
+        {"count": 1, "name": "Manaphy", "set": "BRS", "number": "41"},
+        {"count": 1, "name": "Jirachi", "set": "PAR", "number": "126"},
+            ], "trainer": [
+              {"count": 4, "name": "Arven", "set": "OBF", "number": "186"},
+              {"count": 4, "name": "Iono", "set": "PAF", "number": "80"},
+              {"count": 1, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+              {"count": 1, "name": "Professor Turo's Scenario", "set": "PAR", "number": "171"},
+              {"count": 4, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144"},
+              {"count": 3, "name": "Ultra Ball", "set": "PAF", "number": "91"},
+              {"count": 2, "name": "Nest Ball", "set": "PAF", "number": "84"},
+              {"count": 2, "name": "Earthen Vessel", "set": "PAR", "number": "163"},
+              {"count": 2, "name": "Super Rod", "set": "PAL", "number": "188"},
+              {"count": 2, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+              {"count": 1, "name": "Hisuian Heavy Ball", "set": "ASR", "number": "146"},
+              {"count": 1, "name": "Rare Candy", "set": "PAF", "number": "89"},
+              {"count": 1, "name": "Damage Pump", "set": "LOR", "number": "156"},
+              {"count": 2, "name": "Technical Machine: Evolution", "set": "PAR", "number": "178"},
+              {"count": 1, "name": "Hero's Cape", "set": "TEF", "number": "152"},
+              {"count": 1, "name": "Luxurious Cape", "set": "PAR", "number": "166"},
+              {"count": 1, "name": "Bravery Charm", "set": "PAL", "number": "173"},
+              {"count": 1, "name": "Pokémon League Headquarters", "set": "OBF", "number": "192"},
+            ], "energy": [
+              {"count": 8, "name": "Psychic", "set": "Energy", "number": "5"},
+            ]
+    }
+  },
+  {
+    "firstName": "Sutimon Sarachantapong",
+    flag: '../../../../assets/flags/thailand.png',
+    "event": "2024 Thailand Regional League #3",
+    sprite1: "../../../../assets/sprites/giratina-origin.png",
+    sprite2: "../../../../assets/sprites/comfey.png",
+    list: '../../../../assets/list-icon.png',
+    "decklist": {
+      "pokemon": [
+        {"count": 4, "name": "Comfey", "set": "LOR", "number": "79"},
+        {"count": 3, "name": "Giratina V", "set": "LOR", "number": "130"},
+        {"count": 3, "name": "Giratina VSTAR", "set": "LOR", "number": "131"},
+        {"count": 2, "name": "Sableye", "set": "LOR", "number": "70"},
+        {"count": 1, "name": "Cramorant", "set": "LOR", "number": "50"},
+        {"count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46"},
+        {"count": 1, "name": "Manaphy", "set": "BRS", "number": "41"},
+        {"count": 1, "name": "Iron Leaves ex", "set": "TEF", "number": "25"},
+            ], "trainer": [
+              {"count": 4, "name": "Colress's Experiment", "set": "LOR", "number": "155"},
+              {"count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+              {"count": 2, "name": "Roxanne", "set": "ASR", "number": "150"},
+              {"count": 1, "name": "Thorton", "set": "LOR", "number": "167"},
+              {"count": 4, "name": "Mirage Gate", "set": "LOR", "number": "163"},
+              {"count": 4, "name": "Nest Ball", "set": "PAF", "number": "84"},
+              {"count": 2, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144"},
+              {"count": 2, "name": "Switch Cart", "set": "ASR", "number": "154"},
+              {"count": 2, "name": "Switch", "set": "SVI", "number": "194"},
+              {"count": 2, "name": "Super Rod", "set": "PAL", "number": "188"},
+              {"count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135"},
+              {"count": 1, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+              {"count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157"},
+              {"count": 1, "name": "Forest Seal Stone", "set": "SIT", "number": "156"},
+              {"count": 1, "name": "Rescue Board", "set": "TEF", "number": "159"},
+              {"count": 1, "name": "Artazon", "set": "PAF", "number": "76"},
+            ], "energy": [
+              {"count": 4, "name": "Grass", "set": "Energy", "number": "1"},
+              {"count": 4, "name": "Psychic", "set": "Energy", "number": "5"},
+              {"count": 2, "name": "Water", "set": "Energy", "number": "3"},
+              {"count": 3, "name": "Jet Energy", "set": "PAL", "number": "190"},
+            ]
+    }
+  },
+  {
+    "firstName": "Krittamet Santivivattanapong",
+    flag: '../../../../assets/flags/thailand.png',
+    "event": "2024 Thailand Regional League #3",
+    sprite1: "../../../../assets/sprites/lugia.png",
+    sprite2: "../../../../assets/sprites/cinccino.png",
+    list: '../../../../assets/list-icon.png',
+    "decklist": {
+      "pokemon": [
+        {"count": 3, "name": "Lugia V", "set": "SIT", "number": "138"},
+        {"count": 3, "name": "Lugia VSTAR", "set": "SIT", "number": "139"},
+        {"count": 4, "name": "Archeops", "set": "SIT", "number": "147"},
+        {"count": 4, "name": "Minccino", "set": "BRS", "number": "124"},
+        {"count": 3, "name": "Cinccino", "set": "TEF", "number": "137"},
+        {"count": 1, "name": "Snorlax", "set": "LOR", "number": "143"},
+        {"count": 1, "name": "Lumineon V", "set": "BRS", "number": "40"},
+            ], "trainer": [
+              {"count": 3, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+              {"count": 2, "name": "Professor's Research", "set": "PAF", "number": "88"},
+              {"count": 2, "name": "Iono", "set": "PAF", "number": "80"},
+              {"count": 2, "name": "Serena", "set": "SIT", "number": "164"},
+              {"count": 1, "name": "Jacq", "set": "SVI", "number": "175"},
+              {"count": 1, "name": "Arven", "set": "OBF", "number": "186"},
+              {"count": 4, "name": "Ultra Ball", "set": "PAF", "number": "91"},
+              {"count": 4, "name": "Capturing Aroma", "set": "SIT", "number": "153"},
+              {"count": 3, "name": "Great Ball", "set": "PAL", "number": "183"},
+              {"count": 1, "name": "Maximum Belt", "set": "TEF", "number": "154"},
+              {"count": 1, "name": "Collapsed Stadium", "set": "BRS", "number": "137"},
+            ], "energy": [
+        {"count": 4, "name": "Double Turbo Energy", "set": "BRS", "number": "151"},
+        {"count": 4, "name": "Jet Energy", "set": "PAL", "number": "190"},
+        {"count": 4, "name": "Gift Energy", "set": "LOR", "number": "171"},
+        {"count": 3, "name": "Mist Energy", "set": "TEF", "number": "161"},
+        {"count": 1, "name": "Therapeutic Energy", "set": "PAL", "number": "193"},
+        {"count": 1, "name": "V Guard Energy", "set": "SIT", "number": "169"},
       ]
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
+    "firstName": "Chutipon Maksakun",
+    flag: '../../../../assets/flags/thailand.png',
     "event": "2024 Thailand Regional League #3",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    sprite1: "../../../../assets/sprites/koraidon.png",
+    sprite2: "../../../../assets/sprites/roaring-moon.png",
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
+        {"count": 4, "name": "Roaring Moon", "set": "TEF", "number": "109"},
+        {"count": 4, "name": "Koraidon", "set": "TEF", "number": "119"},
+        {"count": 3, "name": "Flutter Mane", "set": "TEF", "number": "78"},
+        {"count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46"},
+        {"count": 1, "name": "Slither Wing", "set": "PAR", "number": "107"},
+        {"count": 1, "name": "Great Tusk", "set": "TEF", "number": "97"},
+            ], "trainer": [
+              {"count": 4, "name": "Professor Sada's Vitality", "set": "PAR", "number": "170"},
+              {"count": 4, "name": "Explorer's Guidance", "set": "TEF", "number": "147"},
+              {"count": 1, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+              {"count": 4, "name": "Nest Ball", "set": "PAF", "number": "84"},
+              {"count": 4, "name": "Earthen Vessel", "set": "PAR", "number": "163"},
+              {"count": 3, "name": "Pokégear 3.0", "set": "SVI", "number": "186"},
+              {"count": 2, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+              {"count": 1, "name": "Ultra Ball", "set": "PAF", "number": "91"},
+              {"count": 1, "name": "Hisuian Heavy Ball", "set": "ASR", "number": "146"},
+              {"count": 1, "name": "Superior Energy Retrieval", "set": "PAL", "number": "189"},
+              {"count": 1, "name": "Super Rod", "set": "PAL", "number": "188"},
+              {"count": 1, "name": "Pal Pad", "set": "SVI", "number": "182"},
+              {"count": 1, "name": "Dark Patch", "set": "ASR", "number": "139"},
+              {"count": 1, "name": "Awakening Drum", "set": "TEF", "number": "141"},
+              {"count": 3, "name": "Ancient Booster Energy Capsule", "set": "TEF", "number": "140"},
+              {"count": 1, "name": "Defiance Band", "set": "SVI", "number": "169"},
+              {"count": 2, "name": "Artazon", "set": "PAF", "number": "76"},
+              {"count": 1, "name": "PokéStop", "set": "PGO", "number": "68"},
+            ], "energy": [
+              {"count": 7, "name": "Darkness", "set": "Energy", "number": "7"},
+              {"count": 3, "name": "Fighting", "set": "Energy", "number": "6"},
+            ]
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
+    "firstName": "Jirasit Polboon",
+    flag: '../../../../assets/flags/thailand.png',
     "event": "2024 Thailand Regional League #3",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    sprite1: "../../../../assets/sprites/giratina-origin.png",
+    sprite2: "../../../../assets/sprites/comfey.png",
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
+        {"count": 4, "name": "Comfey", "set": "LOR", "number": "79"},
+        {"count": 2, "name": "Giratina V", "set": "LOR", "number": "130"},
+        {"count": 3, "name": "Giratina VSTAR", "set": "LOR", "number": "131"},
+        {"count": 2, "name": "Cramorant", "set": "LOR", "number": "50"},
+        {"count": 1, "name": "Sableye", "set": "LOR", "number": "70"},
+        {"count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46"},
+        {"count": 1, "name": "Manaphy", "set": "BRS", "number": "41"},
+        {"count": 1, "name": "Iron Leaves ex", "set": "TEF", "number": "25"},
+        {"count": 1, "name": "Ditto", "set": "MEW", "number": "132"},
+            ], "trainer": [
+              {"count": 4, "name": "Colress's Experiment", "set": "LOR", "number": "155"},
+              {"count": 1, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+              {"count": 1, "name": "Roxanne", "set": "ASR", "number": "150"},
+              {"count": 1, "name": "Iono", "set": "PAF", "number": "80"},
+              {"count": 1, "name": "Arven", "set": "OBF", "number": "186"},
+              {"count": 1, "name": "Thorton", "set": "LOR", "number": "167"},
+              {"count": 4, "name": "Mirage Gate", "set": "LOR", "number": "163"},
+              {"count": 3, "name": "Nest Ball", "set": "PAF", "number": "84"},
+              {"count": 3, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144"},
+              {"count": 2, "name": "Switch Cart", "set": "ASR", "number": "154"},
+              {"count": 2, "name": "Switch", "set": "SVI", "number": "194"},
+              {"count": 2, "name": "Super Rod", "set": "PAL", "number": "188"},
+              {"count": 1, "name": "Ultra Ball", "set": "PAF", "number": "91"},
+              {"count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135"},
+              {"count": 1, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+              {"count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157"},
+              {"count": 1, "name": "Technical Machine: Crisis Punch", "set": "PAF", "number": "90"},
+              {"count": 1, "name": "Artazon", "set": "PAF", "number": "76"},
+            ], "energy": [
+              {"count": 4, "name": "Grass", "set": "Energy", "number": "1"},
+              {"count": 3, "name": "Psychic", "set": "Energy", "number": "5"},
+              {"count": 3, "name": "Water", "set": "Energy", "number": "3"},
+              {"count": 3, "name": "Jet Energy", "set": "PAL", "number": "190"},
+            ]
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
+    "firstName": "Kowit Khongchua",
+    flag: '../../../../assets/flags/thailand.png',
     "event": "2024 Thailand Regional League #3",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    sprite1: "../../../../assets/sprites/charizard.png",
+    sprite2: "../../../../assets/sprites/pidgeot.png",
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
+        {"count": 2, "name": "Charmander", "set": "PAF", "number": "7"},
+        {"count": 1, "name": "Charmander", "set": "OBF", "number": "26"},
+        {"count": 1, "name": "Charmander", "set": "PR-SV", "number": "47"},
+        {"count": 1, "name": "Charmeleon", "set": "PAF", "number": "8"},
+        {"count": 1, "name": "Charmeleon", "set": "MEW", "number": "5"},
+        {"count": 3, "name": "Charizard ex", "set": "PAF", "number": "54"},
+        {"count": 2, "name": "Pidgey", "set": "MEW", "number": "16"},
+        {"count": 2, "name": "Pidgeot ex", "set": "OBF", "number": "164"},
+        {"count": 1, "name": "Gouging Fire ex", "set": "TEF", "number": "38"},
+        {"count": 1, "name": "Radiant Charizard", "set": "CRZ", "number": "20"},
+        {"count": 1, "name": "Rotom V", "set": "CRZ", "number": "45"},
+        {"count": 1, "name": "Lumineon V", "set": "BRS", "number": "40"},
+        {"count": 1, "name": "Manaphy", "set": "BRS", "number": "41"},
+        {"count": 1, "name": "Jirachi", "set": "PAR", "number": "126"},
+         ], "trainer": [
+          {"count": 3, "name": "Arven", "set": "OBF", "number": "186"},
+          {"count": 3, "name": "Iono", "set": "PAF", "number": "80"},
+          {"count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+          {"count": 1, "name": "Roxanne", "set": "ASR", "number": "150"},
+          {"count": 1, "name": "Professor Turo's Scenario", "set": "PAR", "number": "171"},
+          {"count": 4, "name": "Rare Candy", "set": "PAF", "number": "89"},
+          {"count": 4, "name": "Ultra Ball", "set": "PAF", "number": "91"},
+          {"count": 3, "name": "Nest Ball", "set": "PAF", "number": "84"},
+          {"count": 3, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144"},
+          {"count": 2, "name": "Super Rod", "set": "PAL", "number": "188"},
+          {"count": 2, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+          {"count": 1, "name": "Pal Pad", "set": "SVI", "number": "182"},
+          {"count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135"},
+          {"count": 1, "name": "Maximum Belt", "set": "TEF", "number": "154"},
+          {"count": 1, "name": "Choice Belt", "set": "PAL", "number": "176"},
+          {"count": 1, "name": "Forest Seal Stone", "set": "SIT", "number": "156"},
+          {"count": 1, "name": "Collapsed Stadium", "set": "BRS", "number": "137"},
+              ], "energy": [
+                {"count": 6, "name": "Fire", "set": "Energy", "number": "2"},
+                {"count": 1, "name": "Mist Energy", "set": "TEF", "number": "161"},         
+              ]
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
+    "firstName": "Kamonpat Peeyachotanan",
+    flag: '../../../../assets/flags/thailand.png',
     "event": "2024 Thailand Regional League #3",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    sprite1: "../../../../assets/sprites/iron-hands.png",
+    sprite2: "../../../../assets/sprites/iron-crown.png",
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
+        {"count": 4, "name": "Iron Crown ex", "set": "TEF", "number": "81"},
+        {"count": 3, "name": "Iron Hands ex", "set": "PAR", "number": "70"},
+        {"count": 2, "name": "Miraidon", "set": "TEF", "number": "121"},
+        {"count": 1, "name": "Iron Bundle", "set": "PAR", "number": "56"},
+        {"count": 1, "name": "Iron Boulder ex", "set": "TEF", "number": "99"},
+        {"count": 1, "name": "Minior", "set": "PAR", "number": "99"},
+            ], "trainer": [
+              {"count": 4, "name": "Arven", "set": "OBF", "number": "186"},
+              {"count": 3, "name": "Professor's Research", "set": "PAF", "number": "88"},
+              {"count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+              {"count": 2, "name": "Iono", "set": "PAF", "number": "80"},
+              {"count": 4, "name": "Electric Generator", "set": "PAF", "number": "79"},
+              {"count": 4, "name": "Techno Radar", "set": "PAR", "number": "180"},
+              {"count": 2, "name": "Pokégear 3.0", "set": "SVI", "number": "186"},
+              {"count": 2, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+              {"count": 1, "name": "Nest Ball", "set": "PAF", "number": "84"},
+              {"count": 1, "name": "Super Rod", "set": "PAL", "number": "188"},
+              {"count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135"},
+              {"count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157"},
+              {"count": 4, "name": "Future Booster Energy Capsule", "set": "TEF", "number": "149"},
+              {"count": 2, "name": "Heavy Baton", "set": "TEF", "number": "151"},
+            ], "energy": [
+              {"count": 13, "name": "Lightning", "set": "Energy", "number": "4"},
+              {"count": 1, "name": "Fighting", "set": "Energy", "number": "6"},
+              {"count": 1, "name": "Psychic", "set": "Energy", "number": "5"},
+            ]
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
+    "firstName": "Pramote Koowatanasuchat",
+    flag: '../../../../assets/flags/thailand.png',
     "event": "2024 Thailand Regional League #3",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    sprite1: "../../../../assets/sprites/zoroark-hisui.png",
+    sprite2: "../../../../assets/sprites/gengar.png",
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
-    }
-  },
-  {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
-    "event": "2024 Thailand Regional League #3",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    "decklist": {
-      "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
-    }
-  },
-  {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
-    "event": "2024 Thailand Regional League #3",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    "decklist": {
-      "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
-    }
-  },
-  {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
-    "event": "2024 Thailand Regional League #3",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    "decklist": {
-      "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
-    }
-  },
-  {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
-    "event": "2024 Thailand Regional League #3",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    "decklist": {
-      "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
-    }
-  },
-  {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
-    "event": "2024 Thailand Regional League #3",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    "decklist": {
-      "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
-    }
-  },
-  {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
-    "event": "2024 Thailand Regional League #3",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    "decklist": {
-      "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
-    }
-  },
-  {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
-    "event": "2024 Thailand Regional League #3",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    "decklist": {
-      "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
-    }
-  },
-  {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
-    "event": "2024 Thailand Regional League #3",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    "decklist": {
-      "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
+        {"count": 4, "name": "Hisuian Zoroark V", "set": "LOR", "number": "146"},
+        {"count": 4, "name": "Hisuian Zoroark VSTAR", "set": "LOR", "number": "147"},
+        {"count": 3, "name": "Doduo", "set": "MEW", "number": "84"},
+        {"count": 3, "name": "Dodrio", "set": "MEW", "number": "85"},
+        {"count": 2, "name": "Gengar", "set": "LOR", "number": "66"},
+        {"count": 1, "name": "Radiant Alakazam", "set": "SIT", "number": "59"},
+        {"count": 1, "name": "Manaphy", "set": "BRS", "number": "41"},
+        {"count": 1, "name": "Jirachi", "set": "PAR", "number": "126"},
+        {"count": 1, "name": "Squawkabilly ex", "set": "PAF", "number": "75"},
+            ], "trainer": [
+              {"count": 3, "name": "Professor's Research", "set": "PAF", "number": "88"},
+              {"count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+              {"count": 2, "name": "Cheren's Care", "set": "BRS", "number": "134"},
+              {"count": 2, "name": "Ciphermaniac's Codebreaking", "set": "TEF", "number": "145"},
+              {"count": 1, "name": "Judge", "set": "SVI", "number": "176"},
+              {"count": 1, "name": "Cyllene", "set": "ASR", "number": "138"},
+              {"count": 4, "name": "Damage Pump", "set": "LOR", "number": "156"},
+              {"count": 4, "name": "Ultra Ball", "set": "PAF", "number": "91"},
+              {"count": 4, "name": "Great Ball", "set": "PAL", "number": "183"},
+              {"count": 2, "name": "Nest Ball", "set": "PAF", "number": "84"},
+              {"count": 1, "name": "Switch", "set": "SVI", "number": "194"},
+              {"count": 1, "name": "Pal Pad", "set": "SVI", "number": "182"},
+              {"count": 1, "name": "Maximum Belt", "set": "TEF", "number": "154"},
+              {"count": 4, "name": "Gapejaw Bog", "set": "ASR", "number": "142"},
+            ], "energy": [
+              {"count": 4, "name": "Double Turbo Energy", "set": "BRS", "number": "151"},
+              {"count": 2, "name": "Jet Energy", "set": "PAL", "number": "190"},
+              {"count": 2, "name": "Gift Energy", "set": "LOR", "number": "171"},
+            ]
     }
   },
 ]
