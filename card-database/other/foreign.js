@@ -207,4 +207,12 @@ let fr = [
             "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1708248046318-UB6GPC1GQK9A97NYU0MV/Iron+Thorns+ex.png?format=750w"
         }
     },
+    {
+        "id": "fr-27",
+        "name": "Unfair Stamp",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1708244322611-18XSRBT6N9TKTE110Z99/Unfair+Stamp.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1708244322611-18XSRBT6N9TKTE110Z99/Unfair+Stamp.png?format=750w"
+        }
+    },
 ]
