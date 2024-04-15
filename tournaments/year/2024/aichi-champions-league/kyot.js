@@ -1,6 +1,6 @@
 let masters = [
   {
-    "firstName": 'Unknown Name',
+    "firstName": 'Name Pending',
     flag: '../../../../assets/flags/japan.png',
     "event": "2024 Aichi Champions League",
     sprite1: '../../../../assets/sprites/bunnelby.png',
