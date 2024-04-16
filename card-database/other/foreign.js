@@ -215,4 +215,20 @@ let fr = [
             "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1708244322611-18XSRBT6N9TKTE110Z99/Unfair+Stamp.png?format=750w"
         }
     },
+    {
+        "id": "fr-28",
+        "name": "Bloodmoon Ursaluna ex",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1708248046267-0RXX8LFDZS1UI29645RE/Bloodmoon+Ursaluna+ex.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1708248046267-0RXX8LFDZS1UI29645RE/Bloodmoon+Ursaluna+ex.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-29",
+        "name": "Survival Cast",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1709980593466-Y6UR2R7UFP5WS4A1CED8/Survival+Cast.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1709980593466-Y6UR2R7UFP5WS4A1CED8/Survival+Cast.png?format=750w"
+        }
+    },
 ]
