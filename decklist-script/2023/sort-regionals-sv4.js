@@ -316,6 +316,10 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Meowscarada ex")) {
+                    firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                    secondSprite.setAttribute('src', "../../../../assets/sprites/meowscarada.png");
+                }
                 if (Object.values(pokemon).includes("Mew VMAX")) {
                     firstSprite.setAttribute('src', "../../../../assets/sprites/mew-vmax.png");
                     secondSprite.setAttribute('src', "../../../../assets/sprites/genesect.png");
