@@ -31,7 +31,7 @@ let masters = [{"name":"Nathian Beck",
     "count":2, "name": "Exp. Share", "number":"126", "set": "BST"},{
     "count":1, "name": "Forest Seal Stone", "number":"156", "set": "SIT"},{
     "count":2, "name": "Town Store", "number":"196", "set": "OBF"},{
-    "count":1, "name": "Beach Court", "number":"263", "set": "PAR"}
+    "count":1, "name": "Beach Court", "set": "SVI", "number": "167"}
 ],"energy":[
     {
     "count":1, "name": "Double Turbo Energy - Special", "number":"216", "set": "ASR"},{
@@ -239,7 +239,7 @@ let masters = [{"name":"Nathian Beck",
     "count":2, "name": "Professor's Research", "number":"147", "set": "BRS"},{
     "count":2, "name": "Boss's Orders", "number":"132", "set": "BRS"},{
     "count":2, "name": "Town Store", "number":"196", "set": "OBF"},{
-    "count":1, "name": "Beach Court", "number":"263", "set": "PAR"}
+    "count":1, "name": "Beach Court", "set": "SVI", "number": "167"}
 ],"energy":[
     {
     "count":15, "name": "Lightning Energy - Basic", "number":"155", "set": "CRZ"},{
@@ -437,7 +437,7 @@ let masters = [{"name":"Nathian Beck",
     "count":2, "name": "Super Rod", "number":"188", "set": "PAL"},{
     "count":2, "name": "Pokemon Catcher", "number":"138", "set": "CRZ"},{
     "count":1, "name": "Lost Vacuum", "number":"135", "set": "CRZ"},{
-    "count":2, "name": "Beach Court", "number":"263", "set": "PAR"},{
+    "count":2, "name": "Beach Court", "set": "SVI", "number": "167"},{
     "count":1, "name": "Town Store", "number":"196", "set": "OBF"},{
     "count":2, "name": "Exp. Share", "number":"126", "set": "BST"},{
     "count":1, "name": "Forest Seal Stone", "number":"156", "set": "SIT"}
@@ -1002,7 +1002,7 @@ let masters = [{"name":"Nathian Beck",
     "count":2, "name": "Professor's Research", "number":"147", "set": "BRS"},{
     "count":1, "name": "Raihan", "number":"140", "set": "CRZ"},{
     "count":2, "name": "Town Store", "number":"196", "set": "OBF"},{
-    "count":1, "name": "Beach Court", "number":"263", "set": "PAR"},{
+    "count":1, "name": "Beach Court", "set": "SVI", "number": "167"},{
     "count":3, "name": "Ultra Ball", "number":"150", "set": "BRS"},{
     "count":2, "name": "Nest Ball", "number":"84", "set": "PAF"},{
     "count":1, "name": "Battle VIP Pass", "number":"225", "set": "FST"},{
@@ -1128,7 +1128,7 @@ let masters = [{"name":"Nathian Beck",
     "count":2, "name": "Switch", "number":"147", "set": "CES"},{
     "count":1, "name": "Escape Rope", "number":"125", "set": "BST"},{
     "count":1, "name": "Forest Seal Stone", "number":"156", "set": "SIT"},{
-    "count":2, "name": "Beach Court", "number":"263", "set": "PAR"},{
+    "count":2, "name": "Beach Court", "set": "SVI", "number": "167"},{
     "count":1, "name": "Town Store", "number":"196", "set": "OBF"},{
     "count":2, "name": "Exp. Share", "number":"126", "set": "BST"},{
     "count":3, "name": "Peony", "number":"150", "set": "CRE"}
@@ -1398,7 +1398,7 @@ let masters = [{"name":"Nathian Beck",
     "count":1, "name": "Bravery Charm", "number":"173", "set": "PAL"},{
     "count":1, "name": "Level Ball", "number":"129", "set": "BST"},{
     "count":1, "name": "Forest Seal Stone", "number":"156", "set": "SIT"},{
-    "count":2, "name": "Beach Court", "number":"263", "set": "PAR"},{
+    "count":2, "name": "Beach Court", "set": "SVI", "number": "167"},{
     "count":1, "name": "Town Store", "number":"196", "set": "OBF"},{
     "count":1, "name": "Super Rod", "number":"188", "set": "PAL"},{
     "count":4, "name": "Peony", "number":"150", "set": "CRE"},{
@@ -1884,7 +1884,7 @@ let masters = [{"name":"Nathian Beck",
 "count":2, "name": "Nest Ball", "number":"84", "set": "PAF"},{
 "count":2, "name": "Switch", "number":"147", "set": "CES"},{
 "count":1, "name": "Escape Rope", "number":"125", "set": "BST"},{
-"count":2, "name": "Beach Court", "number":"263", "set": "PAR"},{
+"count":2, "name": "Beach Court", "set": "SVI", "number": "167"},{
 "count":2, "name": "Path to the Peak", "number":"213", "set": "ASR"},{
 "count":2, "name": "Exp. Share", "number":"126", "set": "BST"},{
 "count":2, "name": "Arven", "number":"186", "set": "OBF"},{
@@ -1962,7 +1962,7 @@ let masters = [{"name":"Nathian Beck",
 "count":1, "name": "Hisuian Heavy Ball", "number":"146", "set": "ASR"},{
 "count":1, "name": "Technical Machine: Crisis Punch", "number":"90", "set": "PAF"},{
 "count":2, "name": "Technical Machine: Devolution", "number":"177", "set": "PAR"},{
-"count":2, "name": "Beach Court", "number":"263", "set": "PAR"},{
+"count":2, "name": "Beach Court", "set": "SVI", "number": "167"},{
 "count":1, "name": "Artazon", "number":"229", "set": "OBF"},{
 "count":4, "name": "Colress's Experiment", "number":"GG59", "set": "CRZ"},{
 "count":2, "name": "Raihan", "number":"140", "set": "CRZ"},{
@@ -2291,7 +2291,7 @@ let masters = [{"name":"Nathian Beck",
 "count":2, "name": "Exp. Share", "number":"126", "set": "BST"},{
 "count":1, "name": "Forest Seal Stone", "number":"156", "set": "SIT"},{
 "count":2, "name": "Town Store", "number":"196", "set": "OBF"},{
-"count":1, "name": "Beach Court", "number":"263", "set": "PAR"}
+"count":1, "name": "Beach Court", "set": "SVI", "number": "167"}
 ],"energy":[
     {
 "count":14, "name": "Lightning Energy - Basic", "number":"155", "set": "CRZ"},{
@@ -2939,7 +2939,7 @@ let masters = [{"name":"Nathian Beck",
 "count":1, "name": "Future Booster Energy Capsule", "number":"164", "set": "PAR"},{
 "count":1, "name": "Super Rod", "number":"188", "set": "PAL"},{
 "count":2, "name": "Town Store", "number":"196", "set": "OBF"},{
-"count":1, "name": "Beach Court", "number":"263", "set": "PAR"},{
+"count":1, "name": "Beach Court", "set": "SVI", "number": "167"},{
 "count":1, "name": "Nest Ball", "number":"84", "set": "PAF"},{
 "count":1, "name": "Roxanne", "number":"150", "set": "ASR"},{
 "count":4, "name": "Peony", "number":"150", "set": "CRE"},{
@@ -3545,7 +3545,7 @@ let masters = [{"name":"Nathian Beck",
 "count":1, "name": "Bravery Charm", "number":"173", "set": "PAL"},{
 "count":1, "name": "Escape Rope", "number":"125", "set": "BST"},{
 "count":1, "name": "Path to the Peak", "number":"213", "set": "ASR"},{
-"count":1, "name": "Beach Court", "number":"263", "set": "PAR"}
+"count":1, "name": "Beach Court", "set": "SVI", "number": "167"}
 ],"energy":[
     {
 "count":14, "name": "Lightning Energy - Basic", "number":"155", "set": "CRZ"},{
@@ -3584,7 +3584,7 @@ let seniors = [{"name":"Benny B.",
 "count":1, "name": "Super Rod", "number":"188", "set": "PAL"},{
 "count":1, "name": "Lost Vacuum", "number":"135", "set": "CRZ"},{
 "count":1, "name": "Forest Seal Stone", "number":"156", "set": "SIT"},{
-"count":1, "name": "Beach Court", "number":"263", "set": "PAR"},{
+"count":1, "name": "Beach Court", "set": "SVI", "number": "167"},{
 "count":1, "name": "Switch Cart", "number":"154", "set": "ASR"},{
 "count":1, "name": "Town Store", "number":"196", "set": "OBF"},{
 "count":1, "name": "Switch", "number":"147", "set": "CES"}
@@ -3793,7 +3793,7 @@ let seniors = [{"name":"Benny B.",
 "count":2, "name": "Miss Fortune Sisters", "number":"164", "set": "LOR"},{
 "count":3, "name": "Temple of Sinnoh", "number":"155", "set": "ASR"},{
 "count":1, "name": "Switch Cart", "number":"154", "set": "ASR"},{
-"count":1, "name": "Beach Court", "number":"263", "set": "PAR"},{
+"count":1, "name": "Beach Court", "set": "SVI", "number": "167"},{
 "count":1, "name": "Cyllene", "number":"138", "set": "ASR"}
 ],"energy":[
     {
@@ -4116,7 +4116,7 @@ let juniors = [{"name":"Eric B.",
 "count":2, "name": "Technical Machine: Devolution", "number":"177", "set": "PAR"},{
 "count":1, "name": "Technical Machine: Crisis Punch", "number":"90", "set": "PAF"},{
 "count":1, "name": "Artazon", "number":"229", "set": "OBF"},{
-"count":2, "name": "Beach Court", "number":"263", "set": "PAR"}
+"count":2, "name": "Beach Court", "set": "SVI", "number": "167"}
 ],"energy":[
     {
 "count":3, "name": "Psychic Energy - Basic", "number":"232", "set": "CRE"},{
