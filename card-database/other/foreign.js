@@ -195,7 +195,7 @@ let fr = [
         "id": "fr-25",
         "name": "Firefighter Pikachu",
         "images": {
-            "small": "https://archives.bulbagarden.net/media/upload/thumb/5/51/FirefighterPikachuSMPromo209.jpg/429px-FirefighterPikachuSMPromo209.jpg",
+            "small": "../../../../assets/cards/jp-translations/firefighter-pikachu.jpg",
             "large": "../../../../assets/cards/jp-translations/firefighter-pikachu.jpg"
         }
     },
