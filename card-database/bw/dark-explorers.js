@@ -6451,8 +6451,8 @@ let bw5 = [
         "rarity": "Uncommon",
          
         "images": {
-            "small": "https://images.pokemontcg.io/bw5/94.png",
-            "large": "https://images.pokemontcg.io/bw5/94_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/DEX/DEX_094_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/DEX/DEX_094_R_EN.png"
         }
     },
     {

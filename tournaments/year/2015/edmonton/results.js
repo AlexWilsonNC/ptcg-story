@@ -91,7 +91,7 @@ let masters = [
         }
     },
     {
-        "firstName": "Andre Chiasson",
+        "firstName": "André Chiasson",
         flag: '../../../../assets/flags/canada.png',
         "event": "2015 Edmonton Regionals",
         sprite1: '../../../../assets/sprites/trevenant.png',
