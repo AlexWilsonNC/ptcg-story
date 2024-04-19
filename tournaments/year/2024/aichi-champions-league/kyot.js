@@ -469,8 +469,7 @@ let masters = [
   "event": "2024 Aichi Champions League",
   sprite1: '../../../../assets/sprites/lugia.png',
   sprite2: '../../../../assets/sprites/archeops.png',
-  // list: '../../../../assets/list-icon.png',
-  list: '../../../../assets/sprites/blank.png',
+  list: '../../../../assets/list-icon.png',
   "decklist": {
       "pokemon": [
         {"count": 3, "name": "Lugia VSTAR", "set": "SIT", "number": "139"},
@@ -480,6 +479,7 @@ let masters = [
         {"count": 1, "name": "Yveltal", "set": "SHF", "number": "46"},
         {"count": 1, "name": "Iron Hands ex", "set": "PAR", "number": "70"},
         {"count": 1, "name": "Flutter Mane", "set": "TEF", "number": "78"},
+        {"count": 2, "name": "Tapu Lele-GX", "set": "GRI", "number": "60"},
         {"count": 1, "name": "Dedenne-GX", "set": "UNB", "number": "57"},
         {"count": 1, "name": "Crobat V", "set": "DAA", "number": "104"},
             ],
