@@ -291,8 +291,8 @@ let masters = [
     "firstName": "name pending",
     flag: '../../../../assets/flags/japan.png',
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/gouging-fire.png',
+    sprite1: '../../../../assets/sprites/gouging-fire.png',
+    sprite2: '../../../../assets/sprites/volcanion.png',
     list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
