@@ -147,7 +147,7 @@ let masters = [
         "firstName": "Russell LaParre",
         flag: '../../../../assets/flags/usa.png',
         "event": "2015 Sturbridge Regionals",
-        sprite1: '../../../../assets/sprites/flygon',
+        sprite1: '../../../../assets/sprites/flygon.png',
         sprite2: '../../../../assets/sprites/dusknoir.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
