@@ -231,4 +231,12 @@ let fr = [
             "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1709980593466-Y6UR2R7UFP5WS4A1CED8/Survival+Cast.png?format=750w"
         }
     },
+    {
+        "id": "fr-30",
+        "name": "Palace Book",
+        "images": {
+            "small": "../../../../assets/cards/jp-translations/palace-book.jpg",
+            "large": "../../../../assets/cards/jp-translations/palace-book.jpg"
+        }
+    },
 ]
