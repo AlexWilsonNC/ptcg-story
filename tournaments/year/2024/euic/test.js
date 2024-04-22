@@ -3810,7 +3810,7 @@ let masters = [
             { "count": 3, "name": "Cinccino", "number": "137", "set": "TEF" },
             { "count": 4, "name": "Archeops", "number": "147", "set": "SIT" },
             { "count": 2, "name": "Lugia V", "number": "138", "set": "SIT" },
-            { "count": 1, "name": "Lugia V", "number": "301", "set": "PR-SW" },
+            { "count": 1, "name": "Lugia V", "number": "138", "set": "SIT" },
             { "count": 1, "name": "Lugia V", "number": "138", "set": "SIT" },
             { "count": 2, "name": "Lugia VSTAR", "number": "139", "set": "SIT" },
             { "count": 1, "name": "Snorlax", "number": "143", "set": "LOR" }], "trainer": [{ "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
@@ -7312,7 +7312,7 @@ let masters = [
         "event": "2024 EUIC",
         "decklist": {
             "pokemon": [{ "count": 2, "name": "Lugia V", "number": "138", "set": "SIT" },
-            { "count": 1, "name": "Lugia V", "number": "301", "set": "PR-SW" },
+            { "count": 1, "name": "Lugia V", "number": "138", "set": "SIT" },
             { "count": 3, "name": "Lugia VSTAR", "number": "139", "set": "SIT" },
             { "count": 2, "name": "Lumineon V", "number": "250", "set": "PR-SW" },
             { "count": 4, "name": "Minccino", "number": "124", "set": "BRS" },

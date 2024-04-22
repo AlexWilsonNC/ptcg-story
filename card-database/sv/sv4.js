@@ -18964,6 +18964,1474 @@ let sv4 = [
             "small": "https://images.pokemontcg.io/sv4/251.png",
             "large": "https://images.pokemontcg.io/sv4/251_hires.png"
         }
+    },
+    {
+        "id": "sv4-251",
+        "name": "Roaring Moon ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Ancient"
+        ],
+        "hp": "230",
+        "types": [
+            "Darkness"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Frenzied Gouging",
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "",
+                "text": "Knock Out your opponent's Active Pokémon. If your opponent's Active Pokémon is Knocked Out in this way, this Pokémon does 200 damage to itself."
+            },
+            {
+                "name": "Calamity Storm",
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100+",
+                "text": "You may discard a Stadium in play. If you do, this attack does 120 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "251",
+        "artist": "Ryota Murayama",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            1005
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/251.png",
+            "large": "https://images.pokemontcg.io/sv4/251_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-251",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 59.15,
+                    "mid": 75,
+                    "high": 150,
+                    "market": 61.5,
+                    "directLow": 61.5
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-251",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 56.89,
+                "lowPrice": 47,
+                "trendPrice": 53.84,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 47,
+                "avg1": 50.33,
+                "avg7": 52.16,
+                "avg30": 58.01,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-252",
+        "name": "Gholdengo ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "ex"
+        ],
+        "hp": "260",
+        "types": [
+            "Metal"
+        ],
+        "evolvesFrom": "Gimmighoul",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Coin Bonus",
+                "text": "Once during your turn, you may draw a card. If this Pokémon is in the Active Spot, draw 1 more card.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Make It Rain",
+                "cost": [
+                    "Metal"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "50×",
+                "text": "Discard any number of Basic Energy cards from your hand. This attack does 50 damage for each card you discarded in this way."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "252",
+        "artist": "Akira Komayama",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            1000
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/252.png",
+            "large": "https://images.pokemontcg.io/sv4/252_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-252",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 22.98,
+                    "mid": 28.06,
+                    "high": 69.98,
+                    "market": 26.37,
+                    "directLow": 34.98
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-252",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 22.28,
+                "lowPrice": 17.5,
+                "trendPrice": 21.68,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 17.5,
+                "avg1": 18.99,
+                "avg7": 21.09,
+                "avg30": 22.26,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-253",
+        "name": "Altaria ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "ex"
+        ],
+        "hp": "260",
+        "types": [
+            "Dragon"
+        ],
+        "evolvesFrom": "Swablu",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Humming Heal",
+                "text": "Once during your turn, you may heal 20 damage from each of your Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Light Pulse",
+                "cost": [
+                    "Water",
+                    "Metal"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "140",
+                "text": "During your opponent's next turn, prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "253",
+        "artist": "Jiro Sasumo",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            334
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/253.png",
+            "large": "https://images.pokemontcg.io/sv4/253_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-253",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 18.76,
+                    "mid": 23,
+                    "high": 41.9,
+                    "market": 22.76,
+                    "directLow": 41.89
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-253",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 24.72,
+                "lowPrice": 16.49,
+                "trendPrice": 24.96,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 16.49,
+                "avg1": 16.95,
+                "avg7": 23.34,
+                "avg30": 25.13,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-254",
+        "name": "Mela",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "You can use this card only if any of your Pokémon were Knocked Out during your opponent's last turn.    Attach a Basic Fire Energy card from your discard pile to 1 of your Pokémon. If you do, draw cards until you have 6 cards in your hand.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "254",
+        "artist": "rika",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/254.png",
+            "large": "https://images.pokemontcg.io/sv4/254_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-254",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 8.99,
+                    "mid": 11.1,
+                    "high": 75,
+                    "market": 10.18,
+                    "directLow": 10.7
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-254",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 8.87,
+                "lowPrice": 6.5,
+                "trendPrice": 8.22,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 6.5,
+                "avg1": 7.49,
+                "avg7": 7.83,
+                "avg30": 8.79,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-255",
+        "name": "Parasol Lady",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Shuffle your hand into your deck. Then, draw 4 cards. If you go second and it's your first turn, draw 8 cards instead.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "255",
+        "artist": "En Morikura",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/255.png",
+            "large": "https://images.pokemontcg.io/sv4/255_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-255",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 12.7,
+                    "mid": 17.95,
+                    "high": 59.98,
+                    "market": 17.19,
+                    "directLow": 19.99
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-255",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 17.76,
+                "lowPrice": 8,
+                "trendPrice": 17.34,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 13,
+                "avg1": 17.5,
+                "avg7": 18.03,
+                "avg30": 18.05,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-256",
+        "name": "Professor Sada's Vitality",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter",
+            "Ancient"
+        ],
+        "rules": [
+            "Choose up to 2 of your Ancient Pokémon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "256",
+        "artist": "Ryota Murayama",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/256.png",
+            "large": "https://images.pokemontcg.io/sv4/256_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-256",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 16.5,
+                    "mid": 20.71,
+                    "high": 420.69,
+                    "market": 20.21,
+                    "directLow": 22.9
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-256",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 15.34,
+                "lowPrice": 12.4,
+                "trendPrice": 14.43,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 12.4,
+                "avg1": 12.49,
+                "avg7": 15.01,
+                "avg30": 15.27,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-257",
+        "name": "Professor Turo's Scenario",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter",
+            "Future"
+        ],
+        "rules": [
+            "Put 1 of your Pokémon in play into your hand. (Discard all cards attached to that Pokémon.)",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "257",
+        "artist": "Atsushi Furusawa",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/257.png",
+            "large": "https://images.pokemontcg.io/sv4/257_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-257",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 9.32,
+                    "mid": 12.2,
+                    "high": 60,
+                    "market": 12.02,
+                    "directLow": 19.94
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-257",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 8.64,
+                "lowPrice": 6,
+                "trendPrice": 8.19,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 6,
+                "avg1": 7.22,
+                "avg7": 8.42,
+                "avg30": 8.64,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-258",
+        "name": "Rika",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Look at the top 4 cards of your deck and put 2 of them into your hand. Shuffle the other cards and put them on the bottom of your deck.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "258",
+        "artist": "kantaro",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/258.png",
+            "large": "https://images.pokemontcg.io/sv4/258_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-258",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 5,
+                    "mid": 8.46,
+                    "high": 40.49,
+                    "market": 7.97,
+                    "directLow": 12.83
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-258",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 7.22,
+                "lowPrice": 5.49,
+                "trendPrice": 6.76,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 5.49,
+                "avg1": 5.49,
+                "avg7": 6.57,
+                "avg30": 7.41,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-259",
+        "name": "Tulip",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Put up to 4 in any combination of Psychic Pokémon and Basic Psychic Energy cards from your discard pile into your hand.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "259",
+        "artist": "AKIRA EGAWA",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/259.png",
+            "large": "https://images.pokemontcg.io/sv4/259_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-259",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 7.37,
+                    "mid": 9.52,
+                    "high": 39.99,
+                    "market": 9.3,
+                    "directLow": 14.85
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-259",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 8.35,
+                "lowPrice": 5,
+                "trendPrice": 6.64,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 5.5,
+                "avg1": 6.66,
+                "avg7": 6.7,
+                "avg30": 8.5,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-260",
+        "name": "Garchomp ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "Tera",
+            "ex"
+        ],
+        "hp": "320",
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Gabite",
+        "rules": [
+            "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Hydro Lander",
+                "cost": [
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "160",
+                "text": "Attach up to 3 Basic Fighting Energy cards from your discard pile to your Benched Pokémon in any way you like."
+            },
+            {
+                "name": "Sonic Dive",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "",
+                "text": "Discard 2 Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "260",
+        "artist": "5ban Graphics",
+        "rarity": "Hyper Rare",
+        "nationalPokedexNumbers": [
+            445
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/260.png",
+            "large": "https://images.pokemontcg.io/sv4/260_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-260",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 7.48,
+                    "mid": 9.87,
+                    "high": 25,
+                    "market": 9.02,
+                    "directLow": 9.96
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-260",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 9.99,
+                "lowPrice": 4.5,
+                "trendPrice": 9.5,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 6.94,
+                "avg1": 9.22,
+                "avg7": 8.84,
+                "avg30": 10.16,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-261",
+        "name": "Iron Valiant ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
+        ],
+        "hp": "220",
+        "types": [
+            "Psychic"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Tachyon Bits",
+                "text": "Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may put 2 damage counters on 1 of your opponent's Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Laser Blade",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "200",
+                "text": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "261",
+        "artist": "aky CG Works",
+        "rarity": "Hyper Rare",
+        "nationalPokedexNumbers": [
+            1006
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/261.png",
+            "large": "https://images.pokemontcg.io/sv4/261_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-261",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 3.99,
+                    "mid": 6.34,
+                    "high": 29,
+                    "market": 5.96,
+                    "directLow": 8.99
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-261",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 6.85,
+                "lowPrice": 4,
+                "trendPrice": 7.2,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 4.89,
+                "avg1": 6.7,
+                "avg7": 6.6,
+                "avg30": 6.82,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-262",
+        "name": "Roaring Moon ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Ancient"
+        ],
+        "hp": "230",
+        "types": [
+            "Darkness"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Frenzied Gouging",
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "",
+                "text": "Knock Out your opponent's Active Pokémon. If your opponent's Active Pokémon is Knocked Out in this way, this Pokémon does 200 damage to itself."
+            },
+            {
+                "name": "Calamity Storm",
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100+",
+                "text": "You may discard a Stadium in play. If you do, this attack does 120 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "262",
+        "artist": "takuyoa",
+        "rarity": "Hyper Rare",
+        "nationalPokedexNumbers": [
+            1005
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/262.png",
+            "large": "https://images.pokemontcg.io/sv4/262_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-262",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 7,
+                    "mid": 10.12,
+                    "high": 27.99,
+                    "market": 9.89,
+                    "directLow": 15.93
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-262",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 8.25,
+                "lowPrice": 5,
+                "trendPrice": 8.24,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 5,
+                "avg1": 6.88,
+                "avg7": 7.6,
+                "avg30": 8.33,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-263",
+        "name": "Beach Court",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "rules": [
+            "The Retreat Cost of each Basic Pokémon in play (both yours and your opponent's) is Colorless less.",
+            "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+        ],
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "263",
+        "artist": "Oswaldo KATO",
+        "rarity": "Hyper Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/263.png",
+            "large": "https://images.pokemontcg.io/sv4/263_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-263",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 3.7,
+                    "mid": 5.16,
+                    "high": 29.98,
+                    "market": 4.81,
+                    "directLow": 4.9
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-263",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 4.54,
+                "lowPrice": 2.99,
+                "trendPrice": 4.67,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 2.99,
+                "avg1": 4.59,
+                "avg7": 4.63,
+                "avg30": 4.53,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-264",
+        "name": "Counter Catcher",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "rules": [
+            "You can use this card only if you have more Prize cards remaining than your opponent.  Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+            "You may play any number of Item cards during your turn."
+        ],
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "264",
+        "artist": "Toyste Beach",
+        "rarity": "Hyper Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/264.png",
+            "large": "https://images.pokemontcg.io/sv4/264_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-264",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 9,
+                    "mid": 11.05,
+                    "high": 29.98,
+                    "market": 10.03,
+                    "directLow": 10.65
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-264",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 7.69,
+                "lowPrice": 6,
+                "trendPrice": 10.47,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 7,
+                "avg1": 9.6,
+                "avg7": 9.62,
+                "avg30": 7.44,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-265",
+        "name": "Luxurious Cape",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Pokémon Tool"
+        ],
+        "rules": [
+            "If the Pokémon this card is attached to doesn't have a Rule Box, it gets +100 HP, and if it is Knocked Out by damage from an attack from your opponent's Pokémon, that player takes 1 more Prize card. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
+            "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+        ],
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "265",
+        "artist": "Toyste Beach",
+        "rarity": "Hyper Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/265.png",
+            "large": "https://images.pokemontcg.io/sv4/265_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-265",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 2.99,
+                    "mid": 5.04,
+                    "high": 14.98,
+                    "market": 5.17,
+                    "directLow": 11
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-265",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 4.37,
+                "lowPrice": 3,
+                "trendPrice": 4.04,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 3,
+                "avg1": 3.45,
+                "avg7": 3.87,
+                "avg30": 4.33,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv4-266",
+        "name": "Reversal Energy",
+        "supertype": "Energy",
+        "subtypes": [
+            "Special"
+        ],
+        "rules": [
+            "As long as this card is attached to a Pokémon, it provides Colorless Energy.    If you have more Prize cards remaining than your opponent, and if this card is attached to an Evolution Pokémon that doesn't have a Rule Box (Pokémon ex, Pokémon V, etc. have Rule Boxes), this card provides every type of Energy but provides only 3 Energy at a time."
+        ],
+        "set": {
+            "id": "sv4",
+            "name": "Paradox Rift",
+            "series": "Scarlet & Violet",
+            "printedTotal": 182,
+            "total": 266,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/11/03",
+            "updatedAt": "2023/11/03 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv4/logo.png"
+            }
+        },
+        "number": "266",
+        "rarity": "Hyper Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/266.png",
+            "large": "https://images.pokemontcg.io/sv4/266_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv4-266",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "holofoil": {
+                    "low": 3.14,
+                    "mid": 6.09,
+                    "high": 24.98,
+                    "market": 5.6,
+                    "directLow": 5.59
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv4-266",
+            "updatedAt": "2024/04/22",
+            "prices": {
+                "averageSellPrice": 4.51,
+                "lowPrice": 2.5,
+                "trendPrice": 4.01,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 2.5,
+                "avg1": 3.95,
+                "avg7": 4.7,
+                "avg30": 4.59,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
     }
 ]
 
