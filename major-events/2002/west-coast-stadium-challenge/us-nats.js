@@ -6,7 +6,7 @@ const modalBottom = document.querySelector('.modal-bottom');
 
 let masters = [
    {
-    firstName: '--',
+    firstName: 'Dallas Dalton',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/feraligatr.png',
