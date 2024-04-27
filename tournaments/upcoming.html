@@ -135,7 +135,9 @@
                         <option value="regionals">Regionals</option>
                         <option value="special-event">Special Events</option>
                         <option value="regional-league">Asia-Pacific Events</option>
-                            </select>
+                        <hr>
+                        <option value="retro-event">Retro Events</option>
+                    </select>
                 </div>
                 <div class='indiv-filter2'>
                     <p class='sort-events'>Order:</p>
@@ -151,9 +153,6 @@
                     <th style='padding-right: 8px;'>Reg<span class='hide-word'>istration</span></th>
                     <th>Info<span class='hide-word'>rmation</span></th>
                 </tr>
-
-
-                
 
                 
                 <tr class='asia-event champions-league all-tr year-2024'>
@@ -370,6 +369,26 @@
                     <td><a href='https://rk9.gg/tournament/BOL01isC0frBaTHeJyua' target="_blank"><i class="material-symbols-outlined results-icon" style='transform: rotate(-45deg);'>link</i></a></td>
                     <td><a href='./year/2024/bologna/results'><i class="material-symbols-outlined results-icon">library_books</i></a></td>
                 </tr>
+                <tr class='retro-event all-tr year-2024'>
+                    <td>June 6, 2024</td>
+                    <td><img class='event-type-logo2' src='../assets/event-logos/retro.png' style='border-radius: 10px;'/></td>
+                    <td>
+                        <div><img src='../assets/flags/usa.png' /></div>
+                        <div><a href='./year/2024/retro-celebration-2010/results'>NAIC Retro Celebration (2010)</a></div>
+                    </td>
+                    <td><a href='https://play.limitlesstcg.com/tournament/662bdc7ebd59c305cfa91127/details' target="_blank"><i class="material-symbols-outlined results-icon" style='transform: rotate(-45deg);'>link</i></a></td>
+                    <td><a href='./year/2024/retro-celebration-2010/results'><i class="material-symbols-outlined results-icon">library_books</i></a></td>
+                </tr>
+                <tr class='retro-event all-tr year-2024'>
+                    <td>June 9, 2024</td>
+                    <td><img class='event-type-logo2' src='../assets/event-logos/retro.png' style='border-radius: 10px;'/></td>
+                    <td>
+                        <div><img src='../assets/flags/usa.png' /></div>
+                        <div><a href='./year/2024/retro-celebration-2014/results'>NAIC Retro Celebration (2014)</a></div>
+                    </td>
+                    <td><a href='https://play.limitlesstcg.com/tournament/662c8166bd59c305cfa91978/details' target="_blank"><i class="material-symbols-outlined results-icon" style='transform: rotate(-45deg);'>link</i></a></td>
+                    <td><a href='./year/2024/retro-celebration-2014/results'><i class="material-symbols-outlined results-icon">library_books</i></a></td>
+                </tr>
                 <tr class='internationals all-tr year-2024'>
                     <td>Jun 7 - 9, 2024</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
@@ -483,6 +502,7 @@
         const regionals = document.querySelectorAll(".regionals");
         const specialEvent = document.querySelectorAll(".special-event");
         const regionalLeague = document.querySelectorAll(".asia-event");
+        const retroEvent = document.querySelectorAll(".retro-event");
 
         function filterEvents() {
           var x = document.getElementById("mySelect").value;
@@ -507,6 +527,10 @@
                 regionalLeague.style.display = 'table-row';
                 regionalLeague.classList.remove('new-red-bg');
             });
+            retroEvent.forEach((retroEvent) => {
+                retroEvent.style.display = 'table-row';
+                retroEvent.classList.remove('new-red-bg');
+            });
           } else if (x === "worlds") {
             worlds.forEach((worlds) => {
                 worlds.style.display = 'table-row';
@@ -517,6 +541,9 @@
             });
             regionals.forEach((regionals) => {
                 regionals.style.display = 'none';
+            });
+            retroEvent.forEach((retroEvent) => {
+                retroEvent.style.display = 'none';
             });
             specialEvent.forEach((specialEvent) => {
                 specialEvent.style.display = 'none';
@@ -534,6 +561,9 @@
             });
             regionals.forEach((regionals) => {
                 regionals.style.display = 'none';
+            });
+            retroEvent.forEach((retroEvent) => {
+                retroEvent.style.display = 'none';
             });
             specialEvent.forEach((specialEvent) => {
                 specialEvent.style.display = 'none';
@@ -555,6 +585,9 @@
             specialEvent.forEach((specialEvent) => {
                 specialEvent.style.display = 'none';
             });
+            retroEvent.forEach((retroEvent) => {
+                retroEvent.style.display = 'none';
+            });
             regionalLeague.forEach((regionalLeague) => {
                 regionalLeague.style.display = 'none';
             });
@@ -575,6 +608,9 @@
             regionalLeague.forEach((regionalLeague) => {
                 regionalLeague.style.display = 'none';
             });
+            retroEvent.forEach((retroEvent) => {
+                retroEvent.style.display = 'none';
+            });
         } else if (x === "regional-league") {
             worlds.forEach((worlds) => {
                 worlds.style.display = 'none';
@@ -585,6 +621,29 @@
             regionalLeague.forEach((regionalLeague) => {
                 regionalLeague.style.display = 'table-row';
                 regionalLeague.classList.add('new-red-bg');
+            });
+            regionals.forEach((regionals) => {
+                regionals.style.display = 'none';
+            });
+            specialEvent.forEach((specialEvent) => {
+                specialEvent.style.display = 'none';
+            });
+            retroEvent.forEach((retroEvent) => {
+                retroEvent.style.display = 'none';
+            });
+        } else if (x === "retro-event") {
+            worlds.forEach((worlds) => {
+                worlds.style.display = 'none';
+            });
+            internationals.forEach((internationals) => {
+                internationals.style.display = 'none';
+            });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
+            });
+            retroEvent.forEach((retroEvent) => {
+                retroEvent.style.display = 'table-row';
+                retroEvent.classList.add('new-red-bg');
             });
             regionals.forEach((regionals) => {
                 regionals.style.display = 'none';
