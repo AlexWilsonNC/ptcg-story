@@ -1677,7 +1677,7 @@ let masters = [
   },
   {
     firstName: 'Te Awhi Woon',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/new-zealand.png',
     sprite1: '../../assets/sprites/gardevoir.png',
     sprite2: '../../assets/sprites/claydol.png',
     list: '../../assets/sprites/blank.png',

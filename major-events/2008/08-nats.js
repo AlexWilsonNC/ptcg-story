@@ -1405,9 +1405,9 @@ let sixEvent = [
         ]
     },
     {
-        firstName: '--',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
+        firstName: 'Fabrizio Cremascoli',
+        sprite1: '../../assets/sprites/banette.png',
+        sprite2: '../../assets/sprites/gorebyss.png',
         // //  list: '../../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
