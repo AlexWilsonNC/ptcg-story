@@ -166,7 +166,7 @@ let masters = [
     },
     {
         "firstName": "Shawn Bernaky",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Overland Park Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/gardevoir-mega.png',

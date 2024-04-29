@@ -110,7 +110,7 @@ let masters = [
     },
 {
         "firstName": "Carter Copeland",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Athens Regionals",
         sprite1: '../../../../assets/sprites/lugia.png',
         sprite2: '../../../../assets/sprites/deoxys.png',
