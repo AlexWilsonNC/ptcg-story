@@ -264,6 +264,7 @@
     flex-direction: row;
     align-items: center;
     margin-bottom: 5px;
+    height: 50px;
 }
 .upcoming-events a {
     color: black;
@@ -549,6 +550,9 @@
     }
     .homepage-hide-medium {
         display: block;
+    }
+    .upcoming-events li {
+        height: 43px;
     }
 }
 @media screen and (max-width: 1050px) {
