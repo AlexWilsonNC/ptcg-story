@@ -15423,7 +15423,6 @@ let swsh8 = [
         "supertype": "Trainer",
         "setAbbrev": "FST",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -15749,7 +15748,6 @@ let swsh8 = [
         "supertype": "Trainer",
         "setAbbrev": "FST",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [

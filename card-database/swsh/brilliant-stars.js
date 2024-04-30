@@ -8771,7 +8771,6 @@ let swsh9 = [
         "supertype": "Trainer",
         "setAbbrev": "BRS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -8917,7 +8916,6 @@ let swsh9 = [
         "supertype": "Trainer",
         "setAbbrev": "BRS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -8955,7 +8953,6 @@ let swsh9 = [
         "supertype": "Trainer",
         "setAbbrev": "BRS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -9172,7 +9169,6 @@ let swsh9 = [
         "supertype": "Trainer",
         "setAbbrev": "BRS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -9317,7 +9313,6 @@ let swsh9 = [
         "supertype": "Trainer",
         "setAbbrev": "BRS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [

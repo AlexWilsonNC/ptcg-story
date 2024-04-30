@@ -17128,7 +17128,6 @@ const swsh11 = [
         "supertype": "Trainer",
         "setAbbrev": "LOR",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -17986,7 +17985,6 @@ const swsh11 = [
         "supertype": "Trainer",
         "setAbbrev": "LOR",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -18378,7 +18376,6 @@ const swsh11 = [
         "supertype": "Trainer",
         "setAbbrev": "LOR",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -22488,7 +22485,6 @@ const swsh11 = [
         "supertype": "Trainer",
         "setAbbrev": "LOR",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [

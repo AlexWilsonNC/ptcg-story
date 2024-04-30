@@ -16400,7 +16400,6 @@ let swsh10 = [
         "supertype": "Trainer",
         "setAbbrev": "ASR",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -21918,7 +21917,6 @@ let swsh10 = [
         "supertype": "Trainer",
         "setAbbrev": "ASR",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [

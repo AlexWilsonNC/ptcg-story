@@ -3660,8 +3660,8 @@ let dpp = [
         "rarity": "Promo",
          
         "images": {
-            "small": "https://images.pokemontcg.io/dpp/DP54.png",
-            "large": "https://images.pokemontcg.io/dpp/DP54_hires.png"
+            "small": "https://pkmncards.com/wp-content/uploads/beginning-door-arceus-ar-82.jpg",
+            "large": "https://pkmncards.com/wp-content/uploads/beginning-door-arceus-ar-82.jpg"
         }
     },
     {
@@ -3695,8 +3695,8 @@ let dpp = [
         "rarity": "Promo",
          
         "images": {
-            "small": "https://images.pokemontcg.io/dpp/DP55.png",
-            "large": "https://images.pokemontcg.io/dpp/DP55_hires.png"
+            "small": "https://pkmncards.com/wp-content/uploads/ultimate-zone-arceus-ar-91.jpg",
+            "large": "https://pkmncards.com/wp-content/uploads/ultimate-zone-arceus-ar-91.jpg"
         }
     },
     {

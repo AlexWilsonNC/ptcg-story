@@ -9054,7 +9054,6 @@ let swsh12pt5 = [
         "supertype": "Trainer",
         "setAbbrev": "CRZ",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [

@@ -10347,7 +10347,6 @@ let swsh12 = [
         "supertype": "Trainer",
         "setAbbrev": "SIT",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -10385,7 +10384,6 @@ let swsh12 = [
         "supertype": "Trainer",
         "setAbbrev": "SIT",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -10423,7 +10421,6 @@ let swsh12 = [
         "supertype": "Trainer",
         "setAbbrev": "SIT",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -10569,7 +10566,6 @@ let swsh12 = [
         "supertype": "Trainer",
         "setAbbrev": "SIT",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -13474,7 +13470,6 @@ let swsh12 = [
         "supertype": "Trainer",
         "setAbbrev": "SIT",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [

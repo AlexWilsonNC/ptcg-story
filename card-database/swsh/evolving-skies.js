@@ -9238,7 +9238,6 @@ let swsh7 = [
         "supertype": "Trainer",
         "setAbbrev": "EVS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -10124,7 +10123,6 @@ let swsh7 = [
         "supertype": "Trainer",
         "setAbbrev": "EVS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -10350,7 +10348,6 @@ let swsh7 = [
         "supertype": "Trainer",
         "setAbbrev": "EVS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -10389,7 +10386,6 @@ let swsh7 = [
         "supertype": "Trainer",
         "setAbbrev": "EVS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -10579,7 +10575,6 @@ let swsh7 = [
         "supertype": "Trainer",
         "setAbbrev": "EVS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -10618,7 +10613,6 @@ let swsh7 = [
         "supertype": "Trainer",
         "setAbbrev": "EVS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -10733,7 +10727,6 @@ let swsh7 = [
         "supertype": "Trainer",
         "setAbbrev": "EVS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -10809,7 +10802,6 @@ let swsh7 = [
         "supertype": "Trainer",
         "setAbbrev": "EVS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [
@@ -15397,7 +15389,6 @@ let swsh7 = [
         "supertype": "Trainer",
         "setAbbrev": "EVS",
         "subtypes": [
-            "Item",
             "Pokémon Tool"
         ],
         "rules": [

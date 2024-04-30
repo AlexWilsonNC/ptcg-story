@@ -11080,7 +11080,7 @@ let xy4 = [
         "supertype": "Trainer",
         "setAbbrev": "PHF",
         "subtypes": [
-            "Pokémon Tool F"
+            "Pokémon Tool"
         ],
         "rules": [
             "Attach this Pokemon Tool to 1 of your opponent's Pokemon-EX that doesn't already have a Pokemon Tool attached to it.",
@@ -11152,7 +11152,7 @@ let xy4 = [
         "supertype": "Trainer",
         "setAbbrev": "PHF",
         "subtypes": [
-            "Pokémon Tool F"
+            "Pokémon Tool"
         ],
         "rules": [
             "Attach this Pokemon Tool to 1 of your opponent's Pokemon-EX that doesn't already have a Pokemon Tool attached to it.",
