@@ -1,22 +1,31 @@
 const deckbuild1 = document.querySelector('.deckbuild1');
 const deckbuild2 = document.querySelector('.deckbuild2');
+
 const deckbuild3 = document.querySelector('.deckbuild3');
 const deckbuild4 = document.querySelector('.deckbuild4');
+
 const deckbuild5 = document.querySelector('.deckbuild5');
 const deckbuild6 = document.querySelector('.deckbuild6');
+
 const deckbuild7 = document.querySelector('.deckbuild7');
 const deckbuild8 = document.querySelector('.deckbuild8');
 const deckbuild85 = document.querySelector('.deckbuild85');
+
 const deckbuild9 = document.querySelector('.deckbuild9');
 const deckbuild10 = document.querySelector('.deckbuild10');
+
 const deckbuildA = document.querySelector('.deckbuilda');
 const deckbuildB = document.querySelector('.deckbuildb');
+
 const deckbuildC = document.querySelector('.deckbuildc');
 const deckbuildD = document.querySelector('.deckbuildd');
+
 const deckbuildE = document.querySelector('.deckbuilde');
 const deckbuildF = document.querySelector('.deckbuildf');
+
 const deckbuildG = document.querySelector('.deckbuildg');
 const deckbuildH = document.querySelector('.deckbuildh');
+
 const buildBox1 = document.querySelector('.build-box1');
 const buildBox2 = document.querySelector('.build-box2');
 const buildBox3 = document.querySelector('.build-box3');

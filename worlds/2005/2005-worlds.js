@@ -410,12 +410,116 @@ let masters = [
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/tyranitar.png',
     sprite2: '../../assets/sprites/ampharos.png',
-    list: '../../assets/sprites/blank.png',
+    list: '../../assets/list-icon.png',
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/2004-2006',
+        cardImg: '../../assets/cards/2004-2006/dark-tyranitar-body.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/dark-pupitar-explosive.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/larvitar.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/dark-ampharos.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/dark-flaaffy.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/mareep-tackle.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/pidgeot.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/pidgeotto.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/pidgey.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/dx.009.jirachi.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/celios-network.png',
         numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/rockets-admin.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/lanette-net-search-e-reader.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/pow-hand-extension.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/vs-seeker.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/desert-ruins.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2004-2006/rockets-tricky-gym.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/old-energy/darkness-energy-e-reader.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/old-energy/scramble-energy.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/old-energy/heal-energy.png',
+        numImg: '../../assets/02.png'
       },
     ]
   },
