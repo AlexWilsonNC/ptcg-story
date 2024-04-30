@@ -132,7 +132,7 @@ let masters = [
     },
     {
         "firstName": "Tristen Cox",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Seattle Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',

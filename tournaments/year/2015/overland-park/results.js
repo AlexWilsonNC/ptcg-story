@@ -57,7 +57,7 @@ let masters = [
     },
     {
         "firstName": "Jordan Roberts",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Overland Park Regionals",
         sprite1: '../../../../assets/sprites/seismitoad.png',
         sprite2: '../../../../assets/sprites/archeops.png',
@@ -112,7 +112,7 @@ let masters = [
     },
     {
         "firstName": "Kevin Norton",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Overland Park Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/seismitoad.png',

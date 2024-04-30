@@ -258,7 +258,7 @@ let masters = [
         flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/rayquaza-mega.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -275,8 +275,8 @@ let masters = [
         "firstName": "Jeremiah Williams",
         flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/seismitoad.png',
+        sprite2: '../../../../assets/sprites/crawdaunt.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -293,8 +293,8 @@ let masters = [
         "firstName": "mason hein",
         flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/seismitoad.png',
+        sprite2: '../../../../assets/sprites/shaymin-sky.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -387,10 +387,10 @@ let masters = [
     },
     {
         "firstName": "Greg Westerman",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/rayquaza-mega.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -555,7 +555,7 @@ let masters = [
     },
     {
         "firstName": "Carington huffman",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/entei.png',
@@ -611,10 +611,10 @@ let masters = [
     },
     {
         "firstName": "Coty Slack",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/virizion.png',
+        sprite2: '../../../../assets/sprites/genesect.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -629,9 +629,9 @@ let masters = [
     },
     {
         "firstName": "Zachary Zaharis",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/landorus-therian.png',
         sprite2: '../../../../assets/sprites/groudon-primal.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
@@ -647,10 +647,10 @@ let masters = [
     },
     {
         "firstName": "jacob dalen",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/trevenant.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -731,10 +731,10 @@ let masters = [
     },
     {
         "firstName": "matthew pappas",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/trevenant.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -748,8 +748,8 @@ let masters = [
         }
     },
     {
-        "firstName": "Matt Alvis",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Matthew Alvis",
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/seismitoad.png',
@@ -767,7 +767,7 @@ let masters = [
     },
     {
         "firstName": "Christoph Clemens",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/florges.png',
@@ -788,7 +788,7 @@ let masters = [
         flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/groudon-primal.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -805,41 +805,10 @@ let masters = [
         "firstName": "Jake Jensen",
         flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/seismitoad.png',
+        sprite2: '../../../../assets/sprites/shaymin-sky.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
-        "decklist": {
-            "pokemon": [
-                { "count": 1, "name": "hoopa ex", "number": "ee", "set": "ee" },
-                { "count": 1, "name": "jirachi ex", "number": "ee", "set": "ee" },
-                { "count": 3, "name": "seismitoad ex", "number": "ee", "set": "ee" },
-                { "count": 2, "name": "giratina ex", "number": "ee", "set": "ee" },
-                { "count": 2, "name": "shaymin ex", "number": "ee", "set": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "Vs Seeker", "number": "ee", "set": "ee" },
-                { "count": 1, "name": "Lysandre", "number": "ee", "set": "ee" },
-                { "count": 1, "name": "AZ", "number": "ee", "set": "ee" },
-                { "count": 1, "name": "Computer Search", "number": "ee", "set": "ee" },
-                { "count": 4, "name": "crushing hammer", "number": "ee", "set": "ee" },
-                { "count": 4, "name": "trainers mail", "number": "ee", "set": "ee" },
-                { "count": 3, "name": "fighting fury belt", "number": "ee", "set": "ee" },
-                { "count": 1, "name": "team flare grunt", "number": "ee", "set": "ee" },
-                { "count": 2, "name": "virbank", "number": "ee", "set": "ee" },
-                { "count": 4, "name": "lazer", "number": "ee", "set": "ee" },
-                { "count": 1, "name": "enhanced hammer", "number": "ee", "set": "ee" },
-                { "count": 2, "name": "head ringer", "number": "ee", "set": "ee" },
-                { "count": 4, "name": "juniper", "number": "ee", "set": "ee" },
-                { "count": 3, "name": "N", "number": "ee", "set": "ee" },
-                { "count": 3, "name": "super scoop up", "number": "ee", "set": "ee" },
-                { "count": 1, "name": "ghetsis", "number": "ee", "set": "ee" },
-                { "count": 4, "name": "ultra ball", "number": "ee", "set": "ee" },
-                { "count": 1, "name": "Float Stone", "number": "ee", "set": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "Double Colorless Energy", "number": "ee", "set": "ee" },
-                { "count": 3, "name": "Double Dragon Energy", "number": "ee", "set": "ee" },
-            ]
-        }
     },
     {
         "firstName": "Omar Reyhan",

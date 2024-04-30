@@ -222,7 +222,7 @@ let masters = [
     },
 {
         "firstName": "Chris Bianchi",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Athens Regionals",
         sprite1: '../../../../assets/sprites/seismitoad.png',
         sprite2: '../../../../assets/sprites/crobat.png',
@@ -240,7 +240,7 @@ let masters = [
     },
 {
         "firstName": "Jordan Roberts",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Athens Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
@@ -364,7 +364,7 @@ let masters = [
     },
 {
         "firstName": "Devon Anderson",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Athens Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/trevenant.png',
@@ -620,7 +620,7 @@ let masters = [
     },
 {
         "firstName": "Collin Schaetkze",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Athens Regionals",
         sprite1: '../../../../assets/sprites/seismitoad.png',
         sprite2: '../../../../assets/sprites/crobat.png',
