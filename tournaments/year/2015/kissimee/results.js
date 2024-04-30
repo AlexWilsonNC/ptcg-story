@@ -158,15 +158,33 @@ let masters = [
         "event": "2015 Kissimee Regionals",
         sprite1: '../../../../assets/sprites/florges.png',
         sprite2: '../../../../assets/sprites/aromatisse.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                {"count": 4, "name": "Florges-EX", "set": "PHF", "number": "67"},
+                {"count": 3, "name": "Spritzee", "set": "XY", "number": "92"},
+                {"count": 2, "name": "Aromatisse", "set": "XY", "number": "93"},
+                {"count": 1, "name": "Xerneas-EX", "set": "XY", "number": "97"},
+                {"count": 1, "name": "Xerneas", "set": "XY", "number": "96"},
+                {"count": 1, "name": "M Kangaskhan-EX", "set": "FLF", "number": "79"},
+                {"count": 1, "name": "Kangaskhan-EX", "set": "FLF", "number": "78"},
+                {"count": 1, "name": "Klefki", "set": "FFI", "number": "73"},
+                        ], "trainer": [
+                            {"count": 4, "name": "Professor Juniper", "set": "BLW", "number": "101"},
+                            {"count": 4, "name": "N", "set": "NVI", "number": "92"},
+                            {"count": 2, "name": "Colress", "set": "PLS", "number": "118"},
+                            {"count": 2, "name": "Lysandre", "set": "FLF", "number": "90"},
+                            {"count": 2, "name": "AZ", "set": "PHF", "number": "91"},
+                            {"count": 4, "name": "VS Seeker", "set": "PHF", "number": "109"},
+                            {"count": 4, "name": "Max Potion", "set": "EPO", "number": "94"},
+                            {"count": 3, "name": "Ultra Ball", "set": "PLB", "number": "90"},
+                            {"count": 1, "name": "Level Ball", "set": "NXD", "number": "89"},
+                            {"count": 1, "name": "Computer Search", "set": "BCR", "number": "137"},
+                            {"count": 4, "name": "Hard Charm", "set": "XY", "number": "119"},
+                            {"count": 4, "name": "Fairy Garden", "set": "XY", "number": "117"},
+                        ], "energy": [
+                {"count": 7, "name": "Fairy Energy", "set": "XY", "number": "140"},
+                {"count": 4, "name": "Wonder Energy", "set": "PRC", "number": "144"},
             ]
         }
     },
@@ -194,15 +212,37 @@ let masters = [
         "event": "2015 Kissimee Regionals",
         sprite1: '../../../../assets/sprites/seismitoad.png',
         sprite2: '../../../../assets/sprites/slurpuff.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                {"count": 4, "name": "Seismitoad-EX", "set": "FFI", "number": "20"},
+                {"count": 3, "name": "Slurpuff", "set": "PHF", "number": "69"},
+                {"count": 3, "name": "Swirlix", "set": "PHF", "number": "68"},
+                {"count": 1, "name": "Ninetales", "set": "DRX", "number": "19"},
+                {"count": 1, "name": "Vulpix", "set": "PRC", "number": "20"},
+                {"count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60"},
+                        ], "trainer": [
+                            {"count": 4, "name": "Professor Juniper", "set": "BLW", "number": "101"},
+                            {"count": 4, "name": "N", "set": "NVI", "number": "92"},
+                            {"count": 2, "name": "Lysandre", "set": "FLF", "number": "90"},
+                            {"count": 1, "name": "Colress", "set": "PLS", "number": "118"},
+                            {"count": 1, "name": "Lysandre's Trump Card", "set": "PHF", "number": "99"},
+                            {"count": 1, "name": "Skyla", "set": "BCR", "number": "134"},
+                            {"count": 1, "name": "Pokémon Center Lady", "set": "FLF", "number": "93"},
+                            {"count": 1, "name": "Cassius", "set": "XY", "number": "115"},
+                            {"count": 4, "name": "VS Seeker", "set": "PHF", "number": "109"},
+                            {"count": 4, "name": "Ultra Ball", "set": "PLB", "number": "90"},
+                            {"count": 4, "name": "Hypnotoxic Laser", "set": "PLS", "number": "123"},
+                            {"count": 4, "name": "Super Scoop Up", "set": "BLW", "number": "103"},
+                            {"count": 1, "name": "Level Ball", "set": "NXD", "number": "89"},
+                            {"count": 1, "name": "Enhanced Hammer", "set": "PHF", "number": "94"},
+                            {"count": 1, "name": "Computer Search", "set": "BCR", "number": "137"},
+                            {"count": 3, "name": "Muscle Band", "set": "XY", "number": "121"},
+                            {"count": 2, "name": "Float Stone", "set": "PLF", "number": "99"},
+                            {"count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126"},
+                        ], "energy": [
+                {"count": 2, "name": "Fire Energy", "set": "BLW", "number": "106"},
+                {"count": 4, "name": "Double Colorless Energy", "set": "NXD", "number": "92"},
             ]
         }
     },
