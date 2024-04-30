@@ -696,7 +696,7 @@ let masters = [
                             {"count": 3, "name": "Colress", "set": "PLS", "number": "118"},
                             {"count": 4, "name": "Ultra Ball", "set": "PLB", "number": "90"},
                             {"count": 4, "name": "Level Ball", "set": "NXD", "number": "89"},
-                            {"count": 3, "name": "Pokémon Catcher", "set": "EPO", "number": "95"},
+                            {"count": 3, "name": "Pokémon Catcher", "set": "KSS", "number": "36"},
                             {"count": 2, "name": "Super Rod", "set": "NVI", "number": "95"},
                             {"count": 1, "name": "Energy Search", "set": "BLW", "number": "93"},
                             {"count": 1, "name": "Max Potion", "set": "EPO", "number": "94"},
