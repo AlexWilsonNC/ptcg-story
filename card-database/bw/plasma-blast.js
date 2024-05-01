@@ -5552,8 +5552,8 @@ let bw10 = [
         "rarity": "Uncommon",
          
         "images": {
-            "small": "https://images.pokemontcg.io/bw10/83.png",
-            "large": "https://images.pokemontcg.io/bw10/83_hires.png"
+            "small": "https://pkmncards.com/wp-content/uploads/en_US-BW10-083-pokemon_catcher.jpg",
+            "large": "https://pkmncards.com/wp-content/uploads/en_US-BW10-083-pokemon_catcher.jpg"
         }
     },
     {

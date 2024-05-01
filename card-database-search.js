@@ -62,6 +62,7 @@ const pokemonCard = [
    ...xy1,
    ...xy0,
    ...bwp,
+   ...errata,
    ...bw11,
    ...bw10,
    ...bw9,
@@ -143,7 +144,7 @@ const searchField = document.querySelector('#search');
 const searchButton = document.querySelector('#searchButton');
 
 function performSearch() {
-   const searchValue = searchField.value.trim().toLowerCase();
+   const searchValue = preprocessSearchQuery(searchField.value.trim().toLowerCase());
 
    if (searchValue === '') {
       setsOl.innerHTML = '';
@@ -562,6 +563,10 @@ function performSearch() {
    document.getElementById('search-reset').addEventListener('click', () => {
       setsOl.innerHTML = ''; // Clear search results
    })
+}
+
+function preprocessSearchQuery(query) {
+   return query.replace(/pokem/gi, "pokém").replace(/mr m/gi, "mr. m").replace(/mr r/gi, "mr. r").replace(/type n/gi, "type: n").replace(/farfetchd/gi, "farfetch'd").replace(/sirfetchd/gi, "sirfetch'd").replace(/hooh/gi, "ho-oh").replace(/ho oh/gi, "ho-oh").replace(/ ex/gi, "-ex").replace(/ gx/gi, "-gx").replace(/ z/gi, "-z").replace(/porygonz/gi, "porygon-z").replace(/flabebe/gi, "flabébé").replace(/flabe/gi, "flabé").replace(/jangmoo/gi, "jangmo-o").replace(/jangmo o/gi, "jangmo-o").replace(/hakamoo/gi, "hakamo-o").replace(/hakamo o/gi, "hakamo-o").replace(/kommoo/gi, "kommo-o").replace(/kommo o/gi, "kommo-o").replace(/chi y/gi, "chi-y").replace(/ting l/gi, "ting-l").replace(/chien p/gi, "chien-p").replace(/wo c/gi, "wo-c");
 }
 
 // for button click

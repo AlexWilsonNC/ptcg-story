@@ -7352,7 +7352,7 @@ let bw5 = [
          
         "images": {
             "small": "https://images.pokemontcg.io/bw5/111.png",
-            "large": "https://images.pokemontcg.io/bw5/111_hires.png"
+            "large": "https://pkmncards.com/wp-content/uploads/en_US-XY5-111-pokemon_catcher.jpg"
         }
     }
 ]

@@ -6497,8 +6497,8 @@ let bw2 = [
         "rarity": "Uncommon",
          
         "images": {
-            "small": "https://images.pokemontcg.io/bw2/95.png",
-            "large": "https://images.pokemontcg.io/bw2/95_hires.png"
+            "small": "https://pkmncards.com/wp-content/uploads/en_US-BW2-095-pokemon_catcher.jpg",
+            "large": "https://pkmncards.com/wp-content/uploads/en_US-BW2-095-pokemon_catcher.jpg"
         }
     },
     {
