@@ -229,9 +229,14 @@ function performSearch() {
                   const typePriority = {
                      "Supporter": 0,
                      "Item": 1,
+                     "undefined": 1,
+                     "Rocket's Secret Machine": 1,
+                     "Rocket's Secret Robot": 1,
+                     "Goldenrod Game Corner": 1,
                      "Pokémon Tool": 2,
+                     "Technical Machine": 2,
                      "Stadium": 3,
-                  };
+           };
                   const typeIndexA = typePriority[idA[1]];
                   const typeIndexB = typePriority[idB[1]];
 
