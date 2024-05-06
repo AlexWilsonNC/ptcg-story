@@ -434,7 +434,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2004-2006/mareep-tackle.png',
+        cardImg: 'https://images.pokemontcg.io/ex3/64_hires.png',
         numImg: '../../assets/02.png'
       },
       {
