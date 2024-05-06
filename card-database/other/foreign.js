@@ -239,4 +239,84 @@ let fr = [
             "large": "../../../../assets/cards/jp-translations/palace-book.jpg"
         }
     },
+    {
+        "id": "fr-31",
+        "name": "Tatsugiri",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712901648370-Z64N1YNNP5PKQUD4Z6UW/Tatsugiri.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712901648370-Z64N1YNNP5PKQUD4Z6UW/Tatsugiri.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-32",
+        "name": "Munkidori",
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV6/SV6_55_R_JP.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV6/SV6_55_R_JP.png"
+        }
+    },
+    {
+        "id": "fr-33",
+        "name": "Hyper Aroma",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1710518058929-OVX3ISA754MPYWMWGBOC/Hyper+Aroma.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1710518058929-OVX3ISA754MPYWMWGBOC/Hyper+Aroma.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-34",
+        "name": "Dragapult ex",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712310051484-LQ8QP2U8VAEDXPMU3YJX/Dragapult+ex.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712310051484-LQ8QP2U8VAEDXPMU3YJX/Dragapult+ex.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-35",
+        "name": "Drakloak",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712310051223-0W76GYE77PJ8T703P057/Drakloak.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712310051223-0W76GYE77PJ8T703P057/Drakloak.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-36",
+        "name": "Dreepy",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712310052841-TKGNF07T6VIZ0DE24PVZ/Dreepy.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712310052841-TKGNF07T6VIZ0DE24PVZ/Dreepy.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-37",
+        "name": "Legacy Energy",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712407039117-27S2PXF15BBDSJ752OBX/Legacy+Energy.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712407039117-27S2PXF15BBDSJ752OBX/Legacy+Energy.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-38",
+        "name": "Carmine",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1710517544999-HCBX9KP3MEM2X4C186F3/Carmine.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1710517544999-HCBX9KP3MEM2X4C186F3/Carmine.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-39",
+        "name": "Fable Flute",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712308980126-RIY3AMDRO6BRO0T9JGTA/Fable+Flute.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712308980126-RIY3AMDRO6BRO0T9JGTA/Fable+Flute.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-40",
+        "name": "Handy Fan",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1713508461450-78QMT4N0ZDYGTJWKN1LR/Handy+Circulator.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1713508461450-78QMT4N0ZDYGTJWKN1LR/Handy+Circulator.png?format=750w"
+        }
+    },
 ]
