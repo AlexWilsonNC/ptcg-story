@@ -388,21 +388,43 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Salvador",
     flag: '../../../../assets/flags/korea.png',
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    sprite1: "../../../../assets/sprites/giratina-origin.png",
+    sprite2: "../../../../assets/sprites/comfey.png",
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
-      ]
+        {"count": 4, "name": "Comfey", "set": "LOR", "number": "79"},
+        {"count": 3, "name": "Giratina VSTAR", "set": "LOR", "number": "131"},
+        {"count": 3, "name": "Giratina V", "set": "LOR", "number": "130"},
+        {"count": 1, "name": "Sableye", "set": "LOR", "number": "70"},
+        {"count": 1, "name": "Cramorant", "set": "LOR", "number": "50"},
+        {"count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46"},
+            ],
+    "trainer": [
+        {"count": 4, "name": "Colress's Experiment", "set": "LOR", "number": "155"},
+        {"count": 2, "name": "Roxanne", "set": "ASR", "number": "150"},
+        {"count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+        {"count": 1, "name": "Iono", "set": "PAF", "number": "80"},
+        {"count": 4, "name": "Battle VIP Pass", "set": "FST", "number": "225"},
+        {"count": 4, "name": "Mirage Gate", "set": "LOR", "number": "163"},
+        {"count": 3, "name": "Nest Ball", "set": "PAF", "number": "84"},
+        {"count": 3, "name": "Super Rod", "set": "PAL", "number": "188"},
+        {"count": 2, "name": "Pokégear 3.0", "set": "SVI", "number": "186"},
+        {"count": 2, "name": "Switch Cart", "set": "ASR", "number": "154"},
+        {"count": 1, "name": "Switch", "set": "SVI", "number": "194"},
+        {"count": 1, "name": "Escape Rope", "set": "BST", "number": "125"},
+        {"count": 1, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+        {"count": 4, "name": "Path to the Peak", "set": "CRE", "number": "148"},
+    ],
+    "energy": [
+      {"count": 4, "name": "Psychic", "set": "Energy", "number": "5"},
+        {"count": 3, "name": "Grass", "set": "Energy", "number": "1"},
+        {"count": 2, "name": "Water", "set": "Energy", "number": "3"},
+        {"count": 4, "name": "Jet Energy", "set": "PAL", "number": "190"},    
+]
     }
   },
   {
