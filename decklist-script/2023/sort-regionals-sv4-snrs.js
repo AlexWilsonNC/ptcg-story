@@ -250,6 +250,14 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Brute Bonnet")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Klawf")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/klawf.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/brute-bonnet.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Entei V")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Iron Valiant ex")) {

@@ -2033,7 +2033,7 @@ let seniors = [{
 ]
 
 let juniors = [{
-    "name": "Prince W.",
+    "name": "Prince Williams",
     "flag": "US",
     "placing": 1,
     "event": "2024 Latin America Internationals",

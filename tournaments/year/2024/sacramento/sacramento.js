@@ -5721,7 +5721,7 @@ let juniors = [{
   },
 },
 {
-  "name": "Prince W.",
+  "name": "Prince Williams",
   "flag": "US",
   "event": "2024 Sacramento Regionals",
   "placing": 3, "record": { "wins": 6, "losses": 1, "ties": 2 },
