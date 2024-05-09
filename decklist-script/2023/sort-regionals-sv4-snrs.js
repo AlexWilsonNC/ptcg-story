@@ -74,6 +74,14 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Wigglytuff ex")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Snorlax")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/pidgeot.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Origin Forme Dialga VSTAR")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Metang")) {

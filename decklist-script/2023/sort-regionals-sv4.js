@@ -60,6 +60,38 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Snorlax")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Rotom V")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/snorlax.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/rotom.png");
+                        }
+                    })
+                }
+                if (Object.values(pokemon).includes("Pidgeot ex")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Snorlax")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/pidgeot.png");
+                        }
+                    })
+                }
+                if (Object.values(pokemon).includes("Wigglytuff ex")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Snorlax")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/pidgeot.png");
+                        }
+                    })
+                }
+                if (Object.values(pokemon).includes("Arceus VSTAR")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Radiant Charizard")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/charizard-shiny.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Pidgeot ex")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Noivern ex")) {
@@ -152,14 +184,6 @@ function displayList(array = []) {
                         }
                     })
                 }
-                if (Object.values(pokemon).includes("Pidgeot ex")) {
-                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
-                        if (Object.values(pokemon).includes("Snorlax")) {
-                            firstSprite.setAttribute('src', "../../../../assets/sprites/pidgeot.png");
-                            secondSprite.setAttribute('src', "../../../../assets/sprites/snorlax.png");
-                        }
-                    })
-                }
                 if (Object.values(pokemon).includes("Arceus VSTAR")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Serperior VSTAR")) {
@@ -185,14 +209,6 @@ function displayList(array = []) {
                         if (Object.values(pokemon).includes("Sableye")) {
                             firstSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
                             secondSprite.setAttribute('src', "../../../../assets/sprites/sableye.png");
-                        }
-                    })
-                }
-                if (Object.values(pokemon).includes("Snorlax")) {
-                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
-                        if (Object.values(pokemon).includes("Rotom V")) {
-                            firstSprite.setAttribute('src', "../../../../assets/sprites/snorlax.png");
-                            secondSprite.setAttribute('src', "../../../../assets/sprites/rotom.png");
                         }
                     })
                 }
