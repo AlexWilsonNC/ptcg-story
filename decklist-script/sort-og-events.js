@@ -181,7 +181,7 @@ function displayList(array = []) {
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
-                            pokeCard.classList.add('old-card');
+                            // pokeCard.classList.add('old-card');
                             pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
                             let zoomedImg = document.getElementById("insert-zoomed-img");
                             let zoombox = document.getElementById("zoomed-bg");

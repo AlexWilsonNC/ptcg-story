@@ -44,15 +44,46 @@ let masters = [
         "event": "2024 Indy '06 Retro Event",
         sprite1: '../../../../assets/sprites/lugia.png',
         sprite2: '../../../../assets/sprites/blastoise.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                {"count": 2, "name": "Blastoise ex", "set": "FL", "number": "104"},
+                {"count": 1, "name": "Wartortle", "set": "FL", "number": "50"},
+                {"count": 2, "name": "Squirtle", "set": "FL", "number": "83"},
+                {"count": 2, "name": "Pidgeot", "set": "FL", "number": "10"},
+                {"count": 1, "name": "Pidgeotto", "set": "FL", "number": "45"},
+                {"count": 2, "name": "Pidgey", "set": "FL", "number": "73"},
+                {"count": 1, "name": "Lugia ex", "set": "UF", "number": "105"},
+                {"count": 1, "name": "Steelix ex", "set": "UF", "number": "109"},
+                {"count": 1, "name": "Onix", "set": "UF", "number": "65"},
+                {"count": 1, "name": "Latias ★", "set": "DX", "number": "105"},
+                {"count": 1, "name": "Regirock ex", "set": "HL", "number": "98"},
+                {"count": 1, "name": "Celebi ex", "set": "P2", "number": "17"},
+                {"count": 1, "name": "Jirachi", "set": "DX", "number": "9"},
+                {"count": 1, "name": "Jirachi", "set": "HL", "number": "8"},
+                {"count": 1, "name": "Lapras", "set": "LM", "number": "8"},
+                {"count": 1, "name": "Aipom", "set": "UF", "number": "34"},
+                {"count": 1, "name": "Chimecho δ", "set": "HP", "number": "37"},
+                {"count": 4, "name": "Holon's Castform", "set": "HP", "number": "44"},
+                {"count": 1, "name": "Holon's Magnemite", "set": "DS", "number": "70"},
+                        ], "trainer": [
+                            {"count": 4, "name": "Holon Mentor", "set": "DS", "number": "93"},
+                            {"count": 2, "name": "Rocket's Admin.", "set": "TRR", "number": "86"},
+                            {"count": 1, "name": "Holon Scientist", "set": "DS", "number": "97"},
+                            {"count": 1, "name": "Steven's Advice", "set": "HL", "number": "92"},
+                            {"count": 1, "name": "Celio's Network", "set": "CG", "number": "73"},
+                            {"count": 1, "name": "Professor Elm's Training Method", "set": "UF", "number": "89"},
+                            {"count": 4, "name": "Holon Transceiver", "set": "DS", "number": "98"},
+                            {"count": 3, "name": "Rare Candy", "set": "EM", "number": "83"},
+                            {"count": 2, "name": "Pokémon Retriever", "set": "TRR", "number": "84"},
+                            {"count": 2, "name": "Switch", "set": "DF", "number": "83"},
+                            {"count": 1, "name": "Swoop! Teleporter", "set": "TRR", "number": "92"},
+                            {"count": 1, "name": "VS Seeker", "set": "FL", "number": "100"},
+                            {"count": 1, "name": "Pow! Hand Extension", "set": "TRR", "number": "85"},
+                            {"count": 3, "name": "Power Tree", "set": "LM", "number": "76"},
+                            {"count": 1, "name": "Giant Stump", "set": "LM", "number": "75"},
+                        ], "energy": [
+                {"count": 6, "name": "Water Energy", "set": "HP", "number": "107"},
             ]
         }
     },
@@ -62,15 +93,31 @@ let masters = [
         "event": "2024 Indy '06 Retro Event",
         sprite1: '../../../../assets/sprites/mew.png',
         sprite2: '../../../../assets/sprites/manectric.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                {"count": 4, "name": "Mew ex", "set": "LM", "number": "88"},
+                {"count": 3, "name": "Manectric ex", "set": "DX", "number": "101"},
+                {"count": 4, "name": "Electrike", "set": "DX", "number": "60"},
+                {"count": 1, "name": "Deoxys ex", "set": "EM", "number": "93"},
+                {"count": 1, "name": "Rayquaza ★", "set": "DX", "number": "107"},
+                {"count": 1, "name": "Girafarig", "set": "LM", "number": "16"},
+                {"count": 1, "name": "Roselia", "set": "LM", "number": "42"},
+                {"count": 2, "name": "Holon's Magneton", "set": "DS", "number": "22"},
+                        ], "trainer": [
+                            {"count": 4, "name": "Rocket's Admin.", "set": "TRR", "number": "86"},
+                            {"count": 4, "name": "Professor Elm's Training Method", "set": "DF", "number": "79"},
+                            {"count": 4, "name": "TV Reporter", "set": "DF", "number": "82"},
+                            {"count": 3, "name": "Scott", "set": "EM", "number": "84"},
+                            {"count": 1, "name": "Mary's Request", "set": "UF", "number": "86"},
+                            {"count": 4, "name": "Dual Ball", "set": "CG", "number": "78"},
+                            {"count": 2, "name": "Pow! Hand Extension", "set": "TRR", "number": "85"},
+                            {"count": 2, "name": "Switch", "set": "DF", "number": "83"},
+                            {"count": 3, "name": "Battle Frontier", "set": "PK", "number": "71"},
+                            {"count": 1, "name": "Cursed Stone", "set": "LM", "number": "72"},
+                        ], "energy": [
+                {"count": 11, "name": "Lightning Energy", "set": "HP", "number": "108"},
+                {"count": 4, "name": "Multi Energy", "set": "EM", "number": "89"},
             ]
         }
     },
