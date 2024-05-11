@@ -59,6 +59,15 @@
     margin-left: -58px;
     z-index: -1;
 }
+.regional-info-bg-logo-retro {
+    opacity: 0.75;
+    position: absolute;
+    height: 100px;width:auto;
+    left: 50%;
+    border-radius: 10px;
+    margin-left: -58px;
+    z-index: -1;
+}
 .regional-info-bg-logo-sts {
     opacity: 0.75;
     position: absolute;
@@ -240,6 +249,10 @@
         margin-left: -70px;
         margin-top: 15px;
     }
+    .regional-info-bg-logo-retro {
+        height: 80px;
+        margin-left: -40px;
+    }
 }
 @media screen and (max-width: 675px) {
     .masters-ol li,
@@ -292,6 +305,12 @@
     }
     .regional-info-bg-logo-reg {
         height: 120px;
+        margin-left: -39px;
+        left: 80%;
+        top: 8%;
+    }
+    .regional-info-bg-logo-retro {
+        height: 93px;
         margin-left: -39px;
         left: 80%;
         top: 8%;
