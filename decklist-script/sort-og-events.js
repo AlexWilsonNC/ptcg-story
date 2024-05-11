@@ -172,6 +172,26 @@ function displayList(array = []) {
                             zoombox.onclick = () => {
                                 zoombox.className = "";
                             };
+                        } if (item.event.includes('06')) {
+                            let allSets = {
+                                //rs
+                                ex16, ex15, ex14, ex13, ex12, ex11, ex10, ex9, ex8, ex7, ex6, ex5, ex4, ex3, ex2, ex1, np,
+                                //other
+                                xy0, pop1, pop2, pop3, pop4, pop5, pop6, pop7, pop8, pop9, ru1, si1, tk1a, tk2a
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.classList.add('old-card');
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
                         }
 
                         // const allSets = {
@@ -211,6 +231,9 @@ function displayList(array = []) {
                             numberCounter.setAttribute('src', "../../../../assets/card-count/" + card.count + ".png");
                         } 
                         if (item.event.includes('Qualifier')) {
+                            numberCounter.setAttribute('src', "../../../../assets/card-count/" + card.count + ".png");
+                        } 
+                        if (item.event.includes('Retro')) {
                             numberCounter.setAttribute('src', "../../../../assets/card-count/" + card.count + ".png");
                         } 
 

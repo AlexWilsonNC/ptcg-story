@@ -1011,6 +1011,7 @@
 .sv151:hover,
 .paradox-rift:hover,
 .temporal-forces:hover,
+.twilight-masquerade:hover,
 .paldean-fates:hover,
 .legendary-treasures:hover,
 .plasma-blast:hover,
@@ -1447,6 +1448,13 @@
 }
 
 /* Scarlet & Violet */
+.twilight-masquerade {
+    background: url(../assets/set-filter/scvi/sv6.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
 .temporal-forces {
     background: url(../assets/set-filter/scvi/sv5.jpg) no-repeat center;
     background-size: auto 100%;
