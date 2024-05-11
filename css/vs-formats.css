@@ -1266,6 +1266,34 @@
     background-position: center center;
     background-repeat: no-repeat;
 }
+.left-vs-chien-pao {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/chien-pao.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-gardevoir-ex-sv {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/gardevoir-ex-sv.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-roaring-moon-ex {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/roaring-moon-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-gholdengo-ex {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/gholdengo-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
 
 
 /******** EXPANDED *******/
