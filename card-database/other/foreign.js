@@ -319,4 +319,28 @@ let fr = [
             "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1713508461450-78QMT4N0ZDYGTJWKN1LR/Handy+Circulator.png?format=750w"
         }
     },
+    {
+        "id": "fr-41",
+        "name": "Lucian",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1710517906043-6FZGFOZA9FQUXJW3DAU7/Lucian.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1710517906043-6FZGFOZA9FQUXJW3DAU7/Lucian.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-42",
+        "name": "Jamming Tower",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712802771549-57NC9AKCEKKHUYEQ1USG/Jamming+Tower.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1712802771549-57NC9AKCEKKHUYEQ1USG/Jamming+Tower.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-43",
+        "name": "Water Ogerpon ex",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1710423229981-V0JZJ92HJWPBO5SATFLY/Wellspring+Mask+Ogerpon+ex.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1710423229981-V0JZJ92HJWPBO5SATFLY/Wellspring+Mask+Ogerpon+ex.png?format=750w"
+        }
+    },
 ]

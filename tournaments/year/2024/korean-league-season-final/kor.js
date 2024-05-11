@@ -88,15 +88,39 @@ let masters = [
     "event": "2024 Korean League Final Season",
     sprite1: "../../../../assets/sprites/blank.png",
     sprite2: "../../../../assets/sprites/gardevoir.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        {"count": 4, "name": "Ralts", "set": "ASR", "number": "60"},
+        {"count": 4, "name": "Kirlia", "set": "SIT", "number": "68"},
+        {"count": 2, "name": "Gardevoir ex", "set": "PAF", "number": "29"},
+        {"count": 2, "name": "Drifloon", "set": "SVI", "number": "89"},
+        {"count": 1, "name": "Scream Tail", "set": "PAR", "number": "86"},
+        {"count": 1, "name": "Flutter Mane", "set": "TEF", "number": "78"},
+        {"count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46"},
+        {"count": 1, "name": "Manaphy", "set": "BRS", "number": "41"},
+        {"count": 1, "name": "Jirachi", "set": "PAR", "number": "126"},
+            ], "trainer": [
+              {"count": 4, "name": "Arven", "set": "OBF", "number": "186"},
+              {"count": 4, "name": "Iono", "set": "PAF", "number": "80"},
+              {"count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172"},
+              {"count": 1, "name": "Professor Turo's Scenario", "set": "PAR", "number": "171"},
+              {"count": 4, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144"},
+              {"count": 2, "name": "Ultra Ball", "set": "PAF", "number": "91"},
+              {"count": 2, "name": "Nest Ball", "set": "PAF", "number": "84"},
+              {"count": 2, "name": "Super Rod", "set": "PAL", "number": "188"},
+              {"count": 2, "name": "Earthen Vessel", "set": "PAR", "number": "163"},
+              {"count": 2, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+              {"count": 1, "name": "Hisuian Heavy Ball", "set": "ASR", "number": "146"},
+              {"count": 1, "name": "Damage Pump", "set": "LOR", "number": "156"},
+              {"count": 2, "name": "Technical Machine: Evolution", "set": "PAR", "number": "178"},
+              {"count": 1, "name": "Bravery Charm", "set": "PAL", "number": "173"},
+              {"count": 1, "name": "Luxurious Cape", "set": "PAR", "number": "166"},
+              {"count": 1, "name": "Hero's Cape", "set": "TEF", "number": "152"},
+              {"count": 1, "name": "Artazon", "set": "PAF", "number": "76"},
+              {"count": 1, "name": "Town Store", "set": "OBF", "number": "196"},
+                        ], "energy": [
+        {"count": 9, "name": "Psychic", "set": "Energy", "number": "5"},
       ]
     }
   },
