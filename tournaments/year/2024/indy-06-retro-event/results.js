@@ -1160,7 +1160,7 @@ let masters = [
         }
     },
     {
-        "firstName": "Joel Self",
+        "firstName": "Jon Self",
         flag: '../../../../assets/flags/unknown.png',
         "event": "2024 Indianapolis '06 Retro Event",
         sprite1: '../../../../assets/sprites/ludicolo.png',
