@@ -2181,16 +2181,16 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
+        cardImg: '../../assets/cards/energy/metal-energy-capsule.png',
+        numImg: '../../assets/05.png'
+      },
+      {
         cardImg: '../../assets/cards/energy/lightning-energy-capsule.png',
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/metal-energy-capsule.png',
-        numImg: '../../assets/04.png'
-      },
-      {
         cardImg: '../../assets/cards/energy/metal-energy-special-dp.png',
-        numImg: '../../assets/05.png'
+        numImg: '../../assets/04.png'
       }
     ]
   },

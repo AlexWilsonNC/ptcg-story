@@ -468,7 +468,7 @@ let masters = [
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 Indianapolis '06 Retro Event",
         sprite1: '../../../../assets/sprites/mew.png',
-        sprite2: '../../../../assets/sprites/wobbuffet.png',
+        sprite2: '../../../../assets/sprites/jynx.png',
         list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [

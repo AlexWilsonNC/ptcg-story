@@ -128,16 +128,23 @@
                 <div class='indiv-filter'>
                     <p class='sort-events'>Event Type:</p>
                     <select id="mySelect" onchange="filterEvents()">
-                        <option value="" selected disabled hidden>Filter by Event</option>
-                        <option value="all">All</option>
-                        <option value="worlds">World Championships</option>
-                        <option value="internationals">Internationals</option>
-                        <option value="regionals">Regionals</option>
-                        <option value="special-event">Special Events</option>
-                        <option value="regional-league">Asia-Pacific Events</option>
-                        <hr>
-                        <option value="retro-event">Retro Events</option>
-                    </select>
+                            <option value="" selected disabled hidden>Filter by Event</option>
+                            <option value="all">All Events</option>
+                            <optgroup label="TPCi Events"></optgroup>
+                            <option value="all-tpci">All</option>
+                            <option value="worlds">World Championships</option>
+                            <option value="internationals">Internationals</option>
+                            <option value="regionals">Regionals</option>
+                            <option value="special-event">Special Events</option>
+                            <optgroup label="Asia-Pacific Events"></optgroup>
+                            <option value="asia-event">All</option>
+                            <option value="country-championships">Countries' Championships</option>
+                            <option value="champions-league">Champions League</option>
+                            <option value="regional-league-event">Regional League</option>
+                            <option value="korean-league">Korean League</option>
+                            <optgroup label="Other"></optgroup>
+                            <option value="retro-event">Retro Events</option>
+                        </select>
                 </div>
                 <div class='indiv-filter2'>
                     <p class='sort-events'>Order:</p>
@@ -329,7 +336,7 @@
                 </tr>
                 <tr class='retro-event all-tr year-2024'>
                     <td>June 6, 2024</td>
-                    <td><img class='event-type-logo2' src='../assets/event-logos/retro.png' style='border-radius: 10px;'/></td>
+                    <td><img class='event-type-logo2' src='../assets/event-logos/retro.png' style='border-radius: 12px;'/></td>
                     <td>
                         <div><img src='../assets/flags/usa.png' /></div>
                         <div><a href='./year/2024/retro-celebration-2010/results'>NAIC Retro Celebration (2010)</a></div>
@@ -339,7 +346,7 @@
                 </tr>
                 <tr class='retro-event all-tr year-2024'>
                     <td>June 9, 2024</td>
-                    <td><img class='event-type-logo2' src='../assets/event-logos/retro.png' style='border-radius: 10px;'/></td>
+                    <td><img class='event-type-logo2' src='../assets/event-logos/retro.png' style='border-radius: 12px;'/></td>
                     <td>
                         <div><img src='../assets/flags/usa.png' /></div>
                         <div><a href='./year/2024/retro-celebration-2014/results'>NAIC Retro Celebration (2014)</a></div>
@@ -454,164 +461,7 @@
             greatest game in history!</div>
     </footer>
     <script src='../darkmode/darkmode-tournaments.js'></script>
-    <script>
-        const worlds = document.querySelectorAll(".worlds");
-        const internationals = document.querySelectorAll(".internationals");
-        const regionals = document.querySelectorAll(".regionals");
-        const specialEvent = document.querySelectorAll(".special-event");
-        const regionalLeague = document.querySelectorAll(".asia-event");
-        const retroEvent = document.querySelectorAll(".retro-event");
-
-        function filterEvents() {
-          var x = document.getElementById("mySelect").value;
-          if (x === "all") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'table-row';
-                worlds.classList.remove('new-red-bg');
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'table-row';
-                internationals.classList.remove('new-red-bg');
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'table-row';
-                regionals.classList.remove('new-red-bg');
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'table-row';
-                specialEvent.classList.remove('new-red-bg');
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'table-row';
-                regionalLeague.classList.remove('new-red-bg');
-            });
-            retroEvent.forEach((retroEvent) => {
-                retroEvent.style.display = 'table-row';
-                retroEvent.classList.remove('new-red-bg');
-            });
-          } else if (x === "worlds") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'table-row';
-                worlds.classList.add('new-red-bg');
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'none';
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'none';
-            });
-            retroEvent.forEach((retroEvent) => {
-                retroEvent.style.display = 'none';
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'none';
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-          } else if (x === "internationals") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'none';
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'table-row';
-                internationals.classList.add('new-red-bg');
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'none';
-            });
-            retroEvent.forEach((retroEvent) => {
-                retroEvent.style.display = 'none';
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'none';
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-          } else if (x === "regionals") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'none';
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'none';
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'table-row';
-                regionals.classList.add('new-red-bg');
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'none';
-            });
-            retroEvent.forEach((retroEvent) => {
-                retroEvent.style.display = 'none';
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-          } else if (x === "special-event") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'none';
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'none';
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'none';
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'table-row';
-                specialEvent.classList.add('new-red-bg');
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-            retroEvent.forEach((retroEvent) => {
-                retroEvent.style.display = 'none';
-            });
-        } else if (x === "regional-league") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'none';
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'none';
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'table-row';
-                regionalLeague.classList.add('new-red-bg');
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'none';
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'none';
-            });
-            retroEvent.forEach((retroEvent) => {
-                retroEvent.style.display = 'none';
-            });
-        } else if (x === "retro-event") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'none';
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'none';
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-            retroEvent.forEach((retroEvent) => {
-                retroEvent.style.display = 'table-row';
-                retroEvent.classList.add('new-red-bg');
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'none';
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'none';
-            });
-        }
-        }
-    </script>
+    <script src='./filter-completed-events.js'></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script>
         $(':button').on('click', function () {
