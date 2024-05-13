@@ -126,7 +126,7 @@ let masters = [
         }
     },
     {
-        "firstName": "Val Kramer",
+        "firstName": "Val Kraemer",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 Indianapolis '06 Retro Event",
         sprite1: '../../../../assets/sprites/blank.png',
