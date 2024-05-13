@@ -130,9 +130,9 @@ let masters = [
         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "Chien-Pao ex", "set": "PAL", "number": "61" },
+                { "count": 2, "name": "Baxcalibur", "set": "PAL", "number": "60" },
                 { "count": 2, "name": "Frigibax", "set": "PAL", "number": "57" },
                 { "count": 1, "name": "Frigibax", "set": "PAF", "number": "17" },
-                { "count": 2, "name": "Baxcalibur", "set": "PAL", "number": "60" },
                 { "count": 2, "name": "Bidoof", "set": "CRZ", "number": "111" },
                 { "count": 2, "name": "Bibarel", "set": "BRS", "number": "121" },
                 { "count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46" },
@@ -151,8 +151,8 @@ let masters = [
                 { "count": 3, "name": "Super Rod", "set": "PAL", "number": "188" },
                 { "count": 1, "name": "Earthen Vessel", "set": "PAR", "number": "163" },
                 { "count": 1, "name": "Hisuian Heavy Ball", "set": "ASR", "number": "146" },
-                { "count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157" },
                 { "count": 1, "name": "Canceling Cologne", "set": "ASR", "number": "136" },
+                { "count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157" },
                 { "count": 3, "name": "PokéStop", "set": "PGO", "number": "68" },
             ],
             "energy": [
