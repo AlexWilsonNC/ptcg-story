@@ -1795,9 +1795,266 @@ let sixEvent = [
 
 let sevenEvent = [
     {
-        firstName: 'eeee',
-        sprite1: '../../assets/sprites',
-        sprite2: '../../assets/sprites',
+        firstName: 'Fabien Garnier',
+        sprite1: '../../assets/sprites/blank.png',
+        sprite2: '../../assets/sprites/gyarados.png',
+        list: '../../assets/list-icon.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2008-2010/gyarados.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/magikarp.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/sableye-overgear.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/claydol.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/baltoy-fighting.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/pachirisu.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/blissey.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/chansey.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/houndoom-sp.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/registeel.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/uxie.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/azelf.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/unown-guard.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/unown-quick.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/roseannes-research.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/felicitys-drawing.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/bebes-search.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/cynthias-feelings.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/bucks-training.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/poke-rescue.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/luxury-ball.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/switch-2007.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/warp-point.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/night-maintenance.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/time-space-distortion.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/la.137.technical_machine_ts_2.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/broken-time-space.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/dark-energy-capsule.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/metal-energy-capsule.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/call-energy.png',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Aloïs de la Comble',
+        sprite1: '../../assets/sprites/blank.png',
+        sprite2: '../../assets/sprites/porygon-z.png',
+        list: '../../assets/list-icon.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2008-2010/md.100.porygon_z_lv_x.jpg',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/diamond_pearl_promos.DP35.porygon_z.jpg',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/ge.049.porygon2.jpg',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/ge.081.porygon.jpg',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/claydol.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/baltoy-fighting.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/palkia-lvx.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/palkia.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/mewtwo-lvx.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/mewtwo.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/uxie.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/azelf.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/bebes-search.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/roseannes-research.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/sf.087.marleys_request.jpg',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/switch-2007.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/rare-candy-2008.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/luxury-ball.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/night-maintenance.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/time-space-distortion.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/la.136.technical_machine_ts_1.jpg',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/la.137.technical_machine_ts_2.jpg',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/broken-time-space.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/psychic-energy-capsule.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/call-energy.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/warp_energy.jpg',
+                numImg: '../../assets/02.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Aurélien Delambre',
+        sprite1: '../../assets/sprites/honchkrow.png',
+        sprite2: '../../assets/sprites/toxicroak.png',
+        // list: '../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2008-2010',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Hervé Marcant',
+        sprite1: '../../assets/sprites/machamp.png',
+        sprite2: '../../assets/sprites/ampharos.png',
         // list: '../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'normal',
@@ -2740,7 +2997,7 @@ function displayList7(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Denmark Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2009 France Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
