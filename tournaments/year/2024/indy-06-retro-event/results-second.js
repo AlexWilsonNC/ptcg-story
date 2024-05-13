@@ -430,17 +430,32 @@ let masters = [
         "event": "2024 Indianapolis '06 Retro Event",
         sprite1: '../../../../assets/sprites/flareon.png',
         sprite2: '../../../../assets/sprites/ariados.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
-            ],
+                {"count": 3, "name": "Flareon ex", "set": "DS", "number": "108"},
+                {"count": 1, "name": "Espeon ex", "set": "UF", "number": "102"},
+                {"count": 4, "name": "Eevee", "set": "DS", "number": "69"},
+                {"count": 4, "name": "Ariados", "set": "UF", "number": "2"},
+                {"count": 4, "name": "Spinarak", "set": "UF", "number": "75"},
+                {"count": 1, "name": "Holon's Electrode", "set": "DS", "number": "21"},
+                        ],
             "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                {"count": 4, "name": "Mary's Request", "set": "UF", "number": "86"},
+                {"count": 4, "name": "Professor Elm's Training Method", "set": "DF", "number": "79"},
+                {"count": 3, "name": "Copycat", "set": "DF", "number": "73"},
+                {"count": 3, "name": "Rocket's Admin.", "set": "TRR", "number": "86"},
+                {"count": 1, "name": "Scott", "set": "EM", "number": "84"},
+                {"count": 4, "name": "Energy Removal 2", "set": "UF", "number": "82"},
+                {"count": 4, "name": "Great Ball", "set": "PK", "number": "77"},
+                {"count": 4, "name": "Super Scoop Up", "set": "DS", "number": "100"},
+                {"count": 4, "name": "Battle Frontier", "set": "EM", "number": "75"},
+                {"count": 1, "name": "Giant Stump", "set": "LM", "number": "75"},
             ],
             "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                {"count": 5, "name": "Grass Energy", "set": "HP", "number": "105"},
+                {"count": 2, "name": "Fire Energy", "set": "HP", "number": "106"},
+                {"count": 4, "name": "Multi Energy", "set": "EM", "number": "89"},
             ]
         }
     },
