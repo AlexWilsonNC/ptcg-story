@@ -1184,9 +1184,9 @@ let masters = [{"name":"Nathian Beck",
         {
     "count":2, "name": "Charmander", "number":"44", "set": "PR-SV"},{
     "count":2, "name": "Charmander", "number":"168", "set": "MEW"},{
-    "count":1, "name": "Charmeleon", "number":"110", "set": "PAF"},{
-    "count":3, "name": "Charizard ex", "number":"74", "set": "PR-SV"},{
-    "count":2, "name": "Pidgey", "number":"16", "set": "MEW"},{
+    "count":1, "name": "Charmeleon", "number":"110", "set": "PAF"},
+    {"count":3, "name": "Charizard ex", "number":"54", "set": "PAF"},
+    {"count":2, "name": "Pidgey", "number":"16", "set": "MEW"},{
     "count":2, "name": "Pidgeot ex", "number":"217", "set": "OBF"},{
     "count":1, "name": "Jirachi", "number":"126", "set": "PAR"},{
     "count":1, "name": "Manaphy", "number":"GG06", "set": "CRZ"},{

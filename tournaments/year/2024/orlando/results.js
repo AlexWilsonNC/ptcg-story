@@ -5125,8 +5125,7 @@ let masters = [
         {"count":3, "name": "Charmander", "number":"26", "set": "OBF"},
 {"count":1, "name": "Charmander", "number":"109", "set": "PAF"},
 {"count":1, "name": "Charmeleon", "number":"110", "set": "PAF"},
-{"count":2, "name": "Charizard ex", "number":"56", "set": "PR-SV"},
-{"count":1, "name": "Charizard ex", "number":"74", "set": "PR-SV"},
+{"count":3, "name": "Charizard ex", "number":"56", "set": "PR-SV"},
 {"count":1, "name": "Cleffa", "number":"80", "set": "OBF"},
 {"count":2, "name": "Pidgey", "number":"16", "set": "MEW"},
 {"count":2, "name": "Pidgeot ex", "number":"217", "set": "OBF"},
@@ -6126,7 +6125,7 @@ let masters = [
 {"count":1, "name": "Radiant Charizard", "number":"11", "set": "PGO"},
 {"count":2, "name": "Pidgeot ex", "number":"225", "set": "OBF"},
 {"count":2, "name": "Pidgey", "number":"16", "set": "MEW"},
-{"count":3, "name": "Charizard ex", "number":"74", "set": "PR-SV"},
+{"count":3, "name": "Charizard ex", "number":"54", "set": "PAF"},
 {"count":1, "name": "Charmeleon", "number":"8", "set": "PAF"},
 {"count":3, "name": "Charmander", "number":"26", "set": "OBF"},
 {"count":1, "name": "Charmander", "number":"44", "set": "PR-SV"}
