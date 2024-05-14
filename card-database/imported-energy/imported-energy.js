@@ -110,5 +110,19 @@ let importedenergy = [
             "small": "https://images.pokemontcg.io/sve/6.png",
             "large": "https://images.pokemontcg.io/sve/6_hires.png"
         }
+    },
+    {
+        "id": "importedenergy-9",
+        "name": "Basic Fairy Energy",
+        "supertype": "Energy",
+        "setAbbrev": "XY",
+        "subtypes": [
+            "Basic"
+        ],
+        "number": "140",
+        "images": {
+            "small": "https://images.pokemontcg.io/xy1/140.png",
+            "large": "https://images.pokemontcg.io/xy1/140_hires.png"
+        }
     }
 ]

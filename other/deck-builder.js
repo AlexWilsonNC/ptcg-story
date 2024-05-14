@@ -16303,7 +16303,12 @@ function importDeck() {
                 let exportJson = document.querySelector('.export-json');
                 exportJson.addEventListener('click', function () {
                     const images = document.querySelectorAll('.card-added-in-decklist');
-                    const altTexts = [];
+                    const altTexts = {
+                        pokemon: [],
+                        trainer: [],
+                        energy: []
+                    };
+
                     images.forEach((image, index) => {
                         const altPieces = image.alt.split(' ');
                         if (altPieces.length === 5) { // Check if there are five pieces
@@ -16334,37 +16339,47 @@ function importDeck() {
                             let key;
                             switch (index) {
                                 case 0:
-                                    key = '"count":';
+                                    key = 'count';
                                     break;
                                 case 1:
-                                    key = '"name":';
+                                    key = 'name';
                                     break;
                                 case 2:
-                                    key = '"set":';
+                                    key = 'set';
                                     break;
                                 case 3:
-                                    key = '"number":';
+                                    key = 'number';
                                     break;
                                 default:
                                     key = '';
                             }
-                            if (index === 0 && !isNaN(piece)) {
-                                return key + ' ' + piece;
-                            } else {
-                                return key + ' "' + piece + '"';
-                            }
+                            return { [key]: isNaN(piece) ? piece : parseInt(piece) };
                         });
-                        const wrappedAlt = '{' + mappedPieces.join(', ') + '},';
-                        altTexts.push(wrappedAlt);
-                    });
-                    const textToCopy = altTexts.join('\n');
-                    navigator.clipboard.writeText(textToCopy);
+                        const cardObject = Object.assign({}, ...mappedPieces);
 
+                        // Determine the category of the card
+                        const idParts = image.id.split(',');
+                        const category = idParts[0];
+
+                        if (category === 'Pokémon') {
+                            altTexts.pokemon.push(cardObject);
+                        } else if (category === 'Trainer') {
+                            altTexts.trainer.push(cardObject);
+                        } else if (category === 'Energy') {
+                            altTexts.energy.push(cardObject);
+                        }
+                    });
+
+                    // Convert the decklist object to a JSON string without extra spaces or indentation
+                    const textToCopy = JSON.stringify(altTexts);
+
+                    navigator.clipboard.writeText(textToCopy);
+                
                     document.querySelector('.copied-json-check').style.display = 'flex';
                     setTimeout(() => {
                         document.querySelector('.copied-json-check').style.display = "none";
                     }, 2500);
-                })
+                });
             });
             document.querySelector('.current-deck-count').innerHTML = totalCardCount;
 
