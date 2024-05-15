@@ -15756,6 +15756,48 @@ function displayList(arr) {
                         }
                     }
 
+        // If both images belong to the same category and it's Pokémon
+        if (idA[0] === "Pokemon") {
+            const stagePriority = {
+                "Stage 2": 0,
+                "Stage 1": 1,
+                "Basic": 2,
+            };
+        
+            const stageA = stagePriority[idA[1]] !== undefined ? stagePriority[idA[1]] : 3; // Assume unknown stages are lowest priority
+            const stageB = stagePriority[idB[1]] !== undefined ? stagePriority[idB[1]] : 3; // Assume unknown stages are lowest priority
+        
+            // Sort by stage priority first
+            if (stageA !== stageB) {
+                return stageA - stageB;
+            }
+        
+            // If stages are the same, check for evolution hierarchy
+            const evolvesFromA = idA[2] ? idA[2] : null;
+            const evolvesFromB = idB[2] ? idB[2] : null;
+        
+            // Sort by evolution hierarchy if both have evolution information
+            if (evolvesFromA && evolvesFromB) {
+                if (evolvesFromA === idB[1]) {
+                    return 1; // A evolves from B, so B should come first
+                } else if (evolvesFromB === idA[1]) {
+                    return -1; // B evolves from A, so A should come first
+                }
+            }
+        
+            // If one card has evolution information and the other doesn't, prioritize the one with evolution info
+            if (evolvesFromA && !evolvesFromB) {
+                return 1; // A should come after B
+            } else if (!evolvesFromA && evolvesFromB) {
+                return -1; // B should come after A
+            }
+        
+            // Default to sorting by count if evolution information is not available or if stages are the same
+            const countA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
+            const countB = parseInt(b.firstChild.getAttribute('alt').match(/\d+/)[0]);
+            return countB - countA;
+        }
+
                     // Default sorting behavior for other categories or when no additional values are present
                     if (idA.length > 1 && idB.length > 1) {
                         const altA = parseInt(a.firstChild.getAttribute('alt').match(/\d+/)[0]);
