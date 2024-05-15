@@ -1599,11 +1599,11 @@ let sixEvent = [
                 numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/palkia-lvx-lost-cyclone.png',
+                cardImg: '../../assets/cards/2008-2010/palkia-lvx.png',
                 numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/palkia-sp.png',
+                cardImg: '../../assets/cards/2008-2010/palkia.png',
                 numImg: '../../assets/01.png'
             },
             {
@@ -2287,7 +2287,7 @@ function displayList2(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2011 Sweden Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2009 UK Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
