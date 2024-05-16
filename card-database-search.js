@@ -151,8 +151,14 @@ function performSearch() {
       return;
    }
 
-   const searchResults = pokemonCard.filter(poke => poke.name?.toLowerCase().includes(searchValue));
-
+   let searchResults;
+   if (searchValue === 'n') {
+       // Special case: search for cards exactly named "N"
+       searchResults = pokemonCard.filter(poke => poke.name?.toLowerCase() === 'n');
+   } else {
+       // General case: search for cards containing the search value
+       searchResults = pokemonCard.filter(poke => poke.name?.toLowerCase().includes(searchValue));
+   }
    setsOl.innerHTML = '';
 
    searchResults.forEach((poke) => {
