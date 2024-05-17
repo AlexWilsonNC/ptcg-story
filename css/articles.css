@@ -398,6 +398,11 @@ img{
     }
 }
 
+@media screen and (min-width: 1500px) {
+    .move-article-img-down {
+        background-position: 0px -50px;
+    }
+}
 @media screen and (max-width: 1400px) {
     .video-blastoise {
         width: 700px;
