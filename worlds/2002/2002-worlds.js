@@ -347,7 +347,7 @@ let masters = [
   },
   {
     firstName: 'Kevin Cheng',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/kingdra.png',
     list: '../../assets/sprites/blank.png',
@@ -617,9 +617,9 @@ let masters = [
   },
   {
     firstName: 'Jonathan Schweppe',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/blastoise.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -988,7 +988,7 @@ let masters = [
   },
   {
     firstName: 'Brain Six',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
@@ -1593,7 +1593,7 @@ let seniors = [
     firstName: 'Jonathan Hausknecht',
     flag: '../../assets/flags/unknown.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/kingdra.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [

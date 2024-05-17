@@ -15682,7 +15682,7 @@ function displayList(arr) {
                     const idB = b.firstChild.id.split(","); // Get ID of the first image in the container
 
                     // Prioritize Pokemon, Trainer, Energy
-                    const priority = ["Pokemon", "Trainer", "Energy"];
+                    const priority = ["Pokémon", "Trainer", "Energy"];
                     const categoryIndexA = priority.indexOf(idA[0]);
                     const categoryIndexB = priority.indexOf(idB[0]);
 
