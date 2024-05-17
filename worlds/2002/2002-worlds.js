@@ -647,15 +647,90 @@ let masters = [
   },
   {
     firstName: 'Eric Brooks',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/espeon.png',
     sprite2: '../../assets/sprites/slowking.png',
-    list: '../../assets/sprites/blank.png',
+    list: '../../assets/list-icon.png',
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil',
+        cardImg: '../../assets/cards/base-fossil/n1.014.slowking.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.073.slowpoke.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n2.001.espeon.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n2.038.eevee_.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.020.cleffa.jpg',
         numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/wizards_black_star_promos.047.mew_.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.022.elekid.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/lc.103.pokemon_trader.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.078.scoop_up.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.090.time_capsule.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.086.focus_band.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/wizards_black_star_promos.042.pokemon_tower.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n4.099.energy_stadium.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.101.psychic_energy.jpg',
+        numImg: '../../assets/17.png',
         oldCard: true
       },
     ]
@@ -677,15 +752,100 @@ let masters = [
   },
   {
     firstName: 'David Marquardt',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    sprite2: '../../assets/sprites/feraligatr.png',
+    list: '../../assets/list-icon.png',
+    type: 'water',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil',
+        cardImg: '../../assets/cards/base-fossil/n4.005.dark_feraligatr.jpg',
         numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n4.032.dark_croconaw.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.081.totodile.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.020.cleffa.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n3.027.suicune.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n2.066.tyrogue.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.012.pichu_.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.022.elekid.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.091.bills_teleporter.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.100.double_gust.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.077.pokemon_trader.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/ro.073.the_bosss_way.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.090.time_capsule.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.093.gold_berry.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n3.063.rockets_hideout.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.102.water_energy.jpg',
+        numImg: '../../assets/14.png',
         oldCard: true
       },
     ]
