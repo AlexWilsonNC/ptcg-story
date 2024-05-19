@@ -853,8 +853,8 @@ let masters = [
   {
     firstName: 'Michael Pramawat',
     flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite1: '../../assets/sprites/espeon.png',
+    sprite2: '../../assets/sprites/umbreon.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
