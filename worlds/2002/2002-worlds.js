@@ -332,15 +332,110 @@ let masters = [
   },
   {
     firstName: 'Joe Spanier',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/lanturn.png',
     sprite2: '../../assets/sprites/slowking.png',
-    list: '../../assets/sprites/blank.png',
+    list: '../../assets/list-icon.png',
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil',
+        cardImg: '../../assets/cards/base-fossil/n1.014.slowking.jpg',
         numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.073.slowpoke.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: 'https://images.pokemontcg.io/neo4/23_hires.png',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: 'https://images.pokemontcg.io/neo3/32_hires.png',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: 'https://images.pokemontcg.io/neo1/55_hires.png',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.020.cleffa.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.024.murkrow.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/si.008.jigglypuff.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.059.gligar.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n2.066.tyrogue.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n2.053.caterpie.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/lc.103.pokemon_trader.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.100.double_gust.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.086.focus_band.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.093.gold_berry.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n3.060.balloon_berry.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.100.lightning_energy.jpg',
+        numImg: '../../assets/10.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.104.darkness_energy.jpg',
+        numImg: '../../assets/03.png',
         oldCard: true
       },
     ]
