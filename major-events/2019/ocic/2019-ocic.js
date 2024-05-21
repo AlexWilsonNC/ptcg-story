@@ -5207,7 +5207,7 @@ let masters = [
   },
   {
     firstName: 'Mohamad Razak',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/malamar.png',
     sprite2: '../../../assets/sprites/necrozma-ultra.png',
     // list: '../../../assets/list-icon.png',
@@ -6283,7 +6283,7 @@ let masters = [
   },
   {
     firstName: 'Colin Tang',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/buzzwole.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../assets/list-icon.png',

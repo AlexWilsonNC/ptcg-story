@@ -579,7 +579,7 @@ let masters = [
     },
     {
       firstName: 'Zi Xing Chiew',
-      flag: '../../../assets/flags/liberia-malaysia.png',
+      flag: '../../../assets/flags/malaysia.png',
       sprite1: '../../../assets/sprites/tapu-bulu.png',
       sprite2: '../../../assets/sprites/vikavolt.png',
       list: '../../../assets/list-icon.png',

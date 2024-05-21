@@ -664,7 +664,7 @@ let masters = [
   },
   {
     firstName: 'Yee Wei Chun',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/volcanion.png',
     list: '../../../assets/list-icon.png',

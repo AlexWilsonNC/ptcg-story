@@ -7211,7 +7211,7 @@ let masters = [
   },
   {
     firstName: 'Colin Tang',
-    flag: '../../assets/flags/liberia-malaysia.png',
+    flag: '../../assets/flags/malaysia.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../assets/list-icon.png',

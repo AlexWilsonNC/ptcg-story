@@ -4886,7 +4886,7 @@ let masters = [
   },
   {
     firstName: 'Syahmi Razak',
-    flag: '../../assets/flags/liberia-malaysia.png',
+    flag: '../../assets/flags/malaysia.png',
     record: '4-3-1',
     sprite1: '../../assets/sprites/blank.png',  
     sprite2: '../../assets/hyphen.png',

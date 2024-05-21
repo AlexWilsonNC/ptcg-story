@@ -2904,7 +2904,7 @@ let seniors = [
   },
   {
     firstName: 'Kit Wai Lim',
-    flag: '../../assets/flags/liberia-malaysia.png',
+    flag: '../../assets/flags/hong-kong.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/nidoqueen.png',
     list: '../../assets/sprites/blank.png',

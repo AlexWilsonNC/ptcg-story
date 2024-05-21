@@ -869,7 +869,7 @@ let masters = [
   },
   {
     firstName: 'Choong Yewkidd',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/volcanion.png',
     // list: '../../../assets/list-icon.png',
@@ -985,7 +985,7 @@ let masters = [
   },
   {
     firstName: 'Mohamad Razak',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/gardevoir-mega.png',
     // list: '../../../assets/list-icon.png',
@@ -1421,7 +1421,7 @@ let masters = [
   },
   {
     firstName: 'Isaac Chen',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
@@ -1662,7 +1662,7 @@ let masters = [
   },
   {
     firstName: 'Athavan Akilan',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/darkrai.png',
     // list: '../../../assets/list-icon.png',
@@ -3095,7 +3095,7 @@ let juniors = [
   },
   {
     firstName: 'Zi Ler Chiew',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/vespiquen.png',
     list: '../../../assets/list-icon.png',

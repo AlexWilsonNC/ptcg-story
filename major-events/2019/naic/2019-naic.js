@@ -4861,7 +4861,7 @@ let masters = [
   },
   {
     firstName: 'Athavan Akilan',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/silvally.png',
     list: '../../../assets/sprites/blank.png'

@@ -19,6 +19,217 @@ function displayList(array = []) {
         flagImg.classList.add('flag-size');
         flagImg.setAttribute('src', "../../../assets/flag-codes/" + item.flag + ".png");
 
+        let countryName = document.createElement('div');
+        countryName.classList.add('country-name');
+        countryName.style.display = 'none';
+
+        flagImg.addEventListener('mouseover', function() {
+            if (flagImg.getAttribute('src').includes('AR')) {
+                countryName.textContent = 'Argentina (Latin America)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('AU')) {
+                countryName.textContent = 'Australia (Oceania)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('AT')) {
+                countryName.textContent = 'Austria (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('BY')) {
+                countryName.textContent = 'Belarus (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('BE')) {
+                countryName.textContent = 'Belgium (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('BR')) {
+                countryName.textContent = 'Brazil (Latin America)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('CA')) {
+                countryName.textContent = 'Canada (North America)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('CL')) {
+                countryName.textContent = 'Chile (Latin America)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('CN')) {
+                countryName.textContent = 'China (Asia-Pacific)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('CO')) {
+                countryName.textContent = 'Colombia (Latin America)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('HR')) {
+                countryName.textContent = 'Croatia (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('CZ')) {
+                countryName.textContent = 'Czechia (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('DK')) {
+                countryName.textContent = 'Denmark (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('SV')) {
+                countryName.textContent = 'El Salvador (Latin America)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('FI')) {
+                countryName.textContent = 'Finland (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('FR')) {
+                countryName.textContent = 'France (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('DE')) {
+                countryName.textContent = 'Germany (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('GR')) {
+                countryName.textContent = 'Greece (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('HK')) {
+                countryName.textContent = 'Hong Kong (Asia-Pacific)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('ID')) {
+                countryName.textContent = 'Indonesia (Asia-Pacific)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('IE')) {
+                countryName.textContent = 'Ireland (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('IL')) {
+                countryName.textContent = 'Israel (Middle East-South Africa)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('IT')) {
+                countryName.textContent = 'Italy (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('JP')) {
+                countryName.textContent = 'Japan (Asia-Pacific)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('KR')) {
+                countryName.textContent = 'South Korea (Asia-Pacific)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('LT')) {
+                countryName.textContent = 'Lithuania (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('MY')) {
+                countryName.textContent = 'Malaysia (Asia-Pacific)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('MT')) {
+                countryName.textContent = 'Malta (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('MX')) {
+                countryName.textContent = 'Mexico (Latin America)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('MA')) {
+                countryName.textContent = 'Moroco (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('NL')) {
+                countryName.textContent = 'Netherlands (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('NZ')) {
+                countryName.textContent = 'New Zealand (Oceania)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('NI')) {
+                countryName.textContent = 'Nicaragua (Latin America)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('NO')) {
+                countryName.textContent = 'Norway (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('PE')) {
+                countryName.textContent = 'Peru (Latin America)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('PH')) {
+                countryName.textContent = 'Philippines (Asia-Pacific)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('PL')) {
+                countryName.textContent = 'Poland (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('PT')) {
+                countryName.textContent = 'Portugal (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('PR')) {
+                countryName.textContent = 'Puerto Rico (North America)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('RU')) {
+                countryName.textContent = 'Russia (Russia)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('SG')) {
+                countryName.textContent = 'Singapore (Asia-Pacific)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('SK')) {
+                countryName.textContent = 'Slovakia (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('ZA')) {
+                countryName.textContent = 'South Africa (Middle East-South Africa)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('ES')) {
+                countryName.textContent = 'Spain (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('SE')) {
+                countryName.textContent = 'Sweden (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('CH')) {
+                countryName.textContent = 'Switzerland (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('TW')) {
+                countryName.textContent = 'Taiwan (Asia-Pacific)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('TH')) {
+                countryName.textContent = 'Thailand (Asia-Pacific)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('UK')) {
+                countryName.textContent = 'United Kingdom (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('US')) {
+                countryName.textContent = 'USA (North America)';
+                countryName.style.display = 'block';
+            }
+        });
+
+        flagImg.addEventListener('mouseout', function() {
+            countryName.style.display = 'none';
+        });
+
         let deck = document.createElement('div');
         deck.classList.add('player-deck-icons');
 
@@ -349,6 +560,7 @@ function displayList(array = []) {
         }
         item_element.appendChild(title);
         title.appendChild(playerName);
+        playerName.appendChild(countryName); // Append the country name element
         playerName.appendChild(flagImg);
         playerName.append(convertToTitleCase(item.name));
         title.appendChild(deck);

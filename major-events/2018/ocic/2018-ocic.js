@@ -2815,7 +2815,7 @@ let masters = [
   },
   {
     firstName: 'Malik Zaihan',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/tapu-bulu.png',
     sprite2: '../../../assets/sprites/vikavolt.png',
     list: '../../../assets/list-icon.png',
@@ -2979,7 +2979,7 @@ let masters = [
   },
   {
     firstName: 'Keng Fai Lee',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/buzzwole.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
         list: '../../../assets/sprites/blank.png',
@@ -3280,7 +3280,7 @@ let masters = [
   },
   {
     firstName: 'Yee Wei Chun',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/tapu-bulu.png',
     sprite2: '../../../assets/sprites/vikavolt.png',
         list: '../../../assets/sprites/blank.png',
@@ -4073,7 +4073,7 @@ let masters = [
   },
   {
     firstName: 'Keith Yong',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/buzzwole.png',
     sprite2: '../../../assets/sprites/lycanroc-midnight.png',
         list: '../../../assets/sprites/blank.png',
@@ -4854,7 +4854,7 @@ let masters = [
   },
   {
     firstName: 'Nicholas Hong',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/tapu-bulu.png',
     sprite2: '../../../assets/sprites/vikavolt.png',
         list: '../../../assets/sprites/blank.png',
@@ -5030,7 +5030,7 @@ let masters = [
   },
   {
     firstName: 'Dominic Chow',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/golisopod.png',
         list: '../../../assets/sprites/blank.png',
@@ -5215,7 +5215,7 @@ let masters = [
   },
   {
     firstName: 'Shane Chee',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/zoroark.png',
     sprite2: '../../../assets/sprites/golisopod.png',
         list: '../../../assets/sprites/blank.png',

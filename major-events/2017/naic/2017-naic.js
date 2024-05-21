@@ -3985,7 +3985,7 @@ let masters = [
   },
   {
     firstName: 'Kylie Chua',
-    flag: '../../../assets/flags/liberia-malaysia.png',
+    flag: '../../../assets/flags/malaysia.png',
     sprite1: '../../../assets/sprites/decidueye.png',
     sprite2: '../../../assets/sprites/ninetales-alola.png',
     // list: '../../../assets/list-icon.png',

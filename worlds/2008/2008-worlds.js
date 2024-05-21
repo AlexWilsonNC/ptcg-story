@@ -2238,7 +2238,7 @@ let seniors = [
   },
   {
     firstName: 'Malik Zaihan',
-    flag: '../../assets/flags/liberia-malaysia.png',
+    flag: '../../assets/flags/malaysia.png',
     sprite1: '../../assets/sprites/gardevoir.png',
     sprite2: '../../assets/sprites/gallade.png',
     list: '../../assets/list-icon.png',
@@ -2897,7 +2897,7 @@ let juniors = [
   },
   {
     firstName: 'Sean Goh',
-    flag: '../../assets/flags/liberia-malaysia.png',
+    flag: '../../assets/flags/malaysia.png',
     sprite1: '../../assets/sprites/gardevoir.png',
     sprite2: '../../assets/sprites/gallade.png',
     list: '../../assets/sprites/blank.png',
