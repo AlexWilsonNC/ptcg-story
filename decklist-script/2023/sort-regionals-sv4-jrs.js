@@ -102,12 +102,24 @@ function displayList(array = []) {
                 countryName.textContent = 'Hong Kong (Asia-Pacific)';
                 countryName.style.display = 'block';
             }
+            if (flagImg.getAttribute('src').includes('HU')) {
+                countryName.textContent = 'Hungary (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('IS')) {
+                countryName.textContent = 'Iceland (Europe)';
+                countryName.style.display = 'block';
+            }
             if (flagImg.getAttribute('src').includes('ID')) {
                 countryName.textContent = 'Indonesia (Asia-Pacific)';
                 countryName.style.display = 'block';
             }
             if (flagImg.getAttribute('src').includes('IE')) {
                 countryName.textContent = 'Ireland (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('IM')) {
+                countryName.textContent = 'Isle of Man (Europe)';
                 countryName.style.display = 'block';
             }
             if (flagImg.getAttribute('src').includes('IL')) {
@@ -120,6 +132,10 @@ function displayList(array = []) {
             }
             if (flagImg.getAttribute('src').includes('JP')) {
                 countryName.textContent = 'Japan (Asia-Pacific)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('SO')) {
+                countryName.textContent = 'Somalia (Middle East-South Africa)';
                 countryName.style.display = 'block';
             }
             if (flagImg.getAttribute('src').includes('KR')) {
@@ -224,6 +240,10 @@ function displayList(array = []) {
             }
             if (flagImg.getAttribute('src').includes('US')) {
                 countryName.textContent = 'USA (North America)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('unknown')) {
+                countryName.textContent = 'Unknown';
                 countryName.style.display = 'block';
             }
         });
