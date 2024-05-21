@@ -354,9 +354,6 @@
     .juniors-ol li:nth-of-type(-n+9) {
         padding-left: 22px !important; 
     }
-    .country-name {
-        font-size: 9px;
-    }
 }
 @media screen and (max-width: 530px) {
     .masters-ol,
