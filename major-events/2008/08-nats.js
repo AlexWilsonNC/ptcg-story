@@ -48,7 +48,7 @@ let masters = [
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2007-2008/p9.014.gible_.jpg',
+                cardImg: 'https://images.pokemontcg.io/dp2/85_hires.png',
                 numImg: '../../assets/03.png',
                 oldCard: true
             },
