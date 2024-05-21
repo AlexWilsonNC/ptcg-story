@@ -767,6 +767,8 @@ function displayList(array = []) {
     
     item_element.appendChild(title);
     title.appendChild(playerName);
+        playerName.appendChild(countryName); // Append the country name element
+        playerName.appendChild(flagImg);
     playerName.append(item.firstName);
     title.appendChild(deck);
     deck.appendChild(firstSprite);

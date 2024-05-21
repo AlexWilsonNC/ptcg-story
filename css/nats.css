@@ -323,7 +323,7 @@
     padding: 10px 0px 10px 35px;
     box-shadow: 5px 5px 10px rgba(11, 4, 30, 0.4);
 } */
-.country-name {
+.country-name-global {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -331,7 +331,7 @@
     margin-left: 20px;
     font-size: 20px;
 }
-.country-name img {
+.country-name-global img {
     opacity: 1;
 }
 .sv1 {
@@ -485,7 +485,7 @@
       }
 }
 @media screen and (max-width: 900px) {
-    .country-name {
+    .country-name-global {
         font-size: 16px;
     }
     .country-txt2 {
@@ -638,7 +638,7 @@
     .up-up {
         margin-top: -7px;
     }
-    .country-name {
+    .country-name-global {
         margin-left: 10px;
     }
 }
@@ -666,7 +666,7 @@
     .collapsible-alt {
         width: 90%;
     }
-    .country-name {
+    .country-name-global {
         margin-left: 5px;
         font-size: 13px;
     }

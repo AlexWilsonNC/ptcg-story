@@ -159,7 +159,7 @@
     justify-content: space-between;
     /* border-radius: 10px; */
 }
-.country-name {
+.country-name-global {
     display: flex;
     align-items: center;
 }
@@ -620,7 +620,7 @@
         font-size: 16px;
         margin-bottom: 5px; 
     }
-    .country-name p {
+    .country-name-global p {
         font-size: 16px;
     }
     .set-white-box {
@@ -751,7 +751,7 @@
     .db-hr2 {
         margin-top: 10px;
     }
-    .country-name p {
+    .country-name-global p {
         font-size: 14px;
     }
     .seperator {

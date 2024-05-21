@@ -707,15 +707,15 @@ body.darkon {
 .hello {
     background-color: rgb(186, 186, 186);
 }
-.country-name {
+.country-name-global {
     transition: ease all 0.2s;
 }
-.set-white-box:hover > .country-name > .set-logo0,
-.set-white-box:hover > .country-name > .set-logo,
-.set-white-box:hover > .country-name > .set-logo2,
-.set-white-box:hover > .country-name > .set-logo3,
-.set-white-box:hover > .country-name > .set-logo4,
-.set-white-box:hover > .country-name > .set-logo5 {
+.set-white-box:hover > .country-name-global > .set-logo0,
+.set-white-box:hover > .country-name-global > .set-logo,
+.set-white-box:hover > .country-name-global > .set-logo2,
+.set-white-box:hover > .country-name-global > .set-logo3,
+.set-white-box:hover > .country-name-global > .set-logo4,
+.set-white-box:hover > .country-name-global > .set-logo5 {
     transform: scale(1.1);
 }
 .set-logo0 {
