@@ -12,6 +12,7 @@ const navrightr = document.getElementById('nav-rightr');
 const latestppr = document.querySelector('.latest-ppr');
  
 const sortevents = document.querySelectorAll('.sort-events');
+const countrynametournaments = document.querySelectorAll('.country-name-tournaments');
 const dropitdown2 = document.querySelector('.drop-it-down2');
 
 const enableDarkMode = () => {
@@ -30,6 +31,11 @@ const enableDarkMode = () => {
     if (sortevents) {
       sortevents.forEach((sortevents) => {
         sortevents.classList.add('darkon');
+      })   
+    }
+    if (countrynametournaments) {
+      countrynametournaments.forEach((countrynametournaments) => {
+        countrynametournaments.classList.add('darkon');
       })   
     }
      featuredheaders.forEach((featuredheaders) => {
@@ -55,6 +61,11 @@ const enableDarkMode = () => {
     if (sortevents) {
       sortevents.forEach((sortevents) => {
         sortevents.classList.remove('darkon');
+      })   
+    }
+    if (countrynametournaments) {
+      countrynametournaments.forEach((countrynametournaments) => {
+        countrynametournaments.classList.remove('darkon');
       })   
     }
     if (latestppr) {

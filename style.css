@@ -386,6 +386,11 @@ color: white;
     transform: translateY(-200%)translateX(-40%);
     white-space: nowrap;
 }
+.country-name-tournaments.darkon {
+    background-color: white;
+    color:black;
+    border:1px solid black;
+}
 
 @media screen and (max-width: 1303px) {
     .filter-text h2 {

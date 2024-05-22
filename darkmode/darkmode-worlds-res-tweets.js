@@ -17,6 +17,7 @@ const hiyamodal = document.querySelector('.modal');
 const h2 = document.querySelectorAll('h2');
 const pp = document.querySelectorAll('p');
 const twittertweet = document.querySelectorAll('.twitter-tweet');
+const countrynametournaments = document.querySelectorAll('.name-n-flag');
 
 
 const enableDarkMode = () => {
@@ -50,6 +51,17 @@ const enableDarkMode = () => {
     h2.forEach((h2) => {
       h2.classList.add('darkon');
     })
+    if (countrynametournaments) {
+      document.querySelectorAll('.country-name').forEach(item => item.style.backgroundColor = 'white');
+      document.querySelectorAll('.country-name').forEach(item => item.style.color = 'black');
+      document.querySelectorAll('.country-name').forEach(item => item.style.border = '1px solid black');
+      function addAttribute(){
+        document.querySelectorAll('.country-name').forEach(item => item.style.backgroundColor = 'white');
+        document.querySelectorAll('.country-name').forEach(item => item.style.color = 'black');
+        document.querySelectorAll('.country-name').forEach(item => item.style.border = '1px solid black');
+      };
+      window.onload = addAttribute;
+    }
 
     twittertweet.forEach((twittertweet) => {
       twittertweet.setAttribute('data-theme', 'dark');
@@ -83,7 +95,17 @@ const enableDarkMode = () => {
       h2.classList.remove('darkon');
     })
     hiyamodal.classList.remove('darkon');
-
+    if (countrynametournaments) {
+      document.querySelectorAll('.country-name').forEach(item => item.style.backgroundColor = 'rgb(45, 45, 45)');
+      document.querySelectorAll('.country-name').forEach(item => item.style.color = 'white');
+      document.querySelectorAll('.country-name').forEach(item => item.style.border = 'none');
+      function addAttribute(){
+        document.querySelectorAll('.country-name').forEach(item => item.style.backgroundColor = 'rgb(45, 45, 45)');
+        document.querySelectorAll('.country-name').forEach(item => item.style.color = 'white');
+        document.querySelectorAll('.country-name').forEach(item => item.style.border = 'none');
+      };
+      window.onload = addAttribute;
+    }
 
     twittertweet.forEach((twittertweet) => {
       twittertweet.setAttribute('data-theme', 'light');

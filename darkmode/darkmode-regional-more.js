@@ -19,7 +19,7 @@ const seniorsol = document.querySelector('.seniors-ol');
 const juniorsol = document.querySelector('.juniors-ol');
 const hiyamodal = document.querySelector('.modal');
 
-// const hover = document.querySelectorAll('.results-list-item');
+const countrynametournaments = document.querySelectorAll('.name-n-flag');
 
 // const socials = document.querySelectorAll(".socials");
 
@@ -57,7 +57,17 @@ const enableDarkMode = () => {
       seniorsol.classList.add('darkon');
       juniorsol.classList.add('darkon');
     }
-
+    if (countrynametournaments) {
+      document.querySelectorAll('.country-name').forEach(item => item.style.backgroundColor = 'white');
+      document.querySelectorAll('.country-name').forEach(item => item.style.color = 'black');
+      document.querySelectorAll('.country-name').forEach(item => item.style.border = '1px solid black');
+      function addAttribute(){
+        document.querySelectorAll('.country-name').forEach(item => item.style.backgroundColor = 'white');
+        document.querySelectorAll('.country-name').forEach(item => item.style.color = 'black');
+        document.querySelectorAll('.country-name').forEach(item => item.style.border = '1px solid black');
+      };
+      window.onload = addAttribute;
+    }
     // socials.forEach((socials) => {
     //   socials.classList.add('darkon');
     // })
@@ -94,7 +104,17 @@ const enableDarkMode = () => {
       seniorsol.classList.remove('darkon');
       juniorsol.classList.remove('darkon');
     }
-
+    if (countrynametournaments) {
+      document.querySelectorAll('.country-name').forEach(item => item.style.backgroundColor = 'rgb(45, 45, 45)');
+      document.querySelectorAll('.country-name').forEach(item => item.style.color = 'white');
+      document.querySelectorAll('.country-name').forEach(item => item.style.border = 'none');
+      function addAttribute(){
+        document.querySelectorAll('.country-name').forEach(item => item.style.backgroundColor = 'rgb(45, 45, 45)');
+        document.querySelectorAll('.country-name').forEach(item => item.style.color = 'white');
+        document.querySelectorAll('.country-name').forEach(item => item.style.border = 'none');
+      };
+      window.onload = addAttribute;
+    }
     // socials.forEach((socials) => {
     //   socials.classList.remove('darkon');
     // })
