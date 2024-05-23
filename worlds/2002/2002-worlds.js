@@ -602,7 +602,7 @@ let masters = [
   },
   {
     firstName: 'David Hausknecht', //https://www.pojo.com/DeckGarage/Decks/August2002/PokemonPosts/My%20Ultimate%20Worlds%20Experience.htm
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/blastoise.png',
     list: '../../assets/list-icon.png',
@@ -1846,7 +1846,7 @@ let seniors = [
   },
   {
     firstName: 'Jonathan Hausknecht',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/kingdra.png',
     list: '../../assets/sprites/blank.png',
@@ -2026,7 +2026,7 @@ let seniors = [
   },
   {
     firstName: 'Dylan Langenstein',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
@@ -2146,7 +2146,7 @@ let seniors = [
   },
   {
     firstName: 'Robbie Borchardt',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
@@ -2450,7 +2450,7 @@ let juniors = [
   },
   {
     firstName: 'Mike Boozer',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
@@ -2833,7 +2833,7 @@ let juniors = [
   },
   {
     firstName: 'Michael Gills',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
@@ -2887,7 +2887,7 @@ let juniors = [
   },
   {
     firstName: 'Richard Langenstein',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
@@ -2914,7 +2914,7 @@ let juniors = [
   },
   {
     firstName: 'Richard Walkowski',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',

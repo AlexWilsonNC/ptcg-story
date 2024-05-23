@@ -184,7 +184,7 @@ let masters = [
     firstName: 'Chris Fulop',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/feraligatr.png',
+    sprite2: '../../../assets/sprites/victreebel.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
