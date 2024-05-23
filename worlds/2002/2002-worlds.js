@@ -209,7 +209,7 @@ let masters = [
     firstName: 'Stephen Silvestro',
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/tyranitar.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -2487,8 +2487,8 @@ let juniors = [
   {
     firstName: 'Chris Fulop',
     flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite1: '../../assets/sprites/kingdra.png',
+    sprite2: '../../assets/sprites/muk.png',
     list: '../../assets/sprites/blank.png',
     type: 'dark',
     deck: []
@@ -2816,8 +2816,8 @@ let juniors = [
   {
     firstName: 'Brian Fulop',
     flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite1: '../../assets/sprites/ninetales.png',
+    sprite2: '../../assets/sprites/steelix.png',
     list: '../../assets/sprites/blank.png',
     type: 'dark',
     deck: []
