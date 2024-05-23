@@ -2402,8 +2402,6 @@ function displayList(array = []) {
     
     item_element.appendChild(title);
     title.appendChild(playerName);
-        playerName.appendChild(countryName); // Append the country name element
-        playerName.appendChild(flagImg);
     playerName.append(item.firstName);
     title.appendChild(deck);
     deck.appendChild(firstSprite);
@@ -2538,8 +2536,6 @@ function displayList2(array = []) {
     
     item_element.appendChild(title);
     title.appendChild(playerName);
-        playerName.appendChild(countryName); // Append the country name element
-        playerName.appendChild(flagImg);
     playerName.append(item.firstName);
     title.appendChild(deck);
     deck.appendChild(firstSprite);
@@ -2673,8 +2669,6 @@ function displayList3(array = []) {
     
     item_element.appendChild(title);
     title.appendChild(playerName);
-        playerName.appendChild(countryName); // Append the country name element
-        playerName.appendChild(flagImg);
     playerName.append(item.firstName);
     title.appendChild(deck);
     deck.appendChild(firstSprite);
