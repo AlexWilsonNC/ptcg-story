@@ -1230,7 +1230,7 @@ let masters = [
     firstName: 'Tommy Derian',
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/feraligatr.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -2914,7 +2914,7 @@ let juniors = [
   },
   {
     firstName: 'Richard Walkowski',
-    flag: '../../assets/flags/usa.png',
+    flag: '../../assets/flags/uk.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
@@ -2941,7 +2941,7 @@ let juniors = [
   },
   {
     firstName: 'Faisal Kahn',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/uk.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
