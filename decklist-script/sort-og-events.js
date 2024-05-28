@@ -237,6 +237,21 @@ function displayList(array = []) {
         let deck = document.createElement('div');
         deck.classList.add('player-deck-icons');
 
+        let deckName = document.createElement('div');
+        deckName.classList.add('decklist-name');
+        deckName.style.display = 'none';
+
+        deck.addEventListener('mouseover', function() {
+            if (item.deckid) {
+                deckName.textContent = item.deckid;
+                deckName.style.display = 'block';
+            }
+        })
+
+        deck.addEventListener('mouseout', function() {
+            deckName.style.display = 'none';
+        });
+
         let firstSprite = document.createElement('img');
         firstSprite.classList.add('sprite');
         firstSprite.setAttribute('src', item.sprite1);
@@ -259,6 +274,7 @@ function displayList(array = []) {
         playerName.appendChild(flagImg);
         playerName.append(convertToTitleCase(item.firstName));
         title.appendChild(deck);
+        deck.appendChild(deckName); // Append the deck name element
         deck.appendChild(firstSprite);
         deck.appendChild(secondSprite);
         if (item.list.includes('./assets/list-icon.png')) {

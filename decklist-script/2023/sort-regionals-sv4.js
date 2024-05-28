@@ -619,6 +619,10 @@ function displayList(array = []) {
                     firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
                     secondSprite.setAttribute('src', "../../../../assets/sprites/miraidon.png");
                 }
+                if (Object.values(pokemon).includes("Feraligatr")) {
+                    firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                    secondSprite.setAttribute('src', "../../../../assets/sprites/feraligatr.png");
+                }
                 if (Object.values(pokemon).includes("Miraidon ex")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Flaaffy")) {

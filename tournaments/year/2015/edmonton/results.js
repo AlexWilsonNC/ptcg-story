@@ -5,6 +5,7 @@ let masters = [
         "event": "2015 Edmonton Regionals",
         sprite1: '../../../../assets/sprites/virizion.png',
         sprite2: '../../../../assets/sprites/genesect.png',
+        deckid: 'VirGen',
         list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
@@ -43,6 +44,7 @@ let masters = [
         "event": "2015 Edmonton Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/groudon-primal.png',
+        deckid: 'Primal Groudon',
         list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
@@ -78,6 +80,7 @@ let masters = [
         "event": "2015 Edmonton Regionals",
         sprite1: '../../../../assets/sprites/virizion.png',
         sprite2: '../../../../assets/sprites/genesect.png',
+        deckid: 'VirGen',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -96,6 +99,7 @@ let masters = [
         "event": "2015 Edmonton Regionals",
         sprite1: '../../../../assets/sprites/trevenant.png',
         sprite2: '../../../../assets/sprites/accelgor.png',
+        deckid: 'TrevGor',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -114,6 +118,7 @@ let masters = [
         "event": "2015 Edmonton Regionals",
         sprite1: '../../../../assets/sprites/virizion.png',
         sprite2: '../../../../assets/sprites/genesect.png',
+        deckid: 'VirGen',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -132,6 +137,7 @@ let masters = [
         "event": "2015 Edmonton Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/groudon-primal.png',
+        deckid: 'Primal Groudon',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -150,6 +156,7 @@ let masters = [
         "event": "2015 Edmonton Regionals",
         sprite1: '../../../../assets/sprites/seismitoad.png',
         sprite2: '../../../../assets/sprites/crawdaunt.png',
+        deckid: 'Seismitoad Crawdaunt',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -168,6 +175,7 @@ let masters = [
         "event": "2015 Edmonton Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/yveltal.png',
+        deckid: 'Yveltal',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
