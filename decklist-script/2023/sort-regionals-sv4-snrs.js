@@ -728,6 +728,9 @@ function displayList(array = []) {
                         } else if (Object.values(pokemon).includes("Comfey")) {
                             firstSprite.setAttribute('src', "../../../../assets/sprites/charizard.png");
                             secondSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
+                        } else if (Object.values(pokemon).includes("Chi-Yu ex")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/pidgeot.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/charizard-shiny.png");
                         }
                     })
                 }
