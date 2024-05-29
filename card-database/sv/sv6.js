@@ -3,6 +3,7 @@ let sv6 = [
         "id": "sv6-1",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -81,6 +82,7 @@ let sv6 = [
         "id": "sv6-2",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -158,6 +160,7 @@ let sv6 = [
         "id": "sv6-3",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -235,6 +238,7 @@ let sv6 = [
         "id": "sv6-4",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -302,6 +306,7 @@ let sv6 = [
         "id": "sv6-5",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -374,6 +379,7 @@ let sv6 = [
         "id": "sv6-6",
         "name": "Sunkern",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -441,6 +447,7 @@ let sv6 = [
         "id": "sv6-7",
         "name": "Sunflora",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -516,6 +523,7 @@ let sv6 = [
         "id": "sv6-8",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -595,6 +603,7 @@ let sv6 = [
         "id": "sv6-9",
         "name": "Volbeat",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -669,6 +678,7 @@ let sv6 = [
         "id": "sv6-10",
         "name": "Illumise",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -743,6 +753,7 @@ let sv6 = [
         "id": "sv6-11",
         "name": "Leafeon",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -818,6 +829,7 @@ let sv6 = [
         "id": "sv6-12",
         "name": "Phantump",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -887,6 +899,7 @@ let sv6 = [
         "id": "sv6-13",
         "name": "Trevenant",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -966,6 +979,7 @@ let sv6 = [
         "id": "sv6-14",
         "name": "Grookey",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -1043,6 +1057,7 @@ let sv6 = [
         "id": "sv6-15",
         "name": "Thwackey",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1120,6 +1135,7 @@ let sv6 = [
         "id": "sv6-16",
         "name": "Rillaboom",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2"
         ],
@@ -1198,6 +1214,7 @@ let sv6 = [
         "id": "sv6-17",
         "name": "Applin",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -1265,6 +1282,7 @@ let sv6 = [
         "id": "sv6-18",
         "name": "Dipplin",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1335,6 +1353,7 @@ let sv6 = [
         "id": "sv6-19",
         "name": "Iron Leaves",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Future"
@@ -1411,6 +1430,7 @@ let sv6 = [
         "id": "sv6-20",
         "name": "Poltchageist",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -1479,6 +1499,7 @@ let sv6 = [
         "id": "sv6-21",
         "name": "Poltchageist",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -1549,6 +1570,7 @@ let sv6 = [
         "id": "sv6-22",
         "name": "Sinistcha",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1620,6 +1642,7 @@ let sv6 = [
         "id": "sv6-23",
         "name": "Sinistcha ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -1695,6 +1718,7 @@ let sv6 = [
         "id": "sv6-24",
         "name": "Teal Mask Ogerpon",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -1766,6 +1790,7 @@ let sv6 = [
         "id": "sv6-25",
         "name": "Teal Mask Ogerpon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Tera",
@@ -1842,6 +1867,7 @@ let sv6 = [
         "id": "sv6-26",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -1910,6 +1936,7 @@ let sv6 = [
         "id": "sv6-27",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1977,6 +2004,7 @@ let sv6 = [
         "id": "sv6-28",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -2047,6 +2075,7 @@ let sv6 = [
         "id": "sv6-29",
         "name": "Magcargo ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1",
             "Tera",
@@ -2132,6 +2161,7 @@ let sv6 = [
         "id": "sv6-30",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -2210,6 +2240,7 @@ let sv6 = [
         "id": "sv6-31",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -2278,6 +2309,7 @@ let sv6 = [
         "id": "sv6-32",
         "name": "Monferno",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2358,6 +2390,7 @@ let sv6 = [
         "id": "sv6-33",
         "name": "Infernape",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2"
         ],
@@ -2432,6 +2465,7 @@ let sv6 = [
         "id": "sv6-34",
         "name": "Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -2510,6 +2544,7 @@ let sv6 = [
         "id": "sv6-35",
         "name": "Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2589,6 +2624,7 @@ let sv6 = [
         "id": "sv6-36",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -2666,6 +2702,7 @@ let sv6 = [
         "id": "sv6-37",
         "name": "Lampent",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2744,6 +2781,7 @@ let sv6 = [
         "id": "sv6-38",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2"
         ],
@@ -2817,6 +2855,7 @@ let sv6 = [
         "id": "sv6-39",
         "name": "Chi-Yu",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -2891,6 +2930,7 @@ let sv6 = [
         "id": "sv6-40",
         "name": "Hearthflame Mask Ogerpon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Tera",
@@ -2971,6 +3011,7 @@ let sv6 = [
         "id": "sv6-41",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -3048,6 +3089,7 @@ let sv6 = [
         "id": "sv6-42",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3128,6 +3170,7 @@ let sv6 = [
         "id": "sv6-43",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2"
         ],
@@ -3205,6 +3248,7 @@ let sv6 = [
         "id": "sv6-44",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -3280,6 +3324,7 @@ let sv6 = [
         "id": "sv6-45",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3356,6 +3401,7 @@ let sv6 = [
         "id": "sv6-46",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -3429,6 +3475,7 @@ let sv6 = [
         "id": "sv6-47",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -3499,6 +3546,7 @@ let sv6 = [
         "id": "sv6-48",
         "name": "Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3578,6 +3626,7 @@ let sv6 = [
         "id": "sv6-49",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -3645,6 +3694,7 @@ let sv6 = [
         "id": "sv6-50",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3719,6 +3769,7 @@ let sv6 = [
         "id": "sv6-51",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -3788,6 +3839,7 @@ let sv6 = [
         "id": "sv6-52",
         "name": "Glalie",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3868,6 +3920,7 @@ let sv6 = [
         "id": "sv6-53",
         "name": "Froslass",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3941,6 +3994,7 @@ let sv6 = [
         "id": "sv6-54",
         "name": "Glaceon",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4016,6 +4070,7 @@ let sv6 = [
         "id": "sv6-55",
         "name": "Phione",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -4089,6 +4144,7 @@ let sv6 = [
         "id": "sv6-56",
         "name": "Froakie",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -4165,6 +4221,7 @@ let sv6 = [
         "id": "sv6-57",
         "name": "Frogadier",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4233,6 +4290,7 @@ let sv6 = [
         "id": "sv6-58",
         "name": "Cramorant",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -4308,6 +4366,7 @@ let sv6 = [
         "id": "sv6-59",
         "name": "Finizen",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -4372,6 +4431,7 @@ let sv6 = [
         "id": "sv6-60",
         "name": "Palafin",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4445,6 +4505,7 @@ let sv6 = [
         "id": "sv6-61",
         "name": "Palafin ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -4521,6 +4582,7 @@ let sv6 = [
         "id": "sv6-62",
         "name": "Iron Bundle",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Future"
@@ -4587,6 +4649,7 @@ let sv6 = [
         "id": "sv6-63",
         "name": "Walking Wake",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Ancient"
@@ -4663,6 +4726,7 @@ let sv6 = [
         "id": "sv6-64",
         "name": "Wellspring Mask Ogerpon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Tera",
@@ -4741,6 +4805,7 @@ let sv6 = [
         "id": "sv6-65",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -4823,6 +4888,7 @@ let sv6 = [
         "id": "sv6-66",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -4900,6 +4966,7 @@ let sv6 = [
         "id": "sv6-67",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4969,6 +5036,7 @@ let sv6 = [
         "id": "sv6-68",
         "name": "Luxray ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -5048,6 +5116,7 @@ let sv6 = [
         "id": "sv6-69",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -5108,6 +5177,7 @@ let sv6 = [
         "id": "sv6-70",
         "name": "Helioptile",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -5184,6 +5254,7 @@ let sv6 = [
         "id": "sv6-71",
         "name": "Heliolisk",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5249,6 +5320,7 @@ let sv6 = [
         "id": "sv6-72",
         "name": "Morpeko",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -5320,6 +5392,7 @@ let sv6 = [
         "id": "sv6-73",
         "name": "Tadbulb",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -5394,6 +5467,7 @@ let sv6 = [
         "id": "sv6-74",
         "name": "Bellibolt",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5473,6 +5547,7 @@ let sv6 = [
         "id": "sv6-75",
         "name": "Wattrel",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -5543,6 +5618,7 @@ let sv6 = [
         "id": "sv6-76",
         "name": "Kilowattrel",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5624,6 +5700,7 @@ let sv6 = [
         "id": "sv6-77",
         "name": "Iron Thorns ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "ex",
@@ -5704,6 +5781,7 @@ let sv6 = [
         "id": "sv6-78",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -5772,6 +5850,7 @@ let sv6 = [
         "id": "sv6-79",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5850,6 +5929,7 @@ let sv6 = [
         "id": "sv6-80",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -5930,6 +6010,7 @@ let sv6 = [
         "id": "sv6-81",
         "name": "Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -6004,6 +6085,7 @@ let sv6 = [
         "id": "sv6-82",
         "name": "Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2"
         ],
@@ -6084,6 +6166,7 @@ let sv6 = [
         "id": "sv6-83",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -6154,6 +6237,7 @@ let sv6 = [
         "id": "sv6-84",
         "name": "Farigiraf",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -6238,6 +6322,7 @@ let sv6 = [
         "id": "sv6-85",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -6318,6 +6403,7 @@ let sv6 = [
         "id": "sv6-86",
         "name": "Flabébé",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -6394,6 +6480,7 @@ let sv6 = [
         "id": "sv6-87",
         "name": "Floette",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -6472,6 +6559,7 @@ let sv6 = [
         "id": "sv6-88",
         "name": "Florges",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2"
         ],
@@ -6546,6 +6634,7 @@ let sv6 = [
         "id": "sv6-89",
         "name": "Swirlix",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -6620,6 +6709,7 @@ let sv6 = [
         "id": "sv6-90",
         "name": "Slurpuff",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -6687,6 +6777,7 @@ let sv6 = [
         "id": "sv6-91",
         "name": "Sandygast",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -6773,6 +6864,7 @@ let sv6 = [
         "id": "sv6-92",
         "name": "Palossand",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -6861,6 +6953,7 @@ let sv6 = [
         "id": "sv6-93",
         "name": "Enamorus",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -6936,6 +7029,7 @@ let sv6 = [
         "id": "sv6-94",
         "name": "Scream Tail ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "ex",
@@ -7021,6 +7115,7 @@ let sv6 = [
         "id": "sv6-95",
         "name": "Munkidori",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -7096,6 +7191,7 @@ let sv6 = [
         "id": "sv6-96",
         "name": "Fezandipiti",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -7164,6 +7260,7 @@ let sv6 = [
         "id": "sv6-97",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -7241,6 +7338,7 @@ let sv6 = [
         "id": "sv6-98",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -7316,6 +7414,7 @@ let sv6 = [
         "id": "sv6-99",
         "name": "Hisuian Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -7394,6 +7493,7 @@ let sv6 = [
         "id": "sv6-100",
         "name": "Hisuian Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -7471,6 +7571,7 @@ let sv6 = [
         "id": "sv6-101",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -7542,6 +7643,7 @@ let sv6 = [
         "id": "sv6-102",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -7623,6 +7725,7 @@ let sv6 = [
         "id": "sv6-103",
         "name": "Timburr",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -7691,6 +7794,7 @@ let sv6 = [
         "id": "sv6-104",
         "name": "Gurdurr",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -7771,6 +7875,7 @@ let sv6 = [
         "id": "sv6-105",
         "name": "Conkeldurr",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2"
         ],
@@ -7850,6 +7955,7 @@ let sv6 = [
         "id": "sv6-106",
         "name": "Greninja ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2",
             "Tera",
@@ -7932,6 +8038,7 @@ let sv6 = [
         "id": "sv6-107",
         "name": "Hawlucha",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -7997,6 +8104,7 @@ let sv6 = [
         "id": "sv6-108",
         "name": "Glimmet",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -8061,6 +8169,7 @@ let sv6 = [
         "id": "sv6-109",
         "name": "Glimmora",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -8137,6 +8246,7 @@ let sv6 = [
         "id": "sv6-110",
         "name": "Ting-Lu",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -8214,6 +8324,7 @@ let sv6 = [
         "id": "sv6-111",
         "name": "Okidogi",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -8284,6 +8395,7 @@ let sv6 = [
         "id": "sv6-112",
         "name": "Cornerstone Mask Ogerpon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Tera",
@@ -8360,6 +8472,7 @@ let sv6 = [
         "id": "sv6-113",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -8437,6 +8550,7 @@ let sv6 = [
         "id": "sv6-114",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -8512,6 +8626,7 @@ let sv6 = [
         "id": "sv6-115",
         "name": "Venipede",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -8592,6 +8707,7 @@ let sv6 = [
         "id": "sv6-116",
         "name": "Whirlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -8673,6 +8789,7 @@ let sv6 = [
         "id": "sv6-117",
         "name": "Scolipede",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2"
         ],
@@ -8752,6 +8869,7 @@ let sv6 = [
         "id": "sv6-118",
         "name": "Brute Bonnet",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Ancient"
@@ -8830,6 +8948,7 @@ let sv6 = [
         "id": "sv6-119",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -8912,6 +9031,7 @@ let sv6 = [
         "id": "sv6-120",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -8986,6 +9106,7 @@ let sv6 = [
         "id": "sv6-121",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -9073,6 +9194,7 @@ let sv6 = [
         "id": "sv6-122",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2"
         ],
@@ -9157,6 +9279,7 @@ let sv6 = [
         "id": "sv6-123",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -9239,6 +9362,7 @@ let sv6 = [
         "id": "sv6-124",
         "name": "Varoom",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -9321,6 +9445,7 @@ let sv6 = [
         "id": "sv6-125",
         "name": "Revavroom",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -9404,6 +9529,7 @@ let sv6 = [
         "id": "sv6-126",
         "name": "Applin",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -9475,6 +9601,7 @@ let sv6 = [
         "id": "sv6-127",
         "name": "Dipplin",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -9533,6 +9660,7 @@ let sv6 = [
         "id": "sv6-128",
         "name": "Dreepy",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -9604,6 +9732,7 @@ let sv6 = [
         "id": "sv6-129",
         "name": "Drakloak",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -9674,6 +9803,7 @@ let sv6 = [
         "id": "sv6-130",
         "name": "Dragapult ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2",
             "Tera",
@@ -9749,6 +9879,7 @@ let sv6 = [
         "id": "sv6-131",
         "name": "Tatsugiri",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -9815,6 +9946,7 @@ let sv6 = [
         "id": "sv6-132",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -9895,6 +10027,7 @@ let sv6 = [
         "id": "sv6-133",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -9974,6 +10107,7 @@ let sv6 = [
         "id": "sv6-134",
         "name": "Blissey ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -10054,6 +10188,7 @@ let sv6 = [
         "id": "sv6-135",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -10139,6 +10274,7 @@ let sv6 = [
         "id": "sv6-136",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -10219,6 +10355,7 @@ let sv6 = [
         "id": "sv6-137",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -10296,6 +10433,7 @@ let sv6 = [
         "id": "sv6-138",
         "name": "Ambipom",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -10370,6 +10508,7 @@ let sv6 = [
         "id": "sv6-139",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -10453,6 +10592,7 @@ let sv6 = [
         "id": "sv6-140",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -10534,6 +10674,7 @@ let sv6 = [
         "id": "sv6-141",
         "name": "Bloodmoon Ursaluna ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "ex"
@@ -10614,6 +10755,7 @@ let sv6 = [
         "id": "sv6-142",
         "name": "Accompanying Flute",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Item"
         ],
@@ -10653,6 +10795,7 @@ let sv6 = [
         "id": "sv6-143",
         "name": "Bug Catching Set",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Item"
         ],
@@ -10692,6 +10835,7 @@ let sv6 = [
         "id": "sv6-144",
         "name": "Caretaker",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -10731,6 +10875,7 @@ let sv6 = [
         "id": "sv6-145",
         "name": "Carmine",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -10770,6 +10915,7 @@ let sv6 = [
         "id": "sv6-146",
         "name": "Community Center",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stadium"
         ],
@@ -10810,6 +10956,7 @@ let sv6 = [
         "id": "sv6-147",
         "name": "Cook",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -10849,6 +10996,7 @@ let sv6 = [
         "id": "sv6-148",
         "name": "Enhanced Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Item"
         ],
@@ -10888,6 +11036,7 @@ let sv6 = [
         "id": "sv6-149",
         "name": "Festival Grounds",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stadium"
         ],
@@ -10927,6 +11076,7 @@ let sv6 = [
         "id": "sv6-150",
         "name": "Handheld Fan",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10967,6 +11117,7 @@ let sv6 = [
         "id": "sv6-151",
         "name": "Hassel",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -11006,6 +11157,7 @@ let sv6 = [
         "id": "sv6-152",
         "name": "Hyper Aroma",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -11048,6 +11200,7 @@ let sv6 = [
         "id": "sv6-153",
         "name": "Jamming Tower",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stadium"
         ],
@@ -11087,6 +11240,7 @@ let sv6 = [
         "id": "sv6-154",
         "name": "Kieran",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -11126,6 +11280,7 @@ let sv6 = [
         "id": "sv6-155",
         "name": "Lana's Aid",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -11165,6 +11320,7 @@ let sv6 = [
         "id": "sv6-156",
         "name": "Love Ball",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Item"
         ],
@@ -11204,6 +11360,7 @@ let sv6 = [
         "id": "sv6-157",
         "name": "Lucian",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -11243,6 +11400,7 @@ let sv6 = [
         "id": "sv6-158",
         "name": "Lucky Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11283,6 +11441,7 @@ let sv6 = [
         "id": "sv6-159",
         "name": "Ogre's Mask",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Item"
         ],
@@ -11322,6 +11481,7 @@ let sv6 = [
         "id": "sv6-160",
         "name": "Perrin",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -11361,6 +11521,7 @@ let sv6 = [
         "id": "sv6-161",
         "name": "Raifort",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -11400,6 +11561,7 @@ let sv6 = [
         "id": "sv6-162",
         "name": "Scoop Up Cyclone",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -11442,6 +11604,7 @@ let sv6 = [
         "id": "sv6-163",
         "name": "Secret Box",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -11484,6 +11647,7 @@ let sv6 = [
         "id": "sv6-164",
         "name": "Survival Brace",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC"
@@ -11527,6 +11691,7 @@ let sv6 = [
         "id": "sv6-165",
         "name": "Unfair Stamp",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -11569,6 +11734,7 @@ let sv6 = [
         "id": "sv6-166",
         "name": "Boomerang Energy",
         "supertype": "Energy",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Special"
         ],
@@ -11606,6 +11772,7 @@ let sv6 = [
         "id": "sv6-167",
         "name": "Legacy Energy",
         "supertype": "Energy",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Special",
             "ACE SPEC"
@@ -11646,6 +11813,7 @@ let sv6 = [
         "id": "sv6-168",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -11723,6 +11891,7 @@ let sv6 = [
         "id": "sv6-169",
         "name": "Sunflora",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -11798,6 +11967,7 @@ let sv6 = [
         "id": "sv6-170",
         "name": "Dipplin",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -11868,6 +12038,7 @@ let sv6 = [
         "id": "sv6-171",
         "name": "Poltchageist",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -11936,6 +12107,7 @@ let sv6 = [
         "id": "sv6-172",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -12014,6 +12186,7 @@ let sv6 = [
         "id": "sv6-173",
         "name": "Infernape",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2"
         ],
@@ -12088,6 +12261,7 @@ let sv6 = [
         "id": "sv6-174",
         "name": "Froslass",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -12161,6 +12335,7 @@ let sv6 = [
         "id": "sv6-175",
         "name": "Phione",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -12234,6 +12409,7 @@ let sv6 = [
         "id": "sv6-176",
         "name": "Cramorant",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -12309,6 +12485,7 @@ let sv6 = [
         "id": "sv6-177",
         "name": "Heliolisk",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -12374,6 +12551,7 @@ let sv6 = [
         "id": "sv6-178",
         "name": "Wattrel",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -12444,6 +12622,7 @@ let sv6 = [
         "id": "sv6-179",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -12524,6 +12703,7 @@ let sv6 = [
         "id": "sv6-180",
         "name": "Enamorus",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -12599,6 +12779,7 @@ let sv6 = [
         "id": "sv6-181",
         "name": "Hisuian Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -12677,6 +12858,7 @@ let sv6 = [
         "id": "sv6-182",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -12758,6 +12940,7 @@ let sv6 = [
         "id": "sv6-183",
         "name": "Timburr",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -12826,6 +13009,7 @@ let sv6 = [
         "id": "sv6-184",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1"
         ],
@@ -12913,6 +13097,7 @@ let sv6 = [
         "id": "sv6-185",
         "name": "Applin",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -12984,6 +13169,7 @@ let sv6 = [
         "id": "sv6-186",
         "name": "Tatsugiri",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -13050,6 +13236,7 @@ let sv6 = [
         "id": "sv6-187",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -13129,6 +13316,7 @@ let sv6 = [
         "id": "sv6-188",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic"
         ],
@@ -13214,6 +13402,7 @@ let sv6 = [
         "id": "sv6-189",
         "name": "Sinistcha ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -13289,6 +13478,7 @@ let sv6 = [
         "id": "sv6-190",
         "name": "Teal Mask Ogerpon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Tera",
@@ -13365,6 +13555,7 @@ let sv6 = [
         "id": "sv6-191",
         "name": "Magcargo ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1",
             "Tera",
@@ -13450,6 +13641,7 @@ let sv6 = [
         "id": "sv6-192",
         "name": "Hearthflame Mask Ogerpon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Tera",
@@ -13530,6 +13722,7 @@ let sv6 = [
         "id": "sv6-193",
         "name": "Palafin ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -13606,6 +13799,7 @@ let sv6 = [
         "id": "sv6-194",
         "name": "Wellspring Mask Ogerpon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Tera",
@@ -13684,6 +13878,7 @@ let sv6 = [
         "id": "sv6-195",
         "name": "Luxray ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -13763,6 +13958,7 @@ let sv6 = [
         "id": "sv6-196",
         "name": "Iron Thorns ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "ex",
@@ -13843,6 +14039,7 @@ let sv6 = [
         "id": "sv6-197",
         "name": "Scream Tail ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "ex",
@@ -13928,6 +14125,7 @@ let sv6 = [
         "id": "sv6-198",
         "name": "Greninja ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2",
             "Tera",
@@ -14010,6 +14208,7 @@ let sv6 = [
         "id": "sv6-199",
         "name": "Cornerstone Mask Ogerpon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Tera",
@@ -14086,6 +14285,7 @@ let sv6 = [
         "id": "sv6-200",
         "name": "Dragapult ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2",
             "Tera",
@@ -14161,6 +14361,7 @@ let sv6 = [
         "id": "sv6-201",
         "name": "Blissey ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14241,6 +14442,7 @@ let sv6 = [
         "id": "sv6-202",
         "name": "Bloodmoon Ursaluna ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "ex"
@@ -14321,6 +14523,7 @@ let sv6 = [
         "id": "sv6-203",
         "name": "Caretaker",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -14360,6 +14563,7 @@ let sv6 = [
         "id": "sv6-204",
         "name": "Carmine",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -14399,6 +14603,7 @@ let sv6 = [
         "id": "sv6-205",
         "name": "Hassel",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -14438,6 +14643,7 @@ let sv6 = [
         "id": "sv6-206",
         "name": "Kieran",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -14477,6 +14683,7 @@ let sv6 = [
         "id": "sv6-207",
         "name": "Lana's Aid",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -14516,6 +14723,7 @@ let sv6 = [
         "id": "sv6-208",
         "name": "Lucian",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -14555,6 +14763,7 @@ let sv6 = [
         "id": "sv6-209",
         "name": "Perrin",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -14594,6 +14803,7 @@ let sv6 = [
         "id": "sv6-210",
         "name": "Sinistcha ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14669,6 +14879,7 @@ let sv6 = [
         "id": "sv6-211",
         "name": "Teal Mask Ogerpon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Tera",
@@ -14745,6 +14956,7 @@ let sv6 = [
         "id": "sv6-212",
         "name": "Hearthflame Mask Ogerpon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Tera",
@@ -14825,6 +15037,7 @@ let sv6 = [
         "id": "sv6-213",
         "name": "Wellspring Mask Ogerpon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Tera",
@@ -14903,6 +15116,7 @@ let sv6 = [
         "id": "sv6-214",
         "name": "Greninja ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Stage 2",
             "Tera",
@@ -14985,6 +15199,7 @@ let sv6 = [
         "id": "sv6-215",
         "name": "Cornerstone Mask Ogerpon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Tera",
@@ -15061,6 +15276,7 @@ let sv6 = [
         "id": "sv6-216",
         "name": "Bloodmoon Ursaluna ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "ex"
@@ -15141,6 +15357,7 @@ let sv6 = [
         "id": "sv6-217",
         "name": "Carmine",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -15180,6 +15397,7 @@ let sv6 = [
         "id": "sv6-218",
         "name": "Kieran",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -15219,6 +15437,7 @@ let sv6 = [
         "id": "sv6-219",
         "name": "Lana's Aid",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -15258,6 +15477,7 @@ let sv6 = [
         "id": "sv6-220",
         "name": "Perrin",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Supporter"
         ],
@@ -15297,6 +15517,7 @@ let sv6 = [
         "id": "sv6-221",
         "name": "Teal Mask Ogerpon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "Tera",
@@ -15373,6 +15594,7 @@ let sv6 = [
         "id": "sv6-222",
         "name": "Bloodmoon Ursaluna ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Basic",
             "ex"
@@ -15453,6 +15675,7 @@ let sv6 = [
         "id": "sv6-223",
         "name": "Buddy-Buddy Poffin",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Item"
         ],
@@ -15492,6 +15715,7 @@ let sv6 = [
         "id": "sv6-224",
         "name": "Enhanced Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Item"
         ],
@@ -15531,6 +15755,7 @@ let sv6 = [
         "id": "sv6-225",
         "name": "Rescue Board",
         "supertype": "Trainer",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -15571,6 +15796,7 @@ let sv6 = [
         "id": "sv6-226",
         "name": "Luminous Energy",
         "supertype": "Energy",
+        "setAbbrev": "TWM",
         "subtypes": [
             "Special"
         ],
@@ -15605,52 +15831,3 @@ let sv6 = [
         }
     }
 ]
-
-// sv6.forEach(cardObject => {
-//     delete cardObject.tcgplayer;
-//     delete cardObject.cardmarket;
-//     delete cardObject.level;
-//     delete cardObject.legalities;
-// })
-// console.log('Edited Set Object - Removing Values', sv6)
-
-const setsOl = document.querySelector('.all-cards');
-const liveSetLogo = document.querySelector('.live-set');
-const releaseDate = document.querySelector('.release-date');
-const cardCount = document.querySelector('.card-count');
-let zoomedImg = document.getElementById("insert-zoomed-img");
-let card = document.getElementsByClassName("database-card-in-list"),
-    zoombox = document.getElementById("zoomed-bg");
-
-function displayList(array = []) {
-    setsOl.innerHTML = '';
-
-    liveSetLogo.innerHTML = '';
-    let imgLogo = document.createElement('img');
-    imgLogo.setAttribute('src', array[0].set.images.logo);
-    liveSetLogo.appendChild(imgLogo);
-    releaseDate.innerHTML = 'US Release Date: ' + array[0].set.releaseDate;
-    cardCount.innerHTML = 'Card Count: ' + array.length;
-
-    for (let i = 0; i < array.length; i++) {
-        let item = array[i];
-        let img = document.createElement('img');
-        img.classList.add('database-card-in-list');
-        img.setAttribute('src', item.images.small);
-        img.loading = 'lazy';
-        // sort set by number
-        array.sort((a,b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
-
-        // zoom card
-        img.onclick = () => {
-            zoomedImg.setAttribute('src', item.images.large);
-            zoombox.className = "show";
-        };
-        zoombox.onclick = () => {
-            zoombox.className = "";
-        };
-        setsOl.appendChild(img);
-    }
-}
-
-displayList(sv6);
