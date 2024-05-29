@@ -156,12 +156,35 @@
 .juniors-ol li:nth-of-type(-n+9) {
     padding-left: 28px; 
 }
-.contain-event {
+.event-results {
     margin-left: 50px;
 }
 .name-n-flag {
     text-align: start;
     white-space: wrap;
+}
+.divisions-new {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: -25px !important;
+    background-color: #191919;
+    width: 100%;
+    padding: 0 25px 10px 25px;
+}
+.divisions-new p,
+.divisions-new a {
+    padding: 7px 12px;
+    border-radius: 10px;
+    color: white;
+}
+.active-division {
+    background-color: #353535;
+}
+.active-division:hover,
+.other-division:hover {
+    background-color: #353535;
+    color: white !important;
 }
 
 @media screen and (max-width: 1500px) {
@@ -393,6 +416,10 @@
         flex-direction: column;
         align-items: flex-start;
         text-align: start;
+    }
+    .divisions-new {
+        width: 95%;
+        padding-left: 35px;
     }
     .place-n-flag img {
         margin: -3px 0 2px;   
