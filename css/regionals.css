@@ -226,6 +226,9 @@
     .regional-container {
         width: 94%;
     }
+    .divisions-new {
+        border-bottom: 2px solid grey;
+    }
 }
 @media screen and (max-width: 800px) {
     .results-list-item {
