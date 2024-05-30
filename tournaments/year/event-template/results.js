@@ -1,8 +1,8 @@
 let masters = [
     {
-        "firstName": "eeeee",
+        "firstName": "eeee",
         flag: '../../../../assets/flags/unknown.png',
-        "event": "2015 eeeeeeee Regionals",
+        "event": "2015 eeee Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
         // list: '../../../../assets/list-icon.png',

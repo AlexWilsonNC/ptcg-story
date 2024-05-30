@@ -45,6 +45,12 @@ const enableDarkMode = () => {
       upcomingeventstable.classList.add('darkon');
     })
 
+    document.querySelectorAll('[src="../assets/flags/globe.png"]').forEach(item => item.setAttribute('src', '../assets/flags/globe-dark.png'));
+    function addAttribute(){
+      document.querySelectorAll('[src="../assets/flags/globe.png"]').forEach(item => item.setAttribute('src', '../assets/flags/globe-dark.png'));
+    };
+    window.onload = addAttribute;
+
     localStorage.setItem('darkMode', 'enabled');
   };
   
@@ -77,6 +83,12 @@ const enableDarkMode = () => {
     upcomingeventstable.forEach((upcomingeventstable) => {
       upcomingeventstable.classList.remove('darkon');
     })
+
+    document.querySelectorAll('[src="../assets/flags/globe-dark.png"]').forEach(item => item.setAttribute('src', '../assets/flags/globe.png'));
+    function addAttribute(){
+      document.querySelectorAll('[src="../assets/flags/globe-dark.png"]').forEach(item => item.setAttribute('src', '../assets/flags/globe.png'));
+    };
+    window.onload = addAttribute;
 
     localStorage.setItem('darkMode', null);
   };
