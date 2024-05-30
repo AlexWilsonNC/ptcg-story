@@ -227,7 +227,7 @@
     bottom: 13px;
     right: 7px;
     font-size: 11px;
-    font-weight: 600;
+    /* font-weight: 600; */
 }
 .featured-box-name-and-date {
     display: flex;
