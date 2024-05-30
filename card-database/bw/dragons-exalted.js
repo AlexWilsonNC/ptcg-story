@@ -672,8 +672,8 @@ let bw6 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/bw6/10.png",
-            "large": "https://images.pokemontcg.io/bw6/10_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/DRX/DRX_010_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/DRX/DRX_010_R_EN.png"
         }
     },
     {
@@ -1571,8 +1571,8 @@ let bw6 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/bw6/23.png",
-            "large": "https://images.pokemontcg.io/bw6/23_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/DRX/DRX_023_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/DRX/DRX_023_R_EN.png"
         }
     },
     {
@@ -1784,8 +1784,8 @@ let bw6 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/bw6/26.png",
-            "large": "https://images.pokemontcg.io/bw6/26_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/DRX/DRX_026_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/DRX/DRX_026_R_EN.png"
         }
     },
     {
@@ -3067,8 +3067,8 @@ let bw6 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/bw6/45.png",
-            "large": "https://images.pokemontcg.io/bw6/45_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/DRX/DRX_045_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/DRX/DRX_045_R_EN.png"
         }
     },
     {

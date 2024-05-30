@@ -10,7 +10,7 @@ const setConvert = {
     "PAL": "sv2",
     "SVI": "sv1",
     "SVE": "sve",
-    "Energy": "importedenergy",
+    "Energy": "sve",
     "PR-SV": "svp",
     // swsh
     "CRZ": "swsh12pt5",

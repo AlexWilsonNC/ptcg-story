@@ -296,8 +296,8 @@ let masters = [
         "firstName": "Zach Elliott",
         flag: '../../../../assets/flags/usa.png',
         "event": "2015 Athens Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/manectric-mega.png',
+        sprite1: '../../../../assets/sprites/manectric-mega.png',
+        sprite2: '../../../../assets/sprites/articuno.png',
         list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [

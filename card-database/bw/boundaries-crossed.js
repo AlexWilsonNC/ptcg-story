@@ -1917,8 +1917,8 @@ let bw7 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/bw7/27.png",
-            "large": "https://images.pokemontcg.io/bw7/27_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BCR/BCR_027_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BCR/BCR_027_R_EN.png"
         }
     },
     {

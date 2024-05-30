@@ -1836,8 +1836,8 @@ let sm4 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/sm4/28.png",
-            "large": "https://images.pokemontcg.io/sm4/28_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CIN/CIN_028_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CIN/CIN_028_R_EN.png"
         }
     },
     {

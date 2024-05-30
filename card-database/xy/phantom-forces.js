@@ -3607,8 +3607,8 @@ let xy4 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/xy4/31.png",
-            "large": "https://images.pokemontcg.io/xy4/31_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PHF/PHF_031_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PHF/PHF_031_R_EN.png"
         },
         "tcgplayer": {
             "url": "https://prices.pokemontcg.io/tcgplayer/xy4-31",

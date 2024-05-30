@@ -7026,8 +7026,8 @@ let bw1 = [
         "rarity": "Common",
          
         "images": {
-            "small": "https://images.pokemontcg.io/bw1/112.png",
-            "large": "https://images.pokemontcg.io/bw1/112_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_112_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_112_R_EN.png"
         }
     },
     {

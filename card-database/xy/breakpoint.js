@@ -203,8 +203,8 @@ let xy9 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/xy9/3.png",
-            "large": "https://images.pokemontcg.io/xy9/3_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BKP/BKP_003_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BKP/BKP_003_R_EN.png"
         }
     },
     {

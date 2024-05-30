@@ -4395,8 +4395,8 @@ let xy11 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/xy11/65.png",
-            "large": "https://images.pokemontcg.io/xy11/65_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/STS/STS_065_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/STS/STS_065_R_EN.png"
         }
     },
     {

@@ -8,7 +8,7 @@ const pokemonCard = [
    ...sv2,
    ...sv1,
    ...sve,
-   ...importedenergy,
+   // ...importedenergy,
    ...ru1,
    ...swsh12pt5,
    ...swsh12,

@@ -1511,8 +1511,8 @@ let swsh1 = [
         ],
         "regulationMark": "D",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh1/14.png",
-            "large": "https://images.pokemontcg.io/swsh1/14_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_014_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_014_R_EN.png"
         },
         "tcgplayer": {
             "url": "https://prices.pokemontcg.io/tcgplayer/swsh1-14",

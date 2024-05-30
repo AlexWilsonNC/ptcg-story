@@ -2663,8 +2663,8 @@ let bw9 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/bw9/39.png",
-            "large": "https://images.pokemontcg.io/bw9/39_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PLF/PLF_039_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PLF/PLF_039_R_EN.png"
         }
     },
     {

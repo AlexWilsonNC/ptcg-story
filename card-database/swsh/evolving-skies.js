@@ -15624,5 +15624,5 @@ let swsh7 = [
     }
 ]
 
-// let order = evolvingSkies.sort((a,b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
+let order = swsh7.sort((a,b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
 // console.log(order)

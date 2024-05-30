@@ -733,8 +733,8 @@ let sm1 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/sm1/11.png",
-            "large": "https://images.pokemontcg.io/sm1/11_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_011_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_011_R_EN.png"
         }
     },
     {
@@ -1779,8 +1779,8 @@ let sm1 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/sm1/26.png",
-            "large": "https://images.pokemontcg.io/sm1/26_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_026_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_026_R_EN.png"
         }
     },
     {

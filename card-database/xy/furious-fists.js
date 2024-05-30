@@ -1089,8 +1089,8 @@ let xy3 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/xy3/16.png",
-            "large": "https://images.pokemontcg.io/xy3/16_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_016_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_016_R_EN.png"
         }
     },
     {
@@ -3142,8 +3142,8 @@ let xy3 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/xy3/45.png",
-            "large": "https://images.pokemontcg.io/xy3/45_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_045_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_045_R_EN.png"
         }
     },
     {
@@ -3209,8 +3209,8 @@ let xy3 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/xy3/46.png",
-            "large": "https://images.pokemontcg.io/xy3/46_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_046_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_046_R_EN.png"
         }
     },
     {
@@ -4458,8 +4458,8 @@ let xy3 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/xy3/63.png",
-            "large": "https://images.pokemontcg.io/xy3/63_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_063_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_063_R_EN.png"
         }
     },
     {
@@ -5807,8 +5807,8 @@ let xy3 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/xy3/82.png",
-            "large": "https://images.pokemontcg.io/xy3/82_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_082_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_082_R_EN.png"
         }
     },
     {
@@ -5879,8 +5879,8 @@ let xy3 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/xy3/83.png",
-            "large": "https://images.pokemontcg.io/xy3/83_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_083_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_083_R_EN.png"
         }
     },
     {
@@ -6685,8 +6685,8 @@ let xy3 = [
         "rarity": "Uncommon",
          
         "images": {
-            "small": "https://images.pokemontcg.io/xy3/102.png",
-            "large": "https://images.pokemontcg.io/xy3/102_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_102_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FFI/FFI_102_R_EN.png"
         }
     },
     {

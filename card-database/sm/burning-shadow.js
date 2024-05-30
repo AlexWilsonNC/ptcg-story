@@ -6230,8 +6230,8 @@ let sm3 = [
         ],
          
         "images": {
-            "small": "https://images.pokemontcg.io/sm3/87.png",
-            "large": "https://images.pokemontcg.io/sm3/87_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BUS/BUS_087_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BUS/BUS_087_R_EN.png"
         }
     },
     {
