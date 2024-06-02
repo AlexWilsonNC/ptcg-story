@@ -368,7 +368,26 @@ function displayList(array = []) {
                                 //sm
                                 sm12, sm11, sm10, sm9, sm8, sm7, sm6, sm5, sm4, sm3, sm2, sm1, det, sm115, sm75, sm35, smp,
                                 //xy
-                                xy12, xy11, xy10, g1, xy9, xy8, xy7, xy6, dc1, xy5, xy4, xy3, xy2, xy1, xy0, xyp, importedenergy
+                                xy12, xy11, xy10, g1, xy9, xy8, xy7, xy6, dc1, xy5, xy4, xy3, xy2, xy1, xy0, xyp
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
+                        } if (item.event.includes('2016')) {
+                            let allSets = {
+                                //xy
+                                xy12, xy11, xy10, g1, xy9, xy8, xy7, xy6, dc1, xy5, xy4, xy3, xy2, xy1, xy0, xyp, 
+                                //unknown - tanner h 2016 worlds srs
+                                fr
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
@@ -401,14 +420,152 @@ function displayList(array = []) {
                             zoombox.onclick = () => {
                                 zoombox.className = "";
                             };
-                        } if (item.event.includes('2001')) {
+                        } if (item.event.includes('2014')) {
                             let allSets = {
-                                //wotc
-                                ecard3, ecard2, ecard1, neo4, neo3, neo2, neo1, gym2, gym1, base6, base5, base4, base3, base2, base1, basep
+                                //xy
+                                xy3, xy2, xy1, xy0, xyp,
+                                //bw
+                                bw11, bw10, bw9, bw8, bw7, bw6, bw5, bw4, bw3, bw2, bw1, dv1, bwp
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
-                            pokeCard.classList.add('old-card');
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
+                        } if (item.event.includes('2013')) {
+                            let allSets = {
+                                //bw
+                                bw11, bw10, bw9, bw8, bw7, bw6, bw5, bw4, bw3, bw2, bw1, dv1, bwp
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
+                        } if (item.event.includes('2012')) {
+                            let allSets = {
+                                //bw
+                                bw6, bw5, bw4, bw3, bw2, bw1, dv1, bwp,
+                                //hgss
+                                col1, hgss4, hgss3, hgss2, hgss1, hsp
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
+                        } if (item.event.includes('2011')) {
+                            let allSets = {
+                                //bw
+                                bw2, bw1, bwp,
+                                //hgss
+                                col1, hgss4, hgss3, hgss2, hgss1, hsp
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
+                        } if (item.event.includes('2010')) {
+                            let allSets = {
+                                //hgss
+                                col1, hgss4, hgss3, hgss2, hgss1, hsp,
+                                //dp
+                                pl4, pl3, pl2, pl1, dp7, dp6, dp5, dp4, dp3, dp2, dp1, dpp,
+                                //other
+                                pop9, pop8, pop7, pop6, pop5, pop4, pop3, pop2, pop1, tk2a, tk1a
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
+                        } if (item.event.includes('2009')) {
+                            let allSets = {
+                                //dp
+                                pl4, pl3, pl2, pl1, dp7, dp6, dp5, dp4, dp3, dp2, dp1, dpp,
+                                //other
+                                pop9, pop8, pop7, pop6, pop5, pop4, pop3, pop2, pop1, tk2a, tk1a
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
+                        } if (item.event.includes('2008')) {
+                            let allSets = {
+                                //dp
+                                dp7, dp6, dp5, dp4, dp3, dp2, dp1, dpp,
+                                //rs
+                                ex16, ex15, ex14, ex13, ex12, ex11, ex10, ex9, ex8, ex7, ex6, ex5, ex4, ex3, ex2, ex1, np,
+                                //other
+                                pop9, pop8, pop7, pop6, pop5, pop4, pop3, pop2, pop1, tk2a, tk1a
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
+                        } if (item.event.includes('2007')) {
+                            let allSets = {
+                                //dp
+                                dp2, dp1, dpp,
+                                //rs
+                                ex16, ex15, ex14, ex13, ex12, ex11, ex10, ex9, ex8, ex7, ex6, ex5, ex4, ex3, ex2, ex1, np,
+                                //other
+                                pop9, pop8, pop7, pop6, pop5, pop4, pop3, pop2, pop1, tk2a, tk1a
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
                             pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
                             let zoomedImg = document.getElementById("insert-zoomed-img");
                             let zoombox = document.getElementById("zoomed-bg");
@@ -424,7 +581,7 @@ function displayList(array = []) {
                                 //rs
                                 ex16, ex15, ex14, ex13, ex12, ex11, ex10, ex9, ex8, ex7, ex6, ex5, ex4, ex3, ex2, ex1, np,
                                 //other
-                                xy0, pop1, pop2, pop3, pop4, pop5, pop6, pop7, pop8, pop9, ru1, si1, tk1a, tk2a, fr
+                                xy0, pop1, pop2, pop3, pop4, pop5, pop6, pop7, pop8, pop9, si1, tk1a, tk2a, fr
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
@@ -439,29 +596,109 @@ function displayList(array = []) {
                             zoombox.onclick = () => {
                                 zoombox.className = "";
                             };
+                        } if (item.event.includes('2005')) {
+                            let allSets = {
+                                //rs
+                                ex16, ex15, ex14, ex13, ex12, ex11, ex10, ex9, ex8, ex7, ex6, ex5, ex4, ex3, ex2, ex1, np,
+                                //other
+                                pop1, pop2, pop3, si1, tk1a, tk2a
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            // pokeCard.classList.add('old-card');
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
+                        } if (item.event.includes('2004')) {
+                            let allSets = {
+                                //rs
+                                ex7, ex6, ex5, ex4, ex3, ex2, ex1, np,
+                                //wotc
+                                ecard3, ecard2, ecard1, neo4, neo3, neo2, neo1, gym2, gym1, base6, base5, base4, base3, base2, base1, basep,
+                                //other
+                                pop1, si1, tk1a, tk2a
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            // pokeCard.classList.add('old-card');
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
+                        } if (item.event.includes('2002')) {
+                            let allSets = {
+                                //wotc
+                                ecard3, ecard2, ecard1, neo4, neo3, neo2, neo1, gym2, gym1, base6, base5, base4, base3, base2, base1, basep,
+                                //other
+                                si1
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            // pokeCard.classList.add('old-card');
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
+                        } if (item.event.includes('2001')) {
+                            let allSets = {
+                                //wotc
+                                ecard3, ecard2, ecard1, neo4, neo3, neo2, neo1, gym2, gym1, base6, base5, base4, base3, base2, base1, basep,
+                                //other
+                                si1
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.classList.add('old-card');
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
+                        } if (item.event.includes('2000')) {
+                            let allSets = {
+                                //wotc
+                                ecard3, ecard2, ecard1, neo4, neo3, neo2, neo1, gym2, gym1, base6, base5, base4, base3, base2, base1, basep,
+                                //other
+                                si1
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.classList.add('old-card');
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
                         }
-
-                        // const allSets = {
-                        //     //swsh
-                        //     swsh12pt5, swsh12, swsh11, pgo, swsh10, swsh9, swsh8, cel25, swsh7, swsh6, swsh5, swsh45, swsh4, swsh35, swsh3, swsh2, swsh1, swshp,
-                        //     //sm
-                        //     sm12, sm11, sm10, sm9, sm8, sm7, sm6, sm5, sm4, sm3, sm2, sm1, det, sm115, sm75, sm35, smp,
-                        //     //xy
-                        //     xy12, xy11, xy10, g1, xy9, xy8, xy7, xy6, dc1, xy5, xy4, xy3, xy2, xy1, xyp,
-                        //     //bw
-                        //     bw11, bw10, bw9, bw8, bw7, bw6, bw5, bw4, bw3, bw2, bw1, dv1, bwp,
-                        //     //hgss
-                        //     col1, hgss4, hgss3, hgss2, hgss1, hsp,
-                        //     //dp
-                        //     pl4, pl3, pl2, pl1, dp7, dp6, dp5, dp4, dp3, dp2, dp1, dpp,
-                        //     //rs
-                        //     ex16, ex15, ex14, ex13, ex12, ex11, ex10, ex9, ex8, ex7, ex6, ex5, ex4, ex3, ex2, ex1, np,
-                        //     //wotc
-                        //     ecard3, ecard2, ecard1, neo4, neo3, neo2, neo1, gym2, gym1, base6, base5, base4, base3, base2, base1, basep,
-                        //     //other
-                        //     xy0, pop1, pop2, pop3, pop4, pop5, pop6, pop7, pop8, pop9, ru1, si1, tk1a, tk2a
-                        // }
-
                         // 60 card checker
                         let sixtyCheck = item.decklist.pokemon.reduce((n, { count }) => n + count, 0) + item.decklist.trainer.reduce((n, { count }) => n + count, 0) + item.decklist.energy.reduce((n, { count }) => n + count, 0);
                         if (sixtyCheck !== 60) {

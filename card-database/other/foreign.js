@@ -8,6 +8,14 @@ let fr = [
         }
     },
     {
+        "id": "fr-75632",
+        "name": "Unknown Card",
+        "images": {
+            "small": "../../assets/cards/energy/question-mark-light.png",
+            "large": "../../assets/cards/energy/question-mark-light.png"
+        }
+    },
+    {
         "id": "fr-1",
         "name": "Moonlight Hill",
         "images": {
