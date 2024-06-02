@@ -1831,9 +1831,9 @@ let seniors = [
   },
   {
     firstName: 'Taylor Davis',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/kingdra.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
