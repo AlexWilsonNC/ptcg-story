@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../assets/sprites/manectric.png',
       list: '../../assets/list-icon.png',
       type: 'water',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Seniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "Seismitoad-EX", "set": "FFI", "number": "20" },
@@ -44,7 +44,7 @@ let masters = [
       sprite2: '../../assets/sprites/donphan.png',
       list: '../../assets/list-icon.png',
       type: 'fighting',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Seniors',
       decklist: {
         "pokemon": [
           { "count": 4, "name": "Donphan", "set": "PLS", "number": "72" },
@@ -81,7 +81,7 @@ let masters = [
       sprite2: '../../assets/sprites/keldeo-resolute.png',
       list: '../../assets/list-icon.png',
       type: 'lightning',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Seniors',
       decklist: {
         "pokemon": [
           { "count": 4, "name": "M Manectric-EX", "set": "PHF", "number": "24" },
@@ -118,7 +118,7 @@ let masters = [
       sprite2: '../../assets/sprites/donphan.png',
       list: '../../assets/list-icon.png',
       type: 'fighting',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Seniors',
       decklist: {
         "pokemon": [
           { "count": 4, "name": "Donphan", "set": "PLS", "number": "72" },
@@ -154,7 +154,7 @@ let masters = [
       sprite2: '../../assets/sprites/bronzong.png',
       list: '../../assets/list-icon.png',
       type: 'metal',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Seniors',
       decklist: {
         "pokemon": [
           { "count": 2, "name": "Klinklang", "set": "PLS", "number": "90" },
@@ -195,7 +195,7 @@ let masters = [
       sprite2: '../../assets/sprites/crobat.png',
       list: '../../assets/list-icon.png',
       type: 'water',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Seniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "Seismitoad-EX", "set": "FFI", "number": "20" },
@@ -233,7 +233,7 @@ let masters = [
       sprite2: '../../assets/sprites/crobat.png',
       list: '../../assets/list-icon.png',
       type: 'water',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Seniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "Seismitoad-EX", "set": "FFI", "number": "20" },
@@ -273,7 +273,7 @@ let masters = [
       sprite2: '../../assets/sprites/terrakion.png',
       list: '../../assets/list-icon.png',
       type: 'lightning',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Seniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "M Manectric-EX", "set": "PHF", "number": "24" },

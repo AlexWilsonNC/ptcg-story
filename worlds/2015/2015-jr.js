@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../assets/sprites/crobat.png',
       list: '../../assets/list-icon.png',
       type: 'fighting',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 2, "name": "Landorus-EX", "set": "BCR", "number": "89" },
@@ -43,7 +43,7 @@ let masters = [
       sprite2: '../../assets/sprites/wobbuffet.png',
       list: '../../assets/list-icon.png',
       type: 'fighting',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "Primal Groudon-EX", "set": "PRC", "number": "86" },
@@ -84,7 +84,7 @@ let masters = [
       sprite2: '../../assets/sprites/crobat.png',
       list: '../../assets/list-icon.png',
       type: 'water',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "Seismitoad-EX", "set": "FFI", "number": "20" },
@@ -123,7 +123,7 @@ let masters = [
       sprite2: '../../assets/sprites/crobat.png',
       list: '../../assets/list-icon.png',
       type: 'fighting',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 2, "name": "Landorus-EX", "set": "BCR", "number": "89" },
@@ -163,7 +163,7 @@ let masters = [
       sprite2: '../../assets/sprites/crobat.png',
       list: '../../assets/list-icon.png',
       type: 'fighting',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 2, "name": "Landorus-EX", "set": "BCR", "number": "89" },
@@ -205,7 +205,7 @@ let masters = [
       sprite2: '../../assets/sprites/donphan.png',
       list: '../../assets/list-icon.png',
       type: 'fighting',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "Donphan", "set": "PLS", "number": "72" },
@@ -247,7 +247,7 @@ let masters = [
       sprite2: '../../assets/sprites/leafeon.png',
       list: '../../assets/list-icon.png',
       type: 'fighting',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 2, "name": "Landorus-EX", "set": "BCR", "number": "89" },
@@ -282,7 +282,7 @@ let masters = [
       sprite2: '../../assets/sprites/blastoise.png',
       list: '../../assets/list-icon.png',
       type: 'water',
-      event: '2015 World Championships',
+      event: '2015 World Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 2, "name": "Blastoise", "set": "BCR", "number": "31" },
