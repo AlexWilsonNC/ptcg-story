@@ -6384,8 +6384,8 @@ let xy2 = [
         "rarity": "Uncommon",
          
         "images": {
-            "small": "https://images.pokemontcg.io/xy2/94.png",
-            "large": "https://images.pokemontcg.io/xy2/94_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FLF/FLF_094_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FLF/FLF_094_R_EN.png"
         }
     },
     {

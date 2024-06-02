@@ -7,15 +7,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel='icon' href="https://i.ibb.co/rFQ53Qq/android-chrome-192x192.png" type='image/x-icon' alt='logo'>
 
-    <meta property='og:title' content='PTCG Legends'/>
-    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg'/>
-    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!'/>
-    <meta property='og:url' content='www.ptcglegends.com'/>
-    <meta property='og:image:width' content='1200' />
-    <meta property='og:image:height' content='627' />    <title>2015 Worlds</title>
-    <link rel="stylesheet" href="../../style.css">
+        <title>2015 World Championships</title>
+        <link rel="canonical" href="https://ptcglegends.com/worlds/2015/results" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="2015 World Championships" />
+        <meta property="og:description" content="2015 Pokémon TCG World Championships - Masters Results" />
+        <meta property="og:url" content="https://ptcglegends.com/worlds/2015/results" />
+        <meta property="og:site_name" content="PTCG Legends" />
+        <meta property="article:publisher" content="https://www.facebook.com/alex.wilson.7503/" />
+        <meta property="og:image" content="../../assets/worlds-logos/2015-worlds-banner.jpg" />
+        <meta property="og:image:width" content="1278" />
+        <meta property="og:image:height" content="426" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta name="author" content="Alex Wilson" />
+    
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@PTCG_Legends">
+        <meta name="twitter:title" content="2015 World Championships - PTCG Legends">
+        <meta name="twitter:description" content="2015 Pokémon TCG World Championships - Masters Results">
+        <meta name="twitter:image" content="">
+
+        <link rel="stylesheet" href="../../style.css">
     <link rel="stylesheet" href="../../css/nav.css">
     <link rel="stylesheet" href="../../css/worlds.css">
+    <link rel="stylesheet" href="../../css/card-database.css">
     <link rel="stylesheet" href="../../css/footer.css">
     <link rel="stylesheet" href="../../css/era.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -123,37 +139,47 @@
         </div>
     </div>
     
-    <div id="zoom-card-box"></div>
-    
     <div id='modal-section'>
         <div class='modal'>
-            <div class='modal-top'>
-                <div class='cs-plus-ap'>
-                    <p class='playerName'>Name</p>
+            <div class='modal-top-new'>
+                <div class='modal-top-parts'>
+                    <div class='cs-plus-ap'>
+                        <p class='playerName'>Name</p>
+                    </div>
+                    <div class='modal-x'>
+                        <p>X</p>
+                    </div>
                 </div>
-                <div class='modal-x'>
-                    <p>X</p>
+                <div class='modal-buttons'>
+                    <button class='copy-to-clip'>Copy to Clipboard</button>
+                    <!-- <button class='change-list-view'>Change List View</button> -->
                 </div>
             </div>
             <div class='modal-bottom'>
                 <!-- <div class='pokemon-card'> -->
-                    <!-- <img class='pok-card-small' src=''> -->
-                    <!-- <img class='num-1' src=''> -->
+                <!-- <img class='pok-card-small' src=''> -->
+                <!-- <img class='num-1' src=''> -->
                 <!-- </div> -->
             </div>
         </div>
     </div>
+    <div class='behind-modal'></div>
+    <div class='second-behind-modal'></div>
+
+    <div id='zoomed-bg'>
+        <img id='insert-zoomed-img' src='' alt='zoomed in card'>
+    </div>
 <div class='behind-modal'></div>
-    <!-- <div class='second-behind-modal'></div> -->
+    <div class='second-behind-modal'></div>
     <div class='contain-event'>
         <div class='event-content'>
             <div class='event-results'>
                 <div class='results-left'>
                     <h2 class='center'>2015 World's Results</h2>
                     <div class='divisions'>
-                        <p class='dark-bg mastersBtn'>Masters</p>
-                        <p class='light-bg seniorsBtn'>Seniors</p>
-                        <p class='light-bg juniorsBtn'>Juniors</p>
+                        <a class='dark-bg mastersBtn' href="./results">Masters</a>
+                        <a class='light-bg seniorsBtn' href="./results-seniors">Seniors</a>
+                        <a class='light-bg juniorsBtn' href="./results-juniors">Juniors</a>
                     </div>
 
                     <ol class='masters-ol'><!--Rendered masters List--></ol>
@@ -172,22 +198,6 @@
                         <p class='center italic' style='padding-bottom: 15px;'>Jacob Van Wagner - 2015 Masters World Champion
                         </p>
                         <blockquote class="twitter-tweet"><p lang="en" dir="ltr">And @NoveltyTag is your Masters World Champion in the TCG! <a href="http://t.co/n8vUtJCBTY">pic.twitter.com/n8vUtJCBTY</a></p>&mdash; Joshua Wittenkeller (@TheJWittz) <a href="https://twitter.com/TheJWittz/status/635487039199313920?ref_src=twsrc%5Etfw">August 23, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                    </div>
-
-                    <div class='seniors-meta'>
-                        <h2 class='center'>Top 8 Bracket</h2>
-                        <img class='meta-chart' src='../../assets/2015/senior-bracket.png'>
-                        <img class='meta-chart' style='border-radius:15px;width: 70%;'
-                            src='../../assets/2015/p-martinez.jpg'>
-                        <p class='center italic'>Patrick Martinez - 2015 Seniors World Champion</p>
-                    </div>
-
-                    <div class='juniors-meta'>
-                        <h2 class='center'>Top 8 Bracket</h2>
-                        <img class='meta-chart' src='../../assets/2015/junior-bracket.png'>
-                        <img class='meta-chart' style='border-radius:15px;width: 70%;'
-                            src='../../assets/2015/stavenow.jpg'>
-                        <p class='center italic'>Rowan Stavenow - 2015 Juniors World Champion</p>
                     </div>
                 </div>
             </div>
@@ -224,18 +234,41 @@
             greatest game in history!</div>
     </footer>
     <script src='../../darkmode/darkmode-worlds-res-tweets.js'></script>
-
      
     <script src='./2015-worlds.js'></script>
-    <script src='../division.js'></script>
-    <script src="index.js"></script>
-    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-    <!-- <script type="text/javascript">
-        window.addEventListener('scroll', function () {
-            var scroll = document.querySelector('.scrollTop');
-            scroll.classList.toggle('active', window.scrollY > 300)
-        });
-    </script> -->
+    <script src='../../decklist-script/sort-og-events.js'></script>
+    <script src='../../decklist-script/convert-set-names.js'></script>
+     
+    <script src='../../card-database/xy/ancient-origins.js'></script>
+    <script src='../../card-database/xy/breakpoint.js'></script>
+    <script src='../../card-database/xy/breakthrough.js'></script>
+    <script src='../../card-database/xy/double-crisis.js'></script>
+    <script src='../../card-database/xy/evolutions.js'></script>
+    <script src='../../card-database/xy/fates-collide.js'></script>
+    <script src='../../card-database/xy/flashfire.js'></script>
+    <script src='../../card-database/xy/furious-fists.js'></script>
+    <script src='../../card-database/xy/generations.js'></script>
+    <script src='../../card-database/xy/phantom-forces.js'></script>
+    <script src='../../card-database/xy/primal-clash.js'></script>
+    <script src='../../card-database/xy/promos.js'></script>
+    <script src='../../card-database/xy/roaring-skies.js'></script>
+    <script src='../../card-database/xy/steam-siege.js'></script>
+    <script src='../../card-database/xy/xy.js'></script>
+    <script src='../../card-database/other/kalos.js'></script>
+
+    <script src='../../card-database/bw/black-white.js'></script>
+    <script src='../../card-database/bw/boundaries-crossed.js'></script>
+    <script src='../../card-database/bw/dark-explorers.js'></script>
+    <script src='../../card-database/bw/dragon-vault.js'></script>
+    <script src='../../card-database/bw/dragons-exalted.js'></script>
+    <script src='../../card-database/bw/emerging-powers.js'></script>
+    <script src='../../card-database/bw/legendary-treasures.js'></script>
+    <script src='../../card-database/bw/next-destinies.js'></script>
+    <script src='../../card-database/bw/noble-victories.js'></script>
+    <script src='../../card-database/bw/plasma-blast.js'></script>
+    <script src='../../card-database/bw/plasma-freeze.js'></script>
+    <script src='../../card-database/bw/plasma-storm.js'></script>
+    <script src='../../card-database/bw/promos.js'></script>
 </body>
 
 </html>
