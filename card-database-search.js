@@ -1,4 +1,5 @@
 const pokemonCard = [
+   ...sv6,
    ...sv5,
    ...svp,
    ...sv4pt5,

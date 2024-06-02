@@ -457,7 +457,7 @@ let masters = [
   },
   {
     firstName: 'Tom Liesegang',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/kingdra.png',
     sprite2: '../../assets/sprites/slowking.png',
     list: '../../assets/sprites/blank.png',
@@ -1213,7 +1213,7 @@ let masters = [
   },
   {
     firstName: 'Alessandro Caserta',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/italy.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
@@ -1996,7 +1996,7 @@ let seniors = [
   },
   {
     firstName: 'Daniel Mermelstein',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
@@ -2116,7 +2116,7 @@ let seniors = [
   },
   {
     firstName: 'Jared Biehl',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blastoise.png',
     sprite2: '../../assets/sprites/steelix.png',
     list: '../../assets/sprites/blank.png',
@@ -2798,8 +2798,8 @@ let juniors = [
   {
     firstName: 'Craig Ting',
     flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite1: '../../assets/sprites/espeon.png',
+    sprite2: '../../assets/sprites/kingdra.png',
     list: '../../assets/sprites/blank.png',
     type: 'dark',
     deck: []
@@ -2835,7 +2835,7 @@ let juniors = [
     firstName: 'Michael Gills',
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/gengar.png',
     list: '../../assets/sprites/blank.png',
     type: 'dark',
     deck: []
