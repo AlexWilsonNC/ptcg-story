@@ -123,7 +123,7 @@ let masters = [
   },
   {
     firstName: '--',
-    flag: '../../../assets/flags/usa.png',
+    flag: '../../../assets/flags/unknown.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
@@ -139,7 +139,7 @@ let masters = [
   },
   {
     firstName: '--',
-    flag: '../../../assets/flags/usa.png',
+    flag: '../../../assets/flags/unknown.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
@@ -171,7 +171,7 @@ let masters = [
   },
   {
     firstName: '--',
-    flag: '../../../assets/flags/usa.png',
+    flag: '../../../assets/flags/unknown.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
@@ -187,7 +187,7 @@ let masters = [
   },
   {
     firstName: '--',
-    flag: '../../../assets/flags/usa.png',
+    flag: '../../../assets/flags/unknown.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
@@ -202,10 +202,10 @@ let masters = [
     ]
   },
   {
-    firstName: '--',
+    firstName: 'Matthew Alvis',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite2: '../../../assets/sprites/crobat.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
