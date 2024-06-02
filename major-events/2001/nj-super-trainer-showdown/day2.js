@@ -962,8 +962,8 @@ let seniors = [
   {
     firstName: 'Brian Six',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite1: '../../../assets/sprites/arcanine.png',
+    sprite2: '../../../assets/sprites/typhlosion.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
