@@ -2027,8 +2027,8 @@ let seniors = [
   {
     firstName: 'Dylan Langenstein',
     flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite1: '../../assets/sprites/feraligatr.png',
+    sprite2: '../../assets/sprites/slowking.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -2889,7 +2889,7 @@ let juniors = [
     firstName: 'Richard Langenstein',
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/tyranitar.png',
     list: '../../assets/sprites/blank.png',
     type: 'dark',
     deck: []
