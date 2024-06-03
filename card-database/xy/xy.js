@@ -8543,8 +8543,8 @@ let xy1 = [
         "rarity": "Uncommon",
          
         "images": {
-            "small": "https://images.pokemontcg.io/xy1/131.png",
-            "large": "https://images.pokemontcg.io/xy1/131_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/XY/XY_131_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/XY/XY_131_R_EN.png"
         }
     },
     {

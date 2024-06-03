@@ -1,5 +1,5 @@
 let masters = [
-{
+    {
         "firstName": "Pacharadanai Boonsup",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -19,7 +19,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Napapol Chanvitan",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -35,24 +35,24 @@ let masters = [
                 { "count": 2, "name": "Cramorant", "set": "LOR", "number": "50" },
                 { "count": 1, "name": "Sableye", "set": "LOR", "number": "70" },
                 { "count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46" },
-                {"count": 1, "name": "Bloodmoon Ursaluna ex", "set": "FR", "number": "28"},
+                { "count": 1, "name": "Bloodmoon Ursaluna ex", "set": "FR", "number": "28" },
             ],
             "trainer": [
                 { "count": 4, "name": "Colress's Experiment", "set": "LOR", "number": "155" },
                 { "count": 2, "name": "Boss’s Orders (Ghetsis)", "set": "PAL", "number": "172" },
                 { "count": 1, "name": "Roxanne", "set": "ASR", "number": "150" },
-                {"count": 1, "name": "Iono", "set": "PAF", "number": "80"},
+                { "count": 1, "name": "Iono", "set": "PAF", "number": "80" },
                 { "count": 4, "name": "Mirage Gate", "set": "LOR", "number": "163" },
                 { "count": 4, "name": "Nest Ball", "set": "PAF", "number": "84" },
-                {"count": 4, "name": "Switch Cart", "set": "ASR", "number": "154"},
+                { "count": 4, "name": "Switch Cart", "set": "ASR", "number": "154" },
                 { "count": 2, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144" },
                 { "count": 2, "name": "Super Rod", "set": "PAL", "number": "188" },
                 { "count": 2, "name": "Counter Catcher", "set": "PAR", "number": "160" },
                 { "count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135" },
-                {"count": 1, "name": "Canceling Cologne", "set": "ASR", "number": "136"},
-                {"count": 1, "name": "Unfair Stamp", "set": "FR", "number": "27"},
+                { "count": 1, "name": "Canceling Cologne", "set": "ASR", "number": "136" },
+                { "count": 1, "name": "Unfair Stamp", "set": "FR", "number": "27" },
                 { "count": 1, "name": "Rescue Board", "set": "TEF", "number": "159" },
-                {"count": 1, "name": "Forest Seal Stone", "set": "SIT", "number": "156"},
+                { "count": 1, "name": "Forest Seal Stone", "set": "SIT", "number": "156" },
                 { "count": 1, "name": "Temple of Sinnoh", "set": "ASR", "number": "155" },
             ],
             "energy": [
@@ -63,7 +63,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Thanthawat Chujitngamsuwong",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -83,7 +83,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Putt Sakdhnagool",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -103,7 +103,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Supachok Kongsuwan",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -123,7 +123,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Tunyavat Wannaprasert",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -143,7 +143,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Naphat Dangsripon",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -163,7 +163,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Phrutthinun Lerksomboon",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -183,7 +183,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Jetnipat Likitsombat",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -203,7 +203,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Athitat Sooksri",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -223,7 +223,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Pipatphoom Rattanakaianan",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -243,7 +243,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Solos Kammalet",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -263,7 +263,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Thongdech Sakprasard",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -283,7 +283,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Poonyapat Leelalumlert",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -303,7 +303,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Amarin Saksit",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
@@ -323,7 +323,7 @@ let masters = [
             ]
         }
     },
-{
+    {
         "firstName": "Najohn Kitsowwapak",
         flag: '../../../../assets/flags/thailand.png',
         "event": "2024 Thailand Championships",
