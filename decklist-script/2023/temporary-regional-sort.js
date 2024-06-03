@@ -293,7 +293,7 @@ function displayList(array = []) {
 
                         const allSets = {
                             // sv
-                            sv5, sv4pt5, fr, sv4, sv3pt5, sv3, sv2, sv1, svp, sve, importedenergy,
+                            sv6, sv5, sv4pt5, fr, sv4, sv3pt5, sv3, sv2, sv1, svp, sve, importedenergy,
                             //swsh
                             swsh12pt5, swsh12, swsh11, pgo, swsh10, swsh9, swsh8, cel25, swsh7, swsh6, swsh5, swsh45, swsh4, swsh35, swsh3, swsh2, swsh1, swshp,
                             //sm
