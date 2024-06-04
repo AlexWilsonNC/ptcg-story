@@ -5,7 +5,7 @@ let masters = [
       sprite1: '../../assets/sprites/accelgor.png',
       sprite2: '../../assets/sprites/trevenant.png',
       list: '../../assets/list-icon.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Seniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "Accelgor", "set": "DEX", "number": "11" },
@@ -43,7 +43,7 @@ let masters = [
       sprite1: '../../assets/sprites/keldeo-resolute.png',
       sprite2: '../../assets/sprites/blastoise.png',
       list: '../../assets/list-icon.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Seniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "Blastoise", "set": "BCR", "number": "31" },
@@ -80,7 +80,7 @@ let masters = [
       sprite1: '../../assets/sprites/landorus-therian.png',
       sprite2: '../../assets/sprites/toxicroak.png',
       list: '../../assets/list-icon.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Seniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "Landorus-EX", "set": "BCR", "number": "89" },
@@ -116,7 +116,7 @@ let masters = [
       sprite1: '../../assets/sprites/yveltal.png',
       sprite2: '../../assets/sprites/garbodor.png',
       list: '../../assets/list-icon.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Seniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
@@ -156,7 +156,7 @@ let masters = [
       sprite1: '../../assets/sprites/lugia.png',
       sprite2: '../../assets/sprites/deoxys.png',
       list: '../../assets/sprites/blank.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Seniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -174,7 +174,7 @@ let masters = [
       sprite1: '../../assets/sprites/flygon.png',
       sprite2: '../../assets/sprites/dusknoir.png',
       list: '../../assets/sprites/blank.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Seniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -192,7 +192,7 @@ let masters = [
       sprite1: '../../assets/sprites/blank.png',
       sprite2: '../../assets/sprites/pyroar.png',
       list: '../../assets/sprites/blank.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Seniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -210,7 +210,7 @@ let masters = [
       sprite1: '../../assets/sprites/virizion.png',
       sprite2: '../../assets/sprites/genesect.png',
       list: '../../assets/sprites/blank.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Seniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},

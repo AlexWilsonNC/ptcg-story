@@ -224,6 +224,14 @@ function displayList(array = []) {
                 countryName.textContent = 'Unknown';
                 countryName.style.display = 'block';
             }
+            if (flagImg.getAttribute('src').includes('slovenia')) {
+                countryName.textContent = 'Slovenia (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('ecuador')) {
+                countryName.textContent = 'Ecuador (Latin America)';
+                countryName.style.display = 'block';
+            }
         });
 
         flagImg.addEventListener('mouseout', function() {

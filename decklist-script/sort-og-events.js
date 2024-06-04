@@ -228,6 +228,14 @@ function displayList(array = []) {
                 countryName.textContent = 'Unknown';
                 countryName.style.display = 'block';
             }
+            if (flagImg.getAttribute('src').includes('slovenia')) {
+                countryName.textContent = 'Slovenia (Europe)';
+                countryName.style.display = 'block';
+            }
+            if (flagImg.getAttribute('src').includes('ecuador')) {
+                countryName.textContent = 'Ecuador (Latin America)';
+                countryName.style.display = 'block';
+            }
         });
 
         flagImg.addEventListener('mouseout', function() {
@@ -719,6 +727,9 @@ function displayList(array = []) {
                         } 
                         if (item.event.includes('Retro')) {
                             numberCounter.setAttribute('src', "../../../../assets/card-count/" + card.count + ".png");
+                        } 
+                        if (item.event.includes('National Championships')) {
+                            numberCounter.setAttribute('src', "../../../assets/card-count/" + card.count + ".png");
                         } 
 
                         cardSpace.appendChild(pokeCard);

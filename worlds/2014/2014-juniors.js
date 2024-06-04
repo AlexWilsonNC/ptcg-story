@@ -5,7 +5,7 @@ let masters = [
       sprite1: '../../assets/sprites/kyurem.png',
       sprite2: '../../assets/sprites/deoxys.png',
       list: '../../assets/list-icon.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "Kyurem", "set": "PLF", "number": "31" },
@@ -43,7 +43,7 @@ let masters = [
       sprite1: '../../assets/sprites/yveltal.png',
       sprite2: '../../assets/sprites/garbodor.png  ',
       list: '../../assets/list-icon.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 2, "name": "Yveltal-EX", "set": "XY", "number": "79" },
@@ -80,7 +80,7 @@ let masters = [
       sprite1: '../../assets/sprites/aromatisse.png',
       sprite2: '../../assets/sprites/deoxys.png',
       list: '../../assets/list-icon.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 2, "name": "Aromatisse", "set": "XY", "number": "93" },
@@ -122,7 +122,7 @@ let masters = [
       sprite1: '../../assets/sprites/yveltal.png',
       sprite2: '../../assets/sprites/garbodor.png',
       list: '../../assets/list-icon.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 2, "name": "Yveltal-EX", "set": "XY", "number": "79" },
@@ -161,7 +161,7 @@ let masters = [
       sprite1: '../../assets/sprites/blank.png',
       sprite2: '../../assets/hyphen.png',
       list: '../../assets/sprites/blank.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Juniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -179,7 +179,7 @@ let masters = [
       sprite1: '../../assets/sprites/yveltal.png',
       sprite2: '../../assets/sprites/raichu.png',
       list: '../../assets/list-icon.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
@@ -213,7 +213,7 @@ let masters = [
       sprite1: '../../assets/sprites/blank.png',
       sprite2: '../../assets/hyphen.png',
       list: '../../assets/sprites/blank.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Juniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -231,7 +231,7 @@ let masters = [
       sprite1: '../../assets/sprites/blank.png',
       sprite2: '../../assets/hyphen.png',
       list: '../../assets/sprites/blank.png',
-      event: '2014 World Championships',
+      event: '2014 World Championships - Juniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
