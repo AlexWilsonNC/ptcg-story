@@ -2,7 +2,7 @@ let masters = [
     {
         "firstName": "--",
         flag: '../../../../assets/flags/unknown.png',
-        "event": "2024 eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "event": "2024 North America Internationals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
         // list: '../../../../assets/list-icon.png',
