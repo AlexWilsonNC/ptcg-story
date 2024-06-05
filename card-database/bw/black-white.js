@@ -6817,7 +6817,7 @@ let bw1 = [
          
         "images": {
             "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_105_R_EN_SM.png",
-            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_105_R_EN_SM.png"
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_105_R_EN.png"
         }
     },
     {
@@ -6847,7 +6847,7 @@ let bw1 = [
          
         "images": {
             "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_106_R_EN_SM.png",
-            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_106_R_EN_SM.png"
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_106_R_EN.png"
         }
     },
     {
