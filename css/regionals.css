@@ -59,6 +59,14 @@
     margin-left: -58px;
     z-index: -1;
 }
+.regional-info-bg-logo-ic {
+    opacity: 0.9;
+    position: absolute;
+    height: 130px;width:auto;
+    left: 49.4%;
+    margin-left: -58px;
+    z-index: -1;
+}
 .regional-info-bg-logo-retro {
     opacity: 0.9;
     position: absolute;
@@ -212,6 +220,11 @@
         left: 50%;
         margin-left: -49px;
     }
+    .regional-info-bg-logo-ic {
+        height: 110px;
+        left: 49.3%;
+        margin-left: -49px;
+    }
     .regional-info-bg-logo-sts {
         height: 50px;
         margin-left: -90px;
@@ -269,6 +282,10 @@
     .regional-info-bg-logo-reg {
         height: 90px;
         margin-left: -39px;
+    }
+    .regional-info-bg-logo-ic {
+        height: 90px;
+        margin-left: -44px;
     }
     .regional-info-bg-logo-sts {
         height: 40px;
@@ -330,6 +347,12 @@
         top: 10%;
     }
     .regional-info-bg-logo-reg {
+        height: 120px;
+        margin-left: -39px;
+        left: 80%;
+        top: 9%;
+    }
+    .regional-info-bg-logo-ic {
         height: 120px;
         margin-left: -39px;
         left: 80%;
@@ -434,6 +457,10 @@
         top: 12%;
     }
     .regional-info-bg-logo-reg {
+        height: 100px;
+        top: 12%;
+    }
+    .regional-info-bg-logo-ic {
         height: 100px;
         top: 12%;
     }
