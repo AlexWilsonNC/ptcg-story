@@ -1,10 +1,10 @@
 let masters = [
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
-        "event": "2024 eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        "firstName": "John Orgel",
+        flag: '../../../../assets/flags/usa.png',
+        "event": "2024 NAIC Retro Celebration (2010)",
+        sprite1: '../../../../assets/sprites/gardevoir.png',
+        sprite2: '../../../../assets/sprites/gallade.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
