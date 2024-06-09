@@ -138,7 +138,7 @@ let masters = [
         "placing": 8,
         "event": "2024 North America International Championships",
         "sprite1": "../../../../assets/sprites/comfey.png",
-        "sprite2": "../../../../assets/sprites/roaring-moon.png",
+        "sprite2": "../../../../assets/sprites/sableye.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
         "decklist": {
