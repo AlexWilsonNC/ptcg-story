@@ -8,7 +8,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/hyphen.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "--",
@@ -19,7 +27,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/hyphen.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Keito Arai",
@@ -30,7 +46,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/gardevoir.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Kaiwen Cabbabe",
@@ -41,7 +65,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/gardevoir.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Sebastian Lashmet",
@@ -52,7 +84,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/gardevoir.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Henry Chao",
@@ -63,7 +103,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/gardevoir.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "NATALIE Millar",
@@ -74,7 +122,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/gardevoir.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "ANDREW GANTNER",
@@ -85,7 +141,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/roaring-moon.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Brent Tonisson",
@@ -96,7 +160,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/gardevoir.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Ben Cryer",
@@ -107,7 +179,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/pidgeot.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Mike Gibbs",
@@ -118,7 +198,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/hyphen.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Grant Manley",
@@ -129,7 +217,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/gardevoir.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Brandon Salazar",
@@ -140,7 +236,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/baxcalibur.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "jacob eye",
@@ -151,7 +255,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/hyphen.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Sawyer Melban",
@@ -204,7 +316,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/hyphen.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Nicholas Moffitt",
@@ -215,18 +335,64 @@ let masters = [
         "sprite2": "../../../../assets/sprites/baxcalibur.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Tord Reklev",
         "flag": "../../../../assets/flags/norway.png",
         "placing": 18,
         "event": "2024 North America International Championships",
-        "sprite1": "../../../../assets/sprites/dragapult.png",
-        "sprite2": "../../../../assets/sprites/charizard.png",
-        // "list": "../../../../assets/list-icon.png",
-        "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "sprite1": "../../../../assets/sprites/charizard.png",
+        "sprite2": "../../../../assets/sprites/dragapult.png",
+        "list": "../../../../assets/list-icon.png",
+        "decklist": {
+            "pokemon": [
+                {"count": 2, "name": "Charizard ex", "set": "PAF", "number": "54"},
+                {"count": 1, "name": "Charmeleon", "set": "PAF", "number": "8"},
+                {"count": 3, "name": "Charmander", "set": "PAF", "number": "7"},
+                {"count": 1, "name": "Dragapult ex", "set": "TWM", "number": "130"},
+                {"count": 1, "name": "Drakloak", "set": "TWM", "number": "129"},
+                {"count": 2, "name": "Dreepy", "set": "TWM", "number": "128"},
+                {"count": 2, "name": "Pidgeot ex", "set": "OBF", "number": "164"},
+                {"count": 1, "name": "Pidgey", "set": "MEW", "number": "16"},
+                {"count": 1, "name": "Pidgey", "set": "OBF", "number": "162"},
+                {"count": 1, "name": "Bibarel", "set": "BRS", "number": "121"},
+                {"count": 1, "name": "Bidoof", "set": "CRZ", "number": "111"},
+                {"count": 1, "name": "Radiant Charizard", "set": "CRZ", "number": "20"},
+                {"count": 1, "name": "Lumineon V", "set": "BRS", "number": "40"},
+                {"count": 1, "name": "Cleffa", "set": "OBF", "number": "80"},
+                {"count": 1, "name": "Manaphy", "set": "BRS", "number": "41"},
+                        ], "trainer": [
+                            {"count": 4, "name": "Arven", "set": "OBF", "number": "186"},
+                            {"count": 2, "name": "Iono", "set": "PAF", "number": "80"},
+                            {"count": 2, "name": "Professor Turo's Scenario", "set": "PAR", "number": "171"},
+                            {"count": 1, "name": "Boss’s Orders (Ghetsis)", "set": "PAL", "number": "172"},
+                            {"count": 4, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144"},
+                            {"count": 4, "name": "Ultra Ball", "set": "SVI", "number": "196"},
+                            {"count": 4, "name": "Rare Candy", "set": "PAF", "number": "89"},
+                            {"count": 2, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+                            {"count": 2, "name": "Super Rod", "set": "PAL", "number": "188"},
+                            {"count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135"},
+                            {"count": 1, "name": "Pal Pad", "set": "SVI", "number": "182"},
+                            {"count": 1, "name": "Unfair Stamp", "set": "TWM", "number": "165"},
+                            {"count": 1, "name": "Forest Seal Stone", "set": "SIT", "number": "156"},
+                            {"count": 1, "name": "Technical Machine: Evolution", "set": "PAR", "number": "178"},
+                            {"count": 1, "name": "Defiance Band", "set": "SVI", "number": "169"},
+                            {"count": 1, "name": "Collapsed Stadium", "set": "BRS", "number": "137"},
+                            {"count": 1, "name": "Temple of Sinnoh", "set": "ASR", "number": "155"},
+                        ], "energy": [
+                {"count": 5, "name": "Basic Fire Energy", "set": "SVE", "number": "2"},
+                {"count": 2, "name": "Basic Psychic Energy", "set": "SVE", "number": "5"},
+            ]
+        }
     },
     {
         "firstName": "Ian Robb",
@@ -237,7 +403,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/iron-crown.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Nico Gist",
@@ -248,7 +422,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/iron-crown.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Alex Schemanske",
@@ -259,7 +441,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/archeops.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Chaz Finchum",
@@ -270,7 +460,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/hyphen.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Alex Kuphal",
@@ -281,7 +479,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/hyphen.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Dylan Gunn",
@@ -292,7 +498,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/baxcalibur.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Isaiah Bradner",
@@ -303,7 +517,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/gardevoir.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Ethan Rible",
@@ -314,7 +536,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/pidgeot.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Gabriel Smart",
@@ -323,9 +553,41 @@ let masters = [
         "event": "2024 North America International Championships",
         "sprite1": "../../../../assets/sprites/blank.png",
         "sprite2": "../../../../assets/sprites/gardevoir.png",
-        // "list": "../../../../assets/list-icon.png",
-        "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "list": "../../../../assets/list-icon.png",
+        "decklist": {
+            "pokemon": [
+                {"count": 4, "name": "Kirlia", "set": "SIT", "number": "68"},
+                {"count": 4, "name": "Ralts", "set": "ASR", "number": "60"},
+                {"count": 2, "name": "Gardevoir ex", "set": "SVI", "number": "86"},
+                {"count": 1, "name": "Munkidori", "set": "TWM", "number": "95"},
+                {"count": 1, "name": "Drifloon", "set": "SVI", "number": "89"},
+                {"count": 1, "name": "Scream Tail", "set": "PR-SV", "number": "65"},
+                {"count": 1, "name": "Flutter Mane", "set": "TEF", "number": "78"},
+                {"count": 1, "name": "Cresselia", "set": "LOR", "number": "74"},
+                {"count": 1, "name": "Klefki", "set": "SVI", "number": "96"},
+                {"count": 1, "name": "Manaphy", "set": "BRS", "number": "41"},
+                            ], "trainer": [
+                                {"count": 4, "name": "Iono", "set": "PAF", "number": "80"},
+                                {"count": 4, "name": "Arven", "set": "OBF", "number": "186"},
+                                {"count": 2, "name": "Professor Turo's Scenario", "set": "PAR", "number": "171"},
+                                {"count": 1, "name": "Boss’s Orders (Ghetsis)", "set": "PAL", "number": "172"},
+                                {"count": 4, "name": "Buddy-Buddy Poffin", "set": "TEF", "number": "144"},
+                                {"count": 2, "name": "Ultra Ball", "set": "SVI", "number": "196"},
+                                {"count": 2, "name": "Earthen Vessel", "set": "PAR", "number": "163"},
+                                {"count": 2, "name": "Super Rod", "set": "PAL", "number": "188"},
+                                {"count": 2, "name": "Nest Ball", "set": "PAF", "number": "84"},
+                                {"count": 2, "name": "Counter Catcher", "set": "PAR", "number": "160"},
+                                {"count": 1, "name": "Hisuian Heavy Ball", "set": "ASR", "number": "146"},
+                                {"count": 1, "name": "Unfair Stamp", "set": "TWM", "number": "165"},
+                                {"count": 1, "name": "Enhanced Hammer", "set": "TWM", "number": "148"},
+                                {"count": 2, "name": "Bravery Charm", "set": "PAL", "number": "173"},
+                                {"count": 2, "name": "Technical Machine: Evolution", "set": "PAR", "number": "178"},
+                                {"count": 2, "name": "Artazon", "set": "PAF", "number": "76"},
+                            ], "energy": [
+                {"count": 8, "name": "Basic Psychic Energy", "set": "SVE", "number": "5"},
+                {"count": 1, "name": "Basic Darkness Energy", "set": "SVE", "number": "7"},
+            ]
+        }
     },
     {
         "firstName": "Cameron Shenoy",
@@ -336,7 +598,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/hyphen.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "James Cox",
@@ -347,7 +617,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/gardevoir.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Shashi Naraine",
@@ -358,7 +636,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/ogerpon.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Henry Brand",
@@ -369,7 +655,15 @@ let masters = [
         "sprite2": "../../../../assets/sprites/gardevoir.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     },
     {
         "firstName": "Isaiah Cheville",
@@ -380,6 +674,14 @@ let masters = [
         "sprite2": "../../../../assets/sprites/archeops.png",
         // "list": "../../../../assets/list-icon.png",
         "list": "../../../../assets/sprites/blank.png",
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
     }
 ]
