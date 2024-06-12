@@ -509,11 +509,11 @@ function displayList(array = []) {
                         } if (item.event.includes('2010')) {
                             let allSets = {
                                 //hgss
-                                col1, hgss4, hgss3, hgss2, hgss1, hsp,
+                                hgss2, hgss1, hsp,
                                 //dp
                                 pl4, pl3, pl2, pl1, dp7, dp6, dp5, dp4, dp3, dp2, dp1, dpp,
                                 //other
-                                pop9, pop8, pop7, pop6, pop5, pop4, pop3, pop2, pop1, tk2a, tk1a
+                                pop9, pop8, pop7, pop6, tk2a, tk1a
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
