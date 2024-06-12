@@ -814,8 +814,8 @@ let masters = [
         list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 3, "name": "Kyurem", "set": "PLF", "number": 31 },
                 { "count": 4, "name": "Deoxys-EX", "set": "PLF", "number": 53 },
+                { "count": 3, "name": "Kyurem", "set": "PLF", "number": 31 },
                 { "count": 2, "name": "Thundurus-EX", "set": "PLF", "number": 38 },
                 { "count": 1, "name": "Lugia-EX", "set": "PLS", "number": "108" },
             ], "trainer": [

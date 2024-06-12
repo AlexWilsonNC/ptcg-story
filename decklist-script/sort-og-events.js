@@ -490,7 +490,7 @@ function displayList(array = []) {
                         } if (item.event.includes('2011')) {
                             let allSets = {
                                 //bw
-                                bw2, bw1, bwp,
+                                bw1, bwp,
                                 //hgss
                                 col1, hgss4, hgss3, hgss2, hgss1, hsp
                             }
