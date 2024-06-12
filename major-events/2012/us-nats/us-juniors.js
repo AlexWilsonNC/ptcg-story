@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../../assets/sprites/sableye.png',
       // list: '../../../assets/list-icon.png',
       list: '../../../assets/sprites/blank.png',
-      event: '2012 US National Championships',
+      event: '2012 US National Championships - Juniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -26,7 +26,7 @@ let masters = [
       sprite1: '../../../assets/sprites/celebi.png',
       sprite2: '../../../assets/sprites/mewtwo.png',
       list: '../../../assets/list-icon.png',
-      event: '2012 US National Championships',
+      event: '2012 US National Championships - Juniors',
       decklist: {
         "pokemon": [
           { "count": 3, "name": "Celebi", "set": "TM", "number": "92" },
@@ -62,7 +62,7 @@ let masters = [
       sprite2: '../../../assets/sprites/darkrai.png',
       // list: '../../../assets/list-icon.png',
       list: '../../../assets/sprites/blank.png',
-      event: '2012 US National Championships',
+      event: '2012 US National Championships - Juniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -83,7 +83,7 @@ let masters = [
       sprite2: '../../../assets/sprites/darkrai.png',
       // list: '../../../assets/list-icon.png',
       list: '../../../assets/sprites/blank.png',
-      event: '2012 US National Championships',
+      event: '2012 US National Championships - Juniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -104,7 +104,7 @@ let masters = [
       sprite2: '../../../assets/sprites/mewtwo.png',
       // list: '../../../assets/list-icon.png',
       list: '../../../assets/sprites/blank.png',
-      event: '2012 US National Championships',
+      event: '2012 US National Championships - Juniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -125,7 +125,7 @@ let masters = [
       sprite2: '../../../assets/hyphen.png',
       // list: '../../../assets/list-icon.png',
       list: '../../../assets/sprites/blank.png',
-      event: '2012 US National Championships',
+      event: '2012 US National Championships - Juniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -146,7 +146,7 @@ let masters = [
       sprite2: '../../../assets/hyphen.png',
       // list: '../../../assets/list-icon.png',
       list: '../../../assets/sprites/blank.png',
-      event: '2012 US National Championships',
+      event: '2012 US National Championships - Juniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -167,7 +167,7 @@ let masters = [
       sprite2: '../../../assets/hyphen.png',
       // list: '../../../assets/list-icon.png',
       list: '../../../assets/sprites/blank.png',
-      event: '2012 US National Championships',
+      event: '2012 US National Championships - Juniors',
       decklist: {
         "pokemon": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
