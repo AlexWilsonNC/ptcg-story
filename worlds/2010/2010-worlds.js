@@ -439,8 +439,8 @@ let masters = [
   {
     firstName: 'Tomi Sjöblom',
     flag: '../../assets/flags/finland.png',
-    sprite1: '../../assets/sprites/regigigas.png',
-    sprite2: '../../assets/sprites/abomasnow.png',
+    sprite1: '../../assets/sprites/blank.png',
+    sprite2: '../../assets/sprites/regigigas.png',
     list: '../../assets/list-icon.png',
     event: '2010 World Championships',
     decklist: {
@@ -709,8 +709,8 @@ let masters = [
   {
     firstName: 'Toni Taitto',
     flag: '../../assets/flags/finland.png',
-    sprite1: '../../assets/sprites/donphan.png',
-    sprite2: '../../assets/sprites/manectric.png',
+    sprite1: '../../assets/sprites/blank.png',
+    sprite2: '../../assets/sprites/donphan.png',
     list: '../../assets/list-icon.png',
     event: '2010 World Championships',
     decklist: {

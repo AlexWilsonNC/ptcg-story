@@ -209,8 +209,8 @@ let masters = [
     {
       firstName: 'Toya Nishimaki',
       flag: '../../assets/flags/japan.png',
-      sprite1: '../../assets/sprites/donphan.png',
-      sprite2: '../../assets/sprites/entei.png',
+      sprite1: '../../assets/sprites/blank.png',
+      sprite2: '../../assets/sprites/donphan.png',
       list: '../../assets/sprites/blank.png',
       event: '2010 World Championships - Seniors',
       decklist: {
@@ -399,8 +399,8 @@ let masters = [
     {
       firstName: 'Ojvind Svinhufvud',
       flag: '../../assets/flags/finland.png',
-      sprite1: '../../assets/sprites/donphan.png',
-      sprite2: '../../assets/sprites/manectric.png',
+      sprite1: '../../assets/sprites/blank.png',
+      sprite2: '../../assets/sprites/donphan.png',
       list: '../../assets/list-icon.png',
       event: '2010 World Championships - Seniors',
       decklist: {

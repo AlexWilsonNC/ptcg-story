@@ -2896,8 +2896,8 @@ let masters = [
   {
     firstName: 'Matthew L',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/donphan.png',
-    sprite2: '../../../assets/sprites/manectric.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/donphan.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     event: '2010 US National Championships',
