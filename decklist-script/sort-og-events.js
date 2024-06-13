@@ -532,7 +532,7 @@ function displayList(array = []) {
                         } if (item.event.includes('2009')) {
                             let allSets = {
                                 //dp
-                                pl4, pl3, pl2, pl1, dp7, dp6, dp5, dp4, dp3, dp2, dp1, dpp,
+                                pl2, pl1, dp7, dp6, dp5, dp4, dp3, dp2, dp1, dpp,
                                 //other
                                 pop9, pop8, pop7, pop6, pop5, pop4, pop3, pop2, pop1, tk2a, tk1a
                             }
