@@ -1,9 +1,3 @@
-const masterList = document.querySelector('.masters-ol');
-const seniorList = document.querySelector('.seniors-ol');
-const juniorList = document.querySelector('.juniors-ol');
-
-const modalBottom = document.querySelector('.modal-bottom');
-
 let masters = [
   {
     firstName: 'Kyle Sucevich',
@@ -11,134 +5,44 @@ let masters = [
     sprite1: '../../../assets/sprites/luxray.png',
     sprite2: '../../../assets/sprites/infernape.png',
     list: '../../../assets/list-icon.png',
-    type: 'dark',
-    deck: [
-      {
-                cardImg: '../../../assets/cards/2008-2010/luxray-lvx.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/luxray.jpg',
-            numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/infernape-lvx.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/infernape-sp.png',
-            numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/uxie-lvx.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/uxie.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/azelf.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
-            numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/bronzong.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/crobat.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/lucario.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/ninetales.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/pl.102.vulpix.jpg',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/claydol.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/baltoy-fighting.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/la.014.rayquaza.jpg',
-            numImg: '../../../assets/01.png',
-            oldCard: true
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/chatot.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
-            numImg: '../../../assets/04.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/cyrus-conspiracy.png',
-            numImg: '../../../assets/04.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
-            numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
-            numImg: '../../../assets/04.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/sp-radar.png',
-            numImg: '../../../assets/03.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/power-spray.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/night-maintenance.png',
-            numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/premier-ball.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
-            numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/energy-gain.png',
-            numImg: '../../../assets/04.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/stark-mountain.png',
-            numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/energy/fire-energy-capsule.png',
-            numImg: '../../../assets/06.png',
-            },
-            {
-                cardImg: '../../../assets/cards/energy/lightning-energy-capsule.png',
-            numImg: '../../../assets/03.png',
-            },
-            {
-                cardImg: '../../../assets/cards/energy/call-energy.png',
-            numImg: '../../../assets/03.png',
-            },
-    ]
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        { "count": 1, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
+        { "count": 2, "name": "Luxray GL", "set": "RR", "number": "9" },
+        { "count": 1, "name": "Infernape E4 LV.X", "set": "RR", "number": "108" },
+        { "count": 2, "name": "Infernape E4", "set": "RR", "number": "43" },
+        { "count": 1, "name": "Uxie LV.X", "set": "LA", "number": "146" },
+        { "count": 1, "name": "Uxie", "set": "LA", "number": "43" },
+        { "count": 1, "name": "Azelf", "set": "LA", "number": "19" },
+        { "count": 2, "name": "Unown G", "set": "GE", "number": "57" },
+        { "count": 1, "name": "Bronzong G", "set": "PL", "number": "41" },
+        { "count": 1, "name": "Crobat G", "set": "PL", "number": "47" },
+        { "count": 1, "name": "Lucario GL", "set": "RR", "number": "8" },
+        { "count": 1, "name": "Ninetales", "set": "MT", "number": "32" },
+        { "count": 1, "name": "Vulpix", "set": "PL", "number": "102" },
+        { "count": 1, "name": "Claydol", "set": "GE", "number": "15" },
+        { "count": 1, "name": "Baltoy", "set": "GE", "number": "60" },
+        { "count": 1, "name": "Rayquaza", "set": "LA", "number": "14" },
+        { "count": 1, "name": "Chatot", "set": "MD", "number": "55" },
+      ], "trainer": [
+        { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": "125" },
+        { "count": 4, "name": "Cyrus's Conspiracy", "set": "PL", "number": "105" },
+        { "count": 2, "name": "Bebe's Search", "set": "SW", "number": "119" },
+        { "count": 4, "name": "Team Galactic's Invention G-105 Poké Turn", "set": "PL", "number": "118" },
+        { "count": 3, "name": "Team Galactic's Invention G-109 SP Radar", "set": "RR", "number": "96" },
+        { "count": 1, "name": "Team Galactic's Invention G-103 Power Spray", "set": "PL", "number": "117" },
+        { "count": 2, "name": "Night Maintenance", "set": "MT", "number": "113" },
+        { "count": 1, "name": "Premier Ball", "set": "GE", "number": "101" },
+        { "count": 1, "name": "Luxury Ball", "set": "SF", "number": "86" },
+        { "count": 4, "name": "Team Galactic's Invention G-101 Energy Gain", "set": "PL", "number": "116" },
+        { "count": 2, "name": "Stark Mountain", "set": "LA", "number": "135" },
+      ], "energy": [
+        { "count": 6, "name": "Fire Energy", "set": "DP", "number": "124" },
+        { "count": 3, "name": "Lightning Energy", "set": "DP", "number": "126" },
+        { "count": 3, "name": "Call Energy", "set": "MD", "number": "92" },
+      ]
+    },
   },
   {
     firstName: 'Darrell Moreno',
@@ -146,106 +50,37 @@ let masters = [
     sprite1: '../../../assets/sprites/luxray.png',
     sprite2: '../../../assets/sprites/manectric.png',
     list: '../../../assets/list-icon.png',
-    type: 'dark',
-    deck: [
-      {
-                cardImg: '../../../assets/cards/2008-2010/luxray-lvx.png',
-                numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/luxray.jpg',
-                numImg: '../../../assets/03.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/manectric.png',
-                numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/electrike.png',
-                numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/crobat.png',
-                numImg: '../../../assets/03.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/uxie.png',
-                numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/azelf.png',
-                numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/giratina.png',
-                numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
-                numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/cyrus-conspiracy.png',
-                numImg: '../../../assets/04.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
-                numImg: '../../../assets/04.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
-                numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/cynthias-feelings.png',
-                numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/looker.png',
-                numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/aarons-collection.png',
-                numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
-                numImg: '../../../assets/04.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/pluspower.png',
-                numImg: '../../../assets/03.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/power-spray.png',
-                numImg: '../../../assets/03.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/sp-radar.png',
-                numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
-                numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/energy-gain.png',
-                numImg: '../../../assets/03.png',
-            },
-            {
-            cardImg: '../../../assets/cards/2008-2010/rr.094.sunyshore_city_gym.jpg',
-                numImg: '../../../assets/02.png',
-                oldCard: true
-            },
-            {
-                cardImg: '../../../assets/cards/energy/lightning-energy-capsule.png',
-                numImg: '../../../assets/08.png',
-            },
-            {
-                cardImg: '../../../assets/cards/energy/call-energy.png',
-                numImg: '../../../assets/04.png',
-            },
-    ]
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        { "count": 1, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
+        { "count": 3, "name": "Luxray GL", "set": "RR", "number": "9" },
+        { "count": 2, "name": "Manectric", "set": "PL", "number": "11" },
+        { "count": 2, "name": "Electrike", "set": "PL", "number": "74" },
+        { "count": 3, "name": "Crobat G", "set": "PL", "number": "47" },
+        { "count": 2, "name": "Uxie", "set": "LA", "number": "43" },
+        { "count": 1, "name": "Azelf", "set": "LA", "number": "19" },
+        { "count": 1, "name": "Giratina", "set": "PL", "number": "9" },
+        { "count": 1, "name": "Unown G", "set": "GE", "number": "57" },
+      ], "trainer": [
+        { "count": 4, "name": "Cyrus's Conspiracy", "set": "PL", "number": "105" },
+        { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": "125" },
+        { "count": 2, "name": "Bebe's Search", "set": "SW", "number": "119" },
+        { "count": 2, "name": "Cynthia's Feelings", "set": "LA", "number": "131" },
+        { "count": 1, "name": "Looker's Investigation", "set": "PL", "number": "109" },
+        { "count": 1, "name": "Aaron's Collection", "set": "RR", "number": "88" },
+        { "count": 4, "name": "Team Galactic's Invention G-105 Poké Turn", "set": "PL", "number": "118" },
+        { "count": 3, "name": "PlusPower", "set": "DP", "number": "109" },
+        { "count": 3, "name": "Team Galactic's Invention G-103 Power Spray", "set": "PL", "number": "117" },
+        { "count": 2, "name": "Team Galactic's Invention G-109 SP Radar", "set": "RR", "number": "96" },
+        { "count": 1, "name": "Luxury Ball", "set": "SF", "number": "86" },
+        { "count": 3, "name": "Team Galactic's Invention G-101 Energy Gain", "set": "PL", "number": "116" },
+        { "count": 2, "name": "Sunyshore City Gym", "set": "RR", "number": "94" },
+      ], "energy": [
+        { "count": 8, "name": "Lightning Energy", "set": "DP", "number": "126" },
+        { "count": 4, "name": "Call Energy", "set": "MD", "number": "92" },
+      ]
+    },
   },
   {
     firstName: 'Anthony Eason',
@@ -254,12 +89,18 @@ let masters = [
     sprite2: '../../../assets/sprites/palkia.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -269,12 +110,18 @@ let masters = [
     sprite2: '../../../assets/sprites/palkia.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -284,12 +131,18 @@ let masters = [
     sprite2: '../../../assets/sprites/palkia.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -299,12 +152,18 @@ let masters = [
     sprite2: '../../../assets/sprites/starmie.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -314,12 +173,18 @@ let masters = [
     sprite2: '../../../assets/sprites/gengar.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -329,12 +194,18 @@ let masters = [
     sprite2: '../../../assets/sprites/palkia.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -343,88 +214,32 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/kingdra.png',
     list: '../../../assets/list-icon.png',
-    type: 'dark',
-    deck: [
-      {
-                cardImg: '../../../assets/cards/2008-2010/la.007.kingdra.jpg',
-                numImg: '../../../assets/04.png',
-                oldCard: true
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/la.070.seadra.jpg',
-                numImg: '../../../assets/03.png',
-                oldCard: true
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/la.102.horsea.jpg',
-                numImg: '../../../assets/04.png',
-                oldCard: true
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/claydol.png',
-                numImg: '../../../assets/03.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/baltoy-fighting.png',
-                numImg: '../../../assets/03.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/crobat.png',
-                numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/uxie.png',
-                numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
-                numImg: '../../../assets/04.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
-                numImg: '../../../assets/04.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/cynthias-feelings.png',
-                numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/rare-candy-2008.png',
-                numImg: '../../../assets/04.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/super-scoop-up-2007.png',
-                numImg: '../../../assets/04.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
-                numImg: '../../../assets/04.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
-                numImg: '../../../assets/03.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/pluspower.png',
-                numImg: '../../../assets/03.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/night-maintenance.png',
-                numImg: '../../../assets/01.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2008-2010/broken-time-space.png',
-                numImg: '../../../assets/03.png',
-            },
-            {
-                cardImg: '../../../assets/cards/energy/water-energy-capsule.png',
-                numImg: '../../../assets/05.png',
-            },
-            {
-                cardImg: '../../../assets/cards/energy/multi-energy-dp.png',
-                numImg: '../../../assets/02.png',
-            },
-    ]
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        { "count": 4, "name": "Kingdra", "set": "LA", "number": "7" },
+        { "count": 3, "name": "Seadra", "set": "LA", "number": "70" },
+        { "count": 4, "name": "Horsea", "set": "LA", "number": "102" },
+        { "count": 3, "name": "Claydol", "set": "GE", "number": "15" },
+        { "count": 3, "name": "Baltoy", "set": "GE", "number": "60" },
+        { "count": 2, "name": "Crobat G", "set": "PL", "number": "47" },
+        { "count": 2, "name": "Uxie", "set": "LA", "number": "43" },
+      ], "trainer": [
+        { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": "125" },
+        { "count": 4, "name": "Bebe's Search", "set": "SW", "number": "119" },
+        { "count": 2, "name": "Cynthia's Feelings", "set": "LA", "number": "131" },
+        { "count": 4, "name": "Rare Candy", "set": "GE", "number": "102" },
+        { "count": 4, "name": "Super Scoop Up", "set": "DP", "number": "115" },
+        { "count": 4, "name": "Team Galactic's Invention G-105 Poké Turn", "set": "PL", "number": "118" },
+        { "count": 3, "name": "Luxury Ball", "set": "SF", "number": "86" },
+        { "count": 3, "name": "PlusPower", "set": "DP", "number": "109" },
+        { "count": 1, "name": "Night Maintenance", "set": "MT", "number": "113" },
+        { "count": 3, "name": "Broken Time-Space", "set": "PL", "number": "104" },
+      ], "energy": [
+        { "count": 5, "name": "Water Energy", "set": "DP", "number": "125" },
+        { "count": 2, "name": "Multi Energy", "set": "MT", "number": "118" },
+      ]
+    },
   },
   {
     firstName: 'Adam Vernola',
@@ -433,12 +248,18 @@ let masters = [
     sprite2: '../../../assets/sprites/palkia.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -448,12 +269,18 @@ let masters = [
     sprite2: '../../../assets/sprites/palkia.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -463,12 +290,18 @@ let masters = [
     sprite2: '../../../assets/sprites/beedrill.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -478,12 +311,18 @@ let masters = [
     sprite2: '../../../assets/sprites/palkia.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -493,12 +332,18 @@ let masters = [
     sprite2: '../../../assets/sprites/infernape.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -508,12 +353,18 @@ let masters = [
     sprite2: '../../../assets/sprites/palkia.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -522,115 +373,39 @@ let masters = [
     sprite1: '../../../assets/sprites/luxray.png',
     sprite2: '../../../assets/sprites/toxicroak.png',
     list: '../../../assets/list-icon.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010/luxray-lvx.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/luxray.jpg',
-        numImg: '../../../assets/03.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/claydol.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/baltoy-fighting.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/toxicroak-sp-psychic.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
-        numImg: '../../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/skuntank-sp.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/bronzong.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/crobat.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/uxie.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/azelf.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/cyrus-conspiracy.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
-        numImg: '../../../assets/03.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/power-spray.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/sp-radar.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/night-maintenance.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/energy-gain.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/lake-boundary.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/rr.094.sunyshore_city_gym.jpg',
-        numImg: '../../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/energy/lightning-energy-capsule.png',
-        numImg: '../../../assets/06.png'
-      },
-      {
-        cardImg: '../../../assets/cards/energy/psychic-energy-capsule.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/energy/call-energy.png',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        { "count": 1, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
+        { "count": 3, "name": "Luxray GL", "set": "RR", "number": "9" },
+        { "count": 2, "name": "Claydol", "set": "GE", "number": "15" },
+        { "count": 2, "name": "Baltoy", "set": "GE", "number": "60" },
+        { "count": 1, "name": "Toxicroak G", "set": "PL", "number": "40" },
+        { "count": 1, "name": "Toxicroak G", "set": "PR-DP", "number": "DP41" },
+        { "count": 1, "name": "Skuntank G", "set": "PL", "number": "94" },
+        { "count": 1, "name": "Bronzong G", "set": "PL", "number": "41" },
+        { "count": 1, "name": "Crobat G", "set": "PL", "number": "47" },
+        { "count": 1, "name": "Uxie", "set": "LA", "number": "43" },
+        { "count": 1, "name": "Azelf", "set": "LA", "number": "19" },
+        { "count": 1, "name": "Unown G", "set": "GE", "number": "57" },
+      ], "trainer": [
+        { "count": 4, "name": "Cyrus's Conspiracy", "set": "PL", "number": "105" },
+        { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": "125" },
+        { "count": 3, "name": "Bebe's Search", "set": "SW", "number": "119" },
+        { "count": 4, "name": "Team Galactic's Invention G-103 Power Spray", "set": "PL", "number": "117" },
+        { "count": 4, "name": "Team Galactic's Invention G-105 Poké Turn", "set": "PL", "number": "118" },
+        { "count": 2, "name": "Team Galactic's Invention G-109 SP Radar", "set": "RR", "number": "96" },
+        { "count": 2, "name": "Night Maintenance", "set": "MT", "number": "113" },
+        { "count": 1, "name": "Luxury Ball", "set": "SF", "number": "86" },
+        { "count": 4, "name": "Team Galactic's Invention G-101 Energy Gain", "set": "PL", "number": "116" },
+        { "count": 2, "name": "Lake Boundary", "set": "MT", "number": "112" },
+        { "count": 2, "name": "Sunyshore City Gym", "set": "RR", "number": "94" },
+      ], "energy": [
+        { "count": 6, "name": "Lightning Energy", "set": "DP", "number": "126" },
+        { "count": 2, "name": "Psychic Energy", "set": "DP", "number": "127" },
+        { "count": 4, "name": "Call Energy", "set": "MD", "number": "92" },
+      ]
+    },
   },
   {
     firstName: 'Robert Lozada',
@@ -639,12 +414,18 @@ let masters = [
     sprite2: '../../../assets/sprites/palkia.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -654,12 +435,18 @@ let masters = [
     sprite2: '../../../assets/sprites/palkia.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -669,12 +456,18 @@ let masters = [
     sprite2: '../../../assets/sprites/infernape.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -684,12 +477,18 @@ let masters = [
     sprite2: '../../../assets/sprites/palkia.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -697,94 +496,19 @@ let masters = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/beedrill.png',
     sprite2: '../../../assets/sprites/luxray.png',
-    list: '../../../assets/list-icon.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010/beedrill-power.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/beedrill-band-atk.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/kakuna.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/weedle.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/luxray-lvx.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/luxray.jpg',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/claydol.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/baltoy-fighting.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
-        numImg: '../../../assets/03.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/azelf.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/cyrus-conspiracy.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/cynthias-feelings.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/rare-candy-2008.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/night-maintenance.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/warp-point.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/broken-time-space.png',
-        numImg: '../../../assets/03.png'
-      },
-      {
-        cardImg: '../../../assets/cards/energy/grass-energy-capsule.png',
-        numImg: '../../../assets/06.png'
-      },
-    ]
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
+    deck: []
   },
   {
     firstName: 'Drew Holton',
@@ -793,12 +517,18 @@ let masters = [
     sprite2: '../../../assets/sprites/palkia.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -808,12 +538,18 @@ let masters = [
     sprite2: '../../../assets/sprites/beedrill.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -822,115 +558,39 @@ let masters = [
     sprite1: '../../../assets/sprites/luxray.png',
     sprite2: '../../../assets/sprites/toxicroak.png',
     list: '../../../assets/list-icon.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010/luxray-lvx.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/luxray.jpg',
-        numImg: '../../../assets/03.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/claydol.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/baltoy-fighting.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/toxicroak-sp-psychic.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
-        numImg: '../../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/skuntank-sp.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/bronzong.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/crobat.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/uxie.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/azelf.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/cyrus-conspiracy.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
-        numImg: '../../../assets/03.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/power-spray.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/sp-radar.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/night-maintenance.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/energy-gain.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/lake-boundary.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/rr.094.sunyshore_city_gym.jpg',
-        numImg: '../../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/energy/lightning-energy-capsule.png',
-        numImg: '../../../assets/06.png'
-      },
-      {
-        cardImg: '../../../assets/cards/energy/psychic-energy-capsule.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/energy/call-energy.png',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        { "count": 1, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
+        { "count": 3, "name": "Luxray GL", "set": "RR", "number": "9" },
+        { "count": 2, "name": "Claydol", "set": "GE", "number": "15" },
+        { "count": 2, "name": "Baltoy", "set": "GE", "number": "60" },
+        { "count": 1, "name": "Toxicroak G", "set": "PL", "number": "40" },
+        { "count": 1, "name": "Toxicroak G", "set": "PR-DP", "number": "DP41" },
+        { "count": 1, "name": "Skuntank G", "set": "PL", "number": "94" },
+        { "count": 1, "name": "Bronzong G", "set": "PL", "number": "41" },
+        { "count": 1, "name": "Crobat G", "set": "PL", "number": "47" },
+        { "count": 1, "name": "Uxie", "set": "LA", "number": "43" },
+        { "count": 1, "name": "Azelf", "set": "LA", "number": "19" },
+        { "count": 1, "name": "Unown G", "set": "GE", "number": "57" },
+      ], "trainer": [
+        { "count": 4, "name": "Cyrus's Conspiracy", "set": "PL", "number": "105" },
+        { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": "125" },
+        { "count": 3, "name": "Bebe's Search", "set": "SW", "number": "119" },
+        { "count": 4, "name": "Team Galactic's Invention G-103 Power Spray", "set": "PL", "number": "117" },
+        { "count": 4, "name": "Team Galactic's Invention G-105 Poké Turn", "set": "PL", "number": "118" },
+        { "count": 2, "name": "Team Galactic's Invention G-109 SP Radar", "set": "RR", "number": "96" },
+        { "count": 2, "name": "Night Maintenance", "set": "MT", "number": "113" },
+        { "count": 1, "name": "Luxury Ball", "set": "SF", "number": "86" },
+        { "count": 4, "name": "Team Galactic's Invention G-101 Energy Gain", "set": "PL", "number": "116" },
+        { "count": 2, "name": "Lake Boundary", "set": "MT", "number": "112" },
+        { "count": 2, "name": "Sunyshore City Gym", "set": "RR", "number": "94" },
+      ], "energy": [
+        { "count": 6, "name": "Lightning Energy", "set": "DP", "number": "126" },
+        { "count": 2, "name": "Psychic Energy", "set": "DP", "number": "127" },
+        { "count": 4, "name": "Call Energy", "set": "MD", "number": "92" },
+      ]
+    },
   },
   {
     firstName: 'Tracy Key',
@@ -939,12 +599,18 @@ let masters = [
     sprite2: '../../../assets/sprites/toxicroak.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -954,12 +620,18 @@ let masters = [
     sprite2: '../../../assets/sprites/flygon.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -969,12 +641,18 @@ let masters = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -984,12 +662,18 @@ let masters = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -999,12 +683,18 @@ let masters = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -1014,12 +704,18 @@ let masters = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -1029,12 +725,18 @@ let masters = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
   {
@@ -1044,1424 +746,18 @@ let masters = [
     sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    event: '2009 US National Championships',
+    decklist: {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
     ]
   },
 ]
-
-let seniors = [
-  {
-    firstName: 'Aylam Rosenthal',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gengar.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Lloyd Wenger',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gallade.png',
-    sprite2: '../../../assets/sprites/dialga.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Nathaniel Lawson',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/flygon.png',
-    sprite2: '../../../assets/sprites/nidoqueen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Jacob Tamm',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/dialga.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Samuel L',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gengar.png',
-    list: '../../../assets/list-icon.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010/gengar-fainting-spell.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/haunter-smog.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/gastly.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/nidoqueen.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/nidorina-2008.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/nidoran-f.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/claydol.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/baltoy-fighting.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/crobat.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/uxie.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/looker.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/rare-candy-2008.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/warp-point.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/night-maintenance.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/broken-time-space.png',
-        numImg: '../../../assets/03.png'
-      },
-      {
-        cardImg: '../../../assets/cards/energy/psychic-energy-capsule.png',
-        numImg: '../../../assets/06.png'
-      },
-      {
-        cardImg: '../../../assets/cards/energy/call-energy.png',
-        numImg: '../../../assets/04.png'
-      }
-    ]
-  },
-  {
-    firstName: 'Alexander B ',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Jonathon B ',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gengar.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Ankur P',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/dialga.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-]
-
-let juniors = [
-  {
-    firstName: 'Justin Whitaker',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/machamp.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Austin Hanna',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/beedrill.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Noah Lawson',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Daniel Tran',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/beedrill.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Nadia B',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gengar.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Joshua S',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/beedrill.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Kenneth A',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Drew F',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gengar.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-]
-
-//masters
-function displayList(array = []) {
-    masterList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-    if (item.banned === true) {
-      playerName.classList.add('crossed-out');
-    }
-
-    let flagImg = document.createElement('img');
-        flagImg.classList.add('flag-size');
-        flagImg.setAttribute('src', item.flag);
-
-        let countryName = document.createElement('div');
-        countryName.classList.add('country-name');
-        countryName.style.display = 'none';
-
-        flagImg.addEventListener('mouseover', function() {
-            if (flagImg.getAttribute('src').includes('argentina')) {
-                countryName.textContent = 'Argentina (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('australia')) {
-                countryName.textContent = 'Australia (Oceania)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('austria')) {
-                countryName.textContent = 'Austria (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('belarus')) {
-                countryName.textContent = 'Belarus (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('belgium')) {
-                countryName.textContent = 'Belgium (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('brazil')) {
-                countryName.textContent = 'Brazil (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('canada')) {
-                countryName.textContent = 'Canada (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('chile')) {
-                countryName.textContent = 'Chile (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('china')) {
-                countryName.textContent = 'China (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('colombia')) {
-                countryName.textContent = 'Colombia (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('croatia')) {
-                countryName.textContent = 'Croatia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('czech-republic')) {
-                countryName.textContent = 'Czechia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('denmark')) {
-                countryName.textContent = 'Denmark (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('el-salvador')) {
-                countryName.textContent = 'El Salvador (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('finland')) {
-                countryName.textContent = 'Finland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('france')) {
-                countryName.textContent = 'France (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('germany')) {
-                countryName.textContent = 'Germany (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('greece')) {
-                countryName.textContent = 'Greece (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('hong-kong')) {
-                countryName.textContent = 'Hong Kong (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('indonesia')) {
-                countryName.textContent = 'Indonesia (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('ireland')) {
-                countryName.textContent = 'Ireland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('isreal')) {
-                countryName.textContent = 'Israel (Middle East-South Africa)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('italy')) {
-                countryName.textContent = 'Italy (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('japan')) {
-                countryName.textContent = 'Japan (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('korea')) {
-                countryName.textContent = 'South Korea (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('malaysia')) {
-                countryName.textContent = 'Malaysia (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('malta')) {
-                countryName.textContent = 'Malta (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('mexico')) {
-                countryName.textContent = 'Mexico (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('moroco')) {
-                countryName.textContent = 'Moroco (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('netherlands')) {
-                countryName.textContent = 'Netherlands (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('new-zealand')) {
-                countryName.textContent = 'New Zealand (Oceania)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('nicaragua')) {
-                countryName.textContent = 'Nicaragua (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('norway')) {
-                countryName.textContent = 'Norway (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('peru')) {
-                countryName.textContent = 'Peru (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('philippines')) {
-                countryName.textContent = 'Philippines (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('poland')) {
-                countryName.textContent = 'Poland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('portugal')) {
-                countryName.textContent = 'Portugal (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('puerto-rico')) {
-                countryName.textContent = 'Puerto Rico (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('russia')) {
-                countryName.textContent = 'Russia (Russia)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('singapore')) {
-                countryName.textContent = 'Singapore (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('slovakia')) {
-                countryName.textContent = 'Slovakia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('south-africa')) {
-                countryName.textContent = 'South Africa (Middle East-South Africa)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('spain')) {
-                countryName.textContent = 'Spain (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('sweden')) {
-                countryName.textContent = 'Sweden (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('switzerland')) {
-                countryName.textContent = 'Switzerland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('taiwan')) {
-                countryName.textContent = 'Taiwan (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('thailand')) {
-                countryName.textContent = 'Thailand (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('uk')) {
-                countryName.textContent = 'United Kingdom (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('usa')) {
-                countryName.textContent = 'USA (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('unknown')) {
-                countryName.textContent = 'Unknown';
-                countryName.style.display = 'block';
-            }
-        });
-
-        flagImg.addEventListener('mouseout', function() {
-            countryName.style.display = 'none';
-        });
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-    
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-        playerName.appendChild(countryName); // Append the country name element
-        playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2009 US Nats";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          if (deck.oldCard === true) {
-            pokeCard.classList.add('old-card')
-          }
-          if (deck.oldCard === true) {
-            pokeCard.classList.add('radius-card')
-          }
-          if (deck.exCard === true) {
-            pokeCard.classList.add('ex-era-card')
-          }
-          if (deck.radiusCard === true) {
-            pokeCard.classList.add('radius-card')
-          }
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-
-    masterList.appendChild(item_element);
-  }
-}
-
-// seniors
-function displayList2(array = []) {
-    seniorList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-    if (item.banned === true) {
-      playerName.classList.add('crossed-out');
-    }
-
-    let flagImg = document.createElement('img');
-        flagImg.classList.add('flag-size');
-        flagImg.setAttribute('src', item.flag);
-
-        let countryName = document.createElement('div');
-        countryName.classList.add('country-name');
-        countryName.style.display = 'none';
-
-        flagImg.addEventListener('mouseover', function() {
-            if (flagImg.getAttribute('src').includes('argentina')) {
-                countryName.textContent = 'Argentina (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('australia')) {
-                countryName.textContent = 'Australia (Oceania)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('austria')) {
-                countryName.textContent = 'Austria (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('belarus')) {
-                countryName.textContent = 'Belarus (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('belgium')) {
-                countryName.textContent = 'Belgium (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('brazil')) {
-                countryName.textContent = 'Brazil (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('canada')) {
-                countryName.textContent = 'Canada (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('chile')) {
-                countryName.textContent = 'Chile (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('china')) {
-                countryName.textContent = 'China (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('colombia')) {
-                countryName.textContent = 'Colombia (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('croatia')) {
-                countryName.textContent = 'Croatia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('czech-republic')) {
-                countryName.textContent = 'Czechia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('denmark')) {
-                countryName.textContent = 'Denmark (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('el-salvador')) {
-                countryName.textContent = 'El Salvador (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('finland')) {
-                countryName.textContent = 'Finland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('france')) {
-                countryName.textContent = 'France (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('germany')) {
-                countryName.textContent = 'Germany (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('greece')) {
-                countryName.textContent = 'Greece (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('hong-kong')) {
-                countryName.textContent = 'Hong Kong (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('indonesia')) {
-                countryName.textContent = 'Indonesia (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('ireland')) {
-                countryName.textContent = 'Ireland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('isreal')) {
-                countryName.textContent = 'Israel (Middle East-South Africa)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('italy')) {
-                countryName.textContent = 'Italy (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('japan')) {
-                countryName.textContent = 'Japan (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('korea')) {
-                countryName.textContent = 'South Korea (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('malaysia')) {
-                countryName.textContent = 'Malaysia (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('malta')) {
-                countryName.textContent = 'Malta (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('mexico')) {
-                countryName.textContent = 'Mexico (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('moroco')) {
-                countryName.textContent = 'Moroco (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('netherlands')) {
-                countryName.textContent = 'Netherlands (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('new-zealand')) {
-                countryName.textContent = 'New Zealand (Oceania)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('nicaragua')) {
-                countryName.textContent = 'Nicaragua (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('norway')) {
-                countryName.textContent = 'Norway (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('peru')) {
-                countryName.textContent = 'Peru (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('philippines')) {
-                countryName.textContent = 'Philippines (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('poland')) {
-                countryName.textContent = 'Poland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('portugal')) {
-                countryName.textContent = 'Portugal (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('puerto-rico')) {
-                countryName.textContent = 'Puerto Rico (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('russia')) {
-                countryName.textContent = 'Russia (Russia)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('singapore')) {
-                countryName.textContent = 'Singapore (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('slovakia')) {
-                countryName.textContent = 'Slovakia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('south-africa')) {
-                countryName.textContent = 'South Africa (Middle East-South Africa)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('spain')) {
-                countryName.textContent = 'Spain (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('sweden')) {
-                countryName.textContent = 'Sweden (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('switzerland')) {
-                countryName.textContent = 'Switzerland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('taiwan')) {
-                countryName.textContent = 'Taiwan (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('thailand')) {
-                countryName.textContent = 'Thailand (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('uk')) {
-                countryName.textContent = 'United Kingdom (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('usa')) {
-                countryName.textContent = 'USA (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('unknown')) {
-                countryName.textContent = 'Unknown';
-                countryName.style.display = 'block';
-            }
-        });
-
-        flagImg.addEventListener('mouseout', function() {
-            countryName.style.display = 'none';
-        });
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-    
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-        playerName.appendChild(countryName); // Append the country name element
-        playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2009 US Nats";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          if (deck.oldCard === true) {
-            pokeCard.classList.add('old-card')
-          }
-          if (deck.oldCard === true) {
-            pokeCard.classList.add('radius-card')
-          }
-          if (deck.exCard === true) {
-            pokeCard.classList.add('ex-era-card')
-          }
-          if (deck.radiusCard === true) {
-            pokeCard.classList.add('radius-card')
-          }
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-    seniorList.appendChild(item_element);
-  }
-}
-
-// juniors
-function displayList3(array = []) {
-    juniorList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-    if (item.banned === true) {
-      playerName.classList.add('crossed-out');
-    }
-
-    let flagImg = document.createElement('img');
-        flagImg.classList.add('flag-size');
-        flagImg.setAttribute('src', item.flag);
-
-        let countryName = document.createElement('div');
-        countryName.classList.add('country-name');
-        countryName.style.display = 'none';
-
-        flagImg.addEventListener('mouseover', function() {
-            if (flagImg.getAttribute('src').includes('argentina')) {
-                countryName.textContent = 'Argentina (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('australia')) {
-                countryName.textContent = 'Australia (Oceania)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('austria')) {
-                countryName.textContent = 'Austria (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('belarus')) {
-                countryName.textContent = 'Belarus (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('belgium')) {
-                countryName.textContent = 'Belgium (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('brazil')) {
-                countryName.textContent = 'Brazil (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('canada')) {
-                countryName.textContent = 'Canada (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('chile')) {
-                countryName.textContent = 'Chile (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('china')) {
-                countryName.textContent = 'China (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('colombia')) {
-                countryName.textContent = 'Colombia (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('croatia')) {
-                countryName.textContent = 'Croatia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('czech-republic')) {
-                countryName.textContent = 'Czechia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('denmark')) {
-                countryName.textContent = 'Denmark (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('el-salvador')) {
-                countryName.textContent = 'El Salvador (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('finland')) {
-                countryName.textContent = 'Finland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('france')) {
-                countryName.textContent = 'France (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('germany')) {
-                countryName.textContent = 'Germany (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('greece')) {
-                countryName.textContent = 'Greece (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('hong-kong')) {
-                countryName.textContent = 'Hong Kong (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('indonesia')) {
-                countryName.textContent = 'Indonesia (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('ireland')) {
-                countryName.textContent = 'Ireland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('isreal')) {
-                countryName.textContent = 'Israel (Middle East-South Africa)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('italy')) {
-                countryName.textContent = 'Italy (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('japan')) {
-                countryName.textContent = 'Japan (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('korea')) {
-                countryName.textContent = 'South Korea (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('malaysia')) {
-                countryName.textContent = 'Malaysia (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('malta')) {
-                countryName.textContent = 'Malta (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('mexico')) {
-                countryName.textContent = 'Mexico (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('moroco')) {
-                countryName.textContent = 'Moroco (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('netherlands')) {
-                countryName.textContent = 'Netherlands (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('new-zealand')) {
-                countryName.textContent = 'New Zealand (Oceania)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('nicaragua')) {
-                countryName.textContent = 'Nicaragua (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('norway')) {
-                countryName.textContent = 'Norway (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('peru')) {
-                countryName.textContent = 'Peru (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('philippines')) {
-                countryName.textContent = 'Philippines (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('poland')) {
-                countryName.textContent = 'Poland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('portugal')) {
-                countryName.textContent = 'Portugal (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('puerto-rico')) {
-                countryName.textContent = 'Puerto Rico (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('russia')) {
-                countryName.textContent = 'Russia (Russia)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('singapore')) {
-                countryName.textContent = 'Singapore (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('slovakia')) {
-                countryName.textContent = 'Slovakia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('south-africa')) {
-                countryName.textContent = 'South Africa (Middle East-South Africa)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('spain')) {
-                countryName.textContent = 'Spain (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('sweden')) {
-                countryName.textContent = 'Sweden (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('switzerland')) {
-                countryName.textContent = 'Switzerland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('taiwan')) {
-                countryName.textContent = 'Taiwan (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('thailand')) {
-                countryName.textContent = 'Thailand (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('uk')) {
-                countryName.textContent = 'United Kingdom (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('usa')) {
-                countryName.textContent = 'USA (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('unknown')) {
-                countryName.textContent = 'Unknown';
-                countryName.style.display = 'block';
-            }
-        });
-
-        flagImg.addEventListener('mouseout', function() {
-            countryName.style.display = 'none';
-        });
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-    
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-        playerName.appendChild(countryName); // Append the country name element
-        playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2009 US Nats";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          if (deck.oldCard === true) {
-            pokeCard.classList.add('old-card')
-          }
-          if (deck.oldCard === true) {
-            pokeCard.classList.add('radius-card')
-          }
-          if (deck.exCard === true) {
-            pokeCard.classList.add('ex-era-card')
-          }
-          if (deck.radiusCard === true) {
-            pokeCard.classList.add('radius-card')
-          }
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-    juniorList.appendChild(item_element);
-  }
-}
-
-const modal = document.querySelector('.modal');
-const modalX = document.querySelector('.modal-x');
-const behind = document.querySelector('.behind-modal');
-
-displayList(masters);
-displayList2(seniors);
-displayList3(juniors);
