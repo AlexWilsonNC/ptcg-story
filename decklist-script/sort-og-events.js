@@ -538,11 +538,13 @@ function displayList(array = []) {
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.classList.add('radius-card');
                             pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
                             let zoomedImg = document.getElementById("insert-zoomed-img");
                             let zoombox = document.getElementById("zoomed-bg");
                             pokeCard.onclick = () => {
                                 zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoomedImg.classList.add('radius-card');
                                 zoombox.className = "show";
                             }
                             zoombox.onclick = () => {
@@ -551,19 +553,21 @@ function displayList(array = []) {
                         } if (item.event.includes('2008')) {
                             let allSets = {
                                 //dp
-                                dp7, dp6, dp5, dp4, dp3, dp2, dp1, dpp,
+                                dp5, dp4, dp3, dp2, dp1, dpp,
                                 //rs
-                                ex16, ex15, ex14, ex13, ex12, ex11, ex10, ex9, ex8, ex7, ex6, ex5, ex4, ex3, ex2, ex1, np,
+                                ex16, ex15, ex14, ex13, np,
                                 //other
-                                pop9, pop8, pop7, pop6, pop5, pop4, pop3, pop2, pop1, tk2a, tk1a
+                                pop7, pop6, pop5, pop4, pop3, pop2, pop1, tk2a, tk1a
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.classList.add('radius-card');
                             pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
                             let zoomedImg = document.getElementById("insert-zoomed-img");
                             let zoombox = document.getElementById("zoomed-bg");
                             pokeCard.onclick = () => {
                                 zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoomedImg.classList.add('radius-card');
                                 zoombox.className = "show";
                             }
                             zoombox.onclick = () => {
@@ -580,11 +584,13 @@ function displayList(array = []) {
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.classList.add('radius-card');
                             pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
                             let zoomedImg = document.getElementById("insert-zoomed-img");
                             let zoombox = document.getElementById("zoomed-bg");
                             pokeCard.onclick = () => {
                                 zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoomedImg.classList.add('radius-card');
                                 zoombox.className = "show";
                             }
                             zoombox.onclick = () => {
@@ -599,12 +605,14 @@ function displayList(array = []) {
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.classList.add('radius-card');
                             // pokeCard.classList.add('old-card');
                             pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
                             let zoomedImg = document.getElementById("insert-zoomed-img");
                             let zoombox = document.getElementById("zoomed-bg");
                             pokeCard.onclick = () => {
                                 zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoomedImg.classList.add('radius-card');
                                 zoombox.className = "show";
                             }
                             zoombox.onclick = () => {
@@ -619,12 +627,14 @@ function displayList(array = []) {
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.classList.add('radius-card');
                             // pokeCard.classList.add('old-card');
                             pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
                             let zoomedImg = document.getElementById("insert-zoomed-img");
                             let zoombox = document.getElementById("zoomed-bg");
                             pokeCard.onclick = () => {
                                 zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoomedImg.classList.add('radius-card');
                                 zoombox.className = "show";
                             }
                             zoombox.onclick = () => {
@@ -641,12 +651,14 @@ function displayList(array = []) {
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.classList.add('radius-card');
                             // pokeCard.classList.add('old-card');
                             pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
                             let zoomedImg = document.getElementById("insert-zoomed-img");
                             let zoombox = document.getElementById("zoomed-bg");
                             pokeCard.onclick = () => {
                                 zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoomedImg.classList.add('radius-card');
                                 zoombox.className = "show";
                             }
                             zoombox.onclick = () => {
@@ -661,12 +673,14 @@ function displayList(array = []) {
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.classList.add('radius-card');
                             // pokeCard.classList.add('old-card');
                             pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
                             let zoomedImg = document.getElementById("insert-zoomed-img");
                             let zoombox = document.getElementById("zoomed-bg");
                             pokeCard.onclick = () => {
                                 zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoomedImg.classList.add('radius-card');
                                 zoombox.className = "show";
                             }
                             zoombox.onclick = () => {
