@@ -345,6 +345,14 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Froslass")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Munkidori")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/froslass.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/munkidori.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Roaring Moon")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Walking Wake")) {

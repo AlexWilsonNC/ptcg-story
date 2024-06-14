@@ -507,7 +507,7 @@ function displayList(array = []) {
                         }
                     })
                 }
-                if (Object.values(pokemon).includes("Iron Thorns ex" && "Crushing Hammer")) {
+                if (Object.values(pokemon).includes("Technical Machine: Turbo Energize")) {
                             firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
                             secondSprite.setAttribute('src', "../../../../assets/sprites/iron-thorns.png");
                 }
