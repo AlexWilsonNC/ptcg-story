@@ -187,7 +187,7 @@ let masters = [
         flag: '../../../../assets/flags/mexico.png',
         "event": "2016 Mexico National Championships",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/trevenant.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
