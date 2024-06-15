@@ -1,8 +1,8 @@
 let masters = [
     {
-        "firstName": "Magnus Pedersen",
-        flag: '../../../../assets/flags/denmark.png',
-        "event": "2014 Denmark National Championships - Juniors",
+        "firstName": "Lucinda B",
+        flag: '../../../../assets/flags/uk.png',
+        "event": "2014 UK National Championships - Juniors",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
         // list: '../../../../assets/list-icon.png',
@@ -20,9 +20,9 @@ let masters = [
         }
     },
     {
-        "firstName": "Vincent Munk",
-        flag: '../../../../assets/flags/denmark.png',
-        "event": "2014 Denmark National Championships - Juniors",
+        "firstName": "Kyle G",
+        flag: '../../../../assets/flags/uk.png',
+        "event": "2014 UK National Championships - Juniors",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
         // list: '../../../../assets/list-icon.png',
@@ -40,9 +40,9 @@ let masters = [
         }
     },
     {
-        "firstName": "Mathias Aamand",
-        flag: '../../../../assets/flags/denmark.png',
-        "event": "2014 Denmark National Championships - Juniors",
+        "firstName": "Daniel S",
+        flag: '../../../../assets/flags/uk.png',
+        "event": "2014 UK National Championships - Juniors",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
         // list: '../../../../assets/list-icon.png',
@@ -60,9 +60,9 @@ let masters = [
         }
     },
     {
-        "firstName": "Zack Munk",
-        flag: '../../../../assets/flags/denmark.png',
-        "event": "2014 Denmark National Championships - Juniors",
+        "firstName": "Khali B",
+        flag: '../../../../assets/flags/uk.png',
+        "event": "2014 UK National Championships - Juniors",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
         // list: '../../../../assets/list-icon.png',

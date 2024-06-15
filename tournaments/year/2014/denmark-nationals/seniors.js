@@ -5,7 +5,7 @@ let masters = [
         sprite1: '../../../../assets/sprites/yveltal.png',
         sprite2: '../../../../assets/sprites/garbodor.png',
         list: '../../../../assets/list-icon.png',
-        event: '2014 Denmark National Championships (Seniors)',
+        event: '2014 Denmark National Championships - Seniors',
     decklist: {
       "pokemon": [
         { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
@@ -46,7 +46,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/deoxys.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships (Seniors)',
+        event: '2014 Denmark National Championships - Seniors',
     decklist: {
       "pokemon": [
         {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -67,7 +67,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/pyroar.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships (Seniors)',
+        event: '2014 Denmark National Championships - Seniors',
     decklist: {
       "pokemon": [
         {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -88,7 +88,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/aromatisse.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships (Seniors)',
+        event: '2014 Denmark National Championships - Seniors',
     decklist: {
       "pokemon": [
         {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -109,7 +109,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/raichu.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships (Seniors)',
+        event: '2014 Denmark National Championships - Seniors',
     decklist: {
       "pokemon": [
         {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -130,7 +130,7 @@ let masters = [
         sprite2: '../../../../assets/hyphen.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships (Seniors)',
+        event: '2014 Denmark National Championships - Seniors',
     decklist: {
       "pokemon": [
         {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -151,7 +151,7 @@ let masters = [
         sprite2: '../../../../assets/hyphen.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships (Seniors)',
+        event: '2014 Denmark National Championships - Seniors',
     decklist: {
       "pokemon": [
         {"count": 0, "name": "example", "set": "aa", "number": "00"},
@@ -172,7 +172,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/umbreon.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships (Seniors)',
+        event: '2014 Denmark National Championships - Seniors',
     decklist: {
       "pokemon": [
         {"count": 0, "name": "example", "set": "aa", "number": "00"},
