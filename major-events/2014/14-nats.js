@@ -2687,7 +2687,7 @@ let nineEvent = [
         ]
     },
     {
-        firstName: '?',
+        firstName: 'Player Name Unknown',
         sprite1: '../../assets/sprites/virizion.png',
         sprite2: '../../assets/sprites/genesect.png',
         list: '../../assets/list-icon.png',
