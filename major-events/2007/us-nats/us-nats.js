@@ -219,7 +219,7 @@ let masters = [
         numImg: '../../../assets/01.png',
       },
       {
-        cardImg: '../../../assets/cards/old-energy/2007-multi-energy.png',
+        cardImg: '../../../assets/cards/old-energy/rg.103.multi_energy.jpg',
         numImg: '../../../assets/04.png',
       },
     ]
@@ -345,7 +345,7 @@ let masters = [
         numImg: '../../../assets/01.png',
       },
       {
-        cardImg: '../../../assets/cards/old-energy/2007-multi-energy.png',
+        cardImg: '../../../assets/cards/old-energy/rg.103.multi_energy.jpg',
         numImg: '../../../assets/04.png',
       },
       {

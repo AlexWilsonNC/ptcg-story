@@ -16,7 +16,7 @@ let masters = [
         { "count": 2, "name": "Exeggcute", "set": "PLF", "number": "4" },
         { "count": 1, "name": "Articuno", "set": "ROS", "number": "17" },
         { "count": 1, "name": "Wailord-EX", "set": "PRC", "number": "38" },
-        { "count": 1, "name": "Mewtwo-EX", "set": "NXD", "number": "54" },
+        { "count": 1, "name": "Mewtwo-EX", "set": "LTR", "number": "54" },
       ], "trainer": [
         { "count": 2, "name": "Archie's Ace in the Hole", "set": "PRC", "number": "124" },
         { "count": 2, "name": "Professor Sycamore", "set": "XY", "number": "122" },
@@ -51,7 +51,7 @@ let masters = [
         { "count": 3, "name": "Crobat", "set": "PHF", "number": "33" },
         { "count": 4, "name": "Golbat", "set": "PHF", "number": "32" },
         { "count": 4, "name": "Zubat", "set": "PLS", "number": "53" },
-        { "count": 2, "name": "Mewtwo-EX", "set": "NXD", "number": "54" },
+        { "count": 2, "name": "Mewtwo-EX", "set": "LTR", "number": "54" },
         { "count": 2, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
@@ -88,7 +88,7 @@ let masters = [
         { "count": 3, "name": "Golbat", "set": "PHF", "number": "32" },
         { "count": 4, "name": "Zubat", "set": "PLS", "number": "53" },
         { "count": 2, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
-        { "count": 1, "name": "Mewtwo-EX", "set": "NXD", "number": "54" },
+        { "count": 1, "name": "Mewtwo-EX", "set": "LTR", "number": "54" },
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 3, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -273,7 +273,7 @@ let masters = [
         { "count": 2, "name": "Spritzee", "set": "FLF", "number": "67" },
         { "count": 1, "name": "Spritzee", "set": "XY", "number": "92" },
         { "count": 3, "name": "Seismitoad-EX", "set": "FFI", "number": "20" },
-        { "count": 1, "name": "Mewtwo-EX", "set": "NXD", "number": "54" },
+        { "count": 1, "name": "Mewtwo-EX", "set": "LTR", "number": "54" },
         { "count": 1, "name": "Charizard-EX", "set": "FLF", "number": "12" },
         { "count": 1, "name": "Malamar-EX", "set": "PHF", "number": "58" },
         { "count": 1, "name": "Cobalion-EX", "set": "PLS", "number": "93" },
@@ -590,7 +590,7 @@ let masters = [
         { "count": 1, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
-        { "count": 4, "name": "N", "set": "DEX", "number": "96" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
         { "count": 2, "name": "Lysandre", "set": "FLF", "number": "90" },
         { "count": 1, "name": "Skyla", "set": "BCR", "number": "134" },
         { "count": 1, "name": "Pokémon Center Lady", "set": "FLF", "number": "93" },
@@ -1046,7 +1046,7 @@ let masters = [
         { "count": 1, "name": "Cobalion-EX", "set": "PLS", "number": "93" },
         { "count": 1, "name": "Seismitoad-EX", "set": "FFI", "number": "20" },
         { "count": 1, "name": "Keldeo-EX", "set": "BCR", "number": "49" },
-        { "count": 1, "name": "Mewtwo-EX", "set": "NXD", "number": "54" },
+        { "count": 1, "name": "Mewtwo-EX", "set": "LTR", "number": "54" },
         { "count": 1, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
         { "count": 1, "name": "Kecleon", "set": "PLF", "number": "94" },
       ], "trainer": [
@@ -1111,7 +1111,7 @@ let masters = [
         { "count": 1, "name": "Cobalion-EX", "set": "PLS", "number": "93" },
         { "count": 1, "name": "Seismitoad-EX", "set": "FFI", "number": "20" },
         { "count": 1, "name": "Keldeo-EX", "set": "BCR", "number": "49" },
-        { "count": 1, "name": "Mewtwo-EX", "set": "NXD", "number": "54" },
+        { "count": 1, "name": "Mewtwo-EX", "set": "LTR", "number": "54" },
         { "count": 1, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
         { "count": 1, "name": "Kecleon", "set": "PLF", "number": "94" },
       ], "trainer": [

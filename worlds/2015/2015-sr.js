@@ -158,7 +158,7 @@ let masters = [
       decklist: {
         "pokemon": [
           { "count": 2, "name": "Klinklang", "set": "PLS", "number": "90" },
-          { "count": 2, "name": "Klang", "set": "BLW", "number": "75" },
+          { "count": 2, "name": "Klang", "set": "PLS", "number": "89" },
           { "count": 4, "name": "Klink", "set": "PLS", "number": "88" },
           { "count": 3, "name": "Bronzong", "set": "PHF", "number": "61" },
           { "count": 3, "name": "Bronzor", "set": "PHF", "number": "60" },
@@ -241,7 +241,7 @@ let masters = [
           { "count": 2, "name": "Crobat", "set": "PHF", "number": "33" },
           { "count": 3, "name": "Golbat", "set": "PHF", "number": "32" },
           { "count": 4, "name": "Zubat", "set": "PLS", "number": "53" },
-          { "count": 1, "name": "Mewtwo-EX", "set": "NXD", "number": "54" },
+          { "count": 1, "name": "Mewtwo-EX", "set": "LTR", "number": "54" },
           { "count": 1, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
           { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60" },
         ], "trainer": [

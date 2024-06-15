@@ -93,7 +93,7 @@ let masters = [
           { "count": 3, "name": "Golbat", "set": "PHF", "number": "32" },
           { "count": 4, "name": "Zubat", "set": "PLS", "number": "53" },
           { "count": 2, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
-          { "count": 1, "name": "Mewtwo-EX", "set": "NXD", "number": "54" },
+          { "count": 1, "name": "Mewtwo-EX", "set": "LTR", "number": "54" },
         ], "trainer": [
           { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
           { "count": 3, "name": "N", "set": "PR-BLW", "number": "100" },
