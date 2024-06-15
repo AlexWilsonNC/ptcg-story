@@ -751,6 +751,9 @@ function displayList(array = []) {
                         if (item.event.includes('National Championships')) {
                             numberCounter.setAttribute('src', "../../../assets/card-count/" + card.count + ".png");
                         } 
+                        if (item.event.includes('2016 Mexico National Championships')) {
+                            numberCounter.setAttribute('src', "../../../../assets/card-count/" + card.count + ".png");
+                        } 
 
                         cardSpace.appendChild(pokeCard);
                         cardSpace.appendChild(numberCounter);
