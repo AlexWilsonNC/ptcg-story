@@ -2,7 +2,7 @@ let masters = [
     {
         "firstName": "Sam Taylor",
         flag: '../../../../assets/flags/uk.png',
-        "event": "2014 UK National Championships - Seniors",
+        "event": "2013 UK National Championships - Seniors",
         sprite1: '../../../../assets/sprites/rayquaza.png',
         sprite2: '../../../../assets/sprites/eelektrik.png',
         // list: '../../../../assets/list-icon.png',
@@ -22,7 +22,7 @@ let masters = [
     {
         "firstName": "James Luo",
         flag: '../../../../assets/flags/uk.png',
-        "event": "2014 UK National Championships - Seniors",
+        "event": "2013 UK National Championships - Seniors",
         sprite1: '../../../../assets/sprites/kyurem.png',
         sprite2: '../../../../assets/sprites/deoxys.png',
         // list: '../../../../assets/list-icon.png',
@@ -42,7 +42,7 @@ let masters = [
     {
         "firstName": "Rhys Williams",
         flag: '../../../../assets/flags/uk.png',
-        "event": "2014 UK National Championships - Seniors",
+        "event": "2013 UK National Championships - Seniors",
         sprite1: '../../../../assets/sprites/rayquaza.png',
         sprite2: '../../../../assets/sprites/eelektrik.png',
         // list: '../../../../assets/list-icon.png',
@@ -62,7 +62,7 @@ let masters = [
     {
         "firstName": "Thomas Robinson",
         flag: '../../../../assets/flags/uk.png',
-        "event": "2014 UK National Championships - Seniors",
+        "event": "2013 UK National Championships - Seniors",
         sprite1: '../../../../assets/sprites/keldeo-resolute.png',
         sprite2: '../../../../assets/sprites/blastoise.png',
         // list: '../../../../assets/list-icon.png',
@@ -82,7 +82,7 @@ let masters = [
     {
         "firstName": "Dan Saunders",
         flag: '../../../../assets/flags/uk.png',
-        "event": "2014 UK National Championships - Seniors",
+        "event": "2013 UK National Championships - Seniors",
         sprite1: '../../../../assets/sprites/accelgor.png',
         sprite2: '../../../../assets/sprites/gothitelle.png',
         // list: '../../../../assets/list-icon.png',
@@ -102,7 +102,7 @@ let masters = [
     {
         "firstName": "Liam Campbell-Lowe",
         flag: '../../../../assets/flags/uk.png',
-        "event": "2014 UK National Championships - Seniors",
+        "event": "2013 UK National Championships - Seniors",
         sprite1: '../../../../assets/sprites/kyurem.png',
         sprite2: '../../../../assets/sprites/deoxys.png',
         // list: '../../../../assets/list-icon.png',
@@ -122,7 +122,7 @@ let masters = [
     {
         "firstName": "Luke Taylor",
         flag: '../../../../assets/flags/uk.png',
-        "event": "2014 UK National Championships - Seniors",
+        "event": "2013 UK National Championships - Seniors",
         sprite1: '../../../../assets/sprites/kyurem.png',
         sprite2: '../../../../assets/sprites/deoxys.png',
         // list: '../../../../assets/list-icon.png',
@@ -142,7 +142,7 @@ let masters = [
     {
         "firstName": "Sam Marshall-Smith",
         flag: '../../../../assets/flags/uk.png',
-        "event": "2014 UK National Championships - Seniors",
+        "event": "2013 UK National Championships - Seniors",
         sprite1: '../../../../assets/sprites/kyurem.png',
         sprite2: '../../../../assets/sprites/deoxys.png',
         // list: '../../../../assets/list-icon.png',

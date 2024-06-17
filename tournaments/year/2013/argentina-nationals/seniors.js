@@ -1,10 +1,10 @@
 let masters = [
     {
-        "firstName": "Kaiwen Cabbabe",
-        flag: '../../../../assets/flags/australia.png',
-        "event": "2013 Australia National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/thundurus-therian.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
+        "firstName": "Mauro S",
+        flag: '../../../../assets/flags/argentina.png',
+        "event": "2013 Argentina National Championships - Seniors",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/darkrai.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -20,11 +20,11 @@ let masters = [
         }
     },
     {
-        "firstName": "Jordan Palmer",
-        flag: '../../../../assets/flags/australia.png',
-        "event": "2013 Australia National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/thundurus-therian.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
+        "firstName": "Victor S.F.",
+        flag: '../../../../assets/flags/argentina.png',
+        "event": "2013 Argentina National Championships - Seniors",
+        sprite1: '../../../../assets/sprites/landorus-therian.png',
+        sprite2: '../../../../assets/sprites/garbodor.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -40,9 +40,9 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/australia.png',
-        "event": "2013 Australia National Championships - Seniors",
+        "firstName": "Gabriel C",
+        flag: '../../../../assets/flags/argentina.png',
+        "event": "2013 Argentina National Championships - Seniors",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
         // list: '../../../../assets/list-icon.png',
@@ -60,11 +60,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/australia.png',
-        "event": "2013 Australia National Championships - Seniors",
+        "firstName": "Tomas B",
+        flag: '../../../../assets/flags/argentina.png',
+        "event": "2013 Argentina National Championships - Seniors",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/darkrai.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
