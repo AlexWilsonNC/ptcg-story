@@ -496,16 +496,33 @@ let masters = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/beedrill.png',
     sprite2: '../../../assets/sprites/luxray.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
     event: '2009 US National Championships',
     decklist: {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
-      ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
-      ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 2, "name": "Beedrill", "set": "RR", "number": "15"},
+        {"count": 2, "name": "Beedrill", "set": "GE", "number": "13"},
+        {"count": 4, "name": "Kakuna", "set": "RR", "number": "66"},
+        {"count": 4, "name": "Weedle", "set": "GE", "number": "93"},
+        {"count": 4, "name": "Claydol", "set": "GE", "number": "15"},
+        {"count": 2, "name": "Baltoy", "set": "GE", "number": "60"},
+        {"count": 1, "name": "Luxray GL LV.X", "set": "RR", "number": "109"},
+        {"count": 1, "name": "Luxray GL", "set": "RR", "number": "9"},
+        {"count": 3, "name": "Unown G", "set": "GE", "number": "57"},
+        {"count": 1, "name": "Azelf", "set": "LA", "number": "19"},
+            ], "trainer": [
+              {"count": 4, "name": "Roseanne's Research", "set": "SW", "number": "125"},
+              {"count": 4, "name": "Bebe's Search", "set": "SW", "number": "119"},
+              {"count": 2, "name": "Cyrus's Conspiracy", "set": "PL", "number": "105"},
+              {"count": 2, "name": "Cynthia's Feelings", "set": "LA", "number": "131"},
+              {"count": 4, "name": "Rare Candy", "set": "GE", "number": "102"},
+              {"count": 4, "name": "Team Galactic's Invention G-105 Poké Turn", "set": "PL", "number": "118"},
+              {"count": 4, "name": "Night Maintenance", "set": "MT", "number": "113"},
+              {"count": 2, "name": "Warp Point", "set": "MD", "number": "88"},
+              {"count": 1, "name": "Luxury Ball", "set": "SF", "number": "86"},
+              {"count": 3, "name": "Broken Time-Space", "set": "PL", "number": "104"},
+            ], "energy": [
+        {"count": 6, "name": "Grass Energy", "set": "DP", "number": "123"},
       ]
     },
     deck: []
