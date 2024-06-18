@@ -604,13 +604,121 @@ let masters = [
     flag: '../../assets/flags/denmark.png',
     sprite1: '../../assets/sprites/flygon.png',
     sprite2: '../../assets/sprites/magcargo.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    list: '../../assets/list-icon.png',
+    type: 'metal',
     deck: [
       {
-        cardImg: '../../assets/cards/2007-2008',
+        cardImg: '../../assets/cards/2007-2008/flygon-ex.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/vibrava-grass.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/vibrava-psychic.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/trapinch-grass.png',
         numImg: '../../assets/04.png'
       },
+      {
+        cardImg: '../../assets/cards/2007-2008/magcargo.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/slugma.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/nidoqueen-metal.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/nidoran-metal.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/castform.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/holons-magnemite.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/tv-reporter.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/holon-mentor.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/holon-scientist.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/holon-adventurer.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/holons-farmer.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/holon-researcher.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/holon-transceiver.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/rare-candy-2006.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/windstorm.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/warp-point-2007.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/switch.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/pluspower.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/strangth-charm.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2007-2008/giant-stump.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/old-energy/lightning-energy-power-keepers.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/old-energy/boost-energy.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/old-energy/react-energy.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/old-energy/rainbow-energy-2006.png',
+        numImg: '../../assets/03.png'
+      }
     ]
   },
   {
@@ -2266,7 +2374,7 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2007-2008/eevee.png',
+        cardImg: '../../assets/cards/2007-2008/eevee-2007.png',
         numImg: '../../assets/04.png'
       },
       {
