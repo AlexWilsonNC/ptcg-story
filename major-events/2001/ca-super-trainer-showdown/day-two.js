@@ -2605,7 +2605,7 @@ let juniors = [
   },
   {
     firstName: 'Yi-An Lu',
-    flag: '../../../assets/flags/usa.png',
+    flag: '../../../assets/flags/uk.png',
     sprite1: '../../../assets/sprites/sandslash.png',
     sprite2: '../../../assets/sprites/muk.png',
     list: '../../../assets/list-icon.png',

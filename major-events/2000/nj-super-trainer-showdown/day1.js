@@ -1335,7 +1335,7 @@ let seniors = [
   },
   {
     firstName: 'Yi-An Lu',
-    flag: '../../../assets/flags/usa.png',
+    flag: '../../../assets/flags/uk.png',
     sprite1: '../../../assets/sprites/blastoise.png',
     sprite2: '../../../assets/sprites/wigglytuff.png',
     list: '../../../assets/list-icon.png',
