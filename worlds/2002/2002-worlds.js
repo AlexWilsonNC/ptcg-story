@@ -1067,7 +1067,7 @@ let masters = [
   },
   {
     firstName: 'Eric De Leon III',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
@@ -1082,7 +1082,7 @@ let masters = [
   },
   {
     firstName: 'Alex Schanz',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/steelix.png',
     sprite2: '../../assets/sprites/gyarados.png',
     list: '../../assets/sprites/blank.png',
@@ -1981,7 +1981,7 @@ let seniors = [
   },
   {
     firstName: 'Jose Eguia',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blastoise.png',
     sprite2: '../../assets/sprites/steelix.png',
     list: '../../assets/sprites/blank.png',

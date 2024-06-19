@@ -125,7 +125,7 @@ let masters = [
     firstName: '--',
     flag: '../../../assets/flags/unknown.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite2: '../../../assets/sprites/zubat.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
