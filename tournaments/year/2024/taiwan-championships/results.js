@@ -1,7 +1,7 @@
 let masters = [
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Cai Minyan",
+        flag: '../../../../assets/flags/taiwan.png',
         "event": "2024 Taiwan Championships",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/snorlax.png',
@@ -18,11 +18,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Lin Xinyan",
+        flag: '../../../../assets/flags/taiwan.png',
         "event": "2024 Taiwan Championships",
         sprite1: '../../../../assets/sprites/comfey.png',
-        sprite2: '../../../../assets/sprites/sableye.png',
+        sprite2: '../../../../assets/sprites/roaring-moon.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
