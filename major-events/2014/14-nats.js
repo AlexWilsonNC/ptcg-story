@@ -2295,7 +2295,7 @@ let sevenEvent = [
         ]
     },
     {
-        firstName: 'Simon Øbro',
+        firstName: 'Simon Øbro Thougaard',
         sprite1: '../../assets/sprites/blank.png',
         sprite2: '../../assets/hyphen.png',
         // list: '../../assets/list-icon.png',

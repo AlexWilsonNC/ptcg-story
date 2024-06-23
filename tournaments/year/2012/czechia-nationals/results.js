@@ -1,50 +1,10 @@
 let masters = [
   {
-      "firstName": "Petr Janouš",
-      flag: '../../../../assets/flags/czech-republic.png',
-      "event": "2013 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/keldeo-resolute.png',
-      sprite2: '../../../../assets/sprites/blastoise.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
-      "decklist": {
-          "pokemon": [
-              { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
-          ],
-          "trainer": [
-              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-          ],
-          "energy": [
-              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-          ]
-      }
-  },
-  {
-      "firstName": "Marek Rehacek",
-      flag: '../../../../assets/flags/czech-republic.png',
-      "event": "2013 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
-      "decklist": {
-          "pokemon": [
-              { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
-          ],
-          "trainer": [
-              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-          ],
-          "energy": [
-              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-          ]
-      }
-  },
-  {
       "firstName": "Martin Janouš",
       flag: '../../../../assets/flags/czech-republic.png',
-      "event": "2013 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/accelgor.png',
-      sprite2: '../../../../assets/sprites/gothitelle.png',
+      "event": "2012 Czechia National Championships",
+      sprite1: '../../../../assets/sprites/vanilluxe.png',
+      sprite2: '../../../../assets/sprites/vileplume.png',
       // list: '../../../../assets/list-icon.png',
       list: '../../../../assets/sprites/blank.png',
       "decklist": {
@@ -60,51 +20,11 @@ let masters = [
       }
   },
   {
-      "firstName": "Jaromir Kunz",
-      flag: '../../../../assets/flags/unknown.png',
-      "event": "2013 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
-      "decklist": {
-          "pokemon": [
-              { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
-          ],
-          "trainer": [
-              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-          ],
-          "energy": [
-              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-          ]
-      }
-  },
-  {
-      "firstName": "Michal Wojatschke",
-      flag: '../../../../assets/flags/unknown.png',
-      "event": "2013 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/sableye.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
-      "decklist": {
-          "pokemon": [
-              { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
-          ],
-          "trainer": [
-              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-          ],
-          "energy": [
-              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-          ]
-      }
-  },
-  {
-      "firstName": "Martin Kaninsky",
+      "firstName": "Jan Rodek",
       flag: '../../../../assets/flags/czech-republic.png',
-      "event": "2013 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/accelgor.png',
-      sprite2: '../../../../assets/sprites/gothitelle.png',
+      "event": "2012 Czechia National Championships",
+      sprite1: '../../../../assets/sprites/zekrom.png',
+      sprite2: '../../../../assets/sprites/eelektrik.png',
       // list: '../../../../assets/list-icon.png',
       list: '../../../../assets/sprites/blank.png',
       "decklist": {
@@ -122,9 +42,9 @@ let masters = [
   {
       "firstName": "Ondrej Hus",
       flag: '../../../../assets/flags/czech-republic.png',
-      "event": "2013 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
+      "event": "2012 Czechia National Championships",
+      sprite1: '../../../../assets/sprites/zekrom.png',
+      sprite2: '../../../../assets/sprites/eelektrik.png',
       // list: '../../../../assets/list-icon.png',
       list: '../../../../assets/sprites/blank.png',
       "decklist": {
@@ -140,11 +60,91 @@ let masters = [
       }
   },
   {
-      "firstName": "Tomas Just",
+      "firstName": "Igor Sulima",
       flag: '../../../../assets/flags/czech-republic.png',
-      "event": "2013 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
+      "event": "2012 Czechia National Championships",
+      sprite1: '../../../../assets/sprites/darkrai.png',
+      sprite2: '../../../../assets/sprites/terrakion.png',
+      // list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/sprites/blank.png',
+      "decklist": {
+          "pokemon": [
+              { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "trainer": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "energy": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ]
+      }
+  },
+  {
+      "firstName": "Martin Kaninsky",
+      flag: '../../../../assets/flags/czech-republic.png',
+      "event": "2012 Czechia National Championships",
+      sprite1: '../../../../assets/sprites/celebi.png',
+      sprite2: '../../../../assets/sprites/mewtwo.png',
+      // list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/sprites/blank.png',
+      "decklist": {
+          "pokemon": [
+              { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "trainer": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "energy": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ]
+      }
+  },
+  {
+      "firstName": "Dusan Minarik",
+      flag: '../../../../assets/flags/czech-republic.png',
+      "event": "2012 Czechia National Championships",
+      sprite1: '../../../../assets/sprites/darkrai.png',
+      sprite2: '../../../../assets/sprites/mewtwo.png',
+      // list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/sprites/blank.png',
+      "decklist": {
+          "pokemon": [
+              { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "trainer": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "energy": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ]
+      }
+  },
+  {
+      "firstName": "Ondrej Kopulety",
+      flag: '../../../../assets/flags/czech-republic.png',
+      "event": "2012 Czechia National Championships",
+      sprite1: '../../../../assets/sprites/zekrom.png',
+      sprite2: '../../../../assets/sprites/eelektrik.png',
+      // list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/sprites/blank.png',
+      "decklist": {
+          "pokemon": [
+              { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "trainer": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "energy": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ]
+      }
+  },
+  {
+      "firstName": "Martin Dvorak",
+      flag: '../../../../assets/flags/czech-republic.png',
+      "event": "2012 Czechia National Championships",
+      sprite1: '../../../../assets/sprites/empoleon.png',
+      sprite2: '../../../../assets/sprites/terrakion.png',
       // list: '../../../../assets/list-icon.png',
       list: '../../../../assets/sprites/blank.png',
       "decklist": {
