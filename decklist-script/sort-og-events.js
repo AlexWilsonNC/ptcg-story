@@ -492,7 +492,11 @@ function displayList(array = []) {
                                 //bw
                                 bw1, bwp,
                                 //hgss
-                                col1, hgss4, hgss3, hgss2, hgss1, hsp
+                                col1, hgss4, hgss3, hgss2, hgss1, hsp,
+                                //dp
+                                pl4, pl3, pl2, pl1, dp7, dp6, dp5, dp4, dp3, dp2, dp1, dpp,
+                                //other
+                                pop9, pop8
                             }
                             const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
                             pokeCard.setAttribute('src', cardFound.images.small);
