@@ -1,0 +1,82 @@
+let masters = [
+  {
+      "firstName": "Martin Shaw",
+      flag: '../../../../assets/flags/new-zealand.png',
+      "event": "2012 New Zealand National Championships",
+      sprite1: '../../../../assets/sprites/blank.png',
+      sprite2: '../../../../assets/sprites/terrakion.png',
+      // list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/sprites/blank.png',
+      "decklist": {
+          "pokemon": [
+              { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "trainer": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "energy": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ]
+      }
+  },
+  {
+      "firstName": "Rory T",
+      flag: '../../../../assets/flags/new-zealand.png',
+      "event": "2012 New Zealand National Championships",
+      sprite1: '../../../../assets/sprites/zoroark.png',
+      sprite2: '../../../../assets/sprites/weavile.png',
+      // list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/sprites/blank.png',
+      "decklist": {
+          "pokemon": [
+              { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "trainer": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "energy": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ]
+      }
+  },
+  {
+      "firstName": "Sun T",
+      flag: '../../../../assets/flags/new-zealand.png',
+      "event": "2012 New Zealand National Championships",
+      sprite1: '../../../../assets/sprites/lilligant.png',
+      sprite2: '../../../../assets/sprites/vileplume.png',
+      // list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/sprites/blank.png',
+      "decklist": {
+          "pokemon": [
+              { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "trainer": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "energy": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ]
+      }
+  },
+  {
+      "firstName": "Dylan C",
+      flag: '../../../../assets/flags/new-zealand.png',
+      "event": "2012 New Zealand National Championships",
+      sprite1: '../../../../assets/sprites/zekrom.png',
+      sprite2: '../../../../assets/sprites/eelektrik.png',
+      // list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/sprites/blank.png',
+      "decklist": {
+          "pokemon": [
+              { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "trainer": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ],
+          "energy": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ]
+      }
+  },
+]
