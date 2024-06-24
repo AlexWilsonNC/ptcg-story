@@ -106,16 +106,41 @@ let masters = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/gardevoir.png',
     sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
     event: '2008 US National Championships',
     decklist: {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
-      ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
-      ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 1, "name": "Gardevoir LV.X", "set": "SW", "number": "131"},
+        {"count": 3, "name": "Gardevoir", "set": "SW", "number": "7"},
+        {"count": 2, "name": "Gallade", "set": "SW", "number": "6"},
+        {"count": 3, "name": "Kirlia", "set": "SW", "number": "53"},
+        {"count": 3, "name": "Ralts", "set": "SW", "number": "102"},
+        {"count": 1, "name": "Ralts", "set": "DF", "number": "60"},
+        {"count": 2, "name": "Claydol", "set": "GE", "number": "15"},
+        {"count": 2, "name": "Baltoy", "set": "GE", "number": "60"},
+        {"count": 1, "name": "Tauros", "set": "CG", "number": "12"},
+        {"count": 1, "name": "Dusknoir", "set": "DP", "number": "2"},
+        {"count": 1, "name": "Duskull", "set": "DP", "number": "80"},
+        {"count": 1, "name": "Phione", "set": "MD", "number": "12"},
+            ], "trainer": [
+              {"count": 4, "name": "Celio's Network", "set": "CG", "number": "73"},
+              {"count": 3, "name": "Team Galactic's Wager", "set": "MT", "number": "115"},
+              {"count": 2, "name": "Castaway", "set": "CG", "number": "72"},
+              {"count": 1, "name": "Roseanne's Research", "set": "SW", "number": "125"},
+              {"count": 1, "name": "Copycat", "set": "DF", "number": "73"},
+              {"count": 1, "name": "Steven's Advice", "set": "PK", "number": "83"},
+              {"count": 4, "name": "Rare Candy", "set": "GE", "number": "102"},
+              {"count": 2, "name": "Night Maintenance", "set": "SW", "number": "120"},
+              {"count": 2, "name": "Warp Point", "set": "MD", "number": "88"},
+              {"count": 1, "name": "Windstorm", "set": "CG", "number": "85"},
+              {"count": 2, "name": "Cessation Crystal", "set": "CG", "number": "74"},
+              {"count": 1, "name": "Phoebe's Stadium", "set": "PK", "number": "79"},
+            ], "energy": [
+        {"count": 4, "name": "Psychic Energy", "set": "DP", "number": "127"},
+        {"count": 1, "name": "Fighting Energy", "set": "DP", "number": "128"},
+        {"count": 4, "name": "Call Energy", "set": "MD", "number": "92"},
+        {"count": 4, "name": "Double Rainbow Energy", "set": "CG", "number": "88"},
+        {"count": 2, "name": "Scramble Energy", "set": "DF", "number": "89"},
       ]
     },
     deck: [
