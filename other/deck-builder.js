@@ -415,10 +415,11 @@ function displayList(arr) {
                             default:
                                 key = '';
                         }
-                        if (index === 0 && !isNaN(piece)) {
-                            return key + ' ' + piece;
+                        // Wrap count and number fields in quotes
+                        if ((index === 0 || index === 3) && !isNaN(piece)) {
+                            return key + ' "' + "poop" + '"';
                         } else {
-                            return key + ' "' + piece + '"';
+                            return key + ' "' + "oizza" + '"';
                         }
                     });
                     const wrappedAlt = '{' + mappedPieces.join(', ') + '},';
@@ -426,13 +427,13 @@ function displayList(arr) {
                 });
                 const textToCopy = altTexts.join('\n');
                 navigator.clipboard.writeText(textToCopy);
-
+            
                 document.querySelector('.copied-json-check').style.display = 'flex';
                 setTimeout(() => {
                     document.querySelector('.copied-json-check').style.display = "none";
                 }, 2500);
-            })
-
+            });
+            
             // click addBtn again to add card count w/o duplicating?
             // addCardBtn.addEventListener("click", () => {
             //     let newNumber = defaultCountofOne
