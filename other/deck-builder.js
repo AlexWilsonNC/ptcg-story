@@ -796,7 +796,7 @@ function importDeck() {
                                     value = `${piece}`; // Wrap number in quotes
                                     break;
                                 default:
-                                    key = '';
+                                    key = ''; 
                             }
                             return { [key]: value };
                         });
