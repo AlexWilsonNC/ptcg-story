@@ -417,9 +417,9 @@ function displayList(arr) {
                         }
                         // Wrap count and number fields in quotes
                         if ((index === 0 || index === 3) && !isNaN(piece)) {
-                            return key + ' "' + "poop" + '"';
+                            return key + ' "' + piece + '"';
                         } else {
-                            return key + ' "' + "oizza" + '"';
+                            return key + ' "' + piece + '"';
                         }
                     });
                     const wrappedAlt = '{' + mappedPieces.join(', ') + '},';
@@ -750,8 +750,8 @@ function importDeck() {
                         trainer: [],
                         energy: []
                     };
-
-                    images.forEach((image, index) => {
+                
+                    images.forEach((image) => {
                         const altPieces = image.alt.split(' ');
                         if (altPieces.length === 5) { // Check if there are five pieces
                             altPieces[1] += ' ' + altPieces[2]; // Combine the second and third pieces if 5
@@ -779,9 +779,11 @@ function importDeck() {
                         }
                         const mappedPieces = altPieces.map((piece, index) => {
                             let key;
+                            let value = piece;
                             switch (index) {
                                 case 0:
                                     key = 'count';
+                                    value = `${piece}`; // Wrap count in quotes
                                     break;
                                 case 1:
                                     key = 'name';
@@ -791,18 +793,19 @@ function importDeck() {
                                     break;
                                 case 3:
                                     key = 'number';
+                                    value = `${piece}`; // Wrap number in quotes
                                     break;
                                 default:
                                     key = '';
                             }
-                            return { [key]: isNaN(piece) ? piece : parseInt(piece) };
+                            return { [key]: value };
                         });
                         const cardObject = Object.assign({}, ...mappedPieces);
-
+                
                         // Determine the category of the card
                         const idParts = image.id.split(',');
                         const category = idParts[0];
-
+                
                         if (category === 'Pokémon') {
                             altTexts.pokemon.push(cardObject);
                         } else if (category === 'Trainer') {
@@ -811,10 +814,10 @@ function importDeck() {
                             altTexts.energy.push(cardObject);
                         }
                     });
-
+                
                     // Convert the decklist object to a JSON string without extra spaces or indentation
                     const textToCopy = JSON.stringify(altTexts);
-
+                
                     navigator.clipboard.writeText(textToCopy);
                 
                     document.querySelector('.copied-json-check').style.display = 'flex';
@@ -822,7 +825,7 @@ function importDeck() {
                         document.querySelector('.copied-json-check').style.display = "none";
                     }, 2500);
                 });
-            });
+                            });
             document.querySelector('.current-deck-count').innerHTML = totalCardCount;
 
             document.getElementById('deck-reset').addEventListener("click", () => {
