@@ -1,6 +1,7 @@
 const pokemonCard = [
    ...sv6pt5,
    ...sv6,
+   ...sv6,
    ...sv5,
    ...svp,
    ...sv4pt5,
@@ -171,8 +172,8 @@ function performSearch() {
       // card img
       let img = document.createElement('img');
       img.classList.add('database-card-in-list');
-      img.setAttribute('src", poke.images.small);
-      img.setAttribute('alt", poke.name + " " + poke.setAbbrev + " " + poke.number);
+      img.setAttribute('src', poke.images.small);
+      img.setAttribute('alt', poke.name + " " + poke.setAbbrev + " " + poke.number);
       img.id = poke.supertype + "," + poke.subtypes;
       img.loading = 'lazy';
 
@@ -190,9 +191,9 @@ function performSearch() {
          addCardBtn.style.pointerEvents = 'none';
          let deckImg = img.cloneNode(true);
          deckImg.classList.add('card-added-in-decklist');
-         deckImg.setAttribute('alt", "1" + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
+         deckImg.setAttribute('alt', "1" + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
          deckImg.onclick = () => {
-            zoomedImg.setAttribute('src", poke.images.large);
+            zoomedImg.setAttribute('src', poke.images.large);
             zoombox.className = "show";
          };
          let currentValue = parseInt(currCounter.innerHTML);
@@ -326,14 +327,14 @@ function performSearch() {
             let plusCards = document.querySelectorAll('.plus-card');
             let minusCards = document.querySelectorAll('.minus-card');
             plusCards.forEach(plusCard => {
-               plusCard.addEventListener('click", () => {
+               plusCard.addEventListener('click', () => {
                   // Your plus card logic here
                   let image = plusCard.parentNode.previousElementSibling;
                   let alt = image.getAttribute('alt');
                   let cardCount = parseInt(alt.match(/\d+/)[0]);
                   cardCount++;
                   let newAlt = alt.replace(/\d+/, cardCount);
-                  image.setAttribute('alt", newAlt);
+                  image.setAttribute('alt', newAlt);
 
                   if (!image.id.includes("Energy,Basic")) {
                      if (cardCount === 4) {
@@ -349,11 +350,11 @@ function performSearch() {
                   }
 
                   let currentCntNum = plusCard.parentNode.querySelector('.current-cnt-num');
-                  currentCntNum.setAttribute('src", "../assets/card-count/" + cardCount + ".png");
+                  currentCntNum.setAttribute('src', "../assets/card-count/" + cardCount + ".png");
                });
             });
             minusCards.forEach(minusCard => {
-               minusCard.addEventListener('click", () => {
+               minusCard.addEventListener('click', () => {
                   let image = minusCard.parentNode.previousElementSibling;
                   let alt = image.getAttribute('alt');
                   let cardCount = parseInt(alt.match(/\d+/)[0]);
@@ -362,7 +363,7 @@ function performSearch() {
                      cardCount = 0;
                   }
                   let newAlt = alt.replace(/\d+/, cardCount);
-                  image.setAttribute('alt", newAlt);
+                  image.setAttribute('alt', newAlt);
 
                   // Target the plus card within the same parent node as the minus card
                   let plusCard = minusCard.parentNode.querySelector('.plus-card');
@@ -376,7 +377,7 @@ function performSearch() {
                   }
 
                   let currentCntNum = minusCard.parentNode.querySelector('.current-cnt-num');
-                  currentCntNum.setAttribute('src", "../assets/card-count/" + cardCount + ".png");
+                  currentCntNum.setAttribute('src', "../assets/card-count/" + cardCount + ".png");
                });
             });
          });
@@ -395,7 +396,7 @@ function performSearch() {
 
          let cardCount = document.createElement('img');
          cardCount.classList.add('current-cnt-num');
-         cardCount.setAttribute('src", "../assets/card-count/" + defaultCountofOne + ".png");
+         cardCount.setAttribute('src', "../assets/card-count/" + defaultCountofOne + ".png");
 
          let plusCard = document.createElement('span');
          plusCard.classList.add('pm-card');
@@ -424,8 +425,8 @@ function performSearch() {
                   plusCard.style.pointerEvents = 'none';
                }
             }
-            cardCount.setAttribute('src", "../assets/card-count/" + newNumber + ".png");
-            deckImg.setAttribute('alt", newNumber + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
+            cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+            deckImg.setAttribute('alt', newNumber + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
             // currentDeckCount.innerHTML = newNumber;
          })
          minusCard.addEventListener("click", () => {
@@ -438,8 +439,8 @@ function performSearch() {
             currCounter.innerHTML = currentValue;
             plusCard.style.opacity = '1';
             plusCard.style.pointerEvents = 'all';
-            cardCount.setAttribute('src", "../assets/card-count/" + newNumber + ".png");
-            deckImg.setAttribute('alt", newNumber + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
+            cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+            deckImg.setAttribute('alt', newNumber + " " + poke.name + " " + poke.setAbbrev + " " + poke.number);
             if (defaultCountofOne === 0) {
                deckCardContainer.remove();
                addCardBtn.style.opacity = 1;
@@ -460,7 +461,7 @@ function performSearch() {
 
          // // PRINT DECKLIST
          let copyButton = document.querySelector('.copy-as-dckli');
-         copyButton.addEventListener('click", function () {
+         copyButton.addEventListener('click', function () {
             const images = document.querySelectorAll('.card-added-in-decklist');
             const altTexts = [];
             images.forEach(image => {
@@ -475,7 +476,7 @@ function performSearch() {
             }, 2500);
          })
          let exportJson = document.querySelector('.export-json');
-         exportJson.addEventListener('click", function () {
+         exportJson.addEventListener('click', function () {
             const images = document.querySelectorAll('.card-added-in-decklist');
             const altTexts = [];
             images.forEach((image, index) => {
@@ -528,7 +529,7 @@ function performSearch() {
                      return key + ' "' + piece + '"';
                   }
                });
-               const wrappedAlt = '{' + mappedPieces.join(", ') + '},';
+               const wrappedAlt = '{' + mappedPieces.join(', ') + '},';
                altTexts.push(wrappedAlt);
             });
             const textToCopy = altTexts.join('\n');
@@ -561,7 +562,7 @@ function performSearch() {
 
       // zoom card
       img.onclick = () => {
-         zoomedImg.setAttribute('src", poke.images.large);
+         zoomedImg.setAttribute('src', poke.images.large);
          zoombox.className = "show";
       };
       zoombox.onclick = () => {
@@ -570,7 +571,7 @@ function performSearch() {
 
       setsOl.appendChild(cardArea);
    });
-   document.getElementById('search-reset').addEventListener('click", () => {
+   document.getElementById('search-reset').addEventListener('click', () => {
       setsOl.innerHTML = ''; // Clear search results
    })
 }
@@ -581,16 +582,16 @@ function preprocessSearchQuery(query) {
 }
 
 // for button click
-searchButton.addEventListener('click", performSearch);
+searchButton.addEventListener('click', performSearch);
 
 // for Enter key press
-searchField.addEventListener('keypress", function (event) {
+searchField.addEventListener('keypress', function (event) {
    if (event.key === 'Enter') {
       performSearch();
    }
 });
 
-searchField.addEventListener('input", function () {
+searchField.addEventListener('input', function () {
    if (searchField.value.trim() === '') {
       setsOl.innerHTML = ''; // Clear search results
    }
