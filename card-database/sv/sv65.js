@@ -39,6 +39,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -157,6 +158,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -278,6 +280,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -400,6 +403,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -520,6 +524,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -634,6 +639,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -755,6 +761,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -878,6 +885,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -1001,6 +1009,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -1120,6 +1129,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -1243,6 +1253,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -1367,6 +1378,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -1482,6 +1494,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -1602,6 +1615,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -1729,6 +1743,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -1841,6 +1856,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -1959,6 +1975,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -2087,6 +2104,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -2215,6 +2233,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -2342,6 +2361,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -2468,6 +2488,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -2589,6 +2610,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -2711,6 +2733,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -2833,6 +2856,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -2954,6 +2978,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -3078,6 +3103,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -3202,6 +3228,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -3331,6 +3358,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -3451,6 +3479,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -3560,6 +3589,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -3682,6 +3712,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -3804,6 +3835,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -3925,6 +3957,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -4048,6 +4081,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -4174,6 +4208,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -4300,6 +4335,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -4412,6 +4448,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -4524,6 +4561,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -4635,6 +4673,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -4749,6 +4788,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -4881,6 +4921,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -5010,6 +5051,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -5135,6 +5177,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -5252,6 +5295,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -5368,6 +5412,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -5483,6 +5528,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -5598,6 +5644,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -5711,6 +5758,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -5833,6 +5881,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -5962,6 +6011,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -6071,6 +6121,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -6184,6 +6235,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -6307,6 +6359,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -6395,6 +6448,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -6480,6 +6534,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -6565,6 +6620,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -6650,6 +6706,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -6737,6 +6794,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -6815,6 +6873,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -6902,6 +6961,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -6980,6 +7040,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -7067,6 +7128,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -7145,6 +7207,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -7230,6 +7293,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -7324,6 +7388,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -7437,6 +7502,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -7552,6 +7618,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -7673,6 +7740,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -7794,6 +7862,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -7914,6 +7983,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -8033,6 +8103,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -8149,6 +8220,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -8255,6 +8327,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -8363,6 +8436,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -8475,6 +8549,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -8600,6 +8675,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -8709,6 +8785,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -8824,6 +8901,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -8940,6 +9018,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -9057,6 +9136,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -9177,6 +9257,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -9296,6 +9377,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -9408,6 +9490,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -9520,6 +9603,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -9631,6 +9715,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -9709,6 +9794,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -9787,6 +9873,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -9865,6 +9952,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -9943,6 +10031,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -10059,6 +10148,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -10171,6 +10261,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -10283,6 +10374,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -10394,6 +10486,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -10472,6 +10565,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -10583,6 +10677,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -10662,6 +10757,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -10740,6 +10836,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -10817,6 +10914,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
@@ -10893,6 +10991,7 @@ let sv6pt5 = [
             "id": "sv6pt5",
             "name": "Shrouded Fable",
             "series": "Scarlet & Violet",
+            "setAbbrev": "SFA",
             "printedTotal": 64,
             "total": 99,
             "legalities": {
