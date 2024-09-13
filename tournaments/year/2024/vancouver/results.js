@@ -1,4 +1,4 @@
-let masters = [{"name":"Nathian Beck",
+"masters": [{"name":"Nathian Beck",
 "flag": "US",
 "event": "2024 Vancouver Regionals",
 "placing":1,
@@ -3552,7 +3552,7 @@ let masters = [{"name":"Nathian Beck",
 "count":1, "name": "Double Turbo Energy - Special", "number":"216", "set": "ASR"}]},
 }]
 
-let seniors = [{"name":"Benny B.",
+"seniors": [{"name":"Benny B.",
 "flag": "CA",
 "event": "2024 Vancouver Regionals",
 "placing":1,
@@ -3880,7 +3880,7 @@ let seniors = [{"name":"Benny B.",
 "count":12, "name": "Psychic Energy - Basic", "number":"232", "set": "CRE"}]}}
 ]
 
-let juniors = [{"name":"Eric B.",
+"juniors": [{"name":"Eric B.",
 "flag": "US",
 "event": "2024 Vancouver Regionals",
 "placing":1,

@@ -1,6 +1,6 @@
 let players = [
     {
-        playerName: "Alex Wilson",
+        player"name": "Alex Wilson",
         country: "US",
         accomplishments: [
             {
@@ -10,8 +10,8 @@ let players = [
                 place: "71",
                 prize: "",
                 deck: {
-                    sprite1: '../assets/sprites/mew-vmax.png',
-                    sprite2: '../assets/sprites/genesect.png',
+                    "sprite1": "../assets/sprites/mew-vmax",
+                    sprite2: '../assets/sprites/genesect",
                 }
             },
             {
@@ -21,8 +21,8 @@ let players = [
                 place: "59",
                 prize: "500",
                 deck: {
-                    sprite1: '../assets/sprites/arceus.png',
-                    sprite2: '../assets/sprites/crobat-vmax.png',
+                    "sprite1": "../assets/sprites/arceus",
+                    sprite2: '../assets/sprites/crobat-vmax",
                 }
             },
         ]

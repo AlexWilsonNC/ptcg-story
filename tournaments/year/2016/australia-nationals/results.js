@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Jordan Palmer",
-      flag: '../../../../assets/flags/australia.png',
+      "name": "Jordan Palmer",
+      "flag": "AU",
       "event": "2016 Australia National Championships",
-      sprite1: '../../../../assets/sprites/yveltal.png',
-      sprite2: '../../../../assets/sprites/zoroark.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "yveltal",
+      sprite2: '../../../../assets/sprites/zoroark",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Shane Quinn",
-      flag: '../../../../assets/flags/australia.png',
+      "name": "Shane Quinn",
+      "flag": "AU",
       "event": "2016 Australia National Championships",
-      sprite1: '../../../../assets/sprites/bronzong.png',
-      sprite2: '../../../../assets/sprites/genesect.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "bronzong",
+      sprite2: '../../../../assets/sprites/genesect",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Michael Kan",
-      flag: '../../../../assets/flags/australia.png',
+      "name": "Michael Kan",
+      "flag": "AU",
       "event": "2016 Australia National Championships",
-      sprite1: '../../../../assets/sprites/joltik.png',
-      sprite2: '../../../../assets/sprites/pumpkaboo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "joltik",
+      sprite2: '../../../../assets/sprites/pumpkaboo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Blake Davies",
-      flag: '../../../../assets/flags/australia.png',
+      "name": "Blake Davies",
+      "flag": "AU",
       "event": "2016 Australia National Championships",
-      sprite1: '../../../../assets/sprites/joltik.png',
-      sprite2: '../../../../assets/sprites/pumpkaboo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "joltik",
+      sprite2: '../../../../assets/sprites/pumpkaboo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -80,13 +76,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Sameer Sangwan",
-      flag: '../../../../assets/flags/australia.png',
+      "name": "Sameer Sangwan",
+      "flag": "AU",
       "event": "2016 Australia National Championships",
-      sprite1: '../../../../assets/sprites/bronzong.png',
-      sprite2: '../../../../assets/sprites/genesect.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "bronzong",
+      sprite2: '../../../../assets/sprites/genesect",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -100,13 +95,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Matty Masefield",
-      flag: '../../../../assets/flags/australia.png',
+      "name": "Matty Masefield",
+      "flag": "AU",
       "event": "2016 Australia National Championships",
-      sprite1: '../../../../assets/sprites/zygarde-complete.png',
-      sprite2: '../../../../assets/sprites/vileplume.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zygarde-complete",
+      sprite2: '../../../../assets/sprites/vileplume",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -120,13 +114,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Brendan Vagg",
-      flag: '../../../../assets/flags/australia.png',
+      "name": "Brendan Vagg",
+      "flag": "AU",
       "event": "2016 Australia National Championships",
-      sprite1: '../../../../assets/sprites/seismitoad.png',
-      sprite2: '../../../../assets/sprites/giratina-origin.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "seismitoad",
+      sprite2: '../../../../assets/sprites/giratina-origin",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -140,13 +133,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Daniel Collins",
-      flag: '../../../../assets/flags/australia.png',
+      "name": "Daniel Collins",
+      "flag": "AU",
       "event": "2016 Australia National Championships",
-      sprite1: '../../../../assets/sprites/jolteon.png',
-      sprite2: '../../../../assets/sprites/garbodor.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "jolteon",
+      sprite2: '../../../../assets/sprites/garbodor",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

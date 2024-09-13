@@ -1,12 +1,12 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Yuka Furusawa',
-      flag: '../../assets/flags/japan.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/sprites/jumpluff.png',
-      list: '../../assets/list-icon.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Yuka Furusawa",
+      "flag": "JP",
+      "sprite1": "blank",
+      "sprite2": "jumpluff",
+       
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 4, "name": "Jumpluff", "set": "HS", "number": "6" },
           { "count": 3, "name": "Skiploom", "set": "SW", "number": "65" },
@@ -17,7 +17,7 @@ let masters = [
           { "count": 2, "name": "Uxie", "set": "LA", "number": "43" },
           { "count": 1, "name": "Crobat G", "set": "PL", "number": "47" },
           { "count": 4, "name": "Unown R", "set": "LA", "number": "77" },
-          { "count": 1, "name": "Unown Q", "set": "MD", "number": "49" },
+          { "count": 1, "name": "Unown Q", "set": "MD", "number": "49" }
         ], "trainer": [
           { "count": 4, "name": "Pokémon Collector", "set": "HS", "number": "97" },
           { "count": 3, "name": "Roseanne's Research", "set": "SW", "number": "125" },
@@ -30,20 +30,20 @@ let masters = [
           { "count": 2, "name": "Warp Point", "set": "MD", "number": "88" },
           { "count": 1, "name": "Luxury Ball", "set": "SF", "number": "86" },
           { "count": 1, "name": "Expert Belt", "set": "AR", "number": "87" },
-          { "count": 3, "name": "Broken Time-Space", "set": "PL", "number": "104" },
+          { "count": 3, "name": "Broken Time-Space", "set": "PL", "number": "104" }
         ], "energy": [
           { "count": 6, "name": "Grass Energy", "set": "HS", "number": "115" },
         ]
       },
     },
     {
-      firstName: 'Juan Arenas',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/luxray.png',
-      sprite2: '../../assets/sprites/garchomp.png',
-      list: '../../assets/list-icon.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Juan Arenas",
+      "flag": "US",
+      "sprite1": "luxray",
+      "sprite2": "garchomp",
+       
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 2, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
           { "count": 2, "name": "Luxray GL", "set": "RR", "number": "9" },
@@ -59,7 +59,7 @@ let masters = [
           { "count": 1, "name": "Bronzong G", "set": "PL", "number": "41" },
           { "count": 1, "name": "Lucario GL", "set": "RR", "number": "8" },
           { "count": 1, "name": "Toxicroak G", "set": "PR-DP", "number": "DP41" },
-          { "count": 1, "name": "Unown G", "set": "GE", "number": "57" },
+          { "count": 1, "name": "Unown G", "set": "GE", "number": "57" }
         ], "trainer": [
           { "count": 4, "name": "Cyrus's Conspiracy", "set": "PL", "number": "105" },
           { "count": 3, "name": "Pokémon Collector", "set": "HS", "number": "97" },
@@ -74,7 +74,7 @@ let masters = [
           { "count": 1, "name": "Pokémon Communication", "set": "HS", "number": "98" },
           { "count": 1, "name": "Premier Ball", "set": "GE", "number": "101" },
           { "count": 3, "name": "Team Galactic's Invention G-101 Energy Gain", "set": "PL", "number": "116" },
-          { "count": 1, "name": "Expert Belt", "set": "AR", "number": "87" },
+          { "count": 1, "name": "Expert Belt", "set": "AR", "number": "87" }
         ], "energy": [
           { "count": 3, "name": "Lightning Energy", "set": "HS", "number": "118" },
           { "count": 2, "name": "Psychic Energy", "set": "HS", "number": "119" },
@@ -84,13 +84,13 @@ let masters = [
       },
     },
     {
-      firstName: 'Simon Taylor',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/sprites/gyarados.png',
-      list: '../../assets/list-icon.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Simon Taylor",
+      "flag": "US",
+      "sprite1": "blank",
+      "sprite2": "gyarados",
+       
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 4, "name": "Gyarados", "set": "SF", "number": "19" },
           { "count": 4, "name": "Magikarp", "set": "SF", "number": "65" },
@@ -99,7 +99,7 @@ let masters = [
           { "count": 1, "name": "Uxie", "set": "LA", "number": "43" },
           { "count": 1, "name": "Azelf", "set": "LA", "number": "19" },
           { "count": 1, "name": "Combee", "set": "SF", "number": "57" },
-          { "count": 1, "name": "Regice", "set": "LA", "number": "36" },
+          { "count": 1, "name": "Regice", "set": "LA", "number": "36" }
         ], "trainer": [
           { "count": 4, "name": "Felicity's Drawing", "set": "GE", "number": "98" },
           { "count": 3, "name": "Pokémon Collector", "set": "HS", "number": "97" },
@@ -112,7 +112,7 @@ let masters = [
           { "count": 1, "name": "Warp Point", "set": "MD", "number": "88" },
           { "count": 1, "name": "Luxury Ball", "set": "SF", "number": "86" },
           { "count": 3, "name": "Expert Belt", "set": "AR", "number": "87" },
-          { "count": 4, "name": "Broken Time-Space", "set": "PL", "number": "104" },
+          { "count": 4, "name": "Broken Time-Space", "set": "PL", "number": "104" }
         ], "energy": [
           { "count": 4, "name": "Call Energy", "set": "MD", "number": "92" },
           { "count": 2, "name": "Cyclone Energy", "set": "SF", "number": "94" },
@@ -121,13 +121,13 @@ let masters = [
       },
     },
     {
-      firstName: 'Thomas Harle',
-      flag: '../../assets/flags/france.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/sprites/gyarados.png',
-      list: '../../assets/list-icon.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Thomas Harle",
+      "flag": "FR",
+      "sprite1": "blank",
+      "sprite2": "gyarados",
+       
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 3, "name": "Gyarados", "set": "SF", "number": "19" },
           { "count": 4, "name": "Magikarp", "set": "SF", "number": "65" },
@@ -141,7 +141,7 @@ let masters = [
           { "count": 1, "name": "Azelf", "set": "LA", "number": "19" },
           { "count": 1, "name": "Azelf", "set": "MT", "number": "4" },
           { "count": 1, "name": "Regice", "set": "LA", "number": "36" },
-          { "count": 1, "name": "Rapidash E4", "set": "RR", "number": "47" },
+          { "count": 1, "name": "Rapidash E4", "set": "RR", "number": "47" }
         ], "trainer": [
           { "count": 4, "name": "Felicity's Drawing", "set": "GE", "number": "98" },
           { "count": 2, "name": "Pokémon Collector", "set": "HS", "number": "97" },
@@ -157,7 +157,7 @@ let masters = [
           { "count": 1, "name": "Warp Point", "set": "MD", "number": "88" },
           { "count": 1, "name": "Luxury Ball", "set": "SF", "number": "86" },
           { "count": 2, "name": "Expert Belt", "set": "AR", "number": "87" },
-          { "count": 4, "name": "Broken Time-Space", "set": "PL", "number": "104" },
+          { "count": 4, "name": "Broken Time-Space", "set": "PL", "number": "104" }
         ], "energy": [
           { "count": 2, "name": "Darkness Energy", "set": "HS", "number": "121" },
           { "count": 3, "name": "Call Energy", "set": "MD", "number": "92" },
@@ -166,243 +166,243 @@ let masters = [
       },
     },
     {
-      firstName: 'Toshimi Yamazaki',
-      flag: '../../assets/flags/japan.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/hyphen.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Toshimi Yamazaki",
+      "flag": "JP",
+      "sprite1": "blank",
+      "sprite2": "hyphen",
+      list: '../../assets/sprites/blank",
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "trainer": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "energy": [
           { "count": 0, "name": "example", "set": "aa", "number": "00" },
         ]
       },
       deck: [
-        {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+        {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'}
       ]
     },
     {
-      firstName: 'Koichi Nishida',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/luxray.png',
-      sprite2: '../../assets/sprites/garchomp.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Koichi Nishida",
+      "flag": "US",
+      "sprite1": "luxray",
+      "sprite2": "garchomp",
+      list: '../../assets/sprites/blank",
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "trainer": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "energy": [
           { "count": 0, "name": "example", "set": "aa", "number": "00" },
         ]
       },
       deck: [
-        {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+        {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'}
       ]
     },
     {
-      firstName: 'Henry Chao',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/hyphen.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Henry Chao",
+      "flag": "US",
+      "sprite1": "blank",
+      "sprite2": "hyphen",
+      list: '../../assets/sprites/blank",
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "trainer": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "energy": [
           { "count": 0, "name": "example", "set": "aa", "number": "00" },
         ]
       },
       deck: [
-        {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+        {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'}
       ]
     },
     {
-      firstName: 'Hiroki Masuda',
-      flag: '../../assets/flags/japan.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/hyphen.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Hiroki Masuda",
+      "flag": "JP",
+      "sprite1": "blank",
+      "sprite2": "hyphen",
+      list: '../../assets/sprites/blank",
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "trainer": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "energy": [
           { "count": 0, "name": "example", "set": "aa", "number": "00" },
         ]
       },
       deck: [
-        {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+        {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'}
       ]
     },
     {
-      firstName: 'Sota Horikawa',
-      flag: '../../assets/flags/japan.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/hyphen.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Sota Horikawa",
+      "flag": "JP",
+      "sprite1": "blank",
+      "sprite2": "hyphen",
+      list: '../../assets/sprites/blank",
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "trainer": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "energy": [
           { "count": 0, "name": "example", "set": "aa", "number": "00" },
         ]
       },
       deck: [
-        {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+        {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'}
       ]
     },
     {
-      firstName: 'Gustavo Wada',
-      flag: '../../assets/flags/brazil.png',
-      sprite1: '../../assets/sprites/luxray.png',
-      sprite2: '../../assets/sprites/garchomp.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Gustavo Wada",
+      "flag": "BR",
+      "sprite1": "luxray",
+      "sprite2": "garchomp",
+      list: '../../assets/sprites/blank",
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "trainer": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "energy": [
           { "count": 0, "name": "example", "set": "aa", "number": "00" },
         ]
       },
       deck: [
-        {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+        {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'}
       ]
     },
     {
-      firstName: 'Tsubasa Nakamura',
-      flag: '../../assets/flags/japan.png',
-      sprite1: '../../assets/sprites/luxray.png',
-      sprite2: '../../assets/sprites/garchomp.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Tsubasa Nakamura",
+      "flag": "JP",
+      "sprite1": "luxray",
+      "sprite2": "garchomp",
+      list: '../../assets/sprites/blank",
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "trainer": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "energy": [
           { "count": 0, "name": "example", "set": "aa", "number": "00" },
         ]
       },
       deck: [
-        {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+        {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'}
       ]
     },
     {
-      firstName: 'Nao Kawamura',
-      flag: '../../assets/flags/japan.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/hyphen.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Nao Kawamura",
+      "flag": "JP",
+      "sprite1": "blank",
+      "sprite2": "hyphen",
+      list: '../../assets/sprites/blank",
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "trainer": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "energy": [
           { "count": 0, "name": "example", "set": "aa", "number": "00" },
         ]
       },
       deck: [
-        {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+        {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'}
       ]
     },
     {
-      firstName: 'Nathan Sweet',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/luxray.png',
-      sprite2: '../../assets/sprites/garchomp.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Nathan Sweet",
+      "flag": "US",
+      "sprite1": "luxray",
+      "sprite2": "garchomp",
+      list: '../../assets/sprites/blank",
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "trainer": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "energy": [
           { "count": 0, "name": "example", "set": "aa", "number": "00" },
         ]
       },
       deck: [
-        {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+        {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'}
       ]
     },
     {
-      firstName: 'Micah Olton',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/hyphen.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Micah Olton",
+      "flag": "US",
+      "sprite1": "blank",
+      "sprite2": "hyphen",
+      list: '../../assets/sprites/blank",
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "trainer": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "energy": [
           { "count": 0, "name": "example", "set": "aa", "number": "00" },
         ]
       },
       deck: [
-        {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+        {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'}
       ]
     },
     {
-      firstName: 'Titouan Vannay',
-      flag: '../../assets/flags/switzerland.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/sprites/shuppet.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Titouan Vannay",
+      "flag": "CH",
+      "sprite1": "blank",
+      "sprite2": "shuppet",
+      list: '../../assets/sprites/blank",
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "trainer": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "energy": [
           { "count": 0, "name": "example", "set": "aa", "number": "00" },
         ]
       },
       deck: [
-        {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+        {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'}
       ]
     },
     {
-      firstName: 'Sumika Yanagida',
-      flag: '../../assets/flags/japan.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/hyphen.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2010 World Championships - Juniors',
-      decklist: {
+      "name": "Sumika Yanagida",
+      "flag": "JP",
+      "sprite1": "blank",
+      "sprite2": "hyphen",
+      list: '../../assets/sprites/blank",
+      event: '2010 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "trainer": [
-          { "count": 0, "name": "example", "set": "aa", "number": "00" },
+          { "count": 0, "name": "example", "set": "aa", "number": "00" }
         ], "energy": [
           { "count": 0, "name": "example", "set": "aa", "number": "00" },
         ]
       },
       deck: [
-        {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+        {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'}
       ]
     }
   ]

@@ -45,13 +45,13 @@ const enableDarkMode = () => {
       upcomingeventstable.classList.add('darkon');
     })
 
-    document.querySelectorAll('[src="../assets/flags/globe.png"]').forEach(item => item.setAttribute('src', '../assets/flags/globe-dark.png'));
+    document.querySelectorAll('[src="../assets/flags/globe.png"]').forEach(item => item.setAttribute('src", '../assets/flags/globe-dark.png'));
     function addAttribute(){
-      document.querySelectorAll('[src="../assets/flags/globe.png"]').forEach(item => item.setAttribute('src', '../assets/flags/globe-dark.png'));
+      document.querySelectorAll('[src="../assets/flags/globe.png"]').forEach(item => item.setAttribute('src", '../assets/flags/globe-dark.png'));
     };
     window.onload = addAttribute;
 
-    localStorage.setItem('darkMode', 'enabled');
+    localStorage.setItem('darkMode", 'enabled');
   };
   
   const disableDarkMode = () => {
@@ -84,20 +84,20 @@ const enableDarkMode = () => {
       upcomingeventstable.classList.remove('darkon');
     })
 
-    document.querySelectorAll('[src="../assets/flags/globe-dark.png"]').forEach(item => item.setAttribute('src', '../assets/flags/globe.png'));
+    document.querySelectorAll('[src="../assets/flags/globe-dark.png"]').forEach(item => item.setAttribute('src", '../assets/flags/globe.png'));
     function addAttribute(){
-      document.querySelectorAll('[src="../assets/flags/globe-dark.png"]').forEach(item => item.setAttribute('src', '../assets/flags/globe.png'));
+      document.querySelectorAll('[src="../assets/flags/globe-dark.png"]').forEach(item => item.setAttribute('src", '../assets/flags/globe.png'));
     };
     window.onload = addAttribute;
 
-    localStorage.setItem('darkMode', null);
+    localStorage.setItem('darkMode", null);
   };
   
   if(darkMode === 'enabled') {
     enableDarkMode();
   }
   
-  toggle.addEventListener('click', () => {
+  toggle.addEventListener('click", () => {
     darkMode = localStorage.getItem('darkMode');
     if (darkMode !== 'enabled') {
       enableDarkMode();

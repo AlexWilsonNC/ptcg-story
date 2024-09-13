@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Rowan Stavenow',
-      flag: '../../assets/flags/canada.png',
-      sprite1: '../../assets/sprites/landorus-therian.png',
-      sprite2: '../../assets/sprites/crobat.png',
-      list: '../../assets/list-icon.png',
-      type: 'fighting',
-      event: '2015 World Championships - Juniors',
-      decklist: {
+      "name": "Rowan Stavenow",
+      "flag": "CA",
+      "sprite1": "landorus-therian",
+      "sprite2": "crobat",
+       
+      type: 'fighting",
+      event: '2015 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 2, "name": "Landorus-EX", "set": "BCR", "number": "89" },
           { "count": 3, "name": "Crobat", "set": "PHF", "number": "33" },
@@ -15,7 +15,7 @@ let masters = [
           { "count": 4, "name": "Zubat", "set": "PLS", "number": "53" },
           { "count": 4, "name": "Hawlucha", "set": "FFI", "number": "63" },
           { "count": 1, "name": "Lucario-EX", "set": "FFI", "number": "54" },
-          { "count": 1, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
+          { "count": 1, "name": "Shaymin-EX", "set": "ROS", "number": "77" }
         ], "trainer": [
           { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
           { "count": 2, "name": "Korrina", "set": "FFI", "number": "95" },
@@ -29,7 +29,7 @@ let masters = [
           { "count": 2, "name": "VS Seeker", "set": "PHF", "number": "109" },
           { "count": 4, "name": "Muscle Band", "set": "XY", "number": "121" },
           { "count": 3, "name": "Fighting Stadium", "set": "FFI", "number": "90" },
-          { "count": 2, "name": "Silent Lab", "set": "PRC", "number": "140" },
+          { "count": 2, "name": "Silent Lab", "set": "PRC", "number": "140" }
         ], "energy": [
           { "count": 5, "name": "Fighting Energy", "set": "XY", "number": "137" },
           { "count": 4, "name": "Strong Energy", "set": "FFI", "number": "104" },
@@ -37,19 +37,19 @@ let masters = [
       },
     },
     {
-      firstName: 'Alejandro Ng-Guzman',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/groudon-primal.png',
-      sprite2: '../../assets/sprites/wobbuffet.png',
-      list: '../../assets/list-icon.png',
-      type: 'fighting',
-      event: '2015 World Championships - Juniors',
-      decklist: {
+      "name": "Alejandro Ng-Guzman",
+      "flag": "US",
+      "sprite1": "groudon-primal",
+      "sprite2": "wobbuffet",
+       
+      type: 'fighting",
+      event: '2015 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 3, "name": "Primal Groudon-EX", "set": "PRC", "number": "86" },
           { "count": 3, "name": "Groudon-EX", "set": "PRC", "number": "85" },
           { "count": 3, "name": "Wobbuffet", "set": "PHF", "number": "36" },
-          { "count": 1, "name": "Bunnelby", "set": "PRC", "number": "121" },
+          { "count": 1, "name": "Bunnelby", "set": "PRC", "number": "121" }
         ], "trainer": [
           { "count": 4, "name": "Korrina", "set": "FFI", "number": "95" },
           { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
@@ -70,7 +70,7 @@ let masters = [
           { "count": 1, "name": "Focus Sash", "set": "FFI", "number": "91" },
           { "count": 2, "name": "Silent Lab", "set": "PRC", "number": "140" },
           { "count": 1, "name": "Fighting Stadium", "set": "FFI", "number": "90" },
-          { "count": 1, "name": "Shrine of Memories", "set": "PRC", "number": "139" },
+          { "count": 1, "name": "Shrine of Memories", "set": "PRC", "number": "139" }
         ], "energy": [
           { "count": 8, "name": "Fighting Energy", "set": "XY", "number": "137" },
           { "count": 4, "name": "Strong Energy", "set": "FFI", "number": "104" },
@@ -78,14 +78,14 @@ let masters = [
       },
     },
     {
-      firstName: 'Jackson Davies',
-      flag: '../../assets/flags/canada.png',
-      sprite1: '../../assets/sprites/seismitoad.png',
-      sprite2: '../../assets/sprites/crobat.png',
-      list: '../../assets/list-icon.png',
-      type: 'water',
-      event: '2015 World Championships - Juniors',
-      decklist: {
+      "name": "Jackson Davies",
+      "flag": "CA",
+      "sprite1": "seismitoad",
+      "sprite2": "crobat",
+       
+      type: 'water",
+      event: '2015 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 3, "name": "Seismitoad-EX", "set": "FFI", "number": "20" },
           { "count": 2, "name": "Manectric-EX", "set": "PHF", "number": "23" },
@@ -93,7 +93,7 @@ let masters = [
           { "count": 3, "name": "Golbat", "set": "PHF", "number": "32" },
           { "count": 4, "name": "Zubat", "set": "PLS", "number": "53" },
           { "count": 2, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
-          { "count": 1, "name": "Mewtwo-EX", "set": "LTR", "number": "54" },
+          { "count": 1, "name": "Mewtwo-EX", "set": "LTR", "number": "54" }
         ], "trainer": [
           { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
           { "count": 3, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -109,7 +109,7 @@ let masters = [
           { "count": 3, "name": "Super Scoop Up", "set": "FFI", "number": "100" },
           { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
           { "count": 2, "name": "Head Ringer Team Flare Hyper Gear", "set": "PHF", "number": "97" },
-          { "count": 3, "name": "Virbank City Gym", "set": "PLS", "number": "126" },
+          { "count": 3, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
         ], "energy": [
           { "count": 4, "name": "Lightning Energy", "set": "XY", "number": "135" },
           { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" },
@@ -117,14 +117,14 @@ let masters = [
       },
     },
     {
-      firstName: 'Enrico Marini',
-      flag: '../../assets/flags/italy.png',
-      sprite1: '../../assets/sprites/landorus-therian.png',
-      sprite2: '../../assets/sprites/crobat.png',
-      list: '../../assets/list-icon.png',
-      type: 'fighting',
-      event: '2015 World Championships - Juniors',
-      decklist: {
+      "name": "Enrico Marini",
+      "flag": "IT",
+      "sprite1": "landorus-therian",
+      "sprite2": "crobat",
+       
+      type: 'fighting",
+      event: '2015 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 2, "name": "Landorus-EX", "set": "BCR", "number": "89" },
           { "count": 3, "name": "Crobat", "set": "PHF", "number": "33" },
@@ -133,7 +133,7 @@ let masters = [
           { "count": 3, "name": "Hawlucha", "set": "FFI", "number": "63" },
           { "count": 1, "name": "Lucario-EX", "set": "FFI", "number": "54" },
           { "count": 1, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
-          { "count": 1, "name": "Bunnelby", "set": "PRC", "number": "121" },
+          { "count": 1, "name": "Bunnelby", "set": "PRC", "number": "121" }
         ], "trainer": [
           { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
           { "count": 3, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -149,7 +149,7 @@ let masters = [
           { "count": 1, "name": "Sacred Ash", "set": "FLF", "number": "96" },
           { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
           { "count": 2, "name": "Focus Sash", "set": "FFI", "number": "91" },
-          { "count": 3, "name": "Fighting Stadium", "set": "FFI", "number": "90" },
+          { "count": 3, "name": "Fighting Stadium", "set": "FFI", "number": "90" }
         ], "energy": [
           { "count": 5, "name": "Fighting Energy", "set": "XY", "number": "137" },
           { "count": 4, "name": "Strong Energy", "set": "FFI", "number": "104" },
@@ -157,14 +157,14 @@ let masters = [
       },
     },
     {
-      firstName: 'Everett Rutter-Ferris',
-      flag: '../../assets/flags/canada.png',
-      sprite1: '../../assets/sprites/landorus-therian.png',
-      sprite2: '../../assets/sprites/crobat.png',
-      list: '../../assets/list-icon.png',
-      type: 'fighting',
-      event: '2015 World Championships - Juniors',
-      decklist: {
+      "name": "Everett Rutter-Ferris",
+      "flag": "CA",
+      "sprite1": "landorus-therian",
+      "sprite2": "crobat",
+       
+      type: 'fighting",
+      event: '2015 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 2, "name": "Landorus-EX", "set": "BCR", "number": "89" },
           { "count": 3, "name": "Crobat", "set": "PHF", "number": "33" },
@@ -173,7 +173,7 @@ let masters = [
           { "count": 3, "name": "Hawlucha", "set": "FFI", "number": "63" },
           { "count": 1, "name": "Lucario-EX", "set": "FFI", "number": "54" },
           { "count": 1, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
-          { "count": 1, "name": "Bunnelby", "set": "PRC", "number": "121" },
+          { "count": 1, "name": "Bunnelby", "set": "PRC", "number": "121" }
         ], "trainer": [
           { "count": 3, "name": "Korrina", "set": "FFI", "number": "95" },
           { "count": 2, "name": "Professor Sycamore", "set": "XY", "number": "122" },
@@ -191,7 +191,7 @@ let masters = [
           { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
           { "count": 2, "name": "Focus Sash", "set": "FFI", "number": "91" },
           { "count": 2, "name": "Fighting Stadium", "set": "FFI", "number": "90" },
-          { "count": 2, "name": "Silent Lab", "set": "PRC", "number": "140" },
+          { "count": 2, "name": "Silent Lab", "set": "PRC", "number": "140" }
         ], "energy": [
           { "count": 5, "name": "Fighting Energy", "set": "XY", "number": "137" },
           { "count": 4, "name": "Strong Energy", "set": "FFI", "number": "104" },
@@ -199,21 +199,21 @@ let masters = [
       },
     },
     {
-      firstName: 'Asaki Hasegawa',
-      flag: '../../assets/flags/japan.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/sprites/donphan.png',
-      list: '../../assets/list-icon.png',
-      type: 'fighting',
-      event: '2015 World Championships - Juniors',
-      decklist: {
+      "name": "Asaki Hasegawa",
+      "flag": "JP",
+      "sprite1": "blank",
+      "sprite2": "donphan",
+       
+      type: 'fighting",
+      event: '2015 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 3, "name": "Donphan", "set": "PLS", "number": "72" },
           { "count": 4, "name": "Phanpy", "set": "PLS", "number": "71" },
           { "count": 2, "name": "Hawlucha", "set": "FFI", "number": "63" },
           { "count": 2, "name": "Wobbuffet", "set": "PHF", "number": "36" },
           { "count": 1, "name": "Bunnelby", "set": "PRC", "number": "121" },
-          { "count": 1, "name": "Regirock", "set": "PR-XY", "number": "49" },
+          { "count": 1, "name": "Regirock", "set": "PR-XY", "number": "49" }
         ], "trainer": [
           { "count": 4, "name": "Korrina", "set": "FFI", "number": "95" },
           { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -232,7 +232,7 @@ let masters = [
           { "count": 1, "name": "Focus Sash", "set": "FFI", "number": "91" },
           { "count": 1, "name": "Silver Bangle", "set": "PLB", "number": "88" },
           { "count": 3, "name": "Fighting Stadium", "set": "FFI", "number": "90" },
-          { "count": 1, "name": "Silent Lab", "set": "PRC", "number": "140" },
+          { "count": 1, "name": "Silent Lab", "set": "PRC", "number": "140" }
         ], "energy": [
           { "count": 5, "name": "Fighting Energy", "set": "XY", "number": "137" },
           { "count": 4, "name": "Strong Energy", "set": "FFI", "number": "104" }, ,
@@ -241,21 +241,21 @@ let masters = [
       },
     },
     {
-      firstName: 'Keita Saubaigne',
-      flag: '../../assets/flags/belgium.png',
-      sprite1: '../../assets/sprites/landorus-therian.png',
-      sprite2: '../../assets/sprites/leafeon.png',
-      list: '../../assets/list-icon.png',
-      type: 'fighting',
-      event: '2015 World Championships - Juniors',
-      decklist: {
+      "name": "Keita Saubaigne",
+      "flag": "BE",
+      "sprite1": "landorus-therian",
+      "sprite2": "leafeon",
+       
+      type: 'fighting",
+      event: '2015 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 2, "name": "Landorus-EX", "set": "BCR", "number": "89" },
           { "count": 3, "name": "Leafeon", "set": "PLF", "number": "11" },
           { "count": 3, "name": "Eevee", "set": "FFI", "number": "80" },
           { "count": 4, "name": "Hawlucha", "set": "FFI", "number": "63" },
           { "count": 2, "name": "Lucario-EX", "set": "FFI", "number": "54" },
-          { "count": 1, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
+          { "count": 1, "name": "Shaymin-EX", "set": "ROS", "number": "77" }
         ], "trainer": [
           { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
           { "count": 3, "name": "Colress", "set": "PLS", "number": "118" },
@@ -268,7 +268,7 @@ let masters = [
           { "count": 3, "name": "Switch", "set": "KSS", "number": "38" },
           { "count": 4, "name": "Muscle Band", "set": "XY", "number": "121" },
           { "count": 2, "name": "Focus Sash", "set": "FFI", "number": "91" },
-          { "count": 4, "name": "Fighting Stadium", "set": "FFI", "number": "90" },
+          { "count": 4, "name": "Fighting Stadium", "set": "FFI", "number": "90" }
         ], "energy": [
           { "count": 6, "name": "Fighting Energy", "set": "XY", "number": "137" },
           { "count": 4, "name": "Strong Energy", "set": "FFI", "number": "104" },
@@ -276,14 +276,14 @@ let masters = [
       },
     },
     {
-      firstName: 'Yuto Omura',
-      flag: '../../assets/flags/japan.png',
-      sprite1: '../../assets/sprites/keldeo-resolute.png',
-      sprite2: '../../assets/sprites/blastoise.png',
-      list: '../../assets/list-icon.png',
-      type: 'water',
-      event: '2015 World Championships - Juniors',
-      decklist: {
+      "name": "Yuto Omura",
+      "flag": "JP",
+      "sprite1": "keldeo-resolute",
+      "sprite2": "blastoise",
+       
+      type: 'water",
+      event: '2015 World Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 2, "name": "Blastoise", "set": "BCR", "number": "31" },
           { "count": 3, "name": "Keldeo-EX", "set": "BCR", "number": "49" },
@@ -291,7 +291,7 @@ let masters = [
           { "count": 2, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
           { "count": 2, "name": "Jirachi-EX", "set": "PLB", "number": "60" },
           { "count": 1, "name": "Bunnelby", "set": "PRC", "number": "121" },
-          { "count": 1, "name": "Kyurem", "set": "PLF", "number": "31" },
+          { "count": 1, "name": "Kyurem", "set": "PLF", "number": "31" }
         ], "trainer": [
           { "count": 2, "name": "Archie's Ace in the Hole", "set": "PRC", "number": "124" },
           { "count": 2, "name": "Professor Sycamore", "set": "XY", "number": "122" },

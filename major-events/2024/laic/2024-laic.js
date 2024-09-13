@@ -1,7 +1,7 @@
-let masters = [
+"masters": [
     {
-        "name": 'Juho Kallama',
-        "flag": 'FI',
+        "name": "Juho Kallama",
+        "flag": "FI",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -38,8 +38,8 @@ let masters = [
         },
     },
     {
-        "name": 'Noah Sawyer',
-        "flag": 'US',
+        "name": "Noah Sawyer",
+        "flag": "US",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -73,8 +73,8 @@ let masters = [
         },
     },
     {
-        "name": 'Ciaran Farah',
-        "flag": 'CA',
+        "name": "Ciaran Farah",
+        "flag": "CA",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -115,8 +115,8 @@ let masters = [
         },
     },
     {
-        "name": 'Gabriel Veloso',
-        "flag": 'BR',
+        "name": "Gabriel Veloso",
+        "flag": "BR",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -154,8 +154,8 @@ let masters = [
         },
     },
     {
-        "name": 'Brennan Kamerman',
-        "flag": 'NL',
+        "name": "Brennan Kamerman",
+        "flag": "NL",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -194,8 +194,8 @@ let masters = [
         },
     },
     {
-        "name": 'Matthew Burris',
-        "flag": 'AU',
+        "name": "Matthew Burris",
+        "flag": "AU",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -232,8 +232,8 @@ let masters = [
         },
     },
     {
-        "name": 'Keito Arai',
-        "flag": 'JP',
+        "name": "Keito Arai",
+        "flag": "JP",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -276,8 +276,8 @@ let masters = [
         },
     },
     {
-        "name": 'Jeremy Gibson',
-        "flag": 'US',
+        "name": "Jeremy Gibson",
+        "flag": "US",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -319,8 +319,8 @@ let masters = [
         },
     },
     {
-        "name": 'Fabrizio Inga Silva',
-        "flag": 'PE',
+        "name": "Fabrizio Inga Silva",
+        "flag": "PE",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -357,8 +357,8 @@ let masters = [
         },
     },
     {
-        "name": 'Facundo Facio',
-        "flag": 'AR',
+        "name": "Facundo Facio",
+        "flag": "AR",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -395,8 +395,8 @@ let masters = [
         },
     },
     {
-        "name": 'Pedro Pertusi',
-        "flag": 'BR',
+        "name": "Pedro Pertusi",
+        "flag": "BR",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -436,8 +436,8 @@ let masters = [
         },
     },
     {
-        "name": 'William Azevedo',
-        "flag": 'BR',
+        "name": "William Azevedo",
+        "flag": "BR",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -477,8 +477,8 @@ let masters = [
         },
     },
     {
-        "name": 'Aneil Saini',
-        "flag": 'CA',
+        "name": "Aneil Saini",
+        "flag": "CA",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -512,8 +512,8 @@ let masters = [
         },
     },
     {
-        "name": 'Ian Robb',
-        "flag": 'US',
+        "name": "Ian Robb",
+        "flag": "US",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -547,8 +547,8 @@ let masters = [
         },
     },
     {
-        "name": 'Caleb Rogerson',
-        "flag": 'US',
+        "name": "Caleb Rogerson",
+        "flag": "US",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -584,8 +584,8 @@ let masters = [
         },
     },
     {
-        "name": 'Angel Aranibar Huamaní',
-        "flag": 'PE',
+        "name": "Angel Aranibar Huamaní",
+        "flag": "PE",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -622,8 +622,8 @@ let masters = [
         },
     },
     {
-        "name": 'Jeremy Gumila',
-        "flag": 'US',
+        "name": "Jeremy Gumila",
+        "flag": "US",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -662,8 +662,8 @@ let masters = [
         },
     },
     {
-        "name": 'Okada Ryuki',
-        "flag": 'JP',
+        "name": "Okada Ryuki",
+        "flag": "JP",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -704,8 +704,8 @@ let masters = [
         },
     },
     {
-        "name": 'Miloslav Poslední',
-        "flag": 'CZ',
+        "name": "Miloslav Poslední",
+        "flag": "CZ",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -743,8 +743,8 @@ let masters = [
         },
     },
     {
-        "name": 'Maurício Almeida',
-        "flag": 'BR',
+        "name": "Maurício Almeida",
+        "flag": "BR",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -781,8 +781,8 @@ let masters = [
         },
     },
     {
-        "name": 'Bryan de Vries',
-        "flag": 'NL',
+        "name": "Bryan de Vries",
+        "flag": "NL",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -820,8 +820,8 @@ let masters = [
         },
     },
     {
-        "name": 'Angus Johnson',
-        "flag": 'AU',
+        "name": "Angus Johnson",
+        "flag": "AU",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -859,8 +859,8 @@ let masters = [
         },
     },
     {
-        "name": 'Thales Andrade',
-        "flag": 'BR',
+        "name": "Thales Andrade",
+        "flag": "BR",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -900,8 +900,8 @@ let masters = [
         },
     },
     {
-        "name": 'Duncan Crowley',
-        "flag": 'US',
+        "name": "Duncan Crowley",
+        "flag": "US",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -938,8 +938,8 @@ let masters = [
         },
     },
     {
-        "name": 'Douglas Maiola',
-        "flag": 'BR',
+        "name": "Douglas Maiola",
+        "flag": "BR",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -978,8 +978,8 @@ let masters = [
         },
     },
     {
-        "name": 'Nicholas Moffitt',
-        "flag": 'US',
+        "name": "Nicholas Moffitt",
+        "flag": "US",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -1022,8 +1022,8 @@ let masters = [
         },
     },
     {
-        "name": 'Grant Hays',
-        "flag": 'US',
+        "name": "Grant Hays",
+        "flag": "US",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -1061,8 +1061,8 @@ let masters = [
         },
     },
     {
-        "name": 'Michael Bergerac',
-        "flag": 'US',
+        "name": "Michael Bergerac",
+        "flag": "US",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -1101,8 +1101,8 @@ let masters = [
         },
     },
     {
-        "name": 'Heddi Brahmi',
-        "flag": 'FR',
+        "name": "Heddi Brahmi",
+        "flag": "FR",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -1137,8 +1137,8 @@ let masters = [
         },
     },
     {
-        "name": 'Lucas Jordão',
-        "flag": 'BR',
+        "name": "Lucas Jordão",
+        "flag": "BR",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -1173,8 +1173,8 @@ let masters = [
         },
     },
     {
-        "name": 'Juan Andree',
-        "flag": 'CL',
+        "name": "Juan Andree",
+        "flag": "CL",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -1211,8 +1211,8 @@ let masters = [
         },
     },
     {
-        "name": 'Alessandro Cremascoli',
-        "flag": 'IT',
+        "name": "Alessandro Cremascoli",
+        "flag": "IT",
         "event": "2024 Latin America Internationals",
         "decklist":
         {
@@ -1974,7 +1974,7 @@ let masters = [
     }
 ]
 
-let seniors = [{
+"seniors": [{
     "name": "gabriel f.",
     "flag": "BR",
     "placing": 1,
@@ -2032,7 +2032,7 @@ let seniors = [{
 }
 ]
 
-let juniors = [{
+"juniors": [{
     "name": "Prince Williams",
     "flag": "US",
     "placing": 1,

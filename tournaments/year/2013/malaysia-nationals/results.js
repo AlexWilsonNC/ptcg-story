@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Shane Chee",
-      flag: '../../../../assets/flags/malaysia.png',
+      "name": "Shane Chee",
+      "flag": "MY",
       "event": "2013 Malaysia National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/darkrai.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/darkrai",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Kent Ng",
-      flag: '../../../../assets/flags/malaysia.png',
+      "name": "Kent Ng",
+      "flag": "MY",
       "event": "2013 Malaysia National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Yee Wei Chun",
-      flag: '../../../../assets/flags/malaysia.png',
+      "name": "Yee Wei Chun",
+      "flag": "MY",
       "event": "2013 Malaysia National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/darkrai.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/darkrai",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Nero Koh",
-      flag: '../../../../assets/flags/malaysia.png',
+      "name": "Nero Koh",
+      "flag": "MY",
       "event": "2013 Malaysia National Championships",
-      sprite1: '../../../../assets/sprites/lugia.png',
-      sprite2: '../../../../assets/sprites/darkrai.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "lugia",
+      sprite2: '../../../../assets/sprites/darkrai",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -80,13 +76,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Richard Lee",
-      flag: '../../../../assets/flags/malaysia.png',
+      "name": "Richard Lee",
+      "flag": "MY",
       "event": "2013 Malaysia National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -100,13 +95,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Aaron Minjoot",
-      flag: '../../../../assets/flags/malaysia.png',
+      "name": "Aaron Minjoot",
+      "flag": "MY",
       "event": "2013 Malaysia National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/klinklang.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/klinklang",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -120,13 +114,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Izmir Armani",
-      flag: '../../../../assets/flags/malaysia.png',
+      "name": "Izmir Armani",
+      "flag": "MY",
       "event": "2013 Malaysia National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -140,13 +133,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Lawrence Chong",
-      flag: '../../../../assets/flags/malaysia.png',
+      "name": "Lawrence Chong",
+      "flag": "MY",
       "event": "2013 Malaysia National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

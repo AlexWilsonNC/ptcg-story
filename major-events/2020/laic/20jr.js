@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Pedro Augusto Buto',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/adp.png',
-      sprite2: '../../../assets/sprites/keldeo.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Pedro Augusto Buto",
+      "flag": "BR",
+      "sprite1": "adp",
+      "sprite2": "keldeo",
+       
       deckid: "adp",
       event: "2020 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -50,7 +50,7 @@ let masters = [
             "name": "Drampa",
             "number": "159",
             "set": "CEC"
-        },
+        }
         ],
         "trainer": [
           {
@@ -130,7 +130,7 @@ let masters = [
               "name": "Chaotic Swell",
               "number": "187",
               "set": "CEC"
-          },
+          }
         ],
         "energy": [
           {
@@ -149,14 +149,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Marley Skyum',
-      flag: '../../../assets/flags/denmark.png',
-      sprite1: '../../../assets/sprites/oranguru.png',
-      sprite2: '../../../assets/sprites/pidgeotto.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Marley Skyum",
+      "flag": "DK",
+      "sprite1": "oranguru",
+      "sprite2": "pidgeotto",
+       
       deckid: "guru-pidgey",
       event: "2020 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -205,7 +205,7 @@ let masters = [
               "name": "Jirachi",
               "number": "99",
               "set": "TEU"
-            },
+            }
         ],
         "trainer": [
           {
@@ -321,7 +321,7 @@ let masters = [
               "name": "Champions Festival",
               "number": "231",
               "set": "PR-SM"
-          },
+          }
         ],
         "energy": [
           {
@@ -340,14 +340,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Patrik Polak',
-      flag: '../../../assets/flags/slovakia.png',
-      sprite1: '../../../assets/sprites/adp.png',
-      sprite2: '../../../assets/sprites/keldeo.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Patrik Polak",
+      "flag": "SK",
+      "sprite1": "adp",
+      "sprite2": "keldeo",
+       
       deckid: "adp",
       event: "2020 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -390,7 +390,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
         ],
         "trainer": [
           {
@@ -482,7 +482,7 @@ let masters = [
               "name": "Chaotic Swell",
               "number": "187",
               "set": "CEC"
-          },
+          }
         ],
         "energy": [
           {
@@ -507,14 +507,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Yuri Lohan',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/adp.png',
-      sprite2: '../../../assets/sprites/keldeo.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Yuri Lohan",
+      "flag": "BR",
+      "sprite1": "adp",
+      "sprite2": "keldeo",
+       
       deckid: "adp",
       event: "2020 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -557,7 +557,7 @@ let masters = [
               "name": "Drampa",
               "number": "159",
               "set": "CEC"
-          },
+          }
         ],
         "trainer": [
           {
@@ -649,7 +649,7 @@ let masters = [
             "name": "Chaotic Swell",
             "number": "187",
             "set": "CEC"
-        },
+        }
         ],
         "energy": [
           {
@@ -674,14 +674,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Gabriel Fernandez',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/malamar.png',
-      sprite2: '../../../assets/sprites/giratina.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Gabriel Fernandez",
+      "flag": "BR",
+      "sprite1": "malamar",
+      "sprite2": "giratina",
+       
       deckid: "malamar",
       event: "2020 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -742,7 +742,7 @@ let masters = [
               "name": "Ditto ♢",
               "number": "154",
               "set": "LOT"
-          },
+          }
         ],
         "trainer": [
           {
@@ -810,7 +810,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
         ],
         "energy": [
           {
@@ -829,14 +829,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Samuel Castillo',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/gardevoir-sylveon-tagteam.png',
-      sprite2: '../../../assets/sprites/xerneas-active.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Samuel Castillo",
+      "flag": "BR",
+      "sprite1": "gardevoir-sylveon-tagteam",
+      "sprite2": "xerneas-active",
+       
       deckid: "gardevoir-sylveon-tagteam",
       event: "2020 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -855,7 +855,7 @@ let masters = [
             "name": "Mega Lopunny & Jigglypuff GX",
             "number": "165",
             "set": "CEC"
-        },
+        }
         ],
         "trainer": [
           {
@@ -971,7 +971,7 @@ let masters = [
             "name": "Chaotic Swell",
             "number": "187",
             "set": "CEC"
-        },
+        }
         ],
         "energy": [
           {
@@ -984,14 +984,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Mia Sun',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/malamar.png',
-      sprite2: '../../../assets/sprites/giratina.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Mia Sun",
+      "flag": "US",
+      "sprite1": "malamar",
+      "sprite2": "giratina",
+       
       deckid: "malamar",
       event: "2020 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1046,7 +1046,7 @@ let masters = [
               "name": "Espurr",
               "number": "79",
               "set": "UNB"
-            },
+            }
         ],
         "trainer": [
           {
@@ -1120,7 +1120,7 @@ let masters = [
             "name": "Viridian Forest",
             "number": "156",
             "set": "TEU"
-        },
+        }
         ],
         "energy": [
           {
@@ -1139,14 +1139,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Megan Jacques',
-      flag: '../../../assets/flags/uk.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Megan Jacques",
+      "flag": "UK",
+      "sprite1": "blank",
+      "sprite2": "mewtwo-mew-tagteam",
+       
       deckid: "mewtwo-and-mew-tagteam",
       event: "2020 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1213,7 +1213,7 @@ let masters = [
               "name": "Marshadow",
               "number": "81",
               "set": "UNB"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1293,7 +1293,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
         ],
         "energy": [
           {

@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Martin Janouš",
-      flag: '../../../../assets/flags/czech-republic.png',
+      "name": "Martin Janouš",
+      "flag": "CZ",
       "event": "2012 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/vanilluxe.png',
-      sprite2: '../../../../assets/sprites/vileplume.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "vanilluxe",
+      sprite2: '../../../../assets/sprites/vileplume",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Jan Rodek",
-      flag: '../../../../assets/flags/czech-republic.png',
+      "name": "Jan Rodek",
+      "flag": "CZ",
       "event": "2012 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Ondrej Hus",
-      flag: '../../../../assets/flags/czech-republic.png',
+      "name": "Ondrej Hus",
+      "flag": "CZ",
       "event": "2012 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Igor Sulima",
-      flag: '../../../../assets/flags/czech-republic.png',
+      "name": "Igor Sulima",
+      "flag": "CZ",
       "event": "2012 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/terrakion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/terrakion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -80,13 +76,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Martin Kaninsky",
-      flag: '../../../../assets/flags/czech-republic.png',
+      "name": "Martin Kaninsky",
+      "flag": "CZ",
       "event": "2012 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/celebi.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "celebi",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -100,13 +95,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Dusan Minarik",
-      flag: '../../../../assets/flags/czech-republic.png',
+      "name": "Dusan Minarik",
+      "flag": "CZ",
       "event": "2012 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -120,13 +114,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Ondrej Kopulety",
-      flag: '../../../../assets/flags/czech-republic.png',
+      "name": "Ondrej Kopulety",
+      "flag": "CZ",
       "event": "2012 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -140,13 +133,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Martin Dvorak",
-      flag: '../../../../assets/flags/czech-republic.png',
+      "name": "Martin Dvorak",
+      "flag": "CZ",
       "event": "2012 Czechia National Championships",
-      sprite1: '../../../../assets/sprites/empoleon.png',
-      sprite2: '../../../../assets/sprites/terrakion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "empoleon",
+      sprite2: '../../../../assets/sprites/terrakion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

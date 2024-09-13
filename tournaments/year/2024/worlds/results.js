@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "eeee",
-      flag: '../../../../assets/flags',
+      "name": "eeee",
+      "flag": "../../../assets/flags",
       "event": "2012 eeee National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/hyphen.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/hyphen",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

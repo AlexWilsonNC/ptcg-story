@@ -1,4 +1,4 @@
-let masters = [{
+"masters": [{
   "name": "Konsta Kallama",
   "flag": "FI",
   "event": "2024 Lille Regionals",
@@ -2455,7 +2455,7 @@ let masters = [{
 }
 ]
 
-let seniors = [{
+"seniors": [{
   "name": "Luka L.",
    "flag": "FR",
   "placing": 1,
@@ -2570,7 +2570,7 @@ let seniors = [{
    "decklist": "", 
 }]
 
-let juniors = [{
+"juniors": [{
   "name": "Gregory V.",
    "flag": "FR",
   "placing": 1,

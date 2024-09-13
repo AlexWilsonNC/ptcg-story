@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Ryan Moorhouse",
-      flag: '../../../../assets/flags/uk.png',
+      "name": "Ryan Moorhouse",
+      "flag": "UK",
       "event": "2012 UK National Championships - Seniors",
-      sprite1: '../../../../assets/sprites/mewtwo.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "mewtwo",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Philip Rowley",
-      flag: '../../../../assets/flags/uk.png',
+      "name": "Philip Rowley",
+      "flag": "UK",
       "event": "2012 UK National Championships - Seniors",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/darkrai.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/darkrai",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Sam Smith",
-      flag: '../../../../assets/flags/uk.png',
+      "name": "Sam Smith",
+      "flag": "UK",
       "event": "2012 UK National Championships - Seniors",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/terrakion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/terrakion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Rhys Williams",
-      flag: '../../../../assets/flags/uk.png',
+      "name": "Rhys Williams",
+      "flag": "UK",
       "event": "2012 UK National Championships - Seniors",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -80,13 +76,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Dan Saunders",
-      flag: '../../../../assets/flags/uk.png',
+      "name": "Dan Saunders",
+      "flag": "UK",
       "event": "2012 UK National Championships - Seniors",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/hyphen.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/hyphen",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -100,13 +95,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Vlad Jelizarov",
-      flag: '../../../../assets/flags/uk.png',
+      "name": "Vlad Jelizarov",
+      "flag": "UK",
       "event": "2012 UK National Championships - Seniors",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -120,13 +114,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Danny Martin",
-      flag: '../../../../assets/flags/uk.png',
+      "name": "Danny Martin",
+      "flag": "UK",
       "event": "2012 UK National Championships - Seniors",
-      sprite1: '../../../../assets/sprites/vanilluxe.png',
-      sprite2: '../../../../assets/sprites/vileplume.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "vanilluxe",
+      sprite2: '../../../../assets/sprites/vileplume",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -140,13 +133,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Jack Old",
-      flag: '../../../../assets/flags/uk.png',
+      "name": "Jack Old",
+      "flag": "UK",
       "event": "2012 UK National Championships - Seniors",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

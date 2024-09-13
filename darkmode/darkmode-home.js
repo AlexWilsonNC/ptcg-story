@@ -108,7 +108,7 @@ const enableDarkMode = () => {
     }
     if (twittertweet) {
       twittertweet.forEach((twittertweet) => {
-        twittertweet.setAttribute('data-theme', 'dark');
+        twittertweet.setAttribute('data-theme", 'dark');
       })
     }
     if (featuredboxnameanddate) {
@@ -130,7 +130,7 @@ const enableDarkMode = () => {
     // dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
 
-    localStorage.setItem('darkMode', 'enabled');
+    localStorage.setItem('darkMode", 'enabled');
   };
   
   const disableDarkMode = () => {
@@ -220,7 +220,7 @@ const enableDarkMode = () => {
     }
     if (twittertweet) {
       twittertweet.forEach((twittertweet) => {
-        twittertweet.setAttribute('data-theme', 'light');
+        twittertweet.setAttribute('data-theme", 'light');
       })
     }
     if (featuredlink) {
@@ -232,14 +232,14 @@ const enableDarkMode = () => {
     // dropitdown1.classList.remove('darkon');
     dropitdown2.classList.remove('darkon');
 
-    localStorage.setItem('darkMode', null);
+    localStorage.setItem('darkMode", null);
   };
   
   if(darkMode === 'enabled') {
     enableDarkMode();
   }
   
-  toggle.addEventListener('click', () => {
+  toggle.addEventListener('click", () => {
     darkMode = localStorage.getItem('darkMode');
     if (darkMode !== 'enabled') {
       enableDarkMode();

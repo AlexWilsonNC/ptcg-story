@@ -1,12 +1,12 @@
-let masters = [
+"masters": [
     {
-        firstName: 'Anna Schipper',
-        flag: '../../../../assets/flags/netherlands.png',
-        sprite1: '../../../../assets/sprites/zekrom.png',
-        sprite2: '../../../../assets/sprites/eelektrik.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2013 Netherlands National Championships',
-        decklist: {
+        "name": "Anna Schipper",
+        "flag": "NL",
+        "sprite1": "zekrom",
+        "sprite2": "eelektrik",
+        list: '../../../../assets/list-icon",
+        event: '2013 Netherlands National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 3, "name": "Zekrom", "set": "BLW", "number": "47" },
                 { "count": 1, "name": "Zekrom-EX", "set": "NXD", "number": "51" },
@@ -36,14 +36,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Mees Brenninkmeijer',
-        flag: '../../../../assets/flags/netherlands.png',
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/sableye.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Netherlands National Championships',
-        decklist: {
+        "name": "Mees Brenninkmeijer",
+        "flag": "NL",
+        "sprite1": "darkrai",
+        "sprite2": "sableye",
+        
+        event: '2013 Netherlands National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -54,14 +53,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Elmer Stouten',
-        flag: '../../../../assets/flags/netherlands.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/klinklang.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Netherlands National Championships',
-        decklist: {
+        "name": "Elmer Stouten",
+        "flag": "NL",
+        "sprite1": "blank",
+        "sprite2": "klinklang",
+        
+        event: '2013 Netherlands National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -72,14 +70,13 @@ let masters = [
         },
     },
     {
-        firstName: 'David Booij',
-        flag: '../../../../assets/flags/netherlands.png',
-        sprite1: '../../../../assets/sprites/kyurem.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Netherlands National Championships',
-        decklist: {
+        "name": "David Booij",
+        "flag": "NL",
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+        
+        event: '2013 Netherlands National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -90,14 +87,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Gawein Wagner',
-        flag: '../../../../assets/flags/netherlands.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Netherlands National Championships',
-        decklist: {
+        "name": "Gawein Wagner",
+        "flag": "NL",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 Netherlands National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -108,14 +104,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Freddy Dijkstra',
-        flag: '../../../../assets/flags/netherlands.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Netherlands National Championships',
-        decklist: {
+        "name": "Freddy Dijkstra",
+        "flag": "NL",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 Netherlands National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -126,14 +121,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Arnoud Van Bemmelen',
-        flag: '../../../../assets/flags/netherlands.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Netherlands National Championships',
-        decklist: {
+        "name": "Arnoud Van Bemmelen",
+        "flag": "NL",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 Netherlands National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -144,14 +138,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Benjamin Pham',
-        flag: '../../../../assets/flags/netherlands.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Netherlands National Championships',
-        decklist: {
+        "name": "Benjamin Pham",
+        "flag": "NL",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 Netherlands National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [

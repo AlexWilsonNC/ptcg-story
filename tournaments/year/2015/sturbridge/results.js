@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
 {
-        "firstName": "Dylan Bryan",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Dylan Bryan",
+        "flag": "US",
         "event": "2015 Sturbridge Regionals",
-        sprite1: '../../../../assets/sprites/manectric-mega.png',
-        sprite2: '../../../../assets/sprites/aegislash.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "manectric-mega",
+        "sprite2": "aegislash",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -18,13 +16,12 @@ let masters = [
         }
     },
 {
-        "firstName": "Azul Garcia Griego",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Azul Garcia Griego",
+        "flag": "US",
         "event": "2015 Sturbridge Regionals",
-        sprite1: '../../../../assets/sprites/florges.png',
-        sprite2: '../../../../assets/sprites/aromatisse.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "florges",
+        "sprite2": "aromatisse",
+"decklist": {
             "pokemon": [
                 {"count": 3, "name": "Florges-EX", "set": "PHF", "number": "67"},
                 {"count": 3, "name": "Xerneas", "set": "XY", "number": "96"},
@@ -54,14 +51,12 @@ let masters = [
         }
     },
 {
-        "firstName": "Jimmy O'Brien",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Jimmy O'Brien",
+        "flag": "US",
         "event": "2015 Sturbridge Regionals",
-        sprite1: '../../../../assets/sprites/trevenant.png',
-        sprite2: '../../../../assets/sprites/accelgor.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "trevenant",
+        "sprite2": "accelgor",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -72,13 +67,12 @@ let masters = [
         }
     },
 {
-        "firstName": "Chris Leandro",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Chris Leandro",
+        "flag": "US",
         "event": "2015 Sturbridge Regionals",
-        sprite1: '../../../../assets/sprites/florges.png',
-        sprite2: '../../../../assets/sprites/aromatisse.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "florges",
+        "sprite2": "aromatisse",
+"decklist": {
             "pokemon": [
                 {"count": 3, "name": "Florges-EX", "set": "PHF", "number": "67"},
                 {"count": 3, "name": "Xerneas", "set": "XY", "number": "96"},
@@ -108,14 +102,12 @@ let masters = [
         }
     },
 {
-        "firstName": "Thomas Masse",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Thomas Masse",
+        "flag": "US",
         "event": "2015 Sturbridge Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/exeggutor.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "exeggutor",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -126,14 +118,12 @@ let masters = [
         }
     },
 {
-        "firstName": "Michael Diaz",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Michael Diaz",
+        "flag": "US",
         "event": "2015 Sturbridge Regionals",
-        sprite1: '../../../../assets/sprites/trevenant.png',
-        sprite2: '../../../../assets/sprites/accelgor.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "trevenant",
+        "sprite2": "accelgor",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -144,14 +134,12 @@ let masters = [
         }
     },
 {
-        "firstName": "Russell LaParre",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Russell LaParre",
+        "flag": "US",
         "event": "2015 Sturbridge Regionals",
-        sprite1: '../../../../assets/sprites/flygon.png',
-        sprite2: '../../../../assets/sprites/dusknoir.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "flygon",
+        "sprite2": "dusknoir",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -162,14 +150,12 @@ let masters = [
         }
     },
 {
-        "firstName": "Drew Guritzky",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Drew Guritzky",
+        "flag": "US",
         "event": "2015 Sturbridge Regionals",
-        sprite1: '../../../../assets/sprites/trevenant.png',
-        sprite2: '../../../../assets/sprites/accelgor.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "trevenant",
+        "sprite2": "accelgor",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [

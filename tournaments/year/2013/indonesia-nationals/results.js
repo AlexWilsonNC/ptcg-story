@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Tito Santoso",
-      flag: '../../../../assets/flags/indonesia.png',
+      "name": "Tito Santoso",
+      "flag": "ID",
       "event": "2013 Indonesia National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/klinklang.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/klinklang",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Adrian Adi",
-      flag: '../../../../assets/flags/indonesia.png',
+      "name": "Adrian Adi",
+      "flag": "ID",
       "event": "2013 Indonesia National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Ferco Fido",
-      flag: '../../../../assets/flags/indonesia.png',
+      "name": "Ferco Fido",
+      "flag": "ID",
       "event": "2013 Indonesia National Championships",
-      sprite1: '../../../../assets/sprites/keldeo-resolute.png',
-      sprite2: '../../../../assets/sprites/blastoise.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "keldeo-resolute",
+      sprite2: '../../../../assets/sprites/blastoise",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Andrich Widipuro",
-      flag: '../../../../assets/flags/indonesia.png',
+      "name": "Andrich Widipuro",
+      "flag": "ID",
       "event": "2013 Indonesia National Championships",
-      sprite1: '../../../../assets/sprites/landorus-therian.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "landorus-therian",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

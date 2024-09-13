@@ -1,11 +1,11 @@
-let masters = [
+"masters": [
     {
-      "firstName": "Apichai Apichainimitdee",
-      flag: '../../../../assets/sprites/blank.png',
+      "name": "Apichai Apichainimitdee",
+      "flag": "../../../assets/sprites/blank",
       "event": "2024 Thailand Regional League #1",
-      sprite1: "../../../../assets/sprites/inteleon-vmax.png",
+      "sprite1": "inteleon-vmax.png",
       sprite2: "../../../../assets/sprites/urshifu-rapid-strike-gmax.png",
-      list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/list-icon",
       "decklist": { 
       "pokemon": [
         { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
@@ -16,7 +16,7 @@ let masters = [
         { "count": 2, "name": "Remoraid", "number": "36", "set": "BST" },
         { "count": 1, "name": "Medicham V", "number": "83", "set": "EVS" },
         { "count": 1, "name": "Radiant Alakazam", "number": "59", "set": "SIT" },
-        { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" },
+        { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" }
       ], "trainer": [
         { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
         { "count": 2, "name": "Iono", "number": "185", "set": "PAL" },
@@ -36,16 +36,16 @@ let masters = [
         { "count": 3, "name": "Tower of Waters", "number": "138", "set": "BST" },
     ], "energy": [
         { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-        { "count": 4, "name": "Rapid Strike Energy - Special", "number": "140", "set": "BST" },
+        { "count": 4, "name": "Rapid Strike Energy - Special", "number": "140", "set": "BST" }
       ]}
     },
     {
-      "firstName": "Tanakon Chumram",
-      flag: '../../../../assets/sprites/blank.png',
+      "name": "Tanakon Chumram",
+      "flag": "../../../assets/sprites/blank",
       "event": "2024 Thailand Regional League #1",
-      sprite1: "../../../../assets/sprites/giratina-origin.png",
+      "sprite1": "giratina-origin.png",
       sprite2: "../../../../assets/sprites/comfey.png",
-      list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/list-icon",
       "decklist": { 
       "pokemon": [
         { "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
@@ -69,7 +69,7 @@ let masters = [
           { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
           { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
           { "count": 1, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
-          { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+          { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" }
         ], 
           "energy": [
             { "count": 4, "name": "Grass Energy - Basic", "number": "152", "set": "CRZ" },
@@ -79,12 +79,12 @@ let masters = [
        ]}
     },
     {
-      "firstName": "Ingkarith Chinawonges",
-      flag: '../../../../assets/sprites/blank.png',
+      "name": "Ingkarith Chinawonges",
+      "flag": "../../../assets/sprites/blank",
       "event": "2024 Thailand Regional League #1",
-      sprite1: "../../../../assets/sprites/mew-vmax.png",
+      "sprite1": "mew-vmax.png",
       sprite2: "../../../../assets/sprites/genesect.png",
-      list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/list-icon",
       "decklist": { 
       "pokemon": [
         { "count": 3, "name": "Mew VMAX", "number": "114", "set": "FST" },
@@ -119,12 +119,12 @@ let masters = [
        ]}
     },
     {
-      "firstName": "Grist Apichol",
-      flag: '../../../../assets/sprites/blank.png',
+      "name": "Grist Apichol",
+      "flag": "../../../assets/sprites/blank",
       "event": "2024 Thailand Regional League #1",
-      sprite1: "../../../../assets/sprites/sableye.png",
+      "sprite1": "sableye.png",
       sprite2: "../../../../assets/sprites/comfey.png",
-      list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/list-icon",
       "decklist": { 
       "pokemon": [
         { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
@@ -151,7 +151,7 @@ let masters = [
         { "count": 1, "name": "Canceling Cologne", "number": "136", "set": "ASR" }, 
         { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
         { "count": 1, "name": "Bravery Charm", "number": "173", "set": "PAL" },
-        { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+        { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" }
       ], "energy": [
         { "count": 4, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
         { "count": 3, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
@@ -160,12 +160,12 @@ let masters = [
         ]}
     },
     {
-      "firstName": "Wichakorn Lohavichitranon",
-      flag: '../../../../assets/sprites/blank.png',
+      "name": "Wichakorn Lohavichitranon",
+      "flag": "../../../assets/sprites/blank",
       "event": "2024 Thailand Regional League #1",
-      sprite1: "../../../../assets/sprites/charizard.png",
+      "sprite1": "charizard.png",
       sprite2: "../../../../assets/sprites/pidgeot.png",
-     list: '../../../../assets/list-icon.png',
+     list: '../../../../assets/list-icon",
      "decklist": { 
      "pokemon": [
       { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
@@ -203,12 +203,12 @@ let masters = [
 ]}
     },
     {
-      "firstName": "Manussorn Thongdoung",
-      flag: '../../../../assets/sprites/blank.png',
+      "name": "Manussorn Thongdoung",
+      "flag": "../../../assets/sprites/blank",
       "event": "2024 Thailand Regional League #1",
-      sprite1: "../../../../assets/sprites/lugia.png",
+      "sprite1": "lugia.png",
       sprite2: "../../../../assets/sprites/archeops.png",
-     list: '../../../../assets/list-icon.png',
+     list: '../../../../assets/list-icon",
      "decklist": { 
      "pokemon": [
       { "count": 3, "name": "Lugia VSTAR", "number": "139", "set": "SIT" },
@@ -244,12 +244,12 @@ let masters = [
 ]}
     },
     {
-      "firstName": "Guntitat Horthong",
-      flag: '../../../../assets/sprites/blank.png',
+      "name": "Guntitat Horthong",
+      "flag": "../../../assets/sprites/blank",
       "event": "2024 Thailand Regional League #1",
-      sprite1: "../../../../assets/sprites/blank.png",
+      "sprite1": "blank",
       sprite2: "../../../../assets/sprites/gholdengo.png",
-     list: '../../../../assets/list-icon.png',
+     list: '../../../../assets/list-icon",
      "decklist": { 
      "pokemon": [
        { "count": 3, "name": "Gholdengo ex", "number": "139", "set": "PAR" },
@@ -282,12 +282,12 @@ let masters = [
     ]}
     },
     {
-      "firstName": "Yotee Jearanikoon",
-      flag: '../../../../assets/sprites/blank.png',
+      "name": "Yotee Jearanikoon",
+      "flag": "../../../assets/sprites/blank",
       "event": "2024 Thailand Regional League #1",
-      sprite1: "../../../../assets/sprites/giratina-origin.png",
+      "sprite1": "giratina-origin.png",
       sprite2: "../../../../assets/sprites/comfey.png",
-      list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/list-icon",
       "decklist": { 
       "pokemon": [
         { "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
@@ -310,22 +310,22 @@ let masters = [
           { "count": 2, "name": "Switch Cart", "number": "154", "set": "ASR" },
           { "count": 1, "name": "Switch", "number": "194", "set": "SVI" },
           { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
-          { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+          { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" }
         ], 
           "energy": [
            { "count": 4, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
             { "count": 3, "name": "Grass Energy - Basic", "number": "152", "set": "CRZ" },
            { "count": 3, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-            { "count": 4, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
+            { "count": 4, "name": "Jet Energy - Special", "number": "190", "set": "PAL" }
       ]}
     },
     {
-        "firstName": "Krittamet Santivivattanapong",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Krittamet Santivivattanapong",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Thailand Regional League #1",
-        sprite1: "../../../../assets/sprites/inteleon-vmax.png",
+        "sprite1": "inteleon-vmax.png",
         sprite2: "../../../../assets/sprites/urshifu-rapid-strike-gmax.png",
-        list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/list-icon",
         "decklist": { 
         "pokemon": [
           { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
@@ -336,7 +336,7 @@ let masters = [
           { "count": 2, "name": "Remoraid", "number": "36", "set": "BST" },
           { "count": 1, "name": "Medicham V", "number": "83", "set": "EVS" },
           { "count": 1, "name": "Radiant Alakazam", "number": "59", "set": "SIT" },
-          { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" },
+          { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" }
         ], "trainer": [
           { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
           { "count": 2, "name": "Iono", "number": "185", "set": "PAL" },
@@ -353,19 +353,19 @@ let masters = [
           { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" },
           { "count": 1, "name": "Echoing Horn", "number": "136", "set": "CRE" },
           { "count": 2, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
-          { "count": 3, "name": "Tower of Waters", "number": "138", "set": "BST" },
+          { "count": 3, "name": "Tower of Waters", "number": "138", "set": "BST" }
       ], "energy": [
           { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
           { "count": 4, "name": "Rapid Strike Energy - Special", "number": "140", "set": "BST" },
           ]}
       },
       {
-        "firstName": "Norawit ",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Norawit ",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Thailand Regional League #1",
-        sprite1: "../../../../assets/sprites/chien-pao.png",
+        "sprite1": "chien-pao.png",
         sprite2: "../../../../assets/sprites/baxcalibur.png",
-        list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/list-icon",
         "decklist": { 
         "pokemon": [
           { "count": 3, "name": "Chien-Pao ex", "number": "61", "set": "PAL" },
@@ -375,7 +375,7 @@ let masters = [
           { "count": 2, "name": "Bidoof", "number": "111", "set": "CRZ" },
           { "count": 1, "name": "Drapion V", "number": "118", "set": "LOR" },
           { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
-          { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+          { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" }
       ], "trainer": [
           { "count": 4, "name": "Irida", "number": "147", "set": "ASR" },
           { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
@@ -390,18 +390,18 @@ let masters = [
           { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
           { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" },
           { "count": 1, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
-          { "count": 4, "name": "PokeStop", "number": "68", "set": "PGO" },
+          { "count": 4, "name": "PokeStop", "number": "68", "set": "PGO" }
       ], "energy": [
           { "count": 9, "name": "Water Energy - Basic", "number": "231", "set": "CRE" }
       ]}
       },
       {
-        "firstName": "Jednipat Mayo",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Jednipat Mayo",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Thailand Regional League #1",
-        sprite1: "../../../../assets/sprites/giratina-origin.png",
+        "sprite1": "giratina-origin.png",
         sprite2: "../../../../assets/sprites/comfey.png",
-        list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/list-icon",
         "decklist": { 
         "pokemon": [
           { "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
@@ -410,7 +410,7 @@ let masters = [
           { "count": 2, "name": "Sableye", "number": "70", "set": "LOR" },
           { "count": 1, "name": "Cramorant", "number": "50", "set": "LOR" },
           { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
-          { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+          { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" }
         ],
           "trainer": [
            { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
@@ -435,12 +435,12 @@ let masters = [
           ]}
       },
       {
-        "firstName": "Kachapark Navanimitkul",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Kachapark Navanimitkul",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Thailand Regional League #1",
-        sprite1: "../../../../assets/sprites/arceus.png",
+        "sprite1": "arceus.png",
         sprite2: "../../../../assets/sprites/duraludon-gmax.png",
-        list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/list-icon",
         "decklist": { 
         "pokemon": [
           { "count": 3, "name": "Arceus VSTAR", "number": "123", "set": "BRS" },
@@ -448,7 +448,7 @@ let masters = [
           { "count": 2, "name": "Duraludon VMAX", "number": "104", "set": "CRZ" },
           { "count": 2, "name": "Duraludon V", "number": "122", "set": "EVS" },
           { "count": 2, "name": "Umbreon VMAX", "number": "95", "set": "EVS" },
-          { "count": 2, "name": "Umbreon V", "number": "94", "set": "EVS" },
+          { "count": 2, "name": "Umbreon V", "number": "94", "set": "EVS" }
         ], 
           "trainer": [
             { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
@@ -475,12 +475,12 @@ let masters = [
            ]}
       },
       {
-        "firstName": "Tanat Leksomboon",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Tanat Leksomboon",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Thailand Regional League #1",
-        sprite1: "../../../../assets/sprites/blank.png",
+        "sprite1": "blank",
         sprite2: "../../../../assets/sprites/gardevoir.png",
-       list: '../../../../assets/list-icon.png',
+       list: '../../../../assets/list-icon",
        "decklist": { 
        "pokemon": [
         { "count": 2, "name": "Gardevoir ex", "number": "86", "set": "SVI" },
@@ -516,12 +516,12 @@ let masters = [
 ]}
       },
     {
-      "firstName": "Napapol Chanvitan",
-      flag: '../../../../assets/sprites/blank.png',
+      "name": "Napapol Chanvitan",
+      "flag": "../../../assets/sprites/blank",
       "event": "2024 Thailand Regional League #1",
-      sprite1: "../../../../assets/sprites/giratina-origin.png",
+      "sprite1": "giratina-origin.png",
       sprite2: "../../../../assets/sprites/comfey.png",
-    list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/list-icon",
       "decklist": { 
       "pokemon": [
         { "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
@@ -545,22 +545,22 @@ let masters = [
           { "count": 2, "name": "Switch Cart", "number": "154", "set": "ASR" },
           { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
           { "count": 1, "name": "Switch", "number": "194", "set": "SVI" },
-          { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+          { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" }
         ], 
           "energy": [
            { "count": 4, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
            { "count": 3, "name": "Grass Energy - Basic", "number": "152", "set": "CRZ" },
            { "count": 3, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-            { "count": 3, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
+            { "count": 3, "name": "Jet Energy - Special", "number": "190", "set": "PAL" }
       ]}
     },
     {
-      "firstName": "Jasmine Chanvipas",
-      flag: '../../../../assets/sprites/blank.png',
+      "name": "Jasmine Chanvipas",
+      "flag": "../../../assets/sprites/blank",
       "event": "2024 Thailand Regional League #1",
-      sprite1: "../../../../assets/sprites/giratina-origin.png",
+      "sprite1": "giratina-origin.png",
       sprite2: "../../../../assets/sprites/comfey.png",
-      list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/list-icon",
       "decklist": { 
       "pokemon": [
         { "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
@@ -569,7 +569,7 @@ let masters = [
         { "count": 2, "name": "Cramorant", "number": "50", "set": "LOR" },
         { "count": 1, "name": "Sableye", "number": "70", "set": "LOR" },
         { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
-        { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+        { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" }
       ],
         "trainer": [
          { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
@@ -583,22 +583,22 @@ let masters = [
           { "count": 3, "name": "Switch Cart", "number": "154", "set": "ASR" },
           { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
           { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
-          { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+          { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" }
         ], 
           "energy": [
            { "count": 4, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
            { "count": 3, "name": "Grass Energy - Basic", "number": "152", "set": "CRZ" },
            { "count": 3, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-            { "count": 3, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
+            { "count": 3, "name": "Jet Energy - Special", "number": "190", "set": "PAL" }
       ]}
     },
     {
-      "firstName": "Jetnipat Likitsombat",
-      flag: '../../../../assets/sprites/blank.png',
+      "name": "Jetnipat Likitsombat",
+      "flag": "../../../assets/sprites/blank",
       "event": "2024 Thailand Regional League #1",
-      sprite1: "../../../../assets/sprites/giratina-origin.png",
+      "sprite1": "giratina-origin.png",
       sprite2: "../../../../assets/sprites/comfey.png",
-      list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/list-icon",
       "decklist": { 
       "pokemon": [
         { "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
@@ -608,7 +608,7 @@ let masters = [
         { "count": 1, "name": "Sableye", "number": "70", "set": "LOR" },
         { "count": 1, "name": "Snorlax", "number": "143", "set": "LOR" },
         { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
-        { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+        { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" }
       ],
         "trainer": [
          { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
@@ -622,13 +622,13 @@ let masters = [
           { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
           { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
           { "count": 1, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
-          { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+          { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" }
         ], 
           "energy": [
            { "count": 4, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
            { "count": 3, "name": "Grass Energy - Basic", "number": "152", "set": "CRZ" },
            { "count": 3, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-            { "count": 4, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
+            { "count": 4, "name": "Jet Energy - Special", "number": "190", "set": "PAL" }
       ]}
     },
   ]

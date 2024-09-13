@@ -1,11 +1,10 @@
-let masters = [
+"masters": [
   {
-    "firstName": "Nawon",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Nawon",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/charizard.png",
-    sprite2: "../../../../assets/sprites/pidgeot.png",
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "charizard",
+    "sprite2": "pidgeot",
     "decklist": {
       "pokemon": [
         { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
@@ -20,7 +19,7 @@ let masters = [
         { "count": 1, "name": "Lumineon V", "number": "250", "set": "PR-SW" },
         { "count": 1, "name": "Mew", "number": "11", "set": "CEL" },
         { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
-        { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" },
+        { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" }
       ], "trainer": [
         { "count": 4, "name": "Arven", "number": "186", "set": "OBF" },
         { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
@@ -38,19 +37,18 @@ let masters = [
         { "count": 1, "name": "Vitality Band", "number": "185", "set": "SSH" },
         { "count": 1, "name": "Choice Belt", "number": "176", "set": "PAL" },
         { "count": 2, "name": "Artazon", "number": "171", "set": "PAL" },
-        { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
+        { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" }
       ], "energy": [
-        { "count": 6, "name": "Fire Energy - Basic", "number": "2", "set": "SVE" },
+        { "count": 6, "name": "Fire Energy - Basic", "number": "2", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Wei Jun Seo",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Wei Jun Seo",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/miraidon.png",
-    sprite2: "../../../../assets/sprites/flaaffy.png",
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "miraidon",
+    "sprite2": "flaaffy",
     "decklist": {
       "pokemon": [
         { "count": 2, "name": "Miraidon ex", "number": "81", "set": "SVI" },
@@ -61,7 +59,7 @@ let masters = [
         { "count": 2, "name": "Flaaffy", "number": "55", "set": "EVS" },
         { "count": 2, "name": "Mareep", "number": "54", "set": "EVS" },
         { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" },
-        { "count": 1, "name": "Lumineon V", "number": "40", "set": "BRS" },
+        { "count": 1, "name": "Lumineon V", "number": "40", "set": "BRS" }
       ], "trainer": [
         { "count": 4, "name": "Professor's Research", "set": "PAF", "number": "88" },
         { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
@@ -76,20 +74,19 @@ let masters = [
         { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
         { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
         { "count": 1, "name": "Choice Belt", "number": "176", "set": "PAL" },
-        { "count": 3, "name": "Beach Court", "number": "167", "set": "SVI" },
+        { "count": 3, "name": "Beach Court", "number": "167", "set": "SVI" }
       ], "energy": [
         { "count": 14, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" },
         { "count": 2, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
       ]
-    },
+    }
   },
   {
-    "firstName": "Jun Woo",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Jun Woo",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/charizard.png",
-    sprite2: "../../../../assets/sprites/pidgeot.png",
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "charizard",
+    "sprite2": "pidgeot",
     "decklist": {
       "pokemon": [
         { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
@@ -103,7 +100,7 @@ let masters = [
         { "count": 1, "name": "Lumineon V", "number": "250", "set": "PR-SW" },
         { "count": 1, "name": "Mew", "number": "11", "set": "CEL" },
         { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
-        { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" },
+        { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" }
       ], "trainer": [
         { "count": 4, "name": "Arven", "number": "186", "set": "OBF" },
         { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
@@ -120,37 +117,36 @@ let masters = [
         { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
         { "count": 1, "name": "Vitality Band", "number": "197", "set": "SVI" },
         { "count": 2, "name": "Artazon", "number": "171", "set": "PAL" },
-        { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
+        { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" }
       ], "energy": [
-        { "count": 7, "name": "Fire Energy - Basic", "number": "2", "set": "SVE" },
+        { "count": 7, "name": "Fire Energy - Basic", "number": "2", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "--",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "blank",
+    "sprite2": "hyphen.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Sejun Park",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Sejun Park",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/miraidon.png",
-    sprite2: "../../../../assets/sprites/flaaffy.png",
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "miraidon",
+    "sprite2": "flaaffy",
     "decklist": {
       "pokemon": [
         { "count": 2, "name": "Miraidon ex", "number": "81", "set": "SVI" },
@@ -162,7 +158,7 @@ let masters = [
         { "count": 2, "name": "Mareep", "number": "54", "set": "EVS" },
         { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" },
         { "count": 1, "name": "Lumineon V", "number": "40", "set": "BRS" },
-        { "count": 1, "name": "Cobalion", "number": "126", "set": "SIT" },
+        { "count": 1, "name": "Cobalion", "number": "126", "set": "SIT" }
       ], "trainer": [
         { "count": 4, "name": "Professor's Research", "set": "PAF", "number": "88" },
         { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
@@ -178,7 +174,7 @@ let masters = [
         { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
         { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
         { "count": 1, "name": "Bravery Charm", "number": "173", "set": "PAL" },
-        { "count": 2, "name": "Beach Court", "number": "167", "set": "SVI" },
+        { "count": 2, "name": "Beach Court", "number": "167", "set": "SVI" }
       ], "energy": [
         { "count": 14, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" },
         { "count": 1, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
@@ -186,12 +182,11 @@ let masters = [
     }
   },
   {
-    "firstName": "Mido",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Mido",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/comfey.png",
-    sprite2: "../../../../assets/sprites/roaring-moon.png",
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "comfey",
+    "sprite2": "roaring-moon",
     "decklist": {
       "pokemon": [
         { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
@@ -227,19 +222,18 @@ let masters = [
     }
   },
   {
-    "firstName": "Salamis",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Salamis",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/mew-vmax.png",
-    sprite2: "../../../../assets/sprites/accelgor.png",
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "mew-vmax",
+    "sprite2": "accelgor",
     "decklist": {
       "pokemon": [
         { "count": 2, "name": "Mew VMAX", "number": "114", "set": "FST" },
         { "count": 4, "name": "Mew V", "number": "60", "set": "CRZ" },
         { "count": 4, "name": "Genesect V", "number": "185", "set": "FST" },
         { "count": 2, "name": "Accelgor", "number": "14", "set": "FST" },
-        { "count": 2, "name": "Shelmet", "number": "13", "set": "FST" },
+        { "count": 2, "name": "Shelmet", "number": "13", "set": "FST" }
       ],
       "trainer": [
         { "count": 2, "name": "Judge", "number": "176", "set": "SVI" },
@@ -260,39 +254,38 @@ let masters = [
         { "count": 3, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
         { "count": 1, "name": "Choice Belt", "number": "176", "set": "PAL" },
         { "count": 2, "name": "Path to the Peak", "number": "148", "set": "CRE" },
-        { "count": 1, "name": "Lost City", "number": "161", "set": "LOR" },
+        { "count": 1, "name": "Lost City", "number": "161", "set": "LOR" }
       ],
       "energy": [
         { "count": 3, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
-        { "count": 3, "name": "Fusion Strike Energy - Special", "number": "244", "set": "FST" },
+        { "count": 3, "name": "Fusion Strike Energy - Special", "number": "244", "set": "FST" }
       ]
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "--",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "blank",
+    "sprite2": "hyphen.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Seong Heon Kim",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Seong Heon Kim",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/miraidon.png",
-    sprite2: "../../../../assets/sprites/flaaffy.png",
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "miraidon",
+    "sprite2": "flaaffy",
     "decklist": {
       "pokemon": [
         { "count": 2, "name": "Miraidon ex", "number": "81", "set": "SVI" },
@@ -304,7 +297,7 @@ let masters = [
         { "count": 2, "name": "Mareep", "number": "54", "set": "EVS" },
         { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" },
         { "count": 1, "name": "Lumineon V", "number": "40", "set": "BRS" },
-        { "count": 1, "name": "Cobalion", "number": "126", "set": "SIT" },
+        { "count": 1, "name": "Cobalion", "number": "126", "set": "SIT" }
       ], "trainer": [
         { "count": 4, "name": "Professor's Research", "set": "PAF", "number": "88" },
         { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
@@ -320,7 +313,7 @@ let masters = [
         { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
         { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
         { "count": 1, "name": "Bravery Charm", "number": "173", "set": "PAL" },
-        { "count": 2, "name": "Beach Court", "number": "167", "set": "SVI" },
+        { "count": 2, "name": "Beach Court", "number": "167", "set": "SVI" }
       ], "energy": [
         { "count": 14, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" },
         { "count": 1, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
@@ -328,12 +321,11 @@ let masters = [
     }
   },
   {
-    "firstName": "Cheongye",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Cheongye",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/gardevoir.png",
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
     "decklist": {
       "pokemon": [
         { "count": 2, "name": "Gardevoir ex", "number": "86", "set": "SVI" },
@@ -348,7 +340,7 @@ let masters = [
         { "count": 1, "name": "Mew", "number": "11", "set": "CEL" },
         { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
         { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
-        { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" },
+        { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" }
       ], "trainer": [
         { "count": 4, "name": "Iono", "number": "185", "set": "PAL" },
         { "count": 1, "name": "Professor's Research", "number": "190", "set": "SVI" },
@@ -362,38 +354,37 @@ let masters = [
         { "count": 2, "name": "Counter Catcher", "number": "160", "set": "PAR" },
         { "count": 1, "name": "Pal Pad", "number": "182", "set": "SVI" },
         { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
-        { "count": 1, "name": "Moonlit Hill", "number": "81", "set": "PAF" },
+        { "count": 1, "name": "Moonlit Hill", "number": "81", "set": "PAF" }
       ], "energy": [
         { "count": 10, "name": "Basic Psychic Energy", "number": "5", "set": "SVE" },
-        { "count": 2, "name": "Reversal Energy - Special", "number": "192", "set": "PAL" },
+        { "count": 2, "name": "Reversal Energy - Special", "number": "192", "set": "PAL" }
       ]
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "--",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/charizard.png",
-    sprite2: "../../../../assets/sprites/pidgeot.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "charizard",
+    "sprite2": "pidgeot.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Salvador",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Salvador",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/giratina-origin.png",
-    sprite2: "../../../../assets/sprites/comfey.png",
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "giratina-origin",
+    "sprite2": "comfey",
     "decklist": {
       "pokemon": [
         {"count": 4, "name": "Comfey", "set": "LOR", "number": "79"},
@@ -428,74 +419,74 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "--",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "blank",
+    "sprite2": "hyphen.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "--",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "blank",
+    "sprite2": "hyphen.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "--",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "blank",
+    "sprite2": "hyphen.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "--",
+    "flag": "KR",
     "event": "2024 Korean League (Season 2)",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "blank",
+    "sprite2": "hyphen.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },

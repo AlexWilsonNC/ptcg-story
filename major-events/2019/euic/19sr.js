@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Tanner Hurley',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/buzzwole.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Tanner Hurley",
+      "flag": "US",
+      "sprite1": "zapdos",
+      "sprite2": "buzzwole",
+       
       deckid: "zap-beasts",
       event: "2019 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -68,7 +68,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-        },
+        }
         ],
         "trainer": [
           {
@@ -148,7 +148,7 @@ let masters = [
               "name": "Thunder Mountain ♢",
               "number": "191",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -173,14 +173,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Lewis Mason',
-      flag: '../../../assets/flags/uk.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/buzzwole.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Lewis Mason",
+      "flag": "UK",
+      "sprite1": "zapdos",
+      "sprite2": "buzzwole",
+       
       deckid: "zap-beasts",
       event: "2019 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -235,7 +235,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
         ],
         "trainer": [
           {
@@ -321,7 +321,7 @@ let masters = [
               "name": "Thunder Mountain ♢",
               "number": "191",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -346,14 +346,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Kaya Lichtleitner',
-      flag: '../../../assets/flags/germany.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Kaya Lichtleitner",
+      "flag": "DE",
+      "sprite1": "zoroark",
+      "sprite2": "lycanroc-midnight",
+       
       deckid: "zoroark-lycanroc",
       event: "2019 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -414,7 +414,7 @@ let masters = [
              "name": "Oranguru",
              "number": "114",
              "set": "UPR"
-         },
+         }
         ],
         "trainer": [
           {
@@ -512,7 +512,7 @@ let masters = [
               "name": "Devoured Field",
               "number": "93",
               "set": "CIN"
-          },
+          }
         ],
         "energy": [
           {
@@ -537,14 +537,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Julius Mo Krag',
-      flag: '../../../assets/flags/denmark.png',
-      sprite1: '../../../assets/sprites/regigigas.png',
-      sprite2: '../../../assets/sprites/hoopa-unbound.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Julius Mo Krag",
+      "flag": "DK",
+      "sprite1": "regigigas",
+      "sprite2": "hoopa-unbound",
+       
       deckid: "wall",
       event: "2019 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -581,7 +581,7 @@ let masters = [
                "name": "Lugia GX",
                "number": "159",
                "set": "LOT"
-           },
+           }
         ],
         "trainer": [
           {
@@ -703,7 +703,7 @@ let masters = [
             "name": "Wondrous Labyrinth ♢",
             "number": "158",
             "set": "TEU"
-        },
+        }
         ],
         "energy": [
           {
@@ -722,14 +722,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Alexandre Solé',
-      flag: '../../../assets/flags/belgium.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/oranguru.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Alexandre Solé",
+      "flag": "BE",
+      "sprite1": "zoroark",
+      "sprite2": "oranguru",
+       
       deckid: "zoroark-control",
       event: "2019 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -778,7 +778,7 @@ let masters = [
              "name": "Girafarig",
              "number": "94",
              "set": "LOT"
-         },
+         }
         ],
         "trainer": [
           {
@@ -876,7 +876,7 @@ let masters = [
                 "name": "Lavender Town",
                 "number": "147",
                 "set": "TEU"
-            },
+            }
         ],
         "energy": [
           {
@@ -889,14 +889,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Liam Halliburton',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Liam Halliburton",
+      "flag": "US",
+      "sprite1": "zapdos",
+      "sprite2": "pikachu-zekrom-tagteam",
+       
       deckid: "pikarom",
       event: "2019 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -939,7 +939,7 @@ let masters = [
             "name": "Wobbuffet",
             "number": "93",
             "set": "LOT"
-        },
+        }
         ],
         "trainer": [
           {
@@ -1025,7 +1025,7 @@ let masters = [
               "name": "Thunder Mountain ♢",
               "number": "191",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -1038,14 +1038,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Isaiah Bradner',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Isaiah Bradner",
+      "flag": "US",
+      "sprite1": "zapdos",
+      "sprite2": "pikachu-zekrom-tagteam",
+       
       deckid: "pikarom",
       event: "2019 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1082,7 +1082,7 @@ let masters = [
             "name": "Wobbuffet",
             "number": "93",
             "set": "LOT"
-        },
+        }
         ],
         "trainer": [
           {
@@ -1186,7 +1186,7 @@ let masters = [
               "name": "Thunder Mountain ♢",
               "number": "191",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -1199,14 +1199,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Regan Retzloff',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Regan Retzloff",
+      "flag": "US",
+      "sprite1": "zapdos",
+      "sprite2": "pikachu-zekrom-tagteam",
+       
       deckid: "pikarom",
       event: "2019 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -1279,7 +1279,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-        },
+        }
         ],
         "trainer": [
           {
@@ -1377,7 +1377,7 @@ let masters = [
               "name": "Thunder Mountain ♢",
               "number": "191",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {

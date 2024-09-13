@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Rafli Attar Ricco",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Rafli Attar Ricco",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/mew-vmax.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "mew-vmax",
+        "sprite2": "genesect",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -18,14 +16,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Enriko Adriano",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Enriko Adriano",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/mew-vmax.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "mew-vmax",
+        "sprite2": "genesect",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -36,14 +32,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Cedriec",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Cedriec",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/pidgeot.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "pidgeot",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -54,14 +48,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Christian",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Christian",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gardevoir.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "gardevoir",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -72,14 +64,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Said Azmi",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Said Azmi",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/giratina-origin.png',
-        sprite2: '../../../../assets/sprites/comfey.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "giratina-origin",
+        "sprite2": "comfey",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -90,14 +80,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Tito Santoso",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Tito Santoso",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gardevoir.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "gardevoir",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -108,14 +96,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Bhismantara",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Bhismantara",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/miraidon.png',
-        sprite2: '../../../../assets/sprites/flaaffy.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "miraidon",
+        "sprite2": "flaaffy",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -126,14 +112,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Yudhika Alyska Bijaury",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Yudhika Alyska Bijaury",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/zoroark.png',
-        sprite2: '../../../../assets/sprites/scizor.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "zoroark",
+        "sprite2": "scizor",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -144,14 +128,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Farhan Ubaidillah",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Farhan Ubaidillah",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/miraidon.png',
-        sprite2: '../../../../assets/sprites/flaaffy.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "miraidon",
+        "sprite2": "flaaffy",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -162,14 +144,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Yogie Surya",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Yogie Surya",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/archeops.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "lugia",
+        "sprite2": "archeops",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -180,14 +160,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Yason Timothy",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Yason Timothy",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/zoroark.png',
-        sprite2: '../../../../assets/sprites/scizor.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "zoroark",
+        "sprite2": "scizor",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -198,14 +176,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Nicholas Justin Sugianto",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Nicholas Justin Sugianto",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -216,14 +192,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Andrew Loekmanto",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Andrew Loekmanto",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/chien-pao.png',
-        sprite2: '../../../../assets/sprites/baxcalibur.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "chien-pao",
+        "sprite2": "baxcalibur",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -234,14 +208,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Marvin Julio",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Marvin Julio",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -252,14 +224,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Adhie",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Adhie",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/chien-pao.png',
-        sprite2: '../../../../assets/sprites/baxcalibur.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "chien-pao",
+        "sprite2": "baxcalibur",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -270,14 +240,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jovianto Vincent",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Jovianto Vincent",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #1",
-        sprite1: '../../../../assets/sprites/giratina-origin.png',
-        sprite2: '../../../../assets/sprites/comfey.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "giratina-origin",
+        "sprite2": "comfey",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [

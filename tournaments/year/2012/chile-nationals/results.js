@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Cristián Vidal",
-      flag: '../../../../assets/flags/chile.png',
+      "name": "Cristián Vidal",
+      "flag": "CL",
       "event": "2012 Chile National Championships",
-      sprite1: '../../../../assets/sprites/celebi.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "celebi",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Fernando Gaete",
-      flag: '../../../../assets/flags/chile.png',
+      "name": "Fernando Gaete",
+      "flag": "CL",
       "event": "2012 Chile National Championships",
-      sprite1: '../../../../assets/sprites/empoleon.png',
-      sprite2: '../../../../assets/sprites/terrakion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "empoleon",
+      sprite2: '../../../../assets/sprites/terrakion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Víctor Guerrero",
-      flag: '../../../../assets/flags/chile.png',
+      "name": "Víctor Guerrero",
+      "flag": "CL",
       "event": "2012 Chile National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Elías Durán",
-      flag: '../../../../assets/flags/chile.png',
+      "name": "Elías Durán",
+      "flag": "CL",
       "event": "2012 Chile National Championships",
-      sprite1: '../../../../assets/sprites/celebi.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "celebi",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

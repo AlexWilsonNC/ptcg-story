@@ -1,4 +1,4 @@
-let masters = [{"name":"Fabrizio Inga Silva",
+"masters": [{"name":"Fabrizio Inga Silva",
 "flag": "PE",
 "placing":1,
 "event": "2024 Liverpool Regionals",
@@ -647,7 +647,7 @@ let masters = [{"name":"Fabrizio Inga Silva",
        { "count": 1, "name": "Lumineon V", "number": "40", "set": "BRS" },
        { "count": 1, "name": "Mew", "number": "11", "set": "CEL" },
        { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" },
-       { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" },
+       { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" }
       ], "trainer": [
         { "count": 4, "name": "Melony", "number": "146", "set": "CRE" },
         { "count": 4, "name": "Irida", "number": "147", "set": "ASR" },
@@ -664,7 +664,7 @@ let masters = [{"name":"Fabrizio Inga Silva",
        { "count": 1, "name": "Switch Cart", "number": "154", "set": "ASR" },
        { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
        { "count": 1, "name": "Canceling Cologne", "number": "136", "set": "ASR" },
-       { "count": 1, "name": "PokeStop", "number": "68", "set": "PGO" },
+       { "count": 1, "name": "PokeStop", "number": "68", "set": "PGO" }
       ], "energy": [
       { "count": 9, "name": "Water Energy - Basic", "number": "231", "set": "CRE" }
     ]
@@ -1360,7 +1360,7 @@ let masters = [{"name":"Fabrizio Inga Silva",
 "decklist":{"pokemon":[{"count":3, "name": "Arceus VSTAR", "number":"123", "set": "BRS"},{"count":4, "name": "Arceus V", "number":"165", "set": "BRS"},{"count":1, "name": "Regigigas VSTAR", "number":"114", "set": "CRZ"},{"count":1, "name": "Regigigas V", "number":"113", "set": "CRZ"},{"count":2, "name": "Bibarel", "number":"121", "set": "BRS"},{"count":2, "name": "Bidoof", "number":"111", "set": "CRZ"},{"count":1, "name": "Skwovet", "number":"151", "set": "SVI"},{"count":1, "name": "Jirachi", "number":"126", "set": "PAR"},{"count":1, "name": "Spiritomb", "number":"89", "set": "PAL"}],"trainer":[{"count":4, "name": "Iono", "number":"80", "set": "PAF"},{"count":4, "name": "Boss's Orders", "number":"132", "set": "BRS"},{"count":2, "name": "Judge", "number":"235", "set": "FST"},{"count":1, "name": "Cheren's Care", "number":"134", "set": "BRS"},{"count":4, "name": "Ultra Ball", "number":"150", "set": "BRS"},{"count":4, "name": "Nest Ball", "number":"84", "set": "PAF"},{"count":1, "name": "Escape Rope", "number":"125", "set": "BST"},{"count":2, "name": "Lost Vacuum", "number":"135", "set": "CRZ"},{"count":1, "name": "Choice Belt", "number": "176", "set": "PAL"},{"count":1, "name": "Box of Disaster", "number":"154", "set": "LOR"},{"count":2, "name": "Full Face Guard", "number":"148", "set": "EVS"},{"count":4, "name": "Path to the Peak", "number": "148", "set": "CRE"}],"energy":[{"count":2, "name": "Jet Energy - Special", "number":"190", "set": "PAL"},{"count":2, "name": "V Guard Energy - Special", "number":"169", "set": "SIT"},{"count":4, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS"},{"count":1, "name": "Fire Energy - Basic", "number":"153", "set": "CRZ"},{"count":1, "name": "Water Energy - Basic", "number":"231", "set": "CRE"},{"count":1, "name": "Lightning Energy - Basic", "number":"155", "set": "CRZ"},{"count":1, "name": "Psychic Energy - Basic", "number":"232", "set": "CRE"},{"count":1, "name": "Grass Energy - Basic", "number":"152", "set": "CRZ"},{"count":1, "name": "Fighting Energy - Basic", "number":"233", "set": "CRE"}]}}
 ]
 
-let seniors = [{"name":"Felix C.",
+"seniors": [{"name":"Felix C.",
 "flag": "CH",
 "placing":1,
 "event": "2024 Liverpool Regionals",
@@ -1409,7 +1409,7 @@ let seniors = [{"name":"Felix C.",
 "decklist":{"pokemon":[{"count":3, "name": "Ralts", "number":"60", "set": "ASR"},{"count":1, "name": "Ralts", "number":"67", "set": "SIT"},{"count":1, "name": "Kirlia", "number":"60", "set": "CRE"},{"count":3, "name": "Kirlia", "number":"68", "set": "SIT"},{"count":2, "name": "Gardevoir", "number":"61", "set": "CRE"},{"count":2, "name": "Gardevoir ex", "number":"86", "set": "SVI"},{"count":1, "name": "Cresselia", "number":"74", "set": "LOR"},{"count":1, "name": "Scream Tail", "number":"86", "set": "PAR"},{"count":1, "name": "Manaphy", "number":"41", "set": "BRS"},{"count":1, "name": "Jirachi", "number":"126", "set": "PAR"},{"count":1, "name": "Mew", "number":"11", "set": "CEL"},{"count":1, "name": "Radiant Greninja", "number":"46", "set": "ASR"}],"trainer":[{"count":4, "name": "Battle VIP Pass", "number":"225", "set": "FST"},{"count":4, "name": "Level Ball", "number":"129", "set": "BST"},{"count":3, "name": "Ultra Ball", "number":"150", "set": "BRS"},{"count":2, "name": "Fog Crystal", "number":"140", "set": "CRE"},{"count":2, "name": "Rare Candy", "number":"142", "set": "CES"},{"count":2, "name": "Counter Catcher", "number":"160", "set": "PAR"},{"count":2, "name": "Super Rod", "number":"188", "set": "PAL"},{"count":1, "name": "Luxurious Cape", "number":"166", "set": "PAR"},{"count":4, "name": "Iono", "number":"80", "set": "PAF"},{"count":1, "name": "Boss's Orders", "number":"132", "set": "BRS"},{"count":1, "name": "Professor Turo's Scenario", "number":"171", "set": "PAR"},{"count":2, "name": "Worker", "number":"167", "set": "SIT"},{"count":1, "name": "Collapsed Stadium", "number":"137", "set": "BRS"},{"count":1, "name": "Artazon", "number": "171", "set": "PAL"}],"energy":[{"count":10, "name": "Psychic Energy - Basic", "number":"232", "set": "CRE"},{"count":2, "name": "Reversal Energy - Special", "number":"192", "set": "PAL"}]}}
 ]
 
-let juniors = [{"name":"Gregory V.",
+"juniors": [{"name":"Gregory V.",
 "flag": "FR",
 "placing":1,
 "event": "2024 Liverpool Regionals",

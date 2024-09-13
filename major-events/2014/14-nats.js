@@ -10,4111 +10,1662 @@ const nineList = document.querySelector('.nine-ol');
 
 const modalBottom = document.querySelector('.modal-bottom');
 
-let masters = [
+"masters": [
     {
-        firstName: 'Sebastian Lugo',
-        sprite1: '../../assets/sprites/lugia.png',
-        sprite2: '../../assets/sprites/deoxys.png',
-        list: '../../assets/list-icon.png',
-        type: 'normal',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016/lugia-ex-plasma.png',
-                numImg: '../../assets/02.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/thundurus-ex.png',
-                numImg: '../../assets/03.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/deoxys-ex.png',
-                numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/genesect-ex-plasma.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/latias-ex.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/snorlax-block.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress.png',
-                numImg: '../../assets/02.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/n-promo.png',
-                numImg: '../../assets/02.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/computer-search.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress-machine.png',
-                numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/pokemon-catcher-flip.png',
-                numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/roller-skates.png',
-                numImg: '../../assets/03.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/plasma-ball.png',
-                numImg: '../../assets/03.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/random-receiver.png',
-                numImg: '../../assets/03.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/switch.png',
-                numImg: '../../assets/02.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/startling-megaphone.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/escape-rope-bw.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/pal-pad.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-                numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/energy/energy-plasma.png',
-                numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/energy/prism-energy.png',
-                numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/energy/dce-xy1.png',
-                numImg: '../../assets/04.png'
-            },
+        "name": "Sebastian Lugo",
+        "sprite1": "lugia",
+        "sprite2": "deoxys",
+        list: '../../assets/list-icon",
+        type: 'normal",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 2, "name": "Lugia-EX", "set": "PLS", "number": "108" },
+        { "count": 3, "name": "Thundurus-EX", "set": "PLF", "number": "38" },
+        { "count": 4, "name": "Deoxys-EX", "set": "PLF", "number": "53" },
+        { "count": 1, "name": "Genesect-EX", "set": "PLB", "number": "11" },
+        { "count": 1, "name": "Latias-EX", "set": "PLF", "number": "85" },
+        { "count": 1, "name": "Snorlax", "set": "PLS", "number": "101" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 2, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 2, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 1, "name": "Computer Search", "set": "BCR", "number": "137" },
+        { "count": 4, "name": "Colress Machine", "set": "PLS", "number": "119" },
+        { "count": 4, "name": "Pokémon Catcher", "set": "KSS", "number": "36" },
+        { "count": 3, "name": "Roller Skates", "set": "XY", "number": "125" },
+        { "count": 3, "name": "Team Plasma Ball", "set": "PLF", "number": "105" },
+        { "count": 3, "name": "Random Receiver", "set": "DEX", "number": "99" },
+        { "count": 2, "name": "Switch", "set": "KSS", "number": "38" },
+        { "count": 1, "name": "Startling Megaphone", "set": "FLF", "number": "97" },
+        { "count": 1, "name": "Escape Rope", "set": "PLS", "number": "120" },
+        { "count": 1, "name": "Pal Pad", "set": "FLF", "number": "92" },
+        { "count": 4, "name": "Muscle Band", "set": "XY", "number": "121" }
+      ], "energy": [
+        { "count": 1, "name": "Lightning Energy", "set": "XY", "number": "135" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" },
+        { "count": 4, "name": "Prism Energy", "set": "NXD", "number": "93" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
+      ]
+    },
+    },
+    {
+        "name": "Leando Lopez",
+        "sprite1": "virizion",
+        "sprite2": "raichu",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Leando Lopez',
-        sprite1: '../../assets/sprites/virizion.png',
-        sprite2: '../../assets/sprites/raichu.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Daniel Facciabene",
+        "sprite1": "yveltal",
+        "sprite2": "raichu",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Daniel Facciabene',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/raichu.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Martin Saldivia",
+        "sprite1": "lugia",
+        "sprite2": "deoxys",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Martin Saldivia',
-        sprite1: '../../assets/sprites/lugia.png',
-        sprite2: '../../assets/sprites/deoxys.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Javier Favilli",
+        "sprite1": "yveltal",
+        "sprite2": "raichu",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Javier Favilli',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/raichu.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Dante Lenell",
+        "sprite1": "keldeo-resolute",
+        "sprite2": "blastoise",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Dante Lenell',
-        sprite1: '../../assets/sprites/keldeo-resolute.png',
-        sprite2: '../../assets/sprites/blastoise.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Tomas Sainz",
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Tomas Sainz',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/garbodor.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
-        ]
+        "name": "Brian Miño",
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
     },
-    {
-        firstName: 'Brian Miño',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/garbodor.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
 ]
 
-let seniors = [
+"seniors": [
     {
-        firstName: 'Bryan de Vries',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/garbodor.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016/yveltal-ex.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/darkrai-ex.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/yveltal.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/garbodor-ltr.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/trubbish-poison-gas.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/sableye-junk-hunt.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/druddigon.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/n-promo.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/lysandre.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/dark-patch.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/energy-switch-bw.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/random-receiver.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/enhanced-hammer-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/startling-megaphone.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/super-rod-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-dark.png',
-                numImg: '../../assets/09.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/dce-xy1.png',
-                numImg: '../../assets/02.png',
-            },
+        "name": "Bryan de Vries",
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
+        { "count": 3, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
+        { "count": 1, "name": "Yveltal", "set": "XY", "number": "78" },
+        { "count": 1, "name": "Garbodor", "set": "LTR", "number": "68" },
+        { "count": 1, "name": "Trubbish", "set": "LTR", "number": "67" },
+        { "count": 1, "name": "Sableye", "set": "DEX", "number": "62" },
+        { "count": 1, "name": "Druddigon", "set": "FLF", "number": "70" },
+        { "count": 1, "name": "Keldeo-EX", "set": "BCR", "number": "49" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 1, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 1, "name": "Lysandre", "set": "FLF", "number": "90" },
+        { "count": 1, "name": "Dowsing Machine", "set": "PLS", "number": "128" },
+        { "count": 4, "name": "Dark Patch", "set": "DEX", "number": "93" },
+        { "count": 3, "name": "Energy Switch", "set": "LTR", "number": "112" },
+        { "count": 3, "name": "Ultra Ball", "set": "FLF", "number": "99" },
+        { "count": 3, "name": "Random Receiver", "set": "DEX", "number": "99" },
+        { "count": 3, "name": "Hypnotoxic Laser", "set": "PLS", "number": "123" },
+        { "count": 1, "name": "Enhanced Hammer", "set": "DEX", "number": "94" },
+        { "count": 1, "name": "Startling Megaphone", "set": "FLF", "number": "97" },
+        { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
+        { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 2, "name": "Float Stone", "set": "PLF", "number": "99" },
+        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
+      ], "energy": [
+        { "count": 9, "name": "Darkness Energy", "set": "XY", "number": "138" },
+        { "count": 2, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
+      ]
+    },
+    },
+    {
+        "name": "--",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: '--',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "--",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: '--',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
-        ]
+        "name": "--",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
     },
-    {
-        firstName: '--',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
 ]
 
-let juniors = [
+"juniors": [
     {
-        firstName: 'Dena van Wijk',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/garbodor.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-          {
-            cardImg: '../../assets/cards/2014-2016/yveltal-ex.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/garbodor-ltr.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/trubbish-poison-gas.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/sableye-junk-hunt.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/druddigon.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/n-promo.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/random-receiver.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/dark-patch.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/enhanced-hammer-bw.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/switch.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/pokemon-catcher-flip.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/energy/xy-energy-dark.png',
-            numImg: '../../assets/07.png'
-          },
-          {
-            cardImg: '../../assets/cards/energy/dce-2015.png',
-            numImg: '../../assets/04.png'
-          }
+        "name": "Dena van Wijk",
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
+        { "count": 2, "name": "Garbodor", "set": "LTR", "number": "68" },
+        { "count": 2, "name": "Trubbish", "set": "LTR", "number": "67" },
+        { "count": 2, "name": "Sableye", "set": "DEX", "number": "62" },
+        { "count": 1, "name": "Druddigon", "set": "FLF", "number": "70" },
+        { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 1, "name": "Dowsing Machine", "set": "PLS", "number": "128" },
+        { "count": 4, "name": "Ultra Ball", "set": "FLF", "number": "99" },
+        { "count": 4, "name": "Hypnotoxic Laser", "set": "PLS", "number": "123" },
+        { "count": 4, "name": "Random Receiver", "set": "DEX", "number": "99" },
+        { "count": 3, "name": "Dark Patch", "set": "DEX", "number": "93" },
+        { "count": 2, "name": "Enhanced Hammer", "set": "DEX", "number": "94" },
+        { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 1, "name": "Switch", "set": "KSS", "number": "38" },
+        { "count": 1, "name": "Pokémon Catcher", "set": "KSS", "number": "36" },
+        { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 3, "name": "Float Stone", "set": "PLF", "number": "99" },
+        { "count": 3, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
+      ], "energy": [
+        { "count": 7, "name": "Darkness Energy", "set": "XY", "number": "138" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
+      ]
+    },
+    deck: [
+          
+          
+          
         ]
     },
     {
-        firstName: '--',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "--",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: '--',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "--",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: '--',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "--",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
 ]
 
 let tenEvent = [
     {
-        firstName: 'Stéphane Ivanoff',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/garbodor.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-          {
-            cardImg: '../../assets/cards/2014-2016/yveltal-ex.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/garbodor-ltr.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/trubbish-poison-gas.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/sableye-junk-hunt.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/bouffalant.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/darkrai-ex.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/n-promo.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/bianca.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/lysandre.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/dark-patch.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/bicycle.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/colress-machine.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/energy/xy-energy-dark.png',
-            numImg: '../../assets/08.png'
-          },
-          {
-            cardImg: '../../assets/cards/energy/dce-2015.png',
-            numImg: '../../assets/04.png'
-          }
+        "name": "Stéphane Ivanoff",
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
+        { "count": 2, "name": "Garbodor", "set": "LTR", "number": "68" },
+        { "count": 2, "name": "Trubbish", "set": "LTR", "number": "67" },
+        { "count": 1, "name": "Sableye", "set": "DEX", "number": "62" },
+        { "count": 1, "name": "Bouffalant", "set": "DRX", "number": "110" },
+        { "count": 1, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
+        { "count": 1, "name": "Keldeo-EX", "set": "BCR", "number": "49" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 2, "name": "Bianca", "set": "EPO", "number": "90" },
+        { "count": 1, "name": "Lysandre", "set": "FLF", "number": "90" },
+        { "count": 1, "name": "Dowsing Machine", "set": "PLS", "number": "128" },
+        { "count": 4, "name": "Ultra Ball", "set": "FLF", "number": "99" },
+        { "count": 4, "name": "Hypnotoxic Laser", "set": "PLS", "number": "123" },
+        { "count": 4, "name": "Dark Patch", "set": "DEX", "number": "93" },
+        { "count": 2, "name": "Bicycle", "set": "PLS", "number": "117" },
+        { "count": 2, "name": "Colress Machine", "set": "PLS", "number": "119" },
+        { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 3, "name": "Float Stone", "set": "PLF", "number": "99" },
+        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
+      ], "energy": [
+        { "count": 8, "name": "Darkness Energy", "set": "XY", "number": "138" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
+      ]
+    },
+    },
+    {
+        "name": "Jeremy Amram",
+        "sprite1": "greninja",
+        "sprite2": "miltank",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Jeremy Amram',
-        sprite1: '../../assets/sprites/greninja.png',
-        sprite2: '../../assets/sprites/miltank.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Erwann Piedloup",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Erwann Piedloup',
-        sprite1: '../../assets/sprites/virizion.png',
-        sprite2: '../../assets/sprites/genesect.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Cyrille Leroy",
+        "sprite1": "empoleon",
+        "sprite2": "dusknoir",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Cyrille Leroy',
-        sprite1: '../../assets/sprites/empoleon.png',
-        sprite2: '../../assets/sprites/dusknoir.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Benjamin Paradis",
+        "sprite1": "empoleon",
+        "sprite2": "dusknoir",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Benjamin Paradis',
-        sprite1: '../../assets/sprites/empoleon.png',
-        sprite2: '../../assets/sprites/dusknoir.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Ky Vong Nguyen",
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Ky Vong Nguyen',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/garbodor.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Adrien Bechereau",
+        "sprite1": "thundurus-therian",
+        "sprite2": "deoxys",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Adrien Bechereau',
-        sprite1: '../../assets/sprites/thundurus-therian.png',
-        sprite2: '../../assets/sprites/deoxys.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
-        ]
+        "name": "Matthieu Cornillon",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
     },
-    {
-        firstName: 'Matthieu Cornillon',
-        sprite1: '../../assets/sprites/virizion.png',
-        sprite2: '../../assets/sprites/genesect.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
 ]
 
 let fiveEvent = [
     {
-        firstName: 'Jennifer Wilson',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/garbodor.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-          {
-            cardImg: '../../assets/cards/2014-2016/yveltal-ex.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/garbodor-ltr.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/trubbish-poison-gas.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/sableye-junk-hunt.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/bouffalant.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/absol-plasma.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/darkrai-ex.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/n-promo.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/colress.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/lysandre.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/dark-patch.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/bicycle.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/random-receiver.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/max-potion-bw.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/switch.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/energy/xy-energy-dark.png',
-            numImg: '../../assets/08.png'
-          },
-          {
-            cardImg: '../../assets/cards/energy/dce-2015.png',
-            numImg: '../../assets/04.png'
-          }
+        "name": "Jennifer Wilson",
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
+        { "count": 2, "name": "Garbodor", "set": "LTR", "number": "68" },
+        { "count": 2, "name": "Trubbish", "set": "LTR", "number": "67" },
+        { "count": 1, "name": "Sableye", "set": "DEX", "number": "62" },
+        { "count": 1, "name": "Bouffalant", "set": "DRX", "number": "110" },
+        { "count": 1, "name": "Absol", "set": "PLF", "number": "67" },
+        { "count": 1, "name": "Darkrai-EX", "set": "DEX", "number": "63" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 2, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 1, "name": "Lysandre", "set": "FLF", "number": "90" },
+        { "count": 1, "name": "Dowsing Machine", "set": "PLS", "number": "128" },
+        { "count": 4, "name": "Hypnotoxic Laser", "set": "PLS", "number": "123" },
+        { "count": 4, "name": "Dark Patch", "set": "DEX", "number": "93" },
+        { "count": 3, "name": "Ultra Ball", "set": "FLF", "number": "99" },
+        { "count": 2, "name": "Bicycle", "set": "PLS", "number": "117" },
+        { "count": 2, "name": "Random Receiver", "set": "DEX", "number": "99" },
+        { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 1, "name": "Max Potion", "set": "EPO", "number": "94" },
+        { "count": 1, "name": "Switch", "set": "KSS", "number": "38" },
+        { "count": 3, "name": "Float Stone", "set": "PLF", "number": "99" },
+        { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
+      ], "energy": [
+        { "count": 8, "name": "Darkness Energy", "set": "XY", "number": "138" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
+      ]
+    },
+    },
+    {
+        "name": "Jordan Palmer",
+        "sprite1": "yveltal",
+        "sprite2": "raichu",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
+        { "count": 2, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
+        { "count": 2, "name": "Raichu", "set": "XY", "number": "43" },
+        { "count": 2, "name": "Pikachu", "set": "XY", "number": "42" },
+        { "count": 1, "name": "Sableye", "set": "DEX", "number": "62" },
+        { "count": 1, "name": "Druddigon", "set": "FLF", "number": "70" },
+        { "count": 1, "name": "Bouffalant", "set": "DRX", "number": "110" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 2, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 1, "name": "Lysandre", "set": "FLF", "number": "90" },
+        { "count": 1, "name": "Dowsing Machine", "set": "PLS", "number": "128" },
+        { "count": 4, "name": "Dark Patch", "set": "DEX", "number": "93" },
+        { "count": 4, "name": "Hypnotoxic Laser", "set": "PLS", "number": "123" },
+        { "count": 3, "name": "Ultra Ball", "set": "FLF", "number": "99" },
+        { "count": 3, "name": "Bicycle", "set": "PLS", "number": "117" },
+        { "count": 2, "name": "Random Receiver", "set": "DEX", "number": "99" },
+        { "count": 1, "name": "Enhanced Hammer", "set": "DEX", "number": "94" },
+        { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 1, "name": "Switch", "set": "KSS", "number": "38" },
+        { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
+      ], "energy": [
+        { "count": 8, "name": "Darkness Energy", "set": "XY", "number": "138" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
+      ]
+    },
+    },
+    {
+        "name": "Andrew Tandianus",
+        "sprite1": "aromatisse",
+        "sprite2": "thundurus-therian",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Jordan Palmer',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/raichu.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-              cardImg: '../../assets/cards/2014-2016/yveltal-ex.png',
-              numImg: '../../assets/03.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/darkrai-ex.png',
-              numImg: '../../assets/02.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/raichu.png',
-              numImg: '../../assets/02.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/pikachu-nuzzle.png',
-              numImg: '../../assets/02.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/sableye-junk-hunt.png',
-              numImg: '../../assets/01.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/druddigon.png',
-              numImg: '../../assets/01.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/bouffalant.png',
-              numImg: '../../assets/01.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-              numImg: '../../assets/04.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/n-promo.png',
-              numImg: '../../assets/04.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/colress.png',
-              numImg: '../../assets/02.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/lysandre.png',
-              numImg: '../../assets/01.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-              numImg: '../../assets/01.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/dark-patch.png',
-              numImg: '../../assets/04.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-              numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-                numImg: '../../assets/03.png',
-              },
-              {
-                cardImg: '../../assets/cards/2014-2016/bicycle.png',
-                numImg: '../../assets/03.png',
-              },
-              {
-                cardImg: '../../assets/cards/2014-2016/random-receiver.png',
-                numImg: '../../assets/02.png',
-              },
-            {
-              cardImg: '../../assets/cards/2014-2016/enhanced-hammer-bw.png',
-              numImg: '../../assets/01.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-              numImg: '../../assets/01.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/switch.png',
-              numImg: '../../assets/01.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-              numImg: '../../assets/03.png',
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-              numImg: '../../assets/02.png',
-            },
-            {
-              cardImg: '../../assets/cards/energy/xy-energy-dark.png',
-              numImg: '../../assets/08.png',
-            },
-            {
-              cardImg: '../../assets/cards/energy/dce-xy1.png',
-              numImg: '../../assets/04.png',
-            },
-          ]
+        "name": "Michael Kan",
+        "sprite1": "keldeo-resolute",
+        "sprite2": "blastoise",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
     },
-    {
-        firstName: 'Andrew Tandianus',
-        sprite1: '../../assets/sprites/aromatisse.png',
-        sprite2: '../../assets/sprites/thundurus-therian.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Michael Kan',
-        sprite1: '../../assets/sprites/keldeo-resolute.png',
-        sprite2: '../../assets/sprites/blastoise.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Naomi Murn",
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
+        { "count": 2, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
+        { "count": 2, "name": "Sableye", "set": "DEX", "number": "62" },
+        { "count": 1, "name": "Garbodor", "set": "LTR", "number": "68" },
+        { "count": 1, "name": "Trubbish", "set": "LTR", "number": "67" },
+        { "count": 1, "name": "Bouffalant", "set": "DRX", "number": "110" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 2, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 2, "name": "Skyla", "set": "BCR", "number": "134" },
+        { "count": 1, "name": "Lysandre", "set": "FLF", "number": "90" },
+        { "count": 1, "name": "Computer Search", "set": "BCR", "number": "137" },
+        { "count": 4, "name": "Dark Patch", "set": "DEX", "number": "93" },
+        { "count": 3, "name": "Hypnotoxic Laser", "set": "PLS", "number": "123" },
+        { "count": 3, "name": "Ultra Ball", "set": "FLF", "number": "99" },
+        { "count": 2, "name": "Random Receiver", "set": "DEX", "number": "99" },
+        { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 1, "name": "Max Potion", "set": "EPO", "number": "94" },
+        { "count": 1, "name": "Switch", "set": "KSS", "number": "38" },
+        { "count": 1, "name": "Escape Rope", "set": "PLS", "number": "120" },
+        { "count": 1, "name": "Enhanced Hammer", "set": "DEX", "number": "94" },
+        { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
+        { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 2, "name": "Float Stone", "set": "PLF", "number": "99" },
+        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
+      ], "energy": [
+        { "count": 8, "name": "Darkness Energy", "set": "XY", "number": "138" },
+        { "count": 3, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
+      ]
+    },
+    },
+    {
+        "name": "Jake Cruwys",
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Naomi Murn',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/garbodor.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-          {
-            cardImg: '../../assets/cards/2014-2016/yveltal-ex.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/darkrai-ex.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/sableye-junk-hunt.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/garbodor-ltr.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/trubbish-poison-gas.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/bouffalant.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/n-promo.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/colress.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/lysandre.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/computer-search.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/dark-patch.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/random-receiver.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/max-potion-bw.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/switch.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/escape-rope-bw.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/enhanced-hammer-bw.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/super-rod-bw.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/energy/xy-energy-dark.png',
-            numImg: '../../assets/08.png'
-          },
-          {
-            cardImg: '../../assets/cards/energy/dce-2015.png',
-            numImg: '../../assets/03.png'
-          }
-        ]
+        "name": "Thomas Winkleman",
+        "sprite1": "yveltal",
+        "sprite2": "darkrai",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
+        { "count": 2, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
+        { "count": 2, "name": "Bouffalant", "set": "DRX", "number": "110" },
+        { "count": 1, "name": "Sableye", "set": "DEX", "number": "62" },
+        { "count": 1, "name": "Keldeo-EX", "set": "BCR", "number": "49" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 2, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 2, "name": "Skyla", "set": "BCR", "number": "134" },
+        { "count": 2, "name": "Lysandre", "set": "FLF", "number": "90" },
+        { "count": 1, "name": "Dowsing Machine", "set": "PLS", "number": "128" },
+        { "count": 4, "name": "Dark Patch", "set": "DEX", "number": "93" },
+        { "count": 4, "name": "Hypnotoxic Laser", "set": "PLS", "number": "123" },
+        { "count": 3, "name": "Ultra Ball", "set": "FLF", "number": "99" },
+        { "count": 3, "name": "Energy Switch", "set": "LTR", "number": "112" },
+        { "count": 2, "name": "Bicycle", "set": "PLS", "number": "117" },
+        { "count": 1, "name": "Random Receiver", "set": "DEX", "number": "99" },
+        { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 1, "name": "Startling Megaphone", "set": "FLF", "number": "97" },
+        { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
+      ], "energy": [
+        { "count": 8, "name": "Darkness Energy", "set": "XY", "number": "138" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
+      ]
+    },
     },
     {
-        firstName: 'Jake Cruwys',
-        sprite1: '../../assets/sprites/kyurem.png',
-        sprite2: '../../assets/sprites/deoxys.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
-        ]
+        "name": "Paul Coletta",
+        "sprite1": "accelgor",
+        "sprite2": "trevenant",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Accelgor", "set": "DEX", "number": "11" },
+        { "count": 3, "name": "Shelmet", "set": "PLB", "number": "7" },
+        { "count": 3, "name": "Trevenant", "set": "XY", "number": "55" },
+        { "count": 4, "name": "Phantump", "set": "XY", "number": "54" },
+        { "count": 1, "name": "Dusknoir", "set": "BCR", "number": "63" },
+        { "count": 1, "name": "Dusclops", "set": "FLF", "number": "39" },
+        { "count": 2, "name": "Duskull", "set": "FLF", "number": "38" },
+        { "count": 1, "name": "Musharna", "set": "NXD", "number": "59" },
+        { "count": 1, "name": "Munna", "set": "BCR", "number": "68" },
+        { "count": 1, "name": "Mew-EX", "set": "LTR", "number": "RC24" }
+      ], "trainer": [
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 4, "name": "Skyla", "set": "BCR", "number": "134" },
+        { "count": 3, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 2, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 2, "name": "Lysandre", "set": "FLF", "number": "90" },
+        { "count": 1, "name": "Dowsing Machine", "set": "PLS", "number": "128" },
+        { "count": 3, "name": "Ultra Ball", "set": "FLF", "number": "99" },
+        { "count": 3, "name": "Level Ball", "set": "NXD", "number": "89" },
+        { "count": 2, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
+        { "count": 1, "name": "Sacred Ash", "set": "FLF", "number": "96" },
+        { "count": 1, "name": "Switch", "set": "KSS", "number": "38" },
+        { "count": 1, "name": "Rare Candy", "set": "DEX", "number": "100" },
+        { "count": 1, "name": "Town Map", "set": "BCR", "number": "136" },
+        { "count": 4, "name": "Float Stone", "set": "PLF", "number": "99" },
+        { "count": 1, "name": "Silver Bangle", "set": "PLB", "number": "88" },
+        { "count": 2, "name": "Tropical Beach", "set": "PR-BLW", "number": "50" }
+      ], "energy": [
+        { "count": 1, "name": "Psychic Energy", "set": "XY", "number": "136" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
+      ]
     },
-    {
-        firstName: 'Thomas Winkleman',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/darkrai.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-          {
-            cardImg: '../../assets/cards/2014-2016/yveltal-ex.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/darkrai-ex.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/bouffalant.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/sableye-junk-hunt.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/n-promo.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/colress.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/lysandre.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/dark-patch.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/energy-switch-bw.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/bicycle.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/random-receiver.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/startling-megaphone.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/energy/xy-energy-dark.png',
-            numImg: '../../assets/08.png'
-          },
-          {
-            cardImg: '../../assets/cards/energy/dce-2015.png',
-            numImg: '../../assets/04.png'
-          }
-        ]
-    },
-    {
-        firstName: 'Paul Coletta',
-        sprite1: '../../assets/sprites/accelgor.png',
-        sprite2: '../../assets/sprites/trevenant.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016/accelgor.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shelmet-plb.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/trevenant.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/phantump-astonish.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/dusknoir.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/dusclops.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/duskull-flf.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/musharna.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/munna.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/mew-ex-ltr.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/n-promo.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/lysandre.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/level-ball-bw.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tool-scrapper.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/sacred-ash.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/switch.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/rare-candy-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/town-map-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/silver-bangle.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tropical-beach-2012.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-psychic.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/dce-xy1.png',
-                numImg: '../../assets/04.png',
-            },
-        ]
     },
 ]
 
 let sixEvent = [
     {
-        firstName: 'Karl Peters',
-        sprite1: '../../assets/sprites/virizion.png',
-        sprite2: '../../assets/sprites/genesect.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016/virizion-ex.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/genesect-ex-plasma.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shaymin-ex-nxd.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/bouffalant.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/mr-mime.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/n-promo.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shadow-triad.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/g-booster.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ultra-ball-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/enhanced-hammer-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/energy-switch-bw.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress-machine.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/potion-xy.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tool-scrapper.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/super-rod-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyarrow-bridge.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-grass.png',
-                numImg: '../../assets/09.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/energy-plasma.png',
-                numImg: '../../assets/04.png',
-            },
-        ]
+        "name": "Karl Peters",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Virizion-EX", "set": "PLB", "number": "9" },
+        { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
+        { "count": 1, "name": "Shaymin-EX", "set": "NXD", "number": "5" },
+        { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60" },
+        { "count": 1, "name": "Bouffalant", "set": "DRX", "number": "110" },
+        { "count": 1, "name": "Mr. Mime", "set": "PLF", "number": "47" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 3, "name": "Skyla", "set": "BCR", "number": "134" },
+        { "count": 3, "name": "Shadow Triad", "set": "PLF", "number": "102" },
+        { "count": 2, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 1, "name": "G Booster", "set": "PLB", "number": "92" },
+        { "count": 4, "name": "Ultra Ball", "set": "DEX", "number": "102" },
+        { "count": 4, "name": "Enhanced Hammer", "set": "DEX", "number": "94" },
+        { "count": 3, "name": "Energy Switch", "set": "LTR", "number": "112" },
+        { "count": 1, "name": "Colress Machine", "set": "PLS", "number": "119" },
+        { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 1, "name": "Potion", "set": "KSS", "number": "37" },
+        { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
+        { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
+        { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 2, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" }
+      ], "energy": [
+        { "count": 9, "name": "Grass Energy", "set": "XY", "number": "132" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" }
+      ]
+    },
     },
     {
-        firstName: 'Dennis Mischitz',
-        sprite1: '../../assets/sprites/virizion.png',
-        sprite2: '../../assets/sprites/genesect.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016/genesect-ex-plasma.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/virizion-ex.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shaymin-ex-nxd.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/roserade.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/roselia.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/n-promo.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shadow-triad.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/g-booster.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ultra-ball-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/energy-switch-bw.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/escape-rope-bw.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/enhanced-hammer-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress-machine.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/town-map-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tool-scrapper.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/super-rod-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyarrow-bridge.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-grass.png',
-                numImg: '../../assets/09.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/energy-plasma.png',
-                numImg: '../../assets/04.png',
-            },
-        ]
+        "name": "Dennis Mischitz",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
+        { "count": 2, "name": "Virizion-EX", "set": "PLB", "number": "9" },
+        { "count": 1, "name": "Shaymin-EX", "set": "NXD", "number": "5" },
+        { "count": 3, "name": "Roserade", "set": "DRX", "number": "15" },
+        { "count": 3, "name": "Roselia", "set": "DRX", "number": "12" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 4, "name": "Skyla", "set": "BCR", "number": "134" },
+        { "count": 2, "name": "Shadow Triad", "set": "PLF", "number": "102" },
+        { "count": 1, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 1, "name": "G Booster", "set": "PLB", "number": "92" },
+        { "count": 4, "name": "Ultra Ball", "set": "DEX", "number": "102" },
+        { "count": 3, "name": "Energy Switch", "set": "LTR", "number": "112" },
+        { "count": 2, "name": "Escape Rope", "set": "PLS", "number": "120" },
+        { "count": 1, "name": "Enhanced Hammer", "set": "DEX", "number": "94" },
+        { "count": 1, "name": "Colress Machine", "set": "PLS", "number": "119" },
+        { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 1, "name": "Town Map", "set": "BCR", "number": "136" },
+        { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
+        { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
+        { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 2, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" }
+      ], "energy": [
+        { "count": 9, "name": "Grass Energy", "set": "XY", "number": "132" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" }
+      ]
+    },
     },
     {
-        firstName: 'Marc Lutz',
-        sprite1: '../../assets/sprites/virizion.png',
-        sprite2: '../../assets/sprites/genesect.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016/genesect-ex-plasma.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/virizion-ex.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shaymin-ex-nxd.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/electrode.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/voltorb-burst.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/n-promo.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shadow-triad.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/g-booster.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ultra-ball-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/bicycle.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/energy-switch-bw.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/escape-rope-bw.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress-machine.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/town-map-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tool-scrapper.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/super-rod-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyarrow-bridge.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-grass.png',
-                numImg: '../../assets/09.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/energy-plasma.png',
-                numImg: '../../assets/04.png',
-            },
-        ]
+        "name": "Marc Lutz",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
+        { "count": 2, "name": "Virizion-EX", "set": "PLB", "number": "9" },
+        { "count": 1, "name": "Shaymin-EX", "set": "NXD", "number": "5" },
+        { "count": 1, "name": "Electrode", "set": "PLF", "number": "33" },
+        { "count": 1, "name": "Voltorb", "set": "XY", "number": "44" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 4, "name": "Skyla", "set": "BCR", "number": "134" },
+        { "count": 3, "name": "Shadow Triad", "set": "PLF", "number": "102" },
+        { "count": 1, "name": "G Booster", "set": "PLB", "number": "92" },
+        { "count": 4, "name": "Ultra Ball", "set": "DEX", "number": "102" },
+        { "count": 4, "name": "Bicycle", "set": "PLS", "number": "117" },
+        { "count": 3, "name": "Energy Switch", "set": "LTR", "number": "112" },
+        { "count": 2, "name": "Escape Rope", "set": "PLS", "number": "120" },
+        { "count": 2, "name": "Colress Machine", "set": "PLS", "number": "119" },
+        { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 1, "name": "Town Map", "set": "BCR", "number": "136" },
+        { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
+        { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
+        { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 2, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" }
+      ], "energy": [
+        { "count": 9, "name": "Grass Energy", "set": "XY", "number": "132" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" }
+      ]
+    },
     },
     {
-        firstName: 'Finn Looft',
-        sprite1: '../../assets/sprites/virizion.png',
-        sprite2: '../../assets/sprites/genesect.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016/virizion-ex.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/genesect-ex-plasma.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/jirachi-ex.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/roserade.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/roselia.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/mr-mime.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/n-promo.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shadow-triad.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shauna.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/bianca.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/g-booster.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ultra-ball-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/energy-switch-bw.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/enhanced-hammer-bw.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/town-map-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tool-scrapper.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/super-rod-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyarrow-bridge.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-grass.png',
-                numImg: '../../assets/09.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/energy-plasma.png',
-                numImg: '../../assets/04.png',
-            },
-        ]
+        "name": "Finn Looft",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Virizion-EX", "set": "PLB", "number": "9" },
+        { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
+        { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60" },
+        { "count": 2, "name": "Roserade", "set": "DRX", "number": "15" },
+        { "count": 2, "name": "Roselia", "set": "DRX", "number": "12" },
+        { "count": 1, "name": "Mr. Mime", "set": "PLF", "number": "47" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 3, "name": "Skyla", "set": "BCR", "number": "134" },
+        { "count": 2, "name": "Shadow Triad", "set": "PLF", "number": "102" },
+        { "count": 1, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 1, "name": "Shauna", "set": "XY", "number": "127" },
+        { "count": 1, "name": "Bianca", "set": "EPO", "number": "90" },
+        { "count": 1, "name": "G Booster", "set": "PLB", "number": "92" },
+        { "count": 4, "name": "Ultra Ball", "set": "DEX", "number": "102" },
+        { "count": 2, "name": "Energy Switch", "set": "LTR", "number": "112" },
+        { "count": 2, "name": "Enhanced Hammer", "set": "DEX", "number": "94" },
+        { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 1, "name": "Town Map", "set": "BCR", "number": "136" },
+        { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
+        { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
+        { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 3, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" }
+      ], "energy": [
+        { "count": 9, "name": "Grass Energy", "set": "XY", "number": "132" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" }
+      ]
+    },
     },
     {
-        firstName: 'David Kirschbaum',
-        sprite1: '../../assets/sprites/lugia.png',
-        sprite2: '../../assets/sprites/deoxys.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016/lugia-ex-plasma.png',
-                numImg: '../../assets/03.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/deoxys-ex.png',
-                numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/thundurus-ex.png',
-                numImg: '../../assets/02.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/kyurem.png',
-                numImg: '../../assets/02.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/sigilyph-ltr.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-                numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress.png',
-                numImg: '../../assets/02.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/n-promo.png',
-                numImg: '../../assets/02.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shauna.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shadow-triad.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress-machine.png',
-                numImg: '../../assets/03.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ultra-ball-bw.png',
-                numImg: '../../assets/03.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/escape-rope-bw.png',
-                numImg: '../../assets/02.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tool-scrapper.png',
-                numImg: '../../assets/02.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/switch.png',
-                numImg: '../../assets/02.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/plasma-ball.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-                numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tropical-beach-2012.png',
-                numImg: '../../assets/02.png'
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-water.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-                numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/energy/energy-plasma.png',
-                numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/energy/prism-energy.png',
-                numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/energy/dce-xy1.png',
-                numImg: '../../assets/04.png'
-            },
-        ]
+        "name": "David Kirschbaum",
+        "sprite1": "lugia",
+        "sprite2": "deoxys",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Lugia-EX", "set": "PLS", "number": "108" },
+        { "count": 4, "name": "Deoxys-EX", "set": "PLF", "number": "53" },
+        { "count": 2, "name": "Thundurus-EX", "set": "PLF", "number": "38" },
+        { "count": 2, "name": "Kyurem", "set": "PLF", "number": "31" },
+        { "count": 1, "name": "Sigilyph", "set": "LTR", "number": "66" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "Skyla", "set": "BCR", "number": "134" },
+        { "count": 2, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 2, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 1, "name": "Shauna", "set": "XY", "number": "127" },
+        { "count": 1, "name": "Shadow Triad", "set": "PLF", "number": "102" },
+        { "count": 1, "name": "Dowsing Machine", "set": "PLS", "number": "128" },
+        { "count": 3, "name": "Colress Machine", "set": "PLS", "number": "119" },
+        { "count": 3, "name": "Ultra Ball", "set": "DEX", "number": "102" },
+        { "count": 2, "name": "Escape Rope", "set": "PLS", "number": "120" },
+        { "count": 2, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
+        { "count": 2, "name": "Switch", "set": "KSS", "number": "38" },
+        { "count": 1, "name": "Team Plasma Ball", "set": "PLF", "number": "105" },
+        { "count": 4, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 2, "name": "Tropical Beach", "set": "PR-BLW", "number": "50" }
+      ], "energy": [
+        { "count": 1, "name": "Water Energy", "set": "XY", "number": "134" },
+        { "count": 1, "name": "Lightning Energy", "set": "XY", "number": "135" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" },
+        { "count": 4, "name": "Prism Energy", "set": "NXD", "number": "93" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
+      ]
+    },
     },
     {
-        firstName: 'Ole Stognief',
-        sprite1: '../../assets/sprites/emboar.png',
-        sprite2: '../../assets/sprites/rayquaza.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016/rayquaza-ex.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/emboar-ltr.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tepig-bcr.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/delphox-xy.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/fennekin.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/reshiram-ltr.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/n-promo.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/computer-search.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/rare-candy-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/superior-energy-retreival.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ultra-ball-bw.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/level-ball-bw.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tool-scrapper.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/switch.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/escape-rope-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tropical-beach-2012.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-fire.png',
-                numImg: '../../assets/08.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-lightning.png',
-                numImg: '../../assets/02.png',
-            },
-        ]
+        "name": "Ole Stognief",
+        "sprite1": "emboar",
+        "sprite2": "rayquaza",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Rayquaza-EX", "set": "DRX", "number": "85" },
+        { "count": 3, "name": "Emboar", "set": "LTR", "number": "27" },
+        { "count": 3, "name": "Tepig", "set": "BCR", "number": "24" },
+        { "count": 2, "name": "Delphox", "set": "XY", "number": "26" },
+        { "count": 3, "name": "Fennekin", "set": "KSS", "number": "8" },
+        { "count": 1, "name": "Reshiram", "set": "LTR", "number": "28" }
+      ], "trainer": [
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 4, "name": "Skyla", "set": "BCR", "number": "134" },
+        { "count": 3, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 1, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 1, "name": "Computer Search", "set": "BCR", "number": "137" },
+        { "count": 4, "name": "Rare Candy", "set": "DEX", "number": "100" },
+        { "count": 4, "name": "Superior Energy Retrieval", "set": "PLF", "number": "103" },
+        { "count": 3, "name": "Ultra Ball", "set": "DEX", "number": "102" },
+        { "count": 2, "name": "Level Ball", "set": "NXD", "number": "89" },
+        { "count": 2, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 2, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
+        { "count": 1, "name": "Switch", "set": "KSS", "number": "38" },
+        { "count": 1, "name": "Escape Rope", "set": "PLS", "number": "120" },
+        { "count": 3, "name": "Tropical Beach", "set": "PR-BLW", "number": "50" }
+      ], "energy": [
+        { "count": 8, "name": "Fire Energy", "set": "XY", "number": "133" },
+        { "count": 2, "name": "Lightning Energy", "set": "XY", "number": "135" }
+      ]
+    },
     },
     {
-        firstName: 'David Sturm',
-        sprite1: '../../assets/sprites/virizion.png',
-        sprite2: '../../assets/sprites/genesect.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016/genesect-ex-plasma.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/virizion-ex.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shaymin-ex-nxd.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/sigilyph-ltr.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/mr-mime.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/n-promo.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shadow-triad.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shauna.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/g-booster.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ultra-ball-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/bicycle.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/energy-switch-bw.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/enhanced-hammer-bw.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/escape-rope-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/town-map-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tool-scrapper.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/super-rod-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyarrow-bridge.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-grass.png',
-                numImg: '../../assets/09.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/energy-plasma.png',
-                numImg: '../../assets/04.png',
-            },
-        ]
+        "name": "David Sturm",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
+        { "count": 2, "name": "Virizion-EX", "set": "PLB", "number": "9" },
+        { "count": 1, "name": "Shaymin-EX", "set": "NXD", "number": "5" },
+        { "count": 1, "name": "Sigilyph", "set": "LTR", "number": "66" },
+        { "count": 1, "name": "Mr. Mime", "set": "PLF", "number": "47" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 4, "name": "Skyla", "set": "BCR", "number": "134" },
+        { "count": 2, "name": "Shadow Triad", "set": "PLF", "number": "102" },
+        { "count": 1, "name": "Shauna", "set": "XY", "number": "127" },
+        { "count": 1, "name": "G Booster", "set": "PLB", "number": "92" },
+        { "count": 4, "name": "Ultra Ball", "set": "DEX", "number": "102" },
+        { "count": 3, "name": "Bicycle", "set": "PLS", "number": "117" },
+        { "count": 3, "name": "Energy Switch", "set": "LTR", "number": "112" },
+        { "count": 2, "name": "Enhanced Hammer", "set": "DEX", "number": "94" },
+        { "count": 1, "name": "Escape Rope", "set": "PLS", "number": "120" },
+        { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 1, "name": "Town Map", "set": "BCR", "number": "136" },
+        { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
+        { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
+        { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 3, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" }
+      ], "energy": [
+        { "count": 9, "name": "Grass Energy", "set": "XY", "number": "132" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" }
+      ]
+    },
     },
     {
-        firstName: 'Steven Mao',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/garbodor.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-              cardImg: '../../assets/cards/2014-2016/yveltal-ex.png',
-              numImg: '../../assets/03.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/garbodor-ltr.png',
-              numImg: '../../assets/02.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/trubbish-poison-gas.png',
-              numImg: '../../assets/02.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/sableye-junk-hunt.png',
-              numImg: '../../assets/01.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/bouffalant.png',
-              numImg: '../../assets/01.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/absol-plasma.png',
-              numImg: '../../assets/01.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/darkrai-ex.png',
-              numImg: '../../assets/01.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-              numImg: '../../assets/04.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/n-promo.png',
-              numImg: '../../assets/04.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/colress.png',
-              numImg: '../../assets/01.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-              numImg: '../../assets/01.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-              numImg: '../../assets/04.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/dark-patch.png',
-              numImg: '../../assets/04.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/ultra-ball-bw.png',
-              numImg: '../../assets/04.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/random-receiver.png',
-                numImg: '../../assets/03.png'
-              },
-            {
-              cardImg: '../../assets/cards/2014-2016/bicycle.png',
-              numImg: '../../assets/02.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/escape-rope-bw.png',
-              numImg: '../../assets/01.png'
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-                numImg: '../../assets/03.png'
-              },
-            {
-              cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-              numImg: '../../assets/03.png'
-            },
-            {
-              cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-              numImg: '../../assets/03.png'
-            },
-            {
-              cardImg: '../../assets/cards/energy/xy-energy-dark.png',
-              numImg: '../../assets/08.png'
-            },
-            {
-              cardImg: '../../assets/cards/energy/dce-2015.png',
-              numImg: '../../assets/04.png'
-            }
-          ]
+        "name": "Steven Mao",
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
+        { "count": 2, "name": "Garbodor", "set": "LTR", "number": "68" },
+        { "count": 2, "name": "Trubbish", "set": "LTR", "number": "67" },
+        { "count": 1, "name": "Sableye", "set": "DEX", "number": "62" },
+        { "count": 1, "name": "Bouffalant", "set": "DRX", "number": "110" },
+        { "count": 1, "name": "Absol", "set": "PLF", "number": "67" },
+        { "count": 1, "name": "Darkrai-EX", "set": "DEX", "number": "63" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 1, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 1, "name": "Dowsing Machine", "set": "PLS", "number": "128" },
+        { "count": 4, "name": "Hypnotoxic Laser", "set": "PLS", "number": "123" },
+        { "count": 4, "name": "Dark Patch", "set": "DEX", "number": "93" },
+        { "count": 4, "name": "Ultra Ball", "set": "DEX", "number": "102" },
+        { "count": 3, "name": "Random Receiver", "set": "DEX", "number": "99" },
+        { "count": 2, "name": "Bicycle", "set": "PLS", "number": "117" },
+        { "count": 1, "name": "Escape Rope", "set": "PLS", "number": "120" },
+        { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 3, "name": "Float Stone", "set": "PLF", "number": "99" },
+        { "count": 3, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
+      ], "energy": [
+        { "count": 8, "name": "Darkness Energy", "set": "XY", "number": "138" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
+      ]
+    },
     },
 ]
 
 let sevenEvent = [
     {
-        firstName: 'Jakob Andersen',
-        firstName: '',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Jakob Andersen",
+        "name": "",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Søren Lau',
-        sprite1: '../../assets/sprites/aromatisse.png',
-        sprite2: '../../assets/sprites/thundurus-therian.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016/aromatisse.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/spritzee-sweet-scent.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/thundurus-ex.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/genesect-ex-plasma.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/darkrai-ex.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/virizion-ex.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/landorus-ex.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2010-2012/entei-ex.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/deoxys-ex.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/rayquaza-lcr.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/suicune.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/n-promo.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/scoop-up-cyclone.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/max-potion-bw.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tool-scrapper.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/level-ball-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/plasma-ball.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/escape-rope-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-fairy.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/prism-energy.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-rainbow.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/energy-plasma.png',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Søren Lau",
+        "sprite1": "aromatisse",
+        "sprite2": "thundurus-therian",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 2, "name": "Aromatisse", "set": "XY", "number": "93" },
+        { "count": 2, "name": "Spritzee", "set": "XY", "number": "92" },
+        { "count": 2, "name": "Thundurus-EX", "set": "PLF", "number": "38" },
+        { "count": 2, "name": "Genesect-EX", "set": "PLB", "number": "11" },
+        { "count": 2, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
+        { "count": 1, "name": "Virizion-EX", "set": "PLB", "number": "9" },
+        { "count": 1, "name": "Landorus-EX", "set": "BCR", "number": "89" },
+        { "count": 1, "name": "Entei-EX", "set": "DEX", "number": "13" },
+        { "count": 1, "name": "Deoxys-EX", "set": "PLF", "number": "53" },
+        { "count": 1, "name": "Rayquaza", "set": "LTR", "number": "93" },
+        { "count": 1, "name": "Suicune", "set": "PLB", "number": "20" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 3, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 2, "name": "Skyla", "set": "BCR", "number": "134" },
+        { "count": 1, "name": "Scoop Up Cyclone", "set": "PLB", "number": "95" },
+        { "count": 4, "name": "Ultra Ball", "set": "FLF", "number": "99" },
+        { "count": 4, "name": "Max Potion", "set": "EPO", "number": "94" },
+        { "count": 3, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
+        { "count": 1, "name": "Level Ball", "set": "NXD", "number": "89" },
+        { "count": 1, "name": "Team Plasma Ball", "set": "PLF", "number": "105" },
+        { "count": 1, "name": "Escape Rope", "set": "PLS", "number": "120" },
+        { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" }
+      ], "energy": [
+        { "count": 1, "name": "Fairy Energy", "set": "XY", "number": "140" },
+        { "count": 4, "name": "Prism Energy", "set": "NXD", "number": "93" },
+        { "count": 4, "name": "Rainbow Energy", "set": "XY", "number": "131" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" }
+      ]
+    },
+    },
+    {
+        "name": "Lars Andersen",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Lars Andersen',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
-        ]
+        "name": "Simon Øbro",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
     },
-    {
-        firstName: 'Simon Øbro Thougaard',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
 ]
 
 let eightEvent = [
     {
-        firstName: 'Rasmus Møller',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/garbodor.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-          {
-            cardImg: '../../assets/cards/2014-2016/yveltal-ex.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/garbodor-ltr.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/trubbish-poison-gas.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/sableye-junk-hunt.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/absol-plasma.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/darkrai-ex.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/n-promo.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/colress.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/lysandre.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/ultra-ball.png',
-            numImg: '../../assets/04.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/dark-patch.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/bicycle.png',
-            numImg: '../../assets/02.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/random-receiver.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/tool-scrapper.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/enhanced-hammer-bw.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/switch.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/silver-mirror.png',
-            numImg: '../../assets/01.png'
-          },
-          {
-            cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-            numImg: '../../assets/03.png'
-          },
-          {
-            cardImg: '../../assets/cards/energy/xy-energy-dark.png',
-            numImg: '../../assets/07.png'
-          },
-          {
-            cardImg: '../../assets/cards/energy/dce-2015.png',
-            numImg: '../../assets/04.png'
-          }
+        "name": "Rasmus Møller",
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
+        { "count": 2, "name": "Garbodor", "set": "LTR", "number": "68" },
+        { "count": 2, "name": "Trubbish", "set": "LTR", "number": "67" },
+        { "count": 1, "name": "Sableye", "set": "DEX", "number": "62" },
+        { "count": 1, "name": "Absol", "set": "PLF", "number": "67" },
+        { "count": 1, "name": "Darkrai-EX", "set": "DEX", "number": "63" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 3, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 2, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 1, "name": "Lysandre", "set": "FLF", "number": "90" },
+        { "count": 1, "name": "Dowsing Machine", "set": "PLS", "number": "128" },
+        { "count": 4, "name": "Hypnotoxic Laser", "set": "PLS", "number": "123" },
+        { "count": 4, "name": "Ultra Ball", "set": "FLF", "number": "99" },
+        { "count": 3, "name": "Dark Patch", "set": "DEX", "number": "93" },
+        { "count": 2, "name": "Bicycle", "set": "PLS", "number": "117" },
+        { "count": 1, "name": "Random Receiver", "set": "DEX", "number": "99" },
+        { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
+        { "count": 1, "name": "Enhanced Hammer", "set": "DEX", "number": "94" },
+        { "count": 1, "name": "Switch", "set": "KSS", "number": "38" },
+        { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 3, "name": "Float Stone", "set": "PLF", "number": "99" },
+        { "count": 1, "name": "Silver Mirror", "set": "PLB", "number": "89" },
+        { "count": 3, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
+      ], "energy": [
+        { "count": 7, "name": "Darkness Energy", "set": "XY", "number": "138" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
+      ]
+    },
+    },
+    {
+        "name": "Tobias Andersen",
+        "sprite1": "lugia",
+        "sprite2": "deoxys",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Tobias Andersen',
-        sprite1: '../../assets/sprites/lugia.png',
-        sprite2: '../../assets/sprites/deoxys.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Oscar Madsen",
+        "sprite1": "blank",
+        "sprite2": "pyroar",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Oscar Madsen',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/sprites/pyroar.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Peter Sørensen",
+        "sprite1": "blank",
+        "sprite2": "aromatisse",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Peter Sørensen',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/sprites/aromatisse.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Alexander Black",
+        "sprite1": "yveltal",
+        "sprite2": "raichu",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Alexander Black',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/raichu.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Robert Lau",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Robert Lau',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Oliver Andersen",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Oliver Andersen',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
-        ]
+        "name": "Benjamin Thillerup",
+        "sprite1": "deoxys",
+        "sprite2": "umbreon",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
     },
-    {
-        firstName: 'Benjamin Thillerup',
-        sprite1: '../../assets/sprites/deoxys.png',
-        sprite2: '../../assets/sprites/umbreon.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
 ]
 
 let nineEvent = [
     {
-        firstName: 'Marcelo Xavier',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/darkrai.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016/yveltal-ex.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/yveltal.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/darkrai-ex.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/bouffalant.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/sableye-junk-hunt.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/keldeo-ex.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/n-promo.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ultra-ball-bw.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/pokemon-catcher-flip.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/dark-patch.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/bicycle.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/energy-switch-bw.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/random-receiver.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tool-scrapper.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professors-letter.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/enhanced-hammer-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/xy-energy-dark.png',
-                numImg: '../../assets/08.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/dce-xy1.png',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Marcelo Xavier",
+        "sprite1": "yveltal",
+        "sprite2": "darkrai",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
+        { "count": 2, "name": "Yveltal", "set": "XY", "number": "78" },
+        { "count": 2, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
+        { "count": 2, "name": "Bouffalant", "set": "DRX", "number": "110" },
+        { "count": 1, "name": "Sableye", "set": "DEX", "number": "62" },
+        { "count": 1, "name": "Keldeo-EX", "set": "BCR", "number": "49" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 2, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 1, "name": "Dowsing Machine", "set": "PLS", "number": "128" },
+        { "count": 4, "name": "Hypnotoxic Laser", "set": "PLS", "number": "123" },
+        { "count": 3, "name": "Ultra Ball", "set": "DEX", "number": "102" },
+        { "count": 3, "name": "Pokémon Catcher", "set": "KSS", "number": "36" },
+        { "count": 3, "name": "Dark Patch", "set": "DEX", "number": "93" },
+        { "count": 2, "name": "Bicycle", "set": "PLS", "number": "117" },
+        { "count": 2, "name": "Energy Switch", "set": "LTR", "number": "112" },
+        { "count": 1, "name": "Random Receiver", "set": "DEX", "number": "99" },
+        { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
+        { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
+        { "count": 1, "name": "Enhanced Hammer", "set": "DEX", "number": "94" },
+        { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
+      ], "energy": [
+        { "count": 8, "name": "Darkness Energy", "set": "XY", "number": "138" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
+      ]
+    },
+    },
+    {
+        "name": "Alex Silva",
+        "sprite1": "flareon",
+        "sprite2": "raichu",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Alex Silva',
-        sprite1: '../../assets/sprites/flareon.png',
-        sprite2: '../../assets/sprites/raichu.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Cesar Lopes",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Cesar Lopes',
-        sprite1: '../../assets/sprites/virizion.png',
-        sprite2: '../../assets/sprites/genesect.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "--",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: '--',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "Nelson Magalhães",
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Nelson Magalhães',
-        sprite1: '../../assets/sprites/yveltal.png',
-        sprite2: '../../assets/sprites/garbodor.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+        "name": "?",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        list: '../../assets/list-icon",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Virizion-EX", "set": "PLB", "number": "9" },
+        { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
+        { "count": 2, "name": "Roserade", "set": "DRX", "number": "15" },
+        { "count": 1, "name": "Roselia", "set": "DRX", "number": "12" },
+        { "count": 1, "name": "Roselia", "set": "DRX", "number": "13" },
+        { "count": 1, "name": "Sigilyph", "set": "LTR", "number": "66" }
+      ], "trainer": [
+        { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
+        { "count": 3, "name": "N", "set": "PR-BLW", "number": "100" },
+        { "count": 3, "name": "Skyla", "set": "BCR", "number": "134" },
+        { "count": 2, "name": "Ghetsis", "set": "PLF", "number": "101" },
+        { "count": 1, "name": "Colress", "set": "PLS", "number": "118" },
+        { "count": 1, "name": "Shadow Triad", "set": "PLF", "number": "102" },
+        { "count": 1, "name": "G Booster", "set": "PLB", "number": "92" },
+        { "count": 4, "name": "Hypnotoxic Laser", "set": "PLS", "number": "123" },
+        { "count": 3, "name": "Ultra Ball", "set": "DEX", "number": "102" },
+        { "count": 2, "name": "Enhanced Hammer", "set": "DEX", "number": "94" },
+        { "count": 2, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
+        { "count": 2, "name": "Energy Switch", "set": "LTR", "number": "112" },
+        { "count": 1, "name": "Switch", "set": "KSS", "number": "38" },
+        { "count": 1, "name": "Super Rod", "set": "DRV", "number": "20" },
+        { "count": 1, "name": "Escape Rope", "set": "PLS", "number": "120" },
+        { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
+        { "count": 1, "name": "Float Stone", "set": "PLF", "number": "99" },
+        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
+      ], "energy": [
+        { "count": 9, "name": "Grass Energy", "set": "BLW", "number": "105" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" }
+      ]
+    },
+    },
+    {
+        "name": "--",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
     {
-        firstName: 'Player Name Unknown',
-        sprite1: '../../assets/sprites/virizion.png',
-        sprite2: '../../assets/sprites/genesect.png',
-        list: '../../assets/list-icon.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016/virizion-ex.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/genesect-ex-plasma.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/roserade.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/roselia.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/roselia-13.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/sigilyph-ltr.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/n-promo.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ghetsis.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/colress.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shadow-triad.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/g-booster.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/ultra-ball-bw.png',
-                numImg: '../../assets/03.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/enhanced-hammer-bw.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/tool-scrapper.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/energy-switch-bw.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/switch.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/super-rod-drv.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/escape-rope-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/muscle-band.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
-                numImg: '../../assets/02.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/bw-energy-grass.png',
-                numImg: '../../assets/09.png',
-            },
-            {
-                cardImg: '../../assets/cards/energy/energy-plasma.png',
-                numImg: '../../assets/04.png',
-            },
-        ]
+        "name": "--",
+        "sprite1": "blank",
+        sprite2: '../../assets/hyphen",
+        // list: '../../assets/list-icon",
+        list: '../../assets/sprites/blank",
+        type: 'dark",
+        event: '2014 National Championships",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
     },
-    {
-        firstName: '--',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
-        ]
-    },
-    {
-        firstName: '--',
-        sprite1: '../../assets/sprites/blank.png',
-        sprite2: '../../assets/hyphen.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png',
-            },
+    deck: [
+      {cardImg:'../../assets/cards/2014-2016",numImg:'../../assets/04.png'},
         ]
     },
 ]
-
-//masters
-function displayList(array = []) {
-    masterList.innerHTML = '';
-
-    for (let i = 0; i < array.length; i++) {
-        let item = array[i];
-
-        let item_element = document.createElement('li');
-        item_element.classList.add('player-list-hover');
-        let title = document.createElement('li');
-        title.classList.add('results-list-item');
-
-        let playerName = document.createElement('div');
-        playerName.classList.add('name-n-flag');
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-        let firstSprite = document.createElement('img');
-        firstSprite.classList.add('sprite');
-        firstSprite.setAttribute('src', item.sprite1);
-        let secondSprite = document.createElement('img');
-        secondSprite.classList.add('sprite');
-        secondSprite.classList.add('second-sprite');
-        secondSprite.setAttribute('src', item.sprite2);
-        let listIcon = document.createElement('img');
-        listIcon.classList.add('list-icon');
-        listIcon.setAttribute('src', item.list);
-
-    
-
-        item_element.appendChild(title);
-        title.appendChild(playerName);
-        playerName.append(item.firstName);
-        title.appendChild(deck);
-        deck.appendChild(firstSprite);
-        deck.appendChild(secondSprite);
-        deck.appendChild(listIcon);
-
-        if (item.list === '../../assets/list-icon.png') {
-            console.log('hey')
-            item_element.addEventListener('click', function () {
-                document.querySelector('#modal-section').style.display = "flex";
-                document.querySelector('.modal').style.display = 'block';
-                document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Argentina Nats";
-
-                if (item.type == 'psychic') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
-                } else if (item.type == 'fire') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
-                } else if (item.type == 'fairy') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
-                } else if (item.type == 'normal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
-                } else if (item.type == '') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/-bg.png)";
-                } else if (item.type == 'dark') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                } else if (item.type == 'dragon') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
-                } else if (item.type == 'fighting') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
-                } else if (item.type == 'grass') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
-                } else if (item.type == 'metal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
-                } else if (item.type == 'water') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
-                } else {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                }
-
-                for (let i = 0; i < item.deck.length; i++) {
-                    let deck = item.deck[i];
-
-                    let cardSpace = document.createElement('div');
-                    cardSpace.classList.add('pokemon-card');
-
-                    let pokeCard = document.createElement('img');
-                    pokeCard.classList.add('pok-card-small')
-                    pokeCard.setAttribute('src', deck.cardImg);
-
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('old-card')
-                    }
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-                    if (deck.exCard === true) {
-                        pokeCard.classList.add('ex-era-card')
-                    }
-                    if (deck.radiusCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-
-                    let numberCounter = document.createElement('img');
-                    numberCounter.classList.add('num-1')
-                    numberCounter.setAttribute('src', deck.numImg);
-
-                    cardSpace.appendChild(pokeCard);
-                    cardSpace.appendChild(numberCounter);
-                    modalBottom.appendChild(cardSpace);
-
-                    modalX.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                    behind.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                }
-                document.querySelectorAll('.pokemon-card').forEach(card => {
-                    let meep = document.getElementsByClassName("pok-card-small"),
-                    zoombox = document.getElementById("zoom-card-box");
-                   
-                    if (meep.length > 0) { for (let i of meep) {
-                      i.onclick = () => {
-                        let clone = i.cloneNode();
-                        clone.className = "";
-                        zoombox.innerHTML = "";
-                        zoombox.appendChild(clone);
-                        zoombox.className = "show";
-                      };
-                    }}
-                   
-                    zoombox.onclick = () => {
-                      zoombox.className = "";
-                    };
-                  });
-            })
-        }
-
-        masterList.appendChild(item_element);
-    }
-}
-
-// seniors
-function displayList2(array = []) {
-    seniorList.innerHTML = '';
-
-    for (let i = 0; i < array.length; i++) {
-        let item = array[i];
-
-        let item_element = document.createElement('li');
-        item_element.classList.add('player-list-hover');
-        let title = document.createElement('li');
-        title.classList.add('results-list-item');
-
-        let playerName = document.createElement('div');
-        playerName.classList.add('name-n-flag');
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-        let firstSprite = document.createElement('img');
-        firstSprite.classList.add('sprite');
-        firstSprite.setAttribute('src', item.sprite1);
-        let secondSprite = document.createElement('img');
-        secondSprite.classList.add('sprite');
-        secondSprite.classList.add('second-sprite');
-        secondSprite.setAttribute('src', item.sprite2);
-        let listIcon = document.createElement('img');
-        listIcon.classList.add('list-icon');
-        listIcon.setAttribute('src', item.list);
-
-    
-
-        item_element.appendChild(title);
-        title.appendChild(playerName);
-        playerName.append(item.firstName);
-        title.appendChild(deck);
-        deck.appendChild(firstSprite);
-        deck.appendChild(secondSprite);
-        deck.appendChild(listIcon);
-
-        if (item.list === '../../assets/list-icon.png') {
-
-            item_element.addEventListener('click', function () {
-
-                document.querySelector('#modal-section').style.display = "flex";
-                document.querySelector('.modal').style.display = 'block';
-                document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Netherlands Nats";
-
-                if (item.type == 'psychic') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
-                } else if (item.type == 'fire') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
-                } else if (item.type == 'fairy') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
-                } else if (item.type == 'normal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
-                } else if (item.type == 'lightning') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
-                } else if (item.type == 'dark') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                } else if (item.type == 'dragon') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
-                } else if (item.type == 'fighting') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
-                } else if (item.type == 'grass') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
-                } else if (item.type == 'metal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
-                } else if (item.type == 'water') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
-                } else {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                }
-
-
-                for (let i = 0; i < item.deck.length; i++) {
-                    let deck = item.deck[i];
-
-                    let cardSpace = document.createElement('div');
-                    cardSpace.classList.add('pokemon-card');
-
-                    let pokeCard = document.createElement('img');
-                    pokeCard.classList.add('pok-card-small')
-                    pokeCard.setAttribute('src', deck.cardImg);
-
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('old-card')
-                    }
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-                    if (deck.exCard === true) {
-                        pokeCard.classList.add('ex-era-card')
-                    }
-                    if (deck.radiusCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-
-                    let numberCounter = document.createElement('img');
-                    numberCounter.classList.add('num-1')
-                    numberCounter.setAttribute('src', deck.numImg);
-
-                    cardSpace.appendChild(pokeCard);
-                    cardSpace.appendChild(numberCounter);
-                    modalBottom.appendChild(cardSpace);
-
-                    modalX.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                    behind.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                }
-                document.querySelectorAll('.pokemon-card').forEach(card => {
-                    let meep = document.getElementsByClassName("pok-card-small"),
-                    zoombox = document.getElementById("zoom-card-box");
-                   
-                    if (meep.length > 0) { for (let i of meep) {
-                      i.onclick = () => {
-                        let clone = i.cloneNode();
-                        clone.className = "";
-                        zoombox.innerHTML = "";
-                        zoombox.appendChild(clone);
-                        zoombox.className = "show";
-                      };
-                    }}
-                   
-                    zoombox.onclick = () => {
-                      zoombox.className = "";
-                    };
-                  });
-            })
-        }
-
-        seniorList.appendChild(item_element);
-    }
-}
-
-// juniors
-function displayList3(array = []) {
-    juniorList.innerHTML = '';
-
-    for (let i = 0; i < array.length; i++) {
-        let item = array[i];
-
-        let item_element = document.createElement('li');
-        item_element.classList.add('player-list-hover');
-        let title = document.createElement('li');
-        title.classList.add('results-list-item');
-
-        let playerName = document.createElement('div');
-        playerName.classList.add('name-n-flag');
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-        let firstSprite = document.createElement('img');
-        firstSprite.classList.add('sprite');
-        firstSprite.setAttribute('src', item.sprite1);
-        let secondSprite = document.createElement('img');
-        secondSprite.classList.add('sprite');
-        secondSprite.classList.add('second-sprite');
-        secondSprite.setAttribute('src', item.sprite2);
-        let listIcon = document.createElement('img');
-        listIcon.classList.add('list-icon');
-        listIcon.setAttribute('src', item.list);
-
-    
-
-        item_element.appendChild(title);
-        title.appendChild(playerName);
-        playerName.append(item.firstName);
-        title.appendChild(deck);
-        deck.appendChild(firstSprite);
-        deck.appendChild(secondSprite);
-        deck.appendChild(listIcon);
-
-        if (item.list === '../../assets/list-icon.png') {
-
-            item_element.addEventListener('click', function () {
-
-                document.querySelector('#modal-section').style.display = "flex";
-                document.querySelector('.modal').style.display = 'block';
-                document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Belgium Nats";
-
-                if (item.type == 'psychic') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
-                } else if (item.type == 'fire') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
-                } else if (item.type == 'fairy') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
-                } else if (item.type == 'normal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
-                } else if (item.type == 'lightning') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
-                } else if (item.type == 'dark') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                } else if (item.type == 'dragon') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
-                } else if (item.type == 'fighting') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
-                } else if (item.type == 'grass') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
-                } else if (item.type == 'metal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
-                } else if (item.type == 'water') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
-                } else {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                }
-
-
-                for (let i = 0; i < item.deck.length; i++) {
-                    let deck = item.deck[i];
-
-                    let cardSpace = document.createElement('div');
-                    cardSpace.classList.add('pokemon-card');
-
-                    let pokeCard = document.createElement('img');
-                    pokeCard.classList.add('pok-card-small')
-                    pokeCard.setAttribute('src', deck.cardImg);
-
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('old-card')
-                    }
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-                    if (deck.exCard === true) {
-                        pokeCard.classList.add('ex-era-card')
-                    }
-                    if (deck.radiusCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-
-                    let numberCounter = document.createElement('img');
-                    numberCounter.classList.add('num-1')
-                    numberCounter.setAttribute('src', deck.numImg);
-
-                    cardSpace.appendChild(pokeCard);
-                    cardSpace.appendChild(numberCounter);
-                    modalBottom.appendChild(cardSpace);
-
-                    modalX.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                    behind.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                }
-                document.querySelectorAll('.pokemon-card').forEach(card => {
-                    let meep = document.getElementsByClassName("pok-card-small"),
-                    zoombox = document.getElementById("zoom-card-box");
-                   
-                    if (meep.length > 0) { for (let i of meep) {
-                      i.onclick = () => {
-                        let clone = i.cloneNode();
-                        clone.className = "";
-                        zoombox.innerHTML = "";
-                        zoombox.appendChild(clone);
-                        zoombox.className = "show";
-                      };
-                    }}
-                   
-                    zoombox.onclick = () => {
-                      zoombox.className = "";
-                    };
-                  });
-            })
-        }
-
-        juniorList.appendChild(item_element);
-    }
-}
-
-// ten
-function displayList4(array = []) {
-    tenList.innerHTML = '';
-
-    for (let i = 0; i < array.length; i++) {
-        let item = array[i];
-
-        let item_element = document.createElement('li');
-        item_element.classList.add('player-list-hover');
-        let title = document.createElement('li');
-        title.classList.add('results-list-item');
-
-        let playerName = document.createElement('div');
-        playerName.classList.add('name-n-flag');
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-        let firstSprite = document.createElement('img');
-        firstSprite.classList.add('sprite');
-        firstSprite.setAttribute('src', item.sprite1);
-        let secondSprite = document.createElement('img');
-        secondSprite.classList.add('sprite');
-        secondSprite.classList.add('second-sprite');
-        secondSprite.setAttribute('src', item.sprite2);
-        let listIcon = document.createElement('img');
-        listIcon.classList.add('list-icon');
-        listIcon.setAttribute('src', item.list);
-
-    
-
-        item_element.appendChild(title);
-        title.appendChild(playerName);
-        playerName.append(item.firstName);
-        title.appendChild(deck);
-        deck.appendChild(firstSprite);
-        deck.appendChild(secondSprite);
-        deck.appendChild(listIcon);
-
-        if (item.list === '../../assets/list-icon.png') {
-
-            item_element.addEventListener('click', function () {
-
-                document.querySelector('#modal-section').style.display = "flex";
-                document.querySelector('.modal').style.display = 'block';
-                document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 France Nats";
-
-                if (item.type == 'psychic') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
-                } else if (item.type == 'fire') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
-                } else if (item.type == 'fairy') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
-                } else if (item.type == 'normal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
-                } else if (item.type == 'lightning') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
-                } else if (item.type == 'dark') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                } else if (item.type == 'dragon') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
-                } else if (item.type == 'fighting') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
-                } else if (item.type == 'grass') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
-                } else if (item.type == 'metal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
-                } else if (item.type == 'water') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
-                } else {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                }
-
-
-                for (let i = 0; i < item.deck.length; i++) {
-                    let deck = item.deck[i];
-
-                    let cardSpace = document.createElement('div');
-                    cardSpace.classList.add('pokemon-card');
-
-                    let pokeCard = document.createElement('img');
-                    pokeCard.classList.add('pok-card-small')
-                    pokeCard.setAttribute('src', deck.cardImg);
-
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('old-card')
-                    }
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-                    if (deck.exCard === true) {
-                        pokeCard.classList.add('ex-era-card')
-                    }
-                    if (deck.radiusCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-
-                    let numberCounter = document.createElement('img');
-                    numberCounter.classList.add('num-1')
-                    numberCounter.setAttribute('src', deck.numImg);
-
-                    cardSpace.appendChild(pokeCard);
-                    cardSpace.appendChild(numberCounter);
-                    modalBottom.appendChild(cardSpace);
-
-                    modalX.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                    behind.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                }
-                document.querySelectorAll('.pokemon-card').forEach(card => {
-                    let meep = document.getElementsByClassName("pok-card-small"),
-                    zoombox = document.getElementById("zoom-card-box");
-                   
-                    if (meep.length > 0) { for (let i of meep) {
-                      i.onclick = () => {
-                        let clone = i.cloneNode();
-                        clone.className = "";
-                        zoombox.innerHTML = "";
-                        zoombox.appendChild(clone);
-                        zoombox.className = "show";
-                      };
-                    }}
-                   
-                    zoombox.onclick = () => {
-                      zoombox.className = "";
-                    };
-                  });
-            })
-        }
-
-        tenList.appendChild(item_element);
-    }
-}
-
-// five
-function displayList5(array = []) {
-    fiveList.innerHTML = '';
-
-    for (let i = 0; i < array.length; i++) {
-        let item = array[i];
-
-        let item_element = document.createElement('li');
-        item_element.classList.add('player-list-hover');
-        let title = document.createElement('li');
-        title.classList.add('results-list-item');
-
-        let playerName = document.createElement('div');
-        playerName.classList.add('name-n-flag');
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-        let firstSprite = document.createElement('img');
-        firstSprite.classList.add('sprite');
-        firstSprite.setAttribute('src', item.sprite1);
-        let secondSprite = document.createElement('img');
-        secondSprite.classList.add('sprite');
-        secondSprite.classList.add('second-sprite');
-        secondSprite.setAttribute('src', item.sprite2);
-        let listIcon = document.createElement('img');
-        listIcon.classList.add('list-icon');
-        listIcon.setAttribute('src', item.list);
-
-    
-
-        item_element.appendChild(title);
-        title.appendChild(playerName);
-        playerName.append(item.firstName);
-        title.appendChild(deck);
-        deck.appendChild(firstSprite);
-        deck.appendChild(secondSprite);
-        deck.appendChild(listIcon);
-
-        if (item.list === '../../assets/list-icon.png') {
-
-            item_element.addEventListener('click', function () {
-
-                document.querySelector('#modal-section').style.display = "flex";
-                document.querySelector('.modal').style.display = 'block';
-                document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Australia Nats";
-
-                if (item.type == 'psychic') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
-                } else if (item.type == 'fire') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
-                } else if (item.type == 'fairy') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
-                } else if (item.type == 'normal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
-                } else if (item.type == 'lightning') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
-                } else if (item.type == 'dark') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                } else if (item.type == 'dragon') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
-                } else if (item.type == 'fighting') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
-                } else if (item.type == 'grass') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
-                } else if (item.type == 'metal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
-                } else if (item.type == 'water') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
-                } else {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                }
-
-
-                for (let i = 0; i < item.deck.length; i++) {
-                    let deck = item.deck[i];
-
-                    let cardSpace = document.createElement('div');
-                    cardSpace.classList.add('pokemon-card');
-
-                    let pokeCard = document.createElement('img');
-                    pokeCard.classList.add('pok-card-small')
-                    pokeCard.setAttribute('src', deck.cardImg);
-
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('old-card')
-                    }
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-                    if (deck.exCard === true) {
-                        pokeCard.classList.add('ex-era-card')
-                    }
-                    if (deck.radiusCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-
-                    let numberCounter = document.createElement('img');
-                    numberCounter.classList.add('num-1')
-                    numberCounter.setAttribute('src', deck.numImg);
-
-                    cardSpace.appendChild(pokeCard);
-                    cardSpace.appendChild(numberCounter);
-                    modalBottom.appendChild(cardSpace);
-
-                    modalX.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                    behind.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                }
-                document.querySelectorAll('.pokemon-card').forEach(card => {
-                    let meep = document.getElementsByClassName("pok-card-small"),
-                    zoombox = document.getElementById("zoom-card-box");
-                   
-                    if (meep.length > 0) { for (let i of meep) {
-                      i.onclick = () => {
-                        let clone = i.cloneNode();
-                        clone.className = "";
-                        zoombox.innerHTML = "";
-                        zoombox.appendChild(clone);
-                        zoombox.className = "show";
-                      };
-                    }}
-                   
-                    zoombox.onclick = () => {
-                      zoombox.className = "";
-                    };
-                  });
-            })
-        }
-
-        fiveList.appendChild(item_element);
-    }
-}
-
-// six
-function displayList6(array = []) {
-    sixList.innerHTML = '';
-
-    for (let i = 0; i < array.length; i++) {
-        let item = array[i];
-
-        let item_element = document.createElement('li');
-        item_element.classList.add('player-list-hover');
-        let title = document.createElement('li');
-        title.classList.add('results-list-item');
-
-        let playerName = document.createElement('div');
-        playerName.classList.add('name-n-flag');
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-        let firstSprite = document.createElement('img');
-        firstSprite.classList.add('sprite');
-        firstSprite.setAttribute('src', item.sprite1);
-        let secondSprite = document.createElement('img');
-        secondSprite.classList.add('sprite');
-        secondSprite.classList.add('second-sprite');
-        secondSprite.setAttribute('src', item.sprite2);
-        let listIcon = document.createElement('img');
-        listIcon.classList.add('list-icon');
-        listIcon.setAttribute('src', item.list);
-
-    
-
-        item_element.appendChild(title);
-        title.appendChild(playerName);
-        playerName.append(item.firstName);
-        title.appendChild(deck);
-        deck.appendChild(firstSprite);
-        deck.appendChild(secondSprite);
-        deck.appendChild(listIcon);
-
-        if (item.list === '../../assets/list-icon.png') {
-
-            item_element.addEventListener('click', function () {
-
-                document.querySelector('#modal-section').style.display = "flex";
-                document.querySelector('.modal').style.display = 'block';
-                document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Germany Nats";
-
-                if (item.type == 'psychic') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
-                } else if (item.type == 'fire') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
-                } else if (item.type == 'fairy') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
-                } else if (item.type == 'normal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
-                } else if (item.type == 'lightning') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
-                } else if (item.type == 'dark') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                } else if (item.type == 'dragon') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
-                } else if (item.type == 'fighting') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
-                } else if (item.type == 'grass') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
-                } else if (item.type == 'metal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
-                } else if (item.type == 'water') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
-                } else {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                }
-
-
-                for (let i = 0; i < item.deck.length; i++) {
-                    let deck = item.deck[i];
-
-                    let cardSpace = document.createElement('div');
-                    cardSpace.classList.add('pokemon-card');
-
-                    let pokeCard = document.createElement('img');
-                    pokeCard.classList.add('pok-card-small')
-                    pokeCard.setAttribute('src', deck.cardImg);
-
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('old-card')
-                    }
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-                    if (deck.exCard === true) {
-                        pokeCard.classList.add('ex-era-card')
-                    }
-                    if (deck.radiusCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-
-                    let numberCounter = document.createElement('img');
-                    numberCounter.classList.add('num-1')
-                    numberCounter.setAttribute('src', deck.numImg);
-
-                    cardSpace.appendChild(pokeCard);
-                    cardSpace.appendChild(numberCounter);
-                    modalBottom.appendChild(cardSpace);
-
-                    modalX.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                    behind.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                }
-                document.querySelectorAll('.pokemon-card').forEach(card => {
-                    let meep = document.getElementsByClassName("pok-card-small"),
-                    zoombox = document.getElementById("zoom-card-box");
-                   
-                    if (meep.length > 0) { for (let i of meep) {
-                      i.onclick = () => {
-                        let clone = i.cloneNode();
-                        clone.className = "";
-                        zoombox.innerHTML = "";
-                        zoombox.appendChild(clone);
-                        zoombox.className = "show";
-                      };
-                    }}
-                   
-                    zoombox.onclick = () => {
-                      zoombox.className = "";
-                    };
-                  });
-            })
-        }
-
-        sixList.appendChild(item_element);
-    }
-}
-
-// seven
-function displayList7(array = []) {
-    sevenList.innerHTML = '';
-
-    for (let i = 0; i < array.length; i++) {
-        let item = array[i];
-
-        let item_element = document.createElement('li');
-        item_element.classList.add('player-list-hover');
-        let title = document.createElement('li');
-        title.classList.add('results-list-item');
-
-        let playerName = document.createElement('div');
-        playerName.classList.add('name-n-flag');
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-        let firstSprite = document.createElement('img');
-        firstSprite.classList.add('sprite');
-        firstSprite.setAttribute('src', item.sprite1);
-        let secondSprite = document.createElement('img');
-        secondSprite.classList.add('sprite');
-        secondSprite.classList.add('second-sprite');
-        secondSprite.setAttribute('src', item.sprite2);
-        let listIcon = document.createElement('img');
-        listIcon.classList.add('list-icon');
-        listIcon.setAttribute('src', item.list);
-
-    
-
-        item_element.appendChild(title);
-        title.appendChild(playerName);
-        playerName.append(item.firstName);
-        title.appendChild(deck);
-        deck.appendChild(firstSprite);
-        deck.appendChild(secondSprite);
-        deck.appendChild(listIcon);
-
-        if (item.list === '../../assets/list-icon.png') {
-
-            item_element.addEventListener('click', function () {
-
-                document.querySelector('#modal-section').style.display = "flex";
-                document.querySelector('.modal').style.display = 'block';
-                document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Denmark Nats";
-
-                if (item.type == 'psychic') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
-                } else if (item.type == 'fire') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
-                } else if (item.type == 'fairy') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
-                } else if (item.type == 'normal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
-                } else if (item.type == 'lightning') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
-                } else if (item.type == 'dark') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                } else if (item.type == 'dragon') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
-                } else if (item.type == 'fighting') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
-                } else if (item.type == 'grass') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
-                } else if (item.type == 'metal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
-                } else if (item.type == 'water') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
-                } else {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                }
-
-
-                for (let i = 0; i < item.deck.length; i++) {
-                    let deck = item.deck[i];
-
-                    let cardSpace = document.createElement('div');
-                    cardSpace.classList.add('pokemon-card');
-
-                    let pokeCard = document.createElement('img');
-                    pokeCard.classList.add('pok-card-small')
-                    pokeCard.setAttribute('src', deck.cardImg);
-
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('old-card')
-                    }
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-                    if (deck.exCard === true) {
-                        pokeCard.classList.add('ex-era-card')
-                    }
-                    if (deck.radiusCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-
-                    let numberCounter = document.createElement('img');
-                    numberCounter.classList.add('num-1')
-                    numberCounter.setAttribute('src', deck.numImg);
-
-                    cardSpace.appendChild(pokeCard);
-                    cardSpace.appendChild(numberCounter);
-                    modalBottom.appendChild(cardSpace);
-
-                    modalX.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                    behind.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                }
-                document.querySelectorAll('.pokemon-card').forEach(card => {
-                    let meep = document.getElementsByClassName("pok-card-small"),
-                    zoombox = document.getElementById("zoom-card-box");
-                   
-                    if (meep.length > 0) { for (let i of meep) {
-                      i.onclick = () => {
-                        let clone = i.cloneNode();
-                        clone.className = "";
-                        zoombox.innerHTML = "";
-                        zoombox.appendChild(clone);
-                        zoombox.className = "show";
-                      };
-                    }}
-                   
-                    zoombox.onclick = () => {
-                      zoombox.className = "";
-                    };
-                  });
-            })
-        }
-
-        sevenList.appendChild(item_element);
-    }
-}
-
-// eight
-function displayList8(array = []) {
-    eightList.innerHTML = '';
-
-    for (let i = 0; i < array.length; i++) {
-        let item = array[i];
-
-        let item_element = document.createElement('li');
-        item_element.classList.add('player-list-hover');
-        let title = document.createElement('li');
-        title.classList.add('results-list-item');
-
-        let playerName = document.createElement('div');
-        playerName.classList.add('name-n-flag');
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-        let firstSprite = document.createElement('img');
-        firstSprite.classList.add('sprite');
-        firstSprite.setAttribute('src', item.sprite1);
-        let secondSprite = document.createElement('img');
-        secondSprite.classList.add('sprite');
-        secondSprite.classList.add('second-sprite');
-        secondSprite.setAttribute('src', item.sprite2);
-        let listIcon = document.createElement('img');
-        listIcon.classList.add('list-icon');
-        listIcon.setAttribute('src', item.list);
-
-    
-
-        item_element.appendChild(title);
-        title.appendChild(playerName);
-        playerName.append(item.firstName);
-        title.appendChild(deck);
-        deck.appendChild(firstSprite);
-        deck.appendChild(secondSprite);
-        deck.appendChild(listIcon);
-
-        if (item.list === '../../assets/list-icon.png') {
-
-            item_element.addEventListener('click', function () {
-
-                document.querySelector('#modal-section').style.display = "flex";
-                document.querySelector('.modal').style.display = 'block';
-                document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Denmark Nats";
-
-                if (item.type == 'psychic') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
-                } else if (item.type == 'fire') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
-                } else if (item.type == 'fairy') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
-                } else if (item.type == 'normal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
-                } else if (item.type == 'lightning') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
-                } else if (item.type == 'dark') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                } else if (item.type == 'dragon') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
-                } else if (item.type == 'fighting') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
-                } else if (item.type == 'grass') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
-                } else if (item.type == 'metal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
-                } else if (item.type == 'water') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
-                } else {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                }
-
-
-                for (let i = 0; i < item.deck.length; i++) {
-                    let deck = item.deck[i];
-
-                    let cardSpace = document.createElement('div');
-                    cardSpace.classList.add('pokemon-card');
-
-                    let pokeCard = document.createElement('img');
-                    pokeCard.classList.add('pok-card-small')
-                    pokeCard.setAttribute('src', deck.cardImg);
-
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('old-card')
-                    }
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-                    if (deck.exCard === true) {
-                        pokeCard.classList.add('ex-era-card')
-                    }
-                    if (deck.radiusCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-
-                    let numberCounter = document.createElement('img');
-                    numberCounter.classList.add('num-1')
-                    numberCounter.setAttribute('src', deck.numImg);
-
-                    cardSpace.appendChild(pokeCard);
-                    cardSpace.appendChild(numberCounter);
-                    modalBottom.appendChild(cardSpace);
-
-                    modalX.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                    behind.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                }
-                document.querySelectorAll('.pokemon-card').forEach(card => {
-                    let meep = document.getElementsByClassName("pok-card-small"),
-                    zoombox = document.getElementById("zoom-card-box");
-                   
-                    if (meep.length > 0) { for (let i of meep) {
-                      i.onclick = () => {
-                        let clone = i.cloneNode();
-                        clone.className = "";
-                        zoombox.innerHTML = "";
-                        zoombox.appendChild(clone);
-                        zoombox.className = "show";
-                      };
-                    }}
-                   
-                    zoombox.onclick = () => {
-                      zoombox.className = "";
-                    };
-                  });
-            })
-        }
-
-        eightList.appendChild(item_element);
-    }
-}
-
-// nine
-function displayList9(array = []) {
-    nineList.innerHTML = '';
-
-    for (let i = 0; i < array.length; i++) {
-        let item = array[i];
-
-        let item_element = document.createElement('li');
-        item_element.classList.add('player-list-hover');
-        let title = document.createElement('li');
-        title.classList.add('results-list-item');
-
-        let playerName = document.createElement('div');
-        playerName.classList.add('name-n-flag');
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-        let firstSprite = document.createElement('img');
-        firstSprite.classList.add('sprite');
-        firstSprite.setAttribute('src', item.sprite1);
-        let secondSprite = document.createElement('img');
-        secondSprite.classList.add('sprite');
-        secondSprite.classList.add('second-sprite');
-        secondSprite.setAttribute('src', item.sprite2);
-        let listIcon = document.createElement('img');
-        listIcon.classList.add('list-icon');
-        listIcon.setAttribute('src', item.list);
-
-    
-
-        item_element.appendChild(title);
-        title.appendChild(playerName);
-        playerName.append(item.firstName);
-        title.appendChild(deck);
-        deck.appendChild(firstSprite);
-        deck.appendChild(secondSprite);
-        deck.appendChild(listIcon);
-
-        if (item.list === '../../assets/list-icon.png') {
-
-            item_element.addEventListener('click', function () {
-
-                document.querySelector('#modal-section').style.display = "flex";
-                document.querySelector('.modal').style.display = 'block';
-                document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Brazil Nats";
-
-                if (item.type == 'psychic') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
-                } else if (item.type == 'fire') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
-                } else if (item.type == 'fairy') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
-                } else if (item.type == 'normal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
-                } else if (item.type == 'lightning') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
-                } else if (item.type == 'dark') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                } else if (item.type == 'dragon') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
-                } else if (item.type == 'fighting') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
-                } else if (item.type == 'grass') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
-                } else if (item.type == 'metal') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
-                } else if (item.type == 'water') {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
-                } else {
-                    document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-                }
-
-
-                for (let i = 0; i < item.deck.length; i++) {
-                    let deck = item.deck[i];
-
-                    let cardSpace = document.createElement('div');
-                    cardSpace.classList.add('pokemon-card');
-
-                    let pokeCard = document.createElement('img');
-                    pokeCard.classList.add('pok-card-small')
-                    pokeCard.setAttribute('src', deck.cardImg);
-
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('old-card')
-                    }
-                    if (deck.oldCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-                    if (deck.exCard === true) {
-                        pokeCard.classList.add('ex-era-card')
-                    }
-                    if (deck.radiusCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
-
-                    let numberCounter = document.createElement('img');
-                    numberCounter.classList.add('num-1')
-                    numberCounter.setAttribute('src', deck.numImg);
-
-                    cardSpace.appendChild(pokeCard);
-                    cardSpace.appendChild(numberCounter);
-                    modalBottom.appendChild(cardSpace);
-
-                    modalX.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                    behind.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                }
-                document.querySelectorAll('.pokemon-card').forEach(card => {
-                    let meep = document.getElementsByClassName("pok-card-small"),
-                    zoombox = document.getElementById("zoom-card-box");
-                   
-                    if (meep.length > 0) { for (let i of meep) {
-                      i.onclick = () => {
-                        let clone = i.cloneNode();
-                        clone.className = "";
-                        zoombox.innerHTML = "";
-                        zoombox.appendChild(clone);
-                        zoombox.className = "show";
-                      };
-                    }}
-                   
-                    zoombox.onclick = () => {
-                      zoombox.className = "";
-                    };
-                  });
-            })
-        }
-
-        nineList.appendChild(item_element);
-    }
-}
-
-const modal = document.querySelector('.modal');
-const modalX = document.querySelector('.modal-x');
-const behind = document.querySelector('.behind-modal');
-
-displayList(masters);
-displayList2(seniors);
-displayList3(juniors);
-displayList4(tenEvent);
-displayList5(fiveEvent);
-displayList6(sixEvent);
-displayList7(sevenEvent);
-displayList8(eightEvent);
-displayList9(nineEvent);

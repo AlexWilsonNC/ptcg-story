@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Brian Murdoch",
-      flag: '../../../../assets/flags/south-africa.png',
+      "name": "Brian Murdoch",
+      "flag": "ZA",
       "event": "2013 South Africa National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Mikyle Raju",
-      flag: '../../../../assets/flags/south-africa.png',
+      "name": "Mikyle Raju",
+      "flag": "ZA",
       "event": "2013 South Africa National Championships",
-      sprite1: '../../../../assets/sprites/rayquaza.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "rayquaza",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Zahir Hamid",
-      flag: '../../../../assets/flags/south-africa.png',
+      "name": "Zahir Hamid",
+      "flag": "ZA",
       "event": "2013 South Africa National Championships",
-      sprite1: '../../../../assets/sprites/keldeo-resolute.png',
-      sprite2: '../../../../assets/sprites/blastoise.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "keldeo-resolute",
+      sprite2: '../../../../assets/sprites/blastoise",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "S’bastian Devy",
-      flag: '../../../../assets/flags/south-africa.png',
+      "name": "S’bastian Devy",
+      "flag": "ZA",
       "event": "2013 South Africa National Championships",
-      sprite1: '../../../../assets/sprites/landorus-therian.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "landorus-therian",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

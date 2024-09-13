@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Giacomo F",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Giacomo F",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/celebi.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "celebi",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Filippo Z",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Filippo Z",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/electrode.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/electrode",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Dario R",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Dario R",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/terrakion.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "terrakion",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Fabio P",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Fabio P",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/pachirisu.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/pachirisu",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

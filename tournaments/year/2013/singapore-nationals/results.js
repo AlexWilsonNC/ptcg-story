@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Wilson Choo",
-      flag: '../../../../assets/flags/singapore.png',
+      "name": "Wilson Choo",
+      "flag": "SG",
       "event": "2013 Singapore National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/darkrai.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/darkrai",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Jeremy Leong",
-      flag: '../../../../assets/flags/singapore.png',
+      "name": "Jeremy Leong",
+      "flag": "SG",
       "event": "2013 Singapore National Championships",
-      sprite1: '../../../../assets/sprites/accelgor.png',
-      sprite2: '../../../../assets/sprites/gothitelle.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "accelgor",
+      sprite2: '../../../../assets/sprites/gothitelle",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Xin Cloft",
-      flag: '../../../../assets/flags/singapore.png',
+      "name": "Xin Cloft",
+      "flag": "SG",
       "event": "2013 Singapore National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Alvin Lee",
-      flag: '../../../../assets/flags/singapore.png',
+      "name": "Alvin Lee",
+      "flag": "SG",
       "event": "2013 Singapore National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -80,13 +76,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Belp Fred",
-      flag: '../../../../assets/flags/singapore.png',
+      "name": "Belp Fred",
+      "flag": "SG",
       "event": "2013 Singapore National Championships",
-      sprite1: '../../../../assets/sprites/keldeo-resolute.png',
-      sprite2: '../../../../assets/sprites/blastoise.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "keldeo-resolute",
+      sprite2: '../../../../assets/sprites/blastoise",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -100,13 +95,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Jeremiah Daniel",
-      flag: '../../../../assets/flags/singapore.png',
+      "name": "Jeremiah Daniel",
+      "flag": "SG",
       "event": "2013 Singapore National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -120,13 +114,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Vincent Lim",
-      flag: '../../../../assets/flags/singapore.png',
+      "name": "Vincent Lim",
+      "flag": "SG",
       "event": "2013 Singapore National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -140,13 +133,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Kenneth Tan",
-      flag: '../../../../assets/flags/singapore.png',
+      "name": "Kenneth Tan",
+      "flag": "SG",
       "event": "2013 Singapore National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

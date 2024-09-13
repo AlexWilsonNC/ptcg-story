@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Wai Kit Lam",
-      flag: '../../../../assets/flags/hong-kong.png',
+      "name": "Wai Kit Lam",
+      "flag": "HK",
       "event": "2012 Hong Kong National Championships",
-      sprite1: '../../../../assets/sprites/celebi.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "celebi",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "--",
-      flag: '../../../../assets/flags/unknown.png',
+      "name": "--",
+      "flag": "unknown",
       "event": "2012 Hong Kong National Championships",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "--",
-      flag: '../../../../assets/flags/unknown.png',
+      "name": "--",
+      "flag": "unknown",
       "event": "2012 Hong Kong National Championships",
-      sprite1: '../../../../assets/sprites/mewtwo.png',
-      sprite2: '../../../../assets/sprites/terrakion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "mewtwo",
+      sprite2: '../../../../assets/sprites/terrakion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "--",
-      flag: '../../../../assets/flags/unknown.png',
+      "name": "--",
+      "flag": "unknown",
       "event": "2012 Hong Kong National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/lugia.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/lugia",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

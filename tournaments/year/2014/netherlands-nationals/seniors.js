@@ -1,12 +1,12 @@
-let masters = [
+"masters": [
     {
-        firstName: 'Bryan de Vries',
-        flag: '../../../../assets/flags/netherlands.png',
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/garbodor.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2014 Netherlands National Championships - Seniors',
-    decklist: {
+        "name": "Bryan de Vries",
+        "flag": "NL",
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+        list: '../../../../assets/list-icon",
+        event: '2014 Netherlands National Championships - Seniors",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
         { "count": 3, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
@@ -15,7 +15,7 @@ let masters = [
         { "count": 1, "name": "Trubbish", "set": "LTR", "number": "67" },
         { "count": 1, "name": "Sableye", "set": "DEX", "number": "62" },
         { "count": 1, "name": "Druddigon", "set": "FLF", "number": "70" },
-        { "count": 1, "name": "Keldeo-EX", "set": "BCR", "number": "49" },
+        { "count": 1, "name": "Keldeo-EX", "set": "BCR", "number": "49" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -32,74 +32,71 @@ let masters = [
         { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
         { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
         { "count": 2, "name": "Float Stone", "set": "PLF", "number": "99" },
-        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" },
+        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
       ], "energy": [
         { "count": 9, "name": "Darkness Energy", "set": "XY", "number": "138" },
-        { "count": 2, "name": "Double Colorless Energy", "set": "XY", "number": "130" },
+        { "count": 2, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
       ]
     },
     },
     {
-        firstName: '--',
-        flag: '../../../../assets/flags/netherlands.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2014 Netherlands National Championships - Seniors',
-    decklist: {
+        "name": "--",
+        "flag": "NL",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2014 Netherlands National Championships - Seniors",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../../../assets/cards/2014-2016',numImg:'../../../../assets/04.png'},
+      {cardImg:'../../../../assets/cards/2014-2016",numImg:'../../../../assets/04.png'},
         ]
     },
     {
-        firstName: '--',
-        flag: '../../../../assets/flags/netherlands.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2014 Netherlands National Championships - Seniors',
-    decklist: {
+        "name": "--",
+        "flag": "NL",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2014 Netherlands National Championships - Seniors",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../../../assets/cards/2014-2016',numImg:'../../../../assets/04.png'},
+      {cardImg:'../../../../assets/cards/2014-2016",numImg:'../../../../assets/04.png'},
         ]
     },
     {
-        firstName: '--',
-        flag: '../../../../assets/flags/netherlands.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2014 Netherlands National Championships - Seniors',
-    decklist: {
+        "name": "--",
+        "flag": "NL",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2014 Netherlands National Championships - Seniors",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../../../assets/cards/2014-2016',numImg:'../../../../assets/04.png'},
+      {cardImg:'../../../../assets/cards/2014-2016",numImg:'../../../../assets/04.png'},
         ]
     },
 ]

@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Y. Yang",
-      flag: '../../../../assets/flags/malaysia.png',
+      "name": "Y. Yang",
+      "flag": "MY",
       "event": "2012 Malaysia National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/kyurem.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/kyurem",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Edmund F",
-      flag: '../../../../assets/flags/malaysia.png',
+      "name": "Edmund F",
+      "flag": "MY",
       "event": "2012 Malaysia National Championships",
-      sprite1: '../../../../assets/sprites/zoroark.png',
-      sprite2: '../../../../assets/sprites/weavile.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zoroark",
+      sprite2: '../../../../assets/sprites/weavile",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "--",
-      flag: '../../../../assets/flags/unknown.png',
+      "name": "--",
+      "flag": "unknown",
       "event": "2012 Malaysia National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/hyphen.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/hyphen",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "--",
-      flag: '../../../../assets/flags/unknown.png',
+      "name": "--",
+      "flag": "unknown",
       "event": "2012 Malaysia National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/hyphen.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/hyphen",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Vinicius Lopes",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Vinicius Lopes",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/bouffalant.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/bouffalant",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Marcelo Xavier",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Marcelo Xavier",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/sigilyph.png',
-      sprite2: '../../../../assets/sprites/virizion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "sigilyph",
+      sprite2: '../../../../assets/sprites/virizion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Pedro Dossi",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Pedro Dossi",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/landorus-therian.png',
-      sprite2: '../../../../assets/sprites/tornadus.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "landorus-therian",
+      sprite2: '../../../../assets/sprites/tornadus",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Caio Navarro",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Caio Navarro",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/sigilyph.png',
-      sprite2: '../../../../assets/sprites/virizion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "sigilyph",
+      sprite2: '../../../../assets/sprites/virizion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -80,13 +76,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Artur Mazzega",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Artur Mazzega",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/sableye.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/sableye",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -100,13 +95,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Alex Silva",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Alex Silva",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/sigilyph.png',
-      sprite2: '../../../../assets/sprites/virizion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "sigilyph",
+      sprite2: '../../../../assets/sprites/virizion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -120,13 +114,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Douglas Borges",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Douglas Borges",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/landorus-therian.png',
-      sprite2: '../../../../assets/sprites/tornadus.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "landorus-therian",
+      sprite2: '../../../../assets/sprites/tornadus",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -140,13 +133,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Vinicius Gomes",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Vinicius Gomes",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/landorus-therian.png',
-      sprite2: '../../../../assets/sprites/tornadus.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "landorus-therian",
+      sprite2: '../../../../assets/sprites/tornadus",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -160,13 +152,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Daniel Garcia",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Daniel Garcia",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/mewtwo.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "mewtwo",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -180,13 +171,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Dante Calmon",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Dante Calmon",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/sableye.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/sableye",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -200,13 +190,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Edgar Shinagawa",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Edgar Shinagawa",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/landorus-therian.png',
-      sprite2: '../../../../assets/sprites/tornadus.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "landorus-therian",
+      sprite2: '../../../../assets/sprites/tornadus",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -220,13 +209,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Fabricio Correia",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Fabricio Correia",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/klinklang.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/klinklang",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -240,13 +228,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Nancy Okuda",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Nancy Okuda",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/landorus-therian.png',
-      sprite2: '../../../../assets/sprites/tornadus.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "landorus-therian",
+      sprite2: '../../../../assets/sprites/tornadus",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -260,13 +247,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Júnio Fernandes",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Júnio Fernandes",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/landorus-therian.png',
-      sprite2: '../../../../assets/sprites/tornadus.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "landorus-therian",
+      sprite2: '../../../../assets/sprites/tornadus",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -280,13 +266,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Gabriel Meira",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Gabriel Meira",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/bouffalant.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/bouffalant",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -300,13 +285,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Ana Souza",
-      flag: '../../../../assets/flags/brazil.png',
+      "name": "Ana Souza",
+      "flag": "BR",
       "event": "2013 Brazil National Championships",
-      sprite1: '../../../../assets/sprites/landorus-therian.png',
-      sprite2: '../../../../assets/sprites/tornadus.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "landorus-therian",
+      sprite2: '../../../../assets/sprites/tornadus",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

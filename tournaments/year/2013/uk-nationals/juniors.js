@@ -1,13 +1,12 @@
-let masters = [
+"masters": [
     {
-        firstName: 'Oliver Newson',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/kyurem.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 UK National Championships - Juniors',
-        decklist: {
+        "name": "Oliver Newson",
+        "flag": "UK",
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+        
+        event: '2013 UK National Championships - Juniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -18,14 +17,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Dylan Saunders',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/rayquaza.png',
-        sprite2: '../../../../assets/sprites/eelektrik.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 UK National Championships - Juniors',
-        decklist: {
+        "name": "Dylan Saunders",
+        "flag": "UK",
+        "sprite1": "rayquaza",
+        "sprite2": "eelektrik",
+        
+        event: '2013 UK National Championships - Juniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -36,14 +34,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Khalil Ben-Gacem',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/keldeo-resolute.png',
-        sprite2: '../../../../assets/sprites/blastoise.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 UK National Championships - Juniors',
-        decklist: {
+        "name": "Khalil Ben-Gacem",
+        "flag": "UK",
+        "sprite1": "keldeo-resolute",
+        "sprite2": "blastoise",
+        
+        event: '2013 UK National Championships - Juniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -54,14 +51,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Omar Ben-Gacem',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/kyurem.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 UK National Championships - Juniors',
-        decklist: {
+        "name": "Omar Ben-Gacem",
+        "flag": "UK",
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+        
+        event: '2013 UK National Championships - Juniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [

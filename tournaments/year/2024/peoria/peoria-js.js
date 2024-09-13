@@ -1,4 +1,4 @@
-let masters = [{
+"masters": [{
   "name": "Raymond Long",
   "flag": "CA",
   "event": "2024 Peoria Regionals",
@@ -1238,7 +1238,7 @@ let masters = [{
   "decklist": { "pokemon": [{ "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" }, { "count": 3, "name": "Giratina V", "number": "130", "set": "LOR" }, { "count": 4, "name": "Comfey", "number": "242", "set": "PR-SW" }, { "count": 2, "name": "Sableye", "number": "70", "set": "LOR" }, { "count": 1, "name": "Manaphy", "number": "GG06", "set": "CRZ" }, { "count": 1, "name": "Cramorant", "number": "50", "set": "LOR" }, { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" }, { "count": 1, "name": "Mew ex", "number": "53", "set": "PR-SV" }], "trainer": [{ "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" }, { "count": 3, "name": "Nest Ball", "number": "181", "set": "SVI" }, { "count": 3, "name": "Switch Cart", "number": "154", "set": "ASR" }, { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" }, { "count": 4, "name": "Mirage Gate", "number": "163", "set": "LOR" }, { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" }, { "count": 3, "name": "Super Rod", "number": "188", "set": "PAL" }, { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" }, { "count": 2, "name": "Boss's Orders", "number": "132", "set": "BRS" }, { "count": 1, "name": "Roxanne", "number": "150", "set": "ASR" }, { "count": 1, "name": "Iono", "number": "185", "set": "PAL" }, { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" }], "energy": [{ "count": 3, "name": "Grass Energy - Basic", "number": "152", "set": "CRZ" }, { "count": 3, "name": "Water Energy - Basic", "number": "231", "set": "CRE" }, { "count": 4, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" }, { "count": 3, "name": "Jet Energy - Special", "number": "190", "set": "PAL" }] }
 },
 ]
-let seniors = [{
+"seniors": [{
   "name": "Owen Dalgard",
   "flag": "US",
   "event": "2024 Peoria Regionals",
@@ -1296,7 +1296,7 @@ let seniors = [{
 },
 ]
 
-let juniors = [{
+"juniors": [{
   "name": "Conor M.",
   "flag": "US",
   "event": "2024 Peoria Regionals",

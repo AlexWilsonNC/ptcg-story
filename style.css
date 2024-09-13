@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
     text-decoration: none;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat", sans-serif;
 }
 
 @media screen and (prefers-reduced-motion: no-preference) {
@@ -32,7 +32,7 @@ hr {
     background-color: grey;
 }
 .legends {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker", cursive;
     font-size: 46px;
     color: rgb(114, 103, 5);
 }

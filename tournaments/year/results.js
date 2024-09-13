@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "name": "--",
+        "flag": "unknown",
         "event": "event name",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],

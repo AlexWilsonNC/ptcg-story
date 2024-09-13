@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Lorenz Matthew Tech",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Lorenz Matthew Tech",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/pidgeot.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "pidgeot",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
                 { "count": 1, "name": "Charmeleon", "number": "5", "set": "MEW" },
@@ -44,13 +43,12 @@ let masters = [
         }
     },
     {
-        "firstName": "David Jon Del Rosario",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "David Jon Del Rosario",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/comfey.png',
-        sprite2: '../../../../assets/sprites/sableye.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "comfey",
+        "sprite2": "sableye",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
                 { "count": 2, "name": "Sableye", "number": "70", "set": "LOR" },
@@ -82,13 +80,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Adrian Velasco",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Adrian Velasco",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gardevoir.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "gardevoir",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Gardevoir ex", "number": "86", "set": "SVI" },
                 { "count": 2, "name": "Gardevoir", "number": "61", "set": "CRE" },
@@ -124,13 +121,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Christian Sky Mendoza",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Christian Sky Mendoza",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/comfey.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "comfey",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Charizard ex", "number": "125", "set": "OBF" },
                 { "count": 4, "name": "Charmander", "number": "4", "set": "MEW" },
@@ -159,13 +155,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Adrian Gerald Acuzar",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Adrian Gerald Acuzar",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/comfey.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "comfey",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Charizard ex", "number": "125", "set": "OBF" },
                 { "count": 3, "name": "Charmander", "number": "4", "set": "MEW" },
@@ -197,13 +192,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Charles Esco",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Charles Esco",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/comfey.png',
-        sprite2: '../../../../assets/sprites/sableye.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "comfey",
+        "sprite2": "sableye",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
                 { "count": 2, "name": "Sableye", "number": "70", "set": "LOR" },
@@ -239,13 +233,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jonathan Abejar",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Jonathan Abejar",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/charizard.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "charizard",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
                 { "count": 2, "name": "Charmeleon", "number": "27", "set": "OBF" },
@@ -287,13 +280,12 @@ let masters = [
         }
     },
     {
-        "firstName": "John Eduard Bacalangco",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "John Eduard Bacalangco",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gardevoir.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "gardevoir",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Gardevoir ex", "number": "86", "set": "SVI" },
                 { "count": 2, "name": "Gardevoir", "number": "61", "set": "CRE" },
@@ -329,13 +321,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Joshua Doctolero",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Joshua Doctolero",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/pidgeot.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "pidgeot",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
                 { "count": 1, "name": "Charmeleon", "number": "5", "set": "MEW" },
@@ -372,13 +363,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Arvin Jesus R. De Leon",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Arvin Jesus R. De Leon",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/chien-pao.png',
-        sprite2: '../../../../assets/sprites/baxcalibur.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "chien-pao",
+        "sprite2": "baxcalibur",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Chien-Pao ex", "number": "61", "set": "PAL" },
                 { "count": 2, "name": "Baxcalibur", "number": "60", "set": "PAL" },
@@ -413,13 +403,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Aira Pineda",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Aira Pineda",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gardevoir.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "gardevoir",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Gardevoir ex", "number": "86", "set": "SVI" },
                 { "count": 3, "name": "Gardevoir", "number": "61", "set": "CRE" },
@@ -453,13 +442,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Antonio Francisco",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Antonio Francisco",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/roaring-moon.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "roaring-moon",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Roaring Moon ex", "number": "124", "set": "PAR" },
                 { "count": 1, "name": "Morpeko", "number": "121", "set": "PAR" },
@@ -490,13 +478,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Kiel Sam Talosig",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Kiel Sam Talosig",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/giratina-origin.png',
-        sprite2: '../../../../assets/sprites/comfey.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "giratina-origin",
+        "sprite2": "comfey",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
                 { "count": 3, "name": "Giratina V", "number": "130", "set": "LOR" },
@@ -527,13 +514,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jimbo Santiago",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Jimbo Santiago",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/miraidon.png',
-        sprite2: '../../../../assets/sprites/flaaffy.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "miraidon",
+        "sprite2": "flaaffy",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Miraidon ex", "number": "81", "set": "SVI" },
                 { "count": 2, "name": "Raikou V", "number": "48", "set": "BRS" },
@@ -570,14 +556,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Christian Anthony Fernandez",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Christian Anthony Fernandez",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/comfey.png',
-        sprite2: '../../../../assets/sprites/sableye.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "comfey",
+        "sprite2": "sableye",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -588,13 +572,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Fritz Mateo",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Fritz Mateo",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Philippines Regional League #1",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gardevoir.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "gardevoir",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Gardevoir ex", "number": "86", "set": "SVI" },
                 { "count": 2, "name": "Gardevoir", "number": "61", "set": "CRE" },

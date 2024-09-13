@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Owyn Kamerman',
-      flag: '../../../assets/flags/netherlands.png',
-      sprite1: '../../../assets/sprites/golisopod.png',
-      sprite2: '../../../assets/sprites/garbodor.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Owyn Kamerman",
+      "flag": "NL",
+      "sprite1": "golisopod",
+      "sprite2": "garbodor",
+       
       deckid: "golisopod-garbodor",
       event: "2018 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -56,7 +56,7 @@ let masters = [
               "name": "Tapu Koko",
               "number": "31",
               "set": "PR-SM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -124,7 +124,7 @@ let masters = [
               "name": "Choice Band",
               "number": "121",
               "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -149,14 +149,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Preston Ellis',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/greninja.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Preston Ellis",
+      "flag": "US",
+      "sprite1": "blank",
+      "sprite2": "greninja",
+       
       deckid: "greninja",
       event: "2018 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -205,7 +205,7 @@ let masters = [
              "name": "Remoraid",
              "number": "32",
              "set": "BKT"
-         },
+         }
         ],
         "trainer": [
           {
@@ -273,7 +273,7 @@ let masters = [
             "name": "Brooklet Hill",
             "number": "120",
             "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -292,26 +292,26 @@ let masters = [
       }
     },
     {
-      firstName: 'Connor Pedersen',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/genesect.png',
-      sprite2: '../../../assets/sprites/zoroark.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Connor Pedersen",
+      "flag": "US",
+      "sprite1": "genesect",
+      "sprite2": "zoroark",
+       
       deckid: "zoroark-gx",
       event: "2018 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "name": "Genesect-EX",
                 "number": "64",
                 "set": "FCO",
-            "count": 3,
+            "count": 3
           },
           {
             "name": "Registeel",
                 "number": "68",
                 "set": "CIN",
-            "count": 3,
+            "count": 3
           },
           {
             "count": 2,
@@ -323,13 +323,13 @@ let masters = [
             "name": "Zorua",
                 "number": "89",
                 "set": "BKT",
-            "count": 1,
+            "count": 1
           },
           {
             "name": "Zorua",
                 "number": "90",
                 "set": "BKT",
-            "count": 1,
+            "count": 1
           },
           {
             "count": 1,
@@ -354,7 +354,7 @@ let masters = [
               "name": "Tapu Lele GX",
               "number": "60",
               "set": "GRI"
-          },
+          }
         ],
         "trainer": [
           {
@@ -416,7 +416,7 @@ let masters = [
               "name": "Choice Band",
               "number": "121",
               "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -429,32 +429,32 @@ let masters = [
       }
     },
     {
-      firstName: 'Raymond Long',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/metagross.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Raymond Long",
+      "flag": "CA",
+      "sprite1": "blank",
+      "sprite2": "metagross",
+       
       deckid: "metagross",
       event: "2018 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "name": "Metagross GX",
                 "number": "85",
                 "set": "GRI",
-            "count": 4,
+            "count": 4
           },
           {
             "name": "Metang",
                 "number": "84",
                 "set": "GRI",
-            "count": 3,
+            "count": 3
           },
           {
             "name": "Beldum",
                 "number": "83",
                 "set": "GRI",
-            "count": 4,
+            "count": 4
           },
           {
             "count": 1,
@@ -478,14 +478,14 @@ let masters = [
             "name": "Magearna-EX",
                 "number": "75",
                 "set": "STS",
-            "count": 1,
+            "count": 1
           },
           {
             "count": 1,
               "name": "Alolan Vulpix",
               "number": "21",
               "set": "GRI"
-          },
+          }
         ],
         "trainer": [
           {
@@ -547,7 +547,7 @@ let masters = [
               "name": "Choice Band",
               "number": "121",
               "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -560,14 +560,14 @@ let masters = [
       }
     },
     {
-      firstName: 'William Wallace',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/tapu-koko.png',
-      sprite2: '../../../assets/sprites/meowstic.png',
-      list: '../../../assets/list-icon.png',
+      "name": "William Wallace",
+      "flag": "US",
+      "sprite1": "tapu-koko",
+      "sprite2": "meowstic",
+       
       deckid: "tapu-koko-spread",
       event: "2018 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -579,13 +579,13 @@ let masters = [
             "name": "Meowstic",
                 "number": "RC15",
                 "set": "GEN",
-            "count": 1,
+            "count": 1
           },
           {
             "name": "Espurr",
                 "number": "59",
                 "set": "BUS",
-            "count": 2,
+            "count": 2
           },
           {
             "count": 2,
@@ -640,7 +640,7 @@ let masters = [
                 "name": "Giratina",
                 "number": "184",
                 "set": "PR-XY"
-          },
+          }
         ],
         "trainer": [
           {
@@ -714,7 +714,7 @@ let masters = [
                 "number": "121",
                 "set": "BUS",
             "count": 4,
-          },
+          }
         ],
         "energy": [
           {
@@ -733,14 +733,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Stan J-Leonard',
-      flag: '../../../assets/flags/uk.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/golisopod.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Stan J-Leonard",
+      "flag": "UK",
+      "sprite1": "zoroark",
+      "sprite2": "golisopod",
+       
       deckid: "zoroark-golisopod",
       event: "2018 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -758,7 +758,7 @@ let masters = [
             "name": "Zorua",
                 "number": "89",
                 "set": "BKT",
-            "count": 4,
+            "count": 4
           },
           {
             "count": 3,
@@ -777,7 +777,7 @@ let masters = [
               "name": "Tapu Lele GX",
               "number": "60",
               "set": "GRI"
-          },
+          }
         ],
         "trainer": [
           {
@@ -845,7 +845,7 @@ let masters = [
               "name": "Choice Band",
               "number": "121",
               "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -864,14 +864,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Brady Guy',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/buzzwole.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Brady Guy",
+      "flag": "US",
+      "sprite1": "buzzwole",
+      "sprite2": "lycanroc-midnight",
+       
       deckid: "buzzwole-gx",
       event: "2018 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -908,7 +908,7 @@ let masters = [
                 "name": "Espeon-EX",
                 "number": "52",
                 "set": "BKP"
-          },
+          }
         ],
         "trainer": [
           {
@@ -982,7 +982,7 @@ let masters = [
             "name": "Brooklet Hill",
             "number": "120",
             "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -1007,14 +1007,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Julius Mo Krag',
-      flag: '../../../assets/flags/denmark.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/volcanion.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Julius Mo Krag",
+      "flag": "DK",
+      "sprite1": "blank",
+      "sprite2": "volcanion",
+       
       deckid: "volcanion",
       event: "2018 Europe Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1045,7 +1045,7 @@ let masters = [
                 "name": "Oranguru",
                 "number": "113",
                 "set": "SUM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1119,7 +1119,7 @@ let masters = [
               "name": "Float Stone",
               "number": "137",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {

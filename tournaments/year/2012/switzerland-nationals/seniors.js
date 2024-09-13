@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Titouan V",
-      flag: '../../../../assets/flags/switzerland.png',
+      "name": "Titouan V",
+      "flag": "CH",
       "event": "2012 Switerland National Championships",
-      sprite1: '../../../../assets/sprites/celebi.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "celebi",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Flamur",
-      flag: '../../../../assets/flags/switzerland.png',
+      "name": "Flamur",
+      "flag": "CH",
       "event": "2012 Switerland National Championships",
-      sprite1: '../../../../assets/sprites/donphan.png',
-      sprite2: '../../../../assets/sprites/yanmega.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "donphan",
+      sprite2: '../../../../assets/sprites/yanmega",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Gabriel F",
-      flag: '../../../../assets/flags/switzerland.png',
+      "name": "Gabriel F",
+      "flag": "CH",
       "event": "2012 Switerland National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/donphan.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/donphan",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Nicolas M",
-      flag: '../../../../assets/flags/switzerland.png',
+      "name": "Nicolas M",
+      "flag": "CH",
       "event": "2012 Switerland National Championships",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/pachirisu.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/pachirisu",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

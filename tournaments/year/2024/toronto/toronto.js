@@ -1,7 +1,7 @@
-let masters = [
+"masters": [
     {
         "name": "JW Kriewall",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Toronto Regionals",
         "decklist":
         {
@@ -38,7 +38,7 @@ let masters = [
     },
     {
         "name": "Demetris Eaton",
-        "flag": 'UK',
+        "flag": "UK",
         "event": "2024 Toronto Regionals",
         "decklist": {
             "pokemon": [
@@ -72,7 +72,7 @@ let masters = [
     },
     {
         "name": "Azul Griego",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Toronto Regionals",
         "decklist": {
             "pokemon": [
@@ -112,7 +112,7 @@ let masters = [
         },
     {
         "name": "Christian Moreno",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Toronto Regionals",
         "decklist":
         {
@@ -152,7 +152,7 @@ let masters = [
     },
     {
         "name": "Hermanni Hietalahti",
-        "flag": 'FI',
+        "flag": "FI",
         "event": "2024 Toronto Regionals",
         "decklist":
         {
@@ -192,7 +192,7 @@ let masters = [
     },
     {
         "name": "Jake Riggs",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Toronto Regionals",
         "decklist": {
             "pokemon": [
@@ -224,7 +224,7 @@ let masters = [
     },
     {
         "name": "Grant Shen",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Toronto Regionals",
         "decklist": {
             "pokemon": [
@@ -256,7 +256,7 @@ let masters = [
     },
     {
         "name": "Dylan Gunn",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Toronto Regionals",
         "decklist": {
             "pokemon": [
@@ -294,7 +294,7 @@ let masters = [
     },
     {
         "name": "Christian LaBella",
-        "flag": 'CA',
+        "flag": "CA",
         "event": "2024 Toronto Regionals",
         "decklist": {
             "pokemon": [
@@ -332,7 +332,7 @@ let masters = [
     },
     {
         "name": "Gabriel Smart",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Toronto Regionals",
         "decklist":
         {
@@ -372,7 +372,7 @@ let masters = [
     },
     {
         "name": "Joshua Frink",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Toronto Regionals",
         "decklist":
         {
@@ -413,7 +413,7 @@ let masters = [
     },
     {
         "name": "Andrew Hedrick",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Toronto Regionals",
         "decklist": {
             "pokemon": [
@@ -449,7 +449,7 @@ let masters = [
     },
     {
         "name": "Lucas Xing",
-        "flag": 'CA',
+        "flag": "CA",
         "event": "2024 Toronto Regionals",
         "decklist":
         {
@@ -482,7 +482,7 @@ let masters = [
     },
     {
         "name": "Brett Gorney",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Toronto Regionals",
         "decklist": {
             "pokemon": [
@@ -518,7 +518,7 @@ let masters = [
     },
     {
         "name": "Ian Robb",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Toronto Regionals",
         "decklist": {
             "pokemon": [
@@ -553,7 +553,7 @@ let masters = [
     },
     {
         "name": "Calvin Connor",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Toronto Regionals",
         "decklist":
         {
@@ -1487,10 +1487,10 @@ let masters = [
     }
 ]
 
-let seniors = [
+"seniors": [
     {
         "name": "Lucas Oldale",
-        "flag": 'CA',
+        "flag": "CA",
         "event": "2024 Toronto Regionals",
         "decklist": {
             "pokemon": [
@@ -1569,7 +1569,7 @@ let seniors = [
 ]
 
 
-let juniors =
+"juniors":
     [{
         "name": "Byron E.",
         "flag": "US",

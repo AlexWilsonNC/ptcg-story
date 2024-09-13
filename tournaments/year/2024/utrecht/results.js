@@ -1,4 +1,4 @@
-let masters = [
+"masters": [
     {
         "name": "Owyn Kamerman",
         "flag": "NL",
@@ -3929,7 +3929,7 @@ let masters = [
         },
     }]
 
-let seniors = [
+"seniors": [
     {
         "name": "Cass M.",
         "flag": "UK",
@@ -4250,7 +4250,7 @@ let seniors = [
         },
     }]
 
-let juniors = [
+"juniors": [
     {
         "name": "Ethan C.",
         "flag": "UK",

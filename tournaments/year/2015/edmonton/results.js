@@ -1,12 +1,12 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Frank Diaz",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Frank Diaz",
+        "flag": "US",
         "event": "2015 Edmonton Regionals",
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        deckid: 'VirGen',
-        list: '../../../../assets/list-icon.png',
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        deckid: 'VirGen",
+        list: '../../../../assets/list-icon",
         "decklist": {
             "pokemon": [
                 { "count": 2, "name": "Virizion-EX", "number": "9", "set": "PLB" },
@@ -39,13 +39,13 @@ let masters = [
         }
     },
     {
-        "firstName": "TJ Traquair",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "TJ Traquair",
+        "flag": "CA",
         "event": "2015 Edmonton Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/groudon-primal.png',
-        deckid: 'Primal Groudon',
-        list: '../../../../assets/list-icon.png',
+        "sprite1": "blank",
+        "sprite2": "groudon-primal",
+        deckid: 'Primal Groudon",
+        list: '../../../../assets/list-icon",
         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "Primal Groudon-EX", "number": "86", "set": "PRC" },
@@ -75,14 +75,13 @@ let masters = [
         }
     },
     {
-        "firstName": "Marvin Lu Banzon",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Marvin Lu Banzon",
+        "flag": "CA",
         "event": "2015 Edmonton Regionals",
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        deckid: 'VirGen',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        deckid: 'VirGen",
+        
         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
@@ -94,14 +93,13 @@ let masters = [
         }
     },
     {
-        "firstName": "André Chiasson",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "André Chiasson",
+        "flag": "CA",
         "event": "2015 Edmonton Regionals",
-        sprite1: '../../../../assets/sprites/trevenant.png',
-        sprite2: '../../../../assets/sprites/accelgor.png',
-        deckid: 'TrevGor',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        "sprite1": "trevenant",
+        "sprite2": "accelgor",
+        deckid: 'TrevGor",
+        
         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
@@ -113,14 +111,13 @@ let masters = [
         }
     },
     {
-        "firstName": "Andrew Estrada",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Andrew Estrada",
+        "flag": "CA",
         "event": "2015 Edmonton Regionals",
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        deckid: 'VirGen',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        deckid: 'VirGen",
+        
         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
@@ -132,14 +129,13 @@ let masters = [
         }
     },
     {
-        "firstName": "Joey Gaffney",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Joey Gaffney",
+        "flag": "CA",
         "event": "2015 Edmonton Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/groudon-primal.png',
-        deckid: 'Primal Groudon',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        "sprite1": "blank",
+        "sprite2": "groudon-primal",
+        deckid: 'Primal Groudon",
+        
         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
@@ -151,14 +147,13 @@ let masters = [
         }
     },
     {
-        "firstName": "Simon Ford",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Simon Ford",
+        "flag": "US",
         "event": "2015 Edmonton Regionals",
-        sprite1: '../../../../assets/sprites/seismitoad.png',
-        sprite2: '../../../../assets/sprites/crawdaunt.png',
-        deckid: 'Seismitoad Crawdaunt',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        "sprite1": "seismitoad",
+        "sprite2": "crawdaunt",
+        deckid: 'Seismitoad Crawdaunt",
+        
         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
@@ -170,14 +165,13 @@ let masters = [
         }
     },
     {
-        "firstName": "Alex Stewart",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Alex Stewart",
+        "flag": "CA",
         "event": "2015 Edmonton Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/yveltal.png',
-        deckid: 'Yveltal',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        "sprite1": "blank",
+        "sprite2": "yveltal",
+        deckid: 'Yveltal",
+        
         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },

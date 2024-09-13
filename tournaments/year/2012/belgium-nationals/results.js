@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Gunter van Roey",
-      flag: '../../../../assets/flags/belgium.png',
+      "name": "Gunter van Roey",
+      "flag": "BE",
       "event": "2012 Belgium National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/terrakion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/terrakion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Joshua Vanoverschelde",
-      flag: '../../../../assets/flags/belgium.png',
+      "name": "Joshua Vanoverschelde",
+      "flag": "BE",
       "event": "2012 Belgium National Championships",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Daphne van den Broek",
-      flag: '../../../../assets/flags/belgium.png',
+      "name": "Daphne van den Broek",
+      "flag": "BE",
       "event": "2012 Belgium National Championships",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Simeon Cafmeyer",
-      flag: '../../../../assets/flags/belgium.png',
+      "name": "Simeon Cafmeyer",
+      "flag": "BE",
       "event": "2012 Belgium National Championships",
-      sprite1: '../../../../assets/sprites/empoleon.png',
-      sprite2: '../../../../assets/sprites/noctowl.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "empoleon",
+      sprite2: '../../../../assets/sprites/noctowl",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

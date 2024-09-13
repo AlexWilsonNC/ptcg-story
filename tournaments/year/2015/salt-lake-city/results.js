@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Daniel Lynch",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Daniel Lynch",
+        "flag": "US",
         "event": "2015 Salt Lake City Regionals",
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Virizion-EX", "number": "9", "set": "PLB" },
                 { "count": 3, "name": "Genesect-EX", "number": "11", "set": "PLB" },
@@ -38,14 +37,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Mark Garcia",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Mark Garcia",
+        "flag": "US",
         "event": "2015 Salt Lake City Regionals",
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/manectric-mega.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "virizion",
+        "sprite2": "manectric-mega",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -56,14 +53,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Oscar Morales",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Oscar Morales",
+        "flag": "US",
         "event": "2015 Salt Lake City Regionals",
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -74,14 +69,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Dylan Mitchell",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Dylan Mitchell",
+        "flag": "US",
         "event": "2015 Salt Lake City Regionals",
-        sprite1: '../../../../assets/sprites/seismitoad.png',
-        sprite2: '../../../../assets/sprites/crawdaunt.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "seismitoad",
+        "sprite2": "crawdaunt",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -92,14 +85,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Nic Conlin",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Nic Conlin",
+        "flag": "US",
         "event": "2015 Salt Lake City Regionals",
-        sprite1: '../../../../assets/sprites/seismitoad.png',
-        sprite2: '../../../../assets/sprites/slurpuff.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "seismitoad",
+        "sprite2": "slurpuff",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -110,13 +101,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Ross Cawthon",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Ross Cawthon",
+        "flag": "US",
         "event": "2015 Salt Lake City Regionals",
-        sprite1: '../../../../assets/sprites/florges.png',
-        sprite2: '../../../../assets/sprites/aromatisse.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "florges",
+        "sprite2": "aromatisse",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Florges-EX", "number": "67", "set": "PHF" },
                 { "count": 3, "name": "Xerneas", "number": "96", "set": "XY" },
@@ -150,14 +140,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Sorina Radu",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Sorina Radu",
+        "flag": "US",
         "event": "2015 Salt Lake City Regionals",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/archeops.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "archeops",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -168,14 +156,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Franco Puertas",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Franco Puertas",
+        "flag": "US",
         "event": "2015 Salt Lake City Regionals",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/archeops.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "archeops",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [

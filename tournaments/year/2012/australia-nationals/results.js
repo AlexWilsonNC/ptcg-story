@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Roland Allen",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Roland Allen",
+        "flag": "AU",
         "event": "2012 Australia National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/terrakion.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "terrakion",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -20,14 +18,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Yi Yuan",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Yi Yuan",
+        "flag": "AU",
         "event": "2012 Australia National Championships",
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "darkrai",
+        "sprite2": "mewtwo",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -40,14 +36,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Shawn Murphy",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Shawn Murphy",
+        "flag": "AU",
         "event": "2012 Australia National Championships",
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "darkrai",
+        "sprite2": "mewtwo",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -60,14 +54,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Myles O’Neil",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Myles O’Neil",
+        "flag": "AU",
         "event": "2012 Australia National Championships",
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/terrakion.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "darkrai",
+        "sprite2": "terrakion",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -80,14 +72,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Michael Kan",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Michael Kan",
+        "flag": "AU",
         "event": "2012 Australia National Championships",
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/sableye.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "darkrai",
+        "sprite2": "sableye",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -100,14 +90,12 @@ let masters = [
         }
     },
     {
-        "firstName": "James Dickson",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "James Dickson",
+        "flag": "AU",
         "event": "2012 Australia National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/entei.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "entei",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -120,14 +108,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Dean Van Helvoirt",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Dean Van Helvoirt",
+        "flag": "AU",
         "event": "2012 Australia National Championships",
-        sprite1: '../../../../assets/sprites/celebi.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "celebi",
+        "sprite2": "mewtwo",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -140,14 +126,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Sean Takemoto",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Sean Takemoto",
+        "flag": "AU",
         "event": "2012 Australia National Championships",
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/sableye.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "darkrai",
+        "sprite2": "sableye",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],

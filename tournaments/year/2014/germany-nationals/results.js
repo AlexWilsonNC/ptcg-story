@@ -1,19 +1,19 @@
-let masters = [
+"masters": [
     {
-        firstName: 'Karl Peters',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2014 Germany National Championships',
-    decklist: {
+        "name": "Karl Peters",
+        "flag": "DE",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        list: '../../../../assets/list-icon",
+        event: '2014 Germany National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Virizion-EX", "set": "PLB", "number": "9" },
         { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
         { "count": 1, "name": "Shaymin-EX", "set": "NXD", "number": "5" },
         { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60" },
         { "count": 1, "name": "Bouffalant", "set": "DRX", "number": "110" },
-        { "count": 1, "name": "Mr. Mime", "set": "PLF", "number": "47" },
+        { "count": 1, "name": "Mr. Mime", "set": "PLF", "number": "47" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -30,27 +30,27 @@ let masters = [
         { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
         { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
         { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
-        { "count": 2, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" },
+        { "count": 2, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" }
       ], "energy": [
         { "count": 9, "name": "Grass Energy", "set": "XY", "number": "132" },
-        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" }
       ]
     },
     },
     {
-        firstName: 'Dennis Mischitz',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2014 Germany National Championships',
-    decklist: {
+        "name": "Dennis Mischitz",
+        "flag": "DE",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        list: '../../../../assets/list-icon",
+        event: '2014 Germany National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
         { "count": 2, "name": "Virizion-EX", "set": "PLB", "number": "9" },
         { "count": 1, "name": "Shaymin-EX", "set": "NXD", "number": "5" },
         { "count": 3, "name": "Roserade", "set": "DRX", "number": "15" },
-        { "count": 3, "name": "Roselia", "set": "DRX", "number": "12" },
+        { "count": 3, "name": "Roselia", "set": "DRX", "number": "12" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -68,27 +68,27 @@ let masters = [
         { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
         { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
         { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
-        { "count": 2, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" },
+        { "count": 2, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" }
       ], "energy": [
         { "count": 9, "name": "Grass Energy", "set": "XY", "number": "132" },
-        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" }
       ]
     },
     },
     {
-        firstName: 'Marc Lutz',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2014 Germany National Championships',
-    decklist: {
+        "name": "Marc Lutz",
+        "flag": "DE",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        list: '../../../../assets/list-icon",
+        event: '2014 Germany National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
         { "count": 2, "name": "Virizion-EX", "set": "PLB", "number": "9" },
         { "count": 1, "name": "Shaymin-EX", "set": "NXD", "number": "5" },
         { "count": 1, "name": "Electrode", "set": "PLF", "number": "33" },
-        { "count": 1, "name": "Voltorb", "set": "XY", "number": "44" },
+        { "count": 1, "name": "Voltorb", "set": "XY", "number": "44" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -105,28 +105,28 @@ let masters = [
         { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
         { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
         { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
-        { "count": 2, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" },
+        { "count": 2, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" }
       ], "energy": [
         { "count": 9, "name": "Grass Energy", "set": "XY", "number": "132" },
-        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" }
       ]
     },
     },
     {
-        firstName: 'Finn Looft',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2014 Germany National Championships',
-    decklist: {
+        "name": "Finn Looft",
+        "flag": "DE",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        list: '../../../../assets/list-icon",
+        event: '2014 Germany National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 4, "name": "Virizion-EX", "set": "PLB", "number": "9" },
         { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
         { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60" },
         { "count": 2, "name": "Roserade", "set": "DRX", "number": "15" },
         { "count": 2, "name": "Roselia", "set": "DRX", "number": "12" },
-        { "count": 1, "name": "Mr. Mime", "set": "PLF", "number": "47" },
+        { "count": 1, "name": "Mr. Mime", "set": "PLF", "number": "47" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -144,27 +144,27 @@ let masters = [
         { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
         { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
         { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
-        { "count": 3, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" },
+        { "count": 3, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" }
       ], "energy": [
         { "count": 9, "name": "Grass Energy", "set": "XY", "number": "132" },
-        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" }
       ]
     },
     },
     {
-        firstName: 'David Kirschbaum',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2014 Germany National Championships',
-    decklist: {
+        "name": "David Kirschbaum",
+        "flag": "DE",
+        "sprite1": "lugia",
+        "sprite2": "deoxys",
+        list: '../../../../assets/list-icon",
+        event: '2014 Germany National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Lugia-EX", "set": "PLS", "number": "108" },
         { "count": 4, "name": "Deoxys-EX", "set": "PLF", "number": "53" },
         { "count": 2, "name": "Thundurus-EX", "set": "PLF", "number": "38" },
         { "count": 2, "name": "Kyurem", "set": "PLF", "number": "31" },
-        { "count": 1, "name": "Sigilyph", "set": "LTR", "number": "66" },
+        { "count": 1, "name": "Sigilyph", "set": "LTR", "number": "66" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 4, "name": "Skyla", "set": "BCR", "number": "134" },
@@ -180,31 +180,31 @@ let masters = [
         { "count": 2, "name": "Switch", "set": "KSS", "number": "38" },
         { "count": 1, "name": "Team Plasma Ball", "set": "PLF", "number": "105" },
         { "count": 4, "name": "Muscle Band", "set": "XY", "number": "121" },
-        { "count": 2, "name": "Tropical Beach", "set": "PR-BLW", "number": "50" },
+        { "count": 2, "name": "Tropical Beach", "set": "PR-BLW", "number": "50" }
       ], "energy": [
         { "count": 1, "name": "Water Energy", "set": "XY", "number": "134" },
         { "count": 1, "name": "Lightning Energy", "set": "XY", "number": "135" },
         { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" },
         { "count": 4, "name": "Prism Energy", "set": "NXD", "number": "93" },
-        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
       ]
     },
     },
     {
-        firstName: 'Ole Stognief',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/emboar.png',
-        sprite2: '../../../../assets/sprites/rayquaza.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2014 Germany National Championships',
-    decklist: {
+        "name": "Ole Stognief",
+        "flag": "DE",
+        "sprite1": "emboar",
+        "sprite2": "rayquaza",
+        list: '../../../../assets/list-icon",
+        event: '2014 Germany National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Rayquaza-EX", "set": "DRX", "number": "85" },
         { "count": 3, "name": "Emboar", "set": "LTR", "number": "27" },
         { "count": 3, "name": "Tepig", "set": "BCR", "number": "24" },
         { "count": 2, "name": "Delphox", "set": "XY", "number": "26" },
         { "count": 3, "name": "Fennekin", "set": "KSS", "number": "8" },
-        { "count": 1, "name": "Reshiram", "set": "LTR", "number": "28" },
+        { "count": 1, "name": "Reshiram", "set": "LTR", "number": "28" }
       ], "trainer": [
         { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
         { "count": 4, "name": "Skyla", "set": "BCR", "number": "134" },
@@ -219,27 +219,27 @@ let masters = [
         { "count": 2, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
         { "count": 1, "name": "Switch", "set": "KSS", "number": "38" },
         { "count": 1, "name": "Escape Rope", "set": "PLS", "number": "120" },
-        { "count": 3, "name": "Tropical Beach", "set": "PR-BLW", "number": "50" },
+        { "count": 3, "name": "Tropical Beach", "set": "PR-BLW", "number": "50" }
       ], "energy": [
         { "count": 8, "name": "Fire Energy", "set": "XY", "number": "133" },
-        { "count": 2, "name": "Lightning Energy", "set": "XY", "number": "135" },
+        { "count": 2, "name": "Lightning Energy", "set": "XY", "number": "135" }
       ]
     },
     },
     {
-        firstName: 'David Sturm',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2014 Germany National Championships',
-    decklist: {
+        "name": "David Sturm",
+        "flag": "DE",
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+        list: '../../../../assets/list-icon",
+        event: '2014 Germany National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
         { "count": 2, "name": "Virizion-EX", "set": "PLB", "number": "9" },
         { "count": 1, "name": "Shaymin-EX", "set": "NXD", "number": "5" },
         { "count": 1, "name": "Sigilyph", "set": "LTR", "number": "66" },
-        { "count": 1, "name": "Mr. Mime", "set": "PLF", "number": "47" },
+        { "count": 1, "name": "Mr. Mime", "set": "PLF", "number": "47" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -257,21 +257,21 @@ let masters = [
         { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
         { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
         { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
-        { "count": 3, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" },
+        { "count": 3, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" }
       ], "energy": [
         { "count": 9, "name": "Grass Energy", "set": "XY", "number": "132" },
-        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" },
+        { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" }
       ]
     },
     },
     {
-        firstName: 'Steven Mao',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/garbodor.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2014 Germany National Championships',
-    decklist: {
+        "name": "Steven Mao",
+        "flag": "DE",
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+        list: '../../../../assets/list-icon",
+        event: '2014 Germany National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
         { "count": 2, "name": "Garbodor", "set": "LTR", "number": "68" },
@@ -279,7 +279,7 @@ let masters = [
         { "count": 1, "name": "Sableye", "set": "DEX", "number": "62" },
         { "count": 1, "name": "Bouffalant", "set": "DRX", "number": "110" },
         { "count": 1, "name": "Absol", "set": "PLF", "number": "67" },
-        { "count": 1, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
+        { "count": 1, "name": "Darkrai-EX", "set": "DEX", "number": "63" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -293,10 +293,10 @@ let masters = [
         { "count": 1, "name": "Escape Rope", "set": "PLS", "number": "120" },
         { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
         { "count": 3, "name": "Float Stone", "set": "PLF", "number": "99" },
-        { "count": 3, "name": "Virbank City Gym", "set": "PLS", "number": "126" },
+        { "count": 3, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
       ], "energy": [
         { "count": 8, "name": "Darkness Energy", "set": "XY", "number": "138" },
-        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" }
       ]
     },
     },

@@ -1,4 +1,4 @@
-let masters = [
+"masters": [
     {
         "name": "Andrew Estrada",
         "flag": "CA",
@@ -31722,7 +31722,7 @@ let masters = [
     }
 ]
 
-let seniors =
+"seniors":
     [{
         "name": "Tristan T.",
         "flag": "CA",
@@ -31772,7 +31772,7 @@ let seniors =
         "decklist": { "pokemon": [{ "count": 4, "name": "Charmander", "number": "26", "set": "OBF" }, { "count": 1, "name": "Charmeleon", "number": "27", "set": "OBF" }, { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" }, { "count": 2, "name": "Arceus V", "number": "122", "set": "BRS" }, { "count": 2, "name": "Arceus VSTAR", "number": "123", "set": "BRS" }, { "count": 2, "name": "Pidgey", "number": "162", "set": "OBF" }, { "count": 2, "name": "Pidgeot ex", "number": "164", "set": "OBF" }, { "count": 1, "name": "Radiant Charizard", "number": "11", "set": "PGO" }, { "count": 1, "name": "Mew", "number": "11", "set": "CEL" }], "trainer": [{ "count": 3, "name": "Boss's Orders", "number": "132", "set": "BRS" }, { "count": 3, "name": "Colress's Experiment", "number": "GG59", "set": "CRZ" }, { "count": 3, "name": "Iono", "number": "185", "set": "PAL" }, { "count": 1, "name": "Jacq", "number": "175", "set": "SVI" }, { "count": 2, "name": "Artazon", "number": "229", "set": "OBF" }, { "count": 1, "name": "Magma Basin", "number": "144", "set": "BRS" }, { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" }, { "count": 4, "name": "Rare Candy", "number": "142", "set": "CES" }, { "count": 4, "name": "Ultra Ball", "number": "150", "set": "BRS" }, { "count": 2, "name": "Nest Ball", "number": "181", "set": "SVI" }, { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" }, { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" }, { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" }, { "count": 1, "name": "Vitality Band", "number": "185", "set": "SSH" }, { "count": 1, "name": "Choice Belt", "number": "211", "set": "ASR" }], "energy": [{ "count": 2, "name": "Double Turbo Energy - Special", "number": "216", "set": "ASR" }, { "count": 8, "name": "Fire Energy - Basic", "number": "153", "set": "CRZ" }] }
     }]
 
-let juniors =
+"juniors":
     [{
         "name": "Tyler L.",
         "flag": "US",

@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Lochie McKeefry',
-      flag: '../../../assets/flags/new-zealand.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Lochie McKeefry",
+      "flag": "NZ",
+      "sprite1": "blank",
+      "sprite2": "mewtwo-mew-tagteam",
+       
       deckid: "mewtwo-and-mew-tagteam",
       event: "2020 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -74,7 +74,7 @@ let masters = [
             "name": "Greninja GX",
             "number": "197",
             "set": "PR-SM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -148,7 +148,7 @@ let masters = [
             "name": "Giant Hearth",
             "number": "197",
             "set": "UNM"
-          },
+          }
         ],
         "energy": [
           {
@@ -173,14 +173,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Renan Takeo Togashi',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/adp.png',
-      sprite2: '../../../assets/sprites/keldeo.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Renan Takeo Togashi",
+      "flag": "BR",
+      "sprite1": "adp",
+      "sprite2": "keldeo",
+       
       deckid: "adp",
       event: "2020 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -217,7 +217,7 @@ let masters = [
             "name": "Mewtwo & Mew GX",
             "number": "71",
             "set": "UNM"
-        },
+        }
         ],
         "trainer": [
           {
@@ -297,7 +297,7 @@ let masters = [
             "name": "Chaotic Swell",
             "number": "187",
             "set": "CEC"
-        },
+        }
         ],
         "energy": [
           {
@@ -328,14 +328,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Mateus Rocha',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/oranguru.png',
-      sprite2: '../../../assets/sprites/pidgeotto.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Mateus Rocha",
+      "flag": "BR",
+      "sprite1": "oranguru",
+      "sprite2": "pidgeotto",
+       
       deckid: "guru-pidgey",
       event: "2020 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -390,7 +390,7 @@ let masters = [
               "name": "Absol",
               "number": "88",
               "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -506,7 +506,7 @@ let masters = [
               "name": "Power Plant",
               "number": "183",
               "set": "UNB"
-          },
+          }
         ],
         "energy": [
           {
@@ -525,14 +525,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Lucas Jordão',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Lucas Jordão",
+      "flag": "BR",
+      "sprite1": "blank",
+      "sprite2": "mewtwo-mew-tagteam",
+       
       deckid: "mewtwo-and-mew-tagteam",
       event: "2020 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -611,7 +611,7 @@ let masters = [
               "name": "Phione",
               "number": "57",
               "set": "CEC"
-          },
+          }
         ],
         "trainer": [
           {
@@ -685,7 +685,7 @@ let masters = [
             "name": "Viridian Forest",
             "number": "156",
             "set": "TEU"
-        },
+        }
         ],
         "energy": [
           {
@@ -716,14 +716,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Matheus Kanaan',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/charizard-braixen-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Matheus Kanaan",
+      "flag": "BR",
+      "sprite1": "blank",
+      "sprite2": "charizard-braixen-tagteam",
+       
       deckid: "charizard-braixen",
       event: "2020 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -748,7 +748,7 @@ let masters = [
             "name": "Pheromosa",
             "number": "11",
             "set": "FLI"
-          },
+          }
         ],
         "trainer": [
           {
@@ -864,7 +864,7 @@ let masters = [
             "name": "Heat Factory ♢",
             "number": "178",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -883,14 +883,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Vinicius Fernandez',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/florges.png',
-      sprite2: '../../../assets/sprites/munchlax.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Vinicius Fernandez",
+      "flag": "BR",
+      "sprite1": "florges",
+      "sprite2": "munchlax",
+       
       deckid: "florges-munchlax",
       event: "2020 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -963,7 +963,7 @@ let masters = [
              "name": "Latios GX",
              "number": "78",
              "set": "UNM"
-         },
+         }
         ],
         "trainer": [
           {
@@ -1049,7 +1049,7 @@ let masters = [
               "name": "Sky Pillar",
               "number": "144",
               "set": "CES"
-          },
+          }
         ],
         "energy": [
           {
@@ -1062,14 +1062,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Joao Antonio',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/adp.png',
-      sprite2: '../../../assets/sprites/keldeo.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Joao Antonio",
+      "flag": "BR",
+      "sprite1": "adp",
+      "sprite2": "keldeo",
+       
       deckid: "adp",
       event: "2020 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1112,7 +1112,7 @@ let masters = [
             "name": "Drampa",
             "number": "159",
             "set": "CEC"
-        },
+        }
         ],
         "trainer": [
           {
@@ -1192,7 +1192,7 @@ let masters = [
               "name": "Chaotic Swell",
               "number": "187",
               "set": "CEC"
-          },
+          }
         ],
         "energy": [
           {
@@ -1211,14 +1211,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Simon Belanyi',
-      flag: '../../../assets/flags/slovakia.png',
-      sprite1: '../../../assets/sprites/adp.png',
-      sprite2: '../../../assets/sprites/keldeo.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Simon Belanyi",
+      "flag": "SK",
+      "sprite1": "adp",
+      "sprite2": "keldeo",
+       
       deckid: "adp",
       event: "2020 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1261,7 +1261,7 @@ let masters = [
             "name": "Drampa",
             "number": "159",
             "set": "CEC"
-        },
+        }
         ],
         "trainer": [
           {
@@ -1359,7 +1359,7 @@ let masters = [
               "name": "Chaotic Swell",
               "number": "187",
               "set": "CEC"
-          },
+          }
         ],
         "energy": [
           {

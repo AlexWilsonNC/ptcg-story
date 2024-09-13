@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Alex Hill",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Alex Hill",
+        "flag": "US",
         "event": "2015 Kitchener Regionals",
-        sprite1: '../../../../assets/sprites/gardevoir-mega.png',
-        sprite2: '../../../../assets/sprites/aromatisse.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "gardevoir-mega",
+        "sprite2": "aromatisse",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "M Gardevoir-EX", "set": "PRC", "number": "106" },
                 { "count": 3, "name": "Gardevoir-EX", "set": "PRC", "number": "105" },
@@ -35,13 +34,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Calvin Tathanhlong",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Calvin Tathanhlong",
+        "flag": "CA",
         "event": "2015 Kitchener Regionals",
-        sprite1: '../../../../assets/sprites/seismitoad.png',
-        sprite2: '../../../../assets/sprites/lugia.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "seismitoad",
+        "sprite2": "lugia",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Seismitoad-EX", "set": "FFI", "number": "20" },
                 { "count": 2, "name": "Lugia-EX", "set": "LTR", "number": "102" },
@@ -72,13 +70,12 @@ let masters = [
         }
     },
     {
-        "firstName": "André Chiasson",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "André Chiasson",
+        "flag": "CA",
         "event": "2015 Kitchener Regionals",
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Virizion-EX", "set": "PLB", "number": "9" },
                 { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
@@ -110,13 +107,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Chris Venier",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Chris Venier",
+        "flag": "CA",
         "event": "2015 Kitchener Regionals",
-        sprite1: '../../../../assets/sprites/joltik.png',
-        sprite2: '../../../../assets/sprites/pumpkaboo.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "joltik",
+        "sprite2": "pumpkaboo",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Joltik", "set": "PHF", "number": "26" },
                 { "count": 4, "name": "Pumpkaboo", "set": "PHF", "number": "44" },
@@ -148,14 +144,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jay Lesage",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Jay Lesage",
+        "flag": "CA",
         "event": "2015 Kitchener Regionals",
-        sprite1: '../../../../assets/sprites/ho-oh.png',
-        sprite2: '../../../../assets/sprites/huntail.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "ho-oh",
+        "sprite2": "huntail",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -166,13 +160,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jason Klaczynski",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Jason Klaczynski",
+        "flag": "US",
         "event": "2015 Kitchener Regionals",
-        sprite1: '../../../../assets/sprites/trevenant.png',
-        sprite2: '../../../../assets/sprites/accelgor.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "trevenant",
+        "sprite2": "accelgor",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Trevenant", "set": "XY", "number": "55" },
                 { "count": 4, "name": "Phantump", "set": "XY", "number": "54" },
@@ -204,14 +197,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Sean Foisy",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Sean Foisy",
+        "flag": "US",
         "event": "2015 Kitchener Regionals",
-        sprite1: '../../../../assets/sprites/trevenant.png',
-        sprite2: '../../../../assets/sprites/accelgor.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "trevenant",
+        "sprite2": "accelgor",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -222,13 +213,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Kevin Baxter",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Kevin Baxter",
+        "flag": "US",
         "event": "2015 Kitchener Regionals",
-        sprite1: '../../../../assets/sprites/gardevoir-mega.png',
-        sprite2: '../../../../assets/sprites/aromatisse.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "gardevoir-mega",
+        "sprite2": "aromatisse",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Xerneas", "set": "XY", "number": "96" },
                 { "count": 3, "name": "M Gardevoir-EX", "set": "PRC", "number": "106" },

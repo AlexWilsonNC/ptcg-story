@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Sobi Kwak',
-      flag: '../../../assets/flags/australia.png',
-      sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-      sprite2: '../../../assets/sprites/malamar.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Sobi Kwak",
+      "flag": "AU",
+      "sprite1": "mewtwo-mew-tagteam",
+      "sprite2": "malamar",
+       
       deckid: "malamar-mewtwo-and-mew-tagteam",
       event: "2020 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -104,7 +104,7 @@ let masters = [
             "name": "Mimikyu",
             "number": "58",
             "set": "GRI"
-          },
+          }
         ],
         "trainer": [
           {
@@ -166,7 +166,7 @@ let masters = [
               "name": "Viridian Forest",
               "number": "156",
               "set": "TEU"
-          },
+          }
         ],
         "energy": [
           {
@@ -191,14 +191,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Christian Moreno',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
-      sprite2: '../../../assets/sprites/ninetales.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Christian Moreno",
+      "flag": "US",
+      "sprite1": "reshiram-charizard-tagteam",
+      "sprite2": "ninetales",
+       
       deckid: "reshizard",
       event: "2020 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 1,
@@ -277,7 +277,7 @@ let masters = [
             "name": "Jirachi",
             "number": "99",
             "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -339,7 +339,7 @@ let masters = [
             "name": "Heat Factory ♢",
             "number": "178",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -352,14 +352,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Travis Beckwith',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/cinccino.png',
-      sprite2: '../../../assets/sprites/oranguru.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Travis Beckwith",
+      "flag": "US",
+      "sprite1": "cinccino",
+      "sprite2": "oranguru",
+       
       deckid: "oranguru-mill",
       event: "2020 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -426,7 +426,7 @@ let masters = [
               "name": "Wobbuffet",
               "number": "93",
               "set": "LOT"
-          },
+          }
         ],
         "trainer": [
           {
@@ -512,7 +512,7 @@ let masters = [
               "name": "Air Balloon",
               "number": "156",
               "set": "SSH"
-          },
+          }
         ],
         "energy": [
           {
@@ -537,14 +537,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Renan Togashi',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
-      sprite2: '../../../assets/sprites/ninetales.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Renan Togashi",
+      "flag": "BR",
+      "sprite1": "reshiram-charizard-tagteam",
+      "sprite2": "ninetales",
+       
       deckid: "reshizard",
       event: "2020 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 1,
@@ -599,7 +599,7 @@ let masters = [
             "name": "Jirachi",
             "number": "99",
             "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -661,7 +661,7 @@ let masters = [
             "name": "Heat Factory ♢",
             "number": "178",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -674,14 +674,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Christian Labella',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/adp.png',
-      sprite2: '../../../assets/sprites/zacian-crowned.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Christian Labella",
+      "flag": "CA",
+      "sprite1": "adp",
+      "sprite2": "zacian-crowned",
+       
       deckid: "adp",
       event: "2020 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -730,7 +730,7 @@ let masters = [
               "name": "Phione",
               "number": "57",
               "set": "CEC"
-          },
+          }
         ],
         "trainer": [
           {
@@ -816,7 +816,7 @@ let masters = [
               "name": "Shrine of Punishment",
               "number": "143",
               "set": "CES"
-          },
+          }
         ],
         "energy": [
           {
@@ -841,14 +841,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Justin Tse',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/adp.png',
-      sprite2: '../../../assets/sprites/zacian-crowned.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Justin Tse",
+      "flag": "CA",
+      "sprite1": "adp",
+      "sprite2": "zacian-crowned",
+       
       deckid: "adp",
       event: "2020 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -897,7 +897,7 @@ let masters = [
               "name": "Phione",
               "number": "57",
               "set": "CEC"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1001,7 +1001,7 @@ let masters = [
               "name": "Shrine of Punishment",
               "number": "143",
               "set": "CES"
-          },
+          }
         ],
         "energy": [
           {
@@ -1026,14 +1026,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Marcus Dwyer',
-      flag: '../../../assets/flags/australia.png',
-      sprite1: '../../../assets/sprites/adp.png',
-      sprite2: '../../../assets/sprites/zacian-crowned.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Marcus Dwyer",
+      "flag": "AU",
+      "sprite1": "adp",
+      "sprite2": "zacian-crowned",
+       
       deckid: "adp",
       event: "2020 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -1082,7 +1082,7 @@ let masters = [
               "name": "Phione",
               "number": "57",
               "set": "CEC"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1162,7 +1162,7 @@ let masters = [
               "name": "Lysandre Labs",
               "number": "111",
               "set": "FLI"
-          },
+          }
         ],
         "energy": [
           {
@@ -1187,14 +1187,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Kaya Lichtleitner',
-      flag: '../../../assets/flags/germany.png',
-      sprite1: '../../../assets/sprites/oranguru.png',
-      sprite2: '../../../assets/sprites/pidgeotto.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Kaya Lichtleitner",
+      "flag": "DE",
+      "sprite1": "oranguru",
+      "sprite2": "pidgeotto",
+       
       deckid: "guru-pidgey",
       event: "2020 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -1255,7 +1255,7 @@ let masters = [
               "name": "Mew",
               "number": "76",
               "set": "UNB"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1335,7 +1335,7 @@ let masters = [
               "name": "Power Plant",
               "number": "183",
               "set": "UNB"
-          },
+          }
         ],
         "energy": [
           {

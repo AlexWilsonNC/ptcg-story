@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Henrique Guarita',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/blacephalon.png',
-      sprite2: '../../../assets/sprites/naganadel.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Henrique Guarita",
+      "flag": "BR",
+      "sprite1": "blacephalon",
+      "sprite2": "naganadel",
+       
       deckid: "blacephalon-naganadel",
       event: "2019 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -32,7 +32,7 @@ let masters = [
               "name": "Tapu Lele GX",
               "number": "60",
               "set": "GRI"
-          },
+          }
         ],
         "trainer": [
           {
@@ -118,7 +118,7 @@ let masters = [
               "name": "Heat Factory ♢",
               "number": "178",
               "set": "LOT"
-            },
+            }
         ],
         "energy": [
           {
@@ -137,14 +137,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Pedro Meneses',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/malamar.png',
-      sprite2: '../../../assets/sprites/tapu-koko.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Pedro Meneses",
+      "flag": "BR",
+      "sprite1": "malamar",
+      "sprite2": "tapu-koko",
+       
       deckid: "malamar",
       event: "2019 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -205,7 +205,7 @@ let masters = [
             "name": "Marshadow",
             "number": "45",
             "set": "SLG"
-          },
+          }
         ],
         "trainer": [
           {
@@ -267,7 +267,7 @@ let masters = [
               "name": "Shrine of Punishment",
               "number": "143",
               "set": "CES"
-          },
+          }
         ],
         "energy": [
           {
@@ -286,14 +286,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Taylor Johnson',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Taylor Johnson",
+      "flag": "US",
+      "sprite1": "zoroark",
+      "sprite2": "lycanroc-midnight",
+       
       deckid: "zoroark-lycanroc",
       event: "2019 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -354,7 +354,7 @@ let masters = [
              "name": "Deoxys",
              "number": "67",
              "set": "CES"
-         },
+         }
         ],
         "trainer": [
           {
@@ -458,7 +458,7 @@ let masters = [
             "name": "Devoured Field",
             "number": "93",
             "set": "CIN"
-        },
+        }
         ],
         "energy": [
           {
@@ -477,14 +477,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Maxence Feuillard',
-      flag: '../../../assets/flags/france.png',
-      sprite1: '../../../assets/sprites/passimian.png',
-      sprite2: '../../../assets/sprites/tapu-koko.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Maxence Feuillard",
+      "flag": "FR",
+      "sprite1": "passimian",
+      "sprite2": "tapu-koko",
+       
       deckid: "passimian",
       event: "2019 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -533,7 +533,7 @@ let masters = [
               "name": "Victini",
               "number": "49",
               "set": "LOT"
-          },
+          }
         ],
         "trainer": [
           {
@@ -613,7 +613,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
         ],
         "energy": [
           {
@@ -638,14 +638,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Noah Donen',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/malamar.png',
-      sprite2: '../../../assets/sprites/marshadow.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Noah Donen",
+      "flag": "CA",
+      "sprite1": "malamar",
+      "sprite2": "marshadow",
+       
       deckid: "malamar",
       event: "2019 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -725,7 +725,7 @@ let masters = [
             "name": "Oricorio",
             "number": "55",
             "set": "GRI"
-        },
+        }
         ],
         "trainer": [
           {
@@ -793,7 +793,7 @@ let masters = [
               "name": "Escape Board",
               "number": "122",
               "set": "UPR"
-            },
+            }
         ],
         "energy": [
           {
@@ -806,14 +806,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Winston Stuteville',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/malamar.png',
-      sprite2: '../../../assets/sprites/tapu-koko.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Winston Stuteville",
+      "flag": "US",
+      "sprite1": "malamar",
+      "sprite2": "tapu-koko",
+       
       deckid: "malamar",
       event: "2019 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -856,7 +856,7 @@ let masters = [
             "name": "Marshadow",
             "number": "45",
             "set": "SLG"
-          },
+          }
         ],
         "trainer": [
           {
@@ -918,7 +918,7 @@ let masters = [
               "name": "Spell Tag",
               "number": "190",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -931,14 +931,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Felipe de Oliveira',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/exeggutor-alola.png',
-      sprite2: '../../../assets/sprites/grovyle.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Felipe de Oliveira",
+      "flag": "BR",
+      "sprite1": "exeggutor-alola",
+      "sprite2": "grovyle",
+       
       deckid: "alolan-exeggutor-shake",
       event: "2019 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -993,7 +993,7 @@ let masters = [
              "name": "Ditto ♢",
              "number": "154",
              "set": "LOT"
-         },
+         }
         ],
         "trainer": [
           {
@@ -1061,7 +1061,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
         ],
         "energy": [
           {
@@ -1104,14 +1104,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Rasmus Wagner',
-      flag: '../../../assets/flags/denmark.png',
-      sprite1: '../../../assets/sprites/blacephalon.png',
-      sprite2: '../../../assets/sprites/naganadel.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Rasmus Wagner",
+      "flag": "DK",
+      "sprite1": "blacephalon",
+      "sprite2": "naganadel",
+       
       deckid: "blacephalon-naganadel",
       event: "2019 Latin America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1142,7 +1142,7 @@ let masters = [
             "name": "Marshadow",
             "number": "45",
             "set": "SLG"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1222,7 +1222,7 @@ let masters = [
               "name": "Heat Factory ♢",
               "number": "178",
               "set": "LOT"
-            },
+            }
         ],
         "energy": [
           {

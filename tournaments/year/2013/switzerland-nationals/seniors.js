@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Nino Kunz",
-        flag: '../../../../assets/flags/switzerland.png',
+        "name": "Nino Kunz",
+        "flag": "CH",
         "event": "2013 Switzerland National Championships",
-        sprite1: '../../../../assets/sprites/landorus-therian.png',
-        sprite2: '../../../../assets/sprites/garbodor.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "landorus-therian",
+        "sprite2": "garbodor",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -20,14 +18,12 @@ let masters = [
         }
     },
   {
-        "firstName": "Titouan",
-        flag: '../../../../assets/flags/switzerland.png',
+        "name": "Titouan",
+        "flag": "CH",
         "event": "2013 Switzerland National Championships",
-        sprite1: '../../../../assets/sprites/landorus-therian.png',
-        sprite2: '../../../../assets/sprites/tornadus.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "landorus-therian",
+        "sprite2": "tornadus",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -40,14 +36,12 @@ let masters = [
         }
     },
   {
-        "firstName": "Andrea M",
-        flag: '../../../../assets/flags/switzerland.png',
+        "name": "Andrea M",
+        "flag": "CH",
         "event": "2013 Switzerland National Championships",
-        sprite1: '../../../../assets/sprites/keldeo-resolute.png',
-        sprite2: '../../../../assets/sprites/blastoise.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "keldeo-resolute",
+        "sprite2": "blastoise",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -60,14 +54,12 @@ let masters = [
         }
     },
   {
-        "firstName": "Bastien",
-        flag: '../../../../assets/flags/switzerland.png',
+        "name": "Bastien",
+        "flag": "CH",
         "event": "2013 Switzerland National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/klinklang.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "klinklang",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],

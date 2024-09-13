@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
   {
-    firstName: 'Nico Alabas',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Nico Alabas",
+    "flag": "DE",
+    "sprite1": "blank",
+    "sprite2": "mewtwo-mew-tagteam",
+     
     deckid: "mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -86,7 +86,7 @@ let masters = [
             "name": "Blacephalon",
             "number": "104",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -148,7 +148,7 @@ let masters = [
           "name": "Giant Hearth",
           "number": "197",
           "set": "UNM"
-        },
+        }
       ],
       "energy": [
         {
@@ -168,19 +168,19 @@ let masters = [
             "name": "Weakness Guard Energy",
             "number": "213",
             "set": "UNM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Zach Lesage',
-    flag: '../../../assets/flags/canada.png',
-    sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
-    sprite2: '../../../assets/sprites/ninetales.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Zach Lesage",
+    "flag": "CA",
+    "sprite1": "reshiram-charizard-tagteam",
+    "sprite2": "ninetales",
+     
     deckid: "reshizard",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 1,
@@ -241,7 +241,7 @@ let masters = [
           "name": "Jirachi",
           "number": "99",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -303,7 +303,7 @@ let masters = [
           "name": "Heat Factory ♢",
           "number": "178",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -311,19 +311,19 @@ let masters = [
             "name": "Fire Energy",
             "number": "fire",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Tim Bartels',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/obstagoon.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Tim Bartels",
+    "flag": "DE",
+    "sprite1": "blank",
+    "sprite2": "obstagoon",
+     
     deckid: "obstagoon",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -378,7 +378,7 @@ let masters = [
             "name": "Mew",
             "number": "76",
             "set": "UNB"
-        },
+        }
       ],
       "trainer": [
         {
@@ -458,7 +458,7 @@ let masters = [
             "name": "Counter Gain",
             "number": "170",
             "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -466,19 +466,19 @@ let masters = [
           "name": "Dark Energy",
           "number": "dark",
           "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'James Williams',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/cinccino.png',
-    sprite2: '../../../assets/sprites/oranguru.png',
-    list: '../../../assets/list-icon.png',
+    "name": "James Williams",
+    "flag": "AU",
+    "sprite1": "cinccino",
+    "sprite2": "oranguru",
+     
     deckid: "oranguru-mill",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -527,7 +527,7 @@ let masters = [
             "name": "Ditto ♢",
             "number": "154",
             "set": "LOT"
-        },
+        }
       ],
       "trainer": [
         {
@@ -619,7 +619,7 @@ let masters = [
             "name": "Chaotic Swell",
             "number": "187",
             "set": "CEC"
-        },
+        }
       ],
       "energy": [
         {
@@ -633,19 +633,19 @@ let masters = [
             "name": "Recycle Energy",
             "number": "212",
             "set": "UNM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Bert Wolters',
-    flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Bert Wolters",
+    "flag": "NL",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -694,7 +694,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -786,7 +786,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -806,19 +806,19 @@ let masters = [
             "name": "Unit Energy GRW",
             "number": "137",
             "set": "UPR"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Ian Robb',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Ian Robb",
+    "flag": "US",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -855,7 +855,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -947,7 +947,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -966,14 +966,14 @@ let masters = [
     }
   },
   {
-    firstName: 'Tord Reklev',
-    flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Tord Reklev",
+    "flag": "NO",
+    "sprite1": "blank",
+    "sprite2": "mewtwo-mew-tagteam",
+     
     deckid: "mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -1052,7 +1052,7 @@ let masters = [
             "name": "Blacephalon",
             "number": "104",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1114,7 +1114,7 @@ let masters = [
           "name": "Giant Hearth",
           "number": "197",
           "set": "UNM"
-        },
+        }
       ],
       "energy": [
         {
@@ -1134,19 +1134,19 @@ let masters = [
             "name": "Weakness Guard Energy",
             "number": "213",
             "set": "UNM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Natalie Millar',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Natalie Millar",
+    "flag": "AU",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -1195,7 +1195,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1287,7 +1287,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -1307,19 +1307,19 @@ let masters = [
             "name": "Unit Energy GRW",
             "number": "137",
             "set": "UPR"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Clifton Goh',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Clifton Goh",
+    "flag": "SG",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -1368,7 +1368,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1448,7 +1448,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -1468,19 +1468,19 @@ let masters = [
           "name": "Rainbow Energy",
           "number": "151",
           "set": "CES"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Soma Arai',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/magcargo.png',
-    sprite2: '../../../assets/sprites/oranguru.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Soma Arai",
+    "flag": "JP",
+    "sprite1": "magcargo",
+    "sprite2": "oranguru",
+     
     deckid: "oranguru-mill",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 1,
@@ -1547,7 +1547,7 @@ let masters = [
             "name": "Wobbuffet",
             "number": "93",
             "set": "LOT"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1645,7 +1645,7 @@ let masters = [
           "name": "Slumbering Forest",
           "number": "207",
           "set": "UNM"
-        },
+        }
       ],
       "energy": [
         {
@@ -1659,19 +1659,19 @@ let masters = [
             "name": "Fighting Energy",
             "number": "fighting",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Tan Yong Siang',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blacephalon.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Tan Yong Siang",
+    "flag": "SG",
+    "sprite1": "blank",
+    "sprite2": "blacephalon",
+     
     deckid: "baby-blowns",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1720,7 +1720,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1818,7 +1818,7 @@ let masters = [
           "name": "Heat Factory ♢",
           "number": "178",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -1826,19 +1826,19 @@ let masters = [
             "name": "Fire Energy",
             "number": "fire",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Andrew Tandianus',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Andrew Tandianus",
+    "flag": "AU",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -1881,7 +1881,7 @@ let masters = [
             "name": "Cryogonal",
             "number": "46",
             "set": "UNM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1979,7 +1979,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -1998,14 +1998,14 @@ let masters = [
     }
   },
   {
-    firstName: 'Takuya Shomura',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Takuya Shomura",
+    "flag": "JP",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -2054,7 +2054,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2152,7 +2152,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -2172,19 +2172,19 @@ let masters = [
             "name": "Unit Energy GRW",
             "number": "137",
             "set": "UPR"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Daniel Altavilla',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/giratina.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Daniel Altavilla",
+    "flag": "US",
+    "sprite1": "malamar",
+    "sprite2": "giratina",
+     
     deckid: "malamar",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -2245,7 +2245,7 @@ let masters = [
             "name": "Latios GX",
             "number": "78",
             "set": "UNM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2307,7 +2307,7 @@ let masters = [
             "name": "Escape Board",
             "number": "122",
             "set": "UPR"
-          },
+          }
       ],
       "energy": [
         {
@@ -2321,19 +2321,19 @@ let masters = [
            "name": "Psychic Energy",
            "number": "psychic",
            "set": "SSH"
-       },
+       }
       ]
     }
   },
   {
-    firstName: 'Jon Eng',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Jon Eng",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     deckid: "pikarom",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -2388,7 +2388,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2468,7 +2468,7 @@ let masters = [
             "name": "Thunder Mountain ♢",
             "number": "191",
             "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -2476,19 +2476,19 @@ let masters = [
             "name": "Lightning Energy",
             "number": "lightning",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Man Tsung Wong',
-    flag: '../../../assets/flags/hong-kong.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Man Tsung Wong",
+    "flag": "HK",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -2543,7 +2543,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2635,7 +2635,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -2655,19 +2655,19 @@ let masters = [
             "name": "Aurora Energy",
             "number": "186",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Chienwei Yu',
-    flag: '../../../assets/flags/taiwan.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Chienwei Yu",
+    "flag": "TW",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -2710,7 +2710,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2802,7 +2802,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -2822,19 +2822,19 @@ let masters = [
             "name": "Unit Energy GRW",
             "number": "137",
             "set": "UPR"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Pedro Pertusi',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    sprite2: '../../../assets/sprites/malamar.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Pedro Pertusi",
+    "flag": "BR",
+    "sprite1": "mewtwo-mew-tagteam",
+    "sprite2": "malamar",
+     
     deckid: "malamar-mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -2919,7 +2919,7 @@ let masters = [
             "name": "Ditto ♢",
             "number": "154",
             "set": "LOT"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2993,7 +2993,7 @@ let masters = [
             "name": "Viridian Forest",
             "number": "156",
             "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -3007,19 +3007,19 @@ let masters = [
             "name": "Metal Energy",
             "number": "metal",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Yohei Takeda',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/magcargo.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Yohei Takeda",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "magcargo",
+     
     deckid: "magcargo-gx",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -3062,7 +3062,7 @@ let masters = [
             "name": "Dedenne GX",
             "number": "57",
             "set": "UNB"
-          },
+          }
       ],
       "trainer": [
         {
@@ -3124,7 +3124,7 @@ let masters = [
             "name": "Giant Hearth",
             "number": "197",
             "set": "UNM"
-          },
+          }
       ],
       "energy": [
         {
@@ -3132,19 +3132,19 @@ let masters = [
             "name": "Fire Energy",
             "number": "fire",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Grant Manley',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/giratina.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Grant Manley",
+    "flag": "US",
+    "sprite1": "malamar",
+    "sprite2": "giratina",
+     
     deckid: "malamar",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -3205,7 +3205,7 @@ let masters = [
             "name": "Latios GX",
             "number": "78",
             "set": "UNM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3273,7 +3273,7 @@ let masters = [
             "name": "Viridian Forest",
             "number": "156",
             "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -3281,19 +3281,19 @@ let masters = [
             "name": "Psychic Energy",
             "number": "psychic",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'André Chiasson',
-    flag: '../../../assets/flags/canada.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "André Chiasson",
+    "flag": "CA",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     deckid: "pikarom",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -3330,7 +3330,7 @@ let masters = [
             "name": "Tapu Koko ♢",
             "number": "51",
             "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3422,7 +3422,7 @@ let masters = [
             "name": "Viridian Forest",
             "number": "156",
             "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -3430,19 +3430,19 @@ let masters = [
             "name": "Lightning Energy",
             "number": "lightning",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Yuki Ishii',
-    flag: '../../../assets/flags/taiwan.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Yuki Ishii",
+    "flag": "TW",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -3485,7 +3485,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3577,7 +3577,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -3591,19 +3591,19 @@ let masters = [
             "name": "Aurora Energy",
             "number": "186",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Peter Lo',
-    flag: '../../../assets/flags/hong-kong.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Peter Lo",
+    "flag": "HK",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -3652,7 +3652,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3732,7 +3732,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -3746,19 +3746,19 @@ let masters = [
             "name": "Aurora Energy",
             "number": "186",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Colin Tang',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    sprite2: '../../../assets/sprites/malamar.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Colin Tang",
+    "flag": "MY",
+    "sprite1": "mewtwo-mew-tagteam",
+    "sprite2": "malamar",
+     
     deckid: "malamar-mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -3843,7 +3843,7 @@ let masters = [
             "name": "Ditto ♢",
             "number": "154",
             "set": "LOT"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3923,7 +3923,7 @@ let masters = [
             "name": "Chaotic Swell",
             "number": "187",
             "set": "CEC"
-        },
+        }
       ],
       "energy": [
         {
@@ -3937,19 +3937,19 @@ let masters = [
             "name": "Metal Energy",
             "number": "metal",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Logan Madden',
-    flag: '../../../assets/flags/uk.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Logan Madden",
+    "flag": "UK",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     deckid: "pikarom",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -4004,7 +4004,7 @@ let masters = [
             "name": "Mimikyu",
             "number": "97",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4096,7 +4096,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -4104,19 +4104,19 @@ let masters = [
             "name": "Lightning Energy",
             "number": "lightning",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Fung Tsz Ping',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blacephalon.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Fung Tsz Ping",
+    "flag": "SG",
+    "sprite1": "blank",
+    "sprite2": "blacephalon",
+     
     deckid: "baby-blowns",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -4165,7 +4165,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4257,7 +4257,7 @@ let masters = [
           "name": "Heat Factory ♢",
           "number": "178",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -4265,19 +4265,19 @@ let masters = [
             "name": "Fire Energy",
             "number": "fire",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Christian Hasbani',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Christian Hasbani",
+    "flag": "AU",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -4326,7 +4326,7 @@ let masters = [
             "name": "Mew",
             "number": "76",
             "set": "UNB"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4406,7 +4406,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -4426,26 +4426,26 @@ let masters = [
           "name": "Rainbow Energy",
           "number": "151",
           "set": "CES"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Benjamin Behrens',
-    flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
+    "name": "Benjamin Behrens",
+    "flag": "NO",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Kenneth Tan',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Kenneth Tan",
+    "flag": "SG",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     deckid: "pikarom",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -4506,7 +4506,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4592,7 +4592,7 @@ let masters = [
             "name": "Thunder Mountain ♢",
             "number": "191",
             "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -4600,19 +4600,19 @@ let masters = [
             "name": "Lightning Energy",
             "number": "lightning",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Tadashi Maeda',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Tadashi Maeda",
+    "flag": "JP",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -4661,7 +4661,7 @@ let masters = [
             "name": "Mimikyu",
             "number": "97",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4741,7 +4741,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -4761,19 +4761,19 @@ let masters = [
             "name": "Aurora Energy",
             "number": "186",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Otavio Gouveia',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Otavio Gouveia",
+    "flag": "BR",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -4810,7 +4810,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4908,7 +4908,7 @@ let masters = [
             "name": "Viridian Forest",
             "number": "156",
             "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -4928,19 +4928,19 @@ let masters = [
             "name": "Aurora Energy",
             "number": "186",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Robin Schulz',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Robin Schulz",
+    "flag": "DE",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -4977,7 +4977,7 @@ let masters = [
           "name": "Galarian Zigzagoon",
           "number": "117",
           "set": "SSH"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5063,7 +5063,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -5077,26 +5077,26 @@ let masters = [
             "name": "Aurora Energy",
             "number": "186",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Robert Spiller',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
+    "name": "Robert Spiller",
+    "flag": "AU",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Raz Wolpe',
-    flag: '../../../assets/flags/isreal.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Raz Wolpe",
+    "flag": "IL",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -5145,7 +5145,7 @@ let masters = [
             "name": "Mew",
             "number": "76",
             "set": "UNB"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5237,7 +5237,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -5257,19 +5257,19 @@ let masters = [
           "name": "Rainbow Energy",
           "number": "151",
           "set": "CES"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Corey Munro',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Corey Munro",
+    "flag": "AU",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -5318,7 +5318,7 @@ let masters = [
             "name": "Mew",
             "number": "76",
             "set": "UNB"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5410,7 +5410,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -5430,33 +5430,33 @@ let masters = [
           "name": "Rainbow Energy",
           "number": "151",
           "set": "CES"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Louis Pozzacchio',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
+    "name": "Louis Pozzacchio",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Wong Wo Pan',
-    flag: '../../../assets/flags/hong-kong.png',
-    sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    sprite2: '../../../assets/sprites/malamar.png',
+    "name": "Wong Wo Pan",
+    "flag": "HK",
+    "sprite1": "mewtwo-mew-tagteam",
+    "sprite2": "malamar",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Ricki Madsen',
-    flag: '../../../assets/flags/denmark.png',
-    sprite1: '../../../assets/sprites/zacian-crowned.png',
-    sprite2: '../../../assets/sprites/lucario-melmetal-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Ricki Madsen",
+    "flag": "DK",
+    "sprite1": "zacian-crowned",
+    "sprite2": "lucario-melmetal-tagteam",
+     
     deckid: "lucmetal",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -5499,7 +5499,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5585,7 +5585,7 @@ let masters = [
             "name": "Chaotic Swell",
             "number": "187",
             "set": "CEC"
-        },
+        }
       ],
       "energy": [
         {
@@ -5593,19 +5593,19 @@ let masters = [
             "name": "Metal Energy",
             "number": "metal",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Will Jenkins',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Will Jenkins",
+    "flag": "US",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -5654,7 +5654,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5746,7 +5746,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -5766,19 +5766,19 @@ let masters = [
             "name": "Aurora Energy",
             "number": "186",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Koyo Taniguchi',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Koyo Taniguchi",
+    "flag": "JP",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -5827,7 +5827,7 @@ let masters = [
             "name": "Mew",
             "number": "76",
             "set": "UNB"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5919,7 +5919,7 @@ let masters = [
             "name": "Chaotic Swell",
             "number": "187",
             "set": "CEC"
-        },
+        }
       ],
       "energy": [
         {
@@ -5945,19 +5945,19 @@ let masters = [
             "name": "Unit Energy GRW",
             "number": "137",
             "set": "UPR"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Mehdi Hafi',
-    flag: '../../../assets/flags/france.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Mehdi Hafi",
+    "flag": "FR",
+    "sprite1": "blank",
+    "sprite2": "mewtwo-mew-tagteam",
+     
     deckid: "mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -6036,7 +6036,7 @@ let masters = [
             "name": "Blacephalon",
             "number": "104",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6098,7 +6098,7 @@ let masters = [
           "name": "Giant Hearth",
           "number": "197",
           "set": "UNM"
-        },
+        }
       ],
       "energy": [
         {
@@ -6118,19 +6118,19 @@ let masters = [
             "name": "Weakness Guard Energy",
             "number": "213",
             "set": "UNM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Sean Takemoto',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/magcargo.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Sean Takemoto",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "magcargo",
+     
     deckid: "magcargo-gx",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -6191,7 +6191,7 @@ let masters = [
             "name": "Marshadow",
             "number": "81",
             "set": "UNB"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6259,7 +6259,7 @@ let masters = [
           "name": "Giant Hearth",
           "number": "197",
           "set": "UNM"
-        },
+        }
       ],
       "energy": [
         {
@@ -6267,19 +6267,19 @@ let masters = [
             "name": "Fire Energy",
             "number": "fire",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Louis Chi',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Louis Chi",
+    "flag": "AU",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -6310,7 +6310,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6402,7 +6402,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -6416,19 +6416,19 @@ let masters = [
             "name": "Aurora Energy",
             "number": "186",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Akira Sato',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    sprite2: '../../../assets/sprites/malamar.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Akira Sato",
+    "flag": "JP",
+    "sprite1": "mewtwo-mew-tagteam",
+    "sprite2": "malamar",
+     
     deckid: "malamar-mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -6513,7 +6513,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6569,7 +6569,7 @@ let masters = [
             "name": "Chaotic Swell",
             "number": "187",
             "set": "CEC"
-        },
+        }
       ],
       "energy": [
         {
@@ -6583,19 +6583,19 @@ let masters = [
             "name": "Metal Energy",
             "number": "metal",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Brennan Kamerman',
-    flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blacephalon.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Brennan Kamerman",
+    "flag": "NL",
+    "sprite1": "blank",
+    "sprite2": "blacephalon",
+     
     deckid: "baby-blowns",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -6638,7 +6638,7 @@ let masters = [
             "name": "Mew",
             "number": "76",
             "set": "UNB"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6724,7 +6724,7 @@ let masters = [
           "name": "Heat Factory ♢",
           "number": "178",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -6732,26 +6732,26 @@ let masters = [
             "name": "Fire Energy",
             "number": "fire",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Matty Masefield',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
+    "name": "Matty Masefield",
+    "flag": "AU",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Miloslav Poslední',
-    flag: '../../../assets/flags/czech-republic.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Miloslav Poslední",
+    "flag": "CZ",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -6800,7 +6800,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6892,7 +6892,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -6912,19 +6912,19 @@ let masters = [
           "name": "Rainbow Energy",
           "number": "151",
           "set": "CES"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Aaron Stringfellow',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/cinccino.png',
-    sprite2: '../../../assets/sprites/oranguru.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Aaron Stringfellow",
+    "flag": "AU",
+    "sprite1": "cinccino",
+    "sprite2": "oranguru",
+     
     deckid: "oranguru-mill",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -6979,7 +6979,7 @@ let masters = [
             "name": "Goomy",
             "number": "91",
             "set": "FLI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -7059,7 +7059,7 @@ let masters = [
             "name": "Air Balloon",
             "number": "156",
             "set": "SSH"
-        },
+        }
       ],
       "energy": [
         {
@@ -7073,19 +7073,19 @@ let masters = [
             "name": "Recycle Energy",
             "number": "212",
             "set": "UNM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Ethan Lee',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Ethan Lee",
+    "flag": "MY",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -7134,7 +7134,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -7214,7 +7214,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -7234,26 +7234,26 @@ let masters = [
           "name": "Rainbow Energy",
           "number": "151",
           "set": "CES"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Gustavo Wada',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
+    "name": "Gustavo Wada",
+    "flag": "BR",
+    "sprite1": "blank",
+    "sprite2": "reshiram-charizard-tagteam",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Jordan Palmer',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Jordan Palmer",
+    "flag": "AU",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -7296,7 +7296,7 @@ let masters = [
             "name": "Phione",
             "number": "57",
             "set": "CEC"
-        },
+        }
       ],
       "trainer": [
         {
@@ -7388,7 +7388,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -7402,19 +7402,19 @@ let masters = [
             "name": "Water Energy",
             "number": "water",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Henry Brand',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Henry Brand",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "mewtwo-mew-tagteam",
+     
     deckid: "mewtwo-and-mew-tagteam",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -7499,7 +7499,7 @@ let masters = [
             "name": "Wobbuffet",
             "number": "93",
             "set": "LOT"
-        },
+        }
       ],
       "trainer": [
         {
@@ -7579,7 +7579,7 @@ let masters = [
             "name": "Chaotic Swell",
             "number": "187",
             "set": "CEC"
-        },
+        }
       ],
       "energy": [
         {
@@ -7605,68 +7605,68 @@ let masters = [
             "name": "Weakness Guard Energy",
             "number": "213",
             "set": "UNM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Shawn Chan',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blacephalon.png',
+    "name": "Shawn Chan",
+    "flag": "SG",
+    "sprite1": "blank",
+    "sprite2": "blacephalon",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Benjamin Hall',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
+    "name": "Benjamin Hall",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "mewtwo-mew-tagteam",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Nicholas Apostolou',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
+    "name": "Nicholas Apostolou",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Sam Lao',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
+    "name": "Sam Lao",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Cheuk Fai Brian Lee',
-    flag: '../../../assets/flags/hong-kong.png',
-    sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    sprite2: '../../../assets/sprites/malamar.png',
+    "name": "Cheuk Fai Brian Lee",
+    "flag": "HK",
+    "sprite1": "mewtwo-mew-tagteam",
+    "sprite2": "malamar",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Lucas Hamilton-Foster',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
+    "name": "Lucas Hamilton-Foster",
+    "flag": "AU",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Henry Rasheed',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
+    "name": "Henry Rasheed",
+    "flag": "AU",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Pedro Torres',
-    flag: '../../../assets/flags/spain.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Pedro Torres",
+    "flag": "ES",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
+     
     deckid: "adp",
     event: "2020 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -7703,7 +7703,7 @@ let masters = [
           "name": "Galarian Zigzagoon",
           "number": "117",
           "set": "SSH"
-        },
+        }
       ],
       "trainer": [
         {
@@ -7789,7 +7789,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
       ],
       "energy": [
         {
@@ -7803,36 +7803,36 @@ let masters = [
             "name": "Aurora Energy",
             "number": "186",
             "set": "SSH"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Blake Lobina',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
+    "name": "Blake Lobina",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Alfred Yang',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    sprite2: '../../../assets/sprites/malamar.png',
+    "name": "Alfred Yang",
+    "flag": "AU",
+    "sprite1": "mewtwo-mew-tagteam",
+    "sprite2": "malamar",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Tsubota Hokuto',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/adp.png',
-    sprite2: '../../../assets/sprites/zacian-crowned.png',
+    "name": "Tsubota Hokuto",
+    "flag": "JP",
+    "sprite1": "adp",
+    "sprite2": "zacian-crowned",
     list: '../../../assets/sprites/blank.png'
   },
   {
-    firstName: 'Matthew Taverna',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-    sprite2: '../../../assets/sprites/malamar.png',
+    "name": "Matthew Taverna",
+    "flag": "AU",
+    "sprite1": "mewtwo-mew-tagteam",
+    "sprite2": "malamar",
     list: '../../../assets/sprites/blank.png'
   },
 ]

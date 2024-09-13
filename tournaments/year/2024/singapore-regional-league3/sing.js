@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Bryan Quah",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Bryan Quah",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/giratina-origin.png',
-        sprite2: '../../../../assets/sprites/comfey.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "giratina-origin",
+        "sprite2": "comfey",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Giratina VSTAR", "set": "LOR", "number": "131" },
                 { "count": 3, "name": "Giratina V", "set": "LOR", "number": "130" },
@@ -45,13 +44,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Lok Wei Ye",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Lok Wei Ye",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/bibarel.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "bibarel",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Charizard ex", "set": "PAF", "number": "54" },
                 { "count": 1, "name": "Charmeleon", "set": "OBF", "number": "27" },
@@ -91,13 +89,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Farrell Lee",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Farrell Lee",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/arceus.png',
-        sprite2: '../../../../assets/sprites/giratina-origin.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "arceus",
+        "sprite2": "giratina-origin",
+"decklist": {
             "pokemon": [
                 {"count": 4, "name": "Arceus V", "set": "BRS", "number": "122"},
                 {"count": 2, "name": "Arceus VSTAR", "set": "BRS", "number": "123"},
@@ -134,13 +131,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Loh Win Soon",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Loh Win Soon",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/koraidon.png',
-        sprite2: '../../../../assets/sprites/roaring-moon.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "koraidon",
+        "sprite2": "roaring-moon",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Roaring Moon", "set": "TEF", "number": "109" },
                 { "count": 4, "name": "Flutter Mane", "set": "TEF", "number": "78" },
@@ -171,14 +167,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Brendan Chua",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Brendan Chua",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/arceus.png',
-        sprite2: '../../../../assets/sprites/giratina-origin.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "arceus",
+        "sprite2": "giratina-origin",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -191,13 +185,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Evan Chiang",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Evan Chiang",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/iron-hands.png',
-        sprite2: '../../../../assets/sprites/iron-crown.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "iron-hands",
+        "sprite2": "iron-crown",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Iron Crown ex", "set": "TEF", "number": "81" },
                 { "count": 3, "name": "Iron Hands ex", "set": "PAR", "number": "70" },
@@ -233,14 +226,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Xavier Chua",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Xavier Chua",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/iron-leaves.png',
-        sprite2: '../../../../assets/sprites/iron-crown.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "iron-leaves",
+        "sprite2": "iron-crown",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -253,13 +244,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Rasyidi Anoor",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Rasyidi Anoor",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gardevoir.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "gardevoir",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Ralts", "set": "PAF", "number": "27" },
                 { "count": 1, "name": "Ralts", "set": "ASR", "number": "60" },
@@ -297,13 +287,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Ong Wen Hui",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Ong Wen Hui",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/giratina-origin.png',
-        sprite2: '../../../../assets/sprites/comfey.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "giratina-origin",
+        "sprite2": "comfey",
+"decklist": {
             "pokemon": [
                 {"count": 4, "name": "Comfey", "set": "LOR", "number": "79"},
                 {"count": 3, "name": "Giratina V", "set": "LOR", "number": "130"},
@@ -341,14 +330,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Yap Jun Lin",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Yap Jun Lin",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/archeops.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "lugia",
+        "sprite2": "archeops",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -361,13 +348,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Calvin Khor",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Calvin Khor",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/pidgeot.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "pidgeot",
+"decklist": {
             "pokemon": [
                 {"count": 3, "name": "Charmander", "set": "OBF", "number": "26"},
                 {"count": 1, "name": "Charmander", "set": "PAF", "number": "7"},
@@ -412,14 +398,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Muhammed Irfan",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Muhammed Irfan",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/koraidon.png',
-        sprite2: '../../../../assets/sprites/roaring-moon.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "koraidon",
+        "sprite2": "roaring-moon",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -432,13 +416,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Choy Kwok Hoe",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Choy Kwok Hoe",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/pidgeot.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "pidgeot",
+"decklist": {
             "pokemon": [
                 {"count": 2, "name": "Charmander", "set": "OBF", "number": "26"},
                 {"count": 2, "name": "Charmander", "set": "PR-SV", "number": "47"},
@@ -482,14 +465,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Vincent Quek",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Vincent Quek",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/roaring-moon.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "roaring-moon",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -502,14 +483,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Raymond Huynh",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Raymond Huynh",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/pidgeot.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "pidgeot",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -522,14 +501,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jayf Soh Jun Feng",
-        flag: '../../../../assets/flags/singapore.png',
+        "name": "Jayf Soh Jun Feng",
+        "flag": "SG",
         "event": "2024 Singapore Regional League #3",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/pidgeot.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "pidgeot",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],

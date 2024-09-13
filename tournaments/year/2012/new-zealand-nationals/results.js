@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Martin Shaw",
-      flag: '../../../../assets/flags/new-zealand.png',
+      "name": "Martin Shaw",
+      "flag": "NZ",
       "event": "2012 New Zealand National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/terrakion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/terrakion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Rory T",
-      flag: '../../../../assets/flags/new-zealand.png',
+      "name": "Rory T",
+      "flag": "NZ",
       "event": "2012 New Zealand National Championships",
-      sprite1: '../../../../assets/sprites/zoroark.png',
-      sprite2: '../../../../assets/sprites/weavile.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zoroark",
+      sprite2: '../../../../assets/sprites/weavile",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Sun T",
-      flag: '../../../../assets/flags/new-zealand.png',
+      "name": "Sun T",
+      "flag": "NZ",
       "event": "2012 New Zealand National Championships",
-      sprite1: '../../../../assets/sprites/lilligant.png',
-      sprite2: '../../../../assets/sprites/vileplume.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "lilligant",
+      sprite2: '../../../../assets/sprites/vileplume",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Dylan C",
-      flag: '../../../../assets/flags/new-zealand.png',
+      "name": "Dylan C",
+      "flag": "NZ",
       "event": "2012 New Zealand National Championships",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

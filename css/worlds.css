@@ -917,7 +917,7 @@ li {
 }
 
 .modal-x p {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker", cursive;
 }
 .four-ol {
     display: none;
@@ -1953,7 +1953,7 @@ li {
         font-weight: bold;
     }
     .modal-x p {
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Permanent Marker", cursive;
         margin-bottom: 6px;
     }
     .hidden-prize-left {

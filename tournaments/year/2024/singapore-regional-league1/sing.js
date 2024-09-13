@@ -1,12 +1,12 @@
-let masters = [
+"masters": [
   {
-    "firstName": "Joey Ho",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Joey Ho",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/chien-pao.png',
-    sprite2: '../../../../assets/sprites/baxcalibur.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "chien-pao.png",
+    "sprite2": "../../../../assets/sprites/baxcalibur",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": { 
     "pokemon": [
       { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
@@ -17,12 +17,12 @@ let masters = [
     ]}
   },
   {
-    "firstName": "Bryan Quah",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Bryan Quah",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/giratina-origin.png',
-    sprite2: '../../../../assets/sprites/comfey.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "giratina-origin.png",
+    "sprite2": "../../../../assets/sprites/comfey",
+    list: '../../../../assets/list-icon",
     "decklist": { 
     "pokemon": [
       { "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
@@ -44,7 +44,7 @@ let masters = [
         { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
         { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
         { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
-        { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+        { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" }
       ], 
         "energy": [
          { "count": 4, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
@@ -54,13 +54,13 @@ let masters = [
   ]}
   },
   {
-    "firstName": "Leong Jun Hao",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Leong Jun Hao",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/giratina-origin.png',
-    sprite2: '../../../../assets/sprites/comfey.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "giratina-origin.png",
+    "sprite2": "../../../../assets/sprites/comfey",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": { 
     "pokemon": [
       { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
@@ -71,13 +71,13 @@ let masters = [
     ]}
   },
   {
-    "firstName": "Ao Yichen",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Ao Yichen",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/giratina-origin.png',
-    sprite2: '../../../../assets/sprites/comfey.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "giratina-origin.png",
+    "sprite2": "../../../../assets/sprites/comfey",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": { 
     "pokemon": [
       { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
@@ -88,13 +88,13 @@ let masters = [
     ]}
   },
   {
-    "firstName": "Jacky Chan Sin Kwan",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Jacky Chan Sin Kwan",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/chien-pao.png',
-    sprite2: '../../../../assets/sprites/palkia-origin.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "chien-pao.png",
+    "sprite2": "../../../../assets/sprites/palkia-origin",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": { 
     "pokemon": [
       { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
@@ -105,12 +105,12 @@ let masters = [
     ]}
   },
   {
-    "firstName": "Keenan Jacob Victor",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Keenan Jacob Victor",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/inteleon-vmax.png',
-    sprite2: '../../../../assets/sprites/urshifu-rapid-strike-gmax.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "inteleon-vmax.png",
+    "sprite2": "../../../../assets/sprites/urshifu-rapid-strike-gmax",
+    list: '../../../../assets/list-icon",
     "decklist": { 
     "pokemon": [
       { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
@@ -146,12 +146,12 @@ let masters = [
 ]}
   },
   {
-    "firstName": "Kaizer Sim",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Kaizer Sim",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/sableye.png',
-    sprite2: '../../../../assets/sprites/comfey.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "sableye.png",
+    "sprite2": "../../../../assets/sprites/comfey",
+    list: '../../../../assets/list-icon",
     "decklist": { 
     "pokemon": [
       { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
@@ -182,12 +182,12 @@ let masters = [
 ]}
   },
   {
-    "firstName": "Kenny Lim Maoxuan",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Kenny Lim Maoxuan",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/gardevoir.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "blank",
+    "sprite2": "../../../../assets/sprites/gardevoir",
+    list: '../../../../assets/list-icon",
     "decklist": { 
     "pokemon": [
       { "count": 2, "name": "Gardevoir ex", "number": "86", "set": "SVI" },
@@ -220,12 +220,12 @@ let masters = [
 ]}
   },
   {
-    "firstName": "Evan Lee Zhi Yang",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Evan Lee Zhi Yang",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/chien-pao.png',
-    sprite2: '../../../../assets/sprites/baxcalibur.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "chien-pao.png",
+    "sprite2": "../../../../assets/sprites/baxcalibur",
+    list: '../../../../assets/list-icon",
     "decklist": { 
     "pokemon": [
       { "count": 3, "name": "Chien-Pao ex", "number": "61", "set": "PAL" },
@@ -254,12 +254,12 @@ let masters = [
 ]}
   },
   {
-    "firstName": "Hugo Gabriel Tjandra",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Hugo Gabriel Tjandra",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/gardevoir.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "blank",
+    "sprite2": "../../../../assets/sprites/gardevoir",
+    list: '../../../../assets/list-icon",
     "decklist": { 
     "pokemon": [
       { "count": 2, "name": "Gardevoir ex", "number": "86", "set": "SVI" },
@@ -293,13 +293,13 @@ let masters = [
     ]}
   },
   {
-    "firstName": "Calvin Khor",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Calvin Khor",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/miraidon.png',
-    sprite2: '../../../../assets/sprites/flaaffy.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "miraidon.png",
+    "sprite2": "../../../../assets/sprites/flaaffy",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": { 
     "pokemon": [
       { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
@@ -310,12 +310,12 @@ let masters = [
     ]}
   },
   {
-    "firstName": "Jeremy Leong",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Jeremy Leong",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/inteleon-vmax.png',
-    sprite2: '../../../../assets/sprites/urshifu-rapid-strike-gmax.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "inteleon-vmax.png",
+    "sprite2": "../../../../assets/sprites/urshifu-rapid-strike-gmax",
+    list: '../../../../assets/list-icon",
     "decklist": { 
     "pokemon": [
       { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
@@ -349,13 +349,13 @@ let masters = [
     ]}
   },
   {
-    "firstName": "Dennis Piay",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Dennis Piay",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/charizard.png',
-    sprite2: '../../../../assets/sprites/pidgeot.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "charizard.png",
+    "sprite2": "../../../../assets/sprites/pidgeot",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": { 
     "pokemon": [
       { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
@@ -366,12 +366,12 @@ let masters = [
     ]}
   },
   {
-    "firstName": "Keith Ting",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Keith Ting",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/giratina-origin.png',
-    sprite2: '../../../../assets/sprites/comfey.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "giratina-origin.png",
+    "sprite2": "../../../../assets/sprites/comfey",
+    list: '../../../../assets/list-icon",
     "decklist": { 
     "pokemon": [
       { "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
@@ -394,7 +394,7 @@ let masters = [
         { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
         { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
         { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" }, 
-        { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+        { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" }
       ], 
         "energy": [
          { "count": 4, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
@@ -404,13 +404,13 @@ let masters = [
     ]}
   },
   {
-    "firstName": "Bryan Yeap",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Bryan Yeap",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/kyogre.png',
-    sprite2: '../../../../assets/sprites/comfey.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "kyogre.png",
+    "sprite2": "../../../../assets/sprites/comfey",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": { 
     "pokemon": [
       { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
@@ -421,13 +421,13 @@ let masters = [
     ]}
   },
   {
-    "firstName": "Reuben Fong",
-    flag: '../../../../assets/sprites/blank.png',
+    "name": "Reuben Fong",
+    "flag": "../../../assets/sprites/blank",
     "event": "2024 Singapore Regional League #1",
-    sprite1: '../../../../assets/sprites/charizard.png',
-    sprite2: '../../../../assets/sprites/pidgeot.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "charizard.png",
+    "sprite2": "../../../../assets/sprites/pidgeot",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": { 
     "pokemon": [
       { "count": 4, "name": "ee", "number": "ee", "set": "ee" },

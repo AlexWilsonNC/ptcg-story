@@ -1,17 +1,17 @@
-let masters = [
+"masters": [
     {
-        firstName: 'Janik Reimers',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/sableye.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Janik Reimers",
+        "flag": "DE",
+        "sprite1": "darkrai",
+        "sprite2": "sableye",
+        list: '../../../../assets/list-icon",
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 4, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
         { "count": 3, "name": "Sableye", "set": "DEX", "number": "62" },
         { "count": 1, "name": "Absol", "set": "PLF", "number": "67" },
-        { "count": 1, "name": "Keldeo-EX", "set": "BCR", "number": "49" },
+        { "count": 1, "name": "Keldeo-EX", "set": "BCR", "number": "49" }
       ], "trainer": [
         { "count": 4, "name": "Professor Juniper", "set": "DEX", "number": "98" },
         { "count": 3, "name": "N", "set": "DEX", "number": "96" },
@@ -29,83 +29,80 @@ let masters = [
         { "count": 1, "name": "Max Potion", "set": "EPO", "number": "94" },
         { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
         { "count": 2, "name": "Dark Claw", "set": "DEX", "number": "92" },
-        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" },
+        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
       ], "energy": [
-        { "count": 10, "name": "Darkness Energy", "set": "BLW", "number": "111" },
+        { "count": 10, "name": "Darkness Energy", "set": "BLW", "number": "111" }
       ]
     },
     },
     {
-        firstName: 'Joshua Galys',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/sableye.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Joshua Galys",
+        "flag": "DE",
+        "sprite1": "darkrai",
+        "sprite2": "sableye",
+        
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     
     },
     {
-        firstName: 'Paul Student',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/kyurem.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Paul Student",
+        "flag": "DE",
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+        
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     
     },
     {
-        firstName: 'Steven Mao',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/kyurem.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Steven Mao",
+        "flag": "DE",
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+        
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     
     },
     {
-        firstName: 'Merlin Quittek',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/landorus-therian.png',
-        sprite2: '../../../../assets/sprites/garbodor.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Merlin Quittek",
+        "flag": "DE",
+        "sprite1": "landorus-therian",
+        "sprite2": "garbodor",
+        list: '../../../../assets/list-icon",
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Landorus-EX", "set": "BCR", "number": "89" },
         { "count": 3, "name": "Mewtwo-EX", "set": "NXD", "number": "54" },
         { "count": 3, "name": "Garbodor", "set": "DRX", "number": "54" },
         { "count": 2, "name": "Trubbish", "set": "DRX", "number": "53" },
-        { "count": 1, "name": "Trubbish", "set": "NVI", "number": "48" },
+        { "count": 1, "name": "Trubbish", "set": "NVI", "number": "48" }
       ], "trainer": [
         { "count": 4, "name": "Professor Juniper", "set": "DEX", "number": "98" },
         { "count": 4, "name": "N", "set": "DEX", "number": "96" },
@@ -119,65 +116,63 @@ let masters = [
         { "count": 2, "name": "Escape Rope", "set": "PLS", "number": "120" },
         { "count": 4, "name": "Float Stone", "set": "PLF", "number": "99" },
         { "count": 2, "name": "Rescue Scarf", "set": "DRX", "number": "115" },
-        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" },
+        { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
       ], "energy": [
         { "count": 7, "name": "Fighting Energy", "set": "BLW", "number": "110" },
-        { "count": 4, "name": "Double Colorless Energy", "set": "NXD", "number": "92" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "NXD", "number": "92" }
       ]
     },
     },
     {
-        firstName: 'Markus Jakob',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/sableye.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Markus Jakob",
+        "flag": "DE",
+        "sprite1": "darkrai",
+        "sprite2": "sableye",
+        
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     
     },
     {
-        firstName: 'Thomas Werth',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/sableye.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Thomas Werth",
+        "flag": "DE",
+        "sprite1": "darkrai",
+        "sprite2": "sableye",
+        
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     
     },
     {
-        firstName: 'Tobias Thesing',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/kyurem.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Tobias Thesing",
+        "flag": "DE",
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+        list: '../../../../assets/list-icon",
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 2, "name": "Kyurem", "set": "PLF", "number": "31" },
         { "count": 3, "name": "Deoxys-EX", "set": "PLF", "number": "53" },
         { "count": 3, "name": "Thundurus-EX", "set": "PLF", "number": "38" },
         { "count": 1, "name": "Lugia-EX", "set": "PLS", "number": "108" },
-        { "count": 1, "name": "Snorlax", "set": "PLS", "number": "101" },
+        { "count": 1, "name": "Snorlax", "set": "PLS", "number": "101" }
       ], "trainer": [
         { "count": 4, "name": "Professor Juniper", "set": "DEX", "number": "98" },
         { "count": 4, "name": "N", "set": "DEX", "number": "96" },
@@ -193,127 +188,122 @@ let masters = [
         { "count": 1, "name": "Max Potion", "set": "EPO", "number": "94" },
         { "count": 1, "name": "Revive", "set": "BLW", "number": "102" },
         { "count": 1, "name": "Float Stone", "set": "PLF", "number": "99" },
-        { "count": 3, "name": "Frozen City", "set": "PLF", "number": "100" },
+        { "count": 3, "name": "Frozen City", "set": "PLF", "number": "100" }
       ], "energy": [
         { "count": 1, "name": "Water Energy", "set": "BLW", "number": "107" },
         { "count": 1, "name": "Lightning Energy", "set": "BLW", "number": "108" },
         { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" },
         { "count": 4, "name": "Prism Energy", "set": "NXD", "number": "93" },
         { "count": 3, "name": "Blend Energy WaterLightningFightingMetal", "set": "DRX", "number": "118" },
-        { "count": 2, "name": "Double Colorless Energy", "set": "NXD", "number": "92" },
+        { "count": 2, "name": "Double Colorless Energy", "set": "NXD", "number": "92" }
       ]
     },
     },
     {
-        firstName: 'Denny Falls Rodriguez',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/accelgor.png',
-        sprite2: '../../../../assets/sprites/gothitelle.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Denny Falls Rodriguez",
+        "flag": "DE",
+        "sprite1": "accelgor",
+        "sprite2": "gothitelle",
+        
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     
     },
     {
-        firstName: 'Finn Looft',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/accelgor.png',
-        sprite2: '../../../../assets/sprites/gothitelle.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Finn Looft",
+        "flag": "DE",
+        "sprite1": "accelgor",
+        "sprite2": "gothitelle",
+        
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     
     },
     {
-        firstName: 'Dennis Seebürger',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/klinklang.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Dennis Seebürger",
+        "flag": "DE",
+        "sprite1": "blank",
+        "sprite2": "klinklang",
+        
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     
     },
     {
-        firstName: 'Daniel Hetzel',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/darkrai.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Daniel Hetzel",
+        "flag": "DE",
+        "sprite1": "blank",
+        "sprite2": "darkrai",
+        
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     
     },
     {
-        firstName: 'Marcel Lung',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/darkrai.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Marcel Lung",
+        "flag": "DE",
+        "sprite1": "blank",
+        "sprite2": "darkrai",
+        
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     
     },
     {
-        firstName: 'Ole Stognief',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/klinklang.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Ole Stognief",
+        "flag": "DE",
+        "sprite1": "blank",
+        "sprite2": "klinklang",
+        list: '../../../../assets/list-icon",
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 2, "name": "Klinklang", "set": "BLW", "number": "76" },
         { "count": 2, "name": "Klinklang", "set": "PLS", "number": "90" },
         { "count": 1, "name": "Klang", "set": "DEX", "number": "76" },
         { "count": 4, "name": "Klink", "set": "DEX", "number": "75" },
         { "count": 4, "name": "Cobalion-EX", "set": "PLS", "number": "93" },
-        { "count": 1, "name": "Cobalion", "set": "NVI", "number": "84" },
+        { "count": 1, "name": "Cobalion", "set": "NVI", "number": "84" }
       ], "trainer": [
         { "count": 4, "name": "Colress", "set": "PLS", "number": "118" },
         { "count": 4, "name": "N", "set": "DEX", "number": "96" },
@@ -327,44 +317,43 @@ let masters = [
         { "count": 1, "name": "Tool Scrapper", "set": "DRX", "number": "116" },
         { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
         { "count": 1, "name": "Float Stone", "set": "PLF", "number": "99" },
-        { "count": 4, "name": "Tropical Beach", "set": "PR-BLW", "number": "50" },
+        { "count": 4, "name": "Tropical Beach", "set": "PR-BLW", "number": "50" }
       ], "energy": [
-        { "count": 10, "name": "Metal Energy", "set": "BLW", "number": "112" },
+        { "count": 10, "name": "Metal Energy", "set": "BLW", "number": "112" }
       ]
     },
     },
     {
-        firstName: 'Marc Lutz',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/kyurem.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Marc Lutz",
+        "flag": "DE",
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+        
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     
     },
     {
-        firstName: 'Benjamin Cheynubrata',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/kyurem.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2013 Germany National Championships',
-    decklist: {
+        "name": "Benjamin Cheynubrata",
+        "flag": "DE",
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+        list: '../../../../assets/list-icon",
+        event: '2013 Germany National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 4, "name": "Kyurem", "set": "PLF", "number": "31" },
         { "count": 3, "name": "Deoxys-EX", "set": "PLF", "number": "53" },
         { "count": 3, "name": "Thundurus-EX", "set": "PLF", "number": "38" },
-        { "count": 1, "name": "Absol", "set": "PLF", "number": "67" },
+        { "count": 1, "name": "Absol", "set": "PLF", "number": "67" }
       ], "trainer": [
         { "count": 4, "name": "Professor Juniper", "set": "DEX", "number": "98" },
         { "count": 4, "name": "N", "set": "DEX", "number": "96" },
@@ -381,13 +370,13 @@ let masters = [
         { "count": 1, "name": "Enhanced Hammer", "set": "DEX", "number": "94" },
         { "count": 1, "name": "Float Stone", "set": "PLF", "number": "99" },
         { "count": 1, "name": "Virbank City Gym", "set": "PLS", "number": "126" },
-        { "count": 1, "name": "Frozen City", "set": "PLF", "number": "100" },
+        { "count": 1, "name": "Frozen City", "set": "PLF", "number": "100" }
       ], "energy": [
         { "count": 2, "name": "Water Energy", "set": "BLW", "number": "107" },
         { "count": 1, "name": "Lightning Energy", "set": "BLW", "number": "108" },
         { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" },
         { "count": 4, "name": "Prism Energy", "set": "NXD", "number": "93" },
-        { "count": 1, "name": "Blend Energy WaterLightningFightingMetal", "set": "DRX", "number": "118" },
+        { "count": 1, "name": "Blend Energy WaterLightningFightingMetal", "set": "DRX", "number": "118" }
       ]
     },
     },

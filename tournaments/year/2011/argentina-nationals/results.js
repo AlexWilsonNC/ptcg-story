@@ -1,12 +1,12 @@
-let masters = [
+"masters": [
     {
-        firstName: 'Patricia Walsh',
-        flag: '../../../../assets/flags/argentina.png',
-        sprite1: '../../../../assets/sprites/luxray.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2011 Argentina National Championships',
-        decklist: {
+        "name": "Patricia Walsh",
+        "flag": "AR",
+        "sprite1": "luxray",
+        "sprite2": "garchomp",
+        list: '../../../../assets/list-icon",
+        event: '2011 Argentina National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 1, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
                 { "count": 2, "name": "Luxray GL", "set": "RR", "number": "9" },
@@ -45,15 +45,15 @@ let masters = [
         },
     },
     {
-        firstName: 'Javier Favilli',
-        flag: '../../../../assets/flags/argentina.png',
-        sprite1: '../../../../assets/sprites/luxray.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        // list: '../../../../assets/sprites/blank.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2011 Argentina National Championships',
-        decklist: {
+        "name": "Javier Favilli",
+        "flag": "AR",
+        "sprite1": "luxray",
+        "sprite2": "garchomp",
+        list: '../../../../assets/list-icon",
+        // list: '../../../../assets/sprites/blank",
+        list: '../../../../assets/sprites/blank",
+        event: '2011 Argentina National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -64,15 +64,15 @@ let masters = [
         },
     },
     {
-        firstName: 'Diego Cassiraga',
-        flag: '../../../../assets/flags/argentina.png',
-        sprite1: '../../../../assets/sprites/dialga.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        // list: '../../../../assets/sprites/blank.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2011 Argentina National Championships',
-        decklist: {
+        "name": "Diego Cassiraga",
+        "flag": "AR",
+        "sprite1": "dialga",
+        "sprite2": "garchomp",
+        list: '../../../../assets/list-icon",
+        // list: '../../../../assets/sprites/blank",
+        list: '../../../../assets/sprites/blank",
+        event: '2011 Argentina National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -83,15 +83,15 @@ let masters = [
         },
     },
     {
-        firstName: 'Martin Garcia',
-        flag: '../../../../assets/flags/argentina.png',
-        sprite1: '../../../../assets/sprites/luxray.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        // list: '../../../../assets/sprites/blank.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2011 Argentina National Championships',
-        decklist: {
+        "name": "Martin Garcia",
+        "flag": "AR",
+        "sprite1": "luxray",
+        "sprite2": "garchomp",
+        list: '../../../../assets/list-icon",
+        // list: '../../../../assets/sprites/blank",
+        list: '../../../../assets/sprites/blank",
+        event: '2011 Argentina National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [

@@ -1,4 +1,4 @@
-let masters = [
+"masters": [
     {"name":"Liam Halliburton",
 "flag": "US",
 "placing":1,
@@ -72,7 +72,7 @@ let masters = [
             {"count": 1, "name": "Pal Pad", "set": "SVI", "number": "182"},
             {"count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135"},
             {"count": 4, "name": "Ancient Booster Energy Capsule", "set": "TEF", "number": "140"},
-            {"count": 3, "name": "PokéStop", "set": "PGO", "number": "68"},
+            {"count": 3, "name": "PokéStop", "set": "PGO", "number": "68"}
         ],
         "energy": [
             {"count": 6, "name": "Darkness", "set": "Energy", "number": "7"},
@@ -117,7 +117,7 @@ let masters = [
             {"count": 1, "name": "Hero's Cape", "set": "TEF", "number": "152"},
             {"count": 1, "name": "Luxurious Cape", "set": "PAR", "number": "166"},
             {"count": 1, "name": "Bravery Charm", "set": "PAL", "number": "173"},
-            {"count": 1, "name": "Collapsed Stadium", "set": "BRS", "number": "137"},
+            {"count": 1, "name": "Collapsed Stadium", "set": "BRS", "number": "137"}
         ],
         "energy": [
             {"count": 9, "name": "Psychic", "set": "Energy", "number": "5"},
@@ -155,7 +155,7 @@ let masters = [
             {"count": 1, "name": "Hisuian Heavy Ball", "set": "ASR", "number": "146"},
             {"count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157"},
             {"count": 1, "name": "Canceling Cologne", "set": "ASR", "number": "136"},
-            {"count": 3, "name": "PokéStop", "set": "PGO", "number": "68"},
+            {"count": 3, "name": "PokéStop", "set": "PGO", "number": "68"}
         ],
         "energy": [
             {"count": 8, "name": "Water", "set": "Energy", "number": "3"},
@@ -235,7 +235,7 @@ let masters = [
             {"count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157"},
             {"count": 4, "name": "Ancient Booster Energy Capsule", "set": "TEF", "number": "140"},
             {"count": 2, "name": "Artazon", "set": "PAF", "number": "76"},
-            {"count": 1, "name": "Temple of Sinnoh", "set": "ASR", "number": "155"},
+            {"count": 1, "name": "Temple of Sinnoh", "set": "ASR", "number": "155"}
         ],
         "energy": [
             {"count": 9, "name": "Darkness", "set": "Energy", "number": "7"},
@@ -275,7 +275,7 @@ let masters = [
             {"count": 1, "name": "Counter Catcher", "set": "PAR", "number": "160"},
             {"count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157"},
             {"count": 1, "name": "Rescue Board", "set": "TEF", "number": "159"},
-            {"count": 1, "name": "Temple of Sinnoh", "set": "ASR", "number": "155"},
+            {"count": 1, "name": "Temple of Sinnoh", "set": "ASR", "number": "155"}
         ],
         "energy": [
             {"count": 4, "name": "Grass", "set": "Energy", "number": "1"},
@@ -317,7 +317,7 @@ let masters = [
             {"count": 1, "name": "Counter Catcher", "set": "PAR", "number": "160"},
             {"count": 1, "name": "Canceling Cologne", "set": "ASR", "number": "136"},
             {"count": 1, "name": "Lost Vacuum", "set": "CRZ", "number": "135"},
-            {"count": 2, "name": "PokéStop", "set": "PGO", "number": "68"},
+            {"count": 2, "name": "PokéStop", "set": "PGO", "number": "68"}
         ],
         "energy": [
             {"count": 8, "name": "Water", "set": "Energy", "number": "3"},
@@ -4370,7 +4370,7 @@ let masters = [
         {"count": 3, "name": "Lugia V", "set": "SIT", "number": "138"},
         {"count": 3, "name": "Lugia VSTAR", "set": "SIT", "number": "139"},
         {"count": 1, "name": "Snorlax", "set": "LOR", "number": "143"},
-        {"count": 1, "name": "Lumineon V", "set": "BRS", "number": "40"},
+        {"count": 1, "name": "Lumineon V", "set": "BRS", "number": "40"}
         ],"trainer":[
             {"count": 3, "name": "Boss's Orders", "set": "PAL", "number": "172"},
             {"count": 3, "name": "Iono", "set": "PAF", "number": "80"},
@@ -4382,7 +4382,7 @@ let masters = [
             {"count": 4, "name": "Ultra Ball", "set": "PAF", "number": "91"},
             {"count": 3, "name": "Great Ball", "set": "PAL", "number": "183"},
             {"count": 1, "name": "Master Ball", "set": "TEF", "number": "153"},
-            {"count": 1, "name": "Collapsed Stadium", "set": "BRS", "number": "137"},
+            {"count": 1, "name": "Collapsed Stadium", "set": "BRS", "number": "137"}
         ],"energy":[
         {"count": 4, "name": "Jet Energy", "set": "PAL", "number": "190"},
         {"count": 4, "name": "Gift Energy", "set": "LOR", "number": "171"},
@@ -9612,7 +9612,7 @@ let masters = [
 }
 ]
 
-let seniors = [
+"seniors": [
 {"name":"Rj S.",
 "flag": "US",
 "placing":1,
@@ -9938,7 +9938,7 @@ let seniors = [
 }
 ]
 
-let juniors = [
+"juniors": [
 {"name":"Theo Y.",
 "flag": "US",
 "placing":1,

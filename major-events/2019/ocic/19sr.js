@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Alexandre Solé',
-      flag: '../../../assets/flags/belgium.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/oranguru.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Alexandre Solé",
+      "flag": "BE",
+      "sprite1": "zoroark",
+      "sprite2": "oranguru",
+       
       event: "2019 Oceania Internationals - Seniors",
       deckid: "zoroark-control",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -98,7 +98,7 @@ let masters = [
             "name": "Marshadow",
             "number": "45",
             "set": "SLG"
-          },
+          }
         ],
         "trainer": [
           {
@@ -208,7 +208,7 @@ let masters = [
           "name": "Wondrous Labyrinth ♢",
           "number": "158",
           "set": "TEU"
-        },
+        }
         ],
         "energy": [
           {
@@ -233,14 +233,14 @@ let masters = [
       ]
     },
     {
-      firstName: 'Asger Balle',
-      flag: '../../../assets/flags/australia.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Asger Balle",
+      "flag": "AU",
+      "sprite1": "zoroark",
+      "sprite2": "lycanroc-midnight",
+       
       event: "2019 Oceania Internationals - Seniors",
       deckid: "zoroark-lycanroc",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -301,7 +301,7 @@ let masters = [
             "name": "Ditto ♢",
             "number": "154",
             "set": "LOT"
-          },
+          }
         ],
         "trainer": [
           {
@@ -381,7 +381,7 @@ let masters = [
           "name": "Devoured Field",
           "number": "93",
           "set": "CIN"
-        },
+        }
         ],
         "energy": [
           {
@@ -400,14 +400,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Lucas Xing',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/jolteon.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Lucas Xing",
+      "flag": "CA",
+      "sprite1": "zapdos",
+      "sprite2": "jolteon",
+       
       event: "2019 Oceania Internationals - Seniors",
       deckid: "zapdos",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -462,7 +462,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -554,7 +554,7 @@ let masters = [
             "name": "Thunder Mountain ♢",
             "number": "191",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -567,14 +567,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Rowan Stavenow',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/jolteon.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Rowan Stavenow",
+      "flag": "CA",
+      "sprite1": "zapdos",
+      "sprite2": "jolteon",
+       
       event: "2019 Oceania Internationals - Seniors",
       deckid: "zapdos",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -641,7 +641,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -721,7 +721,7 @@ let masters = [
             "name": "Thunder Mountain ♢",
             "number": "191",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -734,14 +734,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Tanner Hurley',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/zapdos.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Tanner Hurley",
+      "flag": "US",
+      "sprite1": "blank",
+      "sprite2": "zapdos",
+       
       event: "2019 Oceania Internationals - Seniors",
       deckid: "zapdos",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -778,7 +778,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -870,7 +870,7 @@ let masters = [
             "name": "Thunder Mountain ♢",
             "number": "191",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -883,14 +883,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Kaya Lichtleitner',
-      flag: '../../../assets/flags/germany.png',
-      sprite1: '../../../assets/sprites/malamar.png',
-      sprite2: '../../../assets/sprites/necrozma-ultra.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Kaya Lichtleitner",
+      "flag": "DE",
+      "sprite1": "malamar",
+      "sprite2": "necrozma-ultra",
+       
       event: "2019 Oceania Internationals - Seniors",
       deckid: "malamar",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -933,7 +933,7 @@ let masters = [
             "name": "Marshadow",
             "number": "45",
             "set": "SLG"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1001,7 +1001,7 @@ let masters = [
             "name": "Viridian Forest",
             "number": "156",
             "set": "TEU"
-          },
+          }
         ],
         "energy": [
           {
@@ -1020,14 +1020,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Pedro Pertusi',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/buzzwole.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Pedro Pertusi",
+      "flag": "BR",
+      "sprite1": "zapdos",
+      "sprite2": "buzzwole",
+       
       event: "2019 Oceania Internationals - Seniors",
       deckid: "zap-beasts",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1076,7 +1076,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1156,7 +1156,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-          },
+          }
         ],
         "energy": [
           {
@@ -1181,14 +1181,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Rune Heiremans',
-      flag: '../../../assets/flags/belgium.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Rune Heiremans",
+      "flag": "BE",
+      "sprite1": "zapdos",
+      "sprite2": "pikachu-zekrom-tagteam",
+       
       event: "2019 Oceania Internationals - Seniors",
       deckid: "pikarom",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -1243,7 +1243,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1335,7 +1335,7 @@ let masters = [
             "name": "Thunder Mountain ♢",
             "number": "191",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {

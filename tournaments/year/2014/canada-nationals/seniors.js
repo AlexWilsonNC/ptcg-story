@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Connor D",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Connor D",
+        "flag": "CA",
         "event": "2014 Canada National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/kyurem.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -20,14 +18,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Dorian S",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Dorian S",
+        "flag": "CA",
         "event": "2014 Canada National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "lugia",
+        "sprite2": "deoxys",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -40,14 +36,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Allan X",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Allan X",
+        "flag": "CA",
         "event": "2014 Canada National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "lugia",
+        "sprite2": "deoxys",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -60,14 +54,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Justin L",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Justin L",
+        "flag": "CA",
         "event": "2014 Canada National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "lugia",
+        "sprite2": "deoxys",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -80,14 +72,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Eric M",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Eric M",
+        "flag": "CA",
         "event": "2014 Canada National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "lugia",
+        "sprite2": "deoxys",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -100,14 +90,12 @@ let masters = [
         }
     },
     {
-        "firstName": "PJ B",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "PJ B",
+        "flag": "CA",
         "event": "2014 Canada National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "lugia",
+        "sprite2": "deoxys",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -120,14 +108,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Samantha N",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Samantha N",
+        "flag": "CA",
         "event": "2014 Canada National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/raichu.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "raichu",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -140,14 +126,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Ciaran Farah",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Ciaran Farah",
+        "flag": "CA",
         "event": "2014 Canada National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/flygon.png',
-        sprite2: '../../../../assets/sprites/dusknoir.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "flygon",
+        "sprite2": "dusknoir",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],

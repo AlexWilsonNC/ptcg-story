@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Olivier M",
-        flag: '../../../../assets/flags/france.png',
+        "name": "Olivier M",
+        "flag": "FR",
         "event": "2012 France National Championships",
-        sprite1: '../../../../assets/sprites/vanilluxe.png',
-        sprite2: '../../../../assets/sprites/vileplume.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "vanilluxe",
+        "sprite2": "vileplume",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -20,14 +18,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Clément L",
-        flag: '../../../../assets/flags/france.png',
+        "name": "Clément L",
+        "flag": "FR",
         "event": "2012 France National Championships",
-        sprite1: '../../../../assets/sprites/mismagius.png',
-        sprite2: '../../../../assets/sprites/vileplume.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "mismagius",
+        "sprite2": "vileplume",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -40,14 +36,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Alexandre M",
-        flag: '../../../../assets/flags/france.png',
+        "name": "Alexandre M",
+        "flag": "FR",
         "event": "2012 France National Championships",
-        sprite1: '../../../../assets/sprites/celebi.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "celebi",
+        "sprite2": "mewtwo",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -60,14 +54,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Thomas H",
-        flag: '../../../../assets/flags/france.png',
+        "name": "Thomas H",
+        "flag": "FR",
         "event": "2012 France National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/klinklang.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "klinklang",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],

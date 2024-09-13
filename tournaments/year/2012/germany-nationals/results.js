@@ -1,12 +1,12 @@
-let masters = [
+"masters": [
     {
-        firstName: 'Steven Mao',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/celebi.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        list: '../../../../assets/sprites/blank.png',
+        "name": "Steven Mao",
+        "flag": "DE",
+        "sprite1": "celebi",
+        "sprite2": "mewtwo",
+        list: '../../../../assets/sprites/blank.png",
         "event": "2012 Germany National Championships",
-        decklist: {
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -17,13 +17,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Dennis Seebürger',
-        flag: '../../../../assets/flags/germany.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        sprite1: '../../../../assets/sprites/terrakion.png',
-        list: '../../../../assets/list-icon.png',
+        "name": "Dennis Seebürger",
+        "flag": "DE",
+        sprite2: '../../../../assets/sprites/mewtwo",
+        "sprite1": "terrakion",
+        list: '../../../../assets/list-icon.png",
         "event": "2012 Germany National Championships",
-        decklist: {
+        "decklist": {
             "pokemon": [
                 { "count": 4, "name": "Terrakion", "set": "NVI", "number": "73" },
                 { "count": 3, "name": "Mewtwo-EX", "set": "NXD", "number": "54" },
@@ -49,13 +49,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Daniel Hetzel',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/celebi.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        list: '../../../../assets/list-icon.png',
+        "name": "Daniel Hetzel",
+        "flag": "DE",
+        "sprite1": "celebi",
+        "sprite2": "mewtwo",
+        list: '../../../../assets/list-icon.png",
         "event": "2012 Germany National Championships",
-        decklist: {
+        "decklist": {
             "pokemon": [
                 { "count": 4, "name": "Celebi", "set": "TM", "number": "92" },
                 { "count": 3, "name": "Mewtwo-EX", "set": "NXD", "number": "54" },
@@ -80,13 +80,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Janik Reimers',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/celebi.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        list: '../../../../assets/sprites/blank.png',
+        "name": "Janik Reimers",
+        "flag": "DE",
+        "sprite1": "celebi",
+        "sprite2": "mewtwo",
+        list: '../../../../assets/sprites/blank.png",
         "event": "2012 Germany National Championships",
-        decklist: {
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -97,13 +97,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Lutz R',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/tornadus.png',
-        list: '../../../../assets/sprites/blank.png',
+        "name": "Lutz R",
+        "flag": "DE",
+        "sprite1": "darkrai",
+        "sprite2": "tornadus",
+        list: '../../../../assets/sprites/blank.png",
         "event": "2012 Germany National Championships",
-        decklist: {
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -114,13 +114,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Thomas Werth',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/mew.png',
-        sprite2: '../../../../assets/sprites/accelgor.png',
-        list: '../../../../assets/sprites/blank.png',
+        "name": "Thomas Werth",
+        "flag": "DE",
+        "sprite1": "mew",
+        "sprite2": "accelgor",
+        list: '../../../../assets/sprites/blank.png",
         "event": "2012 Germany National Championships",
-        decklist: {
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -131,13 +131,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Sabine G',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/donphan.png',
-        list: '../../../../assets/sprites/blank.png',
+        "name": "Sabine G",
+        "flag": "DE",
+        "sprite1": "blank",
+        "sprite2": "donphan",
+        list: '../../../../assets/sprites/blank.png",
         "event": "2012 Germany National Championships",
-        decklist: {
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -148,13 +148,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Benjamin Cheynubrata',
-        flag: '../../../../assets/flags/germany.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/darkrai.png',
-        list: '../../../../assets/sprites/blank.png',
+        "name": "Benjamin Cheynubrata",
+        "flag": "DE",
+        "sprite1": "blank",
+        "sprite2": "darkrai",
+        list: '../../../../assets/sprites/blank.png",
         "event": "2012 Germany National Championships",
-        decklist: {
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [

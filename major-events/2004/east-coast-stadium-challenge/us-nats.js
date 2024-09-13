@@ -4,252 +4,108 @@ const juniorList = document.querySelector('.juniors-ol');
 
 const modalBottom = document.querySelector('.modal-bottom');
 
-let masters = [
+"masters": [
   {
-    firstName: 'Eric Craig',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/shiftry.png',
-    sprite2: '../../../assets/sprites/delcatty.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Eric Craig",
+    "flag": "US",
+    "sprite1": "shiftry",
+    "sprite2": "delcatty"
   },
   {
-    firstName: 'Chris Fulop',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/metagross.png',
-    sprite2: '../../../assets/sprites/gorebyss.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Chris Fulop",
+    "flag": "US",
+    "sprite1": "metagross",
+    "sprite2": "gorebyss"
   },
   {
-    firstName: 'John Wetz',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/walrein.png',
-    sprite2: '../../../assets/sprites/milotic.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "John Wetz",
+    "flag": "US",
+    "sprite1": "walrein",
+    "sprite2": "milotic"
   },
   {
-    firstName: 'Adam C',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gorebyss.png',
-    sprite2: '../../../assets/sprites/starmie.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Adam C",
+    "flag": "US",
+    "sprite1": "gorebyss",
+    "sprite2": "starmie"
   },
   {
-    firstName: 'Mike P',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/sceptile.png',
-    sprite2: '../../../assets/sprites/milotic.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Mike P",
+    "flag": "US",
+    "sprite1": "sceptile",
+    "sprite2": "milotic"
   },
   {
-    firstName: 'Matthew C',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Matthew C",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen"
   },
   {
-    firstName: 'Zachary E',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Zachary E",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen"
   },
   {
-    firstName: 'Bryan B',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Bryan B",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen"
   },
 ]
 
-let seniors = [
+"seniors": [
   {
-    firstName: 'David A',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/crobat.png',
-    sprite2: '../../../assets/sprites/gorebyss.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "David A",
+    "flag": "US",
+    "sprite1": "crobat",
+    "sprite2": "gorebyss"
   },
   {
-    firstName: 'Frank Diaz',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/groudon.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Frank Diaz",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "groudon"
   },
   {
-    firstName: 'Joe G',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Joe G",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir"
   },
   {
-    firstName: 'Cody H',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Cody H",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir"
   },
 ]
 
-let juniors = [
+"juniors": [
   {
-    firstName: 'Kevin R',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/walrein.png',
-    sprite2: '../../../assets/sprites/milotic.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Kevin R",
+    "flag": "US",
+    "sprite1": "walrein",
+    "sprite2": "milotic"
   },
   {
-    firstName: 'Geoffrey S',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/walrein.png',
-    sprite2: '../../../assets/sprites/wigglytuff.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Geoffrey S",
+    "flag": "US",
+    "sprite1": "walrein",
+    "sprite2": "wigglytuff"
   },
   {
-    firstName: 'Michael W',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/metagross.png',
-    sprite2: '../../../assets/sprites/wobbuffet.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Michael W",
+    "flag": "US",
+    "sprite1": "metagross",
+    "sprite2": "wobbuffet"
   },
   {
-    firstName: 'Benjamin R',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    "name": "Benjamin R",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir"
   },
 ]
 
@@ -273,13 +129,13 @@ function displayList(array = []) {
 
     let flagImg = document.createElement('img');
         flagImg.classList.add('flag-size');
-        flagImg.setAttribute('src', item.flag);
+        flagImg.setAttribute('src", item.flag);
 
         let countryName = document.createElement('div');
         countryName.classList.add('country-name');
         countryName.style.display = 'none';
 
-        flagImg.addEventListener('mouseover', function() {
+        flagImg.addEventListener('mouseover", function() {
             if (flagImg.getAttribute('src').includes('argentina')) {
                 countryName.textContent = 'Argentina (Latin America)';
                 countryName.style.display = 'block';
@@ -482,7 +338,7 @@ function displayList(array = []) {
             }
         });
 
-        flagImg.addEventListener('mouseout', function() {
+        flagImg.addEventListener('mouseout", function() {
             countryName.style.display = 'none';
         });
 
@@ -491,14 +347,14 @@ function displayList(array = []) {
 
     let firstSprite = document.createElement('img');
     firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
+    firstSprite.setAttribute('src", item.sprite1);
     let secondSprite = document.createElement('img');
     secondSprite.classList.add('sprite');
     secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
+    secondSprite.setAttribute('src", item.sprite2);
     let listIcon = document.createElement('img');
     listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
+    listIcon.setAttribute('src", item.list);
 
      
 
@@ -506,18 +362,18 @@ function displayList(array = []) {
     title.appendChild(playerName);
         playerName.appendChild(countryName); // Append the country name element
         playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
+    playerName.append(item."name");
     title.appendChild(deck);
     deck.appendChild(firstSprite);
     deck.appendChild(secondSprite);
     deck.appendChild(listIcon);
 
     if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
+      item_element.addEventListener('click", function () {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 US Nats";
+        document.querySelector('.playerName').innerHTML = item."name" + " - 2004 US Nats";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -553,7 +409,7 @@ function displayList(array = []) {
 
           let pokeCard = document.createElement('img');
           pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
+          pokeCard.setAttribute('src", deck.cardImg);
 
           if (deck.oldCard === true) {
             pokeCard.classList.add('old-card')
@@ -570,18 +426,18 @@ function displayList(array = []) {
 
           let numberCounter = document.createElement('img');
           numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
+          numberCounter.setAttribute('src", deck.numImg);
 
           cardSpace.appendChild(pokeCard);
           cardSpace.appendChild(numberCounter);
           modalBottom.appendChild(cardSpace);
 
-          modalX.addEventListener('click', () => {
+          modalX.addEventListener('click", () => {
             modal.style.display = 'none';
             behind.style.display = 'none';
             cardSpace.remove();
           })
-          behind.addEventListener('click', () => {
+          behind.addEventListener('click", () => {
             modal.style.display = 'none';
             behind.style.display = 'none';
             cardSpace.remove();
@@ -632,13 +488,13 @@ function displayList2(array = []) {
 
     let flagImg = document.createElement('img');
         flagImg.classList.add('flag-size');
-        flagImg.setAttribute('src', item.flag);
+        flagImg.setAttribute('src", item.flag);
 
         let countryName = document.createElement('div');
         countryName.classList.add('country-name');
         countryName.style.display = 'none';
 
-        flagImg.addEventListener('mouseover', function() {
+        flagImg.addEventListener('mouseover", function() {
             if (flagImg.getAttribute('src').includes('argentina')) {
                 countryName.textContent = 'Argentina (Latin America)';
                 countryName.style.display = 'block';
@@ -841,7 +697,7 @@ function displayList2(array = []) {
             }
         });
 
-        flagImg.addEventListener('mouseout', function() {
+        flagImg.addEventListener('mouseout", function() {
             countryName.style.display = 'none';
         });
 
@@ -850,14 +706,14 @@ function displayList2(array = []) {
 
     let firstSprite = document.createElement('img');
     firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
+    firstSprite.setAttribute('src", item.sprite1);
     let secondSprite = document.createElement('img');
     secondSprite.classList.add('sprite');
     secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
+    secondSprite.setAttribute('src", item.sprite2);
     let listIcon = document.createElement('img');
     listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
+    listIcon.setAttribute('src", item.list);
 
      
 
@@ -865,18 +721,18 @@ function displayList2(array = []) {
     title.appendChild(playerName);
         playerName.appendChild(countryName); // Append the country name element
         playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
+    playerName.append(item."name");
     title.appendChild(deck);
     deck.appendChild(firstSprite);
     deck.appendChild(secondSprite);
     deck.appendChild(listIcon);
 
     if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
+      item_element.addEventListener('click", function () {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 US Nats";
+        document.querySelector('.playerName').innerHTML = item."name" + " - 2004 US Nats";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -912,7 +768,7 @@ function displayList2(array = []) {
 
           let pokeCard = document.createElement('img');
           pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
+          pokeCard.setAttribute('src", deck.cardImg);
 
           if (deck.oldCard === true) {
             pokeCard.classList.add('old-card')
@@ -929,18 +785,18 @@ function displayList2(array = []) {
 
           let numberCounter = document.createElement('img');
           numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
+          numberCounter.setAttribute('src", deck.numImg);
 
           cardSpace.appendChild(pokeCard);
           cardSpace.appendChild(numberCounter);
           modalBottom.appendChild(cardSpace);
 
-          modalX.addEventListener('click', () => {
+          modalX.addEventListener('click", () => {
             modal.style.display = 'none';
             behind.style.display = 'none';
             cardSpace.remove();
           })
-          behind.addEventListener('click', () => {
+          behind.addEventListener('click", () => {
             modal.style.display = 'none';
             behind.style.display = 'none';
             cardSpace.remove();
@@ -990,13 +846,13 @@ function displayList3(array = []) {
 
     let flagImg = document.createElement('img');
         flagImg.classList.add('flag-size');
-        flagImg.setAttribute('src', item.flag);
+        flagImg.setAttribute('src", item.flag);
 
         let countryName = document.createElement('div');
         countryName.classList.add('country-name');
         countryName.style.display = 'none';
 
-        flagImg.addEventListener('mouseover', function() {
+        flagImg.addEventListener('mouseover", function() {
             if (flagImg.getAttribute('src').includes('argentina')) {
                 countryName.textContent = 'Argentina (Latin America)';
                 countryName.style.display = 'block';
@@ -1199,7 +1055,7 @@ function displayList3(array = []) {
             }
         });
 
-        flagImg.addEventListener('mouseout', function() {
+        flagImg.addEventListener('mouseout", function() {
             countryName.style.display = 'none';
         });
 
@@ -1208,14 +1064,14 @@ function displayList3(array = []) {
 
     let firstSprite = document.createElement('img');
     firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
+    firstSprite.setAttribute('src", item.sprite1);
     let secondSprite = document.createElement('img');
     secondSprite.classList.add('sprite');
     secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
+    secondSprite.setAttribute('src", item.sprite2);
     let listIcon = document.createElement('img');
     listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
+    listIcon.setAttribute('src", item.list);
 
      
 
@@ -1223,18 +1079,18 @@ function displayList3(array = []) {
     title.appendChild(playerName);
         playerName.appendChild(countryName); // Append the country name element
         playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
+    playerName.append(item."name");
     title.appendChild(deck);
     deck.appendChild(firstSprite);
     deck.appendChild(secondSprite);
     deck.appendChild(listIcon);
 
     if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
+      item_element.addEventListener('click", function () {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 US Nats";
+        document.querySelector('.playerName').innerHTML = item."name" + " - 2004 US Nats";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -1270,7 +1126,7 @@ function displayList3(array = []) {
 
           let pokeCard = document.createElement('img');
           pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
+          pokeCard.setAttribute('src", deck.cardImg);
 
           if (deck.oldCard === true) {
             pokeCard.classList.add('old-card')
@@ -1287,18 +1143,18 @@ function displayList3(array = []) {
 
           let numberCounter = document.createElement('img');
           numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
+          numberCounter.setAttribute('src", deck.numImg);
 
           cardSpace.appendChild(pokeCard);
           cardSpace.appendChild(numberCounter);
           modalBottom.appendChild(cardSpace);
 
-          modalX.addEventListener('click', () => {
+          modalX.addEventListener('click", () => {
             modal.style.display = 'none';
             behind.style.display = 'none';
             cardSpace.remove();
           })
-          behind.addEventListener('click', () => {
+          behind.addEventListener('click", () => {
             modal.style.display = 'none';
             behind.style.display = 'none';
             cardSpace.remove();

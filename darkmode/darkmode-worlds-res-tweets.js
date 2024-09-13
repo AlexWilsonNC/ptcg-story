@@ -33,9 +33,9 @@ const enableDarkMode = () => {
     extranav.classList.add('darkon');
 
 
-    document.querySelectorAll('[src="../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../assets/list-icon-white.png'));
+    document.querySelectorAll('[src="../../assets/list-icon.png"]').forEach(item => item.setAttribute('src", '../../assets/list-icon-white.png'));
     function addAttribute(){
-      document.querySelectorAll('[src="../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../assets/list-icon-white.png'));
+      document.querySelectorAll('[src="../../assets/list-icon.png"]').forEach(item => item.setAttribute('src", '../../assets/list-icon-white.png'));
     };
     window.onload = addAttribute;
     
@@ -64,10 +64,10 @@ const enableDarkMode = () => {
     }
 
     twittertweet.forEach((twittertweet) => {
-      twittertweet.setAttribute('data-theme', 'dark');
+      twittertweet.setAttribute('data-theme", 'dark');
     })
 
-    localStorage.setItem('darkMode', 'enabled');
+    localStorage.setItem('darkMode", 'enabled');
   };
   
   const disableDarkMode = () => {
@@ -82,7 +82,7 @@ const enableDarkMode = () => {
     dropitdown2.classList.remove('darkon');
     extranav.classList.remove('darkon');
 
-    document.querySelectorAll('[src="../../assets/list-icon-white.png"]').forEach(item => item.setAttribute('src', '../../assets/list-icon.png'));
+    document.querySelectorAll('[src="../../assets/list-icon-white.png"]').forEach(item => item.setAttribute('src", '../../assets/list-icon.png'));
 
     mastersol.classList.remove('darkon');
     seniorsol.classList.remove('darkon');
@@ -108,17 +108,17 @@ const enableDarkMode = () => {
     }
 
     twittertweet.forEach((twittertweet) => {
-      twittertweet.setAttribute('data-theme', 'light');
+      twittertweet.setAttribute('data-theme", 'light');
     })
 
-    localStorage.setItem('darkMode', null);
+    localStorage.setItem('darkMode", null);
   };
   
   if(darkMode === 'enabled') {
     enableDarkMode();
   }
   
-  toggle.addEventListener('click', () => {
+  toggle.addEventListener('click", () => {
     darkMode = localStorage.getItem('darkMode');
     if (darkMode !== 'enabled') {
       enableDarkMode();

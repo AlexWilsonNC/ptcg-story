@@ -1,12 +1,12 @@
-let masters = [
+"masters": [
     {
-        firstName: 'Stefan W',
-        flag: '../../../../assets/flags/austria.png',
-        sprite1: '../../../../assets/sprites/terrakion.png',
-        sprite2: '../../../../assets/sprites/landorus.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2012 Austria National Championships',
-        decklist: {
+        "name": "Stefan W",
+        "flag": "AT",
+        "sprite1": "terrakion",
+        "sprite2": "landorus",
+        list: '../../../../assets/list-icon",
+        event: '2012 Austria National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 4, "name": "Terrakion", "set": "NVI", "number": "73" },
                 { "count": 3, "name": "Landorus", "set": "NVI", "number": "74" },
@@ -34,14 +34,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Samuel Z',
-        flag: '../../../../assets/flags/austria.png',
-        sprite1: '../../../../assets/sprites/reshiram.png',
-        sprite2: '../../../../assets/sprites/typhlosion.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 Austria National Championships',
-        decklist: {
+        "name": "Samuel Z",
+        "flag": "AT",
+        "sprite1": "reshiram",
+        "sprite2": "typhlosion",
+        
+        event: '2012 Austria National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -52,14 +51,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Matthias M',
-        flag: '../../../../assets/flags/austria.png',
-        sprite1: '../../../../assets/sprites/mew.png',
-        sprite2: '../../../../assets/sprites/yanmega.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 Austria National Championships',
-        decklist: {
+        "name": "Matthias M",
+        "flag": "AT",
+        "sprite1": "mew",
+        "sprite2": "yanmega",
+        
+        event: '2012 Austria National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -70,14 +68,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Daniel C',
-        flag: '../../../../assets/flags/austria.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/durant.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 Austria National Championships',
-        decklist: {
+        "name": "Daniel C",
+        "flag": "AT",
+        "sprite1": "blank",
+        "sprite2": "durant",
+        
+        event: '2012 Austria National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [

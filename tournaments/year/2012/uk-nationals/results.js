@@ -1,13 +1,12 @@
-let masters = [
+"masters": [
     {
-        firstName: 'Alex Northey',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/zekrom.png',
-        sprite2: '../../../../assets/sprites/eelektrik.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Alex Northey",
+        "flag": "UK",
+        "sprite1": "zekrom",
+        "sprite2": "eelektrik",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -18,13 +17,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Karl Blake',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/mismagius.png',
-        sprite2: '../../../../assets/sprites/vileplume.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Karl Blake",
+        "flag": "UK",
+        "sprite1": "mismagius",
+        "sprite2": "vileplume",
+        list: '../../../../assets/list-icon",
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 2, "name": "Mismagius", "set": "UL", "number": "5" },
                 { "count": 2, "name": "Misdreavus", "set": "CL", "number": "65" },
@@ -58,14 +57,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Sami Sekkoum',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/celebi.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Sami Sekkoum",
+        "flag": "UK",
+        "sprite1": "celebi",
+        "sprite2": "mewtwo",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -76,14 +74,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Matt Blower',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/vanilluxe.png',
-        sprite2: '../../../../assets/sprites/vileplume.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Matt Blower",
+        "flag": "UK",
+        "sprite1": "vanilluxe",
+        "sprite2": "vileplume",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -94,14 +91,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Johnny Hall',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/meganium.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Johnny Hall",
+        "flag": "UK",
+        "sprite1": "blank",
+        "sprite2": "meganium",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -112,14 +108,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Faisal Khan',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Faisal Khan",
+        "flag": "UK",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -130,14 +125,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Tommy Roberts',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/empoleon.png',
-        sprite2: '../../../../assets/sprites/terrakion.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Tommy Roberts",
+        "flag": "UK",
+        "sprite1": "empoleon",
+        "sprite2": "terrakion",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -148,14 +142,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Jak S-Armstead',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Jak S-Armstead",
+        "flag": "UK",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -166,14 +159,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Fares Sekkoum',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Fares Sekkoum",
+        "flag": "UK",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -184,14 +176,13 @@ let masters = [
         },
     },
     {
-        firstName: 'John Gregory',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/celebi.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "John Gregory",
+        "flag": "UK",
+        "sprite1": "celebi",
+        "sprite2": "mewtwo",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -202,14 +193,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Scot Burgess',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Scot Burgess",
+        "flag": "UK",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -220,14 +210,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Jake Walvin',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/mewtwo.png',
-        sprite2: '../../../../assets/sprites/eelektrik.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Jake Walvin",
+        "flag": "UK",
+        "sprite1": "mewtwo",
+        "sprite2": "eelektrik",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -238,14 +227,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Oliver Barnett',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Oliver Barnett",
+        "flag": "UK",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -256,14 +244,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Samuel Mclewee',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/mewtwo.png',
-        sprite2: '../../../../assets/sprites/terrakion.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Samuel Mclewee",
+        "flag": "UK",
+        "sprite1": "mewtwo",
+        "sprite2": "terrakion",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -274,14 +261,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Russel Moore',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Russel Moore",
+        "flag": "UK",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -292,14 +278,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Charles Barton',
-        flag: '../../../../assets/flags/uk.png',
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/terrakion.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2012 UK National Championships',
-        decklist: {
+        "name": "Charles Barton",
+        "flag": "UK",
+        "sprite1": "darkrai",
+        "sprite2": "terrakion",
+        
+        event: '2012 UK National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [

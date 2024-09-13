@@ -1,30 +1,27 @@
-let masters = [
+"masters": [
     {
-        "firstName": "John Orgel",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "John Orgel",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/gardevoir.png',
-        sprite2: '../../../../assets/sprites/gallade.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": { "pokemon": [{ "count": 1, "name": "Gardevoir LV.X", "set": "SW", "number": 131 }, { "count": 3, "name": "Gardevoir", "set": "SW", "number": 7 }, { "count": 1, "name": "Gallade", "set": "SW", "number": 6 }, { "count": 2, "name": "Kirlia", "set": "PL", "number": 51 }, { "count": 4, "name": "Ralts", "set": "PL", "number": 89 }, { "count": 1, "name": "Machamp", "set": "SF", "number": 20 }, { "count": 1, "name": "Machop", "set": "SF", "number": 64 }, { "count": 1, "name": "Dusknoir", "set": "DP", "number": 2 }, { "count": 1, "name": "Dusclops", "set": "SF", "number": 35 }, { "count": 1, "name": "Duskull", "set": "SW", "number": 86 }, { "count": 1, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 1, "name": "Baltoy", "set": "SV", "number": 89 }, { "count": 3, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 1, "name": "Azelf LV.X", "set": "LA", "number": 140 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Unown G", "set": "GE", "number": 57 }], "trainer": [{ "count": 4, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 2, "name": "Looker's Investigation", "set": "PL", "number": 109 }, { "count": 1, "name": "Judge", "set": "UL", "number": 78 }, { "count": 1, "name": "Lucian's Assignment", "set": "RR", "number": 92 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 1, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 2, "name": "Moonlight Stadium", "set": "GE", "number": 100 }], "energy": [{ "count": 5, "name": "Psychic Energy", "set": "HS", "number": 119 }, { "count": 1, "name": "Fighting Energy", "set": "HS", "number": 120 }, { "count": 4, "name": "Double Colorless Energy", "set": "HS", "number": 103 }, { "count": 3, "name": "Call Energy", "set": "MD", "number": 92 }] }
+        "sprite1": "gardevoir",
+        "sprite2": "gallade",
+"decklist": { "pokemon": [{ "count": 1, "name": "Gardevoir LV.X", "set": "SW", "number": 131 }, { "count": 3, "name": "Gardevoir", "set": "SW", "number": 7 }, { "count": 1, "name": "Gallade", "set": "SW", "number": 6 }, { "count": 2, "name": "Kirlia", "set": "PL", "number": 51 }, { "count": 4, "name": "Ralts", "set": "PL", "number": 89 }, { "count": 1, "name": "Machamp", "set": "SF", "number": 20 }, { "count": 1, "name": "Machop", "set": "SF", "number": 64 }, { "count": 1, "name": "Dusknoir", "set": "DP", "number": 2 }, { "count": 1, "name": "Dusclops", "set": "SF", "number": 35 }, { "count": 1, "name": "Duskull", "set": "SW", "number": 86 }, { "count": 1, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 1, "name": "Baltoy", "set": "SV", "number": 89 }, { "count": 3, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 1, "name": "Azelf LV.X", "set": "LA", "number": 140 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Unown G", "set": "GE", "number": 57 }], "trainer": [{ "count": 4, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 2, "name": "Looker's Investigation", "set": "PL", "number": 109 }, { "count": 1, "name": "Judge", "set": "UL", "number": 78 }, { "count": 1, "name": "Lucian's Assignment", "set": "RR", "number": 92 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 1, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 2, "name": "Moonlight Stadium", "set": "GE", "number": 100 }], "energy": [{ "count": 5, "name": "Psychic Energy", "set": "HS", "number": 119 }, { "count": 1, "name": "Fighting Energy", "set": "HS", "number": 120 }, { "count": 4, "name": "Double Colorless Energy", "set": "HS", "number": 103 }, { "count": 3, "name": "Call Energy", "set": "MD", "number": 92 }] }
     },
     {
-        "firstName": "Erik Nance",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Erik Nance",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/steelix.png',
-        sprite2: '../../../../assets/sprites/blissey.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": { "pokemon": [{ "count": 3, "name": "Steelix", "set": "UL", "number": 87 }, { "count": 3, "name": "Onix", "set": "UL", "number": 57 }, { "count": 2, "name": "Blissey", "set": "PL", "number": 22 }, { "count": 2, "name": "Chansey", "set": "PL", "number": 69 }, { "count": 3, "name": "Pachirisu", "set": "GE", "number": 5 }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }], "trainer": [{ "count": 4, "name": "Professor Oak's New Theory", "set": "HS", "number": 101 }, { "count": 4, "name": "Engineer's Adjustments", "set": "UL", "number": 75 }, { "count": 3, "name": "Volkner's Philosophy", "set": "RR", "number": 98 }, { "count": 3, "name": "Judge", "set": "UL", "number": 78 }, { "count": 4, "name": "Life Herb", "set": "PL", "number": 108 }, { "count": 4, "name": "Moomoo Milk", "set": "HS", "number": 94 }, { "count": 4, "name": "Pokémon Communication", "set": "HS", "number": 98 }, { "count": 3, "name": "PlusPower", "set": "UL", "number": 80 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }], "energy": [{ "count": 2, "name": "Metal Energy", "set": "HS", "number": 122 }, { "count": 4, "name": "Metal Energy", "set": "MT", "number": 120 }, { "count": 4, "name": "Double Colorless Energy", "set": "HS", "number": 103 }, { "count": 4, "name": "Call Energy", "set": "MD", "number": 92 }] }
+        "sprite1": "steelix",
+        "sprite2": "blissey",
+"decklist": { "pokemon": [{ "count": 3, "name": "Steelix", "set": "UL", "number": 87 }, { "count": 3, "name": "Onix", "set": "UL", "number": 57 }, { "count": 2, "name": "Blissey", "set": "PL", "number": 22 }, { "count": 2, "name": "Chansey", "set": "PL", "number": 69 }, { "count": 3, "name": "Pachirisu", "set": "GE", "number": 5 }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }], "trainer": [{ "count": 4, "name": "Professor Oak's New Theory", "set": "HS", "number": 101 }, { "count": 4, "name": "Engineer's Adjustments", "set": "UL", "number": 75 }, { "count": 3, "name": "Volkner's Philosophy", "set": "RR", "number": 98 }, { "count": 3, "name": "Judge", "set": "UL", "number": 78 }, { "count": 4, "name": "Life Herb", "set": "PL", "number": 108 }, { "count": 4, "name": "Moomoo Milk", "set": "HS", "number": 94 }, { "count": 4, "name": "Pokémon Communication", "set": "HS", "number": 98 }, { "count": 3, "name": "PlusPower", "set": "UL", "number": 80 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }], "energy": [{ "count": 2, "name": "Metal Energy", "set": "HS", "number": 122 }, { "count": 4, "name": "Metal Energy", "set": "MT", "number": 120 }, { "count": 4, "name": "Double Colorless Energy", "set": "HS", "number": 103 }, { "count": 4, "name": "Call Energy", "set": "MD", "number": 92 }] }
     },
     {
-        "firstName": "Grant Shaw",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Grant Shaw",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/jumpluff.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "jumpluff",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Jumpluff", "set": "HS", "number": "6" },
                 { "count": 3, "name": "Skiploom", "set": "SW", "number": "65" },
@@ -59,22 +56,20 @@ let masters = [
         }
     },
     {
-        "firstName": "Velen Ricci",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Velen Ricci",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/jumpluff.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": { "pokemon": [{ "count": 4, "name": "Jumpluff", "set": "HS", "number": 6 }, { "count": 3, "name": "Skiploom", "set": "SW", "number": 65 }, { "count": 3, "name": "Hoppip", "set": "HS", "number": 67 }, { "count": 1, "name": "Hoppip", "set": "SW", "number": 90 }, { "count": 3, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 3, "name": "Baltoy", "set": "GE", "number": 60 }, { "count": 2, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Crobat G", "set": "PL", "number": 47 }, { "count": 4, "name": "Unown R", "set": "LA", "number": 77 }, { "count": 1, "name": "Unown Q", "set": "MD", "number": 49 }], "trainer": [{ "count": 4, "name": "Pokémon Collector", "set": "HS", "number": 97 }, { "count": 3, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 2, "name": "Judge", "set": "UL", "number": 78 }, { "count": 1, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 4, "name": "Pokémon Communication", "set": "HS", "number": 98 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 3, "name": "PlusPower", "set": "UL", "number": 80 }, { "count": 2, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 2, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 1, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 3, "name": "Broken Time-Space", "set": "PL", "number": 104 }], "energy": [{ "count": 6, "name": "Grass Energy", "set": "HS", "number": 115 }] }
+        "sprite1": "blank",
+        "sprite2": "jumpluff",
+"decklist": { "pokemon": [{ "count": 4, "name": "Jumpluff", "set": "HS", "number": 6 }, { "count": 3, "name": "Skiploom", "set": "SW", "number": 65 }, { "count": 3, "name": "Hoppip", "set": "HS", "number": 67 }, { "count": 1, "name": "Hoppip", "set": "SW", "number": 90 }, { "count": 3, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 3, "name": "Baltoy", "set": "GE", "number": 60 }, { "count": 2, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Crobat G", "set": "PL", "number": 47 }, { "count": 4, "name": "Unown R", "set": "LA", "number": 77 }, { "count": 1, "name": "Unown Q", "set": "MD", "number": 49 }], "trainer": [{ "count": 4, "name": "Pokémon Collector", "set": "HS", "number": 97 }, { "count": 3, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 2, "name": "Judge", "set": "UL", "number": 78 }, { "count": 1, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 4, "name": "Pokémon Communication", "set": "HS", "number": 98 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 3, "name": "PlusPower", "set": "UL", "number": 80 }, { "count": 2, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 2, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 1, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 3, "name": "Broken Time-Space", "set": "PL", "number": 104 }], "energy": [{ "count": 6, "name": "Grass Energy", "set": "HS", "number": 115 }] }
     },
     {
-        "firstName": "Henry Chao",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Henry Chao",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/dialga.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "dialga",
+        "sprite2": "garchomp",
+"decklist": {
             "pokemon": [
                 { "count": 1, "name": "Dialga G LV.X", "set": "PL", "number": "122" },
                 { "count": 2, "name": "Dialga G", "set": "PL", "number": "7" },
@@ -117,22 +112,20 @@ let masters = [
         }
     },
     {
-        "firstName": "Cyrus Davis",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Cyrus Davis",
+        "flag": "CA",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gengar.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": { "pokemon": [{ "count": 1, "name": "Gengar LV.X", "set": "AR", "number": 97 }, { "count": 2, "name": "Gengar", "set": "SF", "number": 18 }, { "count": 1, "name": "Gengar", "set": "AR", "number": 16 }, { "count": 2, "name": "Haunter", "set": "DP", "number": 50 }, { "count": 3, "name": "Gastly", "set": "SF", "number": 62 }, { "count": 4, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 2, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 2, "name": "Baltoy", "set": "GE", "number": 60 }, { "count": 1, "name": "Nidoqueen", "set": "RR", "number": 30 }, { "count": 1, "name": "Nidorina", "set": "MT", "number": 56 }, { "count": 1, "name": "Nidoran ♀", "set": "RR", "number": 71 }, { "count": 1, "name": "Dusknoir", "set": "DP", "number": 2 }, { "count": 1, "name": "Duskull", "set": "SW", "number": "86" }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }], "trainer": [{ "count": 3, "name": "Judge", "set": "UL", "number": 78 }, { "count": 3, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 2, "name": "Pokémon Collector", "set": "HS", "number": 97 }, { "count": 2, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 2, "name": "Felicity's Drawing", "set": "GE", "number": 98 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 2, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 2, "name": "Pokémon Communication", "set": "HS", "number": 98 }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 2, "name": "Moonlight Stadium", "set": "GE", "number": 100 }], "energy": [{ "count": 5, "name": "Psychic Energy", "set": "HS", "number": 119 }, { "count": 4, "name": "Call Energy", "set": "MD", "number": 92 }, { "count": 2, "name": "Warp Energy", "set": "SF", "number": 95 }] }
+        "sprite1": "blank",
+        "sprite2": "gengar",
+"decklist": { "pokemon": [{ "count": 1, "name": "Gengar LV.X", "set": "AR", "number": 97 }, { "count": 2, "name": "Gengar", "set": "SF", "number": 18 }, { "count": 1, "name": "Gengar", "set": "AR", "number": 16 }, { "count": 2, "name": "Haunter", "set": "DP", "number": 50 }, { "count": 3, "name": "Gastly", "set": "SF", "number": 62 }, { "count": 4, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 2, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 2, "name": "Baltoy", "set": "GE", "number": 60 }, { "count": 1, "name": "Nidoqueen", "set": "RR", "number": 30 }, { "count": 1, "name": "Nidorina", "set": "MT", "number": 56 }, { "count": 1, "name": "Nidoran ♀", "set": "RR", "number": 71 }, { "count": 1, "name": "Dusknoir", "set": "DP", "number": 2 }, { "count": 1, "name": "Duskull", "set": "SW", "number": "86" }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }], "trainer": [{ "count": 3, "name": "Judge", "set": "UL", "number": 78 }, { "count": 3, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 2, "name": "Pokémon Collector", "set": "HS", "number": 97 }, { "count": 2, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 2, "name": "Felicity's Drawing", "set": "GE", "number": 98 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 2, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 2, "name": "Pokémon Communication", "set": "HS", "number": 98 }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 2, "name": "Moonlight Stadium", "set": "GE", "number": 100 }], "energy": [{ "count": 5, "name": "Psychic Energy", "set": "HS", "number": 119 }, { "count": 4, "name": "Call Energy", "set": "MD", "number": 92 }, { "count": 2, "name": "Warp Energy", "set": "SF", "number": 95 }] }
     },
     {
-        "firstName": "Mark Nilson",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Mark Nilson",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/luxray.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "luxray",
+        "sprite2": "garchomp",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
                 { "count": 2, "name": "Luxray GL", "set": "RR", "number": "9" },
@@ -171,13 +164,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Evan Cole",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Evan Cole",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/dialga.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "dialga",
+        "sprite2": "garchomp",
+"decklist": {
             "pokemon": [
                 { "count": 1, "name": "Dialga G LV.X", "set": "PL", "number": "122" },
                 { "count": 2, "name": "Dialga G", "set": "PL", "number": "7" },
@@ -224,13 +216,12 @@ let masters = [
 
     },
     {
-        "firstName": "Michael Hopkins",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Michael Hopkins",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/luxray.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "luxray",
+        "sprite2": "garchomp",
+"decklist": {
             "pokemon": [
                 { "count": 1, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
                 { "count": 2, "name": "Luxray GL", "set": "RR", "number": "9" },
@@ -273,13 +264,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Joshua Proehl",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Joshua Proehl",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/luxray.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "luxray",
+        "sprite2": "garchomp",
+"decklist": {
             "pokemon": [
                 { "count": 1, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
                 { "count": 3, "name": "Luxray GL", "set": "RR", "number": "9" },
@@ -319,13 +309,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Yosha Riley",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Yosha Riley",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/dialga.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "dialga",
+        "sprite2": "garchomp",
+"decklist": {
             "pokemon": [
                 {"count": 1, "name": "Dialga G LV.X", "set": "PL", "number": "122"},
                 {"count": 2, "name": "Dialga G", "set": "PL", "number": "7"},
@@ -367,32 +356,29 @@ let masters = [
         }
     },
     {
-        "firstName": "Steven Toman",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Steven Toman",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/gardevoir.png',
-        sprite2: '../../../../assets/sprites/gallade.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": { "pokemon": [{ "count": 1, "name": "Gardevoir LV.X", "set": "SW", "number": 131 }, { "count": 3, "name": "Gardevoir", "set": "SW", "number": 7 }, { "count": 1, "name": "Gallade", "set": "SW", "number": 6 }, { "count": 2, "name": "Kirlia", "set": "PL", "number": 51 }, { "count": 4, "name": "Ralts", "set": "PL", "number": 89 }, { "count": 1, "name": "Machamp", "set": "SF", "number": 20 }, { "count": 1, "name": "Machop", "set": "SF", "number": 64 }, { "count": 1, "name": "Dusknoir", "set": "DP", "number": 2 }, { "count": 1, "name": "Dusclops", "set": "SF", "number": 35 }, { "count": 1, "name": "Duskull", "set": "SW", "number": 86 }, { "count": 1, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 1, "name": "Baltoy", "set": "SV", "number": 89 }, { "count": 3, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 1, "name": "Azelf LV.X", "set": "LA", "number": 140 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Unown G", "set": "GE", "number": 57 }], "trainer": [{ "count": 4, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 2, "name": "Looker's Investigation", "set": "PL", "number": 109 }, { "count": 2, "name": "Judge", "set": "UL", "number": 78 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 1, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 2, "name": "Moonlight Stadium", "set": "GE", "number": 100 }], "energy": [{ "count": 5, "name": "Psychic Energy", "set": "HS", "number": 119 }, { "count": 1, "name": "Fighting Energy", "set": "HS", "number": 120 }, { "count": 4, "name": "Double Colorless Energy", "set": "HS", "number": 103 }, { "count": 3, "name": "Call Energy", "set": "MD", "number": 92 }] }
+        "sprite1": "gardevoir",
+        "sprite2": "gallade",
+"decklist": { "pokemon": [{ "count": 1, "name": "Gardevoir LV.X", "set": "SW", "number": 131 }, { "count": 3, "name": "Gardevoir", "set": "SW", "number": 7 }, { "count": 1, "name": "Gallade", "set": "SW", "number": 6 }, { "count": 2, "name": "Kirlia", "set": "PL", "number": 51 }, { "count": 4, "name": "Ralts", "set": "PL", "number": 89 }, { "count": 1, "name": "Machamp", "set": "SF", "number": 20 }, { "count": 1, "name": "Machop", "set": "SF", "number": 64 }, { "count": 1, "name": "Dusknoir", "set": "DP", "number": 2 }, { "count": 1, "name": "Dusclops", "set": "SF", "number": 35 }, { "count": 1, "name": "Duskull", "set": "SW", "number": 86 }, { "count": 1, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 1, "name": "Baltoy", "set": "SV", "number": 89 }, { "count": 3, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 1, "name": "Azelf LV.X", "set": "LA", "number": 140 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Unown G", "set": "GE", "number": 57 }], "trainer": [{ "count": 4, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 2, "name": "Looker's Investigation", "set": "PL", "number": 109 }, { "count": 2, "name": "Judge", "set": "UL", "number": 78 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 1, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 2, "name": "Moonlight Stadium", "set": "GE", "number": 100 }], "energy": [{ "count": 5, "name": "Psychic Energy", "set": "HS", "number": 119 }, { "count": 1, "name": "Fighting Energy", "set": "HS", "number": 120 }, { "count": 4, "name": "Double Colorless Energy", "set": "HS", "number": 103 }, { "count": 3, "name": "Call Energy", "set": "MD", "number": 92 }] }
 
     },
     {
-        "firstName": "August McCann",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "August McCann",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/donphan.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": { "pokemon": [{ "count": 4, "name": "Donphan", "set": "HS", "number": 107 }, { "count": 4, "name": "Phanpy", "set": "HS", "number": 77 }, { "count": 2, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 2, "name": "Baltoy", "set": "GE", "number": 60 }, { "count": 2, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }, { "count": 1, "name": "Manectric", "set": "PL", "number": 11 }, { "count": 1, "name": "Electrike", "set": "PL", "number": 74 }, { "count": 1, "name": "Regirock", "set": "LA", "number": 38 }, { "count": 1, "name": "Relicanth", "set": "SV", "number": 79 }, { "count": 1, "name": "Entei & Raikou LEGEND", "set": "UL", "number": 90 }, { "count": 1, "name": "Entei & Raikou LEGEND", "set": "UL", "number": 91 }], "trainer": [{ "count": 4, "name": "Pokémon Collector", "set": "HS", "number": 97 }, { "count": 3, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 3, "name": "Judge", "set": "UL", "number": 78 }, { "count": 1, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 1, "name": "Felicity's Drawing", "set": "GE", "number": 98 }, { "count": 4, "name": "Super Scoop Up", "set": "UL", "number": 83 }, { "count": 3, "name": "Pokémon Communication", "set": "HS", "number": 98 }, { "count": 1, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 1, "name": "Bench Shield", "set": "AR", "number": 83 }, { "count": 3, "name": "Stark Mountain", "set": "LA", "number": 135 }], "energy": [{ "count": 7, "name": "Fighting Energy", "set": "HS", "number": 120 }, { "count": 4, "name": "Multi Energy", "set": "MT", "number": 118 }] }
+        "sprite1": "blank",
+        "sprite2": "donphan",
+"decklist": { "pokemon": [{ "count": 4, "name": "Donphan", "set": "HS", "number": 107 }, { "count": 4, "name": "Phanpy", "set": "HS", "number": 77 }, { "count": 2, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 2, "name": "Baltoy", "set": "GE", "number": 60 }, { "count": 2, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }, { "count": 1, "name": "Manectric", "set": "PL", "number": 11 }, { "count": 1, "name": "Electrike", "set": "PL", "number": 74 }, { "count": 1, "name": "Regirock", "set": "LA", "number": 38 }, { "count": 1, "name": "Relicanth", "set": "SV", "number": 79 }, { "count": 1, "name": "Entei & Raikou LEGEND", "set": "UL", "number": 90 }, { "count": 1, "name": "Entei & Raikou LEGEND", "set": "UL", "number": 91 }], "trainer": [{ "count": 4, "name": "Pokémon Collector", "set": "HS", "number": 97 }, { "count": 3, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 3, "name": "Judge", "set": "UL", "number": 78 }, { "count": 1, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 1, "name": "Felicity's Drawing", "set": "GE", "number": 98 }, { "count": 4, "name": "Super Scoop Up", "set": "UL", "number": 83 }, { "count": 3, "name": "Pokémon Communication", "set": "HS", "number": 98 }, { "count": 1, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 1, "name": "Bench Shield", "set": "AR", "number": 83 }, { "count": 3, "name": "Stark Mountain", "set": "LA", "number": 135 }], "energy": [{ "count": 7, "name": "Fighting Energy", "set": "HS", "number": 120 }, { "count": 4, "name": "Multi Energy", "set": "MT", "number": 118 }] }
     },
     {
-        "firstName": "Abbott Veldhuizen",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Abbott Veldhuizen",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/flygon.png',
-        sprite2: '../../../../assets/sprites/torterra.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "flygon",
+        "sprite2": "torterra",
+"decklist": {
             "pokemon": [
                 { "count": 1, "name": "Flygon LV.X", "set": "RR", "number": "105" },
                 { "count": 2, "name": "Flygon", "set": "RR", "number": "5" },
@@ -431,13 +417,12 @@ let masters = [
         },
     },
     {
-        "firstName": "Hasan Kunukcu",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Hasan Kunukcu",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/luxray.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "luxray",
+        "sprite2": "garchomp",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
                 { "count": 2, "name": "Luxray GL", "set": "RR", "number": "9" },
@@ -477,13 +462,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Christian Castillo",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Christian Castillo",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/luxray.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "luxray",
+        "sprite2": "garchomp",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
                 { "count": 2, "name": "Luxray GL", "set": "RR", "number": "9" },
@@ -521,13 +505,12 @@ let masters = [
         }
     },
     {
-        "firstName": "James Gillespie",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "James Gillespie",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/dialga.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "dialga",
+        "sprite2": "garchomp",
+"decklist": {
             "pokemon": [
                 { "count": 1, "name": "Dialga G LV.X", "set": "PL", "number": "122" },
                 { "count": 2, "name": "Dialga G", "set": "PL", "number": "7" },
@@ -567,13 +550,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Chase Santayana",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Chase Santayana",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/arceus.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "arceus",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Arceus LV.X", "set": "AR", "number": "94" },
                 { "count": 4, "name": "Arceus", "set": "AR", "number": "AR5" },
@@ -606,50 +588,45 @@ let masters = [
         }
     },
     {
-        "firstName": "Jake Blandina",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Jake Blandina",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gengar.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": { "pokemon": [{ "count": 1, "name": "Gengar LV.X", "set": "AR", "number": 97 }, { "count": 2, "name": "Gengar", "set": "SF", "number": 18 }, { "count": 1, "name": "Gengar", "set": "AR", "number": 16 }, { "count": 2, "name": "Haunter", "set": "DP", "number": 50 }, { "count": 3, "name": "Gastly", "set": "SF", "number": 62 }, { "count": 4, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 2, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 2, "name": "Baltoy", "set": "GE", "number": 60 }, { "count": 1, "name": "Nidoqueen", "set": "RR", "number": 30 }, { "count": 1, "name": "Nidorina", "set": "MT", "number": 56 }, { "count": 1, "name": "Nidoran ♀", "set": "RR", "number": 71 }, { "count": 1, "name": "Dusknoir", "set": "DP", "number": 2 }, { "count": 1, "name": "Duskull", "set": "SF", "number": "SH2" }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }], "trainer": [{ "count": 3, "name": "Judge", "set": "UL", "number": 78 }, { "count": 3, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 2, "name": "Pokémon Collector", "set": "HS", "number": 97 }, { "count": 2, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 2, "name": "Felicity's Drawing", "set": "GE", "number": 98 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 2, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 2, "name": "Pokémon Communication", "set": "HS", "number": 98 }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 2, "name": "Moonlight Stadium", "set": "GE", "number": 100 }], "energy": [{ "count": 5, "name": "Psychic Energy", "set": "HS", "number": 119 }, { "count": 4, "name": "Call Energy", "set": "MD", "number": 92 }, { "count": 2, "name": "Warp Energy", "set": "SF", "number": 95 }] }
+        "sprite1": "blank",
+        "sprite2": "gengar",
+"decklist": { "pokemon": [{ "count": 1, "name": "Gengar LV.X", "set": "AR", "number": 97 }, { "count": 2, "name": "Gengar", "set": "SF", "number": 18 }, { "count": 1, "name": "Gengar", "set": "AR", "number": 16 }, { "count": 2, "name": "Haunter", "set": "DP", "number": 50 }, { "count": 3, "name": "Gastly", "set": "SF", "number": 62 }, { "count": 4, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 2, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 2, "name": "Baltoy", "set": "GE", "number": 60 }, { "count": 1, "name": "Nidoqueen", "set": "RR", "number": 30 }, { "count": 1, "name": "Nidorina", "set": "MT", "number": 56 }, { "count": 1, "name": "Nidoran ♀", "set": "RR", "number": 71 }, { "count": 1, "name": "Dusknoir", "set": "DP", "number": 2 }, { "count": 1, "name": "Duskull", "set": "SF", "number": "SH2" }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }], "trainer": [{ "count": 3, "name": "Judge", "set": "UL", "number": 78 }, { "count": 3, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 2, "name": "Pokémon Collector", "set": "HS", "number": 97 }, { "count": 2, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 2, "name": "Felicity's Drawing", "set": "GE", "number": 98 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 2, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 2, "name": "Pokémon Communication", "set": "HS", "number": 98 }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 2, "name": "Moonlight Stadium", "set": "GE", "number": 100 }], "energy": [{ "count": 5, "name": "Psychic Energy", "set": "HS", "number": 119 }, { "count": 4, "name": "Call Energy", "set": "MD", "number": 92 }, { "count": 2, "name": "Warp Energy", "set": "SF", "number": 95 }] }
 
     },
     {
-        "firstName": "Callie Moore",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Callie Moore",
+        "flag": "CA",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/gardevoir.png',
-        sprite2: '../../../../assets/sprites/gallade.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": { "pokemon": [{ "count": 1, "name": "Gardevoir LV.X", "set": "SW", "number": 131 }, { "count": 3, "name": "Gardevoir", "set": "SW", "number": 7 }, { "count": 1, "name": "Gallade", "set": "SW", "number": 6 }, { "count": 2, "name": "Kirlia", "set": "PL", "number": 51 }, { "count": 4, "name": "Ralts", "set": "PL", "number": 89 }, { "count": 1, "name": "Machamp", "set": "SF", "number": 20 }, { "count": 1, "name": "Machop", "set": "SF", "number": 64 }, { "count": 1, "name": "Dusknoir", "set": "DP", "number": 2 }, { "count": 1, "name": "Dusclops", "set": "SF", "number": "34" }, { "count": 1, "name": "Duskull", "set": "SW", "number": 86 }, { "count": 1, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 1, "name": "Baltoy", "set": "SV", "number": 89 }, { "count": 3, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 1, "name": "Azelf LV.X", "set": "LA", "number": 140 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Unown G", "set": "GE", "number": 57 }], "trainer": [{ "count": 4, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 2, "name": "Looker's Investigation", "set": "PL", "number": 109 }, { "count": 1, "name": "Judge", "set": "UL", "number": 78 }, { "count": 1, "name": "Lucian's Assignment", "set": "RR", "number": "92" }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 1, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 2, "name": "Moonlight Stadium", "set": "GE", "number": 100 }], "energy": [{ "count": 5, "name": "Psychic Energy", "set": "HS", "number": 119 }, { "count": 1, "name": "Fighting Energy", "set": "HS", "number": 120 }, { "count": 4, "name": "Double Colorless Energy", "set": "HS", "number": 103 }, { "count": 3, "name": "Call Energy", "set": "MD", "number": 92 }] }
+        "sprite1": "gardevoir",
+        "sprite2": "gallade",
+"decklist": { "pokemon": [{ "count": 1, "name": "Gardevoir LV.X", "set": "SW", "number": 131 }, { "count": 3, "name": "Gardevoir", "set": "SW", "number": 7 }, { "count": 1, "name": "Gallade", "set": "SW", "number": 6 }, { "count": 2, "name": "Kirlia", "set": "PL", "number": 51 }, { "count": 4, "name": "Ralts", "set": "PL", "number": 89 }, { "count": 1, "name": "Machamp", "set": "SF", "number": 20 }, { "count": 1, "name": "Machop", "set": "SF", "number": 64 }, { "count": 1, "name": "Dusknoir", "set": "DP", "number": 2 }, { "count": 1, "name": "Dusclops", "set": "SF", "number": "34" }, { "count": 1, "name": "Duskull", "set": "SW", "number": 86 }, { "count": 1, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 1, "name": "Baltoy", "set": "SV", "number": 89 }, { "count": 3, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 1, "name": "Azelf LV.X", "set": "LA", "number": 140 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Unown G", "set": "GE", "number": 57 }], "trainer": [{ "count": 4, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 2, "name": "Looker's Investigation", "set": "PL", "number": 109 }, { "count": 1, "name": "Judge", "set": "UL", "number": 78 }, { "count": 1, "name": "Lucian's Assignment", "set": "RR", "number": "92" }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 1, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 2, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 2, "name": "Moonlight Stadium", "set": "GE", "number": 100 }], "energy": [{ "count": 5, "name": "Psychic Energy", "set": "HS", "number": 119 }, { "count": 1, "name": "Fighting Energy", "set": "HS", "number": 120 }, { "count": 4, "name": "Double Colorless Energy", "set": "HS", "number": 103 }, { "count": 3, "name": "Call Energy", "set": "MD", "number": 92 }] }
     },
     {
-        "firstName": "Guilly Mendoza",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Guilly Mendoza",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/gardevoir.png',
-        sprite2: '../../../../assets/sprites/gallade.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": { "pokemon": [{ "count": 1, "name": "Gardevoir LV.X", "set": "SW", "number": 131 }, { "count": 3, "name": "Gardevoir", "set": "SW", "number": 7 }, { "count": 1, "name": "Gallade", "set": "SW", "number": 6 }, { "count": 2, "name": "Kirlia", "set": "PL", "number": 51 }, { "count": 4, "name": "Ralts", "set": "PL", "number": 89 }, { "count": 1, "name": "Dusknoir", "set": "DP", "number": 2 }, { "count": 1, "name": "Dusclops", "set": "SF", "number": "34" }, { "count": 1, "name": "Duskull", "set": "SW", "number": 86 }, { "count": 1, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 1, "name": "Baltoy", "set": "SV", "number": 89 }, { "count": 3, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 1, "name": "Azelf LV.X", "set": "LA", "number": 140 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Nidoqueen", "set": "RR", "number": "30" }, { "count": 1, "name": "Nidoran ♀", "set": "RR", "number": "71" }, { "count": 1, "name": "Unown G", "set": "GE", "number": 57 }], "trainer": [{ "count": 4, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 3, "name": "Judge", "set": "UL", "number": 78 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 1, "name": "Pokémon Communication", "set": "HS", "number": "98" }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 3, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 2, "name": "Moonlight Stadium", "set": "GE", "number": 100 }], "energy": [{ "count": 5, "name": "Psychic Energy", "set": "HS", "number": 119 }, { "count": 4, "name": "Double Colorless Energy", "set": "HS", "number": 103 }, { "count": 4, "name": "Call Energy", "set": "MD", "number": 92 }] }
+        "sprite1": "gardevoir",
+        "sprite2": "gallade",
+"decklist": { "pokemon": [{ "count": 1, "name": "Gardevoir LV.X", "set": "SW", "number": 131 }, { "count": 3, "name": "Gardevoir", "set": "SW", "number": 7 }, { "count": 1, "name": "Gallade", "set": "SW", "number": 6 }, { "count": 2, "name": "Kirlia", "set": "PL", "number": 51 }, { "count": 4, "name": "Ralts", "set": "PL", "number": 89 }, { "count": 1, "name": "Dusknoir", "set": "DP", "number": 2 }, { "count": 1, "name": "Dusclops", "set": "SF", "number": "34" }, { "count": 1, "name": "Duskull", "set": "SW", "number": 86 }, { "count": 1, "name": "Claydol", "set": "GE", "number": 15 }, { "count": 1, "name": "Baltoy", "set": "SV", "number": 89 }, { "count": 3, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 1, "name": "Azelf LV.X", "set": "LA", "number": 140 }, { "count": 1, "name": "Azelf", "set": "LA", "number": 19 }, { "count": 1, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Nidoqueen", "set": "RR", "number": "30" }, { "count": 1, "name": "Nidoran ♀", "set": "RR", "number": "71" }, { "count": 1, "name": "Unown G", "set": "GE", "number": 57 }], "trainer": [{ "count": 4, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": 125 }, { "count": 3, "name": "Judge", "set": "UL", "number": 78 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 1, "name": "Pokémon Communication", "set": "HS", "number": "98" }, { "count": 1, "name": "Night Maintenance", "set": "MT", "number": 113 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }, { "count": 3, "name": "Expert Belt", "set": "AR", "number": 87 }, { "count": 2, "name": "Moonlight Stadium", "set": "GE", "number": 100 }], "energy": [{ "count": 5, "name": "Psychic Energy", "set": "HS", "number": 119 }, { "count": 4, "name": "Double Colorless Energy", "set": "HS", "number": 103 }, { "count": 4, "name": "Call Energy", "set": "MD", "number": 92 }] }
     },
     {
-        "firstName": "Christian McDaniel",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Christian McDaniel",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gengar.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {"pokemon":[{"count":1,"name":"Gengar LV.X","set":"AR","number":97},{"count":2,"name":"Gengar","set":"SF","number":18},{"count":1,"name":"Gengar","set":"AR","number":16},{"count":2,"name":"Haunter","set":"DP","number":50},{"count":3,"name":"Gastly","set":"SF","number":62},{"count":4,"name":"Spiritomb","set":"AR","number":32},{"count":2,"name":"Claydol","set":"GE","number":15},{"count":2,"name":"Baltoy","set":"GE","number":60},{"count":1,"name":"Nidoqueen","set":"RR","number":30},{"count":1,"name":"Nidorina","set":"MT","number":56},{"count":1,"name":"Nidoran ♀","set":"RR","number":71},{"count":1,"name":"Dusknoir","set":"DP","number":2},{"count":1,"name":"Duskull","set":"SF","number":"SH2"},{"count":1,"name":"Uxie","set":"LA","number":43},{"count":1,"name":"Azelf","set":"LA","number":19}],"trainer":[{"count":3,"name":"Judge","set":"UL","number":78},{"count":3,"name":"Roseanne's Research","set":"SW","number":125},{"count":2,"name":"Pokémon Collector","set":"HS","number":97},{"count":2,"name":"Bebe's Search","set":"SW","number":119},{"count":2,"name":"Felicity's Drawing","set":"GE","number":98},{"count":3,"name":"Rare Candy","set":"UL","number":82},{"count":2,"name":"Warp Point","set":"MD","number":88},{"count":2,"name":"Pokémon Communication","set":"HS","number":98},{"count":1,"name":"Night Maintenance","set":"MT","number":113},{"count":1,"name":"Luxury Ball","set":"SF","number":86},{"count":2,"name":"Expert Belt","set":"AR","number":87},{"count":2,"name":"Moonlight Stadium","set":"GE","number":100}],"energy":[{"count":5,"name":"Psychic Energy","set":"HS","number":119},{"count":4,"name":"Call Energy","set":"MD","number":92},{"count":2,"name":"Warp Energy","set":"SF","number":95}]}
+        "sprite1": "blank",
+        "sprite2": "gengar",
+"decklist": {"pokemon":[{"count":1,"name":"Gengar LV.X","set":"AR","number":97},{"count":2,"name":"Gengar","set":"SF","number":18},{"count":1,"name":"Gengar","set":"AR","number":16},{"count":2,"name":"Haunter","set":"DP","number":50},{"count":3,"name":"Gastly","set":"SF","number":62},{"count":4,"name":"Spiritomb","set":"AR","number":32},{"count":2,"name":"Claydol","set":"GE","number":15},{"count":2,"name":"Baltoy","set":"GE","number":60},{"count":1,"name":"Nidoqueen","set":"RR","number":30},{"count":1,"name":"Nidorina","set":"MT","number":56},{"count":1,"name":"Nidoran ♀","set":"RR","number":71},{"count":1,"name":"Dusknoir","set":"DP","number":2},{"count":1,"name":"Duskull","set":"SF","number":"SH2"},{"count":1,"name":"Uxie","set":"LA","number":43},{"count":1,"name":"Azelf","set":"LA","number":19}],"trainer":[{"count":3,"name":"Judge","set":"UL","number":78},{"count":3,"name":"Roseanne's Research","set":"SW","number":125},{"count":2,"name":"Pokémon Collector","set":"HS","number":97},{"count":2,"name":"Bebe's Search","set":"SW","number":119},{"count":2,"name":"Felicity's Drawing","set":"GE","number":98},{"count":3,"name":"Rare Candy","set":"UL","number":82},{"count":2,"name":"Warp Point","set":"MD","number":88},{"count":2,"name":"Pokémon Communication","set":"HS","number":98},{"count":1,"name":"Night Maintenance","set":"MT","number":113},{"count":1,"name":"Luxury Ball","set":"SF","number":86},{"count":2,"name":"Expert Belt","set":"AR","number":87},{"count":2,"name":"Moonlight Stadium","set":"GE","number":100}],"energy":[{"count":5,"name":"Psychic Energy","set":"HS","number":119},{"count":4,"name":"Call Energy","set":"MD","number":92},{"count":2,"name":"Warp Energy","set":"SF","number":95}]}
     },
     {
-        "firstName": "Shannon Williams",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Shannon Williams",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gyarados.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "gyarados",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Gyarados", "set": "SF", "number": "19" },
                 { "count": 4, "name": "Magikarp", "set": "SF", "number": "65" },
@@ -686,13 +663,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Kaleb Adams",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Kaleb Adams",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/arceus.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "arceus",
+"decklist": {
             "pokemon": [
                 {"count": 4, "name": "Arceus LV.X", "set": "AR", "number": "94"},
                 {"count": 1, "name": "Arceus LV.X", "set": "AR", "number": "96"},
@@ -733,13 +709,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Emmitt Silguero",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Emmitt Silguero",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/regigigas.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "regigigas",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Regigigas LV.X", "set": "SF", "number": "100" },
                 { "count": 2, "name": "Regigigas", "set": "PR-DP", "number": "DP40" },
@@ -778,13 +753,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Alex Espinosa",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Alex Espinosa",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/regigigas.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "regigigas",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Regigigas LV.X", "set": "SF", "number": "100" },
                 { "count": 2, "name": "Regigigas", "set": "PR-DP", "number": "DP40" },
@@ -823,13 +797,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jeremy Wang",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Jeremy Wang",
+        "flag": "CA",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/luxray.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "luxray",
+        "sprite2": "garchomp",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
                 { "count": 2, "name": "Luxray GL", "set": "RR", "number": "9" },
@@ -869,13 +842,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Travis Holler",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Travis Holler",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/luxray.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "luxray",
+        "sprite2": "garchomp",
+"decklist": {
             "pokemon": [
                 { "count": 1, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
                 { "count": 2, "name": "Luxray GL", "set": "RR", "number": "9" },
@@ -916,13 +888,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Val Kraemer",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Val Kraemer",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/luxray.png',
-        sprite2: '../../../../assets/sprites/garchomp.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "luxray",
+        "sprite2": "garchomp",
+"decklist": {
             "pokemon": [
                 { "count": 1, "name": "Luxray GL LV.X", "set": "RR", "number": "109" },
                 { "count": 2, "name": "Luxray GL", "set": "RR", "number": "9" },
@@ -965,13 +936,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Austin Waddle",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Austin Waddle",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/kingdra.png',
-        sprite2: '../../../../assets/sprites/donphan.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "kingdra",
+        "sprite2": "donphan",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Kingdra", "set": "UL", "number": "85" },
                 { "count": 1, "name": "Kingdra", "set": "LA", "number": "7" },
@@ -1006,13 +976,12 @@ let masters = [
         }
     },
     {
-        "firstName": "James Santaniello",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "James Santaniello",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/flygon.png',
-        sprite2: '../../../../assets/sprites/torterra.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "flygon",
+        "sprite2": "torterra",
+"decklist": {
             "pokemon": [
                 { "count": 1, "name": "Flygon LV.X", "set": "RR", "number": "105" },
                 { "count": 2, "name": "Flygon", "set": "RR", "number": "5" },
@@ -1052,12 +1021,11 @@ let masters = [
         }
     },
     {
-        "firstName": "Tony Hoang",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Tony Hoang",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2010)",
-        sprite1: '../../../../assets/sprites/abomasnow.png',
-        sprite2: '../../../../assets/sprites/ampharos.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": { "pokemon": [{ "count": 4, "name": "Abomasnow", "set": "SF", "number": 12 }, { "count": 4, "name": "Snover", "set": "SF", "number": 74 }, { "count": 3, "name": "Ampharos", "set": "PL", "number": 1 }, { "count": 2, "name": "Flaaffy", "set": "PL", "number": 48 }, { "count": 3, "name": "Mareep", "set": "PL", "number": 82 }, { "count": 4, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 2, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Chatot", "set": "MD", "number": 55 }, { "count": 1, "name": "Unown G", "set": "GE", "number": 57 }, { "count": 1, "name": "Unown Q", "set": "MD", "number": 49 }], "trainer": [{ "count": 4, "name": "Pokémon Collector", "set": "HS", "number": 97 }, { "count": 3, "name": "Cynthia's Feelings", "set": "LA", "number": 131 }, { "count": 3, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 2, "name": "Underground Expedition", "set": "RR", "number": 97 }, { "count": 1, "name": "Copycat", "set": "HS", "number": 90 }, { "count": 1, "name": "Judge", "set": "UL", "number": 78 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 2, "name": "Pokémon Communication", "set": "HS", "number": 98 }, { "count": 1, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }], "energy": [{ "count": 4, "name": "Water Energy", "set": "HS", "number": 117 }, { "count": 2, "name": "Lightning Energy", "set": "HS", "number": 118 }, { "count": 4, "name": "Double Colorless Energy", "set": "HS", "number": 103 }, { "count": 4, "name": "Call Energy", "set": "MD", "number": 92 }] }
+        "sprite1": "abomasnow",
+        "sprite2": "ampharos",
+"decklist": { "pokemon": [{ "count": 4, "name": "Abomasnow", "set": "SF", "number": 12 }, { "count": 4, "name": "Snover", "set": "SF", "number": 74 }, { "count": 3, "name": "Ampharos", "set": "PL", "number": 1 }, { "count": 2, "name": "Flaaffy", "set": "PL", "number": 48 }, { "count": 3, "name": "Mareep", "set": "PL", "number": 82 }, { "count": 4, "name": "Spiritomb", "set": "AR", "number": 32 }, { "count": 2, "name": "Uxie", "set": "LA", "number": 43 }, { "count": 1, "name": "Chatot", "set": "MD", "number": 55 }, { "count": 1, "name": "Unown G", "set": "GE", "number": 57 }, { "count": 1, "name": "Unown Q", "set": "MD", "number": 49 }], "trainer": [{ "count": 4, "name": "Pokémon Collector", "set": "HS", "number": 97 }, { "count": 3, "name": "Cynthia's Feelings", "set": "LA", "number": 131 }, { "count": 3, "name": "Bebe's Search", "set": "SW", "number": 119 }, { "count": 2, "name": "Underground Expedition", "set": "RR", "number": 97 }, { "count": 1, "name": "Copycat", "set": "HS", "number": 90 }, { "count": 1, "name": "Judge", "set": "UL", "number": 78 }, { "count": 3, "name": "Rare Candy", "set": "UL", "number": 82 }, { "count": 2, "name": "Pokémon Communication", "set": "HS", "number": 98 }, { "count": 1, "name": "Warp Point", "set": "MD", "number": 88 }, { "count": 1, "name": "Luxury Ball", "set": "SF", "number": 86 }], "energy": [{ "count": 4, "name": "Water Energy", "set": "HS", "number": 117 }, { "count": 2, "name": "Lightning Energy", "set": "HS", "number": 118 }, { "count": 4, "name": "Double Colorless Energy", "set": "HS", "number": 103 }, { "count": 4, "name": "Call Energy", "set": "MD", "number": 92 }] }
     },
 ]

@@ -61,7 +61,7 @@ function changeToFour() {
     fourList.style.display = 'block';
 }
 
-mastersBtn.addEventListener('click', changeToMasters)
-seniorsBtn.addEventListener('click', changeToSeniors)
-juniorsBtn.addEventListener('click', changeToJuniors)
-fourBtn.addEventListener('click', changeToFour)
+mastersBtn.addEventListener('click", changeToMasters)
+seniorsBtn.addEventListener('click", changeToSeniors)
+juniorsBtn.addEventListener('click", changeToJuniors)
+fourBtn.addEventListener('click", changeToFour)

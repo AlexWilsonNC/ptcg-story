@@ -1,13 +1,12 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Eskil Vestre",
-        flag: '../../../../assets/flags/norway.png',
+        "name": "Eskil Vestre",
+        "flag": "NO",
         // https://www.pojo.com/KillerDecks/2001/August2001/6/lm-Mighty%20Wall%20Of%20Steelix-Eskil%20Vestre-Sweden.htm
         "event": "2001 STS Qualifier (Sweden)",
-        sprite1: '../../../../assets/sprites/zapdos.png',
-        sprite2: '../../../../assets/sprites/steelix.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "zapdos",
+        "sprite2": "steelix",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Steelix", "number": "15", "set": "N1" },
                 { "count": 4, "name": "Onix", "number": "56", "set": "BS" },
@@ -34,14 +33,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Daniel Svensson",
-        flag: '../../../../assets/flags/sweden.png',
+        "name": "Daniel Svensson",
+        "flag": "SE",
         "event": "2001 STS Qualifier (Sweden)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/wigglytuff.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "wigglytuff",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -52,14 +49,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Steffen From",
-        flag: '../../../../assets/flags/denmark.png',
+        "name": "Steffen From",
+        "flag": "DK",
         "event": "2001 STS Qualifier (Sweden)",
-        sprite1: '../../../../assets/sprites/blastoise.png',
-        sprite2: '../../../../assets/sprites/feraligatr.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blastoise",
+        "sprite2": "feraligatr",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -70,14 +65,12 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "name": "--",
+        "flag": "unknown",
         "event": "2001 STS Qualifier (Sweden)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [

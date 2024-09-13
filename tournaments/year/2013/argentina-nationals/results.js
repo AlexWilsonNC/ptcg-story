@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Dante Lenell",
-      flag: '../../../../assets/flags/argentina.png',
+      "name": "Dante Lenell",
+      "flag": "AR",
       "event": "2013 Argentina National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Bruno Martin",
-      flag: '../../../../assets/flags/argentina.png',
+      "name": "Bruno Martin",
+      "flag": "AR",
       "event": "2013 Argentina National Championships",
-      sprite1: '../../../../assets/sprites/keldeo-resolute.png',
-      sprite2: '../../../../assets/sprites/blastoise.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "keldeo-resolute",
+      sprite2: '../../../../assets/sprites/blastoise",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Tomas Sainz",
-      flag: '../../../../assets/flags/argentina.png',
+      "name": "Tomas Sainz",
+      "flag": "AR",
       "event": "2013 Argentina National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/darkrai.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/darkrai",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Nicolas Gonzalez",
-      flag: '../../../../assets/flags/argentina.png',
+      "name": "Nicolas Gonzalez",
+      "flag": "AR",
       "event": "2013 Argentina National Championships",
-      sprite1: '../../../../assets/sprites/landorus-therian.png',
-      sprite2: '../../../../assets/sprites/garbodor.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "landorus-therian",
+      sprite2: '../../../../assets/sprites/garbodor",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -80,13 +76,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Marcos Urquijo",
-      flag: '../../../../assets/flags/argentina.png',
+      "name": "Marcos Urquijo",
+      "flag": "AR",
       "event": "2013 Argentina National Championships",
-      sprite1: '../../../../assets/sprites/landorus-therian.png',
-      sprite2: '../../../../assets/sprites/garbodor.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "landorus-therian",
+      sprite2: '../../../../assets/sprites/garbodor",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -100,13 +95,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Juan Ignacio Affre",
-      flag: '../../../../assets/flags/argentina.png',
+      "name": "Juan Ignacio Affre",
+      "flag": "AR",
       "event": "2013 Argentina National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/darkrai.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/darkrai",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -120,13 +114,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Agostina Fassio",
-      flag: '../../../../assets/flags/argentina.png',
+      "name": "Agostina Fassio",
+      "flag": "AR",
       "event": "2013 Argentina National Championships",
-      sprite1: '../../../../assets/sprites/keldeo-resolute.png',
-      sprite2: '../../../../assets/sprites/blastoise.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "keldeo-resolute",
+      sprite2: '../../../../assets/sprites/blastoise",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -140,13 +133,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Julian Astolfo",
-      flag: '../../../../assets/flags/argentina.png',
+      "name": "Julian Astolfo",
+      "flag": "AR",
       "event": "2013 Argentina National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/klinklang.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/klinklang",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

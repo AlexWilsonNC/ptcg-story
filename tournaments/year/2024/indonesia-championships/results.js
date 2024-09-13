@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Darwin Rasubala",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Darwin Rasubala",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/comfey.png',
-        sprite2: '../../../../assets/sprites/roaring-moon.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "comfey",
+        "sprite2": "roaring-moon",
+"decklist": {
             "pokemon": [
                 {"count": 4, "name": "Comfey", "set": "LOR", "number": "79"},
                 {"count": 1, "name": "Sableye", "set": "LOR", "number": "70"},
@@ -46,13 +45,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Said Azmi",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Said Azmi",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/chien-pao.png',
-        sprite2: '../../../../assets/sprites/baxcalibur.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "chien-pao",
+        "sprite2": "baxcalibur",
+"decklist": {
             "pokemon": [
                 {"count": 3, "name": "Chien-Pao ex", "set": "PAL", "number": "61"},
                 {"count": 3, "name": "Baxcalibur", "set": "PAL", "number": "60"},
@@ -89,13 +87,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Angga Fachrurrozi",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Angga Fachrurrozi",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/pidgeot.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "pidgeot",
+"decklist": {
             "pokemon": [
                 {"count": 4, "name": "Charmander", "set": "OBF", "number": "26"},
                 {"count": 3, "name": "Charizard ex", "set": "PAF", "number": "54"},
@@ -137,13 +134,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Anggie Tjakra",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Anggie Tjakra",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/chien-pao.png',
-        sprite2: '../../../../assets/sprites/baxcalibur.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "chien-pao",
+        "sprite2": "baxcalibur",
+"decklist": {
             "pokemon": [
                 {"count": 2, "name": "Chien-Pao ex", "set": "PAL", "number": "61"},
                 {"count": 2, "name": "Baxcalibur", "set": "PAL", "number": "60"},
@@ -180,13 +176,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Rafli Attar Ricco",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Rafli Attar Ricco",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/bibarel.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "bibarel",
+"decklist": {
             "pokemon": [
                 {"count": 4, "name": "Charmander", "set": "OBF", "number": "26"},
                 {"count": 3, "name": "Charizard ex", "set": "PAF", "number": "54"},
@@ -225,13 +220,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Christian",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Christian",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/bibarel.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "bibarel",
+"decklist": {
             "pokemon": [
                 {"count": 4, "name": "Charmander", "set": "OBF", "number": "26"},
                 {"count": 3, "name": "Charizard ex", "set": "PAF", "number": "54"},
@@ -270,13 +264,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Audityo Pramudya Mulyo",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Audityo Pramudya Mulyo",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/giratina-origin.png',
-        sprite2: '../../../../assets/sprites/comfey.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "giratina-origin",
+        "sprite2": "comfey",
+"decklist": {
             "pokemon": [
                 {"count": 4, "name": "Comfey", "set": "LOR", "number": "79"},
                 {"count": 3, "name": "Giratina V", "set": "LOR", "number": "130"},
@@ -313,13 +306,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Cai",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Cai",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/pidgeot.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "pidgeot",
+"decklist": {
             "pokemon": [
                 {"count": 4, "name": "Charmander", "set": "OBF", "number": "26"},
                 {"count": 3, "name": "Charizard ex", "set": "PAF", "number": "54"},
@@ -363,13 +355,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Alexander Kusumapradja",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Alexander Kusumapradja",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/archeops.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "lugia",
+        "sprite2": "archeops",
+"decklist": {
             "pokemon": [
                 {"count": 3, "name": "Minccino", "set": "BRS", "number": "124"},
                 {"count": 4, "name": "Archeops", "set": "SIT", "number": "147"},
@@ -401,13 +392,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Muhamad Adystia Nugraha",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Muhamad Adystia Nugraha",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/espathra.png',
-        sprite2: '../../../../assets/sprites/xatu.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "espathra",
+        "sprite2": "xatu",
+"decklist": {
             "pokemon": [
                 {"count": 3, "name": "Espathra ex", "set": "PAF", "number": "6"},
                 {"count": 3, "name": "Xatu", "set": "PAR", "number": "72"},
@@ -443,13 +433,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Terry Hilario",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Terry Hilario",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/comfey.png',
-        sprite2: '../../../../assets/sprites/roaring-moon.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "comfey",
+        "sprite2": "roaring-moon",
+"decklist": {
             "pokemon": [
                 {"count": 4, "name": "Comfey", "set": "LOR", "number": "79"},
                 {"count": 1, "name": "Sableye", "set": "LOR", "number": "70"},
@@ -489,13 +478,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Cedriec",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Cedriec",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/pidgeot.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "pidgeot",
+"decklist": {
             "pokemon": [
                 {"count": 3, "name": "Charizard ex", "set": "PAF", "number": "54"},
                 {"count": 2, "name": "Charmeleon", "set": "PAF", "number": "8"},
@@ -537,13 +525,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Ilyyas Sukmadjarna",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Ilyyas Sukmadjarna",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/archeops.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "lugia",
+        "sprite2": "archeops",
+"decklist": {
             "pokemon": [
                 {"count": 3, "name": "Lugia VSTAR", "set": "SIT", "number": "139"},
                 {"count": 3, "name": "Lugia V", "set": "SIT", "number": "138"},
@@ -578,13 +565,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jonathan",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Jonathan",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/archeops.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "lugia",
+        "sprite2": "archeops",
+"decklist": {
             "pokemon": [
                 {"count": 3, "name": "Lugia VSTAR", "set": "SIT", "number": "139"},
                 {"count": 3, "name": "Lugia V", "set": "SIT", "number": "138"},
@@ -619,13 +605,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Effendy Sanjaya",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Effendy Sanjaya",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/bibarel.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "bibarel",
+"decklist": {
             "pokemon": [
                 {"count": 3, "name": "Charizard ex", "set": "PAF", "number": "54"},
                 {"count": 1, "name": "Charmeleon", "set": "PAF", "number": "8"},
@@ -667,13 +652,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Paskalis Paskal",
-        flag: '../../../../assets/flags/indonesia.png',
+        "name": "Paskalis Paskal",
+        "flag": "ID",
         "event": "2024 Indonesia Championships",
-        sprite1: '../../../../assets/sprites/roaring-moon.png',
-        sprite2: '../../../../assets/sprites/dudunsparce.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "roaring-moon",
+        "sprite2": "dudunsparce",
+"decklist": {
             "pokemon": [
                 {"count": 4, "name": "Roaring Moon", "set": "TEF", "number": "109"},
                 {"count": 3, "name": "Roaring Moon ex", "set": "PAR", "number": "124"},

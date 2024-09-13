@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Mauro S",
-        flag: '../../../../assets/flags/argentina.png',
+        "name": "Mauro S",
+        "flag": "AR",
         "event": "2013 Argentina National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/darkrai.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "darkrai",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -20,14 +18,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Victor S.F.",
-        flag: '../../../../assets/flags/argentina.png',
+        "name": "Victor S.F.",
+        "flag": "AR",
         "event": "2013 Argentina National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/landorus-therian.png',
-        sprite2: '../../../../assets/sprites/garbodor.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "landorus-therian",
+        "sprite2": "garbodor",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -40,14 +36,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Gabriel C",
-        flag: '../../../../assets/flags/argentina.png',
+        "name": "Gabriel C",
+        "flag": "AR",
         "event": "2013 Argentina National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -60,14 +54,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Tomas B",
-        flag: '../../../../assets/flags/argentina.png',
+        "name": "Tomas B",
+        "flag": "AR",
         "event": "2013 Argentina National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/darkrai.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "darkrai",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],

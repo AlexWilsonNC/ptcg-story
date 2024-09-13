@@ -1,4 +1,4 @@
-let masters = [
+"masters": [
     {
         "name": "Tord Reklev",
         "flag": "NO",
@@ -9387,7 +9387,7 @@ let masters = [
     }
 ]
 
-let seniors = [
+"seniors": [
     {
         "name": "gabriel f.",
         "flag": "BR",
@@ -9713,7 +9713,7 @@ let seniors = [
     },
     {
         "name": "Justin Templer",
-        flag: 'US',
+        "flag": "US",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -9729,7 +9729,7 @@ let seniors = [
     },
     {
         "name": "Kamil Bidzinski",
-        flag: 'CA',
+        "flag": "CA",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -9745,7 +9745,7 @@ let seniors = [
     },
     {
         "name": "Oliver Hanns",
-        flag: 'AU',
+        "flag": "AU",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -9761,7 +9761,7 @@ let seniors = [
     },
     {
         "name": "Luka Levain",
-        flag: 'FR',
+        "flag": "FR",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -9777,7 +9777,7 @@ let seniors = [
     },
     {
         "name": "Tristan Tse",
-        flag: 'CA',
+        "flag": "CA",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -9793,7 +9793,7 @@ let seniors = [
     },
     {
         "name": "Daniel Magda",
-        flag: 'CZ',
+        "flag": "CZ",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -9809,7 +9809,7 @@ let seniors = [
     },
     {
         "name": "Zubin Schweitzer",
-        flag: 'UK',
+        "flag": "UK",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -9825,7 +9825,7 @@ let seniors = [
     },
     {
         "name": "Martin Erlandsson",
-        flag: 'US',
+        "flag": "US",
         "event": "2024 EUIC",
         "decklist": {
             "pokemon": [
@@ -9864,7 +9864,7 @@ let seniors = [
     },
 ]
 
-let juniors = [
+"juniors": [
     {
         "name": "Yohann C.",
         "flag": "CA",
@@ -10195,7 +10195,7 @@ let juniors = [
     },
     {
         "name": "Sebastian L",
-        flag: 'NZ',
+        "flag": "NZ",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -10211,7 +10211,7 @@ let juniors = [
     },
     {
         "name": "Pyettra S",
-        flag: 'BR',
+        "flag": "BR",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -10227,7 +10227,7 @@ let juniors = [
     },
     {
         "name": "Flavio F",
-        flag: 'IT',
+        "flag": "IT",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -10243,7 +10243,7 @@ let juniors = [
     },
     {
         "name": "Mattia B",
-        flag: 'CH',
+        "flag": "CH",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -10259,7 +10259,7 @@ let juniors = [
     },
     {
         "name": "Marcelo R",
-        flag: 'BR',
+        "flag": "BR",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -10275,7 +10275,7 @@ let juniors = [
     },
     {
         "name": "Henry C",
-        flag: 'US',
+        "flag": "US",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -10291,7 +10291,7 @@ let juniors = [
     },
     {
         "name": "Zelda Z",
-        flag: 'US',
+        "flag": "US",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [
@@ -10307,7 +10307,7 @@ let juniors = [
     },
     {
         "name": "Mateusz S",
-        "flag": 'PL',
+        "flag": "PL",
         "event": "2024 EUIC",
         // "decklist": {
         //     "pokemon": [

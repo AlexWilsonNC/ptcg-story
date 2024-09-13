@@ -48,6 +48,6 @@ function changeToJuniors() {
     juniorsMeta.style.display = 'flex';
 }
 
-mastersBtn.addEventListener('click', changeToMasters)
-seniorsBtn.addEventListener('click', changeToSeniors)
-juniorsBtn.addEventListener('click', changeToJuniors)
+mastersBtn.addEventListener('click", changeToMasters)
+seniorsBtn.addEventListener('click", changeToSeniors)
+juniorsBtn.addEventListener('click", changeToJuniors)

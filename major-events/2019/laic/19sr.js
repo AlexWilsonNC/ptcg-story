@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Christian Moreno',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/buzzwole.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Christian Moreno",
+      "flag": "US",
+      "sprite1": "buzzwole",
+      "sprite2": "lycanroc-midnight",
+       
       deckid: "buzzwole-gx",
       event: "2019 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -62,7 +62,7 @@ let masters = [
             "name": "Marshadow",
             "number": "45",
             "set": "SLG"
-          },
+          }
         ],
         "trainer": [
           {
@@ -136,7 +136,7 @@ let masters = [
             "name": "Brooklet Hill",
             "number": "120",
             "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -161,14 +161,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Daniel Rosas',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/blacephalon.png',
-      sprite2: '../../../assets/sprites/naganadel.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Daniel Rosas",
+      "flag": "US",
+      "sprite1": "blacephalon",
+      "sprite2": "naganadel",
+       
       deckid: "blacephalon-naganadel",
       event: "2019 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -199,7 +199,7 @@ let masters = [
             "name": "Marshadow",
             "number": "45",
             "set": "SLG"
-          },
+          }
         ],
         "trainer": [
           {
@@ -279,7 +279,7 @@ let masters = [
               "name": "Heat Factory ♢",
               "number": "178",
               "set": "LOT"
-            },
+            }
         ],
         "energy": [
           {
@@ -298,14 +298,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Pedro Pertusi',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/decidueye.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Pedro Pertusi",
+      "flag": "BR",
+      "sprite1": "zoroark",
+      "sprite2": "decidueye",
+       
       deckid: "zoroark-decidueye",
       event: "2019 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -360,7 +360,7 @@ let masters = [
               "name": "Ditto ♢",
               "number": "154",
               "set": "LOT"
-          },
+          }
         ],
         "trainer": [
           {
@@ -452,7 +452,7 @@ let masters = [
               "name": "Counter Gain",
               "number": "170",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -477,14 +477,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Isaiah Bradner',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/buzzwole.png',
-      sprite2: '../../../assets/sprites/ninetales-alola.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Isaiah Bradner",
+      "flag": "US",
+      "sprite1": "buzzwole",
+      "sprite2": "ninetales-alola",
+       
       deckid: "buzzwole-gx",
       event: "2019 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -527,7 +527,7 @@ let masters = [
             "name": "Marshadow",
             "number": "45",
             "set": "SLG"
-          },
+          }
         ],
         "trainer": [
           {
@@ -607,7 +607,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
         ],
         "energy": [
           {
@@ -632,14 +632,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Alexandre Solé',
-      flag: '../../../assets/flags/belgium.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/oranguru.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Alexandre Solé",
+      "flag": "BE",
+      "sprite1": "zoroark",
+      "sprite2": "oranguru",
+       
       deckid: "zoroark-control",
       event: "2019 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -700,7 +700,7 @@ let masters = [
             "name": "Ditto ♢",
             "number": "154",
             "set": "LOT"
-        },
+        }
         ],
         "trainer": [
           {
@@ -810,7 +810,7 @@ let masters = [
               "name": "Mount Coronet",
               "number": "130",
               "set": "UPR"
-          },
+          }
         ],
         "energy": [
           {
@@ -829,14 +829,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Henrick Martins',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/passimian.png',
-      sprite2: '../../../assets/sprites/tapu-koko.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Henrick Martins",
+      "flag": "BR",
+      "sprite1": "passimian",
+      "sprite2": "tapu-koko",
+       
       deckid: "passimian",
       event: "2019 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -885,7 +885,7 @@ let masters = [
             "name": "Blitzle",
             "number": "81",
             "set": "LOT"
-          },
+          }
         ],
         "trainer": [
           {
@@ -959,7 +959,7 @@ let masters = [
               "name": "Shrine of Punishment",
               "number": "143",
               "set": "CES"
-          },
+          }
         ],
         "energy": [
           {
@@ -978,14 +978,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Evan Smith',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Evan Smith",
+      "flag": "US",
+      "sprite1": "zoroark",
+      "sprite2": "lycanroc-midnight",
+       
       deckid: "zoroark-lycanroc",
       event: "2019 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1040,7 +1040,7 @@ let masters = [
              "name": "Oranguru",
              "number": "114",
              "set": "UPR"
-         },
+         }
         ],
         "trainer": [
           {
@@ -1144,7 +1144,7 @@ let masters = [
             "name": "Lysandre Labs",
             "number": "111",
             "set": "FLI"
-        },
+        }
         ],
         "energy": [
           {
@@ -1163,14 +1163,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Brady Guy',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Brady Guy",
+      "flag": "US",
+      "sprite1": "zoroark",
+      "sprite2": "lycanroc-midnight",
+       
       deckid: "zoroark-lycanroc",
       event: "2019 Latin America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1231,7 +1231,7 @@ let masters = [
              "name": "Ditto ♢",
              "number": "154",
              "set": "LOT"
-         },
+         }
         ],
         "trainer": [
           {
@@ -1323,7 +1323,7 @@ let masters = [
               "name": "Devoured Field",
               "number": "93",
               "set": "CIN"
-          },
+          }
         ],
         "energy": [
           {

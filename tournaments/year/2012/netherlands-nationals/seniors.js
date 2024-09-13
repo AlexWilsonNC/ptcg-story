@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Felix de J",
-        flag: '../../../../assets/flags/netherlands.png',
+        "name": "Felix de J",
+        "flag": "NL",
         "event": "2012 Netherlands National Championships",
-        sprite1: '../../../../assets/sprites/zekrom.png',
-        sprite2: '../../../../assets/sprites/eelektrik.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "zekrom",
+        "sprite2": "eelektrik",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -20,14 +18,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Bryan de Vries",
-        flag: '../../../../assets/flags/netherlands.png',
+        "name": "Bryan de Vries",
+        "flag": "NL",
         "event": "2012 Netherlands National Championships",
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/tornadus.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "darkrai",
+        "sprite2": "tornadus",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -40,14 +36,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Olaf B",
-        flag: '../../../../assets/flags/netherlands.png',
+        "name": "Olaf B",
+        "flag": "NL",
         "event": "2012 Netherlands National Championships",
-        sprite1: '../../../../assets/sprites/zekrom.png',
-        sprite2: '../../../../assets/sprites/eelektrik.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "zekrom",
+        "sprite2": "eelektrik",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -60,14 +54,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Dany P",
-        flag: '../../../../assets/flags/netherlands.png',
+        "name": "Dany P",
+        "flag": "NL",
         "event": "2012 Netherlands National Championships",
-        sprite1: '../../../../assets/sprites/celebi.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "celebi",
+        "sprite2": "mewtwo",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -80,14 +72,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Melchior H",
-        flag: '../../../../assets/flags/netherlands.png',
+        "name": "Melchior H",
+        "flag": "NL",
         "event": "2012 Netherlands National Championships",
-        sprite1: '../../../../assets/sprites/celebi.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "celebi",
+        "sprite2": "mewtwo",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -100,14 +90,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Cedric",
-        flag: '../../../../assets/flags/netherlands.png',
+        "name": "Cedric",
+        "flag": "NL",
         "event": "2012 Netherlands National Championships",
-        sprite1: '../../../../assets/sprites/empoleon.png',
-        sprite2: '../../../../assets/sprites/terrakion.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "empoleon",
+        "sprite2": "terrakion",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -120,14 +108,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jip S",
-        flag: '../../../../assets/flags/netherlands.png',
+        "name": "Jip S",
+        "flag": "NL",
         "event": "2012 Netherlands National Championships",
-        sprite1: '../../../../assets/sprites/celebi.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "celebi",
+        "sprite2": "mewtwo",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -140,14 +126,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Thomas",
-        flag: '../../../../assets/flags/netherlands.png',
+        "name": "Thomas",
+        "flag": "NL",
         "event": "2012 Netherlands National Championships",
-        sprite1: '../../../../assets/sprites/donphan.png',
-        sprite2: '../../../../assets/sprites/yanmega.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "donphan",
+        "sprite2": "yanmega",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],

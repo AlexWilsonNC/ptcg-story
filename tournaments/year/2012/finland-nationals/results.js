@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Esa Juntunen",
-        flag: '../../../../assets/flags/finland.png',
+        "name": "Esa Juntunen",
+        "flag": "FI",
         "event": "2012 Finland National Championships",
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/sableye.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "darkrai",
+        "sprite2": "sableye",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -20,14 +18,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Santtu K",
-        flag: '../../../../assets/flags/finland.png',
+        "name": "Santtu K",
+        "flag": "FI",
         "event": "2012 Finland National Championships",
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "darkrai",
+        "sprite2": "mewtwo",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -40,14 +36,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jouni L",
-        flag: '../../../../assets/flags/finland.png',
+        "name": "Jouni L",
+        "flag": "FI",
         "event": "2012 Finland National Championships",
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "darkrai",
+        "sprite2": "mewtwo",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -60,14 +54,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Kumis K",
-        flag: '../../../../assets/flags/finland.png',
+        "name": "Kumis K",
+        "flag": "FI",
         "event": "2012 Finland National Championships",
-        sprite1: '../../../../assets/sprites/mismagius.png',
-        sprite2: '../../../../assets/sprites/vileplume.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "mismagius",
+        "sprite2": "vileplume",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -80,14 +72,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Miska Saari",
-        flag: '../../../../assets/flags/finland.png',
+        "name": "Miska Saari",
+        "flag": "FI",
         "event": "2012 Finland National Championships",
-        sprite1: '../../../../assets/sprites/mewtwo.png',
-        sprite2: '../../../../assets/sprites/eelektrik.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "mewtwo",
+        "sprite2": "eelektrik",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -100,14 +90,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Ville L",
-        flag: '../../../../assets/flags/finland.png',
+        "name": "Ville L",
+        "flag": "FI",
         "event": "2012 Finland National Championships",
-        sprite1: '../../../../assets/sprites/celebi.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "celebi",
+        "sprite2": "mewtwo",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -120,14 +108,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Joni",
-        flag: '../../../../assets/flags/finland.png',
+        "name": "Joni",
+        "flag": "FI",
         "event": "2012 Finland National Championships",
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/mewtwo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "darkrai",
+        "sprite2": "mewtwo",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -140,14 +126,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Patrik R",
-        flag: '../../../../assets/flags/finland.png',
+        "name": "Patrik R",
+        "flag": "FI",
         "event": "2012 Finland National Championships",
-        sprite1: '../../../../assets/sprites/zoroark.png',
-        sprite2: '../../../../assets/sprites/weavile.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "zoroark",
+        "sprite2": "weavile",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],

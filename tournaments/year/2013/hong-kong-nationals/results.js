@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Wong Man Tsung",
-      flag: '../../../../assets/flags/hong-kong.png',
+      "name": "Wong Man Tsung",
+      "flag": "HK",
       "event": "2013 Hong Kong National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Wai Kit Lam",
-      flag: '../../../../assets/flags/hong-kong.png',
+      "name": "Wai Kit Lam",
+      "flag": "HK",
       "event": "2013 Hong Kong National Championships",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/darkrai.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/darkrai",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Timoth Chau",
-      flag: '../../../../assets/flags/hong-kong.png',
+      "name": "Timoth Chau",
+      "flag": "HK",
       "event": "2013 Hong Kong National Championships",
-      sprite1: '../../../../assets/sprites/rayquaza.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "rayquaza",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Wong Wo Pan",
-      flag: '../../../../assets/flags/hong-kong.png',
+      "name": "Wong Wo Pan",
+      "flag": "HK",
       "event": "2013 Hong Kong National Championships",
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

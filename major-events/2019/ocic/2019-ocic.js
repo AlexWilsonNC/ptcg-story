@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
   {
-    firstName: 'Isaiah Williams',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/zapdos.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Isaiah Williams",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "zapdos",
+     
     event: "2019 Oceania Internationals",
     deckid: "zapdos",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -44,7 +44,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -136,7 +136,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -144,19 +144,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Stéphane Ivanoff',
-    flag: '../../../assets/flags/france.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Stéphane Ivanoff",
+    "flag": "FR",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+     
     event: "2019 Oceania Internationals",
     deckid: "zoroark-lycanroc",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -223,7 +223,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -315,7 +315,7 @@ let masters = [
           "name": "Wondrous Labyrinth ♢",
           "number": "158",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -329,19 +329,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Kaiwen Cabbabe',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Kaiwen Cabbabe",
+    "flag": "AU",
+    "sprite1": "zapdos",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -408,7 +408,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -500,7 +500,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -508,19 +508,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Jose Marrero',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Jose Marrero",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -581,7 +581,7 @@ let masters = [
           "name": "Oranguru",
           "number": "113",
           "set": "SUM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -667,7 +667,7 @@ let masters = [
           "name": "Wondrous Labyrinth ♢",
           "number": "158",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -675,19 +675,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Bert Wolters',
-    flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/buzzwole.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Bert Wolters",
+    "flag": "NL",
+    "sprite1": "zapdos",
+    "sprite2": "buzzwole",
+     
     event: "2019 Oceania Internationals",
     deckid: "zap-beasts",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -742,7 +742,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -822,7 +822,7 @@ let masters = [
           "name": "Shrine of Punishment",
           "number": "143",
           "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -842,19 +842,19 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Lucas Pereira',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Lucas Pereira",
+    "flag": "BR",
+    "sprite1": "zapdos",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -909,7 +909,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -995,7 +995,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -1003,19 +1003,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Henry Brand',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Henry Brand",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+     
     event: "2019 Oceania Internationals",
     deckid: "zoroark-lycanroc",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1076,7 +1076,7 @@ let masters = [
           "name": "Giratina",
           "number": "97",
           "set": "LOT"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1180,7 +1180,7 @@ let masters = [
           "name": "Devoured Field",
           "number": "93",
           "set": "CIN"
-        },
+        }
       ],
       "energy": [
         {
@@ -1200,19 +1200,19 @@ let masters = [
           "name": "Rainbow Energy",
           "number": "151",
           "set": "CES"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Daniel Altavilla',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/zapdos.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Daniel Altavilla",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "zapdos",
+     
     event: "2019 Oceania Internationals",
     deckid: "zapdos",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1249,7 +1249,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1341,7 +1341,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -1349,19 +1349,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Christian Hasbani',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Christian Hasbani",
+    "flag": "AU",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1404,7 +1404,7 @@ let masters = [
           "name": "Tapu Lele GX",
           "number": "60",
           "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1478,7 +1478,7 @@ let masters = [
           "name": "Viridian Forest",
           "number": "156",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -1498,19 +1498,19 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Robin Schulz',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/buzzwole.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Robin Schulz",
+    "flag": "DE",
+    "sprite1": "zapdos",
+    "sprite2": "buzzwole",
+     
     event: "2019 Oceania Internationals",
     deckid: "zap-beasts",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1565,7 +1565,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1645,7 +1645,7 @@ let masters = [
           "name": "Shrine of Punishment",
           "number": "143",
           "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -1665,19 +1665,19 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Azul Griego',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/zapdos.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Azul Griego",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "zapdos",
+     
     event: "2019 Oceania Internationals",
     deckid: "zapdos",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1714,7 +1714,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1806,7 +1806,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -1814,19 +1814,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Rahul Reddy',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Rahul Reddy",
+    "flag": "US",
+    "sprite1": "zapdos",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1875,7 +1875,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1961,7 +1961,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -1969,19 +1969,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Sam Chen',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Sam Chen",
+    "flag": "US",
+    "sprite1": "zapdos",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -2030,7 +2030,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2116,7 +2116,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -2124,19 +2124,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Karl Peters',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Karl Peters",
+    "flag": "DE",
+    "sprite1": "zapdos",
+    "sprite2": "lycanroc-midnight",
+     
     event: "2019 Oceania Internationals",
     deckid: "zapdos",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -2185,7 +2185,7 @@ let masters = [
           "name": "Wobbuffet",
           "number": "93",
           "set": "LOT"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2271,7 +2271,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -2285,19 +2285,19 @@ let masters = [
           "name": "Fighting Energy",
           "number": "fighting",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Jordan Palmer',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Jordan Palmer",
+    "flag": "AU",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -2340,7 +2340,7 @@ let masters = [
           "name": "Tapu Lele GX",
           "number": "60",
           "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2414,7 +2414,7 @@ let masters = [
           "name": "Viridian Forest",
           "number": "156",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -2434,19 +2434,19 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Andrew Tandianus',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Andrew Tandianus",
+    "flag": "AU",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -2489,7 +2489,7 @@ let masters = [
           "name": "Tapu Koko",
           "number": "31",
           "set": "PR-SM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2575,7 +2575,7 @@ let masters = [
           "name": "Viridian Forest",
           "number": "156",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -2595,28 +2595,28 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Bastian Silva',
-    flag: '../../../assets/flags/chile.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    "name": "Bastian Silva",
+    "flag": "CL",
+    "sprite1": "zapdos",
+    "sprite2": "pikachu-zekrom-tagteam",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
     deckid: "pikarom",
   },
   {
-    firstName: 'Bryan de Vries',
-    flag: '../../../assets/flags/france.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/buzzwole.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Bryan de Vries",
+    "flag": "FR",
+    "sprite1": "zapdos",
+    "sprite2": "buzzwole",
+     
     event: "2019 Oceania Internationals",
     deckid: "zap-beasts",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -2671,7 +2671,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2751,7 +2751,7 @@ let masters = [
           "name": "Shrine of Punishment",
           "number": "143",
           "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -2771,19 +2771,19 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Otavio Gouveia',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Otavio Gouveia",
+    "flag": "BR",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -2826,7 +2826,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2900,7 +2900,7 @@ let masters = [
           "name": "Viridian Forest",
           "number": "156",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -2920,19 +2920,19 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Alex Silva',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Alex Silva",
+    "flag": "BR",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -2981,7 +2981,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3055,7 +3055,7 @@ let masters = [
           "name": "Viridian Forest",
           "number": "156",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -3075,19 +3075,19 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: "Darin O'Meara",
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Darin O'Meara",
+    "flag": "US",
+    "sprite1": "malamar",
+    "sprite2": "necrozma",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -3154,7 +3154,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3216,7 +3216,7 @@ let masters = [
           "name": "Escape Board",
           "number": "122",
           "set": "UPR"
-        },
+        }
       ],
       "energy": [
         {
@@ -3224,19 +3224,19 @@ let masters = [
           "name": "Psychic Energy",
           "number": "psychic",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Pedro Torres',
-    flag: '../../../assets/flags/spain.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Pedro Torres",
+    "flag": "ES",
+    "sprite1": "zapdos",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -3285,7 +3285,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3371,7 +3371,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -3379,19 +3379,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Max Prescott',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Max Prescott",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+     
     event: "2019 Oceania Internationals",
     deckid: "zoroark-lycanroc",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -3446,7 +3446,7 @@ let masters = [
           "name": "Ditto ♢",
           "number": "154",
           "set": "LOT"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3526,7 +3526,7 @@ let masters = [
           "name": "Devoured Field",
           "number": "93",
           "set": "CIN"
-        },
+        }
       ],
       "energy": [
         {
@@ -3540,19 +3540,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Preston Ellis',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Preston Ellis",
+    "flag": "US",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+     
     event: "2019 Oceania Internationals",
     deckid: "zoroark-lycanroc",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -3631,7 +3631,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3747,7 +3747,7 @@ let masters = [
           "name": "Black Market ♢",
           "number": "134",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -3761,19 +3761,19 @@ let masters = [
           "name": "Unit Energy DFY",
           "number": "118",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'James Williams',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "James Williams",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -3822,7 +3822,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3896,7 +3896,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -3904,19 +3904,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Nicolas Galaz',
-    flag: '../../../assets/flags/chile.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Nicolas Galaz",
+    "flag": "CL",
+    "sprite1": "zapdos",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -3965,7 +3965,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4051,7 +4051,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -4059,19 +4059,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Fabien Pujol',
-    flag: '../../../assets/flags/france.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Fabien Pujol",
+    "flag": "FR",
+    "sprite1": "zapdos",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -4120,7 +4120,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4206,7 +4206,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -4214,19 +4214,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Joshua Sparks',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/buzzwole.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Joshua Sparks",
+    "flag": "AU",
+    "sprite1": "zapdos",
+    "sprite2": "buzzwole",
+     
     event: "2019 Oceania Internationals",
     deckid: "zap-beasts",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -4257,7 +4257,7 @@ let masters = [
           "name": "Diancie ♢",
           "number": "74",
           "set": "FLI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4349,7 +4349,7 @@ let masters = [
           "name": "Shrine of Punishment",
           "number": "143",
           "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -4375,19 +4375,19 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Raz Wolpe',
-    flag: '../../../assets/flags/isreal.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Raz Wolpe",
+    "flag": "IL",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -4424,7 +4424,7 @@ let masters = [
           "name": "Tapu Lele GX",
           "number": "60",
           "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4510,7 +4510,7 @@ let masters = [
           "name": "Viridian Forest",
           "number": "156",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -4530,28 +4530,28 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Daniel Ross-Brown',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    "name": "Daniel Ross-Brown",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
     deckid: "pikarom"
   },
   {
-    firstName: 'Jon Eng',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Jon Eng",
+    "flag": "US",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+     
     event: "2019 Oceania Internationals",
     deckid: "zoroark-lycanroc",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -4630,7 +4630,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4746,7 +4746,7 @@ let masters = [
           "name": "Black Market ♢",
           "number": "134",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -4760,19 +4760,19 @@ let masters = [
           "name": "Unit Energy DFY",
           "number": "118",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Zach Lesage',
-    flag: '../../../assets/flags/canada.png',
-    sprite1: '../../../assets/sprites/blacephalon.png',
-    sprite2: '../../../assets/sprites/naganadel.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Zach Lesage",
+    "flag": "CA",
+    "sprite1": "blacephalon",
+    "sprite2": "naganadel",
+     
     event: "2019 Oceania Internationals",
     deckid: "blacephalon-naganadel",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -4803,7 +4803,7 @@ let masters = [
           "name": "Tapu Lele GX",
           "number": "60",
           "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4871,7 +4871,7 @@ let masters = [
           "name": "Heat Factory ♢",
           "number": "178",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -4885,19 +4885,19 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Jarrod Taylor',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Jarrod Taylor",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -4946,7 +4946,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5020,7 +5020,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -5028,19 +5028,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Layton Rumble',
-    flag: '../../../assets/flags/new-zealand.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/buzzwole.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Layton Rumble",
+    "flag": "NZ",
+    "sprite1": "zapdos",
+    "sprite2": "buzzwole",
+     
     event: "2019 Oceania Internationals",
     deckid: "zap-beasts",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -5095,7 +5095,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5187,7 +5187,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -5201,37 +5201,37 @@ let masters = [
           "name": "Fighting Energy",
           "number": "fighting",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Mohamad Razak',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    "name": "Mohamad Razak",
+    "flag": "MY",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
     deckid: "malamar",
   },
   {
-    firstName: 'Nathan Hanns',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blacephalon.png',
-    sprite2: '../../../assets/sprites/naganadel.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    "name": "Nathan Hanns",
+    "flag": "AU",
+    "sprite1": "blacephalon",
+    "sprite2": "naganadel",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
     deckid: "blacephalon-naganadel",
   },
   {
-    firstName: 'Michael Pramawat',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/zapdos.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Michael Pramawat",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "zapdos",
+     
     event: "2019 Oceania Internationals",
     deckid: "zapdos",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -5268,7 +5268,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5360,7 +5360,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -5368,19 +5368,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Bertrand Yan',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Bertrand Yan",
+    "flag": "SG",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -5423,7 +5423,7 @@ let masters = [
           "name": "Tapu Lele GX",
           "number": "60",
           "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5497,7 +5497,7 @@ let masters = [
           "name": "Viridian Forest",
           "number": "156",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -5511,19 +5511,19 @@ let masters = [
           "name": "Metal Energy",
           "number": "metal",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Gustavo Wada',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Gustavo Wada",
+    "flag": "BR",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -5578,7 +5578,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5664,7 +5664,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -5672,19 +5672,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Joey Ruettiger',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/zapdos.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Joey Ruettiger",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "zapdos",
+     
     event: "2019 Oceania Internationals",
     deckid: "zapdos",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -5721,7 +5721,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5813,7 +5813,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -5821,19 +5821,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Alex Schemanske',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Alex Schemanske",
+    "flag": "US",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -5888,7 +5888,7 @@ let masters = [
           "name": "Tapu Lele GX",
           "number": "60",
           "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5956,7 +5956,7 @@ let masters = [
           "name": "Viridian Forest",
           "number": "156",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -5976,19 +5976,19 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Joshua Bradley',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/jumpluff.png',
-    sprite2: '../../../assets/sprites/weavile.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Joshua Bradley",
+    "flag": "AU",
+    "sprite1": "jumpluff",
+    "sprite2": "weavile",
+     
     event: "2019 Oceania Internationals",
     deckid: "lostmarch",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -6043,7 +6043,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6099,7 +6099,7 @@ let masters = [
           "name": "Shrine of Punishment",
           "number": "143",
           "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -6113,28 +6113,28 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Blake Wightman',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    "name": "Blake Wightman",
+    "flag": "AU",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
     deckid: "malamar"
   },
   {
-    firstName: 'Christopher Schemanske',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Christopher Schemanske",
+    "flag": "US",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -6189,7 +6189,7 @@ let masters = [
           "name": "Tapu Lele GX",
           "number": "60",
           "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6257,7 +6257,7 @@ let masters = [
           "name": "Viridian Forest",
           "number": "156",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -6277,19 +6277,19 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Colin Tang',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Colin Tang",
+    "flag": "MY",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     event: "2019 Oceania Internationals",
     deckid: "buzzwole-gx",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -6356,7 +6356,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6448,7 +6448,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -6468,19 +6468,19 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Benjamin Branch',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/passimian.png',
-    sprite2: '../../../assets/sprites/tapu-koko.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Benjamin Branch",
+    "flag": "US",
+    "sprite1": "passimian",
+    "sprite2": "tapu-koko",
+     
     event: "2019 Oceania Internationals",
     deckid: "passimian",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -6523,7 +6523,7 @@ let masters = [
           "name": "Diancie ♢",
           "number": "74",
           "set": "FLI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6615,7 +6615,7 @@ let masters = [
           "name": "Shrine of Punishment",
           "number": "143",
           "set": "CES"
-        },
+        }
       ],
       "energy": [
         {
@@ -6629,19 +6629,19 @@ let masters = [
           "name": "Counter Energy",
           "number": "100",
           "set": "CIN"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Tommy Le',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Tommy Le",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+     
     event: "2019 Oceania Internationals",
     deckid: "zoroark-lycanroc",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -6702,7 +6702,7 @@ let masters = [
           "name": "Ditto ♢",
           "number": "154",
           "set": "LOT"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6794,7 +6794,7 @@ let masters = [
           "name": "Devoured Field",
           "number": "93",
           "set": "CIN"
-        },
+        }
       ],
       "energy": [
         {
@@ -6820,19 +6820,19 @@ let masters = [
           "name": "Rainbow Energy",
           "number": "151",
           "set": "CES"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Luca Serianni',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Luca Serianni",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -6881,7 +6881,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6967,7 +6967,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -6975,28 +6975,28 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Gabriel Massaroth',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    "name": "Gabriel Massaroth",
+    "flag": "BR",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
     deckid: "malamar",
   },
   {
-    firstName: 'Justin Kulas',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Justin Kulas",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -7057,7 +7057,7 @@ let masters = [
           "name": "Oranguru",
           "number": "113",
           "set": "SUM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -7143,7 +7143,7 @@ let masters = [
           "name": "Wondrous Labyrinth ♢",
           "number": "158",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -7151,19 +7151,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Louis Chi',
-    flag: '../../../assets/flags/new-zealand.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/buzzwole.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Louis Chi",
+    "flag": "NZ",
+    "sprite1": "zapdos",
+    "sprite2": "buzzwole",
+     
     event: "2019 Oceania Internationals",
     deckid: "zap-beasts",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -7212,7 +7212,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -7310,7 +7310,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -7324,28 +7324,28 @@ let masters = [
           "name": "Fighting Energy",
           "number": "fighting",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Sameer Sangwan',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    "name": "Sameer Sangwan",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
     deckid: "pikarom",
   },
   {
-    firstName: 'Aaron Van Der Kolk',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Aaron Van Der Kolk",
+    "flag": "AU",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -7388,7 +7388,7 @@ let masters = [
           "name": "Tapu Lele GX",
           "number": "60",
           "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -7462,7 +7462,7 @@ let masters = [
           "name": "Viridian Forest",
           "number": "156",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -7482,28 +7482,28 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Abraham Morales',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    "name": "Abraham Morales",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
     deckid: "pikarom",
   },
   {
-    firstName: 'Connor Finton',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Connor Finton",
+    "flag": "US",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -7558,7 +7558,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -7626,7 +7626,7 @@ let masters = [
           "name": "Viridian Forest",
           "number": "156",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -7646,28 +7646,28 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Blake Davies',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/passimian.png',
-    sprite2: '../../../assets/sprites/tapu-koko.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    "name": "Blake Davies",
+    "flag": "AU",
+    "sprite1": "passimian",
+    "sprite2": "tapu-koko",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
     deckid: "passimian",
   },
   {
-    firstName: 'Brent Tonisson',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Brent Tonisson",
+    "flag": "AU",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -7710,7 +7710,7 @@ let masters = [
           "name": "Tapu Lele GX",
           "number": "60",
           "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -7784,7 +7784,7 @@ let masters = [
           "name": "Viridian Forest",
           "number": "156",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -7804,37 +7804,37 @@ let masters = [
           "name": "Beast Energy ♢",
           "number": "117",
           "set": "FLI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Joey Ho',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    "name": "Joey Ho",
+    "flag": "SG",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
     deckid: "malamar",
   },
   {
-    firstName: 'Mitch Knuckey',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    "name": "Mitch Knuckey",
+    "flag": "AU",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
     deckid: "malamar",
   },
   {
-    firstName: 'Eujun Gan',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/zapdos.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Eujun Gan",
+    "flag": "SG",
+    "sprite1": "zapdos",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -7895,7 +7895,7 @@ let masters = [
           "name": "Absol",
           "number": "88",
           "set": "TEU"
-        },
+        }
       ],
       "trainer": [
         {
@@ -7987,7 +7987,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -7995,19 +7995,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Yu Xiang',
-    flag: '../../../assets/flags/new-zealand.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/necrozma-ultra.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Yu Xiang",
+    "flag": "NZ",
+    "sprite1": "malamar",
+    "sprite2": "necrozma-ultra",
+     
     event: "2019 Oceania Internationals",
     deckid: "malamar",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -8080,7 +8080,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -8154,7 +8154,7 @@ let masters = [
           "name": "Viridian Forest",
           "number": "156",
           "set": "TEU"
-        },
+        }
       ],
       "energy": [
         {
@@ -8168,19 +8168,19 @@ let masters = [
           "name": "Metal Energy",
           "number": "metal",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Nicholas Apostolou',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Nicholas Apostolou",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "pikachu-zekrom-tagteam",
+     
     event: "2019 Oceania Internationals",
     deckid: "pikarom",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -8229,7 +8229,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -8303,7 +8303,7 @@ let masters = [
           "name": "Thunder Mountain ♢",
           "number": "191",
           "set": "LOT"
-        },
+        }
       ],
       "energy": [
         {
@@ -8311,19 +8311,19 @@ let masters = [
           "name": "Lightning Energy",
           "number": "lightning",
           "set": "TEU"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Joseph Tran',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Joseph Tran",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+     
     event: "2019 Oceania Internationals",
     deckid: "zoroark-lycanroc",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -8384,7 +8384,7 @@ let masters = [
           "name": "Oranguru",
           "number": "114",
           "set": "UPR"
-        },
+        }
       ],
       "trainer": [
         {
@@ -8488,7 +8488,7 @@ let masters = [
           "name": "Devoured Field",
           "number": "93",
           "set": "CIN"
-        },
+        }
       ],
       "energy": [
         {
@@ -8502,19 +8502,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Scott Langford',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Scott Langford",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+     
     event: "2019 Oceania Internationals",
     deckid: "zoroark-lycanroc",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -8581,7 +8581,7 @@ let masters = [
           "name": "Oranguru",
           "number": "114",
           "set": "UPR"
-        },
+        }
       ],
       "trainer": [
         {
@@ -8667,7 +8667,7 @@ let masters = [
           "name": "Devoured Field",
           "number": "93",
           "set": "CIN"
-        },
+        }
       ],
       "energy": [
         {
@@ -8687,7 +8687,7 @@ let masters = [
           "name": "Unit Energy DFY",
           "number": "118",
           "set": "FLI"
-        },
+        }
       ]
     }
   },

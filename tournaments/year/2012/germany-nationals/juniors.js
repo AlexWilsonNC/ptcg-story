@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Thoralf R",
-      flag: '../../../../assets/flags/germany.png',
+      "name": "Thoralf R",
+      "flag": "DE",
       "event": "2012 Germany National Championships - Juniors",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/darkrai.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "blank",
+      sprite2: '../../../../assets/sprites/darkrai",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Sebastian H",
-      flag: '../../../../assets/flags/germany.png',
+      "name": "Sebastian H",
+      "flag": "DE",
       "event": "2012 Germany National Championships - Juniors",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Amy C",
-      flag: '../../../../assets/flags/germany.png',
+      "name": "Amy C",
+      "flag": "DE",
       "event": "2012 Germany National Championships - Juniors",
-      sprite1: '../../../../assets/sprites/mewtwo.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "mewtwo",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Luna L",
-      flag: '../../../../assets/flags/germany.png',
+      "name": "Luna L",
+      "flag": "DE",
       "event": "2012 Germany National Championships - Juniors",
-      sprite1: '../../../../assets/sprites/virizion.png',
-      sprite2: '../../../../assets/sprites/kyurem.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "virizion",
+      sprite2: '../../../../assets/sprites/kyurem",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

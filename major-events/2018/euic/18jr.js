@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Daniel Rosas',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/gardevoir.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Daniel Rosas",
+      "flag": "US",
+      "sprite1": "blank",
+      "sprite2": "gardevoir",
+       
       deckid: "gardevoir-gx",
       event: "2018 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -56,7 +56,7 @@ let masters = [
              "name": "Alolan Vulpix",
              "number": "21",
              "set": "GRI"
-         },
+         }
         ],
         "trainer": [
           {
@@ -124,7 +124,7 @@ let masters = [
               "name": "Parallel City",
               "number": "145",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
@@ -143,14 +143,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Christopher Kaas',
-      flag: '../../../assets/flags/denmark.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/gardevoir.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Christopher Kaas",
+      "flag": "DK",
+      "sprite1": "blank",
+      "sprite2": "gardevoir",
+       
       deckid: "gardevoir-gx",
       event: "2018 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -211,7 +211,7 @@ let masters = [
              "name": "Alolan Vulpix",
              "number": "21",
              "set": "GRI"
-         },
+         }
         ],
         "trainer": [
           {
@@ -279,14 +279,14 @@ let masters = [
               "name": "Float Stone",
               "number": "137",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
             "name": "Fairy Energy",
                 "number": "fairy",
                 "set": "SUM",
-            "count": 9,
+            "count": 9
           },
           {
             "count": 4,
@@ -298,14 +298,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Maxence Feuillard',
-      flag: '../../../assets/flags/france.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/golisopod.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Maxence Feuillard",
+      "flag": "FR",
+      "sprite1": "zoroark",
+      "sprite2": "golisopod",
+       
       deckid: "zoroark-golisopod",
       event: "2018 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -323,13 +323,13 @@ let masters = [
             "name": "Zorua",
                 "number": "90",
                 "set": "BKT",
-            "count": 2,
+            "count": 2
           },
           {
             "name": "Zorua",
                 "number": "89",
                 "set": "BKT",
-            "count": 1,
+            "count": 1
           },
           {
             "count": 3,
@@ -366,7 +366,7 @@ let masters = [
                 "name": "Giratina",
                 "number": "184",
                 "set": "PR-XY"
-          },
+          }
         ],
         "trainer": [
           {
@@ -434,7 +434,7 @@ let masters = [
               "name": "Float Stone",
               "number": "137",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
@@ -453,14 +453,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Joao Penteado',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/gardevoir.png',
-      sprite2: '../../../assets/sprites/sylveon.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Joao Penteado",
+      "flag": "BR",
+      "sprite1": "gardevoir",
+      "sprite2": "sylveon",
+       
       deckid: "gardevoir-gx",
       event: "2018 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -509,7 +509,7 @@ let masters = [
                "name": "Oranguru",
                "number": "113",
                "set": "SUM"
-         },
+         }
         ],
         "trainer": [
           {
@@ -583,7 +583,7 @@ let masters = [
               "name": "Parallel City",
               "number": "145",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
@@ -602,14 +602,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Kaya Lichtleitner',
-      flag: '../../../assets/flags/germany.png',
-      sprite1: '../../../assets/sprites/golisopod.png',
-      sprite2: '../../../assets/sprites/garbodor.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Kaya Lichtleitner",
+      "flag": "DE",
+      "sprite1": "golisopod",
+      "sprite2": "garbodor",
+       
       deckid: "golisopod-garbodor",
       event: "2018 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -658,7 +658,7 @@ let masters = [
               "name": "Celesteela GX",
               "number": "67",
               "set": "PR-SM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -726,7 +726,7 @@ let masters = [
               "name": "Float Stone",
               "number": "137",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
@@ -751,20 +751,20 @@ let masters = [
       }
     },
     {
-      firstName: 'Walker Halliburton',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/registeel.png',
-      sprite2: '../../../assets/sprites/scizor.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Walker Halliburton",
+      "flag": "US",
+      "sprite1": "registeel",
+      "sprite2": "scizor",
+       
       deckid: "metal-box",
       event: "2018 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "name": "Registeel",
                 "number": "68",
                 "set": "CIN",
-            "count": 3,
+            "count": 3
           },
           {
             "count": 3,
@@ -782,7 +782,7 @@ let masters = [
             "name": "Scizor-EX",
                 "number": "76",
                 "set": "BKP",
-            "count": 2,
+            "count": 2
           },
           {
             "count": 1,
@@ -812,14 +812,14 @@ let masters = [
             "name": "Dhelmise",
                 "number": "59",
                 "set": "GRI",
-            "count": 1,
+            "count": 1
           },
           {
             "count": 1,
                 "name": "Oranguru",
                 "number": "113",
                 "set": "SUM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -844,7 +844,7 @@ let masters = [
             "name": "Lillie",
                 "number": "122",
                 "set": "SUM",
-            "count": 1,
+            "count": 1
           },
           {
             "count": 4,
@@ -887,7 +887,7 @@ let masters = [
               "name": "Float Stone",
               "number": "137",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
@@ -906,14 +906,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Mariano Franco',
-      flag: '../../../assets/flags/italy.png',
-      sprite1: '../../../assets/sprites/gardevoir.png',
-      sprite2: '../../../assets/sprites/xerneas-active.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Mariano Franco",
+      "flag": "IT",
+      "sprite1": "gardevoir",
+      "sprite2": "xerneas-active",
+       
       deckid: "gardevoir-gx",
       event: "2018 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -974,7 +974,7 @@ let masters = [
                "name": "Espeon-EX",
                "number": "52",
                "set": "BKP"
-         },
+         }
         ],
         "trainer": [
           {
@@ -1048,14 +1048,14 @@ let masters = [
               "name": "Choice Band",
               "number": "121",
               "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
             "name": "Fairy Garden",
                 "number": "100",
                 "set": "FCO",
-            "count": 2,
+            "count": 2
           },
           {
             "count": 8,
@@ -1073,14 +1073,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Krystal Florendo',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/gardevoir.png',
-      sprite2: '../../../assets/sprites/sylveon.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Krystal Florendo",
+      "flag": "CA",
+      "sprite1": "gardevoir",
+      "sprite2": "sylveon",
+       
       deckid: "gardevoir-gx",
       event: "2018 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -1141,7 +1141,7 @@ let masters = [
                "number": "97",
                "set": "BKT",
            "count": 1,
-         },
+         }
         ],
         "trainer": [
           {
@@ -1215,7 +1215,7 @@ let masters = [
               "name": "Parallel City",
               "number": "145",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {

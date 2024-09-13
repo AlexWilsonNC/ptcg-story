@@ -4,1688 +4,1688 @@ const juniorList = document.querySelector('.juniors-ol');
 
 const modalBottom = document.querySelector('.modal-bottom');
 
-let masters = [
+"masters": [
   {
-    firstName: 'Pedro Torres',
-    flag: '../../../assets/flags/spain.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-    list: '../../../assets/list-icon.png',
-    type: 'fire',
+    "name": "Pedro Torres",
+    "flag": "ES",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+     
+    type: 'fire",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/volcanion-ex.png',
+        cardImg: '../../../assets/cards/2018-17/volcanion-ex",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/volcanion.png',
+        cardImg: '../../../assets/cards/2018-17/volcanion",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/salamence-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/salamence-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/fisherman.png',
+        cardImg: '../../../assets/cards/2018-17/fisherman",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/olympia.png',
+        cardImg: '../../../assets/cards/2018-17/olympia",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/energy-retrieval.png',
+        cardImg: '../../../assets/cards/2018-17/energy-retrieval",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ffb.png',
+        cardImg: '../../../assets/cards/2018-17/ffb",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/sky-field.png',
+        cardImg: '../../../assets/cards/2018-17/sky-field",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/scorched-earth.png',
+        cardImg: '../../../assets/cards/2018-17/scorched-earth",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-fire.png',
+        cardImg: '../../../assets/cards/energy/energy-fire",
         numImg: '../../../assets/12.png'
       },
     ]
   },
   {
-    firstName: 'Pablo Meza',
-    flag: '../../../assets/flags/mexico.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/vileplume.png',
-    list: '../../../assets/list-icon.png',
-    type: 'grass',
+    "name": "Pablo Meza",
+    "flag": "MX",
+    "sprite1": "decidueye",
+    "sprite2": "vileplume",
+     
+    type: 'grass",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/decidueye-gx.png',
+        cardImg: '../../../assets/cards/2018-17/decidueye-gx",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/dartrix.png',
+        cardImg: '../../../assets/cards/2018-17/dartrix",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rowlet.png',
+        cardImg: '../../../assets/cards/2018-17/rowlet",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vileplume.png',
+        cardImg: '../../../assets/cards/2018-17/vileplume",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/gloom.png',
+        cardImg: '../../../assets/cards/2018-17/gloom",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/oddish.png',
+        cardImg: '../../../assets/cards/2018-17/oddish",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces.png',
+        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/meowth.png',
+        cardImg: '../../../assets/cards/2014-2016/meowth",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/level-ball.png',
+        cardImg: '../../../assets/cards/2018-17/level-ball",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/revitalizer.png',
+        cardImg: '../../../assets/cards/2018-17/revitalizer",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants.png',
+        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-grass.png',
+        cardImg: '../../../assets/cards/energy/energy-grass",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Kian Amini',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/vileplume.png',
-    list: '../../../assets/list-icon.png',
-    type: 'grass',
+    "name": "Kian Amini",
+    "flag": "US",
+    "sprite1": "decidueye",
+    "sprite2": "vileplume",
+     
+    type: 'grass",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/decidueye-gx.png',
+        cardImg: '../../../assets/cards/2018-17/decidueye-gx",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/dartrix.png',
+        cardImg: '../../../assets/cards/2018-17/dartrix",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rowlet.png',
+        cardImg: '../../../assets/cards/2018-17/rowlet",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vileplume.png',
+        cardImg: '../../../assets/cards/2018-17/vileplume",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/gloom.png',
+        cardImg: '../../../assets/cards/2018-17/gloom",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/oddish.png',
+        cardImg: '../../../assets/cards/2018-17/oddish",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces.png',
+        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/beedrill-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/beedrill-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/level-ball.png',
+        cardImg: '../../../assets/cards/2018-17/level-ball",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/revitalizer.png',
+        cardImg: '../../../assets/cards/2018-17/revitalizer",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants.png',
+        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-grass.png',
+        cardImg: '../../../assets/cards/energy/energy-grass",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Jesper Eriksen',
-    flag: '../../../assets/flags/denmark.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/darkrai.png',
-    list: '../../../assets/list-icon.png',
-    type: 'dark',
+    "name": "Jesper Eriksen",
+    "flag": "DK",
+    "sprite1": "blank",
+    "sprite2": "darkrai",
+     
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/darkrai-ex-bkp.png',
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex-bkp",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/yveltal-sts.png',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-sts",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hex-maniac.png',
+        cardImg: '../../../assets/cards/2018-17/hex-maniac",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/delinquent.png',
+        cardImg: '../../../assets/cards/2018-17/delinquent",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/switch.png',
+        cardImg: '../../../assets/cards/2018-17/switch",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/enhanced-hammer.png',
+        cardImg: '../../../assets/cards/2018-17/enhanced-hammer",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/exp-share.png',
+        cardImg: '../../../assets/cards/2018-17/exp-share",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ffb.png',
+        cardImg: '../../../assets/cards/2018-17/ffb",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/silent-lab.png',
+        cardImg: '../../../assets/cards/2014-2016/silent-lab",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/parallel-city.png',
+        cardImg: '../../../assets/cards/2018-17/parallel-city",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-dark.png',
+        cardImg: '../../../assets/cards/energy/energy-dark",
         numImg: '../../../assets/12.png'
       },
     ]
   },
   {
-    firstName: 'Javier Gamboa',
-    flag: '../../../assets/flags/czech-republic.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/vileplume.png',
-    list: '../../../assets/list-icon.png',
-    type: 'grass',
+    "name": "Javier Gamboa",
+    "flag": "CZ",
+    "sprite1": "decidueye",
+    "sprite2": "vileplume",
+     
+    type: 'grass",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/decidueye-gx.png',
+        cardImg: '../../../assets/cards/2018-17/decidueye-gx",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/dartrix.png',
+        cardImg: '../../../assets/cards/2018-17/dartrix",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rowlet.png',
+        cardImg: '../../../assets/cards/2018-17/rowlet",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vileplume.png',
+        cardImg: '../../../assets/cards/2018-17/vileplume",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/gloom.png',
+        cardImg: '../../../assets/cards/2018-17/gloom",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/oddish.png',
+        cardImg: '../../../assets/cards/2018-17/oddish",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces.png',
+        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/tauros-gx.png',
+        cardImg: '../../../assets/cards/2018-17/tauros-gx",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/beedrill-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/beedrill-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/level-ball.png',
+        cardImg: '../../../assets/cards/2018-17/level-ball",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/revitalizer.png',
+        cardImg: '../../../assets/cards/2018-17/revitalizer",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants.png',
+        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-grass.png',
+        cardImg: '../../../assets/cards/energy/energy-grass",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Gustavo Wada',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-    list: '../../../assets/list-icon.png',
-    type: 'fire',
+    "name": "Gustavo Wada",
+    "flag": "BR",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+     
+    type: 'fire",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/volcanion-ex.png',
+        cardImg: '../../../assets/cards/2018-17/volcanion-ex",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/volcanion.png',
+        cardImg: '../../../assets/cards/2018-17/volcanion",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/oranguru.png',
+        cardImg: '../../../assets/cards/2018-17/oranguru",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/fisherman.png',
+        cardImg: '../../../assets/cards/2018-17/fisherman",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-kukui.png',
+        cardImg: '../../../assets/cards/2018-17/professor-kukui",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/pokemon-ranger.png',
+        cardImg: '../../../assets/cards/2014-2016/pokemon-ranger",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/pokemon-catcher.png',
+        cardImg: '../../../assets/cards/2018-17/pokemon-catcher",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/energy-retrieval.png',
+        cardImg: '../../../assets/cards/2018-17/energy-retrieval",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/switch.png',
+        cardImg: '../../../assets/cards/2018-17/switch",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ffb.png',
+        cardImg: '../../../assets/cards/2018-17/ffb",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/scorched-earth.png',
+        cardImg: '../../../assets/cards/2018-17/scorched-earth",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-fire.png',
+        cardImg: '../../../assets/cards/energy/energy-fire",
         numImg: '../../../assets/12.png'
       },
     ]
   },
   {
-    firstName: 'Takuya Yoneda',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/decidueye.png',
-    list: '../../../assets/list-icon.png',
-    type: 'grass',
+    "name": "Takuya Yoneda",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "decidueye",
+     
+    type: 'grass",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/decidueye-gx.png',
+        cardImg: '../../../assets/cards/2018-17/decidueye-gx",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/dartrix.png',
+        cardImg: '../../../assets/cards/2018-17/dartrix",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rowlet.png',
+        cardImg: '../../../assets/cards/2018-17/rowlet",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/trevenant-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/trevenant-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/beedrill-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/beedrill-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/espeon-ex.png',
+        cardImg: '../../../assets/cards/2018-17/espeon-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/mewtwo.png',
+        cardImg: '../../../assets/cards/2018-17/mewtwo",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoothoot.png',
+        cardImg: '../../../assets/cards/2018-17/hoothoot",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hex-maniac.png',
+        cardImg: '../../../assets/cards/2018-17/hex-maniac",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/team-flare-grunt.png',
+        cardImg: '../../../assets/cards/2018-17/team-flare-grunt",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/level-ball.png',
+        cardImg: '../../../assets/cards/2018-17/level-ball",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/revitalizer.png',
+        cardImg: '../../../assets/cards/2018-17/revitalizer",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/super-rod.png',
+        cardImg: '../../../assets/cards/2018-17/super-rod",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants.png',
+        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-grass.png',
+        cardImg: '../../../assets/cards/energy/energy-grass",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Alexander Hill',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/vileplume.png',
-    list: '../../../assets/list-icon.png',
-    type: 'grass',
+    "name": "Alexander Hill",
+    "flag": "US",
+    "sprite1": "decidueye",
+    "sprite2": "vileplume",
+     
+    type: 'grass",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/decidueye-gx.png',
+        cardImg: '../../../assets/cards/2018-17/decidueye-gx",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/dartrix.png',
+        cardImg: '../../../assets/cards/2018-17/dartrix",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rowlet.png',
+        cardImg: '../../../assets/cards/2018-17/rowlet",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vileplume.png',
+        cardImg: '../../../assets/cards/2018-17/vileplume",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/gloom.png',
+        cardImg: '../../../assets/cards/2018-17/gloom",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/oddish.png',
+        cardImg: '../../../assets/cards/2018-17/oddish",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces.png',
+        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/tauros-gx.png',
+        cardImg: '../../../assets/cards/2018-17/tauros-gx",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/beedrill-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/beedrill-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/unown.png',
+        cardImg: '../../../assets/cards/2014-2016/unown",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/level-ball.png',
+        cardImg: '../../../assets/cards/2018-17/level-ball",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/revitalizer.png',
+        cardImg: '../../../assets/cards/2018-17/revitalizer",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants.png',
+        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-grass.png',
+        cardImg: '../../../assets/cards/energy/energy-grass",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Mees Brenninkmeijer',
-    flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/vileplume.png',
-    list: '../../../assets/list-icon.png',
-    type: 'grass',
+    "name": "Mees Brenninkmeijer",
+    "flag": "NL",
+    "sprite1": "decidueye",
+    "sprite2": "vileplume",
+     
+    type: 'grass",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/decidueye-gx.png',
+        cardImg: '../../../assets/cards/2018-17/decidueye-gx",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/dartrix.png',
+        cardImg: '../../../assets/cards/2018-17/dartrix",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rowlet.png',
+        cardImg: '../../../assets/cards/2018-17/rowlet",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vileplume.png',
+        cardImg: '../../../assets/cards/2018-17/vileplume",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/gloom.png',
+        cardImg: '../../../assets/cards/2018-17/gloom",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/oddish.png',
+        cardImg: '../../../assets/cards/2018-17/oddish",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces.png',
+        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/beedrill-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/beedrill-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/level-ball.png',
+        cardImg: '../../../assets/cards/2018-17/level-ball",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/revitalizer.png',
+        cardImg: '../../../assets/cards/2018-17/revitalizer",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants.png',
+        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-grass.png',
+        cardImg: '../../../assets/cards/energy/energy-grass",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Choong Yewkidd',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Choong Yewkidd",
+    "flag": "MY",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Andre Bortoni',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/jolteon.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Andre Bortoni",
+    "flag": "BR",
+    "sprite1": "jolteon",
+    "sprite2": "garbodor",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Benjamin Behrens',
-    flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/darkrai.png',
-    list: '../../../assets/list-icon.png',
-    type: 'dark',
+    "name": "Benjamin Behrens",
+    "flag": "NO",
+    "sprite1": "blank",
+    "sprite2": "darkrai",
+     
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/darkrai-ex-bkp.png',
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex-bkp",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/yveltal-sts.png',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-sts",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/delinquent.png',
+        cardImg: '../../../assets/cards/2018-17/delinquent",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/switch.png',
+        cardImg: '../../../assets/cards/2018-17/switch",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/exp-share.png',
+        cardImg: '../../../assets/cards/2018-17/exp-share",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ffb.png',
+        cardImg: '../../../assets/cards/2018-17/ffb",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/silent-lab.png',
+        cardImg: '../../../assets/cards/2014-2016/silent-lab",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/parallel-city.png',
+        cardImg: '../../../assets/cards/2018-17/parallel-city",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-dark.png',
+        cardImg: '../../../assets/cards/energy/energy-dark",
         numImg: '../../../assets/12.png'
       },
     ]
   },
   {
-    firstName: 'Mohamad Razak',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gardevoir-mega.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Mohamad Razak",
+    "flag": "MY",
+    "sprite1": "blank",
+    "sprite2": "gardevoir-mega",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Nicolas Galaz',
-    flag: '../../../assets/flags/chile.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/vileplume.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Nicolas Galaz",
+    "flag": "CL",
+    "sprite1": "decidueye",
+    "sprite2": "vileplume",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Yogie Surya',
-    flag: '../../../assets/flags/indonesia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Yogie Surya",
+    "flag": "ID",
+    "sprite1": "blank",
+    "sprite2": "../../../assets/hyphen",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Ross Cawthon',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/vileplume.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Ross Cawthon",
+    "flag": "US",
+    "sprite1": "decidueye",
+    "sprite2": "vileplume",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Jit Min Lim',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/vileplume.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Jit Min Lim",
+    "flag": "SG",
+    "sprite1": "decidueye",
+    "sprite2": "vileplume",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Sameer Sangwan',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/darkrai.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Sameer Sangwan",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "darkrai",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Xander Pero',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gardevoir-mega.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Xander Pero",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir-mega",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Tito Santoso',
-    flag: '../../../assets/flags/indonesia.png',
-    sprite1: '../../../assets/sprites/gardevoir-mega.png',
-    sprite2: '../../../assets/sprites/xerneas-active.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Tito Santoso",
+    "flag": "ID",
+    "sprite1": "gardevoir-mega",
+    "sprite2": "xerneas-active",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Matthew Bray',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/mewtwo-mega-y.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Matthew Bray",
+    "flag": "AU",
+    "sprite1": "mewtwo-mega-y",
+    "sprite2": "garbodor",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Jonathan Lanciano',
-    flag: '../../../assets/flags/argentina.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/vileplume.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Jonathan Lanciano",
+    "flag": "AR",
+    "sprite1": "decidueye",
+    "sprite2": "vileplume",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Tobias Thesing',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/yveltal.png',
-    sprite2: '../../../assets/sprites/zoroark.png',
-    list: '../../../assets/list-icon.png',
-    type: 'dark',
+    "name": "Tobias Thesing",
+    "flag": "DE",
+    "sprite1": "yveltal",
+    "sprite2": "zoroark",
+     
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/yveltal-ex-shiny.png',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-ex-shiny",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/yveltal-fright-night.png',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-fright-night",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/zoroark-break.png',
+        cardImg: '../../../assets/cards/2018-17/zoroark-break",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/zoroark.png',
+        cardImg: '../../../assets/cards/2018-17/zoroark",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/zorua-bkt.png',
+        cardImg: '../../../assets/cards/2018-17/zorua-bkt",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hex-maniac.png',
+        cardImg: '../../../assets/cards/2018-17/hex-maniac",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/nest-ball.png',
+        cardImg: '../../../assets/cards/2018-17/nest-ball",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/super-rod.png',
+        cardImg: '../../../assets/cards/2018-17/super-rod",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/town-map.png',
+        cardImg: '../../../assets/cards/2018-17/town-map",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ffb.png',
+        cardImg: '../../../assets/cards/2018-17/ffb",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/reverse-valley.png',
+        cardImg: '../../../assets/cards/2018-17/reverse-valley",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-dark.png',
+        cardImg: '../../../assets/cards/energy/energy-dark",
         numImg: '../../../assets/09.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Jacob Lesage',
-    flag: '../../../assets/flags/canada.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/darkrai.png',
-    list: '../../../assets/list-icon.png',
-    type: 'dark',
+    "name": "Jacob Lesage",
+    "flag": "CA",
+    "sprite1": "blank",
+    "sprite2": "darkrai",
+     
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/darkrai-ex-bkp.png',
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex-bkp",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/yveltal-sts.png',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-sts",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/wobbuffet.png',
+        cardImg: '../../../assets/cards/2018-17/wobbuffet",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hex-maniac.png',
+        cardImg: '../../../assets/cards/2018-17/hex-maniac",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/pokemon-center-lady.png',
+        cardImg: '../../../assets/cards/2018-17/pokemon-center-lady",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/switch.png',
+        cardImg: '../../../assets/cards/2018-17/switch",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/enhanced-hammer.png',
+        cardImg: '../../../assets/cards/2018-17/enhanced-hammer",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/exp-share.png',
+        cardImg: '../../../assets/cards/2018-17/exp-share",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ffb.png',
+        cardImg: '../../../assets/cards/2018-17/ffb",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/parallel-city.png',
+        cardImg: '../../../assets/cards/2018-17/parallel-city",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/silent-lab.png',
+        cardImg: '../../../assets/cards/2014-2016/silent-lab",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-dark.png',
+        cardImg: '../../../assets/cards/energy/energy-dark",
         numImg: '../../../assets/12.png'
       },
     ]
   },
   {
-    firstName: 'Tord Reklev',
-    flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/darkrai.png',
-    list: '../../../assets/list-icon.png',
-    type: 'dark',
+    "name": "Tord Reklev",
+    "flag": "NO",
+    "sprite1": "blank",
+    "sprite2": "darkrai",
+     
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/darkrai-ex-bkp.png',
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex-bkp",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/yveltal-sts.png',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-sts",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/delinquent.png',
+        cardImg: '../../../assets/cards/2018-17/delinquent",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/switch.png',
+        cardImg: '../../../assets/cards/2018-17/switch",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/exp-share.png',
+        cardImg: '../../../assets/cards/2018-17/exp-share",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ffb.png',
+        cardImg: '../../../assets/cards/2018-17/ffb",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/silent-lab.png',
+        cardImg: '../../../assets/cards/2014-2016/silent-lab",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/parallel-city.png',
+        cardImg: '../../../assets/cards/2018-17/parallel-city",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-dark.png',
+        cardImg: '../../../assets/cards/energy/energy-dark",
         numImg: '../../../assets/12.png'
       },
     ]
   },
   {
-    firstName: 'Isaac Chen',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Isaac Chen",
+    "flag": "MY",
+    "sprite1": "blank",
+    "sprite2": "../../../assets/hyphen",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Vighnesh Murthy',
-    flag: '../../../assets/flags/new-zealand.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gyarados.png',
-    list: '../../../assets/list-icon.png',
-    type: 'water',
+    "name": "Vighnesh Murthy",
+    "flag": "NZ",
+    "sprite1": "blank",
+    "sprite2": "gyarados",
+     
+    type: 'water",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/gyarados.png',
+        cardImg: '../../../assets/cards/2018-17/gyarados",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/magikarp.png',
+        cardImg: '../../../assets/cards/2018-17/magikarp",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/octillery.png',
+        cardImg: '../../../assets/cards/2018-17/octillery",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/remoraid-ion-pool.png',
+        cardImg: '../../../assets/cards/2018-17/remoraid-ion-pool",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/teammates.png',
+        cardImg: '../../../assets/cards/2018-17/teammates",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-kukui.png',
+        cardImg: '../../../assets/cards/2018-17/professor-kukui",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/puzzle-of-time.png',
+        cardImg: '../../../assets/cards/2018-17/puzzle-of-time",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/buddy-buddy-resuce.png',
+        cardImg: '../../../assets/cards/2014-2016/buddy-buddy-resuce",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/dive-ball.png',
+        cardImg: '../../../assets/cards/2018-17/dive-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/acro-bike.png',
+        cardImg: '../../../assets/cards/2014-2016/acro-bike",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/level-ball.png',
+        cardImg: '../../../assets/cards/2018-17/level-ball",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/special-charge.png',
+        cardImg: '../../../assets/cards/2018-17/special-charge",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/super-rod.png',
+        cardImg: '../../../assets/cards/2018-17/super-rod",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/town-map.png',
+        cardImg: '../../../assets/cards/2018-17/town-map",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lucky-helmet.png',
+        cardImg: '../../../assets/cards/2018-17/lucky-helmet",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/team-magmas-secret-base.png',
+        cardImg: '../../../assets/cards/2014-2016/team-magmas-secret-base",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Philip Schulz',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/darkrai.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
-    type: 'dark',
+    "name": "Philip Schulz",
+    "flag": "DE",
+    "sprite1": "darkrai",
+    "sprite2": "garbodor",
+     
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/darkrai-ex-bkp.png',
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex-bkp",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/garbodor-garbotoxin.png',
+        cardImg: '../../../assets/cards/2018-17/garbodor-garbotoxin",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trubbish-acid-spray.png',
+        cardImg: '../../../assets/cards/2018-17/trubbish-acid-spray",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/yveltal-sts.png',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-sts",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/olympia.png',
+        cardImg: '../../../assets/cards/2018-17/olympia",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/nest-ball.png',
+        cardImg: '../../../assets/cards/2018-17/nest-ball",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/exp-share.png',
+        cardImg: '../../../assets/cards/2018-17/exp-share",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ffb.png',
+        cardImg: '../../../assets/cards/2018-17/ffb",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/parallel-city.png',
+        cardImg: '../../../assets/cards/2018-17/parallel-city",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-dark.png',
+        cardImg: '../../../assets/cards/energy/energy-dark",
         numImg: '../../../assets/12.png'
       },
     ]
   },
   {
-    firstName: 'Alfred Yang',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/vespiquen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Alfred Yang",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "vespiquen",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'James Goreing',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/yveltal.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "James Goreing",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "yveltal",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Athavan Akilan',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/darkrai.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Athavan Akilan",
+    "flag": "MY",
+    "sprite1": "blank",
+    "sprite2": "darkrai",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Gregory May',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    "name": "Gregory May",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17',
+        cardImg: '../../../assets/cards/2018-17",
         numImg: '../../../assets/04.png'
       },
     ]
@@ -1693,1614 +1693,1614 @@ let masters = [
 ]
 
 
-let seniors = [
+"seniors": [
   {
-    firstName: 'Michael Long',
-    flag: '../../../assets/flags/canada.png',
-    sprite1: '../../../assets/sprites/gardevoir-mega.png',
-    sprite2: '../../../assets/sprites/xerneas-active.png',
-    list: '../../../assets/list-icon.png',
-    type: 'fairy',
+    "name": "Michael Long",
+    "flag": "CA",
+    "sprite1": "gardevoir-mega",
+    "sprite2": "xerneas-active",
+     
+    type: 'fairy",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/m-gardevoir-ex-prc.png',
+        cardImg: '../../../assets/cards/2014-2016/m-gardevoir-ex-prc",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/mega-gardevoir-ex-sts.png',
+        cardImg: '../../../assets/cards/2014-2016/mega-gardevoir-ex-sts",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/gardevoir-ex-sts.png',
+        cardImg: '../../../assets/cards/2014-2016/gardevoir-ex-sts",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/xerneas-break.png',
+        cardImg: '../../../assets/cards/2018-17/xerneas-break",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/xerneas.png',
+        cardImg: '../../../assets/cards/2018-17/xerneas",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/salamence-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/salamence-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/giratina-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/giratina-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hex-maniac.png',
+        cardImg: '../../../assets/cards/2018-17/hex-maniac",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/super-rod.png',
+        cardImg: '../../../assets/cards/2018-17/super-rod",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/gardevoir-spirit-link.png',
+        cardImg: '../../../assets/cards/2014-2016/gardevoir-spirit-link",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/fairy-garden.png',
+        cardImg: '../../../assets/cards/2018-17/fairy-garden",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-fairy.png',
+        cardImg: '../../../assets/cards/energy/energy-fairy",
         numImg: '../../../assets/10.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/double-dragon-energy.png',
+        cardImg: '../../../assets/cards/energy/double-dragon-energy",
         numImg: '../../../assets/03.png'
       },
     ]
   },
   {
-    firstName: 'Jon Eng',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/vileplume.png',
-    list: '../../../assets/list-icon.png',
-    type: 'grass',
+    "name": "Jon Eng",
+    "flag": "US",
+    "sprite1": "decidueye",
+    "sprite2": "vileplume",
+     
+    type: 'grass",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/decidueye-gx.png',
+        cardImg: '../../../assets/cards/2018-17/decidueye-gx",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/dartrix.png',
+        cardImg: '../../../assets/cards/2018-17/dartrix",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rowlet.png',
+        cardImg: '../../../assets/cards/2018-17/rowlet",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vileplume.png',
+        cardImg: '../../../assets/cards/2018-17/vileplume",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/gloom.png',
+        cardImg: '../../../assets/cards/2018-17/gloom",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/oddish.png',
+        cardImg: '../../../assets/cards/2018-17/oddish",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces.png',
+        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/tauros-gx.png',
+        cardImg: '../../../assets/cards/2018-17/tauros-gx",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/beedrill-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/beedrill-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/trevenant-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/trevenant-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/level-ball.png',
+        cardImg: '../../../assets/cards/2018-17/level-ball",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/revitalizer.png',
+        cardImg: '../../../assets/cards/2018-17/revitalizer",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants.png',
+        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-grass.png',
+        cardImg: '../../../assets/cards/energy/energy-grass",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Ángel Torres',
-    flag: '../../../assets/flags/spain.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-    list: '../../../assets/list-icon.png',
-    type: 'fire',
+    "name": "Ángel Torres",
+    "flag": "ES",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+     
+    type: 'fire",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/volcanion-ex.png',
+        cardImg: '../../../assets/cards/2018-17/volcanion-ex",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/volcanion.png',
+        cardImg: '../../../assets/cards/2018-17/volcanion",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/fisherman.png',
+        cardImg: '../../../assets/cards/2018-17/fisherman",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/olympia.png',
+        cardImg: '../../../assets/cards/2018-17/olympia",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/pokemon-ranger.png',
+        cardImg: '../../../assets/cards/2014-2016/pokemon-ranger",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/energy-retrieval.png',
+        cardImg: '../../../assets/cards/2018-17/energy-retrieval",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ffb.png',
+        cardImg: '../../../assets/cards/2018-17/ffb",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/sky-field.png',
+        cardImg: '../../../assets/cards/2018-17/sky-field",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/scorched-earth.png',
+        cardImg: '../../../assets/cards/2018-17/scorched-earth",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-fire.png',
+        cardImg: '../../../assets/cards/energy/energy-fire",
         numImg: '../../../assets/12.png'
       },
     ]
   },
   {
-    firstName: 'Connor Pedersen',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/mewtwo-mega-y.png',
-    list: '../../../assets/list-icon.png',
-    type: 'psychic',
+    "name": "Connor Pedersen",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "mewtwo-mega-y",
+     
+    type: 'psychic",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/mega-mewtwo-y-ex.png',
+        cardImg: '../../../assets/cards/2018-17/mega-mewtwo-y-ex",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/mewtwo-ex-shatter-shot.png',
+        cardImg: '../../../assets/cards/2014-2016/mewtwo-ex-shatter-shot",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/wobbuffet.png',
+        cardImg: '../../../assets/cards/2018-17/wobbuffet",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/espeon-gx.png',
+        cardImg: '../../../assets/cards/2018-17/espeon-gx",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/eevee.png',
+        cardImg: '../../../assets/cards/2018-17/eevee",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/garbodor-garbotoxin.png',
+        cardImg: '../../../assets/cards/2018-17/garbodor-garbotoxin",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trubbish-acid-spray.png',
+        cardImg: '../../../assets/cards/2018-17/trubbish-acid-spray",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/mega-turbo.png',
+        cardImg: '../../../assets/cards/2018-17/mega-turbo",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/super-rod.png',
+        cardImg: '../../../assets/cards/2018-17/super-rod",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/mewtwo-spirit-link.png',
+        cardImg: '../../../assets/cards/2014-2016/mewtwo-spirit-link",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/shrine-of-memories.png',
+        cardImg: '../../../assets/cards/2014-2016/shrine-of-memories",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/parallel-city.png',
+        cardImg: '../../../assets/cards/2018-17/parallel-city",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-psychic.png',
+        cardImg: '../../../assets/cards/energy/energy-psychic",
         numImg: '../../../assets/07.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Tim Bartels',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/yveltal.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
-    type: 'dark',
+    "name": "Tim Bartels",
+    "flag": "DE",
+    "sprite1": "yveltal",
+    "sprite2": "garbodor",
+     
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/yveltal-ex-shiny.png',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-ex-shiny",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/garbodor-garbotoxin.png',
+        cardImg: '../../../assets/cards/2018-17/garbodor-garbotoxin",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trubbish-acid-spray.png',
+        cardImg: '../../../assets/cards/2018-17/trubbish-acid-spray",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/yveltal-fright-night.png',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-fright-night",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/mewtwo.png',
+        cardImg: '../../../assets/cards/2018-17/mewtwo",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/pokemon-ranger.png',
+        cardImg: '../../../assets/cards/2014-2016/pokemon-ranger",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/super-rod.png',
+        cardImg: '../../../assets/cards/2018-17/super-rod",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ffb.png',
+        cardImg: '../../../assets/cards/2018-17/ffb",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/parallel-city.png',
+        cardImg: '../../../assets/cards/2018-17/parallel-city",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-dark.png',
+        cardImg: '../../../assets/cards/energy/energy-dark",
         numImg: '../../../assets/09.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Magnus Pedersen',
-    flag: '../../../assets/flags/denmark.png',
-    sprite1: '../../../assets/sprites/mewtwo-mega-y.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
-    type: 'psychic',
+    "name": "Magnus Pedersen",
+    "flag": "DK",
+    "sprite1": "mewtwo-mega-y",
+    "sprite2": "garbodor",
+     
+    type: 'psychic",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/mega-mewtwo-y-ex.png',
+        cardImg: '../../../assets/cards/2018-17/mega-mewtwo-y-ex",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/mewtwo-ex-shatter-shot.png',
+        cardImg: '../../../assets/cards/2014-2016/mewtwo-ex-shatter-shot",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/garbodor-garbotoxin.png',
+        cardImg: '../../../assets/cards/2018-17/garbodor-garbotoxin",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trubbish-acid-spray.png',
+        cardImg: '../../../assets/cards/2018-17/trubbish-acid-spray",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/jirachi.png',
+        cardImg: '../../../assets/cards/2014-2016/jirachi",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hex-maniac.png',
+        cardImg: '../../../assets/cards/2018-17/hex-maniac",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/mega-turbo.png',
+        cardImg: '../../../assets/cards/2018-17/mega-turbo",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/super-rod.png',
+        cardImg: '../../../assets/cards/2018-17/super-rod",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/mewtwo-spirit-link.png',
+        cardImg: '../../../assets/cards/2014-2016/mewtwo-spirit-link",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/shrine-of-memories.png',
+        cardImg: '../../../assets/cards/2014-2016/shrine-of-memories",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-psychic.png',
+        cardImg: '../../../assets/cards/energy/energy-psychic",
         numImg: '../../../assets/07.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Joe Ruettiger',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/vileplume.png',
-    list: '../../../assets/list-icon.png',
-    type: 'grass',
+    "name": "Joe Ruettiger",
+    "flag": "US",
+    "sprite1": "decidueye",
+    "sprite2": "vileplume",
+     
+    type: 'grass",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/decidueye-gx.png',
+        cardImg: '../../../assets/cards/2018-17/decidueye-gx",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/dartrix.png',
+        cardImg: '../../../assets/cards/2018-17/dartrix",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rowlet.png',
+        cardImg: '../../../assets/cards/2018-17/rowlet",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vileplume.png',
+        cardImg: '../../../assets/cards/2018-17/vileplume",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/gloom.png',
+        cardImg: '../../../assets/cards/2018-17/gloom",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/oddish.png',
+        cardImg: '../../../assets/cards/2018-17/oddish",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces.png',
+        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/tauros-gx.png',
+        cardImg: '../../../assets/cards/2018-17/tauros-gx",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/beedrill-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/beedrill-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/trevenant-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/trevenant-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/level-ball.png',
+        cardImg: '../../../assets/cards/2018-17/level-ball",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/revitalizer.png',
+        cardImg: '../../../assets/cards/2018-17/revitalizer",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants.png',
+        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-grass.png',
+        cardImg: '../../../assets/cards/energy/energy-grass",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Vincent Munk',
-    flag: '../../../assets/flags/denmark.png',
-    sprite1: '../../../assets/sprites/yveltal.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
-    type: 'dark',
+    "name": "Vincent Munk",
+    "flag": "DK",
+    "sprite1": "yveltal",
+    "sprite2": "garbodor",
+     
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/yveltal-ex-shiny.png',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-ex-shiny",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/yveltal-fright-night.png',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-fright-night",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/garbodor-garbotoxin.png',
+        cardImg: '../../../assets/cards/2018-17/garbodor-garbotoxin",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trubbish-acid-spray.png',
+        cardImg: '../../../assets/cards/2018-17/trubbish-acid-spray",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/tauros-gx.png',
+        cardImg: '../../../assets/cards/2018-17/tauros-gx",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/snorlax-gx.png',
+        cardImg: '../../../assets/cards/2018-17/snorlax-gx",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/ninja-boy.png',
+        cardImg: '../../../assets/cards/2014-2016/ninja-boy",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/delinquent.png',
+        cardImg: '../../../assets/cards/2014-2016/delinquent",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/super-rod.png',
+        cardImg: '../../../assets/cards/2018-17/super-rod",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ffb.png',
+        cardImg: '../../../assets/cards/2018-17/ffb",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/parallel-city.png',
+        cardImg: '../../../assets/cards/2018-17/parallel-city",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-dark.png',
+        cardImg: '../../../assets/cards/energy/energy-dark",
         numImg: '../../../assets/09.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
 ]
 
-let juniors = [
+"juniors": [
   {
-    firstName: 'Regan Retzloff',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir-mega.png',
-    sprite2: '../../../assets/sprites/xerneas-active.png',
-   list: '../../../assets/list-icon.png',
-    type: 'fairy',
+    "name": "Regan Retzloff",
+    "flag": "US",
+    "sprite1": "gardevoir-mega",
+    "sprite2": "xerneas-active",
+    
+    type: 'fairy",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/m-gardevoir-ex-prc.png',
+        cardImg: '../../../assets/cards/2014-2016/m-gardevoir-ex-prc",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/mega-gardevoir-ex-sts.png',
+        cardImg: '../../../assets/cards/2014-2016/mega-gardevoir-ex-sts",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/gardevoir-ex-sts.png',
+        cardImg: '../../../assets/cards/2014-2016/gardevoir-ex-sts",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/xerneas-break.png',
+        cardImg: '../../../assets/cards/2018-17/xerneas-break",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/xerneas.png',
+        cardImg: '../../../assets/cards/2018-17/xerneas",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/giratina-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/giratina-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/salamence-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/salamence-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hex-maniac.png',
+        cardImg: '../../../assets/cards/2018-17/hex-maniac",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/switch.png',
+        cardImg: '../../../assets/cards/2018-17/switch",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/super-rod.png',
+        cardImg: '../../../assets/cards/2018-17/super-rod",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/gardevoir-spirit-link.png',
+        cardImg: '../../../assets/cards/2014-2016/gardevoir-spirit-link",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/fairy-garden.png',
+        cardImg: '../../../assets/cards/2018-17/fairy-garden",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-fairy.png',
+        cardImg: '../../../assets/cards/energy/energy-fairy",
         numImg: '../../../assets/10.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/double-dragon-energy.png',
+        cardImg: '../../../assets/cards/energy/double-dragon-energy",
         numImg: '../../../assets/03.png'
       },
     ]
   },
   {
-    firstName: 'William Wallace',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir-mega.png',
-    sprite2: '../../../assets/sprites/xerneas-active.png',
-    list: '../../../assets/list-icon.png',
-    type: 'fairy',
+    "name": "William Wallace",
+    "flag": "US",
+    "sprite1": "gardevoir-mega",
+    "sprite2": "xerneas-active",
+     
+    type: 'fairy",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/m-gardevoir-ex-prc.png',
+        cardImg: '../../../assets/cards/2014-2016/m-gardevoir-ex-prc",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/mega-gardevoir-ex-sts.png',
+        cardImg: '../../../assets/cards/2014-2016/mega-gardevoir-ex-sts",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/garedvoir-ex-prc.png',
+        cardImg: '../../../assets/cards/2014-2016/garedvoir-ex-prc",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/gardevoir-ex-sts.png',
+        cardImg: '../../../assets/cards/2014-2016/gardevoir-ex-sts",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/xerneas-break.png',
+        cardImg: '../../../assets/cards/2018-17/xerneas-break",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/xerneas.png',
+        cardImg: '../../../assets/cards/2018-17/xerneas",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/xerneas-ex.png',
+        cardImg: '../../../assets/cards/2018-17/xerneas-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/salamence-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/salamence-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/giratina-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/giratina-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hex-maniac.png',
+        cardImg: '../../../assets/cards/2018-17/hex-maniac",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/super-rod.png',
+        cardImg: '../../../assets/cards/2018-17/super-rod",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/gardevoir-spirit-link.png',
+        cardImg: '../../../assets/cards/2014-2016/gardevoir-spirit-link",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/fairy-garden.png',
+        cardImg: '../../../assets/cards/2018-17/fairy-garden",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-fairy.png',
+        cardImg: '../../../assets/cards/energy/energy-fairy",
         numImg: '../../../assets/10.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/double-dragon-energy.png',
+        cardImg: '../../../assets/cards/energy/double-dragon-energy",
         numImg: '../../../assets/03.png'
       },
     ]
   },
   {
-    firstName: 'Aiden Yeung',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/darkrai.png',
-    list: '../../../assets/list-icon.png',
-    type: 'dark',
+    "name": "Aiden Yeung",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "darkrai",
+     
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/darkrai-ex-bkp.png',
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex-bkp",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/yveltal-sts.png',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-sts",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/tauros-gx.png',
+        cardImg: '../../../assets/cards/2018-17/tauros-gx",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lillie-sum.png',
+        cardImg: '../../../assets/cards/2018-17/lillie-sum",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hex-maniac.png',
+        cardImg: '../../../assets/cards/2018-17/hex-maniac",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ninja-boy.png',
+        cardImg: '../../../assets/cards/2018-17/ninja-boy",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-kukui.png',
+        cardImg: '../../../assets/cards/2018-17/professor-kukui",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/team-flare-grunt.png',
+        cardImg: '../../../assets/cards/2018-17/team-flare-grunt",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/enhanced-hammer.png',
+        cardImg: '../../../assets/cards/2018-17/enhanced-hammer",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/exp-share.png',
+        cardImg: '../../../assets/cards/2018-17/exp-share",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ffb.png',
+        cardImg: '../../../assets/cards/2018-17/ffb",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/silent-lab.png',
+        cardImg: '../../../assets/cards/2014-2016/silent-lab",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/parallel-city.png',
+        cardImg: '../../../assets/cards/2018-17/parallel-city",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-dark.png',
+        cardImg: '../../../assets/cards/energy/energy-dark",
         numImg: '../../../assets/12.png'
       },
     ]
   },
   {
-    firstName: 'Max Bartels',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/vileplume.png',
-    list: '../../../assets/list-icon.png',
-    type: 'grass',
+    "name": "Max Bartels",
+    "flag": "DE",
+    "sprite1": "decidueye",
+    "sprite2": "vileplume",
+     
+    type: 'grass",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/decidueye-gx.png',
+        cardImg: '../../../assets/cards/2018-17/decidueye-gx",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/dartrix.png',
+        cardImg: '../../../assets/cards/2018-17/dartrix",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rowlet.png',
+        cardImg: '../../../assets/cards/2018-17/rowlet",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vileplume.png',
+        cardImg: '../../../assets/cards/2018-17/vileplume",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/gloom.png',
+        cardImg: '../../../assets/cards/2018-17/gloom",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/oddish.png',
+        cardImg: '../../../assets/cards/2018-17/oddish",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces.png',
+        cardImg: '../../../assets/cards/2014-2016/lugia-ex-ces",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/beedrill-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/beedrill-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lillie-sum.png',
+        cardImg: '../../../assets/cards/2018-17/lillie-sum",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/level-ball.png',
+        cardImg: '../../../assets/cards/2018-17/level-ball",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/revitalizer.png',
+        cardImg: '../../../assets/cards/2018-17/revitalizer",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants.png',
+        cardImg: '../../../assets/cards/2018-17/forest-of-giant-plants",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-grass.png',
+        cardImg: '../../../assets/cards/energy/energy-grass",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Tristan Sobkowiak',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/alakazam-mega.png',
-    sprite2: '../../../assets/sprites/espeon.png',
-    list: '../../../assets/list-icon.png',
-    type: 'psychic',
+    "name": "Tristan Sobkowiak",
+    "flag": "AU",
+    "sprite1": "alakazam-mega",
+    "sprite2": "espeon",
+     
+    type: 'psychic",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/mega-alakazam-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/mega-alakazam-ex",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/alakazam-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/alakazam-ex",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/espeon-gx.png',
+        cardImg: '../../../assets/cards/2018-17/espeon-gx",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/eevee.png',
+        cardImg: '../../../assets/cards/2018-17/eevee",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/skyla.png',
+        cardImg: '../../../assets/cards/2018-17/skyla",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/delinquent.png',
+        cardImg: '../../../assets/cards/2018-17/delinquent",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/pokemon-center-lady.png',
+        cardImg: '../../../assets/cards/2018-17/pokemon-center-lady",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/mega-turbo.png',
+        cardImg: '../../../assets/cards/2018-17/mega-turbo",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/super-rod.png',
+        cardImg: '../../../assets/cards/2018-17/super-rod",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/alakazam-spirit-link.png',
+        cardImg: '../../../assets/cards/2014-2016/alakazam-spirit-link",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/parallel-city.png',
+        cardImg: '../../../assets/cards/2018-17/parallel-city",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-psychic.png',
+        cardImg: '../../../assets/cards/energy/energy-psychic",
         numImg: '../../../assets/07.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'James Kowalski',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/rayquaza-mega.png',
-    list: '../../../assets/list-icon.png',
-    type: 'normal',
+    "name": "James Kowalski",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "rayquaza-mega",
+     
+    type: 'normal",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/rayquaza-ex-mega.png',
+        cardImg: '../../../assets/cards/2018-17/rayquaza-ex-mega",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rayquaza-ex.png',
+        cardImg: '../../../assets/cards/2018-17/rayquaza-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/rayquaza-ex-dragon-promo.png',
+        cardImg: '../../../assets/cards/2014-2016/rayquaza-ex-dragon-promo",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/dragonite-ex.png',
+        cardImg: '../../../assets/cards/2018-17/dragonite-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/volcanion-ex.png',
+        cardImg: '../../../assets/cards/2018-17/volcanion-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/jirachi.png',
+        cardImg: '../../../assets/cards/2014-2016/jirachi",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hex-maniac.png',
+        cardImg: '../../../assets/cards/2018-17/hex-maniac",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/skyla.png',
+        cardImg: '../../../assets/cards/2018-17/skyla",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/puzzle-of-time.png',
+        cardImg: '../../../assets/cards/2018-17/puzzle-of-time",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/mega-turbo.png',
+        cardImg: '../../../assets/cards/2018-17/mega-turbo",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/super-rod.png',
+        cardImg: '../../../assets/cards/2018-17/super-rod",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rayquaza-spirit-link.png',
+        cardImg: '../../../assets/cards/2018-17/rayquaza-spirit-link",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/sky-field.png',
+        cardImg: '../../../assets/cards/2018-17/sky-field",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-fire.png',
+        cardImg: '../../../assets/cards/energy/energy-fire",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Zi Ler Chiew',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/vespiquen.png',
-    list: '../../../assets/list-icon.png',
-    type: 'dark',
+    "name": "Zi Ler Chiew",
+    "flag": "MY",
+    "sprite1": "blank",
+    "sprite2": "vespiquen",
+     
+    type: 'dark",
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016/vespiquen.png',
+        cardImg: '../../../assets/cards/2014-2016/vespiquen",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/combee.png',
+        cardImg: '../../../assets/cards/2014-2016/combee",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/unown.png',
+        cardImg: '../../../assets/cards/2018-17/unown",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/klefki-sts.png',
+        cardImg: '../../../assets/cards/2014-2016/klefki-sts",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/zebstrika-bkp.png',
+        cardImg: '../../../assets/cards/2014-2016/zebstrika-bkp",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/blitzle-bkp.png',
+        cardImg: '../../../assets/cards/2014-2016/blitzle-bkp",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/oranguru.png',
+        cardImg: '../../../assets/cards/2018-17/oranguru",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lillie-sum.png',
+        cardImg: '../../../assets/cards/2018-17/lillie-sum",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/delinquent.png',
+        cardImg: '../../../assets/cards/2018-17/delinquent",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hex-maniac.png',
+        cardImg: '../../../assets/cards/2018-17/hex-maniac",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-kukui.png',
+        cardImg: '../../../assets/cards/2018-17/professor-kukui",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/acro-bike.png',
+        cardImg: '../../../assets/cards/2014-2016/acro-bike",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/special-charge.png',
+        cardImg: '../../../assets/cards/2018-17/special-charge",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/switch.png',
+        cardImg: '../../../assets/cards/2018-17/switch",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/super-rod.png',
+        cardImg: '../../../assets/cards/2018-17/super-rod",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lucky-helmet.png',
+        cardImg: '../../../assets/cards/2018-17/lucky-helmet",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/dce.png',
+        cardImg: '../../../assets/cards/energy/dce",
         numImg: '../../../assets/04.png'
       },
     ]
   },
   {
-    firstName: 'Zion Di Tizio',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-    list: '../../../assets/list-icon.png',
-    type: 'fire',
+    "name": "Zion Di Tizio",
+    "flag": "BR",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+     
+    type: 'fire",
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/volcanion-ex.png',
+        cardImg: '../../../assets/cards/2018-17/volcanion-ex",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/volcanion.png',
+        cardImg: '../../../assets/cards/2018-17/volcanion",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/shaymin-ex.png',
+        cardImg: '../../../assets/cards/2018-17/shaymin-ex",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/salamence-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/salamence-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/hoopa-ex.png',
+        cardImg: '../../../assets/cards/2018-17/hoopa-ex",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/professor-sycamore.png',
+        cardImg: '../../../assets/cards/2018-17/professor-sycamore",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/n.png',
+        cardImg: '../../../assets/cards/2018-17/n",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/lysandre.png',
+        cardImg: '../../../assets/cards/2018-17/lysandre",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/fisherman.png',
+        cardImg: '../../../assets/cards/2018-17/fisherman",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/olympia.png',
+        cardImg: '../../../assets/cards/2018-17/olympia",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/pokemon-ranger.png',
+        cardImg: '../../../assets/cards/2014-2016/pokemon-ranger",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/vs-seeker.png',
+        cardImg: '../../../assets/cards/2018-17/vs-seeker",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ultra-ball.png',
+        cardImg: '../../../assets/cards/2018-17/ultra-ball",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/max-elixir.png',
+        cardImg: '../../../assets/cards/2018-17/max-elixir",
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/trainers-mail.png',
+        cardImg: '../../../assets/cards/2018-17/trainers-mail",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/pokemon-catcher.png',
+        cardImg: '../../../assets/cards/2018-17/pokemon-catcher",
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/energy-retrieval.png',
+        cardImg: '../../../assets/cards/2018-17/energy-retrieval",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/escape-rope.png',
+        cardImg: '../../../assets/cards/2018-17/escape-rope",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/switch.png',
+        cardImg: '../../../assets/cards/2018-17/switch",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/ffb.png',
+        cardImg: '../../../assets/cards/2018-17/ffb",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/float-stone.png',
+        cardImg: '../../../assets/cards/2018-17/float-stone",
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/scorched-earth.png',
+        cardImg: '../../../assets/cards/2018-17/scorched-earth",
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/energy-fire.png',
+        cardImg: '../../../assets/cards/energy/energy-fire",
         numImg: '../../../assets/12.png'
       },
     ]
@@ -3324,13 +3324,13 @@ function displayList(array = []) {
 
     let flagImg = document.createElement('img');
         flagImg.classList.add('flag-size');
-        flagImg.setAttribute('src', item.flag);
+        flagImg.setAttribute('src", item.flag);
 
         let countryName = document.createElement('div');
         countryName.classList.add('country-name');
         countryName.style.display = 'none';
 
-        flagImg.addEventListener('mouseover', function() {
+        flagImg.addEventListener('mouseover", function() {
             if (flagImg.getAttribute('src').includes('argentina')) {
                 countryName.textContent = 'Argentina (Latin America)';
                 countryName.style.display = 'block';
@@ -3533,7 +3533,7 @@ function displayList(array = []) {
             }
         });
 
-        flagImg.addEventListener('mouseout', function() {
+        flagImg.addEventListener('mouseout", function() {
             countryName.style.display = 'none';
         });
 
@@ -3542,14 +3542,14 @@ function displayList(array = []) {
 
     let firstSprite = document.createElement('img');
     firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
+    firstSprite.setAttribute('src", item.sprite1);
     let secondSprite = document.createElement('img');
     secondSprite.classList.add('sprite');
     secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
+    secondSprite.setAttribute('src", item.sprite2);
     let listIcon = document.createElement('img');
     listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
+    listIcon.setAttribute('src", item.list);
 
      
     
@@ -3557,18 +3557,18 @@ function displayList(array = []) {
     title.appendChild(playerName);
         playerName.appendChild(countryName); // Append the country name element
         playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
+    playerName.append(item."name");
     title.appendChild(deck);
     deck.appendChild(firstSprite);
     deck.appendChild(secondSprite);
     deck.appendChild(listIcon);
 
     if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
+      item_element.addEventListener('click", function () {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2017 OCIC";
+                    document.querySelector('.playerName').innerHTML = item."name" + " - 2017 OCIC";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -3604,22 +3604,22 @@ function displayList(array = []) {
 
           let pokeCard = document.createElement('img');
           pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
+          pokeCard.setAttribute('src", deck.cardImg);
 
           let numberCounter = document.createElement('img');
           numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
+          numberCounter.setAttribute('src", deck.numImg);
 
           cardSpace.appendChild(pokeCard);
           cardSpace.appendChild(numberCounter);
           modalBottom.appendChild(cardSpace);
 
-          modalX.addEventListener('click', () => {
+          modalX.addEventListener('click", () => {
             modal.style.display = 'none';
             behind.style.display = 'none';
             cardSpace.remove();
           })
-          behind.addEventListener('click', () => {
+          behind.addEventListener('click", () => {
             modal.style.display = 'none';
             behind.style.display = 'none';
             cardSpace.remove();
@@ -3667,13 +3667,13 @@ function displayList2(array = []) {
 
     let flagImg = document.createElement('img');
         flagImg.classList.add('flag-size');
-        flagImg.setAttribute('src', item.flag);
+        flagImg.setAttribute('src", item.flag);
 
         let countryName = document.createElement('div');
         countryName.classList.add('country-name');
         countryName.style.display = 'none';
 
-        flagImg.addEventListener('mouseover', function() {
+        flagImg.addEventListener('mouseover", function() {
             if (flagImg.getAttribute('src').includes('argentina')) {
                 countryName.textContent = 'Argentina (Latin America)';
                 countryName.style.display = 'block';
@@ -3876,7 +3876,7 @@ function displayList2(array = []) {
             }
         });
 
-        flagImg.addEventListener('mouseout', function() {
+        flagImg.addEventListener('mouseout", function() {
             countryName.style.display = 'none';
         });
 
@@ -3885,14 +3885,14 @@ function displayList2(array = []) {
 
     let firstSprite = document.createElement('img');
     firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
+    firstSprite.setAttribute('src", item.sprite1);
     let secondSprite = document.createElement('img');
     secondSprite.classList.add('sprite');
     secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
+    secondSprite.setAttribute('src", item.sprite2);
     let listIcon = document.createElement('img');
     listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
+    listIcon.setAttribute('src", item.list);
 
      
     
@@ -3900,18 +3900,18 @@ function displayList2(array = []) {
     title.appendChild(playerName);
         playerName.appendChild(countryName); // Append the country name element
         playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
+    playerName.append(item."name");
     title.appendChild(deck);
     deck.appendChild(firstSprite);
     deck.appendChild(secondSprite);
     deck.appendChild(listIcon);
 
     if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
+      item_element.addEventListener('click", function () {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2017 OCIC";
+                    document.querySelector('.playerName').innerHTML = item."name" + " - 2017 OCIC";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -3947,22 +3947,22 @@ function displayList2(array = []) {
 
           let pokeCard = document.createElement('img');
           pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
+          pokeCard.setAttribute('src", deck.cardImg);
 
           let numberCounter = document.createElement('img');
           numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
+          numberCounter.setAttribute('src", deck.numImg);
 
           cardSpace.appendChild(pokeCard);
           cardSpace.appendChild(numberCounter);
           modalBottom.appendChild(cardSpace);
 
-          modalX.addEventListener('click', () => {
+          modalX.addEventListener('click", () => {
             modal.style.display = 'none';
             behind.style.display = 'none';
             cardSpace.remove();
           })
-          behind.addEventListener('click', () => {
+          behind.addEventListener('click", () => {
             modal.style.display = 'none';
             behind.style.display = 'none';
             cardSpace.remove();
@@ -4009,13 +4009,13 @@ function displayList3(array = []) {
 
     let flagImg = document.createElement('img');
         flagImg.classList.add('flag-size');
-        flagImg.setAttribute('src', item.flag);
+        flagImg.setAttribute('src", item.flag);
 
         let countryName = document.createElement('div');
         countryName.classList.add('country-name');
         countryName.style.display = 'none';
 
-        flagImg.addEventListener('mouseover', function() {
+        flagImg.addEventListener('mouseover", function() {
             if (flagImg.getAttribute('src').includes('argentina')) {
                 countryName.textContent = 'Argentina (Latin America)';
                 countryName.style.display = 'block';
@@ -4218,7 +4218,7 @@ function displayList3(array = []) {
             }
         });
 
-        flagImg.addEventListener('mouseout', function() {
+        flagImg.addEventListener('mouseout", function() {
             countryName.style.display = 'none';
         });
 
@@ -4227,14 +4227,14 @@ function displayList3(array = []) {
 
     let firstSprite = document.createElement('img');
     firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
+    firstSprite.setAttribute('src", item.sprite1);
     let secondSprite = document.createElement('img');
     secondSprite.classList.add('sprite');
     secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
+    secondSprite.setAttribute('src", item.sprite2);
     let listIcon = document.createElement('img');
     listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
+    listIcon.setAttribute('src", item.list);
 
      
     
@@ -4242,18 +4242,18 @@ function displayList3(array = []) {
     title.appendChild(playerName);
         playerName.appendChild(countryName); // Append the country name element
         playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
+    playerName.append(item."name");
     title.appendChild(deck);
     deck.appendChild(firstSprite);
     deck.appendChild(secondSprite);
     deck.appendChild(listIcon);
 
     if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
+      item_element.addEventListener('click", function () {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2017 OCIC";
+                    document.querySelector('.playerName').innerHTML = item."name" + " - 2017 OCIC";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -4289,22 +4289,22 @@ function displayList3(array = []) {
 
           let pokeCard = document.createElement('img');
           pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
+          pokeCard.setAttribute('src", deck.cardImg);
 
           let numberCounter = document.createElement('img');
           numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
+          numberCounter.setAttribute('src", deck.numImg);
 
           cardSpace.appendChild(pokeCard);
           cardSpace.appendChild(numberCounter);
           modalBottom.appendChild(cardSpace);
 
-          modalX.addEventListener('click', () => {
+          modalX.addEventListener('click", () => {
             modal.style.display = 'none';
             behind.style.display = 'none';
             cardSpace.remove();
           })
-          behind.addEventListener('click', () => {
+          behind.addEventListener('click", () => {
             modal.style.display = 'none';
             behind.style.display = 'none';
             cardSpace.remove();

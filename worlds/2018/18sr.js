@@ -1,13 +1,10 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Magnus Pederson',
-      flag: '../../assets/flags/denmark.png',
-      sprite1: '../../assets/sprites/banette.png',
-      sprite2: '../../assets/sprites/garbodor.png',
-      list: '../../assets/list-icon.png',
-      deckid: "banette-garbodor",
-      event: "2018 World Championships - Seniors",
-      decklist: {
+      "name": "Magnus Pederson",
+      "flag": "DK",
+      "sprite1": "banette",
+      "sprite2": "garbodor",
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -68,7 +65,7 @@ let masters = [
             "name": "Wobbuffet",
             "number": "RC11",
             "set": "GEN"
-          },
+          }
         ],
         "trainer": [
           {
@@ -142,7 +139,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
@@ -167,14 +164,11 @@ let masters = [
       }
     },
     {
-      firstName: 'Conner Pederson',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/buzzwole.png',
-      sprite2: '../../assets/sprites/garbodor.png',
-      list: '../../assets/list-icon.png',
-      deckid: "buzzshrine",
-      event: "2018 World Championships - Seniors",
-      decklist: {
+      "name": "Conner Pederson",
+      "flag": "US",
+      "sprite1": "buzzwole",
+      "sprite2": "garbodor",
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -229,7 +223,7 @@ let masters = [
             "name": "Oranguru",
             "number": "113",
             "set": "SUM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -254,75 +248,75 @@ let masters = [
             "name": "N",
             "number": "105",
             "set": "FCO",
-            "count": 2,
+            "count": 2
           },
           {
             "name": "Ultra Ball",
             "number": "135",
             "set": "SUM",
-            "count": 4,
+            "count": 4
           },
           {
             "name": "Field Blower",
             "number": "125",
             "set": "GRI",
-            "count": 3,
+            "count": 3
           },
           {
             "name": "Rescue Stretcher",
             "number": "130",
             "set": "GRI",
-            "count": 3,
+            "count": 3
           },
           {
             "name": "Special Charge",
             "number": "105",
             "set": "STS",
-            "count": 1,
+            "count": 1
           },
           {
             "name": "Choice Band",
             "number": "121",
             "set": "GRI",
-            "count": 4,
+            "count": 4
           },
           {
             "name": "Float Stone",
             "number": "137",
             "set": "BKT",
-            "count": 3,
+            "count": 3
           },
           {
             "name": "Brooklet Hill",
             "number": "120",
             "set": "GRI",
-            "count": 2,
+            "count": 2
           },
           {
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES",
             "count": 2,
-          },
+          }
         ],
         "energy": [
           {
             "name": "Psychic Energy",
             "number": "psychic",
             "set": "SUM",
-            "count": 1,
+            "count": 1
           },
           {
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI",
-            "count": 4,
+            "count": 4
           },
           {
             "name": "Rainbow Energy",
             "number": "137",
             "set": "SUM",
-            "count": 4,
+            "count": 4
           },
           {
             "name": "Beast Energy ♢",
@@ -334,14 +328,11 @@ let masters = [
       },
     },
     {
-      firstName: 'Takumi Kaji',
-      flag: '../../assets/flags/japan.png',
-      sprite1: '../../assets/sprites/buzzwole.png',
-      sprite2: '../../assets/sprites/lycanroc-midnight.png',
-      list: '../../assets/list-icon.png',
-      deckid: "buzzwole-gx",
-      event: "2018 World Championships - Seniors",
-      decklist: {
+      "name": "Takumi Kaji",
+      "flag": "JP",
+      "sprite1": "buzzwole",
+      "sprite2": "lycanroc-midnight",
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -390,7 +381,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-          },
+          }
         ],
         "trainer": [
           {
@@ -459,7 +450,7 @@ let masters = [
             "name": "Brooklet Hill",
             "number": "120",
             "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -484,51 +475,48 @@ let masters = [
       }
     },
     {
-      firstName: 'Matthew Campbell',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/sprites/greninja.png',
-      list: '../../assets/list-icon.png',
-      deckid: "greninja",
-      event: "2018 World Championships - Seniors",
-      decklist: {
+      "name": "Matthew Campbell",
+      "flag": "US",
+      "sprite1": "blank",
+      "sprite2": "greninja",
+      "decklist": {
         "pokemon": [
           {
             "name": "Greninja BREAK",
               "number": "41",
               "set": "BKP",
-            "count": 3,
+            "count": 3
           },
           {
             "name": "Greninja",
               "number": "40",
               "set": "BKP",
-            "count": 4,
+            "count": 4
           },
           {
             "name": "Frogadier",
                "number": "39",
                "set": "BKP",
-            "count": 4,
+            "count": 4
           },
           {
             "name": "Froakie",
                "number": "22",
                "set": "FLI",
-            "count": 4,
+            "count": 4
           },
           {
             "name": "Starmie",
                "number": "31",
                "set": "EVO",
-            "count": 1,
+            "count": 1
           },
           {
             "name": "Staryu",
                "number": "25",
                "set": "BKP",
             "count": 1,
-          },
+          }
         ],
         "trainer": [
           {
@@ -541,81 +529,81 @@ let masters = [
             "name": "N",
             "number": "105",
             "set": "FCO",
-            "count": 4,
+            "count": 4
           },
           {
             "name": "Professor Sycamore",
                 "number": "107",
                 "set": "BKP",
-            "count": 2,
+            "count": 2
           },
           {
             "name": "Evosoda",
                 "number": "116",
                 "set": "XY",
-            "count": 4,
+            "count": 4
           },
           {
             "name": "Ultra Ball",
             "number": "135",
             "set": "SUM",
-                "count": 3,
+                "count": 3
           },
           {
             "name": "Max Potion",
                 "number": "128",
                 "set": "GRI",
-            "count": 3,
+            "count": 3
           },
           {
             "name": "Enhanced Hammer",
                 "number": "124",
                 "set": "GRI",
-            "count": 2,
+            "count": 2
           },
           {
             "name": "Field Blower",
             "number": "125",
             "set": "GRI",
-            "count": 2,
+            "count": 2
           },
           {
             "name": "Random Receiver",
                 "number": "109",
                 "set": "FCO",
-            "count": 2,
+            "count": 2
           },
           {
             "name": "Rescue Stretcher",
             "number": "130",
             "set": "GRI",
-            "count": 1,
+            "count": 1
           },
           {
             "name": "Super Rod",
                  "number": "149",
                  "set": "BKT",
-            "count": 1,
+            "count": 1
           },
           {
             "name": "Choice Band",
             "number": "121",
             "set": "GRI",
-            "count": 2,
+            "count": 2
           },
           {
             "name": "Brooklet Hill",
             "number": "120",
             "set": "GRI",
             "count": 3,
-          },
+          }
         ],
         "energy": [
           {
             "name": "Water Energy",
                 "number": "water",
                 "set": "SUM",
-            "count": 6,
+            "count": 6
           },
           {
             "name": "Splash Energy",
@@ -627,14 +615,11 @@ let masters = [
       }
     },
     {
-      firstName: 'Benjamin Branch-Trevathan',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/buzzwole.png',
-      sprite2: '../../assets/sprites/lycanroc-midnight.png',
-      list: '../../assets/list-icon.png',
-      deckid: "buzzwole-gx",
-      event: "2018 World Championships - Seniors",
-      decklist: {
+      "name": "Benjamin Branch-Trevathan",
+      "flag": "US",
+      "sprite1": "buzzwole",
+      "sprite2": "lycanroc-midnight",
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -683,7 +668,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-          },
+          }
         ],
         "trainer": [
           {
@@ -752,7 +737,7 @@ let masters = [
             "name": "Brooklet Hill",
             "number": "120",
             "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -783,14 +768,11 @@ let masters = [
       }
     },
     {
-      firstName: 'Caleb Banwarie',
-      flag: '../../assets/flags/canada.png',
-      sprite1: '../../assets/sprites/zoroark.png',
-      sprite2: '../../assets/sprites/garbodor.png',
-      list: '../../assets/list-icon.png',
-      deckid: "zoroark-garbodor",
-      event: "2018 World Championships - Seniors",
-      decklist: {
+      "name": "Caleb Banwarie",
+      "flag": "CA",
+      "sprite1": "zoroark",
+      "sprite2": "garbodor",
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -845,7 +827,7 @@ let masters = [
             "name": "Oranguru",
             "number": "114",
             "set": "UPR"
-          },
+          }
         ],
         "trainer": [
           {
@@ -955,7 +937,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
@@ -980,14 +962,11 @@ let masters = [
       }
     },
     {
-      firstName: 'Jihun Choi',
-      flag: '../../assets/flags/korea.png',
-      sprite1: '../../assets/sprites/golisopod.png',
-      sprite2: '../../assets/sprites/garbodor.png',
-      list: '../../assets/list-icon.png',
-      deckid: "golisopod-garbodor",
-      event: "2018 World Championships - Seniors",
-      decklist: {
+      "name": "Jihun Choi",
+      "flag": "KR",
+      "sprite1": "golisopod",
+      "sprite2": "garbodor",
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -1036,7 +1015,7 @@ let masters = [
             "name": "Tapu Koko",
             "number": "31",
             "set": "PR-SM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1116,7 +1095,7 @@ let masters = [
             "name": "Choice Band",
             "number": "121",
             "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -1141,14 +1120,11 @@ let masters = [
       }
     },
     {
-      firstName: 'Tanner Hurley',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/zoroark.png',
-      sprite2: '../../assets/sprites/garbodor.png',
-      list: '../../assets/list-icon.png',
-      deckid: "zoroark-garbodor",
-      event: "2018 World Championships - Seniors",
-      decklist: {
+      "name": "Tanner Hurley",
+      "flag": "US",
+      "sprite1": "zoroark",
+      "sprite2": "garbodor",
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1191,7 +1167,7 @@ let masters = [
             "name": "Oranguru",
             "number": "114",
             "set": "UPR"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1301,7 +1277,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {

@@ -768,7 +768,7 @@ const eventFlags = document.querySelectorAll(".tournament-flags");
 eventFlags.forEach(flag => {
     const hoveredFlag = flag.closest('.tournament-flags-container').querySelector('.country-name-tournaments');
 
-    flag.closest('.tournament-flags-container').addEventListener('mouseenter', function() {
+    flag.closest('.tournament-flags-container').addEventListener('mouseenter", function() {
         if (flag.getAttribute('src').includes('argentina')) {
             hoveredFlag.textContent = 'Argentina (Latin America)';
             hoveredFlag.style.display = 'block';
@@ -979,7 +979,7 @@ eventFlags.forEach(flag => {
         }
     });
 
-    flag.closest('.tournament-flags-container').addEventListener('mouseleave', function() {
+    flag.closest('.tournament-flags-container').addEventListener('mouseleave", function() {
         hoveredFlag.style.display = 'none';
     });
 })

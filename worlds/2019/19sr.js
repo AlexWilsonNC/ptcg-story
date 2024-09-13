@@ -1,13 +1,10 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Kaya Lichtleitner',
-      flag: '../../assets/flags/germany.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/sprites/reshiram-charizard-tagteam.png',
-      list: '../../assets/list-icon.png',
-      deckid: "reshizard",
-      event: "2019 World Championships - Seniors",
-      decklist: {
+      "name": "Kaya Lichtleitner",
+      "flag": "DE",
+      "sprite1": "blank",
+      "sprite2": "reshiram-charizard-tagteam",
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -56,7 +53,7 @@ let masters = [
             "name": "Turtonator",
             "number": "50",
             "set": "DRM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -118,7 +115,7 @@ let masters = [
             "name": "Heat Factory ♢",
             "number": "178",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -131,21 +128,18 @@ let masters = [
       }
     },
     {
-      firstName: 'Grant Shen',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/sprites/gardevoir-sylveon-tagteam.png',
-      list: '../../assets/list-icon.png',
-      deckid: "gardevoir-sylveon-tagteam",
-      event: "2019 World Championships - Seniors",
-      decklist: {
+      "name": "Grant Shen",
+      "flag": "US",
+      "sprite1": "blank",
+      "sprite2": "gardevoir-sylveon-tagteam",
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
             "name": "Gardevoir & Sylveon GX",
             "number": "130",
             "set": "UNB"
-          },
+          }
         ],
         "trainer": [
           {
@@ -267,7 +261,7 @@ let masters = [
             "name": "Wondrous Labyrinth ♢",
             "number": "158",
             "set": "TEU"
-        },
+        }
         ],
         "energy": [
           {
@@ -280,14 +274,11 @@ let masters = [
       }
     },
     {
-      firstName: 'Rowan Stavenow',
-      flag: '../../assets/flags/uk.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/sprites/mewtwo-mew-tagteam.png',
-      list: '../../assets/list-icon.png',
-      deckid: "mewtwo-and-mew-tagteam",
-      event: "2019 World Championships - Seniors",
-      decklist: {
+      "name": "Rowan Stavenow",
+      "flag": "UK",
+      "sprite1": "blank",
+      "sprite2": "mewtwo-mew-tagteam",
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -354,7 +345,7 @@ let masters = [
               "name": "Marshadow",
               "number": "81",
               "set": "UNB"
-          },
+          }
         ],
         "trainer": [
           {
@@ -428,7 +419,7 @@ let masters = [
               "name": "Heat Factory ♢",
               "number": "178",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -447,14 +438,11 @@ let masters = [
       }
     },
     {
-      firstName: 'Thomas Naylor',
-      flag: '../../assets/flags/uk.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
-      list: '../../assets/list-icon.png',
-      deckid: "pikarom",
-      event: "2019 World Championships - Seniors",
-      decklist: {
+      "name": "Thomas Naylor",
+      "flag": "UK",
+      "sprite1": "blank",
+      "sprite2": "pikachu-zekrom-tagteam",
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -503,7 +491,7 @@ let masters = [
               "name": "Zapdos",
               "number": "40",
               "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -601,7 +589,7 @@ let masters = [
             "name": "Thunder Mountain ♢",
             "number": "191",
             "set": "LOT"
-        },
+        }
         ],
         "energy": [
           {
@@ -614,14 +602,11 @@ let masters = [
       }
     },
     {
-      firstName: 'Iain Harding',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/reshiram-charizard-tagteam.png',
-      sprite2: '../../assets/sprites/volcanion-right.png',
-      list: '../../assets/list-icon.png',
-      deckid: "greens-zard",
-      event: "2019 World Championships - Seniors",
-      decklist: {
+      "name": "Iain Harding",
+      "flag": "US",
+      "sprite1": "reshiram-charizard-tagteam",
+      "sprite2": "volcanion-right",
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -634,7 +619,7 @@ let masters = [
               "name": "Volcanion",
               "number": "25",
               "set": "UNB"
-          },
+          }
         ],
         "trainer": [
           {
@@ -744,7 +729,7 @@ let masters = [
               "name": "Heat Factory ♢",
               "number": "178",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -757,14 +742,11 @@ let masters = [
       }
     },
     {
-      firstName: 'YouTae Woo',
-      flag: '../../assets/flags/korea.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
-      list: '../../assets/list-icon.png',
-      deckid: "pikarom",
-      event: "2019 World Championships - Seniors",
-      decklist: {
+      "name": "YouTae Woo",
+      "flag": "KR",
+      "sprite1": "blank",
+      "sprite2": "pikachu-zekrom-tagteam",
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -819,7 +801,7 @@ let masters = [
               "name": "Mew",
               "number": "76",
               "set": "UNB"
-          },
+          }
         ],
         "trainer": [
           {
@@ -905,7 +887,7 @@ let masters = [
               "name": "Thunder Mountain ♢",
               "number": "191",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -918,14 +900,11 @@ let masters = [
       }
     },
     {
-      firstName: 'James Cox',
-      flag: '../../assets/flags/australia.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/sprites/mewtwo-mew-tagteam.png',
-      list: '../../assets/list-icon.png',
-      deckid: "mewtwo-and-mew-tagteam",
-      event: "2019 World Championships - Seniors",
-      decklist: {
+      "name": "James Cox",
+      "flag": "AU",
+      "sprite1": "blank",
+      "sprite2": "mewtwo-mew-tagteam",
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -1004,7 +983,7 @@ let masters = [
               "name": "Wobbuffet",
               "number": "93",
               "set": "LOT"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1072,7 +1051,7 @@ let masters = [
               "name": "Escape Board",
               "number": "122",
               "set": "UPR"
-          },
+          }
         ],
         "energy": [
           {
@@ -1091,14 +1070,11 @@ let masters = [
       }
     },
     {
-      firstName: 'Noa Bell',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/reshiram-charizard-tagteam.png',
-      sprite2: '../../assets/sprites/volcanion-right.png',
-      list: '../../assets/list-icon.png',
-      deckid: "greens-zard",
-      event: "2019 World Championships - Seniors",
-      decklist: {
+      "name": "Noa Bell",
+      "flag": "US",
+      "sprite1": "reshiram-charizard-tagteam",
+      "sprite2": "volcanion-right",
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -1111,7 +1087,7 @@ let masters = [
               "name": "Volcanion",
               "number": "25",
               "set": "UNB"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1215,7 +1191,7 @@ let masters = [
               "name": "Heat Factory ♢",
               "number": "178",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {

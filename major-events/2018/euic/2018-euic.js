@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
   {
-    firstName: 'Tord Reklev',
-    flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Tord Reklev",
+    "flag": "NO",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+     
     deckid: "zoroark-golisopod",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -62,7 +62,7 @@ let masters = [
               "number": "97",
               "set": "BKT",
           "count": 1,
-        },
+        }
       ],
       "trainer": [
         {
@@ -130,7 +130,7 @@ let masters = [
             "name": "Choice Band",
             "number": "121",
             "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -144,19 +144,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Zakary Krekeler',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/silvally.png',
-    sprite2: '../../../assets/sprites/registeel.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Zakary Krekeler",
+    "flag": "US",
+    "sprite1": "silvally",
+    "sprite2": "registeel",
+     
     deckid: "silvally",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "name": "Silvally GX",
@@ -211,7 +211,7 @@ let masters = [
               "name": "Oranguru",
               "number": "113",
               "set": "SUM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -279,7 +279,7 @@ let masters = [
               "number": "94",
               "set": "CIN",
           "count": 2,
-        },
+        }
       ],
       "energy": [
         {
@@ -293,19 +293,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Christopher Schemanske',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Christopher Schemanske",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+     
     deckid: "gardevoir-gx",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -360,7 +360,7 @@ let masters = [
            "name": "Alolan Vulpix",
            "number": "21",
            "set": "GRI"
-       },
+       }
       ],
       "trainer": [
         {
@@ -428,7 +428,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -442,19 +442,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Michael Long',
-    flag: '../../../assets/flags/canada.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/greninja.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Michael Long",
+    "flag": "CA",
+    "sprite1": "blank",
+    "sprite2": "greninja",
+     
     deckid: "greninja",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -503,7 +503,7 @@ let masters = [
            "name": "Tapu Lele GX",
            "number": "60",
            "set": "GRI"
-       },
+       }
       ],
       "trainer": [
         {
@@ -577,7 +577,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -591,19 +591,19 @@ let masters = [
             "name": "Splash Energy",
             "number": "113",
             "set": "BKP"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Teodor Skjæveland',
-    flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Teodor Skjæveland",
+    "flag": "NO",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -658,7 +658,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -720,7 +720,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -734,19 +734,19 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Fredrik Wold',
-    flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Fredrik Wold",
+    "flag": "NO",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -801,7 +801,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -863,7 +863,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -877,19 +877,19 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Eemeli Reijonen',
-    flag: '../../../assets/flags/finland.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Eemeli Reijonen",
+    "flag": "FI",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+     
     deckid: "volcanion",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -926,7 +926,7 @@ let masters = [
               "name": "Oranguru",
               "number": "113",
               "set": "SUM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1000,7 +1000,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -1008,19 +1008,19 @@ let masters = [
             "name": "Fire Energy",
             "number": "fire",
             "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Magnus Kalland',
-    flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Magnus Kalland",
+    "flag": "NO",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+     
     deckid: "zoroark-golisopod",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1075,7 +1075,7 @@ let masters = [
               "number": "97",
               "set": "BKT",
           "count": 1,
-        },
+        }
       ],
       "trainer": [
         {
@@ -1143,7 +1143,7 @@ let masters = [
             "name": "Choice Band",
             "number": "121",
             "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -1157,19 +1157,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Benjamin Pham',
-    flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Benjamin Pham",
+    "flag": "NL",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+     
     deckid: "zoroark-golisopod",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1224,7 +1224,7 @@ let masters = [
               "number": "97",
               "set": "BKT",
           "count": 1,
-        },
+        }
       ],
       "trainer": [
         {
@@ -1286,7 +1286,7 @@ let masters = [
             "name": "Choice Band",
             "number": "121",
             "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -1300,29 +1300,29 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Joao Joaquim',
-    flag: '../../../assets/flags/portugal.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/zoroark.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Joao Joaquim",
+    "flag": "PT",
+    "sprite1": "decidueye",
+    "sprite2": "zoroark",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "decidueye-zoroark",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Grafton Roll',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/silvally.png',
-    sprite2: '../../../assets/sprites/zoroark.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Grafton Roll",
+    "flag": "US",
+    "sprite1": "silvally",
+    "sprite2": "zoroark",
+     
     deckid: "silvally-zoroark",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "name": "Silvally GX",
@@ -1383,7 +1383,7 @@ let masters = [
               "name": "Giratina",
               "number": "184",
               "set": "PR-XY"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1469,7 +1469,7 @@ let masters = [
               "number": "98",
               "set": "CIN",
           "count": 2,
-        },
+        }
       ],
       "energy": [
         {
@@ -1483,19 +1483,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Stéphane Ivanoff',
-    flag: '../../../assets/flags/france.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/zoroark.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Stéphane Ivanoff",
+    "flag": "FR",
+    "sprite1": "decidueye",
+    "sprite2": "zoroark",
+     
     deckid: "decidueye-zoroark",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1550,7 +1550,7 @@ let masters = [
               "name": "Mewtwo",
               "number": "51",
               "set": "EVO"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1624,7 +1624,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -1638,19 +1638,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Yasin Balela',
-    flag: '../../../assets/flags/uk.png',
-    sprite1: '../../../assets/sprites/silvally.png',
-    sprite2: '../../../assets/sprites/registeel.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Yasin Balela",
+    "flag": "UK",
+    "sprite1": "silvally",
+    "sprite2": "registeel",
+     
     deckid: "silvally",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "name": "Silvally GX",
@@ -1717,7 +1717,7 @@ let masters = [
               "name": "Oranguru",
               "number": "113",
               "set": "SUM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1779,7 +1779,7 @@ let masters = [
               "number": "94",
               "set": "CIN",
           "count": 2,
-        },
+        }
       ],
       "energy": [
         {
@@ -1793,19 +1793,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Damian Wincenciak',
-    flag: '../../../assets/flags/poland.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Damian Wincenciak",
+    "flag": "PL",
+    "sprite1": "gardevoir",
+    "sprite2": "sylveon",
+     
     deckid: "gardevoir-gx",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -1860,7 +1860,7 @@ let masters = [
            "name": "Remoraid",
            "number": "32",
            "set": "BKT"
-       },
+       }
       ],
       "trainer": [
         {
@@ -1928,7 +1928,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -1942,29 +1942,29 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Ian Robb',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/drampa.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Ian Robb",
+    "flag": "US",
+    "sprite1": "drampa",
+    "sprite2": "garbodor",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "drampa-garbodor",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Sander Wojcik',
-    flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/heatmor.png',
-    sprite2: '../../../assets/sprites/raichu.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Sander Wojcik",
+    "flag": "NL",
+    "sprite1": "heatmor",
+    "sprite2": "raichu",
+     
     deckid: "shocklock",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "name": "Heatmor",
@@ -2019,7 +2019,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
           {
@@ -2086,7 +2086,7 @@ let masters = [
             "name": "Devolution Spray",
                 "number": "76",
                 "set": "EVO",
-            "count": 4,
+            "count": 4
           },
           {
             "count": 4,
@@ -2123,7 +2123,7 @@ let masters = [
               "name": "Float Stone",
               "number": "137",
               "set": "BKT"
-          },
+          }
       ],
       "energy": [
         {
@@ -2137,951 +2137,29 @@ let masters = [
               "name": "Rainbow Energy",
               "number": "137",
               "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Stephan Nørregård',
-    flag: '../../../assets/flags/denmark.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Stephan Nørregård",
+    "flag": "DK",
+    "sprite1": "gardevoir",
+    "sprite2": "sylveon",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "gardevoir-gx",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Michael Slutsky',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Michael Slutsky",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+     
     deckid: "gardevoir-gx",
     event: "2018 Europe Internationals",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 3,
-           "name": "Gardevoir GX",
-           "number": "93",
-           "set": "BUS"
-       },
-       {
-          "count": 2,
-           "name": "Gallade",
-           "number": "84",
-           "set": "BKT"
-       },
-       {
-         "name": "Kirlia",
-             "number": "69",
-             "set": "BKT",
-         "count": 3,
-       },
-       {
-         "count": 4,
-           "name": "Ralts",
-           "number": "91",
-           "set": "BUS"
-       },
-       {
-         "count": 3,
-           "name": "Tapu Lele GX",
-           "number": "60",
-           "set": "GRI"
-       },
-       {
-         "count": 1,
-           "name": "Octillery",
-           "number": "33",
-           "set": "BKT"
-       },
-       {
-         "count": 1,
-           "name": "Remoraid",
-           "number": "32",
-           "set": "BKT"
-       },
-       {
-         "count": 1,
-           "name": "Alolan Vulpix",
-           "number": "21",
-           "set": "GRI"
-       },
-      ],
-      "trainer": [
-        {
-          "count": 4,
-            "name": "N",
-            "number": "105",
-            "set": "FCO"
-        },
-        {
-          "count": 3,
-            "name": "Professor Sycamore",
-            "number": "107",
-            "set": "BKP"
-        },
-        {
-          "count": 3,
-            "name": "Guzma",
-            "number": "115",
-            "set": "BUS"
-        },
-        {
-          "count": 2,
-            "name": "Brigette",
-            "number": "134",
-            "set": "BKT"
-        },
-        {
-          "count": 4,
-            "name": "Ultra Ball",
-            "number": "135",
-            "set": "SUM"
-        },
-        {
-          "count": 4,
-            "name": "Rare Candy",
-            "number": "129",
-            "set": "SUM"
-        },
-        {
-          "count": 4,
-            "name": "Max Potion",
-            "number": "128",
-            "set": "GRI"
-        },
-        {
-          "count": 2,
-            "name": "Field Blower",
-            "number": "125",
-            "set": "GRI"
-        },
-        {
-          "count": 2,
-            "name": "Super Rod",
-            "number": "149",
-            "set": "BKT"
-        },
-        {
-          "count": 2,
-            "name": "Choice Band",
-            "number": "121",
-            "set": "GRI"
-        },
-        {
-          "count": 1,
-            "name": "Parallel City",
-            "number": "145",
-            "set": "BKT"
-        },
-      ],
-      "energy": [
-        {
-          "count": 7,
-            "name": "Fairy Energy",
-            "number": "fairy",
-            "set": "SUM"
-        },
-        {
-          "count": 4,
-          "name": "Double Colorless Energy",
-          "number": "136",
-          "set": "SUM"
-        },
-      ]
-    }
-  },
-  {
-    firstName: 'Clifton Goh',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
-    deckid: "gardevoir-gx",
-   event: "2018 Europe Internationals",
-  },
-  {
-    firstName: 'Robin Schulz',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-    list: '../../../assets/list-icon.png',
-    deckid: "zoroark-golisopod",
-    event: "2018 Europe Internationals",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 4,
-            "name": "Zoroark GX",
-            "number": "53",
-            "set": "SLG"
-        },
-        {
-          "count": 3,
-            "name": "Zorua",
-            "number": "52",
-            "set": "SLG"
-        },
-        {
-          "name": "Zorua",
-              "number": "89",
-              "set": "BKT",
-          "count": 1,
-        },
-        {
-          "count": 2,
-            "name": "Golisopod GX",
-            "number": "17",
-            "set": "BUS"
-        },
-        {
-          "count": 3,
-            "name": "Wimpod",
-            "number": "16",
-            "set": "BUS"
-        },
-        {
-          "count": 3,
-            "name": "Tapu Lele GX",
-            "number": "60",
-            "set": "GRI"
-        },
-        {
-          "count": 1,
-            "name": "Tapu Koko",
-            "number": "31",
-            "set": "PR-SM"
-        },
-        {
-          "count": 1,
-              "name": "Mewtwo",
-              "number": "51",
-              "set": "EVO"
-        },
-        {
-          "name": "Mr. Mime",
-              "number": "97",
-              "set": "BKT",
-          "count": 1,
-        },
-      ],
-      "trainer": [
-        {
-          "count": 4,
-            "name": "N",
-            "number": "105",
-            "set": "FCO"
-        },
-        {
-         "count": 4,
-            "name": "Guzma",
-            "number": "115",
-            "set": "BUS"
-        },
-        {
-          "count": 3,
-            "name": "Acerola",
-            "number": "112",
-            "set": "BUS"
-        },
-        {
-          "count": 3,
-            "name": "Brigette",
-            "number": "134",
-            "set": "BKT"
-        },
-        {
-          "count": 2,
-            "name": "Professor Sycamore",
-            "number": "107",
-            "set": "BKP"
-        },
-        {
-           "count": 1,
-          "name": "Mallow",
-          "number": "127",
-          "set": "GRI"
-        },
-        {
-          "count": 4,
-            "name": "Ultra Ball",
-            "number": "135",
-            "set": "SUM"
-        },
-        {
-          "count": 4,
-            "name": "Puzzle of Time",
-            "number": "109",
-            "set": "BKP"
-        },
-        {
-          "count": 4,
-            "name": "Field Blower",
-            "number": "125",
-            "set": "GRI"
-        },
-        {
-          "count": 2,
-            "name": "Enhanced Hammer",
-            "number": "124",
-            "set": "GRI"
-        },
-        {
-          "count": 2,
-            "name": "Choice Band",
-            "number": "121",
-            "set": "GRI"
-        },
-      ],
-      "energy": [
-        {
-          "count": 4,
-            "name": "Grass Energy",
-            "number": "grass",
-            "set": "SUM"
-        },
-        {
-          "count": 4,
-          "name": "Double Colorless Energy",
-          "number": "136",
-          "set": "SUM"
-        },
-      ]
-    }
-  },
-  {
-    firstName: 'Brent Tonisson',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
-    list: '../../../assets/list-icon.png',
-    deckid: "gardevoir-gx",
-    event: "2018 Europe Internationals",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 3,
-           "name": "Gardevoir GX",
-           "number": "93",
-           "set": "BUS"
-       },
-       {
-          "count": 1,
-           "name": "Gallade",
-           "number": "84",
-           "set": "BKT"
-       },
-       {
-         "name": "Kirlia",
-             "number": "69",
-             "set": "BKT",
-         "count": 2,
-       },
-       {
-          "count": 4,
-           "name": "Ralts",
-           "number": "52",
-           "set": "AOR"
-       },
-       {
-         "count": 2,
-           "name": "Sylveon GX",
-           "number": "92",
-           "set": "GRI"
-       },
-       {
-         "count": 2,
-         "name": "Eevee",
-         "number": "101",
-         "set": "SUM"
-       },
-       {
-         "count": 3,
-           "name": "Tapu Lele GX",
-           "number": "60",
-           "set": "GRI"
-       },
-       {
-         "count": 1,
-           "name": "Octillery",
-           "number": "33",
-           "set": "BKT"
-       },
-       {
-         "count": 1,
-           "name": "Remoraid",
-           "number": "32",
-           "set": "BKT"
-       },
-      ],
-      "trainer": [
-        {
-          "count": 4,
-            "name": "N",
-            "number": "105",
-            "set": "FCO"
-        },
-        {
-          "count": 4,
-            "name": "Professor Sycamore",
-            "number": "107",
-            "set": "BKP"
-        },
-        {
-          "count": 3,
-            "name": "Guzma",
-            "number": "115",
-            "set": "BUS"
-        },
-        {
-          "count": 1,
-            "name": "Brigette",
-            "number": "134",
-            "set": "BKT"
-        },
-        {
-          "count": 4,
-            "name": "Ultra Ball",
-            "number": "135",
-            "set": "SUM"
-        },
-        {
-          "count": 4,
-            "name": "Rare Candy",
-            "number": "129",
-            "set": "SUM"
-        },
-        {
-          "count": 2,
-            "name": "Max Potion",
-            "number": "128",
-            "set": "GRI"
-        },
-        {
-          "count": 2,
-            "name": "Field Blower",
-            "number": "125",
-            "set": "GRI"
-        },
-        {
-          "count": 1,
-            "name": "Super Rod",
-            "number": "149",
-            "set": "BKT"
-        },
-        {
-          "count": 2,
-            "name": "Choice Band",
-            "number": "121",
-            "set": "GRI"
-        },
-        {
-          "count": 1,
-            "name": "Float Stone",
-            "number": "137",
-            "set": "BKT"
-        },
-        {
-          "count": 1,
-            "name": "Parallel City",
-            "number": "145",
-            "set": "BKT"
-        },
-      ],
-      "energy": [
-        {
-          "count": 8,
-            "name": "Fairy Energy",
-            "number": "fairy",
-            "set": "SUM"
-        },
-        {
-          "count": 4,
-          "name": "Double Colorless Energy",
-          "number": "136",
-          "set": "SUM"
-        },
-      ]
-    }
-  },
-  {
-    firstName: 'Israel Sosa',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/silvally.png',
-    sprite2: '../../../assets/sprites/zoroark.png',
-    list: '../../../assets/list-icon.png',
-    deckid: "silvally-zoroark",
-    event: "2018 Europe Internationals",
-    decklist: {
-      "pokemon": [
-        {
-          "name": "Silvally GX",
-              "number": "90",
-              "set": "CIN",
-          "count": 3,
-        },
-        {
-          "name": "Type: Null",
-              "number": "89",
-              "set": "CIN",
-          "count": 3,
-        },
-        {
-          "count": 2,
-            "name": "Zoroark GX",
-            "number": "53",
-            "set": "SLG"
-        },
-        {
-          "count": 2,
-            "name": "Zorua",
-            "number": "52",
-            "set": "SLG"
-        },
-        {
-          "name": "Registeel",
-              "number": "68",
-              "set": "CIN",
-          "count": 2,
-        },
-        {
-          "count": 2,
-            "name": "Tapu Lele GX",
-            "number": "60",
-            "set": "GRI"
-        },
-        {
-          "count": 1,
-            "name": "Kartana GX",
-            "number": "70",
-            "set": "CIN"
-        },
-        {
-          "name": "Scizor-EX",
-              "number": "76",
-              "set": "BKP",
-          "count": 1,
-        },
-        {
-          "count": 1,
-          "name": "Necrozma GX",
-          "number": "63",
-          "set": "BUS"
-        },
-        {
-          "count": 1,
-                "name": "Turtonator GX",
-                "number": "18",
-                "set": "GRI"
-        },
-        {
-           "count": 1,
-            "name": "Cobalion",
-            "number": "74",
-            "set": "STS"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 4,
-            "name": "N",
-            "number": "105",
-            "set": "FCO"
-        },
-        {
-          "count": 4,
-            "name": "Professor Sycamore",
-            "number": "107",
-            "set": "BKP"
-        },
-        {
-         "count": 4,
-            "name": "Guzma",
-            "number": "115",
-            "set": "BUS"
-        },
-        {
-          "count": 2,
-            "name": "Acerola",
-            "number": "112",
-            "set": "BUS"
-        },
-        {
-          "count": 1,
-            "name": "Brigette",
-            "number": "134",
-            "set": "BKT"
-        },
-        {
-          "count": 4,
-            "name": "Ultra Ball",
-            "number": "135",
-            "set": "SUM"
-        },
-        {
-          "count": 2,
-            "name": "Field Blower",
-            "number": "125",
-            "set": "GRI"
-        },
-        {
-          "count": 1,
-            "name": "Super Rod",
-            "number": "149",
-            "set": "BKT"
-        },
-        {
-          "count": 3,
-            "name": "Choice Band",
-            "number": "121",
-            "set": "GRI"
-        },
-        {
-          "name": "Fightning Memory",
-              "number": "94",
-              "set": "CIN",
-          "count": 2,
-        },
-        {
-          "name": "Psychic Memory",
-              "number": "98",
-              "set": "CIN",
-          "count": 2,
-        },
-      ],
-      "energy": [
-        {
-          "count": 8,
-            "name": "Metal Energy",
-            "number": "metal",
-            "set": "SUM"
-        },
-        {
-          "count": 4,
-          "name": "Double Colorless Energy",
-          "number": "136",
-          "set": "SUM"
-        },
-      ]
-    }
-  },
-  {
-    firstName: 'Benjamin Behrens',
-    flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-    list: '../../../assets/list-icon.png',
-    deckid: "zoroark-golisopod",
-    event: "2018 Europe Internationals",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 4,
-            "name": "Zoroark GX",
-            "number": "53",
-            "set": "SLG"
-        },
-        {
-          "count": 1,
-                "name": "Zoroark",
-                "number": "91",
-                "set": "BKT"
-        },
-        {
-          "count": 4,
-            "name": "Zorua",
-            "number": "52",
-            "set": "SLG"
-        },
-        {
-          "count": 2,
-            "name": "Golisopod GX",
-            "number": "17",
-            "set": "BUS"
-        },
-        {
-          "count": 3,
-            "name": "Wimpod",
-            "number": "16",
-            "set": "BUS"
-        },
-        {
-          "count": 3,
-            "name": "Tapu Lele GX",
-            "number": "60",
-            "set": "GRI"
-        },
-        {
-          "count": 1,
-            "name": "Tapu Koko",
-            "number": "31",
-            "set": "PR-SM"
-        },
-        {
-          "count": 1,
-              "name": "Mewtwo",
-              "number": "51",
-              "set": "EVO"
-        },
-        {
-          "name": "Mr. Mime",
-              "number": "97",
-              "set": "BKT",
-          "count": 1,
-        },
-      ],
-      "trainer": [
-        {
-          "count": 4,
-            "name": "N",
-            "number": "105",
-            "set": "FCO"
-        },
-        {
-         "count": 4,
-            "name": "Guzma",
-            "number": "115",
-            "set": "BUS"
-        },
-        {
-          "count": 3,
-            "name": "Acerola",
-            "number": "112",
-            "set": "BUS"
-        },
-        {
-          "count": 3,
-            "name": "Brigette",
-            "number": "134",
-            "set": "BKT"
-        },
-        {
-          "count": 2,
-            "name": "Professor Sycamore",
-            "number": "107",
-            "set": "BKP"
-        },
-        {
-           "count": 1,
-          "name": "Mallow",
-          "number": "127",
-          "set": "GRI"
-        },
-        {
-          "count": 4,
-            "name": "Ultra Ball",
-            "number": "135",
-            "set": "SUM"
-        },
-        {
-          "count": 4,
-            "name": "Puzzle of Time",
-            "number": "109",
-            "set": "BKP"
-        },
-        {
-          "count": 4,
-            "name": "Field Blower",
-            "number": "125",
-            "set": "GRI"
-        },
-        {
-          "count": 2,
-            "name": "Enhanced Hammer",
-            "number": "124",
-            "set": "GRI"
-        },
-        {
-          "count": 2,
-            "name": "Choice Band",
-            "number": "121",
-            "set": "GRI"
-        },
-      ],
-      "energy": [
-        {
-          "count": 3,
-            "name": "Grass Energy",
-            "number": "grass",
-            "set": "SUM"
-        },
-        {
-          "count": 4,
-          "name": "Double Colorless Energy",
-          "number": "136",
-          "set": "SUM"
-        },
-      ]
-    }
-  },
-  {
-    firstName: 'Gabriel Semedo',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-    list: '../../../assets/list-icon.png',
-    deckid: "zoroark-golisopod",
-    event: "2018 Europe Internationals",
-    decklist: {
-      "pokemon": [
-        {
-          "count": 3,
-            "name": "Zoroark GX",
-            "number": "53",
-            "set": "SLG"
-        },
-        {
-          "count": 1,
-                "name": "Zoroark",
-                "number": "91",
-                "set": "BKT"
-        },
-        {
-          "name": "Zorua",
-              "number": "89",
-              "set": "BKT",
-          "count": 4,
-        },
-        {
-          "count": 3,
-            "name": "Golisopod GX",
-            "number": "17",
-            "set": "BUS"
-        },
-        {
-          "count": 3,
-            "name": "Wimpod",
-            "number": "16",
-            "set": "BUS"
-        },
-        {
-          "count": 3,
-            "name": "Tapu Lele GX",
-            "number": "60",
-            "set": "GRI"
-        },
-        {
-          "count": 1,
-            "name": "Tapu Koko",
-            "number": "31",
-            "set": "PR-SM"
-        },
-        {
-          "count": 1,
-            "name": "Latios",
-            "number": "41",
-            "set": "SLG"
-        },
-        {
-          "count": 1,
-            "name": "Kartana GX",
-            "number": "70",
-            "set": "CIN"
-        },
-      ],
-      "trainer": [
-        {
-          "count": 4,
-            "name": "N",
-            "number": "105",
-            "set": "FCO"
-        },
-        {
-         "count": 4,
-            "name": "Guzma",
-            "number": "115",
-            "set": "BUS"
-        },
-        {
-          "count": 3,
-            "name": "Professor Sycamore",
-            "number": "107",
-            "set": "BKP"
-        },
-        {
-          "count": 3,
-            "name": "Acerola",
-            "number": "112",
-            "set": "BUS"
-        },
-        {
-          "count": 1,
-            "name": "Brigette",
-            "number": "134",
-            "set": "BKT"
-        },
-        {
-          "count": 4,
-            "name": "Ultra Ball",
-            "number": "135",
-            "set": "SUM"
-        },
-        {
-          "count": 3,
-            "name": "Field Blower",
-            "number": "125",
-            "set": "GRI"
-        },
-        {
-          "count": 1,
-                "name": "Special Charge",
-                "number": "105",
-                "set": "STS"
-        },
-        {
-          "count": 1,
-            "name": "Rescue Stretcher",
-            "number": "130",
-            "set": "GRI"
-        },
-        {
-          "count": 3,
-            "name": "Choice Band",
-            "number": "121",
-            "set": "GRI"
-        },
-        {
-          "count": 3,
-            "name": "Float Stone",
-            "number": "137",
-            "set": "BKT"
-        },
-      ],
-      "energy": [
-        {
-          "count": 2,
-            "name": "Grass Energy",
-            "number": "grass",
-            "set": "SUM"
-        },
-        {
-          "count": 4,
-              "name": "Rainbow Energy",
-              "number": "137",
-              "set": "SUM"
-        },
-        {
-          "count": 4,
-          "name": "Double Colorless Energy",
-          "number": "136",
-          "set": "SUM"
-        },
-      ]
-    }
-  },
-  {
-    firstName: 'Alex Schemanske',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    list: '../../../assets/list-icon.png',
-    deckid: "gardevoir-gx",
-    event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -3198,7 +2276,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -3212,19 +2290,941 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Joe Ruettiger',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/drampa.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Clifton Goh",
+    "flag": "SG",
+    "sprite1": "gardevoir",
+    "sprite2": "sylveon",
+    //  
+        list: '../../../assets/sprites/blank",
+    deckid: "gardevoir-gx",
+   event: "2018 Europe Internationals",
+  },
+  {
+    "name": "Robin Schulz",
+    "flag": "DE",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+     
+    deckid: "zoroark-golisopod",
+    event: "2018 Europe Internationals",
+    "decklist": {
+      "pokemon": [
+        {
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 3,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "name": "Zorua",
+              "number": "89",
+              "set": "BKT",
+          "count": 1,
+        },
+        {
+          "count": 2,
+            "name": "Golisopod GX",
+            "number": "17",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Wimpod",
+            "number": "16",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Koko",
+            "number": "31",
+            "set": "PR-SM"
+        },
+        {
+          "count": 1,
+              "name": "Mewtwo",
+              "number": "51",
+              "set": "EVO"
+        },
+        {
+          "name": "Mr. Mime",
+              "number": "97",
+              "set": "BKT",
+          "count": 1,
+        }
+      ],
+      "trainer": [
+        {
+          "count": 4,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+         "count": 4,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+           "count": 1,
+          "name": "Mallow",
+          "number": "127",
+          "set": "GRI"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Puzzle of Time",
+            "number": "109",
+            "set": "BKP"
+        },
+        {
+          "count": 4,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        }
+      ],
+      "energy": [
+        {
+          "count": 4,
+            "name": "Grass Energy",
+            "number": "grass",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Brent Tonisson",
+    "flag": "AU",
+    "sprite1": "gardevoir",
+    "sprite2": "sylveon",
+     
+    deckid: "gardevoir-gx",
+    event: "2018 Europe Internationals",
+    "decklist": {
+      "pokemon": [
+        {
+          "count": 3,
+           "name": "Gardevoir GX",
+           "number": "93",
+           "set": "BUS"
+       },
+       {
+          "count": 1,
+           "name": "Gallade",
+           "number": "84",
+           "set": "BKT"
+       },
+       {
+         "name": "Kirlia",
+             "number": "69",
+             "set": "BKT",
+         "count": 2,
+       },
+       {
+          "count": 4,
+           "name": "Ralts",
+           "number": "52",
+           "set": "AOR"
+       },
+       {
+         "count": 2,
+           "name": "Sylveon GX",
+           "number": "92",
+           "set": "GRI"
+       },
+       {
+         "count": 2,
+         "name": "Eevee",
+         "number": "101",
+         "set": "SUM"
+       },
+       {
+         "count": 3,
+           "name": "Tapu Lele GX",
+           "number": "60",
+           "set": "GRI"
+       },
+       {
+         "count": 1,
+           "name": "Octillery",
+           "number": "33",
+           "set": "BKT"
+       },
+       {
+         "count": 1,
+           "name": "Remoraid",
+           "number": "32",
+           "set": "BKT"
+       }
+      ],
+      "trainer": [
+        {
+          "count": 4,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 4,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Rare Candy",
+            "number": "129",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Super Rod",
+            "number": "149",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Parallel City",
+            "number": "145",
+            "set": "BKT"
+        }
+      ],
+      "energy": [
+        {
+          "count": 8,
+            "name": "Fairy Energy",
+            "number": "fairy",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Israel Sosa",
+    "flag": "US",
+    "sprite1": "silvally",
+    "sprite2": "zoroark",
+     
+    deckid: "silvally-zoroark",
+    event: "2018 Europe Internationals",
+    "decklist": {
+      "pokemon": [
+        {
+          "name": "Silvally GX",
+              "number": "90",
+              "set": "CIN",
+          "count": 3,
+        },
+        {
+          "name": "Type: Null",
+              "number": "89",
+              "set": "CIN",
+          "count": 3,
+        },
+        {
+          "count": 2,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "name": "Registeel",
+              "number": "68",
+              "set": "CIN",
+          "count": 2,
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Kartana GX",
+            "number": "70",
+            "set": "CIN"
+        },
+        {
+          "name": "Scizor-EX",
+              "number": "76",
+              "set": "BKP",
+          "count": 1,
+        },
+        {
+          "count": 1,
+          "name": "Necrozma GX",
+          "number": "63",
+          "set": "BUS"
+        },
+        {
+          "count": 1,
+                "name": "Turtonator GX",
+                "number": "18",
+                "set": "GRI"
+        },
+        {
+           "count": 1,
+            "name": "Cobalion",
+            "number": "74",
+            "set": "STS"
+        }
+      ],
+      "trainer": [
+        {
+          "count": 4,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 4,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+         "count": 4,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 2,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Super Rod",
+            "number": "149",
+            "set": "BKT"
+        },
+        {
+          "count": 3,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "name": "Fightning Memory",
+              "number": "94",
+              "set": "CIN",
+          "count": 2,
+        },
+        {
+          "name": "Psychic Memory",
+              "number": "98",
+              "set": "CIN",
+          "count": 2,
+        }
+      ],
+      "energy": [
+        {
+          "count": 8,
+            "name": "Metal Energy",
+            "number": "metal",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Benjamin Behrens",
+    "flag": "NO",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+     
+    deckid: "zoroark-golisopod",
+    event: "2018 Europe Internationals",
+    "decklist": {
+      "pokemon": [
+        {
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 1,
+                "name": "Zoroark",
+                "number": "91",
+                "set": "BKT"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Golisopod GX",
+            "number": "17",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Wimpod",
+            "number": "16",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Koko",
+            "number": "31",
+            "set": "PR-SM"
+        },
+        {
+          "count": 1,
+              "name": "Mewtwo",
+              "number": "51",
+              "set": "EVO"
+        },
+        {
+          "name": "Mr. Mime",
+              "number": "97",
+              "set": "BKT",
+          "count": 1,
+        }
+      ],
+      "trainer": [
+        {
+          "count": 4,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+         "count": 4,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+           "count": 1,
+          "name": "Mallow",
+          "number": "127",
+          "set": "GRI"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Puzzle of Time",
+            "number": "109",
+            "set": "BKP"
+        },
+        {
+          "count": 4,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        }
+      ],
+      "energy": [
+        {
+          "count": 3,
+            "name": "Grass Energy",
+            "number": "grass",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gabriel Semedo",
+    "flag": "BR",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+     
+    deckid: "zoroark-golisopod",
+    event: "2018 Europe Internationals",
+    "decklist": {
+      "pokemon": [
+        {
+          "count": 3,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 1,
+                "name": "Zoroark",
+                "number": "91",
+                "set": "BKT"
+        },
+        {
+          "name": "Zorua",
+              "number": "89",
+              "set": "BKT",
+          "count": 4,
+        },
+        {
+          "count": 3,
+            "name": "Golisopod GX",
+            "number": "17",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Wimpod",
+            "number": "16",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Tapu Koko",
+            "number": "31",
+            "set": "PR-SM"
+        },
+        {
+          "count": 1,
+            "name": "Latios",
+            "number": "41",
+            "set": "SLG"
+        },
+        {
+          "count": 1,
+            "name": "Kartana GX",
+            "number": "70",
+            "set": "CIN"
+        }
+      ],
+      "trainer": [
+        {
+          "count": 4,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+         "count": 4,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 3,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Acerola",
+            "number": "112",
+            "set": "BUS"
+        },
+        {
+          "count": 1,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 3,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+                "name": "Special Charge",
+                "number": "105",
+                "set": "STS"
+        },
+        {
+          "count": 1,
+            "name": "Rescue Stretcher",
+            "number": "130",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 3,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        }
+      ],
+      "energy": [
+        {
+          "count": 2,
+            "name": "Grass Energy",
+            "number": "grass",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+              "name": "Rainbow Energy",
+              "number": "137",
+              "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Alex Schemanske",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+     
+    deckid: "gardevoir-gx",
+    event: "2018 Europe Internationals",
+    "decklist": {
+      "pokemon": [
+        {
+          "count": 3,
+           "name": "Gardevoir GX",
+           "number": "93",
+           "set": "BUS"
+       },
+       {
+          "count": 2,
+           "name": "Gallade",
+           "number": "84",
+           "set": "BKT"
+       },
+       {
+         "name": "Kirlia",
+             "number": "69",
+             "set": "BKT",
+         "count": 3,
+       },
+       {
+         "count": 4,
+           "name": "Ralts",
+           "number": "91",
+           "set": "BUS"
+       },
+       {
+         "count": 3,
+           "name": "Tapu Lele GX",
+           "number": "60",
+           "set": "GRI"
+       },
+       {
+         "count": 1,
+           "name": "Octillery",
+           "number": "33",
+           "set": "BKT"
+       },
+       {
+         "count": 1,
+           "name": "Remoraid",
+           "number": "32",
+           "set": "BKT"
+       },
+       {
+         "count": 1,
+           "name": "Alolan Vulpix",
+           "number": "21",
+           "set": "GRI"
+       }
+      ],
+      "trainer": [
+        {
+          "count": 4,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 3,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Rare Candy",
+            "number": "129",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Max Potion",
+            "number": "128",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Super Rod",
+            "number": "149",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Parallel City",
+            "number": "145",
+            "set": "BKT"
+        }
+      ],
+      "energy": [
+        {
+          "count": 7,
+            "name": "Fairy Energy",
+            "number": "fairy",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Joe Ruettiger",
+    "flag": "US",
+    "sprite1": "zoroark",
+    "sprite2": "drampa",
+     
     deckid: "zoroark-break",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "name": "Zoroark BREAK",
@@ -3279,7 +3279,7 @@ let masters = [
               "number": "42",
               "set": "SLG",
           "count": 1,
-        },
+        }
       ],
       "trainer": [
         {
@@ -3347,7 +3347,7 @@ let masters = [
               "number": "121",
               "set": "BUS",
           "count": 3,
-        },
+        }
       ],
       "energy": [
         {
@@ -3367,19 +3367,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Simon Humphrey',
-    flag: '../../../assets/flags/uk.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/silvally.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Simon Humphrey",
+    "flag": "UK",
+    "sprite1": "buzzwole",
+    "sprite2": "silvally",
+     
     deckid: "buzzwole-gx",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -3422,7 +3422,7 @@ let masters = [
               "name": "Oranguru",
               "number": "113",
               "set": "SUM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3496,7 +3496,7 @@ let masters = [
               "number": "121",
               "set": "BUS",
           "count": 3,
-        },
+        }
       ],
       "energy": [
         {
@@ -3516,19 +3516,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Michael Pramawat',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Michael Pramawat",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+     
     deckid: "gardevoir-gx",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -3577,7 +3577,7 @@ let masters = [
              "name": "Giratina",
              "number": "184",
              "set": "PR-XY"
-       },
+       }
       ],
       "trainer": [
         {
@@ -3645,7 +3645,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -3659,19 +3659,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Frank Percic',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Frank Percic",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+     
     deckid: "gardevoir-gx",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -3720,7 +3720,7 @@ let masters = [
              "name": "Oranguru",
              "number": "113",
              "set": "SUM"
-       },
+       }
       ],
       "trainer": [
         {
@@ -3788,7 +3788,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -3802,29 +3802,29 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Juho Kallama',
-    flag: '../../../assets/flags/finland.png',
-    sprite1: '../../../assets/sprites/silvally.png',
-    sprite2: '../../../assets/sprites/zoroark.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Juho Kallama",
+    "flag": "FI",
+    "sprite1": "silvally",
+    "sprite2": "zoroark",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "silvally-zoroark",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Marc Lutz',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/golisopod.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Marc Lutz",
+    "flag": "DE",
+    "sprite1": "golisopod",
+    "sprite2": "garbodor",
+     
     deckid: "golisopod-garbodor",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -3873,7 +3873,7 @@ let masters = [
             "name": "Celesteela GX",
             "number": "67",
             "set": "PR-SM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3941,7 +3941,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -3961,19 +3961,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Nico Alabas',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/golisopod.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Nico Alabas",
+    "flag": "DE",
+    "sprite1": "golisopod",
+    "sprite2": "garbodor",
+     
     deckid: "golisopod-garbodor",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -4022,7 +4022,7 @@ let masters = [
             "name": "Celesteela GX",
             "number": "67",
             "set": "PR-SM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4090,7 +4090,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -4110,19 +4110,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Raz Wolpe',
-    flag: '../../../assets/flags/isreal.png',
-    sprite1: '../../../assets/sprites/volcanion.png',
-    sprite2: '../../../assets/sprites/silvally.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Raz Wolpe",
+    "flag": "IL",
+    "sprite1": "volcanion",
+    "sprite2": "silvally",
+     
         deckid: "volcanion",
         event: "2018 Europe Internationals",
-        decklist: {
+        "decklist": {
           "pokemon": [
             {
               "count": 4,
@@ -4246,24 +4246,24 @@ let masters = [
         }
   },
   {
-    firstName: 'Martin Kaninsky',
-    flag: '../../../assets/flags/czech-republic.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Martin Kaninsky",
+    "flag": "CZ",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "volcanion",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Heddi Brahmi',
-    flag: '../../../assets/flags/france.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Heddi Brahmi",
+    "flag": "FR",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "zoroark-lycanroc",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -4312,7 +4312,7 @@ let masters = [
               "name": "Giratina",
               "number": "184",
               "set": "PR-XY"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4386,7 +4386,7 @@ let masters = [
             "name": "Choice Band",
             "number": "121",
             "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -4406,39 +4406,39 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Leon Goellner',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Leon Goellner",
+    "flag": "DE",
+    "sprite1": "buzzwole",
+    "sprite2": "garbodor",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "buzzwole-garbodor",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Gawein Wagner',
-    flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/espeon.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Gawein Wagner",
+    "flag": "NL",
+    "sprite1": "espeon",
+    "sprite2": "garbodor",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "espeon-garbodor",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Daniel Melrose',
-    flag: '../../../assets/flags/uk.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/xerneas-active.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Daniel Melrose",
+    "flag": "UK",
+    "sprite1": "blank",
+    "sprite2": "xerneas-active",
+     
     deckid: "xerneas-break",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "name": "Xerneas BREAK",
@@ -4463,7 +4463,7 @@ let masters = [
               "name": "Oranguru",
               "number": "113",
               "set": "SUM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4537,7 +4537,7 @@ let masters = [
               "number": "100",
               "set": "FCO",
           "count": 3,
-        },
+        }
       ],
       "energy": [
         {
@@ -4551,29 +4551,29 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Otavio Gouveia',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/drampa.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Otavio Gouveia",
+    "flag": "BR",
+    "sprite1": "drampa",
+    "sprite2": "garbodor",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "drampa-garbodor",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Jose Marrero',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/metagross.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Jose Marrero",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "metagross",
+     
     deckid: "metagross",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "name": "Metagross GX",
@@ -4622,7 +4622,7 @@ let masters = [
               "number": "75",
               "set": "STS",
           "count": 1,
-        },
+        }
       ],
       "trainer": [
         {
@@ -4684,7 +4684,7 @@ let masters = [
             "name": "Choice Band",
             "number": "121",
             "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -4698,19 +4698,19 @@ let masters = [
             "name": "Psychic Energy",
             "number": "psychic",
             "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Daniel Altavilla',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/zoroark.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Daniel Altavilla",
+    "flag": "US",
+    "sprite1": "decidueye",
+    "sprite2": "zoroark",
+     
     deckid: "decidueye-zoroark",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -4759,7 +4759,7 @@ let masters = [
             "name": "Tapu Koko",
             "number": "31",
             "set": "PR-SM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4839,7 +4839,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -4853,49 +4853,49 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Seb Symonds',
-    flag: '../../../assets/flags/uk.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/bisharp.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Seb Symonds",
+    "flag": "UK",
+    "sprite1": "zoroark",
+    "sprite2": "bisharp",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "zoroark-gx",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Steffen Eriksen',
-    flag: '../../../assets/flags/denmark.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Steffen Eriksen",
+    "flag": "DK",
+    "sprite1": "gardevoir",
+    "sprite2": "sylveon",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "gardevoir-gx",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Bartosz Bialik',
-    flag: '../../../assets/flags/poland.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Bartosz Bialik",
+    "flag": "PL",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "volcanion",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Jordan Palmer',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Jordan Palmer",
+    "flag": "AU",
+    "sprite1": "gardevoir",
+    "sprite2": "sylveon",
+     
     deckid: "gardevoir-gx",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -4950,7 +4950,7 @@ let masters = [
            "name": "Remoraid",
            "number": "32",
            "set": "BKT"
-       },
+       }
       ],
       "trainer": [
         {
@@ -5018,7 +5018,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -5032,19 +5032,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Noel Totomoch',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Noel Totomoch",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "sylveon",
+     
     deckid: "gardevoir-gx",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -5105,7 +5105,7 @@ let masters = [
            "name": "Alolan Vulpix",
            "number": "21",
            "set": "GRI"
-       },
+       }
       ],
       "trainer": [
         {
@@ -5191,7 +5191,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -5205,19 +5205,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Paulo Mimoso',
-    flag: '../../../assets/flags/portugal.png',
-    sprite1: '../../../assets/sprites/golisopod.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Paulo Mimoso",
+    "flag": "PT",
+    "sprite1": "golisopod",
+    "sprite2": "garbodor",
+     
     deckid: "golisopod-garbodor",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -5266,7 +5266,7 @@ let masters = [
             "name": "Tapu Koko",
             "number": "31",
             "set": "PR-SM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5340,7 +5340,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -5360,19 +5360,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Igor Costa',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/zoroark.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Igor Costa",
+    "flag": "US",
+    "sprite1": "decidueye",
+    "sprite2": "zoroark",
+     
     deckid: "decidueye-zoroark",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -5421,7 +5421,7 @@ let masters = [
             "name": "Tapu Koko",
             "number": "31",
             "set": "PR-SM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5501,7 +5501,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -5515,19 +5515,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Steven Mao',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/golisopod.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Steven Mao",
+    "flag": "DE",
+    "sprite1": "golisopod",
+    "sprite2": "garbodor",
+     
     deckid: "golisopod-garbodor",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -5576,7 +5576,7 @@ let masters = [
             "name": "Celesteela GX",
             "number": "67",
             "set": "PR-SM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5644,7 +5644,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -5664,29 +5664,29 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Jolien Winkler',
-    flag: '../../../assets/flags/belgium.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Jolien Winkler",
+    "flag": "BE",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "volcanion",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Gustavo Wada',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/zoroark.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Gustavo Wada",
+    "flag": "BR",
+    "sprite1": "decidueye",
+    "sprite2": "zoroark",
+     
     deckid: "decidueye-zoroark",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -5735,7 +5735,7 @@ let masters = [
             "name": "Tapu Koko",
             "number": "31",
             "set": "PR-SM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5821,7 +5821,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -5835,29 +5835,29 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Benjamin Pavey',
-    flag: '../../../assets/flags/uk.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Benjamin Pavey",
+    "flag": "UK",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "volcanion",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Andrew Tandianus',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Andrew Tandianus",
+    "flag": "AU",
+    "sprite1": "gardevoir",
+    "sprite2": "sylveon",
+     
     deckid: "gardevoir-gx",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -5918,7 +5918,7 @@ let masters = [
            "name": "Remoraid",
            "number": "32",
            "set": "BKT"
-       },
+       }
       ],
       "trainer": [
         {
@@ -5986,7 +5986,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -6000,39 +6000,39 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Jason Yong',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/golisopod.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Jason Yong",
+    "flag": "MY",
+    "sprite1": "golisopod",
+    "sprite2": "garbodor",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "golisopod-garbodor",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Goncalo Ferreira',
-    flag: '../../../assets/flags/portugal.png',
-    sprite1: '../../../assets/sprites/decidueye.png',
-    sprite2: '../../../assets/sprites/zoroark.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Goncalo Ferreira",
+    "flag": "PT",
+    "sprite1": "decidueye",
+    "sprite2": "zoroark",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "decidueye-zoroark",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Pedro Torres',
-    flag: '../../../assets/flags/spain.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/buzzwole.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Pedro Torres",
+    "flag": "ES",
+    "sprite1": "zoroark",
+    "sprite2": "buzzwole",
+     
     deckid: "buzzwole-gx",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -6087,7 +6087,7 @@ let masters = [
             "name": "Latios",
             "number": "41",
             "set": "SLG"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6161,7 +6161,7 @@ let masters = [
               "number": "121",
               "set": "BUS",
           "count": 3,
-        },
+        }
       ],
       "energy": [
         {
@@ -6181,39 +6181,39 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Rolf Paanakker',
-    flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Rolf Paanakker",
+    "flag": "NL",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "zoroark-golisopod",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Yee Wei Chun',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/golisopod.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Yee Wei Chun",
+    "flag": "MY",
+    "sprite1": "golisopod",
+    "sprite2": "garbodor",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "golisopod-garbodor",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Tobias Smutkowski',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/greninja.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Tobias Smutkowski",
+    "flag": "DE",
+    "sprite1": "blank",
+    "sprite2": "greninja",
+     
     deckid: "greninja",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -6262,7 +6262,7 @@ let masters = [
            "name": "Tapu Lele GX",
            "number": "60",
            "set": "GRI"
-       },
+       }
       ],
       "trainer": [
         {
@@ -6336,7 +6336,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -6350,19 +6350,19 @@ let masters = [
             "name": "Splash Energy",
             "number": "113",
             "set": "BKP"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Karl Blake',
-    flag: '../../../assets/flags/uk.png',
-    sprite1: '../../../assets/sprites/drampa.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Karl Blake",
+    "flag": "UK",
+    "sprite1": "drampa",
+    "sprite2": "garbodor",
+     
     deckid: "drampa-garbodor",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 2,
@@ -6411,7 +6411,7 @@ let masters = [
                 "name": "Jirachi",
                 "number": "67",
                 "set": "PR-XY"
-        },
+        }
       ],
       "trainer": [
         {
@@ -6479,7 +6479,7 @@ let masters = [
               "number": "121",
               "set": "BUS",
           "count": 3,
-        },
+        }
       ],
       "energy": [
         {
@@ -6499,39 +6499,39 @@ let masters = [
               "name": "Rainbow Energy",
               "number": "137",
               "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Robert Kinbrum',
-    flag: '../../../assets/flags/uk.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/metagross.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Robert Kinbrum",
+    "flag": "UK",
+    "sprite1": "blank",
+    "sprite2": "metagross",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "metagross",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Javier De Blas',
-    flag: '../../../assets/flags/spain.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Javier De Blas",
+    "flag": "ES",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "zoroark-golisopod",
    event: "2018 Europe Internationals",
   },
   {
-    firstName: 'Ondřej Škubal',
-    flag: '../../../assets/flags/czech-republic.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/greninja.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Ondřej Škubal",
+    "flag": "CZ",
+    "sprite1": "blank",
+    "sprite2": "greninja",
+     
     deckid: "greninja",
     event: "2018 Europe Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -6586,7 +6586,7 @@ let masters = [
            "name": "Tapu Lele GX",
            "number": "60",
            "set": "GRI"
-       },
+       }
       ],
       "trainer": [
         {
@@ -6660,7 +6660,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -6674,17 +6674,17 @@ let masters = [
             "name": "Splash Energy",
             "number": "113",
             "set": "BKP"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Lyder Iversen',
-    flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-    // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Lyder Iversen",
+    "flag": "NO",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+    //  
+        list: '../../../assets/sprites/blank",
     deckid: "volcanion",
    event: "2018 Europe Internationals",
   },

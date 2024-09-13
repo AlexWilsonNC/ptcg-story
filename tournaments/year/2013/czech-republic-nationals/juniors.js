@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Ondrej Kujal",
-        flag: '../../../../assets/flags/czech-republic.png',
+        "name": "Ondrej Kujal",
+        "flag": "CZ",
         "event": "2013 Czechia National Championships",
-        sprite1: '../../../../assets/sprites/accelgor.png',
-        sprite2: '../../../../assets/sprites/gothitelle.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "accelgor",
+        "sprite2": "gothitelle",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -20,14 +18,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Martin M",
-        flag: '../../../../assets/flags/unknown.png',
+        "name": "Martin M",
+        "flag": "unknown",
         "event": "2013 Czechia National Championships",
-        sprite1: '../../../../assets/sprites/accelgor.png',
-        sprite2: '../../../../assets/sprites/gothitelle.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "accelgor",
+        "sprite2": "gothitelle",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -40,14 +36,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jakub K",
-        flag: '../../../../assets/flags/unknown.png',
+        "name": "Jakub K",
+        "flag": "unknown",
         "event": "2013 Czechia National Championships",
-        sprite1: '../../../../assets/sprites/empoleon.png',
-        sprite2: '../../../../assets/sprites/dusknoir.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "empoleon",
+        "sprite2": "dusknoir",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -60,14 +54,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Filip K",
-        flag: '../../../../assets/flags/unknown.png',
+        "name": "Filip K",
+        "flag": "unknown",
         "event": "2013 Czechia National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/klinklang.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "klinklang",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],

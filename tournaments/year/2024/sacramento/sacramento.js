@@ -1,4 +1,4 @@
-let masters = [{
+"masters": [{
   "name": "Alexander Flatos",
   "flag": "US",
   "event": "2024 Sacramento Regionals",
@@ -5343,7 +5343,7 @@ let masters = [{
   }
 }]
 
-let seniors = [{
+"seniors": [{
   "name": "Evan P.",
   "flag": "US",
   "event": "2024 Sacramento Regionals",
@@ -5640,7 +5640,7 @@ let seniors = [{
   },
 }]
 
-let juniors = [{
+"juniors": [{
   "name": "Logan B.",
   "flag": "US",
   "event": "2024 Sacramento Regionals",

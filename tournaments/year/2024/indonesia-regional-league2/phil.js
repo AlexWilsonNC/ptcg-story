@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Terry Hilario",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Terry Hilario",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/giratina-origin.png',
-        sprite2: '../../../../assets/sprites/comfey.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "giratina-origin",
+        "sprite2": "comfey",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
                 { "count": 3, "name": "Giratina V", "number": "130", "set": "LOR" },
@@ -37,13 +36,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Rafli Attar Ricco",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Rafli Attar Ricco",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/bibarel.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "bibarel",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
                 { "count": 2, "name": "Charmeleon", "number": "8", "set": "PAF" },
@@ -81,13 +79,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Putu Wiguna",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Putu Wiguna",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/giratina-origin.png',
-        sprite2: '../../../../assets/sprites/comfey.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "giratina-origin",
+        "sprite2": "comfey",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
                 { "count": 3, "name": "Giratina V", "number": "130", "set": "LOR" },
@@ -122,13 +119,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Said Azmi",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Said Azmi",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/giratina-origin.png',
-        sprite2: '../../../../assets/sprites/comfey.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "giratina-origin",
+        "sprite2": "comfey",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
                 { "count": 3, "name": "Giratina V", "number": "130", "set": "LOR" },
@@ -161,13 +157,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Darwin Rasubala",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Darwin Rasubala",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/charizard-shiny.png',
-        sprite2: '../../../../assets/sprites/comfey.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard-shiny",
+        "sprite2": "comfey",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
                 { "count": 2, "name": "Cramorant", "number": "50", "set": "LOR" },
@@ -202,13 +197,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Amin Muhaimin",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Amin Muhaimin",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/miraidon.png',
-        sprite2: '../../../../assets/sprites/flaaffy.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "miraidon",
+        "sprite2": "flaaffy",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Miraidon ex", "number": "81", "set": "SVI" },
                 { "count": 2, "name": "Mew ex", "number": "151", "set": "MEW" },
@@ -242,13 +236,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Dede Hamid",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Dede Hamid",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/pidgeot.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "pidgeot",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
                 { "count": 1, "name": "Charmeleon", "number": "27", "set": "OBF" },
@@ -287,13 +280,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jonas Dionisio",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Jonas Dionisio",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/pidgeot.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "pidgeot",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
                 { "count": 1, "name": "Charmeleon", "number": "27", "set": "OBF" },
@@ -332,13 +324,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Albert Wijaya",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Albert Wijaya",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/zoroark.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "zoroark",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Zoroark", "number": "103", "set": "EVS" },
                 { "count": 4, "name": "Zorua", "number": "102", "set": "EVS" },
@@ -376,13 +367,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Tito Santoso",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Tito Santoso",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gardevoir.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "gardevoir",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Gardevoir ex", "number": "86", "set": "SVI" },
                 { "count": 2, "name": "Gardevoir", "number": "61", "set": "CRE" },
@@ -418,13 +408,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Daniel Daniharja",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Daniel Daniharja",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/bibarel.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "bibarel",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
                 { "count": 2, "name": "Charmeleon", "number": "8", "set": "PAF" },
@@ -462,13 +451,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Cedriec",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Cedriec",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/charizard.png',
-        sprite2: '../../../../assets/sprites/bibarel.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "charizard",
+        "sprite2": "bibarel",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
                 { "count": 2, "name": "Charmeleon", "number": "8", "set": "PAF" },
@@ -508,13 +496,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Nicholas Justin",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Nicholas Justin",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/roaring-moon.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "roaring-moon",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Roaring Moon ex", "number": "124", "set": "PAR" },
                 { "count": 1, "name": "Darkrai VSTAR", "number": "99", "set": "ASR" },
@@ -545,13 +532,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Yudhika Bijaury",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Yudhika Bijaury",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/zoroark.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "zoroark",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Zoroark", "number": "103", "set": "EVS" },
                 { "count": 4, "name": "Zorua", "number": "102", "set": "EVS" },
@@ -594,13 +580,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Diego Fredispancer",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Diego Fredispancer",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/roaring-moon.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "roaring-moon",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Roaring Moon ex", "number": "124", "set": "PAR" },
                 { "count": 2, "name": "Galarian Moltres V", "number": "97", "set": "CRE" },
@@ -635,13 +620,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Katalio Krishna",
-        flag: '../../../../assets/sprites/blank.png',
+        "name": "Katalio Krishna",
+        "flag": "../../../assets/sprites/blank.png",
         "event": "2024 Indonesia Regional League #2",
-        sprite1: '../../../../assets/sprites/giratina-origin.png',
-        sprite2: '../../../../assets/sprites/comfey.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "giratina-origin",
+        "sprite2": "comfey",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
                 { "count": 3, "name": "Giratina V", "number": "130", "set": "LOR" },

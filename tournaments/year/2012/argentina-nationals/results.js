@@ -1,18 +1,18 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Patricia Walsh",
-      flag: '../../../../assets/flags/argentina.png',
+      "name": "Patricia Walsh",
+      "flag": "AR",
       "event": "2012 Argentina National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      list: '../../../../assets/list-icon.png',
-      decklist: {
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      list: '../../../../assets/list-icon",
+      "decklist": {
         "pokemon": [
           { "count": 3, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
           { "count": 3, "name": "Mewtwo-EX", "set": "NXD", "number": "54" },
           { "count": 2, "name": "Terrakion", "set": "NVI", "number": "73" },
           { "count": 2, "name": "Smeargle", "set": "CL", "number": "21" },
-          { "count": 1, "name": "Shaymin", "set": "UL", "number": "8" },
+          { "count": 1, "name": "Shaymin", "set": "UL", "number": "8" }
         ], "trainer": [
           { "count": 4, "name": "Professor Oak's New Theory", "set": "CL", "number": "83" },
           { "count": 3, "name": "Professor Juniper", "set": "BLW", "number": "101" },
@@ -26,22 +26,21 @@ let masters = [
           { "count": 2, "name": "Energy Switch", "set": "BLW", "number": "94" },
           { "count": 2, "name": "Random Receiver", "set": "DEX", "number": "99" },
           { "count": 1, "name": "Dual Ball", "set": "CL", "number": "78" },
-          { "count": 3, "name": "Eviolite", "set": "NVI", "number": "91" },
+          { "count": 3, "name": "Eviolite", "set": "NVI", "number": "91" }
         ], "energy": [
           { "count": 7, "name": "Darkness Energy", "set": "BLW", "number": "111" },
           { "count": 4, "name": "Fighting Energy", "set": "BLW", "number": "110" },
           { "count": 3, "name": "Double Colorless Energy", "set": "NXD", "number": "92" },
         ]
-      },
+      }
   },
   {
-      "firstName": "Javier Favilli",
-      flag: '../../../../assets/flags/argentina.png',
+      "name": "Javier Favilli",
+      "flag": "AR",
       "event": "2012 Argentina National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -55,13 +54,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Daniel Facciabene",
-      flag: '../../../../assets/flags/argentina.png',
+      "name": "Daniel Facciabene",
+      "flag": "AR",
       "event": "2012 Argentina National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/weavile.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/weavile",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -75,18 +73,18 @@ let masters = [
       }
   },
   {
-      "firstName": "Hernan Gilardino",
-      flag: '../../../../assets/flags/argentina.png',
+      "name": "Hernan Gilardino",
+      "flag": "AR",
       "event": "2012 Argentina National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/terrakion.png',
-      list: '../../../../assets/list-icon.png',
-      decklist: {
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/terrakion",
+      list: '../../../../assets/list-icon",
+      "decklist": {
         "pokemon": [
           { "count": 3, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
           { "count": 3, "name": "Terrakion", "set": "NVI", "number": "73" },
           { "count": 2, "name": "Smeargle", "set": "CL", "number": "21" },
-          { "count": 1, "name": "Shaymin", "set": "UL", "number": "8" },
+          { "count": 1, "name": "Shaymin", "set": "UL", "number": "8" }
         ], "trainer": [
           { "count": 4, "name": "Professor Juniper", "set": "BLW", "number": "101" },
           { "count": 3, "name": "N", "set": "NVI", "number": "92" },
@@ -101,11 +99,11 @@ let masters = [
           { "count": 1, "name": "Max Potion", "set": "EPO", "number": "94" },
           { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
           { "count": 3, "name": "Exp. Share", "set": "NXD", "number": "87" },
-          { "count": 2, "name": "Dark Claw", "set": "DEX", "number": "92" },
+          { "count": 2, "name": "Dark Claw", "set": "DEX", "number": "92" }
         ], "energy": [
           { "count": 8, "name": "Darkness Energy", "set": "BLW", "number": "111" },
           { "count": 5, "name": "Fighting Energy", "set": "BLW", "number": "110" },
         ]
-      },
+      }
   },
 ]

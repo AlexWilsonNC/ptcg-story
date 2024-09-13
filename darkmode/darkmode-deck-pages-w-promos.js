@@ -54,7 +54,7 @@ const enableDarkMode = () => {
       meep.classList.add('darkon');
     })
 
-    localStorage.setItem('darkMode', 'enabled');
+    localStorage.setItem('darkMode", 'enabled');
   };
   
   const disableDarkMode = () => {
@@ -90,14 +90,14 @@ const enableDarkMode = () => {
     })
 
 
-    localStorage.setItem('darkMode', null);
+    localStorage.setItem('darkMode", null);
   };
   
   if(darkMode === 'enabled') {
     enableDarkMode();
   }
   
-  toggle.addEventListener('click', () => {
+  toggle.addEventListener('click", () => {
     darkMode = localStorage.getItem('darkMode');
     if (darkMode !== 'enabled') {
       enableDarkMode();

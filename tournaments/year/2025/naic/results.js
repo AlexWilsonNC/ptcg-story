@@ -1,4 +1,4 @@
-let masters = [{"name":"Andrew Hedrick",
+"masters": [{"name":"Andrew Hedrick",
 "flag": "US",
 "placing":1,
 "event": "2024 North America International Championships",
@@ -2022,7 +2022,7 @@ let masters = [{"name":"Andrew Hedrick",
 }
 ]
 
-let seniors = [{"name":"Nathan O.",
+"seniors": [{"name":"Nathan O.",
 "flag": "US",
 "placing":1,
 "event": "2024 North America International Championships",
@@ -2244,7 +2244,7 @@ let seniors = [{"name":"Nathan O.",
 }
 ]
 
-let juniors = [{"name":"Jose Cruz G.",
+"juniors": [{"name":"Jose Cruz G.",
 "flag": "US",
 "placing":1,
 "event": "2024 North America International Championships",

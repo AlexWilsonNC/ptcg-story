@@ -155,11 +155,11 @@ function changeToBuild107() {
 }
 
 
-deckbuild1.addEventListener('click', changeToBuild1)
-deckbuild2.addEventListener('click', changeToBuild2)
+deckbuild1.addEventListener('click", changeToBuild1)
+deckbuild2.addEventListener('click", changeToBuild2)
 
-deckbuild9.addEventListener('click', changeToBuild9)
-deckbuild10.addEventListener('click', changeToBuild10)
-deckbuild105.addEventListener('click', changeToBuild105)
-deckbuild106.addEventListener('click', changeToBuild106)
-deckbuild107.addEventListener('click', changeToBuild107)
+deckbuild9.addEventListener('click", changeToBuild9)
+deckbuild10.addEventListener('click", changeToBuild10)
+deckbuild105.addEventListener('click", changeToBuild105)
+deckbuild106.addEventListener('click", changeToBuild106)
+deckbuild107.addEventListener('click", changeToBuild107)

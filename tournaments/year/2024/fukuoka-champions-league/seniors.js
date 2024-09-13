@@ -1,11 +1,11 @@
-let masters = [
+"masters": [
     {
-      "firstName": "Karasu",
-      flag: '../../../../assets/flags/japan.png',
+      "name": "Karasu",
+      "flag": "JP",
       "event": "2024 Fukuoka Champions League - Seniors",
-      sprite1: '../../../../assets/sprites/koraidon.png',
-      sprite2: '../../../../assets/sprites/roaring-moon.png',
-      list: '../../../../assets/list-icon.png',
+      "sprite1": "koraidon",
+      sprite2: '../../../../assets/sprites/roaring-moon",
+      list: '../../../../assets/list-icon",
       "decklist": {
         "pokemon": [
           { "count": 4, "name": "Koraidon", "number": "16", "set": "FR" },
@@ -13,7 +13,7 @@ let masters = [
           { "count": 2, "name": "Flutter Mane", "number": "18", "set": "FR" },
           { "count": 1, "name": "Great Tusk", "number": "13", "set": "FR" },
           { "count": 1, "name": "Slither Wing", "number": "107", "set": "PAR" },
-          { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+          { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" }
         ], "trainer": [
             { "count": 4, "name": "Professor Sada's Vitality", "number": "170", "set": "PAR" },
             { "count": 4, "name": "explor", "number": "14", "set": "FR" },
@@ -29,7 +29,7 @@ let masters = [
             { "count": 1, "name": "Awakening Drum", "number": "19", "set": "FR" },
             { "count": 4, "name": "Ancient Booster Energy Capsule", "number": "159", "set": "PAR" },
             { "count": 1, "name": "Defiance Band", "number": "169", "set": "SVI" },
-            { "count": 3, "name": "PokeStop", "number": "68", "set": "PGO" },
+            { "count": 3, "name": "PokeStop", "number": "68", "set": "PGO" }
         ], "energy": [
             { "count": 6, "name": "Basic Darkness Energy", "number": "7", "set": "SVE" },
             { "count": 3, "name": "Fighting Energy - Basic", "number": "6", "set": "SVE" },
@@ -37,12 +37,12 @@ let masters = [
       }
     },
     {
-      "firstName": "Noa",
-      flag: '../../../../assets/flags/japan.png',
+      "name": "Noa",
+      "flag": "JP",
       "event": "2024 Fukuoka Champions League - Seniors",
-      sprite1: '../../../../assets/sprites/comfey.png',
-      sprite2: '../../../../assets/sprites/roaring-moon.png',
-      list: '../../../../assets/list-icon.png',
+      "sprite1": "comfey",
+      sprite2: '../../../../assets/sprites/roaring-moon",
+      list: '../../../../assets/list-icon",
       "decklist": {
         "pokemon": [
           { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
@@ -69,7 +69,7 @@ let masters = [
           { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
           { "count": 1, "name": "Prime Catcher", "number": "7", "set": "FR" },
           { "count": 2, "name": "emerg board", "number": "12", "set": "FR" },
-          { "count": 2, "name": "Artazon", "number": "171", "set": "PAL" },
+          { "count": 2, "name": "Artazon", "number": "171", "set": "PAL" }
       ], "energy": [
           { "count": 3, "name": "Basic Darkness Energy", "number": "7", "set": "SVE" },
           { "count": 3, "name": "Basic Water Energy", "number": "3", "set": "SVE" },
@@ -79,12 +79,12 @@ let masters = [
       }
     },
     {
-      "firstName": "Hiro",
-      flag: '../../../../assets/flags/japan.png',
+      "name": "Hiro",
+      "flag": "JP",
       "event": "2024 Fukuoka Champions League - Seniors",
-      sprite1: '../../../../assets/sprites/comfey.png',
-      sprite2: '../../../../assets/sprites/roaring-moon.png',
-      list: '../../../../assets/list-icon.png',
+      "sprite1": "comfey",
+      sprite2: '../../../../assets/sprites/roaring-moon",
+      list: '../../../../assets/list-icon",
       "decklist": {
         "pokemon": [
             { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
@@ -114,7 +114,7 @@ let masters = [
             { "count": 1, "name": "Technical Machine: Devolution", "number": "177", "set": "PAR" },
             { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
             { "count": 1, "name": "Artazon", "number": "171", "set": "PAL" },
-            { "count": 1, "name": "PokeStop", "number": "68", "set": "PGO" },
+            { "count": 1, "name": "PokeStop", "number": "68", "set": "PGO" }
         ], "energy": [
             { "count": 3, "name": "Basic Darkness Energy", "number": "7", "set": "SVE" },
             { "count": 3, "name": "Basic Water Energy", "number": "3", "set": "SVE" },
@@ -124,12 +124,12 @@ let masters = [
       }
     },
     {
-      "firstName": "Rinto",
-      flag: '../../../../assets/flags/japan.png',
+      "name": "Rinto",
+      "flag": "JP",
       "event": "2024 Fukuoka Champions League - Seniors",
-      sprite1: '../../../../assets/sprites/goodra-hisui.png',
-      sprite2: '../../../../assets/sprites/comfey.png',
-      list: '../../../../assets/list-icon.png',
+      "sprite1": "goodra-hisui",
+      sprite2: '../../../../assets/sprites/comfey",
+      list: '../../../../assets/list-icon",
       "decklist": {
         "pokemon": [
           { "count": 2, "name": "Hisuian Goodra VSTAR", "number": "136", "set": "LOR" },
@@ -139,7 +139,7 @@ let masters = [
           { "count": 1, "name": "Cramorant", "number": "50", "set": "LOR" },
           { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
           { "count": 1, "name": "Zamazenta", "number": "97", "set": "CRZ" },
-          { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+          { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" }
         ], "trainer": [
             { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
             { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
@@ -157,7 +157,7 @@ let masters = [
             { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
             { "count": 1, "name": "emerg board", "number": "12", "set": "FR" },
             { "count": 1, "name": "HERO CAPE", "number": "15", "set": "FR" },
-            { "count": 2, "name": "Artazon", "number": "171", "set": "PAL" },
+            { "count": 2, "name": "Artazon", "number": "171", "set": "PAL" }
         ], "energy": [
             { "count": 3, "name": "Basic Metal Energy", "number": "8", "set": "SVE" },
             { "count": 3, "name": "Basic Water Energy", "number": "3", "set": "SVE" },

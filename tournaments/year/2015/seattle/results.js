@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Chase Moloney",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Chase Moloney",
+        "flag": "CA",
         "event": "2015 Seattle Regionals",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/archeops.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "archeops",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "Yveltal-EX", "number": "79", "set": "XY" },
                 { "count": 2, "name": "Darkrai-EX", "number": "63", "set": "DEX" },
@@ -37,13 +36,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Andrew Jackson",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Andrew Jackson",
+        "flag": "US",
         "event": "2015 Seattle Regionals",
-        sprite1: '../../../../assets/sprites/landorus-therian.png',
-        sprite2: '../../../../assets/sprites/crobat.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "landorus-therian",
+        "sprite2": "crobat",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "Landorus-EX", "number": "89", "set": "BCR" },
                 { "count": 2, "name": "Hawlucha", "number": "63", "set": "FFI" },
@@ -76,14 +74,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Oscar Morales",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Oscar Morales",
+        "flag": "US",
         "event": "2015 Seattle Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/manectric-mega.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "manectric-mega",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -94,13 +90,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Mia Violet",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Mia Violet",
+        "flag": "US",
         "event": "2015 Seattle Regionals",
-        sprite1: '../../../../assets/sprites/seismitoad.png',
-        sprite2: '../../../../assets/sprites/dusknoir.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "seismitoad",
+        "sprite2": "dusknoir",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Seismitoad-EX", "number": "20", "set": "FFI" },
                 { "count": 3, "name": "Shaymin-EX", "number": "77", "set": "ROS" },
@@ -131,14 +126,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Tristen Cox",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Tristen Cox",
+        "flag": "US",
         "event": "2015 Seattle Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -149,14 +142,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Millie Ramirez",
-        flag: '../../../../assets/flags/unknown.png',
+        "name": "Millie Ramirez",
+        "flag": "unknown",
         "event": "2015 Seattle Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -167,14 +158,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Kian Amini",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Kian Amini",
+        "flag": "US",
         "event": "2015 Seattle Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/seismitoad.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "seismitoad",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -185,14 +174,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Elija Covitz",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Elija Covitz",
+        "flag": "US",
         "event": "2015 Seattle Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [

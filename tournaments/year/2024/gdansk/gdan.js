@@ -1,7 +1,7 @@
-let masters = [
+"masters": [
     {
         "name": "Łukasz Mazurkiewicz",
-        "flag": 'PL',
+        "flag": "PL",
         "event": "2024 Gdańsk Regionals",
         "placing": 1,
         "decklist": {
@@ -47,7 +47,7 @@ let masters = [
     },
     {
         "name": "Erin Kingma",
-        "flag": 'NL',
+        "flag": "NL",
         "event": "2024 Gdańsk Regionals",
         "placing": 2,
         "decklist": {
@@ -87,7 +87,7 @@ let masters = [
     },
     {
         "name": "Luke Kirkham",
-        "flag": 'UK',
+        "flag": "UK",
         "event": "2024 Gdańsk Regionals",
         "placing": 3,
         "decklist": {
@@ -125,7 +125,7 @@ let masters = [
     },
     {
         "name": "Robin Schulz",
-        "flag": 'DE',
+        "flag": "DE",
         "event": "2024 Gdańsk Regionals",
         "placing": 4,
         "decklist": {
@@ -166,7 +166,7 @@ let masters = [
     },
     {
         "name": "Tord Reklev",
-        "flag": 'NO',
+        "flag": "NO",
         "event": "2024 Gdańsk Regionals",
         "placing": 5,
         "decklist": {
@@ -205,7 +205,7 @@ let masters = [
     },
     {
         "name": "Thomas Elliot Jones",
-        "flag": 'UK',
+        "flag": "UK",
         "event": "2024 Gdańsk Regionals",
         "placing": 6,
         "decklist": {
@@ -251,7 +251,7 @@ let masters = [
     },
     {
         "name": "Jamie Hindley",
-        "flag": 'UK',
+        "flag": "UK",
         "event": "2024 Gdańsk Regionals",
         "placing": 7,
         "decklist": {
@@ -290,7 +290,7 @@ let masters = [
     },
     {
         "name": "Ewan West",
-        "flag": 'UK',
+        "flag": "UK",
         "event": "2024 Gdańsk Regionals",
         "placing": 8,
         "decklist": {
@@ -327,7 +327,7 @@ let masters = [
     },
     {
         "name": "Juho Kallama",
-        "flag": 'FI',
+        "flag": "FI",
         "event": "2024 Gdańsk Regionals",
         "placing": 9,
         "decklist": {
@@ -365,7 +365,7 @@ let masters = [
     },
     {
         "name": "Maciej Dmoch",
-        "flag": 'PL',
+        "flag": "PL",
         "event": "2024 Gdańsk Regionals",
         "placing": 10,
         "decklist": {
@@ -398,7 +398,7 @@ let masters = [
     },
     {
         "name": "Rahul Reddy",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Gdańsk Regionals",
         "placing": 11,
         "decklist": {
@@ -444,7 +444,7 @@ let masters = [
     },
     {
         "name": "Hampus Eriksson",
-        "flag": 'SE',
+        "flag": "SE",
         "event": "2024 Gdańsk Regionals",
         "placing": 13,
         "decklist": {

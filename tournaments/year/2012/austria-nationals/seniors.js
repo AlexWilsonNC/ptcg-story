@@ -1,11 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Andreas S",
-      flag: '../../../../assets/flags/austria.png',
+      "name": "Andreas S",
+      "flag": "AT",
       "event": "2012 Austria National Championships - Seniors",
-      sprite1: '../../../../assets/sprites/celebi.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      list: '../../../../assets/list-icon.png',
+      "sprite1": "celebi",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      list: '../../../../assets/list-icon",
       "decklist": {
           "pokemon": [
             { "count": 3, "name": "Celebi", "set": "TM", "number": "92" },
@@ -36,13 +36,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Daniel F",
-      flag: '../../../../assets/flags/austria.png',
+      "name": "Daniel F",
+      "flag": "AT",
       "event": "2012 Austria National Championships - Seniors",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -56,13 +55,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Lukas P",
-      flag: '../../../../assets/flags/austria.png',
+      "name": "Lukas P",
+      "flag": "AT",
       "event": "2012 Austria National Championships - Seniors",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -76,13 +74,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Alexander M",
-      flag: '../../../../assets/flags/austria.png',
+      "name": "Alexander M",
+      "flag": "AT",
       "event": "2012 Austria National Championships - Seniors",
-      sprite1: '../../../../assets/sprites/reshiram.png',
-      sprite2: '../../../../assets/sprites/typhlosion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "reshiram",
+      sprite2: '../../../../assets/sprites/typhlosion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

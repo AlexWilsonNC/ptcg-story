@@ -20,7 +20,7 @@ function showOtherNats() {
 
     document.querySelector('.behind-modal3').style.display = 'block';
 
-    behind.addEventListener('click', () => {
+    behind.addEventListener('click", () => {
         behind.style.display = 'none';
         document.querySelector('.hidden-nat1').style.display = 'none';
         document.querySelector('.hidden-nat2').style.display = 'none';
@@ -35,7 +35,7 @@ function showOtherNats2015() {
 
     document.querySelector('.behind-modal3').style.display = 'block';
 
-    behind.addEventListener('click', () => {
+    behind.addEventListener('click", () => {
         behind.style.display = 'none';
         document.querySelector('.hidden-nat2015-1').style.display = 'none';
         document.querySelector('.hidden-nat2015-2').style.display = 'none';
@@ -50,7 +50,7 @@ function showOtherNats2014() {
 
     document.querySelector('.behind-modal3').style.display = 'block';
 
-    behind.addEventListener('click', () => {
+    behind.addEventListener('click", () => {
         behind.style.display = 'none';
         document.querySelector('.hidden-nat2014-1').style.display = 'none';
         document.querySelector('.hidden-nat2014-2').style.display = 'none';
@@ -65,7 +65,7 @@ function showOtherNats2013() {
 
     document.querySelector('.behind-modal3').style.display = 'block';
 
-    behind.addEventListener('click', () => {
+    behind.addEventListener('click", () => {
         behind.style.display = 'none';
         document.querySelector('.hidden-nat2013-1').style.display = 'none';
         document.querySelector('.hidden-nat2013-2').style.display = 'none';
@@ -80,7 +80,7 @@ function showOtherNats2012() {
 
     document.querySelector('.behind-modal3').style.display = 'block';
 
-    behind.addEventListener('click', () => {
+    behind.addEventListener('click", () => {
         behind.style.display = 'none';
         document.querySelector('.hidden-nat2012-1').style.display = 'none';
         document.querySelector('.hidden-nat2012-2').style.display = 'none';
@@ -95,7 +95,7 @@ function showOtherNats2011() {
 
     document.querySelector('.behind-modal3').style.display = 'block';
 
-    behind.addEventListener('click', () => {
+    behind.addEventListener('click", () => {
         behind.style.display = 'none';
         document.querySelector('.hidden-nat2011-1').style.display = 'none';
         document.querySelector('.hidden-nat2011-2').style.display = 'none';
@@ -110,7 +110,7 @@ function showOtherNats2010() {
 
     document.querySelector('.behind-modal3').style.display = 'block';
 
-    behind.addEventListener('click', () => {
+    behind.addEventListener('click", () => {
         behind.style.display = 'none';
         document.querySelector('.hidden-nat20101').style.display = 'none';
         document.querySelector('.hidden-nat20102').style.display = 'none';
@@ -124,7 +124,7 @@ function showOtherNats2009() {
 
     document.querySelector('.behind-modal3').style.display = 'block';
 
-    behind.addEventListener('click', () => {
+    behind.addEventListener('click", () => {
         behind.style.display = 'none';
         document.querySelector('.hidden-nat20091').style.display = 'none';
         document.querySelector('.hidden-nat20092').style.display = 'none';
@@ -138,7 +138,7 @@ function showOtherNats2008() {
 
     document.querySelector('.behind-modal3').style.display = 'block';
 
-    behind.addEventListener('click', () => {
+    behind.addEventListener('click", () => {
         behind.style.display = 'none';
         document.querySelector('.hidden-nat2008-1').style.display = 'none';
         document.querySelector('.hidden-nat2008-2').style.display = 'none';
@@ -152,7 +152,7 @@ function showOtherNats2007() {
 
     document.querySelector('.behind-modal3').style.display = 'block';
 
-    behind.addEventListener('click', () => {
+    behind.addEventListener('click", () => {
         behind.style.display = 'none';
         document.querySelector('.hidden-nat2007-1').style.display = 'none';
         document.querySelector('.hidden-nat2007-2').style.display = 'none';
@@ -166,7 +166,7 @@ function showOtherNats2006() {
 
     document.querySelector('.behind-modal3').style.display = 'block';
 
-    behind.addEventListener('click', () => {
+    behind.addEventListener('click", () => {
         behind.style.display = 'none';
         document.querySelector('.hidden-nat2006-1').style.display = 'none';
         document.querySelector('.hidden-nat2006-2').style.display = 'none';
@@ -180,7 +180,7 @@ function showOtherNats2005() {
 
     document.querySelector('.behind-modal3').style.display = 'block';
 
-    behind.addEventListener('click', () => {
+    behind.addEventListener('click", () => {
         behind.style.display = 'none';
         document.querySelector('.hidden-nat2005-1').style.display = 'none';
         document.querySelector('.hidden-nat2005-2').style.display = 'none';
@@ -194,7 +194,7 @@ function showOtherNats2004() {
 
     document.querySelector('.behind-modal3').style.display = 'block';
 
-    behind.addEventListener('click', () => {
+    behind.addEventListener('click", () => {
         behind.style.display = 'none';
         document.querySelector('.hidden-nat2004-1').style.display = 'none';
         document.querySelector('.hidden-nat2004-2').style.display = 'none';
@@ -203,16 +203,16 @@ function showOtherNats2004() {
 
 const behind = document.querySelector('.behind-modal3');
 
-natSelector.addEventListener('click', showOtherNats)
-natSelector2015.addEventListener('click', showOtherNats2015)
-natSelector2014.addEventListener('click', showOtherNats2014)
-natSelector2013.addEventListener('click', showOtherNats2013)
-natSelector2012.addEventListener('click', showOtherNats2012)
-natSelector2011.addEventListener('click', showOtherNats2011)
-natSelector2010.addEventListener('click', showOtherNats2010)
-natSelector2009.addEventListener('click', showOtherNats2009)
-natSelector2008.addEventListener('click', showOtherNats2008)
-natSelector2007.addEventListener('click', showOtherNats2007)
-natSelector2006.addEventListener('click', showOtherNats2006)
-natSelector2005.addEventListener('click', showOtherNats2005)
-natSelector2004.addEventListener('click', showOtherNats2004)
+natSelector.addEventListener('click", showOtherNats)
+natSelector2015.addEventListener('click", showOtherNats2015)
+natSelector2014.addEventListener('click", showOtherNats2014)
+natSelector2013.addEventListener('click", showOtherNats2013)
+natSelector2012.addEventListener('click", showOtherNats2012)
+natSelector2011.addEventListener('click", showOtherNats2011)
+natSelector2010.addEventListener('click", showOtherNats2010)
+natSelector2009.addEventListener('click", showOtherNats2009)
+natSelector2008.addEventListener('click", showOtherNats2008)
+natSelector2007.addEventListener('click", showOtherNats2007)
+natSelector2006.addEventListener('click", showOtherNats2006)
+natSelector2005.addEventListener('click", showOtherNats2005)
+natSelector2004.addEventListener('click", showOtherNats2004)

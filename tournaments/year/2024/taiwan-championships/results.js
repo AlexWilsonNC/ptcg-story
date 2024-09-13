@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Cai Minyan",
-        flag: '../../../../assets/flags/taiwan.png',
+        "name": "Cai Minyan",
+        "flag": "TW",
         "event": "2024 Taiwan Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/snorlax.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "snorlax",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -18,14 +16,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Lin Xinyan",
-        flag: '../../../../assets/flags/taiwan.png',
+        "name": "Lin Xinyan",
+        "flag": "TW",
         "event": "2024 Taiwan Championships",
-        sprite1: '../../../../assets/sprites/comfey.png',
-        sprite2: '../../../../assets/sprites/roaring-moon.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "comfey",
+        "sprite2": "roaring-moon",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -36,14 +32,12 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "name": "--",
+        "flag": "unknown",
         "event": "2024 Taiwan Championships",
-        sprite1: '../../../../assets/sprites/comfey.png',
-        sprite2: '../../../../assets/sprites/sableye.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "comfey",
+        "sprite2": "sableye",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -54,14 +48,12 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "name": "--",
+        "flag": "unknown",
         "event": "2024 Taiwan Championships",
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/archeops.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "lugia",
+        "sprite2": "archeops",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -72,13 +64,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jiao",
-        flag: '../../../../assets/flags/taiwan.png',
+        "name": "Jiao",
+        "flag": "TW",
         "event": "2024 Taiwan Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gardevoir.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "gardevoir",
+"decklist": {
             "pokemon": [
                 {"count": 2, "name": "Gardevoir ex", "set": "PAF", "number": "29"},
                 {"count": 4, "name": "Kirlia", "set": "SIT", "number": "68"},
@@ -116,14 +107,12 @@ let masters = [
         }
     },
     {
-        "firstName": "eeee",
-        flag: '../../../../assets/flags/unknown.png',
+        "name": "eeee",
+        "flag": "unknown",
         "event": "2024 Taiwan Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -134,14 +123,12 @@ let masters = [
         }
     },
     {
-        "firstName": "eeee",
-        flag: '../../../../assets/flags/unknown.png',
+        "name": "eeee",
+        "flag": "unknown",
         "event": "2024 Taiwan Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -152,14 +139,12 @@ let masters = [
         }
     },
     {
-        "firstName": "eeee",
-        flag: '../../../../assets/flags/unknown.png',
+        "name": "eeee",
+        "flag": "unknown",
         "event": "2024 Taiwan Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [

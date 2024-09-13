@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Šimon Belanyi',
-      flag: '../../../assets/flags/slovakia.png',
-      sprite1: '../../../assets/sprites/malamar.png',
-      sprite2: '../../../assets/sprites/necrozma-ultra.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Šimon Belanyi",
+      "flag": "SK",
+      "sprite1": "malamar",
+      "sprite2": "necrozma-ultra",
+       
       deckid: "malamar",
       event: "2019 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -62,7 +62,7 @@ let masters = [
               "name": "Tapu Koko",
               "number": "31",
               "set": "PR-SM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -142,7 +142,7 @@ let masters = [
               "name": "Viridian Forest",
               "number": "156",
               "set": "TEU"
-          },
+          }
         ],
         "energy": [
           {
@@ -167,14 +167,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Daniel Magda',
-      flag: '../../../assets/flags/czech-republic.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/buzzwole.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Daniel Magda",
+      "flag": "CZ",
+      "sprite1": "zapdos",
+      "sprite2": "buzzwole",
+       
       deckid: "zap-beasts",
       event: "2019 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -229,7 +229,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
         ],
         "trainer": [
           {
@@ -309,7 +309,7 @@ let masters = [
               "name": "Shrine of Punishment",
               "number": "143",
               "set": "CES"
-          },
+          }
         ],
         "energy": [
           {
@@ -334,14 +334,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Noah Donen',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Noah Donen",
+      "flag": "CA",
+      "sprite1": "zoroark",
+      "sprite2": "lycanroc-midnight",
+       
       deckid: "zoroark-lycanroc",
       event: "2019 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -420,7 +420,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
         ],
         "trainer": [
           {
@@ -542,7 +542,7 @@ let masters = [
               "name": "Counter Gain",
               "number": "170",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -573,14 +573,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Roan Godfrey-Robbins',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/blacephalon.png',
-      sprite2: '../../../assets/sprites/naganadel.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Roan Godfrey-Robbins",
+      "flag": "US",
+      "sprite1": "blacephalon",
+      "sprite2": "naganadel",
+       
       deckid: "blacephalon-naganadel",
       event: "2019 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -617,7 +617,7 @@ let masters = [
              "name": "Tapu Lele GX",
              "number": "60",
              "set": "GRI"
-         },
+         }
         ],
         "trainer": [
           {
@@ -685,7 +685,7 @@ let masters = [
             "name": "Heat Factory ♢",
             "number": "178",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -704,14 +704,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Benny Billinger',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Benny Billinger",
+      "flag": "CA",
+      "sprite1": "zapdos",
+      "sprite2": "pikachu-zekrom-tagteam",
+       
       deckid: "pikarom",
       event: "2019 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -760,7 +760,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-        },
+        }
         ],
         "trainer": [
           {
@@ -840,7 +840,7 @@ let masters = [
               "name": "Thunder Mountain ♢",
               "number": "191",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -853,14 +853,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Yuichi Matsuo',
-      flag: '../../../assets/flags/australia.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/buzzwole.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Yuichi Matsuo",
+      "flag": "AU",
+      "sprite1": "zapdos",
+      "sprite2": "buzzwole",
+       
       deckid: "zap-beasts",
       event: "2019 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -915,7 +915,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-        },
+        }
         ],
         "trainer": [
           {
@@ -995,7 +995,7 @@ let masters = [
               "name": "Shrine of Punishment",
               "number": "143",
               "set": "CES"
-          },
+          }
         ],
         "energy": [
           {
@@ -1020,14 +1020,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Lucas Miller',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/buzzwole.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Lucas Miller",
+      "flag": "US",
+      "sprite1": "zapdos",
+      "sprite2": "buzzwole",
+       
       deckid: "zap-beasts",
       event: "2019 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -1082,7 +1082,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
         ],
         "trainer": [
           {
@@ -1168,7 +1168,7 @@ let masters = [
               "name": "Thunder Mountain ♢",
               "number": "191",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -1199,14 +1199,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Ivan Lorente',
-      flag: '../../../assets/flags/spain.png',
-      sprite1: '../../../assets/sprites/blacephalon.png',
-      sprite2: '../../../assets/sprites/naganadel.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Ivan Lorente",
+      "flag": "ES",
+      "sprite1": "blacephalon",
+      "sprite2": "naganadel",
+       
       deckid: "blacephalon-naganadel",
       event: "2019 Europe Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1255,7 +1255,7 @@ let masters = [
              "name": "Tapu Lele GX",
              "number": "60",
              "set": "GRI"
-         },
+         }
         ],
         "trainer": [
           {
@@ -1317,7 +1317,7 @@ let masters = [
             "name": "Heat Factory ♢",
             "number": "178",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {

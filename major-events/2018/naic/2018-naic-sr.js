@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Jackson Ford',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/buzzwole.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Jackson Ford",
+      "flag": "CA",
+      "sprite1": "buzzwole",
+      "sprite2": "lycanroc-midnight",
+       
       deckid: "buzzwole-gx",
       event: "2018 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -56,7 +56,7 @@ let masters = [
               "name": "Remoraid",
               "number": "32",
               "set": "BKT"
-          },
+          }
         ],
         "trainer": [
           {
@@ -124,7 +124,7 @@ let masters = [
             "name": "Brooklet Hill",
             "number": "120",
             "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -149,14 +149,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Isaiah Bradner',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/buzzwole.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Isaiah Bradner",
+      "flag": "US",
+      "sprite1": "buzzwole",
+      "sprite2": "lycanroc-midnight",
+       
       deckid: "buzzwole-gx",
       event: "2018 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -205,7 +205,7 @@ let masters = [
               "name": "Remoraid",
               "number": "32",
               "set": "BKT"
-          },
+          }
         ],
         "trainer": [
           {
@@ -273,7 +273,7 @@ let masters = [
             "name": "Brooklet Hill",
             "number": "120",
             "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -298,14 +298,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Adam Omarali',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/buzzwole.png',
-      sprite2: '../../../assets/sprites/garbodor.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Adam Omarali",
+      "flag": "CA",
+      "sprite1": "buzzwole",
+      "sprite2": "garbodor",
+       
       deckid: "buzzwole-garbodor",
       event: "2018 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -336,7 +336,7 @@ let masters = [
               "name": "Tapu Lele GX",
               "number": "60",
               "set": "GRI"
-          },
+          }
         ],
         "trainer": [
           {
@@ -422,7 +422,7 @@ let masters = [
               "name": "Float Stone",
               "number": "137",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
@@ -447,14 +447,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Sam Sullivan',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Sam Sullivan",
+      "flag": "US",
+      "sprite1": "zoroark",
+      "sprite2": "lycanroc-midnight",
+       
       deckid: "zoroark-lycanroc",
       event: "2018 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -503,7 +503,7 @@ let masters = [
                 "name": "Mewtwo",
                 "number": "51",
                 "set": "EVO"
-          },
+          }
         ],
         "trainer": [
           {
@@ -607,7 +607,7 @@ let masters = [
               "name": "Parallel City",
               "number": "145",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
@@ -632,14 +632,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Abijah Jong',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/golisopod.png',
-      sprite2: '../../../assets/sprites/garbodor.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Abijah Jong",
+      "flag": "CA",
+      "sprite1": "golisopod",
+      "sprite2": "garbodor",
+       
       deckid: "golisopod-garbodor",
       event: "2018 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -682,7 +682,7 @@ let masters = [
               "name": "Latios",
               "number": "41",
               "set": "SLG"
-          },
+          }
         ],
         "trainer": [
           {
@@ -762,7 +762,7 @@ let masters = [
               "name": "Choice Band",
               "number": "121",
               "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -787,14 +787,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Tanner Hurley',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/buzzwole.png',
-      sprite2: '../../../assets/sprites/garbodor.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Tanner Hurley",
+      "flag": "US",
+      "sprite1": "buzzwole",
+      "sprite2": "garbodor",
+       
       deckid: "buzzwole-garbodor",
       event: "2018 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -825,7 +825,7 @@ let masters = [
               "name": "Tapu Lele GX",
               "number": "60",
               "set": "GRI"
-          },
+          }
         ],
         "trainer": [
           {
@@ -905,7 +905,7 @@ let masters = [
               "name": "Float Stone",
               "number": "137",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
@@ -930,14 +930,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Leandro Almeida',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/golisopod.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Leandro Almeida",
+      "flag": "BR",
+      "sprite1": "zoroark",
+      "sprite2": "golisopod",
+       
       deckid: "zoroark-golisopod",
       event: "2018 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -986,7 +986,7 @@ let masters = [
               "name": "Oranguru",
               "number": "114",
               "set": "UPR"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1078,7 +1078,7 @@ let masters = [
                "name": "Parallel City",
                "number": "145",
                "set": "BKT"
-           },
+           }
         ],
         "energy": [
           {
@@ -1097,14 +1097,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Hasan Kunukcu',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/garbodor.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Hasan Kunukcu",
+      "flag": "US",
+      "sprite1": "zoroark",
+      "sprite2": "garbodor",
+       
       deckid: "zoroark-garbodor",
       event: "2018 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1165,7 +1165,7 @@ let masters = [
                 "name": "Mewtwo",
                 "number": "51",
                 "set": "EVO"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1263,7 +1263,7 @@ let masters = [
               "name": "Parallel City",
               "number": "145",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {

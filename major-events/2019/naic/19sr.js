@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Isaiah Bradner',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/dewgong.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Isaiah Bradner",
+      "flag": "US",
+      "sprite1": "zoroark",
+      "sprite2": "dewgong",
+       
       deckid: "zoroark-checkmate",
       event: "2019 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -104,7 +104,7 @@ let masters = [
              "name": "Oranguru",
              "number": "114",
              "set": "UPR"
-         },
+         }
         ],
         "trainer": [
           {
@@ -178,7 +178,7 @@ let masters = [
             "name": "Choice Band",
             "number": "121",
             "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -197,14 +197,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Regan Retzloff',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/weezing.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Regan Retzloff",
+      "flag": "US",
+      "sprite1": "blank",
+      "sprite2": "weezing",
+       
       deckid: "weezing",
       event: "2019 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -265,7 +265,7 @@ let masters = [
                   "name": "Oranguru",
                   "number": "113",
                   "set": "SUM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -351,7 +351,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
         ],
         "energy": [
           {
@@ -376,14 +376,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Rowan Stavenow',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/dewgong.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Rowan Stavenow",
+      "flag": "CA",
+      "sprite1": "zoroark",
+      "sprite2": "dewgong",
+       
       deckid: "zoroark-checkmate",
       event: "2019 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -480,7 +480,7 @@ let masters = [
              "name": "Oranguru",
              "number": "114",
              "set": "UPR"
-         },
+         }
         ],
         "trainer": [
           {
@@ -554,7 +554,7 @@ let masters = [
             "name": "Choice Band",
             "number": "121",
             "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -573,14 +573,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Lucas Xing',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/persian.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Lucas Xing",
+      "flag": "CA",
+      "sprite1": "zoroark",
+      "sprite2": "persian",
+       
       deckid: "zoroark-checkmate",
       event: "2019 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -665,7 +665,7 @@ let masters = [
              "name": "Mew",
              "number": "76",
              "set": "UNB"
-         },
+         }
         ],
         "trainer": [
           {
@@ -751,7 +751,7 @@ let masters = [
               "name": "Devoured Field",
               "number": "93",
               "set": "CIN"
-          },
+          }
         ],
         "energy": [
           {
@@ -770,14 +770,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Mateus Rocha',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/buzzwole.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Mateus Rocha",
+      "flag": "BR",
+      "sprite1": "zapdos",
+      "sprite2": "buzzwole",
+       
       deckid: "zap-beasts",
       event: "2019 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -826,7 +826,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
         ],
         "trainer": [
           {
@@ -912,7 +912,7 @@ let masters = [
               "name": "Shrine of Punishment",
               "number": "143",
               "set": "CES"
-          },
+          }
         ],
         "energy": [
           {
@@ -943,14 +943,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Frank Mintmire',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/weezing.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Frank Mintmire",
+      "flag": "US",
+      "sprite1": "blank",
+      "sprite2": "weezing",
+       
       deckid: "weezing",
       event: "2019 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1011,7 +1011,7 @@ let masters = [
                   "name": "Oranguru",
                   "number": "113",
                   "set": "SUM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1097,7 +1097,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
         ],
         "energy": [
           {
@@ -1122,14 +1122,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Kaya Lichtleitner',
-      flag: '../../../assets/flags/germany.png',
-      sprite2: '../../../assets/sprites/lucario-melmetal-tagteam.png',
-      sprite1: '../../../assets/sprites/hoopa-unbound.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Kaya Lichtleitner",
+      "flag": "DE",
+      "sprite2": "lucario-melmetal-tagteam.png",
+      "sprite1": "hoopa-unbound",
+       
       deckid: "wall",
       event: "2019 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1160,7 +1160,7 @@ let masters = [
               "name": "Unown",
               "number": "91",
               "set": "LOT"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1276,7 +1276,7 @@ let masters = [
             "name": "Power Plant",
             "number": "183",
             "set": "UNB"
-        },
+        }
         ],
         "energy": [
           {
@@ -1295,14 +1295,14 @@ let masters = [
       }
     },
     {
-      firstName: 'João Penteado',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
-      sprite2: '../../../assets/sprites/snorlax-eevee-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "João Penteado",
+      "flag": "BR",
+      "sprite1": "reshiram-charizard-tagteam",
+      "sprite2": "snorlax-eevee-tagteam",
+       
       deckid: "reshizard",
       event: "2019 North America Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1363,7 +1363,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
         ],
         "trainer": [
           {
@@ -1443,7 +1443,7 @@ let masters = [
             "name": "Heat Factory ♢",
             "number": "178",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {

@@ -451,45 +451,45 @@ function changeToBuildW() {
     descBoxW.style.display = 'flex';
 }
 
-deckbuild1.addEventListener('click', changeToBuild1)
-deckbuild2.addEventListener('click', changeToBuild2)
+deckbuild1.addEventListener('click", changeToBuild1)
+deckbuild2.addEventListener('click", changeToBuild2)
 
-deckbuild3.addEventListener('click', changeToBuild3)
-deckbuild4.addEventListener('click', changeToBuild4)
+deckbuild3.addEventListener('click", changeToBuild3)
+deckbuild4.addEventListener('click", changeToBuild4)
 
-deckbuild5.addEventListener('click', changeToBuild5)
-deckbuild6.addEventListener('click', changeToBuild6)
-deckbuild65.addEventListener('click', changeToBuild65)
+deckbuild5.addEventListener('click", changeToBuild5)
+deckbuild6.addEventListener('click", changeToBuild6)
+deckbuild65.addEventListener('click", changeToBuild65)
 
-deckbuild7.addEventListener('click', changeToBuild7)
-deckbuild8.addEventListener('click', changeToBuild8)
-deckbuild85.addEventListener('click', changeToBuild85)
+deckbuild7.addEventListener('click", changeToBuild7)
+deckbuild8.addEventListener('click", changeToBuild8)
+deckbuild85.addEventListener('click", changeToBuild85)
 
-deckbuild9.addEventListener('click', changeToBuild9)
-deckbuild10.addEventListener('click', changeToBuild10)
+deckbuild9.addEventListener('click", changeToBuild9)
+deckbuild10.addEventListener('click", changeToBuild10)
 
-deckbuildA.addEventListener('click', changeToBuildA)
-deckbuildB.addEventListener('click', changeToBuildB)
+deckbuildA.addEventListener('click", changeToBuildA)
+deckbuildB.addEventListener('click", changeToBuildB)
 
-deckbuildC.addEventListener('click', changeToBuildC)
-deckbuildD.addEventListener('click', changeToBuildD)
+deckbuildC.addEventListener('click", changeToBuildC)
+deckbuildD.addEventListener('click", changeToBuildD)
 
-deckbuildE.addEventListener('click', changeToBuildE)
-deckbuildF.addEventListener('click', changeToBuildF)
+deckbuildE.addEventListener('click", changeToBuildE)
+deckbuildF.addEventListener('click", changeToBuildF)
 
-deckbuildG.addEventListener('click', changeToBuildG)
-deckbuildH.addEventListener('click', changeToBuildH)
-deckbuildH1.addEventListener('click', changeToBuildH1)
+deckbuildG.addEventListener('click", changeToBuildG)
+deckbuildH.addEventListener('click", changeToBuildH)
+deckbuildH1.addEventListener('click", changeToBuildH1)
 
-deckbuildO.addEventListener('click', changeToBuildO)
-deckbuildP.addEventListener('click', changeToBuildP)
-deckbuildQ.addEventListener('click', changeToBuildQ)
+deckbuildO.addEventListener('click", changeToBuildO)
+deckbuildP.addEventListener('click", changeToBuildP)
+deckbuildQ.addEventListener('click", changeToBuildQ)
 
-deckbuildR.addEventListener('click', changeToBuildR)
-deckbuildS.addEventListener('click', changeToBuildS)
+deckbuildR.addEventListener('click", changeToBuildR)
+deckbuildS.addEventListener('click", changeToBuildS)
 
-deckbuildT.addEventListener('click', changeToBuildT)
-deckbuildU.addEventListener('click', changeToBuildU)
+deckbuildT.addEventListener('click", changeToBuildT)
+deckbuildU.addEventListener('click", changeToBuildU)
 
-deckbuildV.addEventListener('click', changeToBuildV)
-deckbuildW.addEventListener('click', changeToBuildW)
+deckbuildV.addEventListener('click", changeToBuildV)
+deckbuildW.addEventListener('click", changeToBuildW)

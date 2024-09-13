@@ -53,6 +53,6 @@ function changeToBuild85() {
     buildBox85.style.display = 'flex';
 }
 
-deckbuild7.addEventListener('click', changeToBuild7)
-deckbuild8.addEventListener('click', changeToBuild8)
-deckbuild85.addEventListener('click', changeToBuild85)
+deckbuild7.addEventListener('click", changeToBuild7)
+deckbuild8.addEventListener('click", changeToBuild8)
+deckbuild85.addEventListener('click", changeToBuild85)

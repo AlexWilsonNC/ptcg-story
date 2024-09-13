@@ -1,13 +1,12 @@
-let masters = [
+"masters": [
     {
-        firstName: 'Clothilde P',
-        flag: '../../../../assets/flags/france.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 France National Championships - Juniors',
-        decklist: {
+        "name": "Clothilde P",
+        "flag": "FR",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 France National Championships - Juniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -18,14 +17,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Vianney Leroy',
-        flag: '../../../../assets/flags/france.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 France National Championships - Juniors',
-        decklist: {
+        "name": "Vianney Leroy",
+        "flag": "FR",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 France National Championships - Juniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -36,14 +34,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Ilan Louboff',
-        flag: '../../../../assets/flags/france.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 France National Championships - Juniors',
-        decklist: {
+        "name": "Ilan Louboff",
+        "flag": "FR",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 France National Championships - Juniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -54,14 +51,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Martin G',
-        flag: '../../../../assets/flags/france.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 France National Championships - Juniors',
-        decklist: {
+        "name": "Martin G",
+        "flag": "FR",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 France National Championships - Juniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -72,14 +68,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Tom C',
-        flag: '../../../../assets/flags/france.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 France National Championships - Juniors',
-        decklist: {
+        "name": "Tom C",
+        "flag": "FR",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 France National Championships - Juniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -90,14 +85,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Sylvain C',
-        flag: '../../../../assets/flags/france.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 France National Championships - Juniors',
-        decklist: {
+        "name": "Sylvain C",
+        "flag": "FR",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 France National Championships - Juniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -108,14 +102,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Thomas M',
-        flag: '../../../../assets/flags/france.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 France National Championships - Juniors',
-        decklist: {
+        "name": "Thomas M",
+        "flag": "FR",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 France National Championships - Juniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -126,14 +119,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Jimmy',
-        flag: '../../../../assets/flags/france.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 France National Championships - Juniors',
-        decklist: {
+        "name": "Jimmy",
+        "flag": "FR",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 France National Championships - Juniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [

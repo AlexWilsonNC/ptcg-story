@@ -1,12 +1,12 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Trent Orndorff',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/accelgor.png',
-      sprite2: '../../assets/sprites/trevenant.png',
-      list: '../../assets/list-icon.png',
-      event: '2014 World Championships - Seniors',
-      decklist: {
+      "name": "Trent Orndorff",
+      "flag": "US",
+      "sprite1": "accelgor",
+      "sprite2": "trevenant",
+       
+      event: '2014 World Championships - Seniors",
+      "decklist": {
         "pokemon": [
           { "count": 3, "name": "Accelgor", "set": "DEX", "number": "11" },
           { "count": 3, "name": "Shelmet", "set": "PLB", "number": "7" },
@@ -15,7 +15,7 @@ let masters = [
           { "count": 2, "name": "Dusknoir", "set": "BCR", "number": "63" },
           { "count": 2, "name": "Dusclops", "set": "FLF", "number": "39" },
           { "count": 2, "name": "Duskull", "set": "BCR", "number": "61" },
-          { "count": 2, "name": "Mew-EX", "set": "LTR", "number": "RC24" },
+          { "count": 2, "name": "Mew-EX", "set": "LTR", "number": "RC24" }
         ], "trainer": [
           { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
           { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -31,20 +31,20 @@ let masters = [
           { "count": 1, "name": "Town Map", "set": "BCR", "number": "136" },
           { "count": 4, "name": "Float Stone", "set": "PLF", "number": "99" },
           { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
-          { "count": 2, "name": "Tropical Beach", "set": "PR-BLW", "number": "50" },
+          { "count": 2, "name": "Tropical Beach", "set": "PR-BLW", "number": "50" }
         ], "energy": [
           { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" },
         ]
       },
     },
     {
-      firstName: 'Alex Croxton',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/keldeo-resolute.png',
-      sprite2: '../../assets/sprites/blastoise.png',
-      list: '../../assets/list-icon.png',
-      event: '2014 World Championships - Seniors',
-      decklist: {
+      "name": "Alex Croxton",
+      "flag": "US",
+      "sprite1": "keldeo-resolute",
+      "sprite2": "blastoise",
+       
+      event: '2014 World Championships - Seniors",
+      "decklist": {
         "pokemon": [
           { "count": 3, "name": "Blastoise", "set": "BCR", "number": "31" },
           { "count": 1, "name": "Wartortle", "set": "BCR", "number": "30" },
@@ -52,7 +52,7 @@ let masters = [
           { "count": 3, "name": "Keldeo-EX", "set": "BCR", "number": "49" },
           { "count": 3, "name": "Black Kyurem-EX", "set": "PLS", "number": "95" },
           { "count": 1, "name": "Electrode", "set": "PLF", "number": "33" },
-          { "count": 1, "name": "Voltorb", "set": "PLF", "number": "32" },
+          { "count": 1, "name": "Voltorb", "set": "PLF", "number": "32" }
         ], "trainer": [
           { "count": 3, "name": "Professor Sycamore", "set": "XY", "number": "122" },
           { "count": 3, "name": "Skyla", "set": "BCR", "number": "134" },
@@ -67,7 +67,7 @@ let masters = [
           { "count": 1, "name": "Pokémon Catcher", "set": "KSS", "number": "36" },
           { "count": 1, "name": "Max Potion", "set": "EPO", "number": "94" },
           { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
-          { "count": 3, "name": "Tropical Beach", "set": "PR-BLW", "number": "50" },
+          { "count": 3, "name": "Tropical Beach", "set": "PR-BLW", "number": "50" }
         ], "energy": [
           { "count": 8, "name": "Water Energy", "set": "XY", "number": "134" },
           { "count": 2, "name": "Lightning Energy", "set": "XY", "number": "135" },
@@ -75,13 +75,13 @@ let masters = [
       },
     },
     {
-      firstName: 'Grant Manley',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/landorus-therian.png',
-      sprite2: '../../assets/sprites/toxicroak.png',
-      list: '../../assets/list-icon.png',
-      event: '2014 World Championships - Seniors',
-      decklist: {
+      "name": "Grant Manley",
+      "flag": "US",
+      "sprite1": "landorus-therian",
+      "sprite2": "toxicroak",
+       
+      event: '2014 World Championships - Seniors",
+      "decklist": {
         "pokemon": [
           { "count": 3, "name": "Landorus-EX", "set": "BCR", "number": "89" },
           { "count": 2, "name": "Toxicroak-EX", "set": "FLF", "number": "41" },
@@ -89,7 +89,7 @@ let masters = [
           { "count": 2, "name": "Mewtwo-EX", "set": "NXD", "number": "54" },
           { "count": 1, "name": "Virizion-EX", "set": "PLB", "number": "9" },
           { "count": 1, "name": "Reshiram", "set": "LTR", "number": "RC22" },
-          { "count": 1, "name": "Druddigon", "set": "FLF", "number": "70" },
+          { "count": 1, "name": "Druddigon", "set": "FLF", "number": "70" }
         ], "trainer": [
           { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
           { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -101,7 +101,7 @@ let masters = [
           { "count": 3, "name": "Ultra Ball", "set": "FLF", "number": "99" },
           { "count": 2, "name": "Random Receiver", "set": "DEX", "number": "99" },
           { "count": 4, "name": "Muscle Band", "set": "XY", "number": "121" },
-          { "count": 3, "name": "Virbank City Gym", "set": "PLS", "number": "126" },
+          { "count": 3, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
         ], "energy": [
           { "count": 2, "name": "Fighting Energy", "set": "XY", "number": "137" },
           { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" },
@@ -111,13 +111,13 @@ let masters = [
       },
     },
     {
-      firstName: 'Calvin Connor',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/yveltal.png',
-      sprite2: '../../assets/sprites/garbodor.png',
-      list: '../../assets/list-icon.png',
-      event: '2014 World Championships - Seniors',
-      decklist: {
+      "name": "Calvin Connor",
+      "flag": "US",
+      "sprite1": "yveltal",
+      "sprite2": "garbodor",
+       
+      event: '2014 World Championships - Seniors",
+      "decklist": {
         "pokemon": [
           { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
           { "count": 1, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
@@ -127,7 +127,7 @@ let masters = [
           { "count": 1, "name": "Yveltal", "set": "XY", "number": "78" },
           { "count": 1, "name": "Absol", "set": "PLF", "number": "67" },
           { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60" },
-          { "count": 1, "name": "Keldeo-EX", "set": "BCR", "number": "49" },
+          { "count": 1, "name": "Keldeo-EX", "set": "BCR", "number": "49" }
         ], "trainer": [
           { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
           { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -143,7 +143,7 @@ let masters = [
           { "count": 1, "name": "Pokémon Catcher", "set": "KSS", "number": "36" },
           { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
           { "count": 3, "name": "Float Stone", "set": "PLF", "number": "99" },
-          { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" },
+          { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
         ], "energy": [
           { "count": 8, "name": "Darkness Energy", "set": "XY", "number": "138" },
           { "count": 3, "name": "Double Colorless Energy", "set": "XY", "number": "130" },
@@ -151,17 +151,17 @@ let masters = [
       },
     },
     {
-      firstName: 'Cote Strike',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/lugia.png',
-      sprite2: '../../assets/sprites/deoxys.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2014 World Championships - Seniors',
-      decklist: {
+      "name": "Cote Strike",
+      "flag": "US",
+      "sprite1": "lugia",
+      "sprite2": "deoxys",
+      list: '../../assets/sprites/blank",
+      event: '2014 World Championships - Seniors",
+      "decklist": {
         "pokemon": [
-          {"count": 0, "name": "example", "set": "aa", "number": "00"},
+          {"count": 0, "name": "example", "set": "aa", "number": "00"}
         ], "trainer": [
-          {"count": 0, "name": "example", "set": "aa", "number": "00"},
+          {"count": 0, "name": "example", "set": "aa", "number": "00"}
         ], "energy": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
         ]
@@ -169,17 +169,17 @@ let masters = [
        
     },
     {
-      firstName: 'Ishaan Jagiasi',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/flygon.png',
-      sprite2: '../../assets/sprites/dusknoir.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2014 World Championships - Seniors',
-      decklist: {
+      "name": "Ishaan Jagiasi",
+      "flag": "US",
+      "sprite1": "flygon",
+      "sprite2": "dusknoir",
+      list: '../../assets/sprites/blank",
+      event: '2014 World Championships - Seniors",
+      "decklist": {
         "pokemon": [
-          {"count": 0, "name": "example", "set": "aa", "number": "00"},
+          {"count": 0, "name": "example", "set": "aa", "number": "00"}
         ], "trainer": [
-          {"count": 0, "name": "example", "set": "aa", "number": "00"},
+          {"count": 0, "name": "example", "set": "aa", "number": "00"}
         ], "energy": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
         ]
@@ -187,17 +187,17 @@ let masters = [
        
     },
     {
-      firstName: 'Jeffrey Cheng',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/blank.png',
-      sprite2: '../../assets/sprites/pyroar.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2014 World Championships - Seniors',
-      decklist: {
+      "name": "Jeffrey Cheng",
+      "flag": "US",
+      "sprite1": "blank",
+      "sprite2": "pyroar",
+      list: '../../assets/sprites/blank",
+      event: '2014 World Championships - Seniors",
+      "decklist": {
         "pokemon": [
-          {"count": 0, "name": "example", "set": "aa", "number": "00"},
+          {"count": 0, "name": "example", "set": "aa", "number": "00"}
         ], "trainer": [
-          {"count": 0, "name": "example", "set": "aa", "number": "00"},
+          {"count": 0, "name": "example", "set": "aa", "number": "00"}
         ], "energy": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
         ]
@@ -205,17 +205,17 @@ let masters = [
        
     },
     {
-      firstName: 'Xander Pero',
-      flag: '../../assets/flags/usa.png',
-      sprite1: '../../assets/sprites/virizion.png',
-      sprite2: '../../assets/sprites/genesect.png',
-      list: '../../assets/sprites/blank.png',
-      event: '2014 World Championships - Seniors',
-      decklist: {
+      "name": "Xander Pero",
+      "flag": "US",
+      "sprite1": "virizion",
+      "sprite2": "genesect",
+      list: '../../assets/sprites/blank",
+      event: '2014 World Championships - Seniors",
+      "decklist": {
         "pokemon": [
-          {"count": 0, "name": "example", "set": "aa", "number": "00"},
+          {"count": 0, "name": "example", "set": "aa", "number": "00"}
         ], "trainer": [
-          {"count": 0, "name": "example", "set": "aa", "number": "00"},
+          {"count": 0, "name": "example", "set": "aa", "number": "00"}
         ], "energy": [
           {"count": 0, "name": "example", "set": "aa", "number": "00"},
         ]

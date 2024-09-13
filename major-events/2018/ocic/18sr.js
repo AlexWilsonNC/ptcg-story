@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Connor Pedersen',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/espeon.png',
-      sprite2: '../../../assets/sprites/garbodor.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Connor Pedersen",
+      "flag": "US",
+      "sprite1": "espeon",
+      "sprite2": "garbodor",
+       
       deckid: "espeon-garbodor",
       event: "2018 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -56,7 +56,7 @@ let masters = [
                 "name": "Espeon-EX",
                 "number": "52",
                 "set": "BKP"
-          },
+          }
         ],
         "trainer": [
           {
@@ -81,7 +81,7 @@ let masters = [
             "name": "Lillie",
                 "number": "122",
                 "set": "SUM",
-            "count": 1,
+            "count": 1
           },
           {
             "count": 1,
@@ -124,7 +124,7 @@ let masters = [
               "name": "Parallel City",
               "number": "145",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
@@ -143,26 +143,26 @@ let masters = [
       }
     },
     {
-      firstName: 'Magnus Pedersen',
-      flag: '../../../assets/flags/denmark.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/xerneas-active.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Magnus Pedersen",
+      "flag": "DK",
+      "sprite1": "blank",
+      "sprite2": "xerneas-active",
+       
       deckid: "xerneas-break",
       event: "2018 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "name": "Xerneas BREAK",
                 "number": "82",
                 "set": "STS",
-            "count": 3,
+            "count": 3
           },
           {
             "name": "Xerneas",
                 "number": "81",
                 "set": "STS",
-            "count": 4,
+            "count": 4
           },
           {
             "count": 3,
@@ -174,14 +174,14 @@ let masters = [
             "name": "Mr. Mime",
                 "number": "97",
                 "set": "BKT",
-            "count": 1,
+            "count": 1
           },
           {
             "count": 1,
                 "name": "Oranguru",
                 "number": "113",
                 "set": "SUM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -255,7 +255,7 @@ let masters = [
                 "number": "100",
                 "set": "FCO",
             "count": 3,
-          },
+          }
         ],
         "energy": [
           {
@@ -274,14 +274,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Brennan Kamerman',
-      flag: '../../../assets/flags/netherlands.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/greninja.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Brennan Kamerman",
+      "flag": "NL",
+      "sprite1": "blank",
+      "sprite2": "greninja",
+       
       deckid: "greninja",
       event: "2018 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -330,7 +330,7 @@ let masters = [
              "name": "Tapu Lele GX",
              "number": "60",
              "set": "GRI"
-         },
+         }
         ],
         "trainer": [
           {
@@ -349,7 +349,7 @@ let masters = [
             "name": "Lillie",
                 "number": "122",
                 "set": "SUM",
-            "count": 2,
+            "count": 2
           },
           {
             "count": 4,
@@ -404,7 +404,7 @@ let masters = [
             "name": "Brooklet Hill",
             "number": "120",
             "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -423,14 +423,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Nicholas Apostolov',
-      flag: '../../../assets/flags/australia.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/golisopod.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Nicholas Apostolov",
+      "flag": "AU",
+      "sprite1": "zoroark",
+      "sprite2": "golisopod",
+       
       deckid: "zoroark-golisopod",
       event: "2018 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -479,7 +479,7 @@ let masters = [
               "name": "Tapu Koko",
               "number": "31",
               "set": "PR-SM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -559,7 +559,7 @@ let masters = [
               "name": "Parallel City",
               "number": "145",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
@@ -578,14 +578,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Zi Xing Chiew',
-      flag: '../../../assets/flags/malaysia.png',
-      sprite1: '../../../assets/sprites/tapu-bulu.png',
-      sprite2: '../../../assets/sprites/vikavolt.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Zi Xing Chiew",
+      "flag": "MY",
+      "sprite1": "tapu-bulu",
+      "sprite2": "vikavolt",
+       
       deckid: "tapu-bulu-vikavolt",
       event: "2018 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -622,7 +622,7 @@ let masters = [
                 "name": "Oranguru",
                 "number": "113",
                 "set": "SUM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -702,7 +702,7 @@ let masters = [
                "name": "Choice Band",
                "number": "121",
                "set": "GRI"
-           },
+           }
         ],
         "energy": [
           {
@@ -721,14 +721,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Preston Ellis',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/greninja.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Preston Ellis",
+      "flag": "US",
+      "sprite1": "blank",
+      "sprite2": "greninja",
+       
       deckid: "greninja",
       event: "2018 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -777,7 +777,7 @@ let masters = [
              "name": "Remoraid",
              "number": "32",
              "set": "BKT"
-         },
+         }
         ],
         "trainer": [
           {
@@ -839,7 +839,7 @@ let masters = [
             "name": "Brooklet Hill",
             "number": "120",
             "set": "GRI"
-          },
+          }
         ],
         "energy": [
           {
@@ -858,14 +858,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Piper Lepine',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/buzzwole.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Piper Lepine",
+      "flag": "US",
+      "sprite1": "buzzwole",
+      "sprite2": "lycanroc-midnight",
+       
       deckid: "buzzwole-gx",
       event: "2018 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -920,7 +920,7 @@ let masters = [
               "name": "Tapu Lele GX",
               "number": "60",
               "set": "GRI"
-          },
+          }
         ],
         "trainer": [
           {
@@ -982,7 +982,7 @@ let masters = [
               "name": "Parallel City",
               "number": "145",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {
@@ -1001,20 +1001,20 @@ let masters = [
       }
     },
     {
-      firstName: 'Cohen Grimshaw',
-      flag: '../../../assets/flags/australia.png',
-      sprite1: '../../../assets/sprites/wishiwashi-school.png',
-      sprite2: '../../../assets/sprites/hoopa-unbound.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Cohen Grimshaw",
+      "flag": "AU",
+      "sprite1": "wishiwashi-school",
+      "sprite2": "hoopa-unbound",
+       
       deckid: "wall",
       event: "2018 Oceania Internationals - Seniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "name": "Wishiwashi GX",
                 "number": "38",
                 "set": "GRI",
-            "count": 3,
+            "count": 3
           },
           {
             "count": 4,
@@ -1033,7 +1033,7 @@ let masters = [
                 "name": "Giratina",
                 "number": "184",
                 "set": "PR-XY"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1058,7 +1058,7 @@ let masters = [
             "name": "Team Rocket's Handiwork",
                 "number": "112",
                 "set": "FCO",
-            "count": 4,
+            "count": 4
           },
           {
             "count": 3,
@@ -1149,7 +1149,7 @@ let masters = [
               "name": "Parallel City",
               "number": "145",
               "set": "BKT"
-          },
+          }
         ],
         "energy": [
           {

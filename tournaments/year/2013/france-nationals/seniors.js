@@ -1,13 +1,12 @@
-let masters = [
+"masters": [
     {
-        firstName: 'Alexandre Marcant',
-        flag: '../../../../assets/flags/france.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 France National Championships - Seniors',
-        decklist: {
+        "name": "Alexandre Marcant",
+        "flag": "FR",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 France National Championships - Seniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -18,14 +17,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Olivier Marcant',
-        flag: '../../../../assets/flags/france.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 France National Championships - Seniors',
-        decklist: {
+        "name": "Olivier Marcant",
+        "flag": "FR",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 France National Championships - Seniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -36,14 +34,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Clement L',
-        flag: '../../../../assets/flags/france.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 France National Championships - Seniors',
-        decklist: {
+        "name": "Clement L",
+        "flag": "FR",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 France National Championships - Seniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -54,14 +51,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Mattis Sole',
-        flag: '../../../../assets/flags/france.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2013 France National Championships - Seniors',
-        decklist: {
+        "name": "Mattis Sole",
+        "flag": "FR",
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+        
+        event: '2013 France National Championships - Seniors",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [

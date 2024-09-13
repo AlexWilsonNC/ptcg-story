@@ -1,4 +1,4 @@
-let masters = [{
+"masters": [{
     "name": "Pedro Pertusi",
     "flag": "BR",
     "placing": 1,

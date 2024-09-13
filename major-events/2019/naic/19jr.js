@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Benny Billinger',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/buzzwole.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Benny Billinger",
+      "flag": "CA",
+      "sprite1": "zapdos",
+      "sprite2": "buzzwole",
+       
       deckid: "zap-beasts",
       event: "2019 North America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -80,7 +80,7 @@ let masters = [
             "name": "Pheromosa & Buzzwole GX",
             "number": "1",
             "set": "UNB"
-        },
+        }
         ],
         "trainer": [
           {
@@ -160,7 +160,7 @@ let masters = [
               "name": "Thunder Mountain ♢",
               "number": "191",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -185,14 +185,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Evan Pavelski',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/spiritomb.png',
-      sprite2: '../../../assets/sprites/umbreon.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Evan Pavelski",
+      "flag": "US",
+      "sprite1": "spiritomb",
+      "sprite2": "umbreon",
+       
       deckid: "spiritomb",
       event: "2019 North America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -247,7 +247,7 @@ let masters = [
             "name": "Oranguru",
             "number": "113",
             "set": "SUM"
-          },
+          }
         ],
         "trainer": [
           {
@@ -327,7 +327,7 @@ let masters = [
               "name": "Black Market ♢",
               "number": "134",
               "set": "TEU"
-          },
+          }
         ],
         "energy": [
           {
@@ -346,14 +346,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Daniel Magda',
-      flag: '../../../assets/flags/czech-republic.png',
-      sprite1: '../../../assets/sprites/zapdos.png',
-      sprite2: '../../../assets/sprites/buzzwole.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Daniel Magda",
+      "flag": "CZ",
+      "sprite1": "zapdos",
+      "sprite2": "buzzwole",
+       
       deckid: "zap-beasts",
       event: "2019 North America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -408,7 +408,7 @@ let masters = [
             "name": "Pheromosa & Buzzwole GX",
             "number": "1",
             "set": "UNB"
-        },
+        }
         ],
         "trainer": [
           {
@@ -494,7 +494,7 @@ let masters = [
               "name": "Thunder Mountain ♢",
               "number": "191",
               "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -519,14 +519,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Pedro Augusto',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/malamar.png',
-      sprite2: '../../../assets/sprites/necrozma-ultra.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Pedro Augusto",
+      "flag": "BR",
+      "sprite1": "malamar",
+      "sprite2": "necrozma-ultra",
+       
       deckid: "malamar",
       event: "2019 North America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -569,7 +569,7 @@ let masters = [
               "name": "Mew",
               "number": "76",
               "set": "UNB"
-          },
+          }
         ],
         "trainer": [
           {
@@ -637,7 +637,7 @@ let masters = [
               "name": "Viridian Forest",
               "number": "156",
               "set": "TEU"
-          },
+          }
         ],
         "energy": [
           {
@@ -656,14 +656,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Jaysen Metersky',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
-      sprite2: '../../../assets/sprites/snorlax-eevee-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Jaysen Metersky",
+      "flag": "US",
+      "sprite1": "reshiram-charizard-tagteam",
+      "sprite2": "snorlax-eevee-tagteam",
+       
       deckid: "reshizard",
       event: "2019 North America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -718,7 +718,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
         ],
         "trainer": [
           {
@@ -804,7 +804,7 @@ let masters = [
             "name": "Heat Factory ♢",
             "number": "178",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -817,14 +817,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Rohan Scott',
-      flag: '../../../assets/flags/uk.png',
-      sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
-      sprite2: '../../../assets/sprites/snorlax-eevee-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Rohan Scott",
+      "flag": "UK",
+      "sprite1": "reshiram-charizard-tagteam",
+      "sprite2": "snorlax-eevee-tagteam",
+       
       deckid: "reshizard",
       event: "2019 North America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -879,7 +879,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
         ],
         "trainer": [
           {
@@ -959,7 +959,7 @@ let masters = [
               "name": "Heat Factory ♢",
               "number": "178",
               "set": "LOT"
-            },
+            }
         ],
         "energy": [
           {
@@ -972,14 +972,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Marley Skyum',
-      flag: '../../../assets/flags/denmark.png',
-      sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
-      sprite2: '../../../assets/sprites/snorlax-eevee-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Marley Skyum",
+      "flag": "DK",
+      "sprite1": "reshiram-charizard-tagteam",
+      "sprite2": "snorlax-eevee-tagteam",
+       
       deckid: "reshizard",
       event: "2019 North America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1034,7 +1034,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
         ],
         "trainer": [
           {
@@ -1120,7 +1120,7 @@ let masters = [
             "name": "Heat Factory ♢",
             "number": "178",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -1133,14 +1133,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Caleb Knicely',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/weezing.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Caleb Knicely",
+      "flag": "US",
+      "sprite1": "blank",
+      "sprite2": "weezing",
+       
       deckid: "weezing",
       event: "2019 North America Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1207,7 +1207,7 @@ let masters = [
               "name": "Mew",
               "number": "76",
               "set": "UNB"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1287,7 +1287,7 @@ let masters = [
             "name": "Shrine of Punishment",
             "number": "143",
             "set": "CES"
-        },
+        }
         ],
         "energy": [
           {

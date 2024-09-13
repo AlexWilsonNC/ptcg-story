@@ -1,12 +1,12 @@
-let masters = [
+"masters": [
     {
-        firstName: 'Søren Lau',
-        flag: '../../../../assets/flags/denmark.png',
-        sprite1: '../../../../assets/sprites/aromatisse.png',
-        sprite2: '../../../../assets/sprites/thundurus-therian.png',
-        list: '../../../../assets/list-icon.png',
-        event: '2014 Denmark National Championships',
-        decklist: {
+        "name": "Søren Lau",
+        "flag": "DK",
+        "sprite1": "aromatisse",
+        "sprite2": "thundurus-therian",
+        list: '../../../../assets/list-icon",
+        event: '2014 Denmark National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 2, "name": "Aromatisse", "set": "XY", "number": "93" },
                 { "count": 2, "name": "Spritzee", "set": "XY", "number": "92" },
@@ -41,14 +41,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Jakob Andersen',
-        flag: '../../../../assets/flags/denmark.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships',
-        decklist: {
+        "name": "Jakob Andersen",
+        "flag": "DK",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2014 Denmark National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -59,14 +58,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Lars Andersen',
-        flag: '../../../../assets/flags/denmark.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships',
-        decklist: {
+        "name": "Lars Andersen",
+        "flag": "DK",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2014 Denmark National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -77,14 +75,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Simon Øbro Thougaard',
-        flag: '../../../../assets/flags/denmark.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships',
-        decklist: {
+        "name": "Simon Øbro Thougaard",
+        "flag": "DK",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2014 Denmark National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -95,14 +92,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Stephan Norregard',
-        flag: '../../../../assets/flags/denmark.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships',
-        decklist: {
+        "name": "Stephan Norregard",
+        "flag": "DK",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2014 Denmark National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -113,14 +109,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Steffen From',
-        flag: '../../../../assets/flags/denmark.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships',
-        decklist: {
+        "name": "Steffen From",
+        "flag": "DK",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2014 Denmark National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -131,14 +126,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Jonas Eriksen',
-        flag: '../../../../assets/flags/denmark.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships',
-        decklist: {
+        "name": "Jonas Eriksen",
+        "flag": "DK",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2014 Denmark National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [
@@ -149,14 +143,13 @@ let masters = [
         },
     },
     {
-        firstName: 'Simon Eriksen',
-        flag: '../../../../assets/flags/denmark.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        event: '2014 Denmark National Championships',
-        decklist: {
+        "name": "Simon Eriksen",
+        "flag": "DK",
+        "sprite1": "blank",
+        sprite2: '../../../../assets/hyphen",
+        
+        event: '2014 Denmark National Championships",
+        "decklist": {
             "pokemon": [
                 { "count": 0, "name": "example", "set": "aa", "number": "00" },
             ], "trainer": [

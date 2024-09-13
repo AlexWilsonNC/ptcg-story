@@ -1,12 +1,12 @@
-let masters = [
+"masters": [
   {
-      firstName: 'Jennifer Wilson',
-      flag: '../../../../assets/flags/australia.png',
-      sprite1: '../../../../assets/sprites/yveltal.png',
-      sprite2: '../../../../assets/sprites/garbodor.png',
-      list: '../../../../assets/list-icon.png',
-      event: '2014 Australia National Championships',
-  decklist: {
+      "name": "Jennifer Wilson",
+      "flag": "AU",
+      "sprite1": "yveltal",
+      sprite2: '../../../../assets/sprites/garbodor",
+      list: '../../../../assets/list-icon",
+      event: '2014 Australia National Championships",
+  "decklist": {
     "pokemon": [
       { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
       { "count": 2, "name": "Garbodor", "set": "LTR", "number": "68" },
@@ -36,16 +36,16 @@ let masters = [
       { "count": 8, "name": "Darkness Energy", "set": "XY", "number": "138" },
       { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" },
     ]
-  },
+  }
   },
   {
-      firstName: 'Jordan Palmer',
-      flag: '../../../../assets/flags/australia.png',
-      sprite1: '../../../../assets/sprites/yveltal.png',
-      sprite2: '../../../../assets/sprites/raichu.png',
-      list: '../../../../assets/list-icon.png',
-      event: '2014 Australia National Championships',
-  decklist: {
+      "name": "Jordan Palmer",
+      "flag": "AU",
+      "sprite1": "yveltal",
+      sprite2: '../../../../assets/sprites/raichu",
+      list: '../../../../assets/list-icon",
+      event: '2014 Australia National Championships",
+  "decklist": {
     "pokemon": [
       { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
       { "count": 2, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
@@ -74,17 +74,16 @@ let masters = [
       { "count": 8, "name": "Darkness Energy", "set": "XY", "number": "138" },
       { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" },
     ]
-  },
+  }
   },
   {
-      firstName: 'Andrew Tandianus',
-      flag: '../../../../assets/flags/australia.png',
-      sprite1: '../../../../assets/sprites/aromatisse.png',
-      sprite2: '../../../../assets/sprites/thundurus-therian.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
-      event: '2014 Australia National Championships',
-  decklist: {
+      "name": "Andrew Tandianus",
+      "flag": "AU",
+      "sprite1": "aromatisse",
+      sprite2: '../../../../assets/sprites/thundurus-therian",
+      
+      event: '2014 Australia National Championships",
+  "decklist": {
     "pokemon": [
       {"count": 0, "name": "example", "set": "aa", "number": "00"},
     ], "trainer": [
@@ -94,18 +93,17 @@ let masters = [
     ]
   },
   deck: [
-    {cardImg:'../../../../assets/cards/2014-2016',numImg:'../../../../assets/04.png'},
+    {cardImg:'../../../../assets/cards/2014-2016",numImg:'../../../../assets/04.png'}
       ]
   },
   {
-      firstName: 'Michael Kan',
-      flag: '../../../../assets/flags/australia.png',
-      sprite1: '../../../../assets/sprites/keldeo-resolute.png',
-      sprite2: '../../../../assets/sprites/blastoise.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
-      event: '2014 Australia National Championships',
-  decklist: {
+      "name": "Michael Kan",
+      "flag": "AU",
+      "sprite1": "keldeo-resolute",
+      sprite2: '../../../../assets/sprites/blastoise",
+      
+      event: '2014 Australia National Championships",
+  "decklist": {
     "pokemon": [
       {"count": 0, "name": "example", "set": "aa", "number": "00"},
     ], "trainer": [
@@ -115,17 +113,17 @@ let masters = [
     ]
   },
   deck: [
-    {cardImg:'../../../../assets/cards/2014-2016',numImg:'../../../../assets/04.png'},
+    {cardImg:'../../../../assets/cards/2014-2016",numImg:'../../../../assets/04.png'}
       ]
   },
   {
-      firstName: 'Naomi Murn',
-      flag: '../../../../assets/flags/australia.png',
-      sprite1: '../../../../assets/sprites/yveltal.png',
-      sprite2: '../../../../assets/sprites/garbodor.png',
-      list: '../../../../assets/list-icon.png',
-      event: '2014 Australia National Championships',
-  decklist: {
+      "name": "Naomi Murn",
+      "flag": "AU",
+      "sprite1": "yveltal",
+      sprite2: '../../../../assets/sprites/garbodor",
+      list: '../../../../assets/list-icon",
+      event: '2014 Australia National Championships",
+  "decklist": {
     "pokemon": [
       { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
       { "count": 2, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
@@ -157,17 +155,16 @@ let masters = [
       { "count": 8, "name": "Darkness Energy", "set": "XY", "number": "138" },
       { "count": 3, "name": "Double Colorless Energy", "set": "XY", "number": "130" },
     ]
-  },
+  }
   },
   {
-      firstName: 'Jake Cruwys',
-      flag: '../../../../assets/flags/australia.png',
-      sprite1: '../../../../assets/sprites/kyurem.png',
-      sprite2: '../../../../assets/sprites/deoxys.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
-      event: '2014 Australia National Championships',
-  decklist: {
+      "name": "Jake Cruwys",
+      "flag": "AU",
+      "sprite1": "kyurem",
+      sprite2: '../../../../assets/sprites/deoxys",
+      
+      event: '2014 Australia National Championships",
+  "decklist": {
     "pokemon": [
       {"count": 0, "name": "example", "set": "aa", "number": "00"},
     ], "trainer": [
@@ -177,17 +174,17 @@ let masters = [
     ]
   },
   deck: [
-    {cardImg:'../../../../assets/cards/2014-2016',numImg:'../../../../assets/04.png'},
+    {cardImg:'../../../../assets/cards/2014-2016",numImg:'../../../../assets/04.png'}
       ]
   },
   {
-      firstName: 'Thomas Winkleman',
-      flag: '../../../../assets/flags/australia.png',
-      sprite1: '../../../../assets/sprites/yveltal.png',
-      sprite2: '../../../../assets/sprites/darkrai.png',
-      list: '../../../../assets/list-icon.png',
-      event: '2014 Australia National Championships',
-  decklist: {
+      "name": "Thomas Winkleman",
+      "flag": "AU",
+      "sprite1": "yveltal",
+      sprite2: '../../../../assets/sprites/darkrai",
+      list: '../../../../assets/list-icon",
+      event: '2014 Australia National Championships",
+  "decklist": {
     "pokemon": [
       { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
       { "count": 2, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
@@ -215,16 +212,16 @@ let masters = [
       { "count": 8, "name": "Darkness Energy", "set": "XY", "number": "138" },
       { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" },
     ]
-  },
+  }
   },
   {
-      firstName: 'Paul Coletta',
-      flag: '../../../../assets/flags/australia.png',
-      sprite1: '../../../../assets/sprites/accelgor.png',
-      sprite2: '../../../../assets/sprites/trevenant.png',
-      list: '../../../../assets/list-icon.png',
-      event: '2014 Australia National Championships',
-  decklist: {
+      "name": "Paul Coletta",
+      "flag": "AU",
+      "sprite1": "accelgor",
+      sprite2: '../../../../assets/sprites/trevenant",
+      list: '../../../../assets/list-icon",
+      event: '2014 Australia National Championships",
+  "decklist": {
     "pokemon": [
       { "count": 3, "name": "Accelgor", "set": "DEX", "number": "11" },
       { "count": 3, "name": "Shelmet", "set": "PLB", "number": "7" },
@@ -257,6 +254,6 @@ let masters = [
       { "count": 1, "name": "Psychic Energy", "set": "XY", "number": "136" },
       { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" },
     ]
-  },
+  }
   },
 ]

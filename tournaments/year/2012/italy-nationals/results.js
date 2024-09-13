@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
   {
-      "firstName": "Fabio Dall’Agata",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Fabio Dall’Agata",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/terrakion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/terrakion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -20,13 +19,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Simone Soldo",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Simone Soldo",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/terrakion.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "terrakion",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -40,13 +38,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Manuele Tartaglia",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Manuele Tartaglia",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/reuniclus.png',
-      sprite2: '../../../../assets/sprites/vileplume.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "reuniclus",
+      sprite2: '../../../../assets/sprites/vileplume",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -60,13 +57,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Federico Zarfi",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Federico Zarfi",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/celebi.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "celebi",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -80,13 +76,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Andrea Ceolin",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Andrea Ceolin",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/vanilluxe.png',
-      sprite2: '../../../../assets/sprites/vileplume.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "vanilluxe",
+      sprite2: '../../../../assets/sprites/vileplume",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -100,13 +95,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Lorenzo Manzi",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Lorenzo Manzi",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/empoleon.png',
-      sprite2: '../../../../assets/sprites/terrakion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "empoleon",
+      sprite2: '../../../../assets/sprites/terrakion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -120,13 +114,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Martina Canto",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Martina Canto",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/tornadus.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/tornadus",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -140,13 +133,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Marco Padovan",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Marco Padovan",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/zekrom.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "zekrom",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -160,19 +152,19 @@ let masters = [
       }
   },
   {
-    "firstName": "Alberto Ceolin",
-    flag: '../../../../assets/flags/italy.png',
+    "name": "Alberto Ceolin",
+    "flag": "IT",
     "event": "2012 Italy National Championships",
-    sprite1: '../../../../assets/sprites/darkrai.png',
-    sprite2: '../../../../assets/sprites/tornadus.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "darkrai.png",
+    "sprite2": "../../../../assets/sprites/tornadus",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
         "pokemon": [
-            { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            { "count": 3, "name": "ee", "number": "ee", "set": "ee" }
         ],
         "trainer": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            { "count": 4, "name": "ee", "number": "ee", "set": "ee" }
         ],
         "energy": [
             { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
@@ -180,13 +172,12 @@ let masters = [
     }
 },
   {
-      "firstName": "Alessandro Cremascoli",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Alessandro Cremascoli",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/terrakion.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "terrakion",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -200,13 +191,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Vincenzo Seva",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Vincenzo Seva",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/terrakion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/terrakion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -220,13 +210,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Lorenzo Pieri",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Lorenzo Pieri",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/terrakion.png',
-      sprite2: '../../../../assets/sprites/eelektrik.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "terrakion",
+      sprite2: '../../../../assets/sprites/eelektrik",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -240,13 +229,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Filippo Roberto Colamorea",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Filippo Roberto Colamorea",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/terrakion.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/terrakion",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -260,13 +248,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Alessio Parcianello",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Alessio Parcianello",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/sableye.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/sableye",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -280,13 +267,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Gia Nghia Truong",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Gia Nghia Truong",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/terrakion.png',
-      sprite2: '../../../../assets/sprites/mewtwo.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "terrakion",
+      sprite2: '../../../../assets/sprites/mewtwo",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
@@ -300,13 +286,12 @@ let masters = [
       }
   },
   {
-      "firstName": "Fabrizio Corrioni",
-      flag: '../../../../assets/flags/italy.png',
+      "name": "Fabrizio Corrioni",
+      "flag": "IT",
       "event": "2012 Italy National Championships",
-      sprite1: '../../../../assets/sprites/darkrai.png',
-      sprite2: '../../../../assets/sprites/tornadus.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      "sprite1": "darkrai",
+      sprite2: '../../../../assets/sprites/tornadus",
+      
       "decklist": {
           "pokemon": [
               { "count": 3, "name": "ee", "number": "ee", "set": "ee" },

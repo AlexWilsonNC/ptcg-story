@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Christian Hasbani",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Christian Hasbani",
+        "flag": "AU",
         "event": "2022 Melbourne Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/palkia-origin.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "palkia-origin",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -19,13 +18,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Kaiwen Cabbabe",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Kaiwen Cabbabe",
+        "flag": "AU",
         "event": "2022 Melbourne Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/palkia-origin.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "palkia-origin",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -38,13 +36,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Angus Johnson",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Angus Johnson",
+        "flag": "AU",
         "event": "2022 Melbourne Regionals",
-        sprite1: '../../../../assets/sprites/palkia-origin.png',
-        sprite2: '../../../../assets/sprites/inteleon.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "palkia-origin",
+        "sprite2": "inteleon",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -57,13 +54,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Callum Pinnegar",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Callum Pinnegar",
+        "flag": "AU",
         "event": "2022 Melbourne Regionals",
-        sprite1: '../../../../assets/sprites/palkia-origin.png',
-        sprite2: '../../../../assets/sprites/inteleon.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "palkia-origin",
+        "sprite2": "inteleon",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -76,13 +72,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Henry Brand",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Henry Brand",
+        "flag": "AU",
         "event": "2022 Melbourne Regionals",
-        sprite1: '../../../../assets/sprites/palkia-origin.png',
-        sprite2: '../../../../assets/sprites/inteleon.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "palkia-origin",
+        "sprite2": "inteleon",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -95,13 +90,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Louis Pozzacchio",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Louis Pozzacchio",
+        "flag": "AU",
         "event": "2022 Melbourne Regionals",
-        sprite1: '../../../../assets/sprites/palkia-origin.png',
-        sprite2: '../../../../assets/sprites/inteleon.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "palkia-origin",
+        "sprite2": "inteleon",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -114,13 +108,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Brent Tonisson",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Brent Tonisson",
+        "flag": "AU",
         "event": "2022 Melbourne Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/palkia-origin.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "palkia-origin",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -133,13 +126,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Max Prescott",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Max Prescott",
+        "flag": "AU",
         "event": "2022 Melbourne Regionals",
-        sprite1: '../../../../assets/sprites/palkia-origin.png',
-        sprite2: '../../../../assets/sprites/inteleon.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "palkia-origin",
+        "sprite2": "inteleon",
+"decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],

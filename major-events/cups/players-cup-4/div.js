@@ -89,7 +89,7 @@ function changeToExtras() {
     extrasList.style.display = 'block';
 }
 
-mastersBtn.addEventListener('click', changeToMasters)
-seniorsBtn.addEventListener('click', changeToSeniors)
-juniorsBtn.addEventListener('click', changeToJuniors)
-extrasBtn.addEventListener('click', changeToExtras)
+mastersBtn.addEventListener('click", changeToMasters)
+seniorsBtn.addEventListener('click", changeToSeniors)
+juniorsBtn.addEventListener('click", changeToJuniors)
+extrasBtn.addEventListener('click", changeToExtras)

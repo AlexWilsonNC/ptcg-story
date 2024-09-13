@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Rich Wolter",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Rich Wolter",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/darkrai.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "darkrai",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Darkrai-EX", "set": "LTR", "number": 88 },
             { "count": 2, "name": "Yveltal-EX", "set": "XY", "number": 79 },
             { "count": 2, "name": "Yveltal", "set": "XY", "number": 78 },
@@ -31,13 +30,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Beau Fleetwood",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Beau Fleetwood",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/garbodor.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Yveltal-EX", "set": "XY", "number": 79 },
             { "count": 2, "name": "Trubbish", "set": "PLS", "number": 65 },
             { "count": 2, "name": "Garbodor", "set": "LTR", "number": 68 },
@@ -63,13 +61,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Nathan Ginsberg",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Nathan Ginsberg",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/flygon.png',
-        sprite2: '../../../../assets/sprites/dusknoir.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "flygon",
+        "sprite2": "dusknoir",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Trapinch", "set": "BCR", "number": 83 },
             { "count": 1, "name": "Vibrava", "set": "BCR", "number": 98 },
             { "count": 4, "name": "Flygon", "set": "BCR", "number": 99 },
@@ -93,13 +90,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Velen Ricci",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Velen Ricci",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "lugia",
+        "sprite2": "deoxys",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Deoxys-EX", "set": "PLF", "number": 53 },
             { "count": 3, "name": "Lugia-EX", "set": "LTR", "number": 102 },
             { "count": 3, "name": "Thundurus-EX", "set": "PLF", "number": 38 },
@@ -119,13 +115,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Stephen Eshghy",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Stephen Eshghy",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/garbodor.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+"decklist": {
             "pokemon": [{ "count": 2, "name": "Trubbish", "set": "PLS", "number": 65 },
             { "count": 2, "name": "Garbodor", "set": "LTR", "number": 68 },
             { "count": 2, "name": "Yveltal-EX", "set": "XY", "number": 79 },
@@ -151,13 +146,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Landen Kaetler",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Landen Kaetler",
+        "flag": "CA",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Virizion-EX", "set": "PLB", "number": 9 },
             { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": 11 },
             { "count": 1, "name": "Mr. Mime", "set": "PLF", "number": 47 },
@@ -181,13 +175,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Aiden Toler",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Aiden Toler",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/landorus-therian.png',
-        sprite2: '../../../../assets/sprites/raichu.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "landorus-therian",
+        "sprite2": "raichu",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Landorus-EX", "set": "BCR", "number": 89 },
             { "count": 2, "name": "Pikachu", "set": "XY", "number": 42 },
             { "count": 2, "name": "Raichu", "set": "XY", "number": 43 },
@@ -212,13 +205,12 @@ let masters = [
         }
     },
     {
-        "firstName": "John Orgel",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "John Orgel",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Virizion-EX", "set": "PLB", "number": 9 },
             { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": 11 },
             { "count": 1, "name": "Drifloon", "set": "DRX", "number": 50 },
@@ -242,13 +234,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Harrison Frazier",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Harrison Frazier",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/kyurem.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Kyurem", "set": "PLF", "number": 31 },
             { "count": 4, "name": "Deoxys-EX", "set": "PLF", "number": 53 },
             { "count": 2, "name": "Thundurus-EX", "set": "PLF", "number": 38 },
@@ -275,13 +266,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Cyrus Davis",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Cyrus Davis",
+        "flag": "CA",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/garbodor.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Yveltal-EX", "set": "XY", "number": 79 },
             { "count": 2, "name": "Trubbish", "set": "LTR", "number": 67 },
             { "count": 2, "name": "Garbodor", "set": "LTR", "number": 68 },
@@ -303,13 +293,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Eddy Gutierrez",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Eddy Gutierrez",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/garbodor.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Yveltal-EX", "set": "XY", "number": 79 },
             { "count": 2, "name": "Trubbish", "set": "LTR", "number": 67 },
             { "count": 2, "name": "Garbodor", "set": "LTR", "number": 68 },
@@ -335,13 +324,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Casey Katsouris",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Casey Katsouris",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/raticate.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "raticate",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Yveltal-EX", "set": "XY", "number": 79 },
             { "count": 2, "name": "Rattata", "set": "PLF", "number": 87 },
             { "count": 2, "name": "Raticate", "set": "BCR", "number": 105 },
@@ -365,13 +353,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Evan Cole",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Evan Cole",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/weavile.png',
-        sprite2: '../../../../assets/sprites/lopunny.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "weavile",
+        "sprite2": "lopunny",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Sneasel", "set": "PLF", "number": 65 },
             { "count": 4, "name": "Weavile", "set": "PLF", "number": 66 },
             { "count": 4, "name": "Buneary", "set": "BCR", "number": 116 },
@@ -393,13 +380,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Nicholas Moffitt",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Nicholas Moffitt",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/keldeo-resolute.png',
-        sprite2: '../../../../assets/sprites/blastoise.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "keldeo-resolute",
+        "sprite2": "blastoise",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Squirtle", "set": "BCR", "number": 29 },
             { "count": 1, "name": "Wartortle", "set": "BCR", "number": 30 },
             { "count": 3, "name": "Blastoise", "set": "PLB", "number": 16 },
@@ -425,13 +411,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Kamil Bidzinski",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Kamil Bidzinski",
+        "flag": "CA",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/pyroar.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "pyroar",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Litleo", "set": "FLF", "number": 18 },
             { "count": 4, "name": "Pyroar", "set": "FLF", "number": 20 },
             { "count": 1, "name": "Charizard-EX", "set": "FLF", "number": 12 },
@@ -454,13 +439,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Ihana Mazezka",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Ihana Mazezka",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/kyurem.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Kyurem", "set": "PLF", "number": 31 },
             { "count": 4, "name": "Deoxys-EX", "set": "PLF", "number": 53 },
             { "count": 2, "name": "Thundurus-EX", "set": "PLF", "number": 38 },
@@ -487,13 +471,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Matt Terry",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Matt Terry",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/flygon.png',
-        sprite2: '../../../../assets/sprites/dusknoir.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "flygon",
+        "sprite2": "dusknoir",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Trapinch", "set": "BCR", "number": 83 },
             { "count": 1, "name": "Vibrava", "set": "BCR", "number": 98 },
             { "count": 4, "name": "Flygon", "set": "BCR", "number": 99 },
@@ -519,13 +502,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Andrew Ryals",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Andrew Ryals",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/pyroar.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "pyroar",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Litleo", "set": "FLF", "number": 18 },
             { "count": 4, "name": "Pyroar", "set": "FLF", "number": 20 },
             { "count": 1, "name": "Charizard-EX", "set": "FLF", "number": 12 },
@@ -546,13 +528,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jack Moore",
-        flag: '../../../../assets/flags/canada.png',
+        "name": "Jack Moore",
+        "flag": "CA",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/darkrai.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "darkrai",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Darkrai-EX", "set": "LTR", "number": 88 },
             { "count": 2, "name": "Yveltal-EX", "set": "XY", "number": 79 },
             { "count": 2, "name": "Yveltal", "set": "XY", "number": 78 },
@@ -577,13 +558,12 @@ let masters = [
         }
     },
     {
-        "firstName": "AviLashan UmaShankar",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "AviLashan UmaShankar",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/darkrai.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "darkrai",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Darkrai-EX", "set": "LTR", "number": 88 },
             { "count": 2, "name": "Yveltal-EX", "set": "XY", "number": 79 },
             { "count": 2, "name": "Yveltal", "set": "XY", "number": 78 },
@@ -608,13 +588,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Rain Keuma",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Rain Keuma",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/empoleon.png',
-        sprite2: '../../../../assets/sprites/dusknoir.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "empoleon",
+        "sprite2": "dusknoir",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Piplup", "set": "DEX", "number": 27 },
             { "count": 1, "name": "Piplup", "set": "LTR", "number": "RC6" },
             { "count": 1, "name": "Prinplup", "set": "DEX", "number": 28 },
@@ -643,13 +622,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Spencer Hay",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Spencer Hay",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/garbodor.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Yveltal-EX", "set": "XY", "number": 79 },
             { "count": 2, "name": "Trubbish", "set": "LTR", "number": 67 },
             { "count": 2, "name": "Garbodor", "set": "LTR", "number": 68 },
@@ -676,13 +654,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Camden Freeze",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Camden Freeze",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/aromatisse.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "aromatisse",
+        "sprite2": "deoxys",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Deoxys-EX", "set": "PLF", "number": 53 },
             { "count": 2, "name": "Spritzee", "set": "XY", "number": 92 },
             { "count": 2, "name": "Aromatisse", "set": "XY", "number": 93 },
@@ -712,13 +689,12 @@ let masters = [
         }
     },
     {
-        "firstName": "James Santaniello",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "James Santaniello",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/lugia.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "lugia",
+        "sprite2": "deoxys",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Deoxys-EX", "set": "PLF", "number": 53 },
             { "count": 2, "name": "Thundurus-EX", "set": "PLF", "number": 38 },
             { "count": 2, "name": "Lugia-EX", "set": "LTR", "number": 102 },
@@ -743,13 +719,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Edward Valencia",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Edward Valencia",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/garbodor.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Yveltal-EX", "set": "XY", "number": 79 },
             { "count": 2, "name": "Trubbish", "set": "LTR", "number": 67 },
             { "count": 2, "name": "Garbodor", "set": "LTR", "number": 68 },
@@ -773,13 +748,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jake Sisco",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Jake Sisco",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/kyurem.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Deoxys-EX", "set": "PLF", "number": 53 },
             { "count": 3, "name": "Kyurem", "set": "PLF", "number": 31 },
             { "count": 2, "name": "Thundurus-EX", "set": "PLF", "number": 38 },
@@ -806,13 +780,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Kenny Ngo",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Kenny Ngo",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/kyurem.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "kyurem",
+        "sprite2": "deoxys",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Deoxys-EX", "set": "PLF", "number": 53 },
                 { "count": 3, "name": "Kyurem", "set": "PLF", "number": 31 },
@@ -844,13 +817,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Ryan Miller",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Ryan Miller",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/garbodor.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "garbodor",
+"decklist": {
             "pokemon": [{ "count": 3, "name": "Yveltal-EX", "set": "XY", "number": 79 },
             { "count": 2, "name": "Trubbish", "set": "LTR", "number": 67 },
             { "count": 2, "name": "Garbodor", "set": "LTR", "number": 68 },
@@ -875,13 +847,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jonathan Arias",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Jonathan Arias",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/weavile.png',
-        sprite2: '../../../../assets/sprites/lopunny.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "weavile",
+        "sprite2": "lopunny",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Sneasel", "set": "PLF", "number": 65 },
             { "count": 4, "name": "Weavile", "set": "PLF", "number": 66 },
             { "count": 4, "name": "Exeggcute", "set": "PLF", "number": 4 },
@@ -907,13 +878,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Nico Gist",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Nico Gist",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Virizion-EX", "set": "PLB", "number": 9 },
             { "count": 4, "name": "Genesect-EX", "set": "PLB", "number": 11 },
             { "count": 1, "name": "Mr. Mime", "set": "PLF", "number": 47 }], "trainer": [{ "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
@@ -937,13 +907,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Noah Hablerland",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Noah Hablerland",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/virizion.png',
-        sprite2: '../../../../assets/sprites/genesect.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "virizion",
+        "sprite2": "genesect",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Virizion-EX", "set": "PLB", "number": 9 },
             { "count": 4, "name": "Genesect-EX", "set": "PLB", "number": 11 },
             { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": 60 },
@@ -967,13 +936,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Gus Izquierdo",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Gus Izquierdo",
+        "flag": "US",
         "event": "2024 NAIC Retro Celebration (2014)",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/ninetales.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "ninetales",
+"decklist": {
             "pokemon": [{ "count": 4, "name": "Vulpix", "set": "DRX", "number": 18 },
             { "count": 4, "name": "Ninetales", "set": "DRX", "number": 19 },
             { "count": 2, "name": "Munna", "set": "BCR", "number": 68 },

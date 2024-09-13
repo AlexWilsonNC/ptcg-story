@@ -1,4998 +1,2218 @@
-const masterList = document.querySelector('.masters-ol');
-const seniorList = document.querySelector('.seniors-ol');
-const juniorList = document.querySelector('.juniors-ol');
+ 
 
-const modalBottom = document.querySelector('.modal-bottom');
+"masters": [
+  {
+    "name": "Tsuguyoshi Yamato",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "groudon",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Team Magma's Groudon", "set": "MA", "number": "9" },
+        { "count": 4, "name": "Team Magma's Zangoose", "set": "MA", "number": "23" },
+        { "count": 2, "name": "Team Magma's Claydol", "set": "MA", "number": "8" },
+        { "count": 2, "name": "Team Magma's Baltoy", "set": "MA", "number": "60" },
+        { "count": 2, "name": "Team Magma's Camerupt", "set": "MA", "number": "19" },
+        { "count": 1, "name": "Team Magma's Numel", "set": "MA", "number": "64" }
+      ], "trainer": [
+        { "count": 4, "name": "Team Magma Conspirator", "set": "MA", "number": "82" },
+        { "count": 3, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 3, "name": "Underground Expedition", "set": "SK", "number": "140" },
+        { "count": 3, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 2, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 2, "name": "Maxie", "set": "MA", "number": "73" },
+        { "count": 2, "name": "Mr. Briney's Compassion", "set": "DR", "number": "87" },
+        { "count": 3, "name": "Pokémon Reversal", "set": "FL", "number": "97" },
+        { "count": 2, "name": "Team Magma Ball", "set": "MA", "number": "80" },
+        { "count": 1, "name": "Switch", "set": "EX", "number": "157" },
+        { "count": 3, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 6, "name": "Fighting Energy", "set": "EX", "number": "160" },
+        { "count": 1, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 4, "name": "Darkness Energy", "set": "AQ", "number": "142" },
+        { "count": 4, "name": "Magma Energy", "set": "MA", "number": "87" },
+        { "count": 2, "name": "Rainbow Energy", "set": "AQ", "number": "144" }
+      ]
+    }
+  },
+  {
+    "name": "Chris Fulop",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "blaziken",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Blaziken", "set": "RS", "number": "3" },
+        { "count": 2, "name": "Blaziken ex", "set": "MA", "number": "89" },
+        { "count": 2, "name": "Combusken", "set": "RS", "number": "28" },
+        { "count": 4, "name": "Torchic", "set": "RS", "number": "74" },
+        { "count": 2, "name": "Delcatty", "set": "RS", "number": "5" },
+        { "count": 2, "name": "Skitty", "set": "RS", "number": "44" },
+        { "count": 1, "name": "Team Aqua's Manectric", "set": "MA", "number": "4" },
+        { "count": 1, "name": "Team Aqua's Electrike", "set": "MA", "number": "53" },
+        { "count": 1, "name": "Bellossom", "set": "HL", "number": "16" },
+        { "count": 1, "name": "Oddish", "set": "HL", "number": "68" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" },
+        { "count": 1, "name": "Rayquaza ex", "set": "DR", "number": "97" }
+      ], "trainer": [
+        { "count": 4, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 4, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 3, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 1, "name": "Pokémon Nurse", "set": "EX", "number": "145" },
+        { "count": 1, "name": "Professor Elm's Training Method", "set": "EX", "number": "148" },
+        { "count": 1, "name": "Town Volunteers", "set": "AQ", "number": "136" },
+        { "count": 4, "name": "Rare Candy", "set": "SS", "number": "88" },
+        { "count": 1, "name": "Friend Ball", "set": "SK", "number": "126" },
+        { "count": 1, "name": "Switch", "set": "EX", "number": "157" }
+      ], "energy": [
+        { "count": 10, "name": "Fire Energy", "set": "EX", "number": "161" },
+        { "count": 2, "name": "Lightning Energy", "set": "EX", "number": "163" },
+        { "count": 3, "name": "Multi Energy", "set": "SS", "number": "93" },
+        { "count": 1, "name": "Warp Energy", "set": "AQ", "number": "147" }
+      ]
+    }
+  },
+  {
+    "name": "Go Miyamoto",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "groudon",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Team Magma's Groudon", "set": "MA", "number": "9" },
+        { "count": 4, "name": "Team Magma's Zangoose", "set": "MA", "number": "23" },
+        { "count": 3, "name": "Team Magma's Claydol", "set": "MA", "number": "8" },
+        { "count": 2, "name": "Team Magma's Baltoy", "set": "MA", "number": "60" },
+        { "count": 2, "name": "Team Magma's Camerupt", "set": "MA", "number": "19" },
+        { "count": 2, "name": "Team Magma's Numel", "set": "MA", "number": "64" }
+      ], "trainer": [
+        { "count": 4, "name": "Team Magma Conspirator", "set": "MA", "number": "82" },
+        { "count": 4, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 3, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 2, "name": "Underground Expedition", "set": "SK", "number": "140" },
+        { "count": 2, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 2, "name": "Maxie", "set": "MA", "number": "73" },
+        { "count": 1, "name": "Team Magma Schemer", "set": "MA", "number": "70" },
+        { "count": 1, "name": "Mr. Briney's Compassion", "set": "DR", "number": "87" },
+        { "count": 2, "name": "Team Magma Ball", "set": "MA", "number": "80" },
+        { "count": 1, "name": "Pokémon Reversal", "set": "FL", "number": "97" },
+        { "count": 1, "name": "Strength Charm", "set": "EX", "number": "150" },
+        { "count": 3, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 6, "name": "Fighting Energy", "set": "EX", "number": "160" },
+        { "count": 1, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 4, "name": "Darkness Energy", "set": "AQ", "number": "142" },
+        { "count": 4, "name": "Magma Energy", "set": "MA", "number": "87" },
+        { "count": 2, "name": "Rainbow Energy", "set": "AQ", "number": "144" }
+      ]
+    }
+  },
+  {
+    "name": "Yuki Fujimori",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "groudon",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Yuichi Murakami",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "groudon",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Drew Holton",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "blaziken",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Blaziken", "set": "RS", "number": "3" },
+        { "count": 2, "name": "Blaziken ex", "set": "MA", "number": "89" },
+        { "count": 1, "name": "Combusken", "set": "RS", "number": "27" },
+        { "count": 1, "name": "Combusken", "set": "RS", "number": "28" },
+        { "count": 4, "name": "Torchic", "set": "DR", "number": "77" },
+        { "count": 3, "name": "Delcatty", "set": "RS", "number": "5" },
+        { "count": 3, "name": "Skitty", "set": "RS", "number": "44" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" },
+        { "count": 1, "name": "Bellossom", "set": "HL", "number": "16" },
+        { "count": 1, "name": "Oddish", "set": "HL", "number": "68" },
+        { "count": 1, "name": "Magneton", "set": "DR", "number": "17" },
+        { "count": 1, "name": "Magnemite", "set": "DR", "number": "63" },
+        { "count": 1, "name": "Rayquaza ex", "set": "DR", "number": "97" }
+      ], "trainer": [
+        { "count": 4, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 3, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 2, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 2, "name": "Professor Elm's Training Method", "set": "EX", "number": "148" },
+        { "count": 1, "name": "Desert Shaman", "set": "SK", "number": "123" },
+        { "count": 4, "name": "Rare Candy", "set": "SS", "number": "88" },
+        { "count": 1, "name": "Switch", "set": "EX", "number": "157" },
+        { "count": 1, "name": "Friend Ball", "set": "SK", "number": "126" }
+      ], "energy": [
+        { "count": 12, "name": "Fire Energy", "set": "EX", "number": "161" },
+        { "count": 1, "name": "Lightning Energy", "set": "EX", "number": "163" },
+        { "count": 2, "name": "Multi Energy", "set": "SS", "number": "93" },
+        { "count": 1, "name": "Warp Energy", "set": "AQ", "number": "147" }
+      ]
+    }
+  },
+  {
+    "name": "Kenneth Wong",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "shiftry",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Shiftry", "set": "HL", "number": "14" },
+        { "count": 4, "name": "Nuzleaf", "set": "HL", "number": "45" },
+        { "count": 4, "name": "Seedot", "set": "HL", "number": "71" },
+        { "count": 2, "name": "Furret", "set": "AQ", "number": "48" },
+        { "count": 4, "name": "Sentret", "set": "AQ", "number": "107" },
+        { "count": 2, "name": "Delcatty", "set": "RS", "number": "5" },
+        { "count": 2, "name": "Skitty", "set": "RS", "number": "44" },
+        { "count": 3, "name": "Dunsparce", "set": "SS", "number": "60" },
+        { "count": 1, "name": "Jirachi", "set": "HL", "number": "8" }
+      ], "trainer": [
+        { "count": 4, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 4, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 4, "name": "Desert Shaman", "set": "SK", "number": "123" },
+        { "count": 2, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 1, "name": "Town Volunteers", "set": "AQ", "number": "136" },
+        { "count": 2, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 1, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 6, "name": "Grass Energy", "set": "EX", "number": "162" },
+        { "count": 4, "name": "Darkness Energy", "set": "AQ", "number": "142" },
+        { "count": 4, "name": "Double Rainbow Energy", "set": "MA", "number": "88" },
+        { "count": 4, "name": "Boost Energy", "set": "AQ", "number": "145" }
+      ]
+    }
+  },
+  {
+    "name": "Colin Moll",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "wailord",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Wailord ex", "set": "SS", "number": "100" },
+        { "count": 4, "name": "Wailmer", "set": "SS", "number": "83" },
+        { "count": 2, "name": "Bellossom", "set": "HL", "number": "16" },
+        { "count": 1, "name": "Vileplume", "set": "EX", "number": "69" },
+        { "count": 2, "name": "Gloom", "set": "AQ", "number": "49" },
+        { "count": 1, "name": "Gloom", "set": "HL", "number": "35" },
+        { "count": 3, "name": "Oddish", "set": "HL", "number": "68" }
+      ], "trainer": [
+        { "count": 3, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 3, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 3, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 2, "name": "Professor Oak's Research", "set": "EX", "number": "149" },
+        { "count": 2, "name": "Professor Elm's Training Method", "set": "EX", "number": "148" },
+        { "count": 1, "name": "Desert Shaman", "set": "SK", "number": "123" },
+        { "count": 4, "name": "Root Fossil", "set": "SS", "number": "92" },
+        { "count": 4, "name": "Claw Fossil", "set": "SS", "number": "90" },
+        { "count": 2, "name": "Mysterious Fossil", "set": "SS", "number": "91" },
+        { "count": 2, "name": "Switch", "set": "EX", "number": "157" },
+        { "count": 1, "name": "Ancient Technical Machine [Rock]", "set": "HL", "number": "85" },
+        { "count": 2, "name": "Mystery Zone", "set": "SK", "number": "137" },
+        { "count": 1, "name": "Island Cave", "set": "HL", "number": "89" }
+      ], "energy": [
+        { "count": 12, "name": "Water Energy", "set": "EX", "number": "165" },
+        { "count": 2, "name": "Multi Energy", "set": "SS", "number": "93" }
+      ]
+    }
+  },
+  {
+    "name": "J.R. Palumbo",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "blaziken",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Evens Cheung",
+    "flag": "NO",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Koji Kanno",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "groudon",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Kyle Sucevich",
+    "flag": "US",
+    "sprite1": "walrein",
+    "sprite2": "milotic",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Walrein", "set": "HL", "number": "15" },
+        { "count": 3, "name": "Sealeo", "set": "HL", "number": "47" },
+        { "count": 4, "name": "Spheal", "set": "HL", "number": "74" },
+        { "count": 2, "name": "Milotic", "set": "HL", "number": "12" },
+        { "count": 2, "name": "Feebas", "set": "HL", "number": "61" },
+        { "count": 3, "name": "Dunsparce", "set": "SS", "number": "60" }
+      ], "trainer": [
+        { "count": 4, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 3, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 3, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 3, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 1, "name": "Mr. Briney's Compassion", "set": "DR", "number": "87" },
+        { "count": 1, "name": "Town Volunteers", "set": "AQ", "number": "136" },
+        { "count": 3, "name": "Rare Candy", "set": "SS", "number": "88" },
+        { "count": 1, "name": "Fast Ball", "set": "SK", "number": "124" },
+        { "count": 1, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 2, "name": "Crystal Shard", "set": "SK", "number": "122" },
+        { "count": 1, "name": "Ancient Technical Machine [Rock]", "set": "HL", "number": "85" },
+        { "count": 3, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 14, "name": "Water Energy", "set": "EX", "number": "165" },
+        { "count": 2, "name": "Double Rainbow Energy", "set": "MA", "number": "88" }
+      ]
+    }
+  },
+  {
+    "name": "Kevin Jackson",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+    "decklist": {
+      "pokemon": [
+        { "count": 2, "name": "Gardevoir ex", "set": "SS", "number": "96" },
+        { "count": 2, "name": "Gardevoir", "set": "RS", "number": "7" },
+        { "count": 3, "name": "Kirlia", "set": "RS", "number": "34" },
+        { "count": 4, "name": "Ralts", "set": "RS", "number": "66" },
+        { "count": 2, "name": "Delcatty", "set": "RS", "number": "5" },
+        { "count": 2, "name": "Skitty", "set": "RS", "number": "44" },
+        { "count": 2, "name": "Magneton", "set": "DR", "number": "17" },
+        { "count": 2, "name": "Magnemite", "set": "DR", "number": "63" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" },
+        { "count": 1, "name": "Wobbuffet", "set": "SS", "number": "26" }
+      ], "trainer": [
+        { "count": 4, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 4, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 2, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 1, "name": "Professor Elm's Training Method", "set": "EX", "number": "148" },
+        { "count": 2, "name": "Rare Candy", "set": "SS", "number": "88" },
+        { "count": 1, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 1, "name": "Switch", "set": "EX", "number": "157" },
+        { "count": 1, "name": "Pokémon Reversal", "set": "FL", "number": "97" },
+        { "count": 1, "name": "Crystal Shard", "set": "DX", "number": "85" },
+        { "count": 1, "name": "Magnetic Storm", "set": "HL", "number": "91" },
+        { "count": 1, "name": "Ancient Tomb", "set": "HL", "number": "87" }
+      ], "energy": [
+        { "count": 12, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 2, "name": "Lightning Energy", "set": "EX", "number": "163" },
+        { "count": 3, "name": "Boost Energy", "set": "AQ", "number": "145" }
+      ]
+    }
+  },
+  {
+    "name": "Eric Craig",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "shiftry",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Nick Caporelli",
+    "flag": "US",
+    "sprite1": "crobat",
+    "sprite2": "gorebyss",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Charles Collinsworth",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Levi Canfield",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "blaziken",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Andrew Newman",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "groudon",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Jacob Burt",
+    "flag": "US",
+    "sprite1": "kyogre",
+    "sprite2": "manectric",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Team Aqua's Kyogre", "set": "MA", "number": "3" },
+        { "count": 4, "name": "Team Aqua's Manectric", "set": "MA", "number": "4" },
+        { "count": 4, "name": "Team Aqua's Electrike", "set": "MA", "number": "53" },
+        { "count": 3, "name": "Team Aqua's Seviper", "set": "MA", "number": "17" },
+        { "count": 1, "name": "Ditto", "set": "SK", "number": "51" }
+      ], "trainer": [
+        { "count": 4, "name": "Team Aqua Conspirator", "set": "MA", "number": "77" },
+        { "count": 4, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 4, "name": "Mr. Briney's Compassion", "set": "DR", "number": "87" },
+        { "count": 4, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 1, "name": "Town Volunteers", "set": "AQ", "number": "136" },
+        { "count": 4, "name": "Fast Ball", "set": "SK", "number": "124" },
+        { "count": 2, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 2, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 8, "name": "Water Energy", "set": "EX", "number": "165" },
+        { "count": 6, "name": "Lightning Energy", "set": "EX", "number": "163" },
+        { "count": 1, "name": "Grass Energy", "set": "EX", "number": "162" },
+        { "count": 4, "name": "Darkness Energy", "set": "AQ", "number": "142" }
+      ]
+    }
+  },
+  {
+    "name": "Alexis Diaz",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "blaziken",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Che Keen Yau",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "groudon",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Matt Gillespie",
+    "flag": "US",
+    "sprite1": "jumpluff",
+    "sprite2": "gorebyss",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Jumpluff", "set": "AQ", "number": "17" },
+        { "count": 3, "name": "Skiploom", "set": "AQ", "number": "60" },
+        { "count": 4, "name": "Hoppip", "set": "AQ", "number": "83" },
+        { "count": 3, "name": "Gorebyss", "set": "HL", "number": "18" },
+        { "count": 3, "name": "Clamperl", "set": "HL", "number": "58" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" }
+      ], "trainer": [
+        { "count": 4, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 3, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 3, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 1, "name": "Professor Oak's Research", "set": "EX", "number": "149" },
+        { "count": 1, "name": "Pokémon Nurse", "set": "EX", "number": "145" },
+        { "count": 3, "name": "Rare Candy", "set": "SS", "number": "88" },
+        { "count": 2, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 2, "name": "Ancient Technical Machine [Rock]", "set": "HL", "number": "85" },
+        { "count": 1, "name": "Crystal Shard", "set": "SK", "number": "122" },
+        { "count": 3, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 5, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 4, "name": "Rainbow Energy", "set": "AQ", "number": "144" },
+        { "count": 4, "name": "Multi Energy", "set": "SS", "number": "93" },
+        { "count": 3, "name": "Double Rainbow Energy", "set": "MA", "number": "88" }
+      ]
+    }
+  },
+  {
+    "name": "Evan Bennett",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "shiftry",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Koujiro Tsuruta",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "blaziken",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Oliver Dürr",
+    "flag": "DE",
+    "sprite1": "sceptile",
+    "sprite2": "muk",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Kevin De Mooij",
+    "flag": "NL",
+    "sprite1": "crobat",
+    "sprite2": "gorebyss",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Crobat", "set": "HL", "number": "3" },
+        { "count": 3, "name": "Golbat", "set": "HL", "number": "36" },
+        { "count": 4, "name": "Zubat", "set": "HL", "number": "83" },
+        { "count": 3, "name": "Gorebyss", "set": "HL", "number": "18" },
+        { "count": 4, "name": "Clamperl", "set": "HL", "number": "58" },
+        { "count": 2, "name": "Dunsparce", "set": "SS", "number": "60" },
+        { "count": 1, "name": "Igglybuff", "set": "HL", "number": "37" },
+        { "count": 1, "name": "Jirachi", "set": "HL", "number": "8" },
+        { "count": 1, "name": "Ditto", "set": "SK", "number": "51" }
+      ], "trainer": [
+        { "count": 2, "name": "Professor Oak's Research", "set": "EX", "number": "149" },
+        { "count": 2, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 2, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 2, "name": "Wally's Training", "set": "SS", "number": "89" },
+        { "count": 1, "name": "Desert Shaman", "set": "SK", "number": "123" },
+        { "count": 1, "name": "Underground Expedition", "set": "SK", "number": "140" },
+        { "count": 1, "name": "Lanette's Net Search", "set": "SS", "number": "87" },
+        { "count": 2, "name": "Rare Candy", "set": "SS", "number": "88" },
+        { "count": 2, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 1, "name": "Life Herb", "set": "FL", "number": "93" },
+        { "count": 1, "name": "Pokémon Reversal", "set": "FL", "number": "97" },
+        { "count": 1, "name": "Lure Ball", "set": "SK", "number": "128" },
+        { "count": 1, "name": "Fast Ball", "set": "SK", "number": "124" },
+        { "count": 2, "name": "Ancient Technical Machine [Rock]", "set": "HL", "number": "85" },
+        { "count": 1, "name": "Desert Ruins", "set": "HL", "number": "88" },
+        { "count": 1, "name": "Ancient Tomb", "set": "HL", "number": "87" }
+      ], "energy": [
+        { "count": 7, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 2, "name": "Grass Energy", "set": "EX", "number": "162" },
+        { "count": 3, "name": "Double Rainbow Energy", "set": "MA", "number": "88" },
+        { "count": 2, "name": "Multi Energy", "set": "SS", "number": "93" },
+        { "count": 1, "name": "Rainbow Energy", "set": "AQ", "number": "144" }
+      ]
+    }
+  },
+  {
+    "name": "Adam Capriola",
+    "flag": "US",
+    "sprite1": "medicham",
+    "sprite2": "lanturn",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Medicham", "set": "HL", "number": "10" },
+        { "count": 4, "name": "Meditite", "set": "DR", "number": "37" },
+        { "count": 4, "name": "Lanturn", "set": "HL", "number": "38" },
+        { "count": 3, "name": "Chinchou", "set": "HL", "number": "56" },
+        { "count": 1, "name": "Chinchou", "set": "HL", "number": "57" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" }
+      ], "trainer": [
+        { "count": 4, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 3, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 3, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 3, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 4, "name": "Pokémon Reversal", "set": "FL", "number": "97" },
+        { "count": 3, "name": "Strength Charm", "set": "EX", "number": "150" },
+        { "count": 3, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 7, "name": "Lightning Energy", "set": "EX", "number": "163" },
+        { "count": 6, "name": "Fighting Energy", "set": "EX", "number": "160" },
+        { "count": 4, "name": "Double Rainbow Energy", "set": "MA", "number": "88" }
+      ]
+    }
+  },
+  {
+    "name": "Eric Richard",
+    "flag": "US",
+    "sprite1": "gorebyss",
+    "sprite2": "banette",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Gorebyss", "set": "HL", "number": "18" },
+        { "count": 4, "name": "Clamperl", "set": "HL", "number": "58" },
+        { "count": 3, "name": "Banette", "set": "HL", "number": "1" },
+        { "count": 3, "name": "Shuppet", "set": "DR", "number": "43" },
+        { "count": 3, "name": "Medicham", "set": "HL", "number": "10" },
+        { "count": 3, "name": "Meditite", "set": "HL", "number": "66" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" }
+      ], "trainer": [
+        { "count": 4, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 3, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 3, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 2, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 2, "name": "Mr. Briney's Compassion", "set": "DR", "number": "87" },
+        { "count": 1, "name": "Professor Elm's Training Method", "set": "EX", "number": "148" },
+        { "count": 1, "name": "Professor Oak's Research", "set": "EX", "number": "149" },
+        { "count": 1, "name": "Ancient Technical Machine [Rock]", "set": "HL", "number": "85" },
+        { "count": 3, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 6, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 2, "name": "Fighting Energy", "set": "EX", "number": "160" },
+        { "count": 4, "name": "Multi Energy", "set": "SS", "number": "93" },
+        { "count": 4, "name": "Double Rainbow Energy", "set": "MA", "number": "88" }
+      ]
+    }
+  },
+  {
+    "name": "Shigeru Kanda",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "groudon",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Te Awhi Woon",
+    "flag": "NZ",
+    "sprite1": "gardevoir",
+    "sprite2": "claydol",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Jimmy Ballard",
+    "flag": "US",
+    "sprite1": "mewtwo",
+    "sprite2": "gorebyss",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Mewtwo ex", "set": "RS", "number": "101" },
+        { "count": 3, "name": "Gorebyss", "set": "HL", "number": "18" },
+        { "count": 3, "name": "Clamperl", "set": "HL", "number": "58" },
+        { "count": 2, "name": "Magneton", "set": "DR", "number": "17" },
+        { "count": 2, "name": "Magnemite", "set": "DR", "number": "63" },
+        { "count": 2, "name": "Delcatty", "set": "RS", "number": "5" },
+        { "count": 2, "name": "Skitty", "set": "RS", "number": "44" }
+      ], "trainer": [
+        { "count": 4, "name": "Juggler", "set": "AQ", "number": "126" },
+        { "count": 4, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 3, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 2, "name": "Professor Elm's Training Method", "set": "EX", "number": "148" },
+        { "count": 1, "name": "Town Volunteers", "set": "AQ", "number": "136" },
+        { "count": 4, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 3, "name": "Dual Ball", "set": "MA", "number": "72" },
+        { "count": 2, "name": "Crystal Shard", "set": "SK", "number": "122" },
+        { "count": 1, "name": "Strength Charm", "set": "EX", "number": "150" },
+        { "count": 2, "name": "Mystery Zone", "set": "SK", "number": "137" }
+      ], "energy": [
+        { "count": 9, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 4, "name": "Double Rainbow Energy", "set": "MA", "number": "88" },
+        { "count": 3, "name": "Multi Energy", "set": "SS", "number": "93" }
+      ]
+    }
+  },
+  {
+    "name": "Tom Dolezal",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "blaziken",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "--",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "--",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "--",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
+    deck: [
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
+    ]
+  },
+  {
+    "name": "Pablo Meza",
+    "flag": "MX",
+    "sprite1": "medicham",
+    "sprite2": "lanturn",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Medicham", "set": "HL", "number": "10" },
+        { "count": 3, "name": "Meditite", "set": "HL", "number": "66" },
+        { "count": 3, "name": "Lanturn", "set": "HL", "number": "38" },
+        { "count": 3, "name": "Chinchou", "set": "HL", "number": "56" },
+        { "count": 2, "name": "Banette", "set": "HL", "number": "1" },
+        { "count": 2, "name": "Shuppet", "set": "DR", "number": "43" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" }
+      ], "trainer": [
+        { "count": 4, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 3, "name": "TV Reporter", "set": "DR", "number": "88" },
+        { "count": 3, "name": "Professor Elm's Training Method", "set": "UF", "number": "89" },
+        { "count": 3, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 3, "name": "Pokémon Reversal", "set": "FL", "number": "97" },
+        { "count": 3, "name": "Strength Charm", "set": "EX", "number": "150" },
+        { "count": 1, "name": "Ancient Technical Machine [Rock]", "set": "HL", "number": "85" },
+        { "count": 2, "name": "Desert Ruins", "set": "HL", "number": "88" },
+        { "count": 1, "name": "Magnetic Storm", "set": "HL", "number": "91" }
+      ], "energy": [
+        { "count": 7, "name": "Lightning Energy", "set": "EX", "number": "163" },
+        { "count": 3, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 3, "name": "Fighting Energy", "set": "EX", "number": "160" },
+        { "count": 4, "name": "Double Rainbow Energy", "set": "MA", "number": "88" }
+      ]
+    },
+  }
+]
 
-let masters = [
+"seniors": [
   {
-    firstName: 'Tsuguyoshi Yamato',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/groudon.png',
-    list: '../../assets/list-icon.png',
-    type: 'dark',
+    "name": "Takuya Yoneda",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "groudon",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Team Magma's Groudon", "set": "MA", "number": "9" },
+        { "count": 4, "name": "Team Magma's Zangoose", "set": "MA", "number": "23" },
+        { "count": 2, "name": "Team Magma's Claydol", "set": "MA", "number": "8" },
+        { "count": 2, "name": "Team Magma's Baltoy", "set": "MA", "number": "60" },
+        { "count": 2, "name": "Team Magma's Camerupt", "set": "MA", "number": "19" },
+        { "count": 1, "name": "Team Magma's Numel", "set": "MA", "number": "64" }
+      ], "trainer": [
+        { "count": 3, "name": "Team Magma Conspirator", "set": "MA", "number": "82" },
+        { "count": 3, "name": "Underground Expedition", "set": "SK", "number": "140" },
+        { "count": 3, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 2, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 2, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 2, "name": "Maxie", "set": "MA", "number": "73" },
+        { "count": 2, "name": "Mr. Briney's Compassion", "set": "DR", "number": "87" },
+        { "count": 3, "name": "Team Magma Ball", "set": "MA", "number": "80" },
+        { "count": 3, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 2, "name": "Strength Charm", "set": "EX", "number": "150" },
+        { "count": 2, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 7, "name": "Fighting Energy", "set": "EX", "number": "160" },
+        { "count": 1, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 4, "name": "Darkness Energy", "set": "AQ", "number": "142" },
+        { "count": 4, "name": "Magma Energy", "set": "MA", "number": "87" },
+        { "count": 2, "name": "Rainbow Energy", "set": "AQ", "number": "144" }
+      ]
+    }
+  },
+  {
+    "name": "Kevin Nguyen",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+    "decklist": {
+      "pokemon": [
+        { "count": 2, "name": "Gardevoir ex", "set": "SS", "number": "96" },
+        { "count": 2, "name": "Gardevoir", "set": "RS", "number": "7" },
+        { "count": 3, "name": "Kirlia", "set": "RS", "number": "34" },
+        { "count": 4, "name": "Ralts", "set": "RS", "number": "66" },
+        { "count": 2, "name": "Delcatty", "set": "RS", "number": "5" },
+        { "count": 2, "name": "Skitty", "set": "RS", "number": "44" },
+        { "count": 2, "name": "Magneton", "set": "DR", "number": "17" },
+        { "count": 2, "name": "Magnemite", "set": "DR", "number": "63" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" }
+      ], "trainer": [
+        { "count": 4, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 3, "name": "Professor Elm's Training Method", "set": "EX", "number": "148" },
+        { "count": 2, "name": "Desert Shaman", "set": "SK", "number": "123" },
+        { "count": 1, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 1, "name": "Town Volunteers", "set": "AQ", "number": "136" },
+        { "count": 3, "name": "Pokémon Reversal", "set": "FL", "number": "97" },
+        { "count": 2, "name": "Rare Candy", "set": "SS", "number": "88" },
+        { "count": 1, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 1, "name": "Switch", "set": "EX", "number": "157" },
+        { "count": 1, "name": "Weakness Guard", "set": "AQ", "number": "141" },
+        { "count": 1, "name": "Magnetic Storm", "set": "HL", "number": "91" },
+        { "count": 1, "name": "Ancient Tomb", "set": "HL", "number": "87" }
+      ], "energy": [
+        { "count": 10, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 2, "name": "Lightning Energy", "set": "EX", "number": "163" },
+        { "count": 4, "name": "Boost Energy", "set": "AQ", "number": "145" }
+      ]
+    }
+  },
+  {
+    "name": "Takayuke Nishide",
+    "flag": "JP",
+    "sprite1": "gorebyss",
+    "sprite2": "gardevoir",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Gorebyss", "set": "HL", "number": "18" },
+        { "count": 4, "name": "Clamperl", "set": "HL", "number": "58" },
+        { "count": 2, "name": "Gardevoir", "set": "RS", "number": "7" },
+        { "count": 1, "name": "Gardevoir ex", "set": "SS", "number": "96" },
+        { "count": 1, "name": "Kirlia", "set": "RS", "number": "34" },
+        { "count": 2, "name": "Ralts", "set": "RS", "number": "66" },
+        { "count": 1, "name": "Ralts", "set": "RS", "number": "68" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" },
+        { "count": 1, "name": "Bellossom", "set": "HL", "number": "16" },
+        { "count": 1, "name": "Oddish", "set": "HL", "number": "68" }
+      ], "trainer": [
+        { "count": 3, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 3, "name": "Underground Expedition", "set": "SK", "number": "140" },
+        { "count": 3, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 3, "name": "Professor Elm's Training Method", "set": "EX", "number": "148" },
+        { "count": 2, "name": "Bill's Maintenance", "set": "EX", "number": "137" },
+        { "count": 4, "name": "Rare Candy", "set": "SS", "number": "88" },
+        { "count": 2, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 1, "name": "Ancient Technical Machine [Rock]", "set": "HL", "number": "85" }
+      ], "energy": [
+        { "count": 8, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 4, "name": "Double Rainbow Energy", "set": "MA", "number": "88" },
+        { "count": 4, "name": "Multi Energy", "set": "SS", "number": "93" },
+        { "count": 2, "name": "Boost Energy", "set": "AQ", "number": "145" }
+      ]
+    }
+  },
+  {
+    "name": "Sebastian Crema",
+    "flag": "CA",
+    "sprite1": "blank",
+    "sprite2": "blaziken",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Blaziken", "set": "RS", "number": "3" },
+        { "count": 2, "name": "Blaziken ex", "set": "MA", "number": "89" },
+        { "count": 3, "name": "Combusken", "set": "RS", "number": "28" },
+        { "count": 4, "name": "Torchic", "set": "RS", "number": "74" },
+        { "count": 2, "name": "Delcatty", "set": "RS", "number": "5" },
+        { "count": 2, "name": "Skitty", "set": "RS", "number": "44" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" },
+        { "count": 2, "name": "Rayquaza ex", "set": "DR", "number": "97" }
+      ], "trainer": [
+        { "count": 4, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 3, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 2, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 1, "name": "Pokémon Nurse", "set": "EX", "number": "145" },
+        { "count": 1, "name": "Town Volunteers", "set": "AQ", "number": "136" },
+        { "count": 1, "name": "Professor Oak's Research", "set": "EX", "number": "149" },
+        { "count": 1, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 3, "name": "Rare Candy", "set": "SS", "number": "88" },
+        { "count": 2, "name": "Switch", "set": "EX", "number": "157" },
+        { "count": 1, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 1, "name": "Ancient Technical Machine [Rock]", "set": "HL", "number": "85" },
+        { "count": 1, "name": "Ancient Tomb", "set": "HL", "number": "87" },
+        { "count": 1, "name": "High Pressure System", "set": "DR", "number": "85" }
+      ], "energy": [
+        { "count": 11, "name": "Fire Energy", "set": "EX", "number": "161" },
+        { "count": 2, "name": "Lightning Energy", "set": "EX", "number": "163" },
+        { "count": 3, "name": "Multi Energy", "set": "SS", "number": "93" }
+      ]
+    }
+  },
+  {
+    "name": "Jeroen Robert",
+    "flag": "BE",
+    "sprite1": "blank",
+    "sprite2": "blaziken",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.009.team_magmas_groudon.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-zangoose.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.008.team_magmas_claydol.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-baltoy.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.019.team_magmas_camerupt.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-numel.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.082.team_magma_conspirator.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/underground-expedition.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.073.maxie_.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.087.mr_brineys_compassion.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rg.097.pokemon_reversal.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.080.team_magma_ball.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/switch.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fighting-energy.jpg',
-        numImg: '../../assets/06.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/darkness-energy.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.087.magma_energy.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/rainbow-energy.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      }
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Chris Fulop',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/blaziken.png',
-    list: '../../assets/list-icon.png',
-    type: 'fire',
+    "name": "Andrew Knaack",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "swampert",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/blaziken.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/blaziken-ex.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/combusken.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/torchic.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/delcatty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/skitty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.004.team_aquas_manectric.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/aquas-electrike.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/bellossom.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/oddish.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rayquaza-ex.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/nurse.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/elm-training-method.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/friend-ball.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/switch.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fire-energy.jpg',
-        numImg: '../../assets/10.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/lightning-energy.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-energy.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      }
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Go Miyamoto',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/groudon.png',
-    list: '../../assets/list-icon.png',
-    type: 'dark',
+    "name": "Patrick Kewley",
+    "flag": "US",
+    "sprite1": "walrein",
+    "sprite2": "arcanine",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Walrein", "set": "HL", "number": "15" },
+        { "count": 4, "name": "Sealeo", "set": "HL", "number": "47" },
+        { "count": 4, "name": "Spheal", "set": "HL", "number": "74" },
+        { "count": 2, "name": "Arcanine", "set": "SS", "number": "15" },
+        { "count": 2, "name": "Growlithe", "set": "SS", "number": "65" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" },
+        { "count": 1, "name": "Jirachi", "set": "HL", "number": "8" }
+      ], "trainer": [
+        { "count": 4, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 4, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 3, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 1, "name": "Town Volunteers", "set": "AQ", "number": "136" },
+        { "count": 2, "name": "Switch", "set": "EX", "number": "157" },
+        { "count": 2, "name": "Ancient Technical Machine [Rock]", "set": "HL", "number": "85" },
+        { "count": 3, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 14, "name": "Water Energy", "set": "EX", "number": "165" },
+        { "count": 6, "name": "Fire Energy", "set": "EX", "number": "161" }
+      ]
+    }
+  },
+  {
+    "name": "Daniel Mermelstein",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gorebyss",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.009.team_magmas_groudon.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-zangoose.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.008.team_magmas_claydol.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-baltoy.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.019.team_magmas_camerupt.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-numel.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.082.team_magma_conspirator.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/underground-expedition.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.073.maxie_.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.070.team_magma_schemer.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.087.mr_brineys_compassion.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.080.team_magma_ball.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rg.097.pokemon_reversal.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/ex.150.strength_charm.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fighting-energy.jpg',
-        numImg: '../../assets/06.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/darkness-energy.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.087.magma_energy.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/rainbow-energy.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      }
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Yuki Fujimori',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/groudon.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Yutaka Sato",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "groudon",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Yuichi Murakami',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/groudon.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Heather Lynch",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Drew Holton',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/blaziken.png',
-    list: '../../assets/list-icon.png',
-    type: 'fire',
+    "name": "Miyuki Fukuda",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/blaziken.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/blaziken-ex.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/combusken-flare.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/combusken.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/torchic-e-reader.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/delcatty.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/skitty.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/bellossom.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/oddish.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.017.magneton.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magnemite.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rayquaza-ex.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/elm-training-method.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/desert-shaman.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/switch.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/friend-ball.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fire-energy.jpg',
-        numImg: '../../assets/12.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/lightning-energy.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-energy.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Kenneth Wong',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/shiftry.png',
-    list: '../../assets/list-icon.png',
-    type: 'grass',
+    "name": "Steve Davis",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "blaziken",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/shiftry-dark.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/nuzleaf-dark.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/seedot.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/furret.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/sentret.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/delcatty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/skitty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/jirachi-dual.png',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/desert-shaman.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/grass-energy.jpg',
-        numImg: '../../assets/06.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/darkness-energy.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/boost-energy.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      }
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Colin Moll',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/wailord.png',
-    list: '../../assets/list-icon.png',
-    type: 'water',
+    "name": "Jason Chen",
+    "flag": "US",
+    "sprite1": "medicham",
+    "sprite2": "lanturn",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/wailord-ex.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/wailmer.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/bellossom.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/vileplume.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/gloom.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/gloom.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/oddish.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oaks-research.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/elm-training-method.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/desert-shaman.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/root-fossil.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/claw-fossil.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/mysterious-fossil.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/switch.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/mystery-zone.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/island-cave.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/water-energy.jpg',
-        numImg: '../../assets/12.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-        numImg: '../../assets/02.png'
-      }
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'J.R. Palumbo',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/blaziken.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Frank Diaz",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "groudon",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Evens Cheung',
-    flag: '../../assets/flags/norway.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/gardevoir.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Daniel Richard",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "shiftry",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Koji Kanno',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/groudon.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Taylor Davis",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Kyle Sucevich',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/walrein.png',
-    sprite2: '../../assets/sprites/milotic.png',
-    list: '../../assets/list-icon.png',
-    type: 'water',
+    "name": "Jesse Poms",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "metagross",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/walrein.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/sealeo.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/spheal.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/milotic.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/feebas-ascension.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.087.mr_brineys_compassion.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fast-ball.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/crystal-shard.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/water-energy.jpg',
-        numImg: '../../assets/14.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        numImg: '../../assets/02.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Kevin Jackson',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/gardevoir.png',
-    list: '../../assets/list-icon.png',
-    type: 'psychic',
+    "name": "Sami Sekkoum",
+    "flag": "UK",
+    "sprite1": "blank",
+    "sprite2": "blaziken",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/gardevoir-ex.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/gardevoir.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/kirlia.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ralts.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/delcatty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/skitty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.017.magneton.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magnemite.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/wobbuffet-safegaurd.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/elm-training-method.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/switch.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rg.097.pokemon_reversal.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/crystal-shard.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magnetic-storm.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tomb.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/12.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/lightning-energy.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/boost-energy.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      }
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Eric Craig',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/shiftry.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "William Chen",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Nick Caporelli',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/crobat.png',
-    sprite2: '../../assets/sprites/gorebyss.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Aaron Curry",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "blaziken",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Charles Collinsworth',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Matthew Leblanc",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Levi Canfield',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/blaziken.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Paris Garavaglia",
+    "flag": "US",
+    "sprite1": "jumpluff",
+    "sprite2": "gorebyss",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Jumpluff", "set": "AQ", "number": "17" },
+        { "count": 3, "name": "Skiploom", "set": "AQ", "number": "60" },
+        { "count": 4, "name": "Hoppip", "set": "AQ", "number": "83" },
+        { "count": 3, "name": "Gorebyss", "set": "HL", "number": "18" },
+        { "count": 3, "name": "Clamperl", "set": "HL", "number": "58" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" }
+      ], "trainer": [
+        { "count": 4, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 3, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 3, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 1, "name": "Professor Oak's Research", "set": "EX", "number": "149" },
+        { "count": 1, "name": "Pokémon Nurse", "set": "EX", "number": "145" },
+        { "count": 3, "name": "Rare Candy", "set": "SS", "number": "88" },
+        { "count": 2, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 2, "name": "Ancient Technical Machine [Rock]", "set": "HL", "number": "85" },
+        { "count": 1, "name": "Crystal Shard", "set": "SK", "number": "122" },
+        { "count": 3, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 5, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 4, "name": "Rainbow Energy", "set": "AQ", "number": "144" },
+        { "count": 4, "name": "Multi Energy", "set": "SS", "number": "93" },
+        { "count": 3, "name": "Double Rainbow Energy", "set": "MA", "number": "88" }
+      ]
+    }
+  },
+  {
+    "name": "Behrad Hosseini",
+    "flag": "DE",
+    "sprite1": "blank",
+    "sprite2": "swampert",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Andrew Newman',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/groudon.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Dylan Langenstein",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Jacob Burt',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/kyogre.png',
-    sprite2: '../../assets/sprites/manectric.png',
-    list: '../../assets/list-icon.png',
-    type: 'water',
+    "name": "Alex Macri",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "machamp",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Machamp", "set": "HL", "number": "9" },
+        { "count": 3, "name": "Machoke", "set": "HL", "number": "41" },
+        { "count": 4, "name": "Machop", "set": "HL", "number": "64" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" },
+        { "count": 2, "name": "Delcatty", "set": "RS", "number": "5" },
+        { "count": 2, "name": "Skitty", "set": "RS", "number": "44" },
+        { "count": 2, "name": "Magneton", "set": "DR", "number": "17" },
+        { "count": 2, "name": "Magnemite", "set": "DR", "number": "61" }
+      ], "trainer": [
+        { "count": 3, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 3, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 2, "name": "Professor Oak's Research", "set": "EX", "number": "149" },
+        { "count": 2, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 1, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 1, "name": "Wally's Training", "set": "SS", "number": "89" },
+        { "count": 3, "name": "Rare Candy", "set": "SS", "number": "88" },
+        { "count": 2, "name": "Switch", "set": "EX", "number": "157" },
+        { "count": 1, "name": "Ancient Technical Machine [Rock]", "set": "HL", "number": "85" },
+        { "count": 2, "name": "Ancient Tomb", "set": "HL", "number": "87" },
+        { "count": 1, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 8, "name": "Fighting Energy", "set": "EX", "number": "160" },
+        { "count": 4, "name": "Boost Energy", "set": "AQ", "number": "145" },
+        { "count": 4, "name": "Double Rainbow Energy", "set": "MA", "number": "88" }
+      ]
+    }
+  },
+  {
+    "name": "Stuart Benson",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.003.team_aquas_kyogre.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.004.team_aquas_manectric.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/aquas-electrike.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/aquas-seviper.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/ditto.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/team-aqua-conspirator.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.087.mr_brineys_compassion.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fast-ball.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/water-energy.jpg',
-        numImg: '../../assets/08.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/lightning-energy.jpg',
-        numImg: '../../assets/06.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/grass-energy.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/darkness-energy.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Alexis Diaz',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/blaziken.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Cristian Vidal",
+    "flag": "CL",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Che Keen Yau',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/groudon.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Michael Stevens",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Matt Gillespie',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/jumpluff.png',
-    sprite2: '../../assets/sprites/gorebyss.png',
-    list: '../../assets/list-icon.png',
-    type: 'grass',
+    "name": "David Anderson",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/e-reader/jumpluff.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/skiploom.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/hoppip.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/gorebyss.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/clamperl.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oaks-research.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/nurse.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/crystal-shard.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/05.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/rainbow-energy.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        numImg: '../../assets/03.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Evan Bennett',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/shiftry.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Spencer Barth",
+    "flag": "CA",
+    "sprite1": "blank",
+    "sprite2": "machamp",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Koujiro Tsuruta',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/blaziken.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Atsushi Katsumata",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Oliver Dürr',
-    flag: '../../assets/flags/germany.png',
-    sprite1: '../../assets/sprites/sceptile.png',
-    sprite2: '../../assets/sprites/muk.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Christopher Roberts",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Kevin De Mooij',
-    flag: '../../assets/flags/netherlands.png',
-    sprite1: '../../assets/sprites/crobat.png',
-    sprite2: '../../assets/sprites/gorebyss.png',
-    list: '../../assets/list-icon.png',
-    type: 'grass',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/crobat.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/golbat.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/zubat.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/gorebyss.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/clamperl.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/igglybuff.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/jirachi-dual.png',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/ditto.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oaks-research.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/wallys-training-e-reader.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/desert-shaman.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/underground-expedition.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/lanette-net-search-e-reader.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/life-herb.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rg.097.pokemon_reversal.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/lure-ball.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fast-ball.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tomb.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/07.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/grass-energy.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/rainbow-energy.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-    ]
-  },
-  {
-    firstName: 'Adam Capriola',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/medicham.png',
-    sprite2: '../../assets/sprites/lanturn.png',
-    list: '../../assets/list-icon.png',
-    type: 'fighting',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/medicham.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/meditite-e-reader.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.038.lanturn.png',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/chinchou-pounf.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/chinchou-random.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rg.097.pokemon_reversal.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/ex.150.strength_charm.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/lightning-energy.jpg',
-        numImg: '../../assets/07.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fighting-energy.jpg',
-        numImg: '../../assets/06.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Eric Richard',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/gorebyss.png',
-    sprite2: '../../assets/sprites/banette.png',
-    list: '../../assets/list-icon.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/gorebyss.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/clamperl.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.001.banette.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/shuppet-selfie.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/medicham.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/meditite-jab.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.087.mr_brineys_compassion.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/elm-training-method.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oaks-research.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/06.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fighting-energy.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Shigeru Kanda',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/groudon.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Te Awhi Woon',
-    flag: '../../assets/flags/new-zealand.png',
-    sprite1: '../../assets/sprites/gardevoir.png',
-    sprite2: '../../assets/sprites/claydol.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Jimmy Ballard',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/mewtwo.png',
-    sprite2: '../../assets/sprites/gorebyss.png',
-    list: '../../assets/list-icon.png',
-    type: 'psychic',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/mewtwo-ex.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/gorebyss.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/clamperl.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.017.magneton.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magnemite.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/delcatty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/skitty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/juggler.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/elm-training-method.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dual-ball-old.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/crystal-shard.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/ex.150.strength_charm.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/mystery-zone.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/09.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-        numImg: '../../assets/03.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Tom Dolezal',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/blaziken.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: '--',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: '--',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: '--',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Pablo Meza',
-    flag: '../../assets/flags/mexico.png',
-    sprite1: '../../assets/sprites/medicham.png',
-    sprite2: '../../assets/sprites/lanturn.png',
-    list: '../../assets/list-icon.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/medicham.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/meditite-jab.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.038.lanturn.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/chinchou-pounf.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.001.banette.jpg',
-        numImg: '../../assets/02.png',
-        semiRadiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/shuppet-selfie.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/elms-training-method.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/pokemon-reversal.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/ex.150.strength_charm.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.085.ancient_technical_machine_rock.jpg',
-        numImg: '../../assets/01.png',
-        semiRadiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/02.png',
-        semiRadiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magnetic-storm.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/lightning-energy.jpg',
-        numImg: '../../assets/07.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fighting-energy.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   }
 ]
 
-let seniors = [
+"juniors": [
   {
-    firstName: 'Takuya Yoneda',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/groudon.png',
-    list: '../../assets/list-icon.png',
-    type: 'dark',
+    "name": "Hayato Sato",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "groudon",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Team Magma's Groudon", "set": "MA", "number": "9" },
+        { "count": 4, "name": "Team Magma's Zangoose", "set": "MA", "number": "23" },
+        { "count": 3, "name": "Team Magma's Claydol", "set": "MA", "number": "8" },
+        { "count": 2, "name": "Team Magma's Baltoy", "set": "MA", "number": "60" },
+        { "count": 3, "name": "Team Magma's Camerupt", "set": "MA", "number": "19" },
+        { "count": 2, "name": "Team Magma's Numel", "set": "MA", "number": "64" }
+      ], "trainer": [
+        { "count": 4, "name": "Underground Expedition", "set": "SK", "number": "140" },
+        { "count": 3, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 2, "name": "Team Magma Conspirator", "set": "MA", "number": "82" },
+        { "count": 2, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 2, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 2, "name": "Team Magma Schemer", "set": "MA", "number": "70" },
+        { "count": 2, "name": "Mr. Briney's Compassion", "set": "DR", "number": "87" },
+        { "count": 1, "name": "Maxie", "set": "MA", "number": "73" },
+        { "count": 2, "name": "Team Magma Ball", "set": "MA", "number": "80" },
+        { "count": 2, "name": "Switch", "set": "EX", "number": "157" },
+        { "count": 1, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 2, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 6, "name": "Fighting Energy", "set": "EX", "number": "160" },
+        { "count": 2, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 4, "name": "Magma Energy", "set": "MA", "number": "87" },
+        { "count": 3, "name": "Darkness Energy", "set": "AQ", "number": "142" },
+        { "count": 2, "name": "Rainbow Energy", "set": "AQ", "number": "144" }
+      ]
+    }
+  },
+  {
+    "name": "Reed Weichler",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "swampert",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Swampert", "set": "RS", "number": "13" },
+        { "count": 2, "name": "Swampert ex", "set": "MA", "number": "95" },
+        { "count": 3, "name": "Marshtomp", "set": "RS", "number": "40" },
+        { "count": 4, "name": "Mudkip", "set": "RS", "number": "59" },
+        { "count": 2, "name": "Delcatty", "set": "RS", "number": "5" },
+        { "count": 2, "name": "Skitty", "set": "RS", "number": "44" },
+        { "count": 2, "name": "Magneton", "set": "DR", "number": "17" },
+        { "count": 2, "name": "Magnemite", "set": "DR", "number": "63" },
+        { "count": 2, "name": "Dunsparce", "set": "SS", "number": "60" },
+        { "count": 1, "name": "Wobbuffet", "set": "SS", "number": "26" },
+        { "count": 1, "name": "Suicune ex", "set": "MA", "number": "94" }
+      ], "trainer": [
+        { "count": 3, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 2, "name": "Professor Elm's Training Method", "set": "EX", "number": "148" },
+        { "count": 2, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 2, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 2, "name": "Underground Expedition", "set": "SK", "number": "140" },
+        { "count": 1, "name": "Wally's Training", "set": "SS", "number": "89" },
+        { "count": 1, "name": "Pokémon Fan Club", "set": "AQ", "number": "130" },
+        { "count": 1, "name": "Professor Oak's Research", "set": "EX", "number": "149" },
+        { "count": 2, "name": "Rare Candy", "set": "SS", "number": "88" },
+        { "count": 1, "name": "Switch", "set": "EX", "number": "157" },
+        { "count": 1, "name": "Potion", "set": "EX", "number": "156" },
+        { "count": 1, "name": "Ancient Technical Machine [Rock]", "set": "HL", "number": "85" }
+      ], "energy": [
+        { "count": 13, "name": "Water Energy", "set": "EX", "number": "165" },
+        { "count": 4, "name": "Multi Energy", "set": "SS", "number": "93" }
+      ]
+    }
+  },
+  {
+    "name": "Akira Miyazaki",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "groudon",
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "Team Magma's Groudon", "set": "MA", "number": "9" },
+        { "count": 4, "name": "Team Magma's Zangoose", "set": "MA", "number": "23" },
+        { "count": 2, "name": "Team Magma's Claydol", "set": "MA", "number": "8" },
+        { "count": 2, "name": "Team Magma's Baltoy", "set": "MA", "number": "60" },
+        { "count": 2, "name": "Team Magma's Camerupt", "set": "MA", "number": "19" },
+        { "count": 1, "name": "Team Magma's Numel", "set": "MA", "number": "64" }
+      ], "trainer": [
+        { "count": 3, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 3, "name": "Underground Expedition", "set": "SK", "number": "140" },
+        { "count": 2, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 2, "name": "Team Magma Conspirator", "set": "MA", "number": "82" },
+        { "count": 2, "name": "Maxie", "set": "MA", "number": "73" },
+        { "count": 2, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 1, "name": "Bill's Maintenance", "set": "EX", "number": "137" },
+        { "count": 1, "name": "Team Magma Schemer", "set": "MA", "number": "70" },
+        { "count": 1, "name": "Mr. Briney's Compassion", "set": "DR", "number": "87" },
+        { "count": 3, "name": "Pokémon Reversal", "set": "FL", "number": "97" },
+        { "count": 2, "name": "Team Magma Ball", "set": "MA", "number": "80" },
+        { "count": 2, "name": "Switch", "set": "EX", "number": "157" },
+        { "count": 1, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 2, "name": "Desert Ruins", "set": "HL", "number": "88" }
+      ], "energy": [
+        { "count": 7, "name": "Fighting Energy", "set": "EX", "number": "160" },
+        { "count": 2, "name": "Psychic Energy", "set": "EX", "number": "164" },
+        { "count": 4, "name": "Magma Energy", "set": "MA", "number": "87" },
+        { "count": 4, "name": "Darkness Energy", "set": "AQ", "number": "142" },
+        { "count": 1, "name": "Rainbow Energy", "set": "AQ", "number": "144" }
+      ]
+    }
+  },
+  {
+    "name": "Taylor Mitchell",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "swampert",
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Swampert ex", "set": "MA", "number": "95" },
+        { "count": 2, "name": "Swampert", "set": "RS", "number": "13" },
+        { "count": 3, "name": "Marshtomp", "set": "RS", "number": "40" },
+        { "count": 4, "name": "Mudkip", "set": "RS", "number": "59" },
+        { "count": 4, "name": "Dunsparce", "set": "SS", "number": "60" }
+      ], "trainer": [
+        { "count": 4, "name": "Oracle", "set": "SK", "number": "138" },
+        { "count": 4, "name": "Steven's Advice", "set": "HL", "number": "92" },
+        { "count": 3, "name": "TV Reporter", "set": "DF", "number": "82" },
+        { "count": 2, "name": "Professor Oak's Research", "set": "EX", "number": "149" },
+        { "count": 1, "name": "Copycat", "set": "EX", "number": "138" },
+        { "count": 1, "name": "Fisherman", "set": "SK", "number": "125" },
+        { "count": 4, "name": "Rare Candy", "set": "SS", "number": "88" },
+        { "count": 4, "name": "Fast Ball", "set": "SK", "number": "124" },
+        { "count": 2, "name": "Master Ball", "set": "EX", "number": "143" },
+        { "count": 1, "name": "Warp Point", "set": "EX", "number": "152" },
+        { "count": 2, "name": "Island Cave", "set": "HL", "number": "89" }
+      ], "energy": [
+        { "count": 16, "name": "Water Energy", "set": "EX", "number": "165" }
+      ]
+    }
+  },
+  {
+    "name": "Takashi Yoneda",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.009.team_magmas_groudon.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-zangoose.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.008.team_magmas_claydol.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-baltoy.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.019.team_magmas_camerupt.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-numel.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.082.team_magma_conspirator.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/underground-expedition.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.073.maxie_.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.087.mr_brineys_compassion.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.080.team_magma_ball.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/ex.150.strength_charm.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fighting-energy.jpg',
-        numImg: '../../assets/07.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/darkness-energy.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.087.magma_energy.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/rainbow-energy.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      }
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Kevin Nguyen',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/gardevoir.png',
-    list: '../../assets/list-icon.png',
-    type: 'psychic',
+    "name": "Ukyo Kurashita",
+    "flag": "JP",
+    "sprite1": "ampharos",
+    "sprite2": "slaking",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/gardevoir-ex.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/gardevoir.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/kirlia.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ralts.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/delcatty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/skitty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.017.magneton.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magnemite.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/elm-training-method.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/desert-shaman.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rg.097.pokemon_reversal.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/switch.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/weakness-guard.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magnetic-storm.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tomb.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/10.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/lightning-energy.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/boost-energy.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      }
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Takayuke Nishide',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/gorebyss.png',
-    sprite2: '../../assets/sprites/gardevoir.png',
-    list: '../../assets/list-icon.png',
-    type: 'psychic',
+    "name": "José Steven Eguia",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/gorebyss.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/clamperl.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/gardevoir.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/gardevoir-ex.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/kirlia.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ralts.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ralts-e-reader.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/bellossom.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/oddish.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/underground-expedition.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/elm-training-method.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/bills-maintenance.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/08.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/boost-energy.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      }
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Sebastian Crema',
-    flag: '../../assets/flags/canada.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/blaziken.png',
-    list: '../../assets/list-icon.png',
-    type: 'fire',
+    "name": "Kyle Lathem",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/blaziken.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/blaziken-ex.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/combusken.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/torchic.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/delcatty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/skitty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rayquaza-ex.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/nurse.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oaks-research.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/switch.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tomb.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/high-pressure-system.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fire-energy.jpg',
-        numImg: '../../assets/11.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/lightning-energy.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-        numImg: '../../assets/03.png'
-      }
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Jeroen Robert',
-    flag: '../../assets/flags/belgium.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/blaziken.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Curran Hill",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Andrew Knaack',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/swampert.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Andrew Krekeler",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Patrick Kewley',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/walrein.png',
-    sprite2: '../../assets/sprites/arcanine.png',
-    list: '../../assets/list-icon.png',
-    type: 'water',
+    "name": "Kevin White",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/walrein.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/sealeo.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/spheal.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/arcanine.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/growlith-body.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/jirachi-dual.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/switch.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/water-energy.jpg',
-        numImg: '../../assets/14.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fire-energy.jpg',
-        numImg: '../../assets/06.png',
-        oldCard: true
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Daniel Mermelstein',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/gorebyss.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Jasper Van Bemmelen",
+    "flag": "NL",
+    "sprite1": "gardevoir",
+    "sprite2": "gorebyss",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Yutaka Sato',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/groudon.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Tim Hornung",
+    "flag": "US",
+    "sprite1": "kyogre",
+    "sprite2": "walrein",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Heather Lynch',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/gardevoir.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Jake Arnold",
+    "flag": "UK",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Miyuki Fukuda',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/gardevoir.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Jacob Burnside",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Steve Davis',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/blaziken.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Jasa Goonjov",
+    "flag": "SK",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Jason Chen',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/medicham.png',
-    sprite2: '../../assets/sprites/lanturn.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Dale Lynch",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Frank Diaz',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/groudon.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "David Correale",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Daniel Richard',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/shiftry.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Arnoud Van Bemmelen",
+    "flag": "NL",
+    "sprite1": "gardevoir",
+    "sprite2": "metagross",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Taylor Davis',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/gardevoir.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Jeffrey Wang",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Jesse Poms',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/metagross.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Martina Canto",
+    "flag": "IT",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Sami Sekkoum',
-    flag: '../../assets/flags/uk.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/blaziken.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Donovan Roybal-Archuleta",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'William Chen',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Enrique Cross",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Aaron Curry',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/blaziken.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Nathan Crawford",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Matthew Leblanc',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Jefre Robert",
+    "flag": "BE",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Paris Garavaglia',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/jumpluff.png',
-    sprite2: '../../assets/sprites/gorebyss.png',
-    list: '../../assets/list-icon.png',
-    type: 'grass',
+    "name": "Michael Diaz",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/e-reader/jumpluff.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/skiploom.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/hoppip.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/gorebyss.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/clamperl.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oaks-research.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/nurse.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/crystal-shard.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/05.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/rainbow-energy.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        numImg: '../../assets/03.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Behrad Hosseini',
-    flag: '../../assets/flags/germany.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/swampert.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Nathan Dalton",
+    "flag": "unknown",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Dylan Langenstein',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Austin Cook",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Alex Macri',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/machamp.png',
-    list: '../../assets/list-icon.png',
-    type: 'fighting',
+    "name": "Orion Craig",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/machamp.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/machoke-body.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/machop-knuckle-punch.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/delcatty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/skitty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.017.magneton.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magnemite-rollout.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oaks-research.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/wallys-training-e-reader.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/switch.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.085.ancient_technical_machine_rock.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tomb.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fighting-energy.jpg',
-        numImg: '../../assets/08.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/boost-energy.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/double-rainbow-old.png',
-        numImg: '../../assets/04.png'
-      }
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Stuart Benson',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Arron Sanyer",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Cristian Vidal',
-    flag: '../../assets/flags/chile.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Ben Capriola",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Michael Stevens',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    "name": "Jeremy Scharff-Kim",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    "decklist": {
+      "pokemon": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "trainer": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ], "energy": [
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
+      ]
+    },
     deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'David Anderson',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Spencer Barth',
-    flag: '../../assets/flags/canada.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/machamp.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Atsushi Katsumata',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Christopher Roberts',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
+      {cardImg:'../../assets/cards/2004-2006",numImg:'../../assets/04.png'},
     ]
   }
 ]
-
-let juniors = [
-  {
-    firstName: 'Hayato Sato',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/groudon.png',
-    list: '../../assets/list-icon.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.009.team_magmas_groudon.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-zangoose.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.008.team_magmas_claydol.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-baltoy.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.019.team_magmas_camerupt.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-numel.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/underground-expedition.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.082.team_magma_conspirator.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.070.team_magma_schemer.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.087.mr_brineys_compassion.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.073.maxie_.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.080.team_magma_ball.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/switch.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fighting-energy.jpg',
-        numImg: '../../assets/06.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.087.magma_energy.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/darkness-energy.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/rainbow-energy.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      }
-    ]
-  },
-  {
-    firstName: 'Reed Weichler',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/swampert.png',
-    list: '../../assets/list-icon.png',
-    type: 'water',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/swampert-water.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/swampert-ex.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/marshtomp.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/mudkip.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/delcatty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/skitty.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.017.magneton.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magnemite.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/wobbuffet-safegaurd.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/suicune-ex.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/elm-training-method.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/underground-expedition.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/wallys-training-e-reader.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fan-club.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oaks-research.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/switch.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/potion.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/water-energy.jpg',
-        numImg: '../../assets/13.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Akira Miyazaki',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/groudon.png',
-    list: '../../assets/list-icon.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.009.team_magmas_groudon.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-zangoose.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.008.team_magmas_claydol.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-baltoy.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.019.team_magmas_camerupt.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/magmas-numel.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/underground-expedition.jpg',
-        numImg: '../../assets/03.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.082.team_magma_conspirator.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.073.maxie_.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/bills-maintenance.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.070.team_magma_schemer.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.087.mr_brineys_compassion.jpg',
-        numImg: '../../assets/01.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rg.097.pokemon_reversal.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.080.team_magma_ball.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/switch.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
-        numImg: '../../assets/02.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fighting-energy.jpg',
-        numImg: '../../assets/07.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ma.087.magma_energy.jpg',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/darkness-energy.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/rainbow-energy.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      }
-    ]
-  },
-  {
-    firstName: 'Taylor Mitchell',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/swampert.png',
-    list: '../../assets/list-icon.png',
-    type: 'water',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006/swampert-ex.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/swampert-water.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/marshtomp.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/mudkip.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oracle.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-        numImg: '../../assets/04.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
-        numImg: '../../assets/03.png',
-        radiusCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/oaks-research.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fisherman.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/fast-ball.jpg',
-        numImg: '../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/master-ball.jpg',
-        numImg: '../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/warp-point.jpg',
-        numImg: '../../assets/01.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../assets/cards/2004-2006/island-cave.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/e-reader/water-energy.jpg',
-        numImg: '../../assets/16.png',
-        oldCard: true
-      }
-    ]
-  },
-  {
-    firstName: 'Takashi Yoneda',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Ukyo Kurashita',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/ampharos.png',
-    sprite2: '../../assets/sprites/slaking.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'José Steven Eguia',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Kyle Lathem',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Curran Hill',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Andrew Krekeler',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/gardevoir.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Kevin White',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Jasper Van Bemmelen',
-    flag: '../../assets/flags/netherlands.png',
-    sprite1: '../../assets/sprites/gardevoir.png',
-    sprite2: '../../assets/sprites/gorebyss.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Tim Hornung',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/kyogre.png',
-    sprite2: '../../assets/sprites/walrein.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Jake Arnold',
-    flag: '../../assets/flags/uk.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Jacob Burnside',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Jasa Goonjov',
-    flag: '../../assets/flags/slovakia.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Dale Lynch',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'David Correale',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Arnoud Van Bemmelen',
-    flag: '../../assets/flags/netherlands.png',
-    sprite1: '../../assets/sprites/gardevoir.png',
-    sprite2: '../../assets/sprites/metagross.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Jeffrey Wang',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Martina Canto',
-    flag: '../../assets/flags/italy.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Donovan Roybal-Archuleta',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Enrique Cross',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Nathan Crawford',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Jefre Robert',
-    flag: '../../assets/flags/belgium.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Michael Diaz',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Nathan Dalton',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Austin Cook',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Orion Craig',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Arron Sanyer',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Ben Capriola',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Jeremy Scharff-Kim',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../assets/cards/2004-2006',
-        numImg: '../../assets/04.png'
-      },
-    ]
-  }
-]
-
-    //masters
-    function displayList(array = []) {
-      masterList.innerHTML = '';
-
-      for (let i = 0; i < array.length; i++) {
-        let item = array[i];
-
-        let item_element = document.createElement('li');
-        item_element.classList.add('player-list-hover');
-        let title = document.createElement('li');
-        title.classList.add('results-list-item');
-
-        let playerName = document.createElement('div');
-        playerName.classList.add('name-n-flag');
-        if (item.banned === true) {
-          playerName.classList.add('crossed-out');
-        }
-
-        let flagImg = document.createElement('img');
-        flagImg.classList.add('flag-size');
-        flagImg.setAttribute('src', item.flag);
-
-        let countryName = document.createElement('div');
-        countryName.classList.add('country-name');
-        countryName.style.display = 'none';
-
-        flagImg.addEventListener('mouseover', function() {
-            if (flagImg.getAttribute('src').includes('argentina')) {
-                countryName.textContent = 'Argentina (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('australia')) {
-                countryName.textContent = 'Australia (Oceania)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('austria')) {
-                countryName.textContent = 'Austria (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('belarus')) {
-                countryName.textContent = 'Belarus (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('belgium')) {
-                countryName.textContent = 'Belgium (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('brazil')) {
-                countryName.textContent = 'Brazil (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('canada')) {
-                countryName.textContent = 'Canada (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('chile')) {
-                countryName.textContent = 'Chile (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('china')) {
-                countryName.textContent = 'China (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('colombia')) {
-                countryName.textContent = 'Colombia (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('croatia')) {
-                countryName.textContent = 'Croatia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('czech-republic')) {
-                countryName.textContent = 'Czechia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('denmark')) {
-                countryName.textContent = 'Denmark (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('el-salvador')) {
-                countryName.textContent = 'El Salvador (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('finland')) {
-                countryName.textContent = 'Finland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('france')) {
-                countryName.textContent = 'France (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('germany')) {
-                countryName.textContent = 'Germany (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('greece')) {
-                countryName.textContent = 'Greece (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('hong-kong')) {
-                countryName.textContent = 'Hong Kong (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('indonesia')) {
-                countryName.textContent = 'Indonesia (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('ireland')) {
-                countryName.textContent = 'Ireland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('isreal')) {
-                countryName.textContent = 'Israel (Middle East-South Africa)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('italy')) {
-                countryName.textContent = 'Italy (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('japan')) {
-                countryName.textContent = 'Japan (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('korea')) {
-                countryName.textContent = 'South Korea (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('malaysia')) {
-                countryName.textContent = 'Malaysia (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('malta')) {
-                countryName.textContent = 'Malta (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('mexico')) {
-                countryName.textContent = 'Mexico (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('moroco')) {
-                countryName.textContent = 'Moroco (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('netherlands')) {
-                countryName.textContent = 'Netherlands (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('new-zealand')) {
-                countryName.textContent = 'New Zealand (Oceania)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('nicaragua')) {
-                countryName.textContent = 'Nicaragua (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('norway')) {
-                countryName.textContent = 'Norway (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('peru')) {
-                countryName.textContent = 'Peru (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('philippines')) {
-                countryName.textContent = 'Philippines (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('poland')) {
-                countryName.textContent = 'Poland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('portugal')) {
-                countryName.textContent = 'Portugal (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('puerto-rico')) {
-                countryName.textContent = 'Puerto Rico (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('russia')) {
-                countryName.textContent = 'Russia (Russia)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('singapore')) {
-                countryName.textContent = 'Singapore (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('slovakia')) {
-                countryName.textContent = 'Slovakia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('south-africa')) {
-                countryName.textContent = 'South Africa (Middle East-South Africa)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('spain')) {
-                countryName.textContent = 'Spain (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('sweden')) {
-                countryName.textContent = 'Sweden (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('switzerland')) {
-                countryName.textContent = 'Switzerland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('taiwan')) {
-                countryName.textContent = 'Taiwan (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('thailand')) {
-                countryName.textContent = 'Thailand (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('uk')) {
-                countryName.textContent = 'United Kingdom (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('usa')) {
-                countryName.textContent = 'USA (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('unknown')) {
-                countryName.textContent = 'Unknown';
-                countryName.style.display = 'block';
-            }
-        });
-
-        flagImg.addEventListener('mouseout', function() {
-            countryName.style.display = 'none';
-        });
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-        let firstSprite = document.createElement('img');
-        firstSprite.classList.add('sprite');
-        firstSprite.setAttribute('src', item.sprite1);
-        let secondSprite = document.createElement('img');
-        secondSprite.classList.add('sprite');
-        secondSprite.classList.add('second-sprite');
-        secondSprite.setAttribute('src', item.sprite2);
-        let listIcon = document.createElement('img');
-        listIcon.classList.add('list-icon');
-        listIcon.setAttribute('src', item.list);
-
-     
-
-        item_element.appendChild(title);
-        title.appendChild(playerName);
-        playerName.appendChild(countryName); // Append the country name element
-        playerName.appendChild(flagImg);
-        playerName.append(item.firstName);
-        title.appendChild(deck);
-        deck.appendChild(firstSprite);
-        deck.appendChild(secondSprite);
-        deck.appendChild(listIcon);
-
-        if (item.list === '../../assets/list-icon.png') {
-          item_element.addEventListener('click', function () {
-            document.querySelector('#modal-section').style.display = "flex";
-            document.querySelector('.modal').style.display = 'block';
-            document.querySelector('.behind-modal').style.display = 'block';
-            document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 Worlds";
-
-            if (item.type == 'psychic') {
-              document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
-            } else if (item.type == 'fire') {
-              document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
-            } else if (item.type == 'fairy') {
-              document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
-            } else if (item.type == 'normal') {
-              document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
-            } else if (item.type == 'lightning') {
-              document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
-            } else if (item.type == 'dark') {
-              document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-            } else if (item.type == 'dragon') {
-              document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
-            } else if (item.type == 'fighting') {
-              document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
-            } else if (item.type == 'grass') {
-              document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
-            } else if (item.type == 'metal') {
-              document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
-            } else if (item.type == 'water') {
-              document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
-            } else {
-              document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-            }
-
-            for (let i = 0; i < item.deck.length; i++) {
-              let deck = item.deck[i];
-
-              let cardSpace = document.createElement('div');
-              cardSpace.classList.add('pokemon-card');
-
-              let pokeCard = document.createElement('img');
-              pokeCard.classList.add('pok-card-small')
-              pokeCard.setAttribute('src', deck.cardImg);
-
-              if (deck.oldCard === true) {
-                pokeCard.classList.add('old-card')
-              } 
-              if (deck.radiusCard === true) {
-                pokeCard.classList.add('radius-card')
-              }
-              if (deck.semiRadiusCard === true) {
-                pokeCard.classList.add('semi-radius-card')
-              }
-
-              // cardSpace.forEach(card => {
-              //   card.addEventListener('click', () => {
-              //     pokeCard.classList.add('large-card')
-              //   })
-              // })
-
-              let numberCounter = document.createElement('img');
-              numberCounter.classList.add('num-1')
-              numberCounter.setAttribute('src', deck.numImg);
-
-              cardSpace.appendChild(pokeCard);
-              cardSpace.appendChild(numberCounter);
-              modalBottom.appendChild(cardSpace);
-
-              modalX.addEventListener('click', () => {
-                modal.style.display = 'none';
-                behind.style.display = 'none';
-                cardSpace.remove();
-              })
-              behind.addEventListener('click', () => {
-                modal.style.display = 'none';
-                behind.style.display = 'none';
-                cardSpace.remove();
-              })
-            }
-            document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-          })
-        }
-
-        masterList.appendChild(item_element);
-      }
-    }
-
-// seniors
-function displayList2(array = []) {
-  seniorList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-        flagImg.classList.add('flag-size');
-        flagImg.setAttribute('src', item.flag);
-
-        let countryName = document.createElement('div');
-        countryName.classList.add('country-name');
-        countryName.style.display = 'none';
-
-        flagImg.addEventListener('mouseover', function() {
-            if (flagImg.getAttribute('src').includes('argentina')) {
-                countryName.textContent = 'Argentina (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('australia')) {
-                countryName.textContent = 'Australia (Oceania)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('austria')) {
-                countryName.textContent = 'Austria (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('belarus')) {
-                countryName.textContent = 'Belarus (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('belgium')) {
-                countryName.textContent = 'Belgium (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('brazil')) {
-                countryName.textContent = 'Brazil (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('canada')) {
-                countryName.textContent = 'Canada (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('chile')) {
-                countryName.textContent = 'Chile (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('china')) {
-                countryName.textContent = 'China (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('colombia')) {
-                countryName.textContent = 'Colombia (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('croatia')) {
-                countryName.textContent = 'Croatia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('czech-republic')) {
-                countryName.textContent = 'Czechia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('denmark')) {
-                countryName.textContent = 'Denmark (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('el-salvador')) {
-                countryName.textContent = 'El Salvador (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('finland')) {
-                countryName.textContent = 'Finland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('france')) {
-                countryName.textContent = 'France (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('germany')) {
-                countryName.textContent = 'Germany (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('greece')) {
-                countryName.textContent = 'Greece (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('hong-kong')) {
-                countryName.textContent = 'Hong Kong (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('indonesia')) {
-                countryName.textContent = 'Indonesia (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('ireland')) {
-                countryName.textContent = 'Ireland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('isreal')) {
-                countryName.textContent = 'Israel (Middle East-South Africa)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('italy')) {
-                countryName.textContent = 'Italy (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('japan')) {
-                countryName.textContent = 'Japan (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('korea')) {
-                countryName.textContent = 'South Korea (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('malaysia')) {
-                countryName.textContent = 'Malaysia (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('malta')) {
-                countryName.textContent = 'Malta (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('mexico')) {
-                countryName.textContent = 'Mexico (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('moroco')) {
-                countryName.textContent = 'Moroco (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('netherlands')) {
-                countryName.textContent = 'Netherlands (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('new-zealand')) {
-                countryName.textContent = 'New Zealand (Oceania)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('nicaragua')) {
-                countryName.textContent = 'Nicaragua (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('norway')) {
-                countryName.textContent = 'Norway (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('peru')) {
-                countryName.textContent = 'Peru (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('philippines')) {
-                countryName.textContent = 'Philippines (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('poland')) {
-                countryName.textContent = 'Poland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('portugal')) {
-                countryName.textContent = 'Portugal (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('puerto-rico')) {
-                countryName.textContent = 'Puerto Rico (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('russia')) {
-                countryName.textContent = 'Russia (Russia)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('singapore')) {
-                countryName.textContent = 'Singapore (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('slovakia')) {
-                countryName.textContent = 'Slovakia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('south-africa')) {
-                countryName.textContent = 'South Africa (Middle East-South Africa)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('spain')) {
-                countryName.textContent = 'Spain (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('sweden')) {
-                countryName.textContent = 'Sweden (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('switzerland')) {
-                countryName.textContent = 'Switzerland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('taiwan')) {
-                countryName.textContent = 'Taiwan (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('thailand')) {
-                countryName.textContent = 'Thailand (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('uk')) {
-                countryName.textContent = 'United Kingdom (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('usa')) {
-                countryName.textContent = 'USA (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('unknown')) {
-                countryName.textContent = 'Unknown';
-                countryName.style.display = 'block';
-            }
-        });
-
-        flagImg.addEventListener('mouseout', function() {
-            countryName.style.display = 'none';
-        });
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-        playerName.appendChild(countryName); // Append the country name element
-        playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 Worlds";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-        }
-
-         
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          if (deck.oldCard === true) {
-            pokeCard.classList.add('old-card')
-          } 
-          if (deck.radiusCard === true) {
-            pokeCard.classList.add('radius-card')
-          }
-          // if (deck.semiRadiusCard === true) {
-          //   pokeCard.classList.add('semi-radius-card')
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-
-    seniorList.appendChild(item_element);
-  }
-}
-
-// juniors
-function displayList3(array = []) {
-  juniorList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-        flagImg.classList.add('flag-size');
-        flagImg.setAttribute('src', item.flag);
-
-        let countryName = document.createElement('div');
-        countryName.classList.add('country-name');
-        countryName.style.display = 'none';
-
-        flagImg.addEventListener('mouseover', function() {
-            if (flagImg.getAttribute('src').includes('argentina')) {
-                countryName.textContent = 'Argentina (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('australia')) {
-                countryName.textContent = 'Australia (Oceania)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('austria')) {
-                countryName.textContent = 'Austria (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('belarus')) {
-                countryName.textContent = 'Belarus (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('belgium')) {
-                countryName.textContent = 'Belgium (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('brazil')) {
-                countryName.textContent = 'Brazil (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('canada')) {
-                countryName.textContent = 'Canada (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('chile')) {
-                countryName.textContent = 'Chile (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('china')) {
-                countryName.textContent = 'China (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('colombia')) {
-                countryName.textContent = 'Colombia (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('croatia')) {
-                countryName.textContent = 'Croatia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('czech-republic')) {
-                countryName.textContent = 'Czechia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('denmark')) {
-                countryName.textContent = 'Denmark (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('el-salvador')) {
-                countryName.textContent = 'El Salvador (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('finland')) {
-                countryName.textContent = 'Finland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('france')) {
-                countryName.textContent = 'France (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('germany')) {
-                countryName.textContent = 'Germany (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('greece')) {
-                countryName.textContent = 'Greece (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('hong-kong')) {
-                countryName.textContent = 'Hong Kong (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('indonesia')) {
-                countryName.textContent = 'Indonesia (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('ireland')) {
-                countryName.textContent = 'Ireland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('isreal')) {
-                countryName.textContent = 'Israel (Middle East-South Africa)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('italy')) {
-                countryName.textContent = 'Italy (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('japan')) {
-                countryName.textContent = 'Japan (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('korea')) {
-                countryName.textContent = 'South Korea (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('malaysia')) {
-                countryName.textContent = 'Malaysia (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('malta')) {
-                countryName.textContent = 'Malta (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('mexico')) {
-                countryName.textContent = 'Mexico (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('moroco')) {
-                countryName.textContent = 'Moroco (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('netherlands')) {
-                countryName.textContent = 'Netherlands (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('new-zealand')) {
-                countryName.textContent = 'New Zealand (Oceania)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('nicaragua')) {
-                countryName.textContent = 'Nicaragua (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('norway')) {
-                countryName.textContent = 'Norway (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('peru')) {
-                countryName.textContent = 'Peru (Latin America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('philippines')) {
-                countryName.textContent = 'Philippines (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('poland')) {
-                countryName.textContent = 'Poland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('portugal')) {
-                countryName.textContent = 'Portugal (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('puerto-rico')) {
-                countryName.textContent = 'Puerto Rico (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('russia')) {
-                countryName.textContent = 'Russia (Russia)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('singapore')) {
-                countryName.textContent = 'Singapore (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('slovakia')) {
-                countryName.textContent = 'Slovakia (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('south-africa')) {
-                countryName.textContent = 'South Africa (Middle East-South Africa)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('spain')) {
-                countryName.textContent = 'Spain (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('sweden')) {
-                countryName.textContent = 'Sweden (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('switzerland')) {
-                countryName.textContent = 'Switzerland (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('taiwan')) {
-                countryName.textContent = 'Taiwan (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('thailand')) {
-                countryName.textContent = 'Thailand (Asia-Pacific)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('uk')) {
-                countryName.textContent = 'United Kingdom (Europe)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('usa')) {
-                countryName.textContent = 'USA (North America)';
-                countryName.style.display = 'block';
-            }
-            if (flagImg.getAttribute('src').includes('unknown')) {
-                countryName.textContent = 'Unknown';
-                countryName.style.display = 'block';
-            }
-        });
-
-        flagImg.addEventListener('mouseout', function() {
-            countryName.style.display = 'none';
-        });
-
-        let deck = document.createElement('div');
-        deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-        playerName.appendChild(countryName); // Append the country name element
-        playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 Worlds";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
-        }
-
-         
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          if (deck.oldCard === true) {
-            pokeCard.classList.add('old-card')
-          } 
-          if (deck.radiusCard === true) {
-            pokeCard.classList.add('radius-card')
-          }
-          // if (deck.semiRadiusCard === true) {
-          //   pokeCard.classList.add('semi-radius-card')
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-
-    juniorList.appendChild(item_element);
-  }
-}
-
-const modal = document.querySelector('.modal');
-const modalX = document.querySelector('.modal-x');
-const behind = document.querySelector('.behind-modal');
-
-displayList(masters);
-displayList2(seniors);
-displayList3(juniors);

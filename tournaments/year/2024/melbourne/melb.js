@@ -1,4 +1,4 @@
-let masters = [{"name":"Brent Tonisson",
+"masters": [{"name":"Brent Tonisson",
 "flag": "AU",
 "placing":1,
 "event": "2024 Melbourne Regionals",
@@ -141,7 +141,7 @@ let masters = [{"name":"Brent Tonisson",
         { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" },
         { "count": 1, "name": "Morpeko", "number": "121", "set": "PAR" },
         { "count": 2, "name": "Squawkabilly ex", "number": "169", "set": "PAL" },
-        { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+        { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" }
       ], "trainer": [
         { "count": 3, "name": "Professor's Research", "number": "189", "set": "SVI" },
         { "count": 3, "name": "Professor Sada's Vitality", "number": "170", "set": "PAR" },
@@ -159,7 +159,7 @@ let masters = [{"name":"Brent Tonisson",
         { "count": 2, "name": "Ancient Booster Energy Capsule", "number": "159", "set": "PAR" },
         { "count": 1, "name": "Emergency Jelly", "number": "155", "set": "SIT" },
         { "count": 3, "name": "Town Store", "number": "196", "set": "OBF" },
-        { "count": 1, "name": "Collapsed Stadium", "set": "BRS", "number": "137" },
+        { "count": 1, "name": "Collapsed Stadium", "set": "BRS", "number": "137" }
       ], "energy": [
         { "count": 9, "name": "Darkness Energy - Basic", "number": "7", "set": "SVE" },
             ]
@@ -365,7 +365,7 @@ let masters = [{"name":"Brent Tonisson",
 }
 ]
 
-let seniors = [{"name":"Polaris A.",
+"seniors": [{"name":"Polaris A.",
 "flag": "US",
 "placing":1,
 "event": "2024 Melbourne Regionals",
@@ -414,7 +414,7 @@ let seniors = [{"name":"Polaris A.",
 "decklist":{"pokemon":[{"count":2, "name": "Charmander", "number":"4", "set": "MEW"},{"count":2, "name": "Charmander", "number":"26", "set": "OBF"},{"count":2, "name": "Charizard ex", "number":"125", "set": "OBF"},{"count":1, "name": "Charizard ex", "number":"215", "set": "OBF"},{"count":1, "name": "Radiant Charizard", "number":"11", "set": "PGO"},{"count":1, "name": "Charmeleon", "number":"27", "set": "OBF"},{"count":2, "name": "Pidgey", "number":"16", "set": "MEW"},{"count":1, "name": "Pidgeot ex", "number":"217", "set": "OBF"},{"count":1, "name": "Pidgeot ex", "number":"164", "set": "OBF"},{"count":1, "name": "Rotom V", "number":"45", "set": "CRZ"},{"count":1, "name": "Lumineon V", "number":"250", "set": "PR-SW"},{"count":1, "name": "Mew", "number":"11", "set": "CEL"},{"count":1, "name": "Manaphy", "number": "41", "set": "BRS"},{"count":1, "name": "Jirachi", "number":"126", "set": "PAR"}],"trainer":[{"count":4, "name": "Arven", "number":"186", "set": "OBF"},{"count":3, "name": "Iono", "number":"80", "set": "PAF"},{"count":1, "name": "Professor's Research", "number":"147", "set": "BRS"},{"count":3, "name": "Boss's Orders", "number":"132", "set": "BRS"},{"count":4, "name": "Rare Candy", "number":"142", "set": "CES"},{"count":4, "name": "Ultra Ball", "number":"150", "set": "BRS"},{"count":4, "name": "Battle VIP Pass", "number":"225", "set": "FST"},{"count":2, "name": "Super Rod", "number":"188", "set": "PAL"},{"count":2, "name": "Lost Vacuum", "number":"135", "set": "CRZ"},{"count":1, "name": "Level Ball", "number":"129", "set": "BST"},{"count":1, "name": "Switch", "number":"147", "set": "CES"},{"count":1, "name": "Counter Catcher", "number":"160", "set": "PAR"},{"count":1, "name": "Forest Seal Stone", "number":"156", "set": "SIT"},{"count":1, "name": "Choice Belt", "number": "176", "set": "PAL"},{"count":1, "name": "Technical Machine: Devolution", "number":"177", "set": "PAR"},{"count":2, "name": "Artazon", "set": "PAF", "number": "76"},{"count":1, "name": "Collapsed Stadium", "number":"137", "set": "BRS"}],"energy":[{"count":6, "name": "Fire Energy - Basic", "number":"153", "set": "CRZ"}]},
 }]
 
-let juniors = [{"name":"Drake Z.",
+"juniors": [{"name":"Drake Z.",
 "flag": "NZ",
 "placing":1,
 "event": "2024 Melbourne Regionals",

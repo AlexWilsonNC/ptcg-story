@@ -1,11 +1,10 @@
-let masters = [
+"masters": [
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/chien-pao.png",
-    sprite2: "../../../../assets/sprites/baxcalibur.png",
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "chien-pao",
+    "sprite2": "baxcalibur",
     "decklist": {
       "pokemon": [
         {"count": 2, "name": "Chien-Pao ex", "set": "PAL", "number": "61"},
@@ -40,272 +39,272 @@ let masters = [
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/comfey.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "blank",
+    "sprite2": "comfey.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/chien-pao.png",
-    sprite2: "../../../../assets/sprites/baxcalibur.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "chien-pao",
+    "sprite2": "baxcalibur.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/iron-hands.png",
-    sprite2: "../../../../assets/sprites/iron-crown.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "iron-hands",
+    "sprite2": "iron-crown.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/comfey.png",
-    sprite2: "../../../../assets/sprites/iron-hands.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "comfey",
+    "sprite2": "iron-hands.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/raging-bolt.png",
-    sprite2: "../../../../assets/sprites/sandy-shocks.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "raging-bolt",
+    "sprite2": "sandy-shocks.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/charizard.png",
-    sprite2: "../../../../assets/sprites/pidgeot.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "charizard",
+    "sprite2": "pidgeot.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/arceus.png",
-    sprite2: "../../../../assets/sprites/giratina-origin.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "arceus",
+    "sprite2": "giratina-origin.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/comfey.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "blank",
+    "sprite2": "comfey.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/chien-pao.png",
-    sprite2: "../../../../assets/sprites/baxcalibur.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "chien-pao",
+    "sprite2": "baxcalibur.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/espathra.png",
-    sprite2: "../../../../assets/sprites/xatu.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "espathra",
+    "sprite2": "xatu.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/chien-pao.png",
-    sprite2: "../../../../assets/sprites/baxcalibur.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "chien-pao",
+    "sprite2": "baxcalibur.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/lugia.png",
-    sprite2: "../../../../assets/sprites/cinccino.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "lugia",
+    "sprite2": "cinccino.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/lugia.png",
-    sprite2: "../../../../assets/sprites/cinccino.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "lugia",
+    "sprite2": "cinccino.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/arceus.png",
-    sprite2: "../../../../assets/sprites/armarouge.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "arceus",
+    "sprite2": "armarouge.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },
   {
-    "firstName": "Name Pending",
-    flag: '../../../../assets/flags/korea.png',
+    "name": "Name Pending",
+    "flag": "KR",
     "event": "2024 Korean League (Season 3)",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/gardevoir.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    "sprite1": "blank",
+    "sprite2": "gardevoir.png",
+    // list: '../../../../assets/list-icon",
+    list: '../../../../assets/sprites/blank",
     "decklist": {
       "pokemon": [
-        { "count": 3, "name": "eeee", "number": "79", "set": "FST" },
+        { "count": 3, "name": "eeee", "number": "79", "set": "FST" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" },
+        { "count": 4, "name": "eeee", "number": "190", "set": "SVI" }
       ], "energy": [
-        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" },
+        { "count": 7, "name": "Water Energy", "number": "3", "set": "SVE" }
       ]
     }
   },

@@ -47,9 +47,9 @@ const enableDarkMode = () => {
     // })
 
     if (mastersol) {
-      document.querySelectorAll('[src="../../../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../../../assets/list-icon-white.png'));
+      document.querySelectorAll('[src="../../../../assets/list-icon.png"]').forEach(item => item.setAttribute('src", '../../../../assets/list-icon-white.png'));
       function addAttribute(){
-        document.querySelectorAll('[src="../../../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../../../assets/list-icon-white.png'));
+        document.querySelectorAll('[src="../../../../assets/list-icon.png"]').forEach(item => item.setAttribute('src", '../../../../assets/list-icon-white.png'));
       };
       window.onload = addAttribute;
   
@@ -72,7 +72,7 @@ const enableDarkMode = () => {
     //   socials.classList.add('darkon');
     // })
 
-    localStorage.setItem('darkMode', 'enabled');
+    localStorage.setItem('darkMode", 'enabled');
   };
   
   const disableDarkMode = () => {
@@ -99,7 +99,7 @@ const enableDarkMode = () => {
     // })
 
     if (mastersol) {
-      document.querySelectorAll('[src="../../../../assets/list-icon-white.png"]').forEach(item => item.setAttribute('src', '../../../../assets/list-icon.png'));
+      document.querySelectorAll('[src="../../../../assets/list-icon-white.png"]').forEach(item => item.setAttribute('src", '../../../../assets/list-icon.png'));
       mastersol.classList.remove('darkon');
       seniorsol.classList.remove('darkon');
       juniorsol.classList.remove('darkon');
@@ -119,14 +119,14 @@ const enableDarkMode = () => {
     //   socials.classList.remove('darkon');
     // })
 
-    localStorage.setItem('darkMode', null);
+    localStorage.setItem('darkMode", null);
   };
   
   if(darkMode === 'enabled') {
     enableDarkMode();
   }
   
-  toggle.addEventListener('click', () => {
+  toggle.addEventListener('click", () => {
     darkMode = localStorage.getItem('darkMode');
     if (darkMode !== 'enabled') {
       enableDarkMode();

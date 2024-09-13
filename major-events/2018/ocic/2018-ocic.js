@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
   {
-    firstName: 'Tord Reklev',
-    flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Tord Reklev",
+    "flag": "NO",
+    "sprite1": "zoroark",
+    "sprite2": "gardevoir",
+     
     deckid: "zoroark-gardevoir",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -56,7 +56,7 @@ let masters = [
               "name": "Giratina",
               "number": "184",
               "set": "PR-XY"
-        },
+        }
       ],
       "trainer": [
         {
@@ -148,7 +148,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -162,19 +162,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Joe Ruettiger',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Joe Ruettiger",
+    "flag": "US",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -241,7 +241,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -311,19 +311,19 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Philip Schulz',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Philip Schulz",
+    "flag": "DE",
+    "sprite1": "zoroark",
+    "sprite2": "gardevoir",
+     
     deckid: "zoroark-gardevoir",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -372,7 +372,7 @@ let masters = [
               "name": "Giratina",
               "number": "184",
               "set": "PR-XY"
-        },
+        }
       ],
       "trainer": [
         {
@@ -464,7 +464,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -478,19 +478,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'William Azevedo',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "William Azevedo",
+    "flag": "BR",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -545,7 +545,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -613,7 +613,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -627,19 +627,19 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Jimmy Pendarvis',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Jimmy Pendarvis",
+    "flag": "US",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -694,7 +694,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -762,7 +762,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -776,19 +776,19 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Azul Griego',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Azul Griego",
+    "flag": "US",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -843,7 +843,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -911,7 +911,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -925,19 +925,19 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Corey Godfrey',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/ho-oh.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Corey Godfrey",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "ho-oh",
+     
     deckid: "ho-oh",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "name": "Ho-oh GX",
@@ -968,7 +968,7 @@ let masters = [
               "name": "Oranguru",
               "number": "113",
               "set": "SUM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1042,7 +1042,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -1050,19 +1050,19 @@ let masters = [
             "name": "Fire Energy",
             "number": "fire",
             "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Frank Percic',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Frank Percic",
+    "flag": "US",
+    "sprite1": "buzzwole",
+    "sprite2": "garbodor",
+     
     deckid: "buzzwole-garbodor",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -1111,7 +1111,7 @@ let masters = [
               "name": "Espeon-EX",
               "number": "52",
               "set": "BKP"
-        },
+        }
       ],
       "trainer": [
           {
@@ -1142,7 +1142,7 @@ let masters = [
             "name": "Lillie",
                 "number": "122",
                 "set": "SUM",
-            "count": 1,
+            "count": 1
           },
           {
             "count": 1,
@@ -1191,7 +1191,7 @@ let masters = [
               "name": "Parallel City",
               "number": "145",
               "set": "BKT"
-          },
+          }
       ],
       "energy": [
         {
@@ -1211,19 +1211,19 @@ let masters = [
               "name": "Rainbow Energy",
               "number": "137",
               "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Roland Allen',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/hoopa-unbound.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Roland Allen",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "hoopa-unbound",
+     
     deckid: "hoopa-spread",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1248,7 +1248,7 @@ let masters = [
               "name": "Oranguru",
               "number": "113",
               "set": "SUM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1340,7 +1340,7 @@ let masters = [
             "name": "Reverse Valley",
             "number": "110",
             "set": "BKP"
-        },
+        }
       ],
       "energy": [
         {
@@ -1354,19 +1354,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Pedro Torres',
-    flag: '../../../assets/flags/spain.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Pedro Torres",
+    "flag": "ES",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "zoroark-lycanroc",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1415,7 +1415,7 @@ let masters = [
               "name": "Mewtwo",
               "number": "51",
               "set": "EVO"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1501,7 +1501,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -1521,19 +1521,19 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Greg Chin',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Greg Chin",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+     
     deckid: "zoroark-golisopod",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1582,7 +1582,7 @@ let masters = [
             "name": "Tapu Koko",
             "number": "31",
             "set": "PR-SM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1674,7 +1674,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -1688,19 +1688,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Alex Schemanske',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Alex Schemanske",
+    "flag": "US",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -1755,7 +1755,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1823,7 +1823,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -1837,19 +1837,19 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Tait Tran',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Tait Tran",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "zoroark-lycanroc",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -1892,7 +1892,7 @@ let masters = [
               "name": "Mewtwo",
               "number": "51",
               "set": "EVO"
-        },
+        }
       ],
       "trainer": [
         {
@@ -1984,7 +1984,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -2004,19 +2004,19 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Benjamin Pham',
-    flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Benjamin Pham",
+    "flag": "NL",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+     
     deckid: "zoroark-golisopod",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -2059,7 +2059,7 @@ let masters = [
             "name": "Tapu Koko",
             "number": "31",
             "set": "PR-SM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2145,7 +2145,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -2159,19 +2159,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Nico Alabas',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Nico Alabas",
+    "flag": "DE",
+    "sprite1": "zoroark",
+    "sprite2": "gardevoir",
+     
     deckid: "zoroark-gardevoir",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -2220,7 +2220,7 @@ let masters = [
               "name": "Giratina",
               "number": "184",
               "set": "PR-XY"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2312,7 +2312,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -2326,19 +2326,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Ben Anderson',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Ben Anderson",
+    "flag": "AU",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -2393,7 +2393,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2449,7 +2449,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
       {
@@ -2463,28 +2463,28 @@ let masters = [
           "name": "Strong Energy",
           "number": "104",
           "set": "FFI"
-      },
+      }
       ]
     }
   },
   {
-    firstName: 'Huy Nguyen',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Huy Nguyen",
+    "flag": "AU",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+        list: '../../../assets/sprites/blank",
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Magnus Kalland',
-    flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Magnus Kalland",
+    "flag": "NO",
+    "sprite1": "zoroark",
+    "sprite2": "gardevoir",
+     
     deckid: "zoroark-gardevoir",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -2533,7 +2533,7 @@ let masters = [
               "name": "Giratina",
               "number": "184",
               "set": "PR-XY"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2625,7 +2625,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -2639,19 +2639,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Matthew Burris',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Matthew Burris",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+     
     deckid: "zoroark-golisopod",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -2694,7 +2694,7 @@ let masters = [
             "name": "Tapu Koko",
             "number": "31",
             "set": "PR-SM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2786,7 +2786,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -2800,28 +2800,28 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Yong Liang Yap',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/tapu-bulu.png',
-    sprite2: '../../../assets/sprites/vikavolt.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Yong Liang Yap",
+    "flag": "SG",
+    "sprite1": "tapu-bulu",
+    "sprite2": "vikavolt",
+        list: '../../../assets/sprites/blank",
     deckid: "tapu-bulu-vikavolt",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Malik Zaihan',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/tapu-bulu.png',
-    sprite2: '../../../assets/sprites/vikavolt.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Malik Zaihan",
+    "flag": "MY",
+    "sprite1": "tapu-bulu",
+    "sprite2": "vikavolt",
+     
     deckid: "tapu-bulu-vikavolt",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -2870,7 +2870,7 @@ let masters = [
             "name": "Remoraid",
             "number": "32",
             "set": "BKT"
-        },
+        }
       ],
       "trainer": [
         {
@@ -2950,7 +2950,7 @@ let masters = [
             "name": "Choice Band",
             "number": "121",
             "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -2964,55 +2964,55 @@ let masters = [
             "name": "Lightning Energy",
             "number": "lightning",
             "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Perry Lim',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Perry Lim",
+    "flag": "SG",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+        list: '../../../assets/sprites/blank",
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Keng Fai Lee',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Keng Fai Lee",
+    "flag": "MY",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+        list: '../../../assets/sprites/blank",
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Brent Tonisson',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Brent Tonisson",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+        list: '../../../assets/sprites/blank",
     deckid: "zoroark-lycanroc",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Gawein Wagner',
-    flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Gawein Wagner",
+    "flag": "NL",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+        list: '../../../assets/sprites/blank",
     deckid: "volcanion",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Michael Pramawat',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Michael Pramawat",
+    "flag": "US",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -3061,7 +3061,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3123,7 +3123,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -3137,19 +3137,19 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Naomi Murn',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Naomi Murn",
+    "flag": "AU",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -3204,7 +3204,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3260,7 +3260,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -3274,28 +3274,28 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Yee Wei Chun',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/tapu-bulu.png',
-    sprite2: '../../../assets/sprites/vikavolt.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Yee Wei Chun",
+    "flag": "MY",
+    "sprite1": "tapu-bulu",
+    "sprite2": "vikavolt",
+        list: '../../../assets/sprites/blank",
     deckid: "tapu-bulu-vikavolt",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Jesper Eriksen',
-    flag: '../../../assets/flags/denmark.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Jesper Eriksen",
+    "flag": "DK",
+    "sprite1": "zoroark",
+    "sprite2": "gardevoir",
+     
     deckid: "zoroark-gardevoir",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -3344,7 +3344,7 @@ let masters = [
               "name": "Giratina",
               "number": "184",
               "set": "PR-XY"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3436,7 +3436,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -3450,19 +3450,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Bodhi Cutler',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Bodhi Cutler",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "zoroark-lycanroc",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -3523,7 +3523,7 @@ let masters = [
               "name": "Giratina",
               "number": "184",
               "set": "PR-XY"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3603,7 +3603,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -3623,19 +3623,19 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Zach Lesage',
-    flag: '../../../assets/flags/canada.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Zach Lesage",
+    "flag": "CA",
+    "sprite1": "buzzwole",
+    "sprite2": "garbodor",
+     
     deckid: "buzzwole-garbodor",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -3678,7 +3678,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3746,7 +3746,7 @@ let masters = [
                 "name": "Scorched Earth",
                 "number": "110",
                 "set": "FCO"
-        },
+        }
       ],
       "energy": [
         {
@@ -3760,28 +3760,28 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Shane Quinn',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/tapu-bulu.png',
-    sprite2: '../../../assets/sprites/vikavolt.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Shane Quinn",
+    "flag": "AU",
+    "sprite1": "tapu-bulu",
+    "sprite2": "vikavolt",
+        list: '../../../assets/sprites/blank",
     deckid: "tapu-bulu-vikavolt",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Reuben Fong',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Reuben Fong",
+    "flag": "SG",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+     
     deckid: "volcanion",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -3818,7 +3818,7 @@ let masters = [
               "name": "Oranguru",
               "number": "113",
               "set": "SUM"
-        },
+        }
       ],
       "trainer": [
         {
@@ -3916,7 +3916,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -3930,19 +3930,19 @@ let masters = [
             "name": "Fighting Energy",
             "number": "fighting",
             "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Rahul Reddy',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Rahul Reddy",
+    "flag": "US",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -3991,7 +3991,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4053,7 +4053,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -4067,28 +4067,28 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Keith Yong',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Keith Yong",
+    "flag": "MY",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+        list: '../../../assets/sprites/blank",
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Tomas Just',
-    flag: '../../../assets/flags/czech-republic.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Tomas Just",
+    "flag": "CZ",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -4143,7 +4143,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4211,7 +4211,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -4225,46 +4225,46 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Clifton Goh',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Clifton Goh",
+    "flag": "SG",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+        list: '../../../assets/sprites/blank",
     deckid: "zoroark-golisopod",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Eric Si',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Eric Si",
+    "flag": "SG",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+        list: '../../../assets/sprites/blank",
     deckid: "gardevoir-gx",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Mitch Knuckey',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Mitch Knuckey",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+        list: '../../../assets/sprites/blank",
     deckid: "zoroark-lycanroc",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Christopher Schemanske',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Christopher Schemanske",
+    "flag": "US",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -4319,7 +4319,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4387,7 +4387,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -4401,28 +4401,28 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Aaron Van Der Kolk',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/tapu-bulu.png',
-    sprite2: '../../../assets/sprites/vikavolt.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Aaron Van Der Kolk",
+    "flag": "AU",
+    "sprite1": "tapu-bulu",
+    "sprite2": "vikavolt",
+        list: '../../../assets/sprites/blank",
     deckid: "tapu-bulu-vikavolt",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Myles Blasonato',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Myles Blasonato",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "garbodor",
+     
     deckid: "zoroark-garbodor",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -4459,7 +4459,7 @@ let masters = [
               "name": "Mewtwo",
               "number": "51",
               "set": "EVO"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4551,7 +4551,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -4559,19 +4559,19 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Daniel Altavilla',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Daniel Altavilla",
+    "flag": "US",
+    "sprite1": "buzzwole",
+    "sprite2": "garbodor",
+     
     deckid: "buzzwole-garbodor",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -4614,7 +4614,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4682,7 +4682,7 @@ let masters = [
                 "name": "Scorched Earth",
                 "number": "110",
                 "set": "FCO"
-        },
+        }
       ],
       "energy": [
         {
@@ -4696,28 +4696,28 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Ryan Bielak',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Ryan Bielak",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+        list: '../../../assets/sprites/blank",
     deckid: "zoroark-lycanroc",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Marc Lutz',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Marc Lutz",
+    "flag": "DE",
+    "sprite1": "zoroark",
+    "sprite2": "garbodor",
+     
     deckid: "zoroark-garbodor",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -4760,7 +4760,7 @@ let masters = [
           "name": "Necrozma GX",
           "number": "63",
           "set": "BUS"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4834,7 +4834,7 @@ let masters = [
             "name": "Float Stone",
             "number": "137",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -4848,28 +4848,28 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Nicholas Hong',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/tapu-bulu.png',
-    sprite2: '../../../assets/sprites/vikavolt.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Nicholas Hong",
+    "flag": "MY",
+    "sprite1": "tapu-bulu",
+    "sprite2": "vikavolt",
+        list: '../../../assets/sprites/blank",
     deckid: "tapu-bulu-vikavolt",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Ryan Sabelhaus',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Ryan Sabelhaus",
+    "flag": "US",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -4924,7 +4924,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -4992,7 +4992,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -5006,46 +5006,46 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Luke McMahon',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Luke McMahon",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "gardevoir",
+        list: '../../../assets/sprites/blank",
     deckid: "gardevoir-gx",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Corey Munro',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Corey Munro",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+        list: '../../../assets/sprites/blank",
     deckid: "zoroark-lycanroc",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Dominic Chow',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Dominic Chow",
+    "flag": "MY",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+        list: '../../../assets/sprites/blank",
     deckid: "zoroark-golisopod",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Robin Schulz',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Robin Schulz",
+    "flag": "DE",
+    "sprite1": "zoroark",
+    "sprite2": "gardevoir",
+     
     deckid: "zoroark-gardevoir",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 4,
@@ -5094,7 +5094,7 @@ let masters = [
               "name": "Giratina",
               "number": "184",
               "set": "PR-XY"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5186,7 +5186,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -5200,46 +5200,46 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Otavio Gouveia',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Otavio Gouveia",
+    "flag": "BR",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+        list: '../../../assets/sprites/blank",
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Shane Chee',
-    flag: '../../../assets/flags/malaysia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Shane Chee",
+    "flag": "MY",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+        list: '../../../assets/sprites/blank",
     deckid: "zoroark-golisopod",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Joshua Bradley',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/greninja.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Joshua Bradley",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "greninja",
+        list: '../../../assets/sprites/blank",
     deckid: "greninja",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Igor Costa',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Igor Costa",
+    "flag": "US",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+     
     deckid: "zoroark-lycanroc",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -5294,7 +5294,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-        },
+        }
       ],
       "trainer": [
         {
@@ -5362,7 +5362,7 @@ let masters = [
           "name": "Brooklet Hill",
           "number": "120",
           "set": "GRI"
-        },
+        }
       ],
       "energy": [
         {
@@ -5376,73 +5376,73 @@ let masters = [
             "name": "Strong Energy",
             "number": "104",
             "set": "FFI"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Shaun Leong',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Shaun Leong",
+    "flag": "AU",
+    "sprite1": "gardevoir",
+    "sprite2": "sylveon",
+        list: '../../../assets/sprites/blank",
     deckid: "gardevoir-gx",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Sam Chen',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Sam Chen",
+    "flag": "US",
+    "sprite1": "buzzwole",
+    "sprite2": "lycanroc-midnight",
+        list: '../../../assets/sprites/blank",
     deckid: "buzzwole-gx",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Brendon Schofield',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Brendon Schofield",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+        list: '../../../assets/sprites/blank",
     deckid: "idk",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Paul Coletta',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Paul Coletta",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+        list: '../../../assets/sprites/blank",
     deckid: "zoroark-golisopod",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Henry Brand',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Henry Brand",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "lycanroc-midnight",
+        list: '../../../assets/sprites/blank",
     deckid: "zoroark-lycanroc",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Shaun Murphy',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Shaun Murphy",
+    "flag": "AU",
+    "sprite1": "blank",
+    "sprite2": "volcanion",
+        list: '../../../assets/sprites/blank",
     deckid: "volcanion",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Jing Jun Wong',
-    flag: '../../../assets/flags/hong-kong.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
-    list: '../../../assets/list-icon.png',
+    "name": "Jing Jun Wong",
+    "flag": "HK",
+    "sprite1": "gardevoir",
+    "sprite2": "sylveon",
+     
     deckid: "gardevoir-gx",
     event: "2018 Oceania Internationals",
-    decklist: {
+    "decklist": {
       "pokemon": [
         {
           "count": 3,
@@ -5515,7 +5515,7 @@ let masters = [
             "number": "97",
             "set": "BKT",
         "count": 1,
-      },
+      }
       ],
       "trainer": [
         {
@@ -5589,7 +5589,7 @@ let masters = [
             "name": "Parallel City",
             "number": "145",
             "set": "BKT"
-        },
+        }
       ],
       "energy": [
         {
@@ -5603,25 +5603,25 @@ let masters = [
           "name": "Double Colorless Energy",
           "number": "136",
           "set": "SUM"
-        },
+        }
       ]
     }
   },
   {
-    firstName: 'Sameer Sangwan',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Sameer Sangwan",
+    "flag": "AU",
+    "sprite1": "gardevoir",
+    "sprite2": "sylveon",
+        list: '../../../assets/sprites/blank",
     deckid: "gardevoir-gx",
     event: "2018 Oceania Internationals",
   },
   {
-    firstName: 'Angus Johnson',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-        list: '../../../assets/sprites/blank.png',
+    "name": "Angus Johnson",
+    "flag": "AU",
+    "sprite1": "zoroark",
+    "sprite2": "golisopod",
+        list: '../../../assets/sprites/blank",
     deckid: "zoroark-golisopod",
     event: "2018 Oceania Internationals",
   },

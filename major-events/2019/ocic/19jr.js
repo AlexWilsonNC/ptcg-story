@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Simon Belanyi',
-      flag: '../../../assets/flags/slovakia.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Simon Belanyi",
+      "flag": "SK",
+      "sprite1": "blank",
+      "sprite2": "pikachu-zekrom-tagteam",
+       
       event: "2019 Oceania Internationals - Juniors",
       deckid: "pikarom",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -56,7 +56,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -130,7 +130,7 @@ let masters = [
             "name": "Wondrous Labyrinth ♢",
             "number": "158",
             "set": "TEU"
-          },
+          }
         ],
         "energy": [
           {
@@ -143,14 +143,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Jean Cardoso',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Jean Cardoso",
+      "flag": "BR",
+      "sprite1": "blank",
+      "sprite2": "pikachu-zekrom-tagteam",
+       
       event: "2019 Oceania Internationals - Juniors",
       deckid: "pikarom",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -199,7 +199,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -285,7 +285,7 @@ let masters = [
             "name": "Thunder Mountain ♢",
             "number": "191",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -298,14 +298,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Shannon Rochester',
-      flag: '../../../assets/flags/new-zealand.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Shannon Rochester",
+      "flag": "NZ",
+      "sprite1": "blank",
+      "sprite2": "pikachu-zekrom-tagteam",
+       
       event: "2019 Oceania Internationals - Juniors",
       deckid: "pikarom",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 3,
@@ -354,7 +354,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -440,7 +440,7 @@ let masters = [
             "name": "Thunder Mountain ♢",
             "number": "191",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -453,14 +453,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Roan Godfrey-Robbins',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/blacephalon.png',
-      sprite2: '../../../assets/sprites/naganadel.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Roan Godfrey-Robbins",
+      "flag": "US",
+      "sprite1": "blacephalon",
+      "sprite2": "naganadel",
+       
       event: "2019 Oceania Internationals - Juniors",
       deckid: "blacephalon-naganadel",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -497,7 +497,7 @@ let masters = [
             "name": "Tapu Lele GX",
             "number": "60",
             "set": "GRI"
-          },
+          }
         ],
         "trainer": [
           {
@@ -565,7 +565,7 @@ let masters = [
             "name": "Heat Factory ♢",
             "number": "178",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -584,14 +584,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Benny Billinger',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/zapdos.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Benny Billinger",
+      "flag": "CA",
+      "sprite1": "blank",
+      "sprite2": "zapdos",
+       
       event: "2019 Oceania Internationals - Juniors",
       deckid: "zapdos",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -628,7 +628,7 @@ let masters = [
             "name": "Absol",
             "number": "88",
             "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -726,7 +726,7 @@ let masters = [
             "name": "Thunder Mountain ♢",
             "number": "191",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -739,14 +739,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Pedro Cavalcanti',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/malamar.png',
-      sprite2: '../../../assets/sprites/necrozma-ultra.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Pedro Cavalcanti",
+      "flag": "BR",
+      "sprite1": "malamar",
+      "sprite2": "necrozma-ultra",
+       
       event: "2019 Oceania Internationals - Juniors",
       deckid: "malamar",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -795,7 +795,7 @@ let masters = [
             "name": "Marshadow",
             "number": "45",
             "set": "SLG"
-          },
+          }
         ],
         "trainer": [
           {
@@ -863,7 +863,7 @@ let masters = [
             "name": "Viridian Forest",
             "number": "156",
             "set": "TEU"
-          },
+          }
         ],
         "energy": [
           {
@@ -888,14 +888,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Noah Donen',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Noah Donen",
+      "flag": "CA",
+      "sprite1": "zoroark",
+      "sprite2": "lycanroc-midnight",
+       
       event: "2019 Oceania Internationals - Juniors",
       deckid: "zoroark-lycanroc",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -974,7 +974,7 @@ let masters = [
             "name": "Marshadow",
             "number": "45",
             "set": "SLG"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1078,7 +1078,7 @@ let masters = [
             "name": "Devoured Field",
             "number": "93",
             "set": "CIN"
-          },
+          }
         ],
         "energy": [
           {
@@ -1097,14 +1097,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Taylor Johnson',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/zoroark.png',
-      sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Taylor Johnson",
+      "flag": "US",
+      "sprite1": "zoroark",
+      "sprite2": "lycanroc-midnight",
+       
       event: "2019 Oceania Internationals - Juniors",
       deckid: "zoroark-lycanroc",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1189,7 +1189,7 @@ let masters = [
           "name": "Marshadow",
           "number": "45",
           "set": "SLG"
-        },
+        }
         ],
         "trainer": [
           {
@@ -1305,7 +1305,7 @@ let masters = [
             "name": "Black Market ♢",
             "number": "134",
             "set": "TEU"
-          },
+          }
         ],
         "energy": [
           {

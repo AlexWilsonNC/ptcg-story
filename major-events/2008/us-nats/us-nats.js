@@ -1,12 +1,12 @@
-let masters = [
+"masters": [
   {
-    firstName: 'Gino Lombardi',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    list: '../../../assets/list-icon.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Gino Lombardi",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+     
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 1, "name": "Gardevoir LV.X", "set": "SW", "number": "131" },
         { "count": 3, "name": "Gardevoir", "set": "SW", "number": "7" },
@@ -22,7 +22,7 @@ let masters = [
         { "count": 1, "name": "Shroomish", "set": "SW", "number": "108" },
         { "count": 1, "name": "Jirachi ex", "set": "CG", "number": "94" },
         { "count": 1, "name": "Phione", "set": "MD", "number": "12" },
-        { "count": 1, "name": "Pachirisu", "set": "GE", "number": "5" },
+        { "count": 1, "name": "Pachirisu", "set": "GE", "number": "5" }
       ], "trainer": [
         { "count": 3, "name": "Roseanne's Research", "set": "SW", "number": "125" },
         { "count": 3, "name": "Steven's Advice", "set": "PK", "number": "83" },
@@ -34,44 +34,44 @@ let masters = [
         { "count": 1, "name": "Night Maintenance", "set": "MT", "number": "113" },
         { "count": 1, "name": "Strength Charm", "set": "DF", "number": "81" },
         { "count": 2, "name": "Phoebe's Stadium", "set": "PK", "number": "79" },
-        { "count": 1, "name": "Lake Boundary", "set": "MT", "number": "112" },
+        { "count": 1, "name": "Lake Boundary", "set": "MT", "number": "112" }
       ], "energy": [
         { "count": 5, "name": "Psychic Energy", "set": "DP", "number": "127" },
         { "count": 4, "name": "Double Rainbow Energy", "set": "CG", "number": "88" },
         { "count": 3, "name": "Scramble Energy", "set": "P4", "number": "10" },
-        { "count": 3, "name": "Call Energy", "set": "MD", "number": "92" },
+        { "count": 3, "name": "Call Energy", "set": "MD", "number": "92" }
       ]
-    },
+    }
   },
   {
-    firstName: 'Drew Holton',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Drew Holton",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Colin Moll',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/torterra.png',
-    sprite2: '../../../assets/sprites/sceptile.png',
-    list: '../../../assets/list-icon.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Colin Moll",
+    "flag": "US",
+    "sprite1": "torterra",
+    "sprite2": "sceptile",
+     
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 1, "name": "Torterra LV.X", "set": "DP", "number": "122" },
         { "count": 2, "name": "Torterra", "set": "DP", "number": "17" },
@@ -84,7 +84,7 @@ let masters = [
         { "count": 2, "name": "Treecko", "set": "GE", "number": "90" },
         { "count": 2, "name": "Claydol", "set": "GE", "number": "15" },
         { "count": 2, "name": "Baltoy", "set": "GE", "number": "60" },
-        { "count": 1, "name": "Chatot", "set": "MD", "number": "55" },
+        { "count": 1, "name": "Chatot", "set": "MD", "number": "55" }
       ], "trainer": [
         { "count": 4, "name": "Bebe's Search", "set": "SW", "number": "119" },
         { "count": 3, "name": "Celio's Network", "set": "CG", "number": "73" },
@@ -94,21 +94,21 @@ let masters = [
         { "count": 4, "name": "Super Scoop Up", "set": "DP", "number": "115" },
         { "count": 2, "name": "Warp Point", "set": "MD", "number": "88" },
         { "count": 2, "name": "Night Maintenance", "set": "MT", "number": "113" },
-        { "count": 2, "name": "Crystal Beach", "set": "CG", "number": "75" },
+        { "count": 2, "name": "Crystal Beach", "set": "CG", "number": "75" }
       ], "energy": [
         { "count": 9, "name": "Grass Energy", "set": "DP", "number": "123" },
-        { "count": 4, "name": "Call Energy", "set": "MD", "number": "92" },
+        { "count": 4, "name": "Call Energy", "set": "MD", "number": "92" }
       ]
-    },
+    }
   },
   {
-    firstName: 'Mike Fouchet',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    list: '../../../assets/list-icon.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Mike Fouchet",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+     
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
         {"count": 1, "name": "Gardevoir LV.X", "set": "SW", "number": "131"},
         {"count": 3, "name": "Gardevoir", "set": "SW", "number": "7"},
@@ -140,84 +140,84 @@ let masters = [
         {"count": 1, "name": "Fighting Energy", "set": "DP", "number": "128"},
         {"count": 4, "name": "Call Energy", "set": "MD", "number": "92"},
         {"count": 4, "name": "Double Rainbow Energy", "set": "CG", "number": "88"},
-        {"count": 2, "name": "Scramble Energy", "set": "DF", "number": "89"},
+        {"count": 2, "name": "Scramble Energy", "set": "DF", "number": "89"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Tom Dolezal',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Tom Dolezal",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Alex F',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Alex F",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Frank Diaz',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/empoleon.png',
-    sprite2: '../../../assets/sprites/bronzong.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Frank Diaz",
+    "flag": "US",
+    "sprite1": "empoleon",
+    "sprite2": "bronzong",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Jorel Ker',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/empoleon.png',
-    sprite2: '../../../assets/sprites/bronzong.png',
-    list: '../../../assets/list-icon.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Jorel Ker",
+    "flag": "US",
+    "sprite1": "empoleon",
+    "sprite2": "bronzong",
+     
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 1, "name": "Empoleon LV.X", "set": "DP", "number": "120" },
         { "count": 3, "name": "Empoleon", "set": "MD", "number": "17" },
@@ -231,7 +231,7 @@ let masters = [
         { "count": 1, "name": "Duskull", "set": "DP", "number": "80" },
         { "count": 1, "name": "Absol ex", "set": "PK", "number": "92" },
         { "count": 1, "name": "Phione", "set": "MD", "number": "12" },
-        { "count": 1, "name": "Holon's Castform", "set": "HP", "number": "44" },
+        { "count": 1, "name": "Holon's Castform", "set": "HP", "number": "44" }
       ], "trainer": [
         { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": "125" },
         { "count": 4, "name": "Bebe's Search", "set": "SW", "number": "119" },
@@ -242,114 +242,114 @@ let masters = [
         { "count": 2, "name": "Warp Point", "set": "MD", "number": "88" },
         { "count": 2, "name": "Windstorm", "set": "CG", "number": "85" },
         { "count": 1, "name": "Night Maintenance", "set": "MT", "number": "113" },
-        { "count": 1, "name": "Premier Ball", "set": "GE", "number": "101" },
+        { "count": 1, "name": "Premier Ball", "set": "GE", "number": "101" }
       ], "energy": [
         { "count": 6, "name": "Water Energy", "set": "DP", "number": "125" },
         { "count": 4, "name": "Call Energy", "set": "MD", "number": "92" },
         { "count": 3, "name": "Scramble Energy", "set": "P4", "number": "10" },
-        { "count": 2, "name": "Double Rainbow Energy", "set": "CG", "number": "88" },
+        { "count": 2, "name": "Double Rainbow Energy", "set": "CG", "number": "88" }
       ]
     }
   },
   {
-    firstName: 'Benjamin Sauk',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/empoleon.png',
-    sprite2: '../../../assets/sprites/bronzong.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Benjamin Sauk",
+    "flag": "US",
+    "sprite1": "empoleon",
+    "sprite2": "bronzong",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Eric C',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/leafeon.png',
-    sprite2: '../../../assets/sprites/magmortar.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Eric C",
+    "flag": "US",
+    "sprite1": "leafeon",
+    "sprite2": "magmortar",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Ian Brander',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/absol.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Ian Brander",
+    "flag": "US",
+    "sprite1": "absol",
+    "sprite2": "gallade",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Jason Klaczynski',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Jason Klaczynski",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Jimmy Ballard',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/banette.png',
-    sprite2: '../../../assets/sprites/blissey.png',
-    list: '../../../assets/list-icon.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Jimmy Ballard",
+    "flag": "US",
+    "sprite1": "banette",
+    "sprite2": "blissey",
+     
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 4, "name": "Banette", "set": "SW", "number": "23" },
         { "count": 4, "name": "Shuppet", "set": "CG", "number": "40" },
         { "count": 3, "name": "Blissey", "set": "MT", "number": "5" },
         { "count": 3, "name": "Chansey", "set": "MT", "number": "76" },
         { "count": 1, "name": "Mew ★ δ", "set": "DF", "number": "101" },
-        { "count": 1, "name": "Lunatone", "set": "GE", "number": "76" },
+        { "count": 1, "name": "Lunatone", "set": "GE", "number": "76" }
       ], "trainer": [
         { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": "125" },
         { "count": 4, "name": "TV Reporter", "set": "DF", "number": "82" },
@@ -360,43 +360,43 @@ let masters = [
         { "count": 4, "name": "Warp Point", "set": "MD", "number": "88" },
         { "count": 2, "name": "Night Maintenance", "set": "MT", "number": "113" },
         { "count": 4, "name": "Cessation Crystal", "set": "CG", "number": "74" },
-        { "count": 4, "name": "Crystal Beach", "set": "CG", "number": "75" },
+        { "count": 4, "name": "Crystal Beach", "set": "CG", "number": "75" }
       ], "energy": [
         { "count": 10, "name": "Psychic Energy", "set": "DP", "number": "127" },
         { "count": 2, "name": "Water Energy", "set": "DP", "number": "125" },
-        { "count": 1, "name": "Multi Energy", "set": "MT", "number": "118" },
+        { "count": 1, "name": "Multi Energy", "set": "MT", "number": "118" }
       ]
-    },
+    }
   },
   {
-    firstName: 'John Silvestro',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/empoleon.png',
-    sprite2: '../../../assets/sprites/bronzong.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "John Silvestro",
+    "flag": "US",
+    "sprite1": "empoleon",
+    "sprite2": "bronzong",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Tyson Stephan',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    list: '../../../assets/list-icon.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Tyson Stephan",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+     
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
         { "count": 1, "name": "Gardevoir LV.X", "set": "SW", "number": "131" },
         { "count": 3, "name": "Gardevoir", "set": "SW", "number": "7" },
@@ -409,7 +409,7 @@ let masters = [
         { "count": 1, "name": "Dusknoir", "set": "DP", "number": "2" },
         { "count": 1, "name": "Duskull", "set": "DP", "number": "80" },
         { "count": 1, "name": "Absol ex", "set": "PK", "number": "92" },
-        { "count": 1, "name": "Chatot", "set": "MD", "number": "55" },
+        { "count": 1, "name": "Chatot", "set": "MD", "number": "55" }
       ], "trainer": [
         { "count": 4, "name": "Roseanne's Research", "set": "SW", "number": "125" },
         { "count": 2, "name": "Steven's Advice", "set": "PK", "number": "83" },
@@ -422,367 +422,367 @@ let masters = [
         { "count": 1, "name": "Night Maintenance", "set": "MT", "number": "113" },
         { "count": 1, "name": "Strength Charm", "set": "DF", "number": "81" },
         { "count": 2, "name": "Lake Boundary", "set": "MT", "number": "112" },
-        { "count": 1, "name": "Moonlight Stadium", "set": "GE", "number": "100" },
+        { "count": 1, "name": "Moonlight Stadium", "set": "GE", "number": "100" }
       ], "energy": [
         { "count": 4, "name": "Psychic Energy", "set": "DP", "number": "127" },
         { "count": 4, "name": "Double Rainbow Energy", "set": "CG", "number": "88" },
         { "count": 4, "name": "Call Energy", "set": "MD", "number": "92" },
-        { "count": 3, "name": "Scramble Energy", "set": "P4", "number": "10" },
+        { "count": 3, "name": "Scramble Energy", "set": "P4", "number": "10" }
       ]
-    },
+    }
   },
   {
-    firstName: 'Christian Ortiz',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/empoleon.png',
-    sprite2: '../../../assets/sprites/bronzong.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Christian Ortiz",
+    "flag": "US",
+    "sprite1": "empoleon",
+    "sprite2": "bronzong",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'David C',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blissey.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "David C",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "blissey",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Kyle S',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/leafeon.png',
-    sprite2: '../../../assets/sprites/magmortar.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Kyle S",
+    "flag": "US",
+    "sprite1": "leafeon",
+    "sprite2": "magmortar",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Andrew K',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Andrew K",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Chris F',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/leafeon.png',
-    sprite2: '../../../assets/sprites/magmortar.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Chris F",
+    "flag": "US",
+    "sprite1": "leafeon",
+    "sprite2": "magmortar",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Dylan L',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Dylan L",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "hyphen",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
-    },
+    }
   },
   {
-    firstName: 'Eric C',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/eevee-no-heart.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Eric C",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "eevee-no-heart",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Jason F',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Jason F",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Matthew C',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Matthew C",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Matthew E',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Matthew E",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Nancy L',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Nancy L",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Omar Izaguirre',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/banette.png',
-    sprite2: '../../../assets/sprites/blissey.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Omar Izaguirre",
+    "flag": "US",
+    "sprite1": "banette",
+    "sprite2": "blissey",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Peter O',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Peter O",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Andrew C',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Andrew C",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "../../../assets/hyphen",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Frankie D',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/banette.png',
-    sprite2: '../../../assets/sprites/blissey.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Frankie D",
+    "flag": "US",
+    "sprite1": "banette",
+    "sprite2": "blissey",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Jake S',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Jake S",
+    "flag": "US",
+    "sprite1": "gardevoir",
+    "sprite2": "gallade",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
   {
-    firstName: 'Stephen McGaffney',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/banette.png',
-    sprite2: '../../../assets/sprites/blissey.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    event: '2008 US National Championships',
-    decklist: {
+    "name": "Stephen McGaffney",
+    "flag": "US",
+    "sprite1": "banette",
+    "sprite2": "blissey",
+    // list: '../../../assets/list-icon",
+    list: '../../../assets/sprites/blank",
+    event: '2008 US National Championships",
+    "decklist": {
       "pokemon": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "trainer": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ], "energy": [
-        {"count": 0, "name": "example", "set": "aa", "number": "00"},
+        {"count": 0, "name": "example", "set": "aa", "number": "00"}
       ]
     },
     deck: [
-      {cardImg:'../../assets/cards/2008-2010',numImg:'../../assets/04.png'},
+      {cardImg:'../../assets/cards/2008-2010",numImg:'../../assets/04.png'},
     ]
   },
 ]

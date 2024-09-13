@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Lucas Oldale',
-      flag: '../../../assets/flags/canada.png',
-      sprite1: '../../../assets/sprites/adp.png',
-      sprite2: '../../../assets/sprites/zacian-crowned.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Lucas Oldale",
+      "flag": "CA",
+      "sprite1": "adp",
+      "sprite2": "zacian-crowned",
+       
       deckid: "adp",
       event: "2020 Oceania Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -50,7 +50,7 @@ let masters = [
               "name": "Phione",
               "number": "57",
               "set": "CEC"
-          },
+          }
         ],
         "trainer": [
           {
@@ -130,7 +130,7 @@ let masters = [
               "name": "Shrine of Punishment",
               "number": "143",
               "set": "CES"
-          },
+          }
         ],
         "energy": [
           {
@@ -149,14 +149,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Pedro Cavalcanti',
-      flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
-      sprite2: '../../../assets/sprites/malamar.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Pedro Cavalcanti",
+      "flag": "BR",
+      "sprite1": "mewtwo-mew-tagteam",
+      "sprite2": "malamar",
+       
       deckid: "malamar-mewtwo-and-mew-tagteam",
       event: "2020 Oceania Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -241,7 +241,7 @@ let masters = [
               "name": "Giratina",
               "number": "97",
               "set": "LOT"
-          },
+          }
         ],
         "trainer": [
           {
@@ -315,7 +315,7 @@ let masters = [
               "name": "Viridian Forest",
               "number": "156",
               "set": "TEU"
-          },
+          }
         ],
         "energy": [
           {
@@ -334,14 +334,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Connor Chabie',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/adp.png',
-      sprite2: '../../../assets/sprites/zacian-crowned.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Connor Chabie",
+      "flag": "US",
+      "sprite1": "adp",
+      "sprite2": "zacian-crowned",
+       
       deckid: "adp",
       event: "2020 Oceania Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -390,7 +390,7 @@ let masters = [
               "name": "Phione",
               "number": "57",
               "set": "CEC"
-          },
+          }
         ],
         "trainer": [
           {
@@ -464,7 +464,7 @@ let masters = [
               "name": "Viridian Forest",
               "number": "156",
               "set": "TEU"
-          },
+          }
         ],
         "energy": [
           {
@@ -483,14 +483,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Carson Washer',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/cinccino.png',
-      sprite2: '../../../assets/sprites/oranguru.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Carson Washer",
+      "flag": "US",
+      "sprite1": "cinccino",
+      "sprite2": "oranguru",
+       
       deckid: "oranguru-mill",
       event: "2020 Oceania Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -551,7 +551,7 @@ let masters = [
               "name": "Wobbuffet",
               "number": "93",
               "set": "LOT"
-          },
+          }
         ],
         "trainer": [
           {
@@ -637,7 +637,7 @@ let masters = [
               "name": "Air Balloon",
               "number": "156",
               "set": "SSH"
-          },
+          }
         ],
         "energy": [
           {
@@ -656,14 +656,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Alvin Lim',
-      flag: '../../../assets/flags/singapore.png',
-      sprite1: '../../../assets/sprites/adp.png',
-      sprite2: '../../../assets/sprites/zacian-crowned.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Alvin Lim",
+      "flag": "SG",
+      "sprite1": "adp",
+      "sprite2": "zacian-crowned",
+       
       deckid: "adp",
       event: "2020 Oceania Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -712,7 +712,7 @@ let masters = [
               "name": "Phione",
               "number": "57",
               "set": "CEC"
-          },
+          }
         ],
         "trainer": [
           {
@@ -792,7 +792,7 @@ let masters = [
               "name": "Lysandre Labs",
               "number": "111",
               "set": "FLI"
-          },
+          }
         ],
         "energy": [
           {
@@ -817,14 +817,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Mia Sun',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/adp.png',
-      sprite2: '../../../assets/sprites/zacian-crowned.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Mia Sun",
+      "flag": "US",
+      "sprite1": "adp",
+      "sprite2": "zacian-crowned",
+       
       deckid: "adp",
       event: "2020 Oceania Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 2,
@@ -867,7 +867,7 @@ let masters = [
               "name": "Phione",
               "number": "57",
               "set": "CEC"
-          },
+          }
         ],
         "trainer": [
           {
@@ -965,7 +965,7 @@ let masters = [
               "name": "Shrine of Punishment",
               "number": "143",
               "set": "CES"
-          },
+          }
         ],
         "energy": [
           {
@@ -984,14 +984,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Li Bartels',
-      flag: '../../../assets/flags/germany.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/blacephalon.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Li Bartels",
+      "flag": "DE",
+      "sprite1": "blank",
+      "sprite2": "blacephalon",
+       
       deckid: "baby-blowns",
       event: "2020 Oceania Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1034,7 +1034,7 @@ let masters = [
               "name": "Mew",
               "number": "76",
               "set": "UNB"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1126,7 +1126,7 @@ let masters = [
             "name": "Heat Factory ♢",
             "number": "178",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {
@@ -1139,14 +1139,14 @@ let masters = [
       }
     },
     {
-      firstName: 'Elijah Maclean',
-      flag: '../../../assets/flags/uk.png',
-      sprite1: '../../../assets/sprites/blank.png',
-      sprite2: '../../../assets/sprites/blacephalon.png',
-      list: '../../../assets/list-icon.png',
+      "name": "Elijah Maclean",
+      "flag": "UK",
+      "sprite1": "blank",
+      "sprite2": "blacephalon",
+       
       deckid: "baby-blowns",
       event: "2020 Oceania Internationals - Juniors",
-      decklist: {
+      "decklist": {
         "pokemon": [
           {
             "count": 4,
@@ -1177,7 +1177,7 @@ let masters = [
               "name": "Absol",
               "number": "88",
               "set": "TEU"
-          },
+          }
         ],
         "trainer": [
           {
@@ -1269,7 +1269,7 @@ let masters = [
             "name": "Heat Factory ♢",
             "number": "178",
             "set": "LOT"
-          },
+          }
         ],
         "energy": [
           {

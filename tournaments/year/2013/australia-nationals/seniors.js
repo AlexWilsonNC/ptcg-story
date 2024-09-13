@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Kaiwen Cabbabe",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Kaiwen Cabbabe",
+        "flag": "AU",
         "event": "2013 Australia National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/thundurus-therian.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "thundurus-therian",
+        "sprite2": "deoxys",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -20,14 +18,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jordan Palmer",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "Jordan Palmer",
+        "flag": "AU",
         "event": "2013 Australia National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/thundurus-therian.png',
-        sprite2: '../../../../assets/sprites/deoxys.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "thundurus-therian",
+        "sprite2": "deoxys",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -40,14 +36,12 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "--",
+        "flag": "AU",
         "event": "2013 Australia National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],
@@ -60,14 +54,12 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/australia.png',
+        "name": "--",
+        "flag": "AU",
         "event": "2013 Australia National Championships - Seniors",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
             ],

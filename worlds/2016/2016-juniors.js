@@ -1,13 +1,13 @@
-let masters = [
+"masters": [
   {
-    firstName: 'Shunto Sadahiro',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/darkrai.png',
-    sprite2: '../../assets/sprites/giratina-origin.png',
-    list: '../../assets/list-icon.png',
-    type: 'dark',
-    event: '2016 World Championships - Juniors',
-    decklist: {
+    "name": "Shunto Sadahiro",
+    "flag": "JP",
+    "sprite1": "darkrai",
+    "sprite2": "giratina-origin",
+     
+    type: 'dark",
+    event: '2016 World Championships - Juniors",
+    "decklist": {
       "pokemon": [
         { "count": 2, "name": "Darkrai-EX", "set": "BKP", "number": "74" },
         { "count": 2, "name": "Giratina-EX", "set": "AOR", "number": "57" },
@@ -15,7 +15,7 @@ let masters = [
         { "count": 1, "name": "Hoopa-EX", "set": "AOR", "number": "36" },
         { "count": 2, "name": "Yveltal", "set": "XY", "number": "78" },
         { "count": 2, "name": "Garbodor", "set": "BKP", "number": "57" },
-        { "count": 2, "name": "Trubbish", "set": "BKP", "number": "56" },
+        { "count": 2, "name": "Trubbish", "set": "BKP", "number": "56" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 2, "name": "N", "set": "FCO", "number": "105" },
@@ -31,27 +31,27 @@ let masters = [
         { "count": 3, "name": "Fighting Fury Belt", "set": "BKP", "number": "99" },
         { "count": 3, "name": "Float Stone", "set": "BKT", "number": "137" },
         { "count": 1, "name": "Parallel City", "set": "BKT", "number": "145" },
-        { "count": 1, "name": "Reverse Valley", "set": "BKP", "number": "110" },
+        { "count": 1, "name": "Reverse Valley", "set": "BKP", "number": "110" }
       ], "energy": [
         { "count": 10, "name": "Darkness Energy", "set": "XY", "number": "138" },
-        { "count": 3, "name": "Double Dragon Energy", "set": "ROS", "number": "97" },
+        { "count": 3, "name": "Double Dragon Energy", "set": "ROS", "number": "97" }
       ]
-    },
+    }
   },
   {
-    firstName: 'Riku Ushirosaka',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/trevenant.png',
-    list: '../../assets/list-icon.png',
-    type: 'psychic',
-    event: '2016 World Championships - Juniors',
-    decklist: {
+    "name": "Riku Ushirosaka",
+    "flag": "JP",
+    "sprite1": "blank",
+    "sprite2": "trevenant",
+     
+    type: 'psychic",
+    event: '2016 World Championships - Juniors",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Trevenant BREAK", "set": "BKP", "number": "66" },
         { "count": 4, "name": "Trevenant", "set": "XY", "number": "55" },
         { "count": 4, "name": "Phantump", "set": "BKP", "number": "64" },
-        { "count": 3, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
+        { "count": 3, "name": "Shaymin-EX", "set": "ROS", "number": "77" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 4, "name": "Wally", "set": "ROS", "number": "94" },
@@ -66,26 +66,26 @@ let masters = [
         { "count": 3, "name": "Red Card", "set": "XY", "number": "124" },
         { "count": 1, "name": "Super Rod", "set": "BKT", "number": "149" },
         { "count": 2, "name": "Head Ringer Team Flare Hyper Gear", "set": "PHF", "number": "97" },
-        { "count": 4, "name": "Dimension Valley", "set": "PHF", "number": "93" },
+        { "count": 4, "name": "Dimension Valley", "set": "PHF", "number": "93" }
       ], "energy": [
-        { "count": 7, "name": "Psychic Energy", "set": "XY", "number": "136" },
+        { "count": 7, "name": "Psychic Energy", "set": "XY", "number": "136" }
       ]
-    },
+    }
   },
   {
-    firstName: 'Roan Godfrey-Robbins',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/sprites/trevenant.png',
-    list: '../../assets/list-icon.png',
-    type: 'psychic',
-    event: '2016 World Championships - Juniors',
-    decklist: {
+    "name": "Roan Godfrey-Robbins",
+    "flag": "US",
+    "sprite1": "blank",
+    "sprite2": "trevenant",
+     
+    type: 'psychic",
+    event: '2016 World Championships - Juniors",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Trevenant BREAK", "set": "BKP", "number": "66" },
         { "count": 4, "name": "Trevenant", "set": "XY", "number": "55" },
         { "count": 4, "name": "Phantump", "set": "BKP", "number": "64" },
-        { "count": 2, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
+        { "count": 2, "name": "Shaymin-EX", "set": "ROS", "number": "77" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 4, "name": "Wally", "set": "ROS", "number": "94" },
@@ -102,28 +102,28 @@ let masters = [
         { "count": 4, "name": "Bursting Balloon", "set": "BKP", "number": "97" },
         { "count": 2, "name": "Head Ringer Team Flare Hyper Gear", "set": "PHF", "number": "97" },
         { "count": 3, "name": "Dimension Valley", "set": "PHF", "number": "93" },
-        { "count": 1, "name": "Silent Lab", "set": "PRC", "number": "140" },
+        { "count": 1, "name": "Silent Lab", "set": "PRC", "number": "140" }
       ], "energy": [
-        { "count": 7, "name": "Psychic Energy", "set": "XY", "number": "136" },
+        { "count": 7, "name": "Psychic Energy", "set": "XY", "number": "136" }
       ]
-    },
+    }
   },
   {
-    firstName: 'Yuta Ozawa',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/darkrai.png',
-    sprite2: '../../assets/sprites/giratina-origin.png',
-    list: '../../assets/list-icon.png',
-    type: 'dark',
-    event: '2016 World Championships - Juniors',
-    decklist: {
+    "name": "Yuta Ozawa",
+    "flag": "JP",
+    "sprite1": "darkrai",
+    "sprite2": "giratina-origin",
+     
+    type: 'dark",
+    event: '2016 World Championships - Juniors",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Darkrai-EX", "set": "BKP", "number": "74" },
         { "count": 2, "name": "Giratina-EX", "set": "AOR", "number": "57" },
         { "count": 2, "name": "Hydreigon-EX", "set": "ROS", "number": "62" },
         { "count": 2, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
         { "count": 1, "name": "Hoopa-EX", "set": "AOR", "number": "36" },
-        { "count": 1, "name": "Yveltal", "set": "XY", "number": "78" },
+        { "count": 1, "name": "Yveltal", "set": "XY", "number": "78" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 3, "name": "N", "set": "FCO", "number": "105" },
@@ -138,29 +138,29 @@ let masters = [
         { "count": 1, "name": "Startling Megaphone", "set": "FLF", "number": "97" },
         { "count": 3, "name": "Fighting Fury Belt", "set": "BKP", "number": "99" },
         { "count": 2, "name": "Float Stone", "set": "BKT", "number": "137" },
-        { "count": 2, "name": "Parallel City", "set": "BKT", "number": "145" },
+        { "count": 2, "name": "Parallel City", "set": "BKT", "number": "145" }
       ], "energy": [
         { "count": 9, "name": "Darkness Energy", "set": "XY", "number": "138" },
-        { "count": 4, "name": "Double Dragon Energy", "set": "ROS", "number": "97" },
+        { "count": 4, "name": "Double Dragon Energy", "set": "ROS", "number": "97" }
       ]
-    },
+    }
   },
   {
-    firstName: 'Kai Abe',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/darkrai.png',
-    sprite2: '../../assets/sprites/giratina-origin.png',
-    list: '../../assets/list-icon.png',
-    type: 'dark',
-    event: '2016 World Championships - Juniors',
-    decklist: {
+    "name": "Kai Abe",
+    "flag": "JP",
+    "sprite1": "darkrai",
+    "sprite2": "giratina-origin",
+     
+    type: 'dark",
+    event: '2016 World Championships - Juniors",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Darkrai-EX", "set": "BKP", "number": "74" },
         { "count": 2, "name": "Giratina-EX", "set": "AOR", "number": "57" },
         { "count": 2, "name": "Hydreigon-EX", "set": "ROS", "number": "62" },
         { "count": 2, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
         { "count": 1, "name": "Hoopa-EX", "set": "AOR", "number": "36" },
-        { "count": 1, "name": "Yveltal", "set": "XY", "number": "78" },
+        { "count": 1, "name": "Yveltal", "set": "XY", "number": "78" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 4, "name": "N", "set": "FCO", "number": "105" },
@@ -174,22 +174,22 @@ let masters = [
         { "count": 4, "name": "Trainers' Mail", "set": "ROS", "number": "92" },
         { "count": 3, "name": "Fighting Fury Belt", "set": "BKP", "number": "99" },
         { "count": 2, "name": "Float Stone", "set": "BKT", "number": "137" },
-        { "count": 2, "name": "Parallel City", "set": "BKT", "number": "145" },
+        { "count": 2, "name": "Parallel City", "set": "BKT", "number": "145" }
       ], "energy": [
         { "count": 9, "name": "Darkness Energy", "set": "XY", "number": "138" },
-        { "count": 4, "name": "Double Dragon Energy", "set": "ROS", "number": "97" },
+        { "count": 4, "name": "Double Dragon Energy", "set": "ROS", "number": "97" }
       ]
-    },
+    }
   },
   {
-    firstName: 'Enrico Marini',
-    flag: '../../assets/flags/italy.png',
-    sprite1: '../../assets/sprites/bronzong.png',
-    sprite2: '../../assets/sprites/aegislash.png',
-    list: '../../assets/list-icon.png',
-    type: 'metal',
-    event: '2016 World Championships - Juniors',
-    decklist: {
+    "name": "Enrico Marini",
+    "flag": "IT",
+    "sprite1": "bronzong",
+    "sprite2": "aegislash",
+     
+    type: 'metal",
+    event: '2016 World Championships - Juniors",
+    "decklist": {
       "pokemon": [
         { "count": 1, "name": "Bronzong BREAK", "set": "FCO", "number": "62" },
         { "count": 3, "name": "Bronzong", "set": "PHF", "number": "61" },
@@ -197,7 +197,7 @@ let masters = [
         { "count": 4, "name": "Bronzor", "set": "PHF", "number": "60" },
         { "count": 3, "name": "Genesect-EX", "set": "FCO", "number": "64" },
         { "count": 3, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
-        { "count": 2, "name": "Aegislash-EX", "set": "PHF", "number": "65" },
+        { "count": 2, "name": "Aegislash-EX", "set": "PHF", "number": "65" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 2, "name": "N", "set": "FCO", "number": "105" },
@@ -212,28 +212,28 @@ let masters = [
         { "count": 3, "name": "Float Stone", "set": "BKT", "number": "137" },
         { "count": 2, "name": "Fighting Fury Belt", "set": "BKP", "number": "99" },
         { "count": 1, "name": "Assault Vest", "set": "BKT", "number": "133" },
-        { "count": 2, "name": "Sky Field", "set": "ROS", "number": "89" },
+        { "count": 2, "name": "Sky Field", "set": "ROS", "number": "89" }
       ], "energy": [
-        { "count": 11, "name": "Metal Energy", "set": "XY", "number": "139" },
+        { "count": 11, "name": "Metal Energy", "set": "XY", "number": "139" }
       ]
-    },
+    }
   },
   {
-    firstName: 'Asaki Hasegawa',
-    flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/darkrai.png',
-    sprite2: '../../assets/sprites/giratina-origin.png',
-    list: '../../assets/list-icon.png',
-    type: 'dark',
-    event: '2016 World Championships - Juniors',
-    decklist: {
+    "name": "Asaki Hasegawa",
+    "flag": "JP",
+    "sprite1": "darkrai",
+    "sprite2": "giratina-origin",
+     
+    type: 'dark",
+    event: '2016 World Championships - Juniors",
+    "decklist": {
       "pokemon": [
         { "count": 3, "name": "Darkrai-EX", "set": "BKP", "number": "74" },
         { "count": 2, "name": "Giratina-EX", "set": "AOR", "number": "57" },
         { "count": 2, "name": "Hydreigon-EX", "set": "ROS", "number": "62" },
         { "count": 2, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
         { "count": 1, "name": "Hoopa-EX", "set": "AOR", "number": "36" },
-        { "count": 1, "name": "Yveltal", "set": "XY", "number": "78" },
+        { "count": 1, "name": "Yveltal", "set": "XY", "number": "78" }
       ], "trainer": [
         { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 3, "name": "N", "set": "FCO", "number": "105" },
@@ -247,27 +247,27 @@ let masters = [
         { "count": 4, "name": "Trainers' Mail", "set": "ROS", "number": "92" },
         { "count": 3, "name": "Fighting Fury Belt", "set": "BKP", "number": "99" },
         { "count": 2, "name": "Float Stone", "set": "BKT", "number": "137" },
-        { "count": 2, "name": "Parallel City", "set": "BKT", "number": "145" },
+        { "count": 2, "name": "Parallel City", "set": "BKT", "number": "145" }
       ], "energy": [
         { "count": 10, "name": "Darkness Energy", "set": "XY", "number": "138" },
         { "count": 4, "name": "Double Dragon Energy", "set": "ROS", "number": "97" },      ]
-    },
+    }
   },
   {
-    firstName: 'Christian Moreno',
-    flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/joltik.png',
-    sprite2: '../../assets/sprites/pumpkaboo.png',
-    list: '../../assets/list-icon.png',
-    type: 'psychic',
-    event: '2016 World Championships - Juniors',
-    decklist: {
+    "name": "Christian Moreno",
+    "flag": "US",
+    "sprite1": "joltik",
+    "sprite2": "pumpkaboo",
+     
+    type: 'psychic",
+    event: '2016 World Championships - Juniors",
+    "decklist": {
       "pokemon": [
         { "count": 4, "name": "Joltik", "set": "PHF", "number": "26" },
         { "count": 4, "name": "Pumpkaboo", "set": "PHF", "number": "44" },
         { "count": 4, "name": "Lampent", "set": "PHF", "number": "42" },
         { "count": 1, "name": "Mew", "set": "FCO", "number": "29" },
-        { "count": 3, "name": "Shaymin-EX", "set": "ROS", "number": "77" },
+        { "count": 3, "name": "Shaymin-EX", "set": "ROS", "number": "77" }
       ], "trainer": [
         { "count": 2, "name": "Professor Sycamore", "set": "XY", "number": "122" },
         { "count": 2, "name": "Lysandre", "set": "FLF", "number": "90" },
@@ -289,9 +289,9 @@ let masters = [
         { "count": 1, "name": "Pokémon Catcher", "set": "KSS", "number": "36" },
         { "count": 2, "name": "Fighting Fury Belt", "set": "BKP", "number": "99" },
         { "count": 1, "name": "Float Stone", "set": "BKT", "number": "137" },
-        { "count": 3, "name": "Dimension Valley", "set": "PHF", "number": "93" },
+        { "count": 3, "name": "Dimension Valley", "set": "PHF", "number": "93" }
       ], "energy": [
-        { "count": 4, "name": "Double Colorless Energy", "set": "FCO", "number": "114" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "FCO", "number": "114" }
       ]
     },
   }

@@ -38,6 +38,6 @@ function changeToJuniors() {
     juniorsList.style.display = 'block';
 }
 
-mastersBtn.addEventListener('click', changeToMasters)
-seniorsBtn.addEventListener('click', changeToSeniors)
-juniorsBtn.addEventListener('click', changeToJuniors)
+mastersBtn.addEventListener('click", changeToMasters)
+seniorsBtn.addEventListener('click", changeToSeniors)
+juniorsBtn.addEventListener('click", changeToJuniors)

@@ -1,7 +1,7 @@
-let masters = [
+"masters": [
     {
         "name": "Harry Shallcrass",
-        "flag": 'NZ',
+        "flag": "NZ",
         "event": "2024 Brisbane Regionals",
         "placing": 1,
         "decklist": {
@@ -40,7 +40,7 @@ let masters = [
     },
     {
         "name": "Haru Nishikawa",
-        "flag": 'JP',
+        "flag": "JP",
         "event": "2024 Brisbane Regionals",
         "placing": 2,
         "decklist": {
@@ -84,7 +84,7 @@ let masters = [
     },
     {
         "name": "Hayden Matthews",
-        "flag": 'AU',
+        "flag": "AU",
         "event": "2024 Brisbane Regionals",
         "placing": 3,
         "decklist": {
@@ -121,7 +121,7 @@ let masters = [
     },
     {
         "name": "Joshua Sparks",
-        "flag": 'AU',
+        "flag": "AU",
         "event": "2024 Brisbane Regionals",
         "placing": 4, 
         "decklist": {
@@ -163,7 +163,7 @@ let masters = [
     },
     {
         "name": "Calvin Connor",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Brisbane Regionals",
         "placing": 5,
         "decklist": {
@@ -205,7 +205,7 @@ let masters = [
     },
     {
         "name": "Samantha Turner",
-        "flag": 'AU',
+        "flag": "AU",
         "event": "2024 Brisbane Regionals",
         "placing": 6,
         "decklist": {
@@ -249,7 +249,7 @@ let masters = [
     },
     {
         "name": "James Williams",
-        "flag": 'AU',
+        "flag": "AU",
         "event": "2024 Brisbane Regionals",
         "placing": 7,
         "decklist": {
@@ -293,7 +293,7 @@ let masters = [
     },
     {
         "name": "Gabriel Smart",
-        "flag": 'US',
+        "flag": "US",
         "event": "2024 Brisbane Regionals",
         "placing": 8,
         "decklist": {
@@ -342,7 +342,7 @@ let masters = [
     },
     {
         "name": "Kaiwen Cabbabe",
-        "flag": 'AU',
+        "flag": "AU",
         "event": "2024 Brisbane Regionals",
         "placing": 10,
         "decklist": {
@@ -383,7 +383,7 @@ let masters = [
     },
     {
         "name": "Yu Xiang",
-        "flag": 'NZ',
+        "flag": "NZ",
         "event": "2024 Brisbane Regionals",
         "placing": 12,
         "decklist": {
@@ -419,7 +419,7 @@ let masters = [
     },
     {
         "name": "Joel Suryadi",
-        "flag": 'AU',
+        "flag": "AU",
         "event": "2024 Brisbane Regionals",
         "placing": 13,
         "decklist": {
@@ -455,7 +455,7 @@ let masters = [
     },
     {
         "name": "Callum Walker",
-        "flag": 'AU',
+        "flag": "AU",
         "event": "2024 Brisbane Regionals",
         "placing": 14,
         "decklist": {
@@ -493,7 +493,7 @@ let masters = [
     },
     {
         "name": "Tim Franklin",
-        "flag": 'AU',
+        "flag": "AU",
         "event": "2024 Brisbane Regionals",
         "placing": 15,
         "decklist": {
@@ -724,7 +724,7 @@ let masters = [
     }
 ]
 
-let seniors =
+"seniors":
     [{
         "name": "Hikaru H.",
         "event": "2024 Brisbane Regionals",
@@ -782,7 +782,7 @@ let seniors =
         "decklist": { "pokemon": [{ "count": 4, "name": "Ralts", "number": "60", "set": "ASR" }, { "count": 1, "name": "Kirlia", "number": "60", "set": "CRE" }, { "count": 3, "name": "Kirlia", "number": "68", "set": "SIT" }, { "count": 2, "name": "Gardevoir", "number": "61", "set": "CRE" }, { "count": 2, "name": "Gardevoir ex", "number": "86", "set": "SVI" }, { "count": 1, "name": "Cresselia", "number": "74", "set": "LOR" }, { "count": 1, "name": "Scream Tail", "number": "86", "set": "PAR" }, { "count": 1, "name": "Mew", "number": "11", "set": "CEL" }, { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" }, { "count": 1, "name": "Zacian V", "number": "16", "set": "CEL" }], "trainer": [{ "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" }, { "count": 4, "name": "Level Ball", "number": "129", "set": "BST" }, { "count": 3, "name": "Ultra Ball", "number": "150", "set": "BRS" }, { "count": 2, "name": "Fog Crystal", "number": "140", "set": "CRE" }, { "count": 2, "name": "Rare Candy", "number": "142", "set": "CES" }, { "count": 2, "name": "Counter Catcher", "number": "160", "set": "PAR" }, { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" }, { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" }, { "count": 4, "name": "Iono", "number": "185", "set": "PAL" }, { "count": 2, "name": "Avery", "number": "130", "set": "CRE" }, { "count": 1, "name": "Boss's Orders", "number": "132", "set": "BRS" }, { "count": 1, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" }, { "count": 2, "name": "Artazon", "number": "229", "set": "OBF" }, { "count": 1, "name": "Worker", "number": "167", "set": "SIT" }], "energy": [{ "count": 10, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" }, { "count": 2, "name": "Reversal Energy - Special", "number": "192", "set": "PAL" }] }
     }]
 
-let juniors =
+"juniors":
     [{
         "name": "Drake Z.",
         "event": "2024 Brisbane Regionals",

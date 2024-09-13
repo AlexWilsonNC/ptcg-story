@@ -1,12 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Pablo Meza",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Pablo Meza",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/greninja.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "greninja",
+"decklist": {
             "pokemon": [
                 {"count": 2, "name": "Greninja BREAK", "set": "BKP", "number": "41"},
                 {"count": 3, "name": "Greninja", "set": "BKP", "number": "40"},
@@ -39,14 +38,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Bernarndo Ortega",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Bernarndo Ortega",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/darkrai.png',
-        sprite2: '../../../../assets/sprites/giratina-origin.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "darkrai",
+        "sprite2": "giratina-origin",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -57,14 +54,12 @@ let masters = [
         }
     },
     {
-        "firstName": "German Fabregat Cervantes",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "German Fabregat Cervantes",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/joltik.png',
-        sprite2: '../../../../assets/sprites/pumpkaboo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "joltik",
+        "sprite2": "pumpkaboo",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -75,14 +70,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Manuel M",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Manuel M",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/vespiquen.png',
-        sprite2: '../../../../assets/sprites/vileplume.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "vespiquen",
+        "sprite2": "vileplume",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -93,14 +86,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Manuel Valencia",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Manuel Valencia",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/joltik.png',
-        sprite2: '../../../../assets/sprites/pumpkaboo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "joltik",
+        "sprite2": "pumpkaboo",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -111,14 +102,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Guillermo Terreros",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Guillermo Terreros",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/yveltal.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "yveltal",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -129,14 +118,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Uriel Gonzalez",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Uriel Gonzalez",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/manectric-mega.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "manectric-mega",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -147,14 +134,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jose Juarez",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Jose Juarez",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/trevenant.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "trevenant",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -165,14 +150,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Juan Rodriguez",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Juan Rodriguez",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -183,14 +166,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Carlos Saenz",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Carlos Saenz",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/trevenant.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "trevenant",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -201,14 +182,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jorge Cabrera Aguilar",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Jorge Cabrera Aguilar",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -219,14 +198,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Salvador Hernandez",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Salvador Hernandez",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -237,14 +214,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jose Lagunes Maitret",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Jose Lagunes Maitret",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -255,14 +230,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Miguel Lopez Bernal",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Miguel Lopez Bernal",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/joltik.png',
-        sprite2: '../../../../assets/sprites/pumpkaboo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "joltik",
+        "sprite2": "pumpkaboo",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -273,14 +246,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jose Alberto Peñafort",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Jose Alberto Peñafort",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "hyphen",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -291,14 +262,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Juan Espinola Ortega",
-        flag: '../../../../assets/flags/mexico.png',
+        "name": "Juan Espinola Ortega",
+        "flag": "MX",
         "event": "2016 Mexico National Championships",
-        sprite1: '../../../../assets/sprites/joltik.png',
-        sprite2: '../../../../assets/sprites/pumpkaboo.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "joltik",
+        "sprite2": "pumpkaboo",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [

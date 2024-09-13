@@ -1,11 +1,11 @@
-let masters = [
+"masters": [
   {
-    "firstName": 'Takashi Yoneda',
-    flag: '../../../../assets/flags/japan.png',
+    ""name"": 'Takashi Yoneda",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/bunnelby.png',
-    sprite2: '../../../../assets/sprites/vileplume.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "bunnelby.png",
+    "sprite2": "../../../../assets/sprites/vileplume",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         { "count": 4, "name": "Bunnelby", "set": "PRC", "number": "121" },
@@ -22,7 +22,7 @@ let masters = [
         { "count": 1, "name": "Girafarig", "set": "LOT", "number": "94" },
         { "count": 1, "name": "Jirachi", "set": "PR-XY", "number": "67" },
         { "count": 1, "name": "Firefighter Pikachu", "set": "FR", "number": "25" },
-        { "count": 1, "name": "Manaphy", "set": "BRS", "number": "41" },
+        { "count": 1, "name": "Manaphy", "set": "BRS", "number": "41" }
       ],
       "trainer": [
         { "count": 4, "name": "Guzma & Hala", "set": "CEC", "number": "193" },
@@ -39,24 +39,24 @@ let masters = [
         { "count": 2, "name": "Technical Machine: Evolution", "set": "PAR", "number": "178" },
         { "count": 2, "name": "Stealthy Hood", "set": "UNB", "number": "186" },
         { "count": 1, "name": "Float Stone", "set": "PLF", "number": "99" },
-        { "count": 2, "name": "Artazon", "set": "PAF", "number": "76" },
+        { "count": 2, "name": "Artazon", "set": "PAF", "number": "76" }
       ],
       "energy": [
         { "count": 2, "name": "Grass Energy", "set": "BLW", "number": "105" },
         { "count": 2, "name": "Capture Energy", "set": "RCL", "number": "171" },
         { "count": 2, "name": "Jet Energy", "set": "PAL", "number": "190" },
         { "count": 1, "name": "Gift Energy", "set": "LOR", "number": "171" },
-        { "count": 1, "name": "Neo Upper Energy", "set": "TEF", "number": "162" },
+        { "count": 1, "name": "Neo Upper Energy", "set": "TEF", "number": "162" }
       ]
     }
   },
   {
-    "firstName": "Ryota Ishiyama",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Ryota Ishiyama",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/raichu-alola.png',
-    sprite2: '../../../../assets/sprites/electrode.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "raichu-alola.png",
+    "sprite2": "../../../../assets/sprites/electrode",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         { "count": 2, "name": "Alolan Raichu", "set": "UNM", "number": "57" },
@@ -70,7 +70,7 @@ let masters = [
         { "count": 1, "name": "Gengar & Mimikyu-GX", "set": "TEU", "number": "53" },
         { "count": 1, "name": "Ditto ◇", "set": "LOT", "number": "154" },
         { "count": 1, "name": "Klefki", "set": "SVI", "number": "96" },
-        { "count": 1, "name": "Whismur", "set": "CES", "number": "116" },
+        { "count": 1, "name": "Whismur", "set": "CES", "number": "116" }
       ],
       "trainer": [
         { "count": 3, "name": "Professor Juniper", "set": "BLW", "number": "101" },
@@ -84,7 +84,7 @@ let masters = [
         { "count": 2, "name": "Escape Board", "set": "UPR", "number": "122" },
         { "count": 1, "name": "Telescopic Sight", "set": "VIV", "number": "160" },
         { "count": 1, "name": "Forest Seal Stone", "set": "SIT", "number": "156" },
-        { "count": 3, "name": "Sky Field", "set": "ROS", "number": "89" },
+        { "count": 3, "name": "Sky Field", "set": "ROS", "number": "89" }
       ],
       "energy": [
         { "count": 4, "name": "Reversal Energy", "set": "PAL", "number": "192" },
@@ -93,12 +93,12 @@ let masters = [
     }
   },
   {
-    "firstName": "Taketo Seki",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Taketo Seki",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/iron-thorns.png',
-    sprite2: '../../../../assets/sprites/vikavolt.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "iron-thorns.png",
+    "sprite2": "../../../../assets/sprites/vikavolt",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         { "count": 4, "name": "Iron Thorns ex", "number": "26", "set": "FR" },
@@ -106,7 +106,7 @@ let masters = [
         { "count": 2, "name": "Garbodor", "set": "BKP", "number": "57" },
         { "count": 2, "name": "Trubbish", "set": "NVI", "number": "48" },
         { "count": 1, "name": "Luxray V", "set": "ASR", "number": "50" },
-        { "count": 1, "name": "Lucario & Melmetal-GX", "set": "UNB", "number": "120" },
+        { "count": 1, "name": "Lucario & Melmetal-GX", "set": "UNB", "number": "120" }
       ],
       "trainer": [
         { "count": 4, "name": "Guzma & Hala", "set": "CEC", "number": "193" },
@@ -126,22 +126,22 @@ let masters = [
         { "count": 1, "name": "Technical Machine: Evolution", "set": "PAR", "number": "178" },
         { "count": 2, "name": "Tropical Beach", "set": "PR-BLW", "number": "28" },
         { "count": 2, "name": "Stormy Mountains", "set": "EVS", "number": "161" },
-        { "count": 1, "name": "Thunder Mountain ◇", "set": "LOT", "number": "191" },
+        { "count": 1, "name": "Thunder Mountain ◇", "set": "LOT", "number": "191" }
       ],
       "energy": [
         { "count": 4, "name": "Speed Lightning Energy", "set": "RCL", "number": "173" },
         { "count": 3, "name": "Double Colorless Energy", "set": "NXD", "number": "92" },
-        { "count": 3, "name": "Capture Energy", "set": "RCL", "number": "171" },
+        { "count": 3, "name": "Capture Energy", "set": "RCL", "number": "171" }
       ]
     }
   },
   {
-    "firstName": "Reika Yoneda",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Reika Yoneda",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/bunnelby.png',
-    sprite2: '../../../../assets/sprites/vileplume.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "bunnelby.png",
+    "sprite2": "../../../../assets/sprites/vileplume",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         { "count": 4, "name": "Bunnelby", "set": "PRC", "number": "121" },
@@ -158,7 +158,7 @@ let masters = [
         { "count": 1, "name": "Girafarig", "set": "LOT", "number": "94" },
         { "count": 1, "name": "Jirachi", "set": "PR-XY", "number": "67" },
         { "count": 1, "name": "Firefighter Pikachu", "set": "FR", "number": "25" },
-        { "count": 1, "name": "Manaphy", "set": "BRS", "number": "41" },
+        { "count": 1, "name": "Manaphy", "set": "BRS", "number": "41" }
       ],
       "trainer": [
         { "count": 4, "name": "Guzma & Hala", "set": "CEC", "number": "193" },
@@ -175,24 +175,24 @@ let masters = [
         { "count": 2, "name": "Technical Machine: Evolution", "set": "PAR", "number": "178" },
         { "count": 2, "name": "Stealthy Hood", "set": "UNB", "number": "186" },
         { "count": 1, "name": "Float Stone", "set": "PLF", "number": "99" },
-        { "count": 2, "name": "Artazon", "set": "PAF", "number": "76" },
+        { "count": 2, "name": "Artazon", "set": "PAF", "number": "76" }
       ],
       "energy": [
         { "count": 2, "name": "Grass Energy", "set": "BLW", "number": "105" },
         { "count": 2, "name": "Capture Energy", "set": "RCL", "number": "171" },
         { "count": 2, "name": "Jet Energy", "set": "PAL", "number": "190" },
         { "count": 1, "name": "Gift Energy", "set": "LOR", "number": "171" },
-        { "count": 1, "name": "Neo Upper Energy", "set": "TEF", "number": "162" },
+        { "count": 1, "name": "Neo Upper Energy", "set": "TEF", "number": "162" }
       ]
     }
   },
   {
-    "firstName": "Takahiro Shirai",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Takahiro Shirai",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/lugia.png',
-    sprite2: '../../../../assets/sprites/archeops.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "lugia.png",
+    "sprite2": "../../../../assets/sprites/archeops",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         { "count": 2, "name": "Lugia VSTAR", "set": "SIT", "number": "139" },
@@ -207,7 +207,7 @@ let masters = [
         { "count": 1, "name": "Crobat V", "set": "DAA", "number": "104" },
         { "count": 1, "name": "Squawkabilly ex", "set": "PAF", "number": "75" },
         { "count": 1, "name": "Oranguru", "set": "SSH", "number": "148" },
-        { "count": 1, "name": "Sudowoodo", "set": "GRI", "number": "66" },
+        { "count": 1, "name": "Sudowoodo", "set": "GRI", "number": "66" }
       ],
       "trainer": [
         { "count": 2, "name": "Professor Juniper", "set": "BLW", "number": "101" },
@@ -225,21 +225,21 @@ let masters = [
         { "count": 1, "name": "Rescue Stretcher", "set": "GRI", "number": "130" },
         { "count": 1, "name": "Hisuian Heavy Ball", "set": "ASR", "number": "146" },
         { "count": 1, "name": "Prime Catcher", "set": "TEF", "number": "157" },
-        { "count": 3, "name": "Sky Field", "set": "ROS", "number": "89" },
+        { "count": 3, "name": "Sky Field", "set": "ROS", "number": "89" }
       ],
       "energy": [
         { "count": 4, "name": "Double Colorless Energy", "set": "NXD", "number": "92" },
-        { "count": 3, "name": "Double Dragon Energy", "set": "ROS", "number": "97" },
+        { "count": 3, "name": "Double Dragon Energy", "set": "ROS", "number": "97" }
       ]
     }
   },
   {
-    "firstName": "Shintaro Ikejima",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Shintaro Ikejima",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/regidrago.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "blank",
+    "sprite2": "../../../../assets/sprites/regidrago",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         { "count": 4, "name": "Regidrago V", "set": "SIT", "number": "135" },
@@ -255,7 +255,7 @@ let masters = [
         { "count": 1, "name": "Crobat V", "set": "DAA", "number": "104" },
         { "count": 1, "name": "Tapu Lele-GX", "set": "GRI", "number": "60" },
         { "count": 1, "name": "Wobbuffet", "set": "PHF", "number": "36" },
-        { "count": 1, "name": "Oricorio", "set": "GRI", "number": "55" },
+        { "count": 1, "name": "Oricorio", "set": "GRI", "number": "55" }
       ],
       "trainer": [
         { "count": 1, "name": "Professor Juniper", "set": "BLW", "number": "101" },
@@ -275,22 +275,22 @@ let masters = [
         { "count": 1, "name": "Scoop Up Cyclone", "set": "PLB", "number": "95" },
         { "count": 4, "name": "Float Stone", "set": "PLF", "number": "99" },
         { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
-        { "count": 1, "name": "Chaotic Swell", "set": "CEC", "number": "187" },
+        { "count": 1, "name": "Chaotic Swell", "set": "CEC", "number": "187" }
       ],
       "energy": [
         { "count": 4, "name": "Double Dragon Energy", "set": "ROS", "number": "97" },
         { "count": 3, "name": "Grass Energy", "set": "BLW", "number": "105" },
-        { "count": 2, "name": "Fire Energy", "set": "BLW", "number": "106" },
+        { "count": 2, "name": "Fire Energy", "set": "BLW", "number": "106" }
       ]
     }
   },
   {
-    "firstName": "Yamato Mizota",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Yamato Mizota",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/regidrago.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "blank",
+    "sprite2": "../../../../assets/sprites/regidrago",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         { "count": 4, "name": "Regidrago V", "set": "SIT", "number": "135" },
@@ -305,7 +305,7 @@ let masters = [
         { "count": 1, "name": "Dedenne-GX", "set": "UNB", "number": "57" },
         { "count": 1, "name": "Crobat V", "set": "DAA", "number": "104" },
         { "count": 1, "name": "Tapu Lele-GX", "set": "GRI", "number": "60" },
-        { "count": 1, "name": "Wobbuffet", "set": "PHF", "number": "36" },
+        { "count": 1, "name": "Wobbuffet", "set": "PHF", "number": "36" }
       ],
       "trainer": [
         { "count": 1, "name": "Professor Juniper", "set": "BLW", "number": "101" },
@@ -325,22 +325,22 @@ let masters = [
         { "count": 1, "name": "Scoop Up Cyclone", "set": "PLB", "number": "95" },
         { "count": 3, "name": "Float Stone", "set": "PLF", "number": "99" },
         { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
-        { "count": 1, "name": "Viridian Forest", "set": "TEU", "number": "156" },
+        { "count": 1, "name": "Viridian Forest", "set": "TEU", "number": "156" }
       ],
       "energy": [
         { "count": 3, "name": "Grass Energy", "set": "BLW", "number": "105" },
         { "count": 1, "name": "Fire Energy", "set": "BLW", "number": "106" },
-        { "count": 4, "name": "Double Dragon Energy", "set": "ROS", "number": "97" },
+        { "count": 4, "name": "Double Dragon Energy", "set": "ROS", "number": "97" }
       ]
     }
   },
   {
-    "firstName": "Daisuke Kominato",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Daisuke Kominato",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/gouging-fire.png',
-    sprite2: '../../../../assets/sprites/volcanion.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "gouging-fire.png",
+    "sprite2": "../../../../assets/sprites/volcanion",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         { "count": 3, "name": "Gouging Fire ex", "set": "TEF", "number": "38" },
@@ -349,7 +349,7 @@ let masters = [
         { "count": 1, "name": "Delphox V", "set": "LOR", "number": "27" },
         { "count": 1, "name": "Radiant Charizard", "set": "CRZ", "number": "20" },
         { "count": 1, "name": "Tapu Lele-GX", "set": "GRI", "number": "60" },
-        { "count": 1, "name": "Crobat V", "set": "DAA", "number": "104" },
+        { "count": 1, "name": "Crobat V", "set": "DAA", "number": "104" }
       ],
       "trainer": [
         { "count": 4, "name": "Welder", "set": "UNB", "number": "189" },
@@ -372,20 +372,20 @@ let masters = [
         { "count": 2, "name": "Ancient Booster Energy Capsule", "set": "PAR", "number": "159" },
         { "count": 1, "name": "Forest Seal Stone", "set": "SIT", "number": "156" },
         { "count": 2, "name": "Giant Hearth", "set": "UNM", "number": "197" },
-        { "count": 1, "name": "Heat Factory ◇", "set": "LOT", "number": "178" },
+        { "count": 1, "name": "Heat Factory ◇", "set": "LOT", "number": "178" }
       ],
       "energy": [
-        { "count": 10, "name": "Basic Fire Energy", "set": "SVE", "number": "2" },
+        { "count": 10, "name": "Basic Fire Energy", "set": "SVE", "number": "2" }
       ]
     }
   },
   {
-    "firstName": "Toshiki Nozaki",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Toshiki Nozaki",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/mew-vmax.png',
-    sprite2: '../../../../assets/sprites/genesect.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "mew-vmax.png",
+    "sprite2": "../../../../assets/sprites/genesect",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         { "count": 3, "name": "Mew VMAX", "set": "FST", "number": "114" },
@@ -394,7 +394,7 @@ let masters = [
         { "count": 1, "name": "Oricorio", "set": "FST", "number": "42" },
         { "count": 1, "name": "Seismitoad-EX", "set": "FFI", "number": "20" },
         { "count": 1, "name": "Sudowoodo", "set": "GRI", "number": "66" },
-        { "count": 1, "name": "Marshadow", "set": "UNB", "number": "81" },
+        { "count": 1, "name": "Marshadow", "set": "UNB", "number": "81" }
       ],
       "trainer": [
         { "count": 1, "name": "Guzma", "set": "BUS", "number": "115" },
@@ -416,20 +416,20 @@ let masters = [
         { "count": 1, "name": "Unfair Stamp", "set": "FR", "number": "27" },
         { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
         { "count": 1, "name": "Forest Seal Stone", "set": "SIT", "number": "156" },
-        { "count": 3, "name": "Path to the Peak", "set": "CRE", "number": "148" },
+        { "count": 3, "name": "Path to the Peak", "set": "CRE", "number": "148" }
       ],
       "energy": [
-        { "count": 4, "name": "Double Colorless Energy", "set": "NXD", "number": "92" },
+        { "count": 4, "name": "Double Colorless Energy", "set": "NXD", "number": "92" }
       ]
     }
   },
   {
-    "firstName": "Tsubasa Kaeriyama",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Tsubasa Kaeriyama",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/regidrago.png',
-    sprite2: '../../../../assets/sprites/garbodor.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "regidrago.png",
+    "sprite2": "../../../../assets/sprites/garbodor",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         { "count": 4, "name": "Regidrago V", "set": "SIT", "number": "135" },
@@ -445,7 +445,7 @@ let masters = [
         { "count": 1, "name": "Crobat V", "set": "DAA", "number": "104" },
         { "count": 1, "name": "Tapu Lele-GX", "set": "GRI", "number": "60" },
         { "count": 1, "name": "Wobbuffet", "set": "PHF", "number": "36" },
-        { "count": 1, "name": "Marshadow", "set": "UNB", "number": "81" },
+        { "count": 1, "name": "Marshadow", "set": "UNB", "number": "81" }
       ],
       "trainer": [
         { "count": 1, "name": "Professor Juniper", "set": "BLW", "number": "101" },
@@ -467,26 +467,26 @@ let masters = [
         { "count": 1, "name": "Scoop Up Cyclone", "set": "PLB", "number": "95" },
         { "count": 4, "name": "Float Stone", "set": "PLF", "number": "99" },
         { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
-        { "count": 1, "name": "Chaotic Swell", "set": "CEC", "number": "187" },
+        { "count": 1, "name": "Chaotic Swell", "set": "CEC", "number": "187" }
       ],
       "energy": [
         { "count": 2, "name": "Grass Energy", "set": "BLW", "number": "105" },
         { "count": 1, "name": "Fire Energy", "set": "BLW", "number": "106" },
-        { "count": 4, "name": "Double Dragon Energy", "set": "ROS", "number": "97" },
+        { "count": 4, "name": "Double Dragon Energy", "set": "ROS", "number": "97" }
       ]
     }
   },
   {
-    "firstName": "Tsubasa Wada",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Tsubasa Wada",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/iron-thorns.png',
-    sprite2: '../../../../assets/sprites/wobbuffet.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "iron-thorns.png",
+    "sprite2": "../../../../assets/sprites/wobbuffet",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         { "count": 4, "name": "Iron Thorns ex", "number": "26", "set": "FR" },
-        { "count": 4, "name": "Wobbuffet", "set": "PHF", "number": "36" },
+        { "count": 4, "name": "Wobbuffet", "set": "PHF", "number": "36" }
       ],
       "trainer": [
         { "count": 4, "name": "Plumeria", "set": "BUS", "number": "120" },
@@ -507,22 +507,22 @@ let masters = [
         { "count": 3, "name": "Crushing Hammer", "set": "EPO", "number": "92" },
         { "count": 1, "name": "Unfair Stamp", "set": "FR", "number": "27" },
         { "count": 3, "name": "Chaotic Swell", "set": "CEC", "number": "187" },
-        { "count": 1, "name": "Wondrous Labyrinth ◇", "set": "TEU", "number": "158" },
+        { "count": 1, "name": "Wondrous Labyrinth ◇", "set": "TEU", "number": "158" }
       ],
       "energy": [
         { "count": 4, "name": "Speed Lightning Energy", "set": "RCL", "number": "173" },
         { "count": 2, "name": "Counter Energy", "set": "CIN", "number": "100" },
-        { "count": 2, "name": "Capture Energy", "set": "RCL", "number": "171" },
+        { "count": 2, "name": "Capture Energy", "set": "RCL", "number": "171" }
       ]
     }
   },
   {
-    "firstName": "Toshiyuki Suzuki",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Toshiyuki Suzuki",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/vileplume.png',
-    sprite2: '../../../../assets/sprites/bunnelby.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "vileplume.png",
+    "sprite2": "../../../../assets/sprites/bunnelby",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         {"count": 3, "name": "Oddish", "set": "UNB", "number": "5"},
@@ -537,7 +537,7 @@ let masters = [
 { "count": 1, "name": "Iron Thorns ex", "number": "26", "set": "FR" },
 {"count": 1, "name": "Alolan Meowth", "set": "PR-SM", "number": "51"},
 {"count": 1, "name": "Alolan Persian-GX", "set": "CEC", "number": "129"},
-{"count": 1, "name": "Girafarig", "set": "LOT", "number": "94"},
+{"count": 1, "name": "Girafarig", "set": "LOT", "number": "94"}
       ],
       "trainer": [
         {"count": 4, "name": "Guzma & Hala", "set": "CEC", "number": "193"},
@@ -564,12 +564,12 @@ let masters = [
     }
   },
   {
-    "firstName": "Harto Miki",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Harto Miki",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/raichu-alola.png',
-    sprite2: '../../../../assets/sprites/electrode.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "raichu-alola.png",
+    "sprite2": "../../../../assets/sprites/electrode",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         {"count": 3, "name": "Unown", "set": "AOR", "number": "30"},
@@ -598,22 +598,22 @@ let masters = [
         {"count": 1, "name": "Computer Search", "set": "BCR", "number": "137"},
         {"count": 1, "name": "Forest Seal Stone", "set": "SIT", "number": "156"},
         {"count": 1, "name": "U-Turn Board", "set": "UNM", "number": "211"},
-        {"count": 4, "name": "Sky Field", "set": "ROS", "number": "89"},
+        {"count": 4, "name": "Sky Field", "set": "ROS", "number": "89"}
       ],
       "energy": [
         {"count": 4, "name": "Reversal Energy", "set": "PAL", "number": "192"},
         {"count": 4, "name": "Counter Energy", "set": "CIN", "number": "100"},
-        {"count": 3, "name": "Unit Energy LPM", "set": "UPR", "number": "138"},
+        {"count": 3, "name": "Unit Energy LPM", "set": "UPR", "number": "138"}
       ]
     }
   },
   {
-    "firstName": "Natsuki Terashima",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Natsuki Terashima",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/regidrago.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "blank",
+    "sprite2": "../../../../assets/sprites/regidrago",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         {"count": 4, "name": "Regidrago V", "set": "SIT", "number": "135"},
@@ -650,7 +650,7 @@ let masters = [
         {"count": 1, "name": "Scoop Up Cyclone", "set": "PLB", "number": "95"},
         {"count": 4, "name": "Float Stone", "set": "BKT", "number": "137"},
         {"count": 2, "name": "Muscle Band", "set": "XY", "number": "121"},
-        {"count": 1, "name": "Chaotic Swell", "set": "CEC", "number": "187"},
+        {"count": 1, "name": "Chaotic Swell", "set": "CEC", "number": "187"}
       ],
       "energy": [
         {"count": 4, "name": "Double Dragon Energy", "set": "ROS", "number": "97"},
@@ -660,12 +660,12 @@ let masters = [
     }
   },
   {
-    "firstName": "Hiromu Nagata",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Hiromu Nagata",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/regidrago.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "blank",
+    "sprite2": "../../../../assets/sprites/regidrago",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         {"count": 4, "name": "Regidrago V", "set": "SIT", "number": "135"},
@@ -703,22 +703,22 @@ let masters = [
         {"count": 1, "name": "Scoop Up Cyclone", "set": "PLB", "number": "95"},
         {"count": 4, "name": "Float Stone", "set": "BKT", "number": "137"},
         {"count": 2, "name": "Muscle Band", "set": "XY", "number": "121"},
-        {"count": 1, "name": "Chaotic Swell", "set": "CEC", "number": "187"},
+        {"count": 1, "name": "Chaotic Swell", "set": "CEC", "number": "187"}
       ],
       "energy": [
         {"count": 4, "name": "Double Dragon Energy", "set": "ROS", "number": "97"},
         {"count": 2, "name": "Grass", "set": "Energy", "number": "1"},
-        {"count": 1, "name": "Fire", "set": "Energy", "number": "2"},
+        {"count": 1, "name": "Fire", "set": "Energy", "number": "2"}
       ]
     }
   },
   {
-    "firstName": "Daiki Igarashi",
-    flag: '../../../../assets/flags/japan.png',
+    "name": "Daiki Igarashi",
+    "flag": "JP",
     "event": "2024 Aichi Champions League",
-    sprite1: '../../../../assets/sprites/lugia.png',
-    sprite2: '../../../../assets/sprites/archeops.png',
-    list: '../../../../assets/list-icon.png',
+    "sprite1": "lugia.png",
+    "sprite2": "../../../../assets/sprites/archeops",
+    list: '../../../../assets/list-icon",
     "decklist": {
       "pokemon": [
         { "count": 3, "name": "Lugia VSTAR", "set": "SIT", "number": "139" },
@@ -730,7 +730,7 @@ let masters = [
         { "count": 1, "name": "Flutter Mane", "set": "TEF", "number": "78" },
         { "count": 2, "name": "Tapu Lele-GX", "set": "GRI", "number": "60" },
         { "count": 1, "name": "Dedenne-GX", "set": "UNB", "number": "57" },
-        { "count": 1, "name": "Crobat V", "set": "DAA", "number": "104" },
+        { "count": 1, "name": "Crobat V", "set": "DAA", "number": "104" }
       ],
       "trainer": [
         { "count": 2, "name": "Professor Juniper", "set": "BLW", "number": "101" },
@@ -748,12 +748,12 @@ let masters = [
         { "count": 1, "name": "Rescue Stretcher", "set": "GRI", "number": "130" },
         { "count": 1, "name": "Hisuian Heavy Ball", "set": "ASR", "number": "146" },
         { "count": 1, "name": "Computer Search", "set": "BCR", "number": "137" },
-        { "count": 2, "name": "Silent Lab", "set": "PRC", "number": "140" },
+        { "count": 2, "name": "Silent Lab", "set": "PRC", "number": "140" }
       ],
       "energy": [
         { "count": 4, "name": "Double Colorless Energy", "set": "LTR", "number": "113" },
         { "count": 4, "name": "Prism Energy", "set": "NXD", "number": "93" },
-        { "count": 2, "name": "Aurora Energy", "set": "SSH", "number": "186" },
+        { "count": 2, "name": "Aurora Energy", "set": "SSH", "number": "186" }
       ]
     }
   },

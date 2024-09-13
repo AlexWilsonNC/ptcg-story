@@ -1,19 +1,19 @@
-let masters = [
+"masters": [
     {
-      firstName: 'Andy Younger',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/virizion.png',
-      sprite2: '../../../assets/sprites/raichu.png',
-      list: '../../../assets/list-icon.png',
-      type: 'dark',
-      event: '2014 US National Championships - Juniors',
-      decklist: {
+      "name": "Andy Younger",
+      "flag": "US",
+      "sprite1": "virizion",
+      "sprite2": "raichu",
+       
+      type: 'dark",
+      event: '2014 US National Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 4, "name": "Virizion-EX", "set": "PLB", "number": "9" },
           { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
           { "count": 2, "name": "Raichu", "set": "XY", "number": "43" },
           { "count": 2, "name": "Pikachu", "set": "XY", "number": "42" },
-          { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60" },
+          { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60" }
         ], "trainer": [
           { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
           { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -30,7 +30,7 @@ let masters = [
           { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
           { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
           { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
-          { "count": 3, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" },
+          { "count": 3, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" }
         ], "energy": [
           { "count": 10, "name": "Grass Energy", "set": "XY", "number": "132" },
           { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" },
@@ -38,20 +38,20 @@ let masters = [
       },
     },
     {
-      firstName: 'Jon-Luke Modory',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/virizion.png',
-      sprite2: '../../../assets/sprites/raichu.png',
-      list: '../../../assets/list-icon.png',
-      type: 'dark',
-      event: '2014 US National Championships - Juniors',
-      decklist: {
+      "name": "Jon-Luke Modory",
+      "flag": "US",
+      "sprite1": "virizion",
+      "sprite2": "raichu",
+       
+      type: 'dark",
+      event: '2014 US National Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 4, "name": "Virizion-EX", "set": "PLB", "number": "9" },
           { "count": 3, "name": "Genesect-EX", "set": "PLB", "number": "11" },
           { "count": 2, "name": "Raichu", "set": "XY", "number": "43" },
           { "count": 2, "name": "Pikachu", "set": "XY", "number": "42" },
-          { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60" },
+          { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60" }
         ], "trainer": [
           { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
           { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -69,7 +69,7 @@ let masters = [
           { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
           { "count": 1, "name": "Super Rod", "set": "NVI", "number": "95" },
           { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
-          { "count": 2, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" },
+          { "count": 2, "name": "Skyarrow Bridge", "set": "NXD", "number": "91" }
         ], "energy": [
           { "count": 10, "name": "Grass Energy", "set": "XY", "number": "132" },
           { "count": 4, "name": "Plasma Energy", "set": "PLS", "number": "127" },
@@ -78,21 +78,21 @@ let masters = [
       },
     },
     {
-      firstName: 'Rachel Schmaus',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/yveltal.png',
-      sprite2: '../../../assets/sprites/raichu.png',
-      list: '../../../assets/list-icon.png',
-      type: 'dark',
-      event: '2014 US National Championships - Juniors',
-      decklist: {
+      "name": "Rachel Schmaus",
+      "flag": "US",
+      "sprite1": "yveltal",
+      "sprite2": "raichu",
+       
+      type: 'dark",
+      event: '2014 US National Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
           { "count": 2, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
           { "count": 2, "name": "Raichu", "set": "XY", "number": "43" },
           { "count": 2, "name": "Pikachu", "set": "XY", "number": "42" },
           { "count": 2, "name": "Sableye", "set": "DEX", "number": "62" },
-          { "count": 1, "name": "Druddigon", "set": "FLF", "number": "70" },
+          { "count": 1, "name": "Druddigon", "set": "FLF", "number": "70" }
         ], "trainer": [
           { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
           { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -108,7 +108,7 @@ let masters = [
           { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
           { "count": 2, "name": "Muscle Band", "set": "XY", "number": "121" },
           { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" },
-          { "count": 1, "name": "Shadow Circle", "set": "XY", "number": "126" },
+          { "count": 1, "name": "Shadow Circle", "set": "XY", "number": "126" }
         ], "energy": [
           { "count": 9, "name": "Darkness Energy", "set": "XY", "number": "138" },
           { "count": 3, "name": "Double Colorless Energy", "set": "XY", "number": "130" },
@@ -116,14 +116,14 @@ let masters = [
       },
     },
     {
-      firstName: 'Hatch Cunningham',
-      flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/yveltal.png',
-      sprite2: '../../../assets/sprites/raichu.png',
-      list: '../../../assets/list-icon.png',
-      type: 'dark',
-      event: '2014 US National Championships - Juniors',
-      decklist: {
+      "name": "Hatch Cunningham",
+      "flag": "US",
+      "sprite1": "yveltal",
+      "sprite2": "raichu",
+       
+      type: 'dark",
+      event: '2014 US National Championships - Juniors",
+      "decklist": {
         "pokemon": [
           { "count": 3, "name": "Yveltal-EX", "set": "XY", "number": "79" },
           { "count": 2, "name": "Darkrai-EX", "set": "DEX", "number": "63" },
@@ -131,7 +131,7 @@ let masters = [
           { "count": 2, "name": "Pikachu", "set": "XY", "number": "42" },
           { "count": 1, "name": "Yveltal", "set": "XY", "number": "78" },
           { "count": 1, "name": "Druddigon", "set": "FLF", "number": "70" },
-          { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60" },
+          { "count": 1, "name": "Jirachi-EX", "set": "PLB", "number": "60" }
         ], "trainer": [
           { "count": 4, "name": "Professor Sycamore", "set": "XY", "number": "122" },
           { "count": 4, "name": "N", "set": "PR-BLW", "number": "100" },
@@ -148,7 +148,7 @@ let masters = [
           { "count": 1, "name": "Professor's Letter", "set": "XY", "number": "123" },
           { "count": 3, "name": "Muscle Band", "set": "XY", "number": "121" },
           { "count": 3, "name": "Pokémon Center", "set": "NXD", "number": "90" }, ,
-          { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" },
+          { "count": 2, "name": "Virbank City Gym", "set": "PLS", "number": "126" }
         ], "energy": [
           { "count": 7, "name": "Darkness Energy", "set": "XY", "number": "138" },
           { "count": 4, "name": "Double Colorless Energy", "set": "XY", "number": "130" },

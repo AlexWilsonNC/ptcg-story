@@ -1,13 +1,11 @@
-let masters = [
+"masters": [
     {
-        "firstName": "Harrison Leven",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Harrison Leven",
+        "flag": "US",
         "event": "2015 Overland Park Regionals",
-        sprite1: '../../../../assets/sprites/yveltal.png',
-        sprite2: '../../../../assets/sprites/archeops.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "yveltal",
+        "sprite2": "archeops",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -18,13 +16,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Caleb Gedemer",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Caleb Gedemer",
+        "flag": "US",
         "event": "2015 Overland Park Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gardevoir-mega.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "gardevoir-mega",
+"decklist": {
             "pokemon": [
                 { "count": 2, "name": "M Gardevoir-EX", "number": "106", "set": "PRC" },
                 { "count": 3, "name": "Gardevoir-EX", "number": "105", "set": "PRC" },
@@ -56,13 +53,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Jordan Roberts",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Jordan Roberts",
+        "flag": "US",
         "event": "2015 Overland Park Regionals",
-        sprite1: '../../../../assets/sprites/seismitoad.png',
-        sprite2: '../../../../assets/sprites/archeops.png',
-        list: '../../../../assets/list-icon.png',
-        "decklist": {
+        "sprite1": "seismitoad",
+        "sprite2": "archeops",
+"decklist": {
             "pokemon": [
                 { "count": 4, "name": "Seismitoad-EX", "number": "20", "set": "FFI" },
                 { "count": 2, "name": "Munna", "number": "68", "set": "BCR" },
@@ -93,14 +89,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Travis Nunlist",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Travis Nunlist",
+        "flag": "US",
         "event": "2015 Overland Park Regionals",
-        sprite1: '../../../../assets/sprites/rayquaza.png',
-        sprite2: '../../../../assets/sprites/eelektrik.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "rayquaza",
+        "sprite2": "eelektrik",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -111,14 +105,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Kevin Norton",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Kevin Norton",
+        "flag": "US",
         "event": "2015 Overland Park Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/seismitoad.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "seismitoad",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -129,14 +121,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Kyle Haverland",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Kyle Haverland",
+        "flag": "US",
         "event": "2015 Overland Park Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/groudon-primal.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "groudon-primal",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -147,14 +137,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Michael Slutsky",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Michael Slutsky",
+        "flag": "US",
         "event": "2015 Overland Park Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/klinklang.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "klinklang",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
@@ -165,14 +153,12 @@ let masters = [
         }
     },
     {
-        "firstName": "Shawn Bernaky",
-        flag: '../../../../assets/flags/usa.png',
+        "name": "Shawn Bernaky",
+        "flag": "US",
         "event": "2015 Overland Park Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/gardevoir-mega.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
+        "sprite1": "blank",
+        "sprite2": "gardevoir-mega",
+         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
             ], "trainer": [
