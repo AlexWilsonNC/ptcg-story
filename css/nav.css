@@ -43,7 +43,7 @@
 }
 .legendsr {
     font-size: 46px;
-    font-family: 'Permanent Marker", cursive;
+    font-family: "Permanent Marker", cursive;
     text-shadow: 1px 1px 1px black;
     color: rgb(197, 142, 23);
 }
@@ -128,7 +128,9 @@
 .push-right {
     display: flex;
     justify-content: flex-end;
-    margin-right: 40px;
+}
+.push-right1 p {
+  font-size: 14px;
 }
 #toggle {
     position: relative;
@@ -386,11 +388,11 @@
         margin-top: 34px;
     }
   }
-  @media screen and (max-width: 700px) {
+  /* @media screen and (max-width: 700px) {
     .push-right1 {
         margin-right: 20px;
     }
-  }
+  } */
   @media screen and (max-width: 700px) {
     .tittle {
         font-size: 14px;
